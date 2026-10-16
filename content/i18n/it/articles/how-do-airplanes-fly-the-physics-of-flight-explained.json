@@ -1,0 +1,53 @@
+{
+  "title": "Come volano gli aerei? La fisica del volo spiegata",
+  "description": "Scopri la scienza dietro il volo degli aerei. Impara il ruolo di portanza, resistenza, spinta e gravità in una guida divertente e facile da capire.",
+  "category": "Science",
+  "sections": [
+    {
+      "heading": "Le quattro forze del volo",
+      "paragraphs": [
+        "Hai mai guardato fuori dal finestrino di un aereo a 10.000 metri di quota chiedendoti: \"Com'è possibile che questo gigantesco tubo di metallo stia lassù?\" Sembra una specie di magia, ma in realtà è una splendida danza di pura fisica. In ogni singolo momento del volo, un aereo è governato da quattro forze fondamentali: portanza, gravità, spinta e resistenza.",
+        "Per capire il volo, basta comprendere come queste forze interagiscono tra loro. Quando un aereo è parcheggiato sulla pista, tutto è in perfetto equilibrio. Una volta iniziato il viaggio, i piloti e i motori manipolano queste forze per sfidare la gravità e scivolare dolcemente nel cielo."
+      ]
+    },
+    {
+      "heading": "Spinta e resistenza: la caccia alla velocità",
+      "paragraphs": [
+        "Iniziamo con il movimento in avanti. La spinta è la forza propulsiva generata dai motori dell'aereo. Che si tratti di enormi turbine a reazione o di eliche rotanti, il loro unico compito è spingere l'aereo in avanti attraverso l'aria. Senza spinta, sei solo un aliante molto pesante.",
+        "A contrastare questo slancio in avanti c'è la resistenza aerodinamica. La resistenza è l'attrito dell'aria contro l'aereo. Immagina di mettere la mano fuori dal finestrino di un'auto in corsa e sentire il vento che la spinge indietro. Gli aerei sono progettati con curve lisce e aerodinamiche per ridurre al minimo la resistenza, permettendo ai motori di spingerli in avanti in modo efficiente."
+      ]
+    },
+    {
+      "heading": "Portanza e gravità: la battaglia verticale",
+      "paragraphs": [
+        "Mentre spinta e resistenza gestiscono il movimento orizzontale, la portanza e la gravità combattono la battaglia verticale. La gravità è la forza verso il basso che tira l'aereo verso il centro della Terra. È costante, pesante e cerca incessantemente di tenere i piedi ben saldi a terra.",
+        "Per vincere la gravità, l'aereo deve generare portanza. La portanza è la forza verso l'alto creata dalle ali mentre si muovono nell'aria. Man mano che i motori forniscono la spinta per far correre l'aereo lungo la pista, l'aria scorre sopra e sotto le ali dalla forma speciale, creando la portanza necessaria per sollevare il velivolo tra le nuvole."
+      ]
+    },
+    {
+      "heading": "La magia delle ali",
+      "paragraphs": [
+        "Quindi, come fanno esattamente le ali a creare portanza? Tutto si riduce alla pressione dell'aria e alla forma dell'ala, nota come profilo aerodinamico. Man mano che l'aereo procede in avanti, l'ala divide l'aria che incontra. A causa della forma curva della parte superiore dell'ala e della sua leggera inclinazione, l'aria che passa sopra deve muoversi più velocemente rispetto a quella che passa sotto.",
+        "Secondo i principi della fluidodinamica, l'aria che si muove più velocemente crea una pressione inferiore, mentre l'aria più lenta sottostante crea una pressione maggiore. Quest'aria ad alta pressione sotto l'ala spinge verso l'alto, sollevando di fatto l'intero aereo nel cielo. Quando la portanza verso l'alto eguaglia o supera la forza della gravità verso il basso, stai ufficialmente volando!"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Cosa succede se entrambi i motori di un aereo di linea si guastano?",
+      "a": "Gli aerei sono progettati per planare anche se i motori smettono di funzionare. I piloti ricevono un addestramento approfondito per far planare il velivolo in sicurezza verso una pista, scambiando quota con velocità in avanti e distanza."
+    },
+    {
+      "q": "Perché le ali degli aerei si curvano verso l'alto alle estremità?",
+      "a": "Queste estremità rivolte verso l'alto si chiamano winglet (alule). Riducono i vortici d'aria turbolenta che si formano alle punte delle ali, diminuendo la resistenza e aiutando l'aereo a consumare meno carburante durante il volo."
+    },
+    {
+      "q": "Gli aerei possono volare a testa in giù?",
+      "a": "Sì, i jet militari e gli aerei acrobatici possono volare capovolti perché possono inclinare le ali per spingere l'aria in modo da generare una forza verso l'alto anche quando sono rovesciati. Gli aerei di linea commerciali, tuttavia, non sono costruiti per questo!"
+    }
+  ],
+  "slug": "how-do-airplanes-fly-the-physics-of-flight-explained",
+  "date": "2026-10-14",
+  "topic": "How Do Airplanes Fly? The Physics of Lift, Drag, and Thrust Explained",
+  "trending": false
+}

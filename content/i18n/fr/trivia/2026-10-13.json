@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-13",
+  "title": "Le casse-tête du jour : 13 octobre 2026",
+  "questions": [
+    {
+      "category": "Géographie",
+      "question": "Quel pays européen arbore un drapeau composé d'une croix blanche sur fond rouge qui a la particularité d'être carré ?",
+      "options": [
+        "Danemark",
+        "Cité du Vatican",
+        "Autriche",
+        "Suisse"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Avec la Cité du Vatican, la Suisse est l'un des deux seuls pays souverains au monde à posséder un drapeau national carré."
+    },
+    {
+      "category": "Science",
+      "question": "Quel est le nom usuel du composé chimique chlorure de sodium ?",
+      "options": [
+        "Bicarbonate de soude",
+        "Sel de table",
+        "Vinaigre",
+        "Sel d'Epsom"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Le chlorure de sodium est essentiel à la vie animale, mais une consommation excessive peut s'avérer nocive pour de nombreuses espèces."
+    },
+    {
+      "category": "Histoire",
+      "question": "Au cours de quel mois de l'année 1912 le Titanic a-t-il coulé dans l'océan Atlantique Nord ?",
+      "options": [
+        "Avril",
+        "Mai",
+        "Juin",
+        "Mars"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le RMS Titanic a heurté un iceberg dans la nuit du 14 avril et a coulé aux premières heures du 15 avril 1912."
+    },
+    {
+      "category": "Films et pop culture",
+      "question": "Quel film d'animation fantastique du Studio Ghibli sorti en 2001 met en scène une jeune fille nommée Chihiro qui pénètre dans un monde magique d'esprits ?",
+      "options": [
+        "Le Château ambulant",
+        "Princesse Mononoké",
+        "Le Voyage de Chihiro",
+        "Mon voisin Totoro"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le Voyage de Chihiro a remporté l'Oscar du meilleur film d'animation lors de la 75e cérémonie des Oscars."
+    },
+    {
+      "category": "Gastronomie",
+      "question": "Quelle est la principale base alcoolisée utilisée pour préparer un cocktail Dark 'n' Stormy traditionnel ?",
+      "options": [
+        "Rhum brun",
+        "Vodka",
+        "Tequila",
+        "Gin"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Un véritable Dark 'n' Stormy nécessite spécifiquement du rhum Gosling's Black Seal et de la bière de gingembre pour bénéficier d'une protection de marque."
+    },
+    {
+      "category": "Animaux",
+      "question": "Quelle caractéristique physique unique toutes les espèces de dendrolagues (kangourous arboricoles) adultes possèdent-elles qui les distingue de la plupart des autres macropodes ?",
+      "options": [
+        "Des pieds palmés pour nager",
+        "La capacité de voler sur de courtes distances",
+        "Une fourrure phosphorescente",
+        "Des queues préhensiles pour saisir les branches"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Contrairement aux kangourous terrestres, les kangourous arboricoles possèdent de longues queues non préhensiles utilisées principalement pour l'équilibre, ainsi que des griffes recourbées adaptées à l'escalade."
+    },
+    {
+      "category": "Sport",
+      "question": "Au golf, quel terme désigne un score d'un coup inférieur au par sur un trou donné ?",
+      "options": [
+        "Albatros",
+        "Eagle",
+        "Birdie",
+        "Bogey"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le terme « birdie » est apparu aux États-Unis à la fin du XIXe siècle à partir d'un argot signifiant « excellent » ou « oiseau »."
+    },
+    {
+      "category": "Langue",
+      "question": "Quel terme linguistique utilise-t-on pour désigner un mot qui se prononce de la même manière qu'un autre mais qui a un sens différent et souvent une orthographe différente, comme « ver », « vert » et « verre » ?",
+      "options": [
+        "Synonyme",
+        "Homographe",
+        "Homophone",
+        "Acronyme"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Les homophones peuvent être source de confusion à l'écrit car leur orthographe ne correspond pas toujours à leurs sons communs."
+    },
+    {
+      "category": "Espace",
+      "question": "Quel satellite de Jupiter est l'astre le plus volcaniquement actif de tout notre système solaire ?",
+      "options": [
+        "Ganymède",
+        "Callisto",
+        "Io",
+        "Europe"
+      ],
+      "answer_index": 2,
+      "fun_fact": "L'activité volcanique extrême d'Io est alimentée par un chauffage de marée résultant de sa lutte gravitationnelle avec Jupiter et ses grandes lunes voisines."
+    },
+    {
+      "category": "Science",
+      "question": "Quel est le nom du processus par lequel un solide se transforme directement en gaz sans passer par l'état liquide ?",
+      "options": [
+        "Évaporation",
+        "Condensation",
+        "Sublimation",
+        "Dépôt"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La neige carbonique, qui est du dioxyde de carbone solide, est un exemple quotidien courant d'une substance qui subit une sublimation à température ambiante."
+    }
+  ]
+}

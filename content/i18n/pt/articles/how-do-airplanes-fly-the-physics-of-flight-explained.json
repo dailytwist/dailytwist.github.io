@@ -1,0 +1,53 @@
+{
+  "title": "Como os Aviões Voam? A Física do Voo Explicada",
+  "description": "Descubra a ciência por trás de como os aviões voam. Aprenda os papéis da sustentação, do arrasto, da tração e da gravidade em um guia divertido e fácil de entender.",
+  "category": "Science",
+  "sections": [
+    {
+      "heading": "As Quatro Forças do Voo",
+      "paragraphs": [
+        "Você já olhou pela janela de um avião enquanto viajava a 35.000 pés e se perguntou: Como diabos este enorme tubo de metal se mantém no ar? Parece um pouco mágica, mas na verdade é uma bela dança da pura física. A qualquer momento durante o voo, um avião é governado por quatro forças fundamentais: sustentação, gravidade, tração e arrasto.",
+        "Para entender o voo, você só precisa entender como essas forças interagem. Quando um avião está estacionado na pista, tudo está em equilíbrio. Assim que a jornada começa, os pilotos e os motores manipulam essas forças para desafiar a gravidade e planar suavemente pelos céus."
+      ]
+    },
+    {
+      "heading": "Tração e Arrasto: Os Caçadores de Velocidade",
+      "paragraphs": [
+        "Vamos começar com o movimento para a frente. A tração é a força para a frente criada pelos motores do avião. Sejam grandes turbinas a jato ou hélices girando, o único trabalho delas é empurrar o avião para a frente através do ar. Sem tração, você é apenas um planador muito pesado.",
+        "lutando contra esse impulso para a frente está o arrasto. O arrasto é a resistência do ar contra o avião. Pense nisso como colocar a mão para fora da janela de um carro em movimento e sentir o vento empurrá-la para trás. Os aviões são moldados com curvas suaves e aerodinâmicas para minimizar o arrasto, permitindo que os motores os empurrem para a frente de forma eficiente."
+      ]
+    },
+    {
+      "heading": "Sustentação e Gravidade: A Batalha Vertical",
+      "paragraphs": [
+        "Enquanto a tração e o arrasto cuidam do movimento horizontal, a sustentação e a gravidade travam a batalha vertical. A gravidade é a força para baixo que puxa o avião em direção ao centro da Terra. Ela é constante, pesada e tenta implacavelmente manter seus pés firmemente no chão.",
+        "Para superar a gravidade, o avião precisa gerar sustentação. A sustentação é a força para cima criada pelas asas conforme elas se movem pelo ar. Conforme os motores fornecem tração para acelerar o avião pela pista, o ar corre por cima e por baixo das asas especialmente moldadas, criando a sustentação necessária para puxar a aeronave para cima, em direção às nuvens."
+      ]
+    },
+    {
+      "heading": "A Mágica das Asas",
+      "paragraphs": [
+        "Então, como exatamente as asas criam sustentação? Tudo se resume à pressão do ar e ao formato da asa, conhecido como aerofólio. Conforme o avião avança, a asa divide o ar que se aproxima. Devido ao formato superior curvo da asa e à ligeira inclinação, o ar que viaja por cima deve se mover mais rápido do que o ar que passa por baixo.",
+        "De acordo com os princípios da dinâmica dos fluidos, o ar que se move mais rápido cria uma pressão menor, enquanto o ar mais lento por baixo cria uma pressão maior. Esse ar de alta pressão embaixo da asa empurra para cima, levantando efetivamente o avião inteiro para o céu. Quando a sustentação para cima iguala ou excede a puxada para baixo da gravidade, você está oficialmente voando!"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "O que acontece se ambos os motores falharem em um avião comercial?",
+      "a": "Os aviões são projetados para planar mesmo se os motores pararem de funcionar. Os pilotos passam por um treinamento extensivo para planar a aeronave com segurança até uma pista, trocando altitude por velocidade e distância de voo."
+    },
+    {
+      "q": "Por que as asas dos aviões curvam para cima nas pontas?",
+      "a": "Essas pontas curvadas são chamadas de winglets. Elas reduzem os vórtices de ar circulante que se formam nas pontas das asas, o que diminui o arrasto e ajuda o avião a gastar menos combustível durante o voo."
+    },
+    {
+      "q": "Os aviões podem voar de cabeça para baixo?",
+      "a": "Sim, jatos militares e aviões acrobáticos podem voar de cabeça para baixo porque conseguem inclinar suas asas para empurrar o ar de maneira a gerar força para cima mesmo quando invertidos. Os aviões comerciais, no entanto, não foram feitos para isso!"
+    }
+  ],
+  "slug": "how-do-airplanes-fly-the-physics-of-flight-explained",
+  "date": "2026-10-14",
+  "topic": "How Do Airplanes Fly? The Physics of Lift, Drag, and Thrust Explained",
+  "trending": false
+}

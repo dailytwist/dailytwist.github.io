@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-13",
+  "title": "O Desafio Cerebral do Dia: 13 de outubro de 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Qual país europeu tem uma bandeira que consiste em uma cruz branca sobre um fundo vermelho e que tem o formato exclusivamente quadrado?",
+      "options": [
+        "Dinamarca",
+        "Cidade do Vaticano",
+        "Áustria",
+        "Suíça"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Junto com a Cidade do Vaticano, a Suíça é um dos únicos dois países soberanos do mundo com uma bandeira nacional quadrada."
+    },
+    {
+      "category": "Ciência",
+      "question": "Qual é o nome popular do composto químico cloreto de sódio?",
+      "options": [
+        "Bicarbonato de sódio",
+        "Sal de cozinha",
+        "Vinagre",
+        "Sal de Epsom"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O cloreto de sódio é essencial para a vida animal, mas o consumo excessivo pode ser prejudicial para muitas espécies."
+    },
+    {
+      "category": "História",
+      "question": "O Titanic afundou no Oceano Atlântico Norte no ano de 1912, durante qual mês?",
+      "options": [
+        "Abril",
+        "Maio",
+        "Junho",
+        "Março"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O RMS Titanic atingiu um iceberg na noite de 14 de abril e afundou nas primeiras horas da manhã de 15 de abril de 1912."
+    },
+    {
+      "category": "Filmes e Cultura Pop",
+      "question": "Qual filme de animação e fantasia de 2001 do Studio Ghibli apresenta uma jovem chamada Chihiro que entra em um mundo mágico de espíritos?",
+      "options": [
+        "O Castelo Animado",
+        "Princesa Mononoke",
+        "A Viagem de Chihiro",
+        "Meu Amigo Totoro"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A Viagem de Chihiro ganhou o Oscar de Melhor Filme de Animação na 75ª edição do Oscar."
+    },
+    {
+      "category": "Comida",
+      "question": "Qual é a principal base alcoólica usada para fazer um coquetel tradicional Dark 'n' Stormy?",
+      "options": [
+        "Rum escuro",
+        "Vodka",
+        "Tequila",
+        "Gin"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Um verdadeiro Dark 'n' Stormy exige especificamente o rum Gosling's Black Seal e cerveja de gengibre para ter proteção de marca registrada."
+    },
+    {
+      "category": "Animais",
+      "question": "Que característica física única todas as espécies de cangurus-árvore adultos possuem que os diferencia da maioria dos outros macrópodes?",
+      "options": [
+        "Pés membranosos para nadar",
+        "A capacidade de voar pequenas distâncias",
+        "Pelagem que brilha no escuro",
+        "Caudas preencíeis para agarrar galhos"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Ao contrário dos cangurus terrestres, os cangurus-árvore têm caudas longas e não preênseis usadas principalmente para o equilíbrio, além de garras curvas especializadas para a escalada."
+    },
+    {
+      "category": "Esportes",
+      "question": "No golfe, qual termo é usado para descrever uma pontuação de uma tacada abaixo do par em um buraco específico?",
+      "options": [
+        "Albatroz",
+        "Eagle",
+        "Birdie",
+        "Bogey"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O termo 'birdie' originou-se nos Estados Unidos no final do século XIX a partir de uma gíria que significa 'excelente' ou 'pássaro'."
+    },
+    {
+      "category": "Idioma",
+      "question": "Qual termo linguístico é usado para descrever uma palavra que é pronunciada da mesma forma que outra, mas tem um significado diferente e geralmente uma grafia diferente?",
+      "options": [
+        "Sinônimo",
+        "Homógrafo",
+        "Homófono",
+        "Acrônimo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Os homófonos podem ser uma fonte de confusão na escrita porque suas grafias nem sempre correspondem aos seus sons compartilhados."
+    },
+    {
+      "category": "Espaço",
+      "question": "Qual lua de Júpiter é o corpo mais vulcanicamente ativo em todo o nosso sistema solar?",
+      "options": [
+        "Ganimedes",
+        "Calisto",
+        "Io",
+        "Europa"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A extrema atividade vulcânica de Io é impulsionada pelo aquecimento de maré resultante de sua disputa gravitacional com Júpiter e grandes luas vizinhas."
+    },
+    {
+      "category": "Ciência",
+      "question": "Qual é o nome do processo pelo qual um sólido se transforma diretamente em gás sem passar pelo estado líquido?",
+      "options": [
+        "Evaporação",
+        "Condensação",
+        "Sublimação",
+        "Deposição"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O gelo seco, que é dióxido de carbono sólido, é um exemplo comum do dia a dia de uma substância que sofre sublimação à temperatura ambiente."
+    }
+  ]
+}

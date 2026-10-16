@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-14",
+  "title": "The Daily Spark Trivia: 14 ottobre 2026",
+  "questions": [
+    {
+      "category": "Cibo",
+      "question": "Qual è l'ingrediente principale dell'hummus tradizionale?",
+      "options": [
+        "Lenticchie",
+        "Fave",
+        "Ceci",
+        "Fagioli neri"
+      ],
+      "answer_index": 2,
+      "fun_fact": "I ceci, notificati anche come ceci comuni, sono coltivati dagli esseri umani da oltre 7.500 anni."
+    },
+    {
+      "category": "Animali",
+      "question": "Quale grande mammifero marino è noto per avere una lunga zanna a spirale che in realtà è un dente canino allungato?",
+      "options": [
+        "Manato",
+        "Tricheco",
+        "Balenottera azzurra",
+        "Narvalo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "L'iconica zanna del narvalo può crescere fino a 10 piedi di lunghezza ed è piena di milioni di terminazioni nervose."
+    },
+    {
+      "category": "Linguaggio",
+      "question": "Quale termine viene usato per descrivere parole come 'ronzio', 'sibilo' e 'mormorio' che imitano foneticamente il suono che descrivono?",
+      "options": [
+        "Metafora",
+        "Onomatopea",
+        "Ossimoro",
+        "Allitterazione"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Le parole onomatopeiche spesso variano enormemente tra le diverse lingue umane per riflettere le distinte percezioni culturali degli stessi suoni."
+    },
+    {
+      "category": "Geografia",
+      "question": "Quale paese vanta la linea costiera più lunga del mondo?",
+      "options": [
+        "Russia",
+        "Australia",
+        "Stati Uniti",
+        "Canada"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La costa del Canada si estende per oltre 202.000 chilometri (125.000 miglia) se si considerano le sue innumerevoli isole e insenature."
+    },
+    {
+      "category": "Scienza",
+      "question": "Qual è il numero atomico dell'elemento carbonio nella tavola periodica?",
+      "options": [
+        "12",
+        "8",
+        "6",
+        "14"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il numero atomico 6 del carbonio significa che ogni atomo di carbonio possiede 6 protoni nel suo nucleo."
+    },
+    {
+      "category": "Cinema e Pop Culture",
+      "question": "Quale film d'azione fantascientifico del 1999 ha reso popolare l'effetto visivo del 'bullet time', caratterizzato da movimenti di telecamera congelati e al rallentatore attorno agli attori in movimento?",
+      "options": [
+        "Total Recall",
+        "The Terminator",
+        "The Matrix",
+        "Blade Runner"
+      ],
+      "answer_index": 2,
+      "fun_fact": "I registi Lana e Lilly Wachowski hanno utilizzato una serie di macchine fotografiche scattate in rapida successione per creare le iconiche sequenze di bullet time."
+    },
+    {
+      "category": "Sport",
+      "question": "Nel calcio internazionale, quanti giocatori ci sono in campo per una singola squadra all'inizio di una partita?",
+      "options": [
+        "11",
+        "12",
+        "10",
+        "9"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Una squadra di calcio regolamentare è composta da 11 giocatori per lato, incluso un portiere designato."
+    },
+    {
+      "category": "Storia",
+      "question": "La storica Magna Carta fu sigillata nel 1215 da Re Giovanni in quale località vicino a Windsor?",
+      "options": [
+        "Canterbury",
+        "Torre di Londra",
+        "Hastings",
+        "Runnymede"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Runnymede fu scelta come luogo d'incontro perché era un prato aperto e neutrale situato comodamente tra l'accampamento reale e i baroni ribelli."
+    },
+    {
+      "category": "Spazio",
+      "question": "Quale telescopio spaziale, lanciato nel dicembre 2021, è posizionato nel punto lagrangiano Sole-Terra L2 per osservare l'universo principalmente nella luce infrarossa?",
+      "options": [
+        "Telescopio Spaziale Hubble",
+        "Telescopio Spaziale James Webb",
+        "Telescopio Spaziale Kepler",
+        "Telescopio Spaziale Spitzer"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Il Telescopio Spaziale James Webb è dotato di un massiccio specchio in berillio rivestito d'oro che si estende per 6,5 metri di diametro."
+    },
+    {
+      "category": "Storia",
+      "question": "Quale polimatca del Rinascimento ha progettato una versione concettuale iniziale di un veicolo corazzato simile a un forte di legno conico su ruote alla fine del XV secolo?",
+      "options": [
+        "Leonardo da Vinci",
+        "Galileo Galilei",
+        "Johannes Gutenberg",
+        "Niccolò Machiavelli"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il progetto del carro armato corazzato di Leonardo da Vinci includeva un ingegnoso difetto negli ingranaggi interni che gli storici sospettano sia stato aggiunto deliberatamente in modo che non potesse mai essere armato."
+    }
+  ]
+}

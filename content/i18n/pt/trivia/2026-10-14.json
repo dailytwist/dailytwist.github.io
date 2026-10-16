@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-14",
+  "title": "The Daily Spark Trivia: 14 de outubro de 2026",
+  "questions": [
+    {
+      "category": "Comida",
+      "question": "Qual é o ingrediente principal do homus tradicional?",
+      "options": [
+        "Lentilhas",
+        "Favas",
+        "Grão-de-bico",
+        "Feijão preto"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O grão-de-bico é cultivado pelos seres humanos há mais de 7.500 anos."
+    },
+    {
+      "category": "Animais",
+      "question": "Qual grande mamífero marinho é conhecido por ter uma presa longa e espiralada que é, na verdade, um dente canino alongado?",
+      "options": [
+        "Peixe-boi",
+        "Foca",
+        "Baleia-azul",
+        "Narval"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A famosa presa do narval pode crescer até 3 metros de comprimento e possui milhões de terminações nervosas."
+    },
+    {
+      "category": "Linguagem",
+      "question": "Qual termo é usado para descrever palavras como 'bum', 'chiar' e 'sussurro' que imitam foneticamente o som que descrevem?",
+      "options": [
+        "Metáfora",
+        "Onomatopeia",
+        "Oxímoro",
+        "Aliteração"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Palavras onomatopeicas costumam variar bastante entre diferentes línguas humanas para refletir percepções culturais distintas dos mesmos sons."
+    },
+    {
+      "category": "Geografia",
+      "question": "Qual país ostenta a maior faixa costeira do mundo?",
+      "options": [
+        "Rússia",
+        "Austrália",
+        "Estados Unidos",
+        "Canadá"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A costa do Canadá se estende por mais de 202.000 quilômetros (125.000 milhas) quando se levam em conta suas inúmeras ilhas e enseadas."
+    },
+    {
+      "category": "Ciência",
+      "question": "Qual é o número atômico do elemento carbono na tabela periódica?",
+      "options": [
+        "12",
+        "8",
+        "6",
+        "14"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O número atômico 6 do carbono significa que cada átomo de carbono possui 6 prótons em seu núcleo."
+    },
+    {
+      "category": "Filmes e Cultura Pop",
+      "question": "Qual filme de ação e ficção científica de 1999 popularizou o efeito visual 'bullet time', que apresenta o movimento de câmera congelado e em câmera lenta ao redor de atores em movimento?",
+      "options": [
+        "O Vingador do Futuro",
+        "O Exterminador do Futuro",
+        "Matrix",
+        "Blade Runner"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Os diretores Lana e Lilly Wachowski usaram uma matriz de câmeras fotográficas disparadas em rápida sucessão para criar as icônicas sequências de bullet time."
+    },
+    {
+      "category": "Esportes",
+      "question": "No futebol internacional, quantos jogadores há em campo por uma única equipe no início de uma partida?",
+      "options": [
+        "11",
+        "12",
+        "10",
+        "9"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Um time de futebol regulamentar consiste em 11 jogadores por lado, incluindo um goleiro designado."
+    },
+    {
+      "category": "História",
+      "question": "A histórica Magna Carta foi selada em 1215 pelo Rei João em qual local perto de Windsor?",
+      "options": [
+        "Cantuária",
+        "Torre de Londres",
+        "Hastings",
+        "Runnymede"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Runnymede foi escolhido como o local de encontro por ser um prado aberto e neutro, situado convenientemente entre o acampamento real e os barões rebeldes."
+    },
+    {
+      "category": "Espaço",
+      "question": "Qual telescópio espacial, lançado em dezembro de 2021, está posicionado no ponto lagrangiano L2 Sol-Terra para observar o universo principalmente em luz infravermelha?",
+      "options": [
+        "Telescópio Espacial Hubble",
+        "Telescópio Espacial James Webb",
+        "Telescópio Espacial Kepler",
+        "Telescópio Espacial Spitzer"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O Telescópio Espacial James Webb possui um enorme espelho de berílio revestido de ouro com 6,5 metros de diâmetro."
+    },
+    {
+      "category": "História",
+      "question": "Qual polímata do Renascimento projetou uma versão conceitual inicial de um veículo blindado semelhante a um forte de madeira cônico sobre rodas no final do século XV?",
+      "options": [
+        "Leonardo da Vinci",
+        "Galileu Galilei",
+        "Johannes Gutenberg",
+        "Nicolau Maquiavel"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O projeto de tanque blindado de Leonardo da Vinci incluía uma falha inteligente na engrenagem interna que os historiadores suspeitam ter sido adicionada deliberadamente para que nunca pudesse ser transformado em arma."
+    }
+  ]
+}
