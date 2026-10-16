@@ -1,0 +1,60 @@
+{
+  "title": "Come funzionano i touchscreen? La magia dietro il tuo smartphone",
+  "description": "Scopri l'affascinante scienza dietro i touchscreen degli smartphone. Impara come le tecnologie capacitive e resistive rilevano il movimento delle tue dita ogni giorno.",
+  "category": "Tech",
+  "sections": [
+    {
+      "heading": "Introduzione: La magia quotidiana del tocco",
+      "paragraphs": [
+        "Ogni singolo giorno tocchiamo, scorriamo, pizzichiamo e ingrandiamo lo schermo di smartphone, tablet e totem interattivi senza quasi pensarci. Lo schermo risponde all'istante, aprendo app, scorrendo siti web e zoomando sulle foto come per magia. Ma sotto quella superficie di vetro liscia si cela una complessa sinfonia di fisica, ingegneria elettrica e scienza dei materiali.",
+        "Anche se sembra che lo schermo riesca davvero a sentire il tuo dito, in realtà sta misurando variazioni invisibili nei campi elettrici. Capire come funziona questa tecnologia rivela quanto sia geniale l'ingegneria moderna, capace di trasformare un semplice tocco in un comando digitale preciso."
+      ]
+    },
+    {
+      "heading": "I due tipi principali di touchscreen",
+      "paragraphs": [
+        "Storicamente, i touchscreen si sono basati su due tecnologie principali: resistiva e capacitiva. Gli schermi resistivi erano comuni sui dispositivi più vecchi, come i primi palmari e le console Nintendo DS. Sono costituiti da due strati metallici flessibili separati da un piccolissimo spazio. Quando premi, gli strati entrano in contatto, chiudendo un circuito e comunicando al dispositivo le coordinate esatte.",
+        "Gli smartphone moderni, tuttavia, utilizzano quasi esclusivamente touchscreen capacitivi. Invece di affidarsi alla pressione fisica, gli schermi capacitivi sfruttano le proprietà elettriche del corpo umano. Questo li rende molto più reattivi, durevoli e in grado di supportare gesti multi-touch avanzati come il pizzico per lo zoom."
+      ]
+    },
+    {
+      "heading": "La scienza del tocco capacitivo",
+      "paragraphs": [
+        "Per capire i touchscreen capacitivi, bisogna prima comprendere la capacità, ovvero la capacità di un sistema di immagazzinare una carica elettrica. Uno schermo capacitivo è rivestito da una griglia microscopica di materiale conduttivo, solitamente ossido di indio-stagno, posizionata sotto lo strato di vetro esterno.",
+        "A questa griglia viene applicata una tensione elettrica, creando un campo elettrostatico uniforme su tutto lo schermo. Quando tocchi il vetro con il dito, che è un conduttore naturale di elettricità, perturbi quel campo elettrostatico locale. Una minuscola quantità di carica elettrica viene attratta verso la punta del dito, causando un calo misurabile della capacità in quel punto specifico."
+      ]
+    },
+    {
+      "heading": "Individuare il tuo tocco in millisecondi",
+      "paragraphs": [
+        "Il touchscreen da solo non può fare tutto il lavoro pesante. Sotto la griglia di vetro si trova un microchip dedicato noto come controller touch. Questo chip scansiona costantemente l'intera griglia migliaia di volte al secondo, misurando le minuscole variazioni di corrente elettrica.",
+        "Quando il tuo dito perturba il campo elettrostatico, il controller calcola all'istante le coordinate esatte della perturbazione utilizzando algoritmi sofisticati. Traduce quindi quelle coordinate in un segnale digitale e lo invia al processore principale del telefono, che esegue l'azione corrispondente sullo schermo, il tutto in una frazione di millisecondo."
+      ]
+    },
+    {
+      "heading": "Perché i guanti non funzionano (e come abbiamo risolto il problema)",
+      "paragraphs": [
+        "Poiché gli schermi capacitivi si affidano alla conducibilità elettrica del tuo corpo, i materiali isolanti tradizionali come i normali guanti di tessuto impediscono allo schermo di registrare il tuo tocco. Il guanto blocca la perturbazione elettrica necessaria per modificare il campo elettrostatico sottostante.",
+        "Per risolvere questo problema, i produttori di dispositivi moderni spesso includono modalità ad alta sensibilità nelle impostazioni software, oppure le persone utilizzano guanti per touchscreen appositamente progettati e intrecciati con fili metallici conduttivi. Allo stesso modo, i pennini standard non funzionano sui touchscreen a meno che non siano dotati di una punta spugnosa e conduttiva che imiti le proprietà elettriche della pelle umana."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Perché i touchscreen capacitivi non funzionano con i guanti normali?",
+      "a": "I touchscreen capacitivi richiedono la conducibilità elettrica della pelle umana per perturbare un campo elettrostatico. I normali guanti in tessuto o pelle agiscono da isolanti, bloccando questa interazione elettrica."
+    },
+    {
+      "q": "Come funziona il multi-touch?",
+      "a": "La griglia conduttiva sotto il vetro è suddivisa in una fitta matrice di punti di intersezione. Un controller touch è in grado di tracciare in modo indipendente più perturbazioni distinte nel campo elettrostatico contemporaneamente, consentendo gesti come il pizzico e la rotazione."
+    },
+    {
+      "q": "Gli schermi dei telefoni sono fatti di vero vetro?",
+      "a": "Sì, gli smartphone moderni utilizzano vetro appositamente formulato e rinforzato chimicamente (come Gorilla Glass) che è abbastanza resistente da proteggere i delicati strati conduttivi sottostanti, pur continuando a permettere il passaggio dei campi elettrici."
+    }
+  ],
+  "slug": "how-do-touchscreens-work-the-magic-behind-your-phone",
+  "date": "2026-10-16",
+  "topic": "How Do Touchscreens Work? The Physics and Technology Behind Your Phone",
+  "trending": false
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Como funcionam as telas sensíveis ao toque? A mágica por trás do seu celular",
+  "description": "Descubra a ciência fascinante por trás das telas touch dos smartphones. Entenda como a tecnologia sensível ao toque capacitiva e resistiva detecta a ponta dos seus dedos todos os dias.",
+  "category": "Tech",
+  "sections": [
+    {
+      "heading": "Introdução: A mágica cotidiana do toque",
+      "paragraphs": [
+        "Todos os dias, nós tocamos, deslizamos, fazemos pinça e zoom em nossos smartphones, tablets e totens sem pensar duas vezes. A tela responde instantaneamente, abrindo aplicativos, rolando páginas da web e aproximando fotos como por mágica. Mas sob aquela placa de vidro lisa existe uma orquestra complexa de física, engenharia elétrica e ciência dos materiais.",
+        "Embora pareça que a tela realmente consegue sentir o seu dedo, ela está na verdade medindo alterações invisíveis em campos elétricos. Entender como essa tecnologia funciona revela o quão brilhante é a engenharia moderna, transformando um simples toque em um comando digital preciso."
+      ]
+    },
+    {
+      "heading": "Os dois principais tipos de telas sensíveis ao toque",
+      "paragraphs": [
+        "Historicamente, as telas touch dependiam de duas tecnologias principais: resistiva e capacitiva. As telas resistivas eram comuns em dispositivos mais antigos, como os primeiros assistentes digitais pessoais e consoles Nintendo DS. Elas contam com duas camadas metálicas flexíveis separadas por um pequeno espaço. Quando você pressiona, as camadas se encostam, fechando um circuito e informando ao dispositivo as suas coordenadas exatas.",
+        "Os smartphones modernos, no entanto, usam quase exclusivamente telas sensíveis ao toque capacitivas. Em vez de depender de pressão física, as telas capacitivas dependem das propriedades elétricas do corpo humano. Isso as torna muito mais responsivas, duráveis e capazes de suportar gestos avançados de multitoque, como o movimento de pinça para dar zoom."
+      ]
+    },
+    {
+      "heading": "A ciência do toque capacitivo",
+      "paragraphs": [
+        "Para entender as telas capacitivas, você primeiro precisa entender a capacitância — a capacidade de um sistema de armazenar uma carga elétrica. Uma tela capacitiva é revestida com uma grade microscópica e condutiva de material, geralmente óxido de índio e estanho, que fica logo abaixo da camada externa de vidro.",
+        "Uma voltagem elétrica é aplicada a essa grade, criando um campo eletrostático uniforme em toda a tela. Quando você toca no vidro com o dedo, que é um condutor natural de eletricidade, você perturba esse campo eletrostático local. Uma quantidade minúscula de carga elétrica é atraída para a ponta do seu dedo, causando uma queda mensurável na capacitância naquele ponto específico."
+      ]
+    },
+    {
+      "heading": "Localizando seu toque em milissegundos",
+      "paragraphs": [
+        "A tela sensível ao toque sozinha não consegue dar conta de todo o recado. Abaixo da grade de vidro fica um microchip dedicado conhecido como controlador de toque. Esse chip examina constantemente toda a grade milhares de vezes por segundo, medindo as pequenas alterações na corrente elétrica.",
+        "Quando o seu dedo perturba o campo eletrostático, o controlador calcula instantaneamente as coordenadas exatas da perturbação usando algoritmos sofisticados. Ele traduz essas coordenadas em um sinal digital e o envia para o processador principal do celular, que executa a ação correspondente na sua tela, tudo em uma fração de milissegundo."
+      ]
+    },
+    {
+      "heading": "Por que as luvas não funcionam (e como resolvemos isso)",
+      "paragraphs": [
+        "Como as telas capacitivas dependem da condutividade elétrica do seu corpo, materiais isolantes tradicionais, como luvas de tecido comuns, impedem que a tela registre o seu toque. A luva bloqueia a perturbação elétrica necessária para alterar o campo eletrostático subjacente.",
+        "Para resolver isso, os fabricantes de dispositivos modernos geralmente incluem modos de alta sensibilidade nas configurações de software, ou as pessoas usam luvas para touchscreen especialmente projetadas e tecidas com fios metálicos condutivos. Da mesma forma, as canetas stylus padrão não funcionam em telas capacitivas, a menos que tenham uma ponta esponjosa e condutiva que imite as propriedades elétricas da pele humana."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Por que as telas capacitivas não funcionam com luvas normais?",
+      "a": "As telas capacitivas exigem a condutividade elétrica da pele humana para perturbar um campo eletrostático. Luvas comuns de tecido ou couro agem como isolantes, bloqueando essa interação elétrica."
+    },
+    {
+      "q": "Como funciona o multitoque?",
+      "a": "A grade condutiva sob o vidro é dividida em uma matriz fina de pontos de interseção. Um controlador de toque pode rastrear independentemente várias perturbações distintas no campo eletrostático ao mesmo tempo, permitindo gestos como pinçar e girar."
+    },
+    {
+      "q": "As telas de celulares são feitas de vidro de verdade?",
+      "a": "Sim, os smartphones modernos usam um vidro quimicamente reforçado e especialmente formulado (como o Gorilla Glass) que é durável o suficiente para proteger as delicadas camadas condutoras por baixo, permitindo ainda que os campos elétricos passem por ele."
+    }
+  ],
+  "slug": "how-do-touchscreens-work-the-magic-behind-your-phone",
+  "date": "2026-10-16",
+  "topic": "How Do Touchscreens Work? The Physics and Technology Behind Your Phone",
+  "trending": false
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-14",
+  "title": "The Daily Spark Trivia : 14 octobre 2026",
+  "questions": [
+    {
+      "category": "Nourriture",
+      "question": "Quel est l'ingrédient principal du houmous traditionnel ?",
+      "options": [
+        "Lentilles",
+        "Fèves",
+        "Pois chiches",
+        "Haricots noirs"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le pois chiche, aussi appelé pois de Garbanzo, est cultivé par l'humain depuis plus de 7 500 ans."
+    },
+    {
+      "category": "Animaux",
+      "question": "Quel grand mammifère marin est connu pour sa longue défense en spirale qui est en fait une canine allongée ?",
+      "options": [
+        "Lamantin",
+        "Morse",
+        "Baleine bleue",
+        "Narval"
+      ],
+      "answer_index": 3,
+      "fun_fact": "L'emblématique défense du narval peut mesurer jusqu'à 3 mètres de long et contient des millions de terminaisons nerveuses."
+    },
+    {
+      "category": "Langage",
+      "question": "Quel terme désigne les mots comme « vroom », « pschitt » et « murmure » qui imitent phonétiquement le son qu'ils décrivent ?",
+      "options": [
+        "Métaphore",
+        "Onomatopée",
+        "Oxymore",
+        "Allitération"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Les mots onomatopéiques varient souvent énormément d'une langue à l'autre pour refléter la perception culturelle unique de ces mêmes bruits."
+    },
+    {
+      "category": "Géographie",
+      "question": "Quel pays possède le plus long littoral au monde ?",
+      "options": [
+        "Russie",
+        "Australie",
+        "États-Unis",
+        "Canada"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Le littoral canadien s'étend sur plus de 202 000 kilomètres en prenant en compte ses innombrables îles et fjords."
+    },
+    {
+      "category": "Science",
+      "question": "Quel est le numéro atomique du carbone dans le tableau périodique ?",
+      "options": [
+        "12",
+        "8",
+        "6",
+        "14"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le numéro atomique 6 du carbone signifie que chaque atome de carbone possède 6 protons dans son noyau."
+    },
+    {
+      "category": "Films et culture pop",
+      "question": "Quel film d'action et de science-fiction de 1999 a popularisé l'effet visuel du « bullet time » avec ses mouvements de caméra figés au ralenti autour des acteurs en mouvement ?",
+      "options": [
+        "Total Recall",
+        "Terminator",
+        "Matrix",
+        "Blade Runner"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Les réalisatrices Lana et Lilly Wachowski ont utilisé un ensemble d'appareils photo déclenchés en rafale rapide pour créer ces séquences cultes de bullet time."
+    },
+    {
+      "category": "Sports",
+      "question": "Au football (soccer) international, combien de joueurs composent une seule équipe sur le terrain au coup d'envoi d'un match ?",
+      "options": [
+        "11",
+        "12",
+        "10",
+        "9"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Une équipe de football réglementaire compte 11 joueurs par camp, dont un gardien de but désigné."
+    },
+    {
+      "category": "Histoire",
+      "question": "La Magna Carta historique a été scellée en 1215 par le roi Jean à quel endroit près de Windsor ?",
+      "options": [
+        "Canterbury",
+        "Tour de Londres",
+        "Hastings",
+        "Runnymede"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Runnymede a été choisi comme lieu de rencontre car c'était une prairie neutre et ouverte, située idéalement entre le camp royal et les barons rebelles."
+    },
+    {
+      "category": "Espace",
+      "question": "Quel télescope spatial, lancé en décembre 2021, est positionné au point de Lagrange L2 Soleil-Terre pour observer l'univers principalement dans l'infrarouge ?",
+      "options": [
+        "Télescope spatial Hubble",
+        "Télescope spatial James-Webb",
+        "Télescope spatial Kepler",
+        "Télescope spatial Spitzer"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Le télescope spatial James-Webb est doté d'un immense miroir en béryllium recouvert d'or de 6,5 mètres de diamètre."
+    },
+    {
+      "category": "Histoire",
+      "question": "Quel polygraphe de la Renaissance a conçu une version conceptuelle ancienne d'un véhicule blindé ressemblant à un fort en bois conique sur roues à la fin du XVe siècle ?",
+      "options": [
+        "Léonard de Vinci",
+        "Galilée",
+        "Johannes Gutenberg",
+        "Nicolas Machiavel"
+      ],
+      "answer_index": 0,
+      "fun_fact": "La conception du char d'assaut de Léonard de Vinci comprenait un défaut d'engrenage interne subtil que les historiens soupçonnent d'avoir été ajouté exprès pour qu'il ne puisse jamais servir d'arme."
+    }
+  ]
+}

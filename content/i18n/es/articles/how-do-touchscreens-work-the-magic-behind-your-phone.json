@@ -1,0 +1,60 @@
+{
+  "title": "¿Cómo funcionan las pantallas táctiles? La magia detrás de tu teléfono",
+  "description": "Descubre la fascinante ciencia detrás de las pantallas táctiles de los smartphones. Aprende cómo la tecnología táctil capacitiva y resistiva detecta la yema de tus dedos todos los días.",
+  "category": "Tech",
+  "sections": [
+    {
+      "heading": "Introducción: La magia cotidiana del tacto",
+      "paragraphs": [
+        "Todos los días tocamos, deslizamos, pellizcamos y ampliamos en nuestros smartphones, tabletas y quioscos digitales sin pensarlo dos segundos. La pantalla responde al instante, abriendo aplicaciones, navegando por sitios web y haciendo zoom en las fotos como por arte de magia. Pero debajo de ese panel de vidrio liso se esconde una compleja combinación de física, ingeniería eléctrica y ciencia de materiales.",
+        "Aunque parece que la pantalla realmente puede sentir tu dedo, en realidad está midiendo cambios invisibles en los campos eléctricos. Comprender cómo funciona esta tecnología revela lo brillante que es la ingeniería moderna, capaz de convertir un simple toque en una orden digital precisa."
+      ]
+    },
+    {
+      "heading": "Los dos tipos principales de pantallas táctiles",
+      "paragraphs": [
+        "Históricamente, las pantallas táctiles se han basado en dos tecnologías principales: resistiva y capacitiva. Las pantallas resistivas eran comunes en dispositivos antiguos, como las primeras agendas electrónicas (PDA) y las consolas Nintendo DS. Cuentan con dos capas metálicas flexibles separadas por un pequeño espacio. Al presionar, las capas entran en contacto, cerrando un circuito y comunicándole al dispositivo tus coordenadas exactas.",
+        "Sin embargo, los smartphones modernos utilizan casi exclusivamente pantallas táctiles capacitivas. En lugar de depender de la presión física, las pantallas capacitivas se basan en las propiedades eléctricas del cuerpo humano. Esto las hace mucho más sensibles, duraderas y capaces de admitir gestos multitáctiles avanzados, como el pellizco para hacer zoom."
+      ]
+    },
+    {
+      "heading": "La ciencia del tacto capacitivo",
+      "paragraphs": [
+        "Para entender las pantallas táctiles capacitivas, primero hay que comprender la capacitancia: la capacidad de un sistema para almacenar una carga eléctrica. Una pantalla capacitiva está recubierta con una cuadrícula microscópica de material conductor, normalmente óxido de indio y estaño, situada bajo la capa de vidrio exterior.",
+        "Se aplica un voltaje eléctrico a esta cuadrícula, lo que crea un campo electrostático uniforme en toda la pantalla. Cuando tocas el vidrio con el dedo, que es un conductor natural de electricidad, alteras ese campo electrostático local. Una pequeña cantidad de carga eléctrica se dirige hacia la yema de tu dedo, provocando una caída medible de la capacitancia en ese punto específico."
+      ]
+    },
+    {
+      "heading": "Localizando tu toque en milisegundos",
+      "paragraphs": [
+        "La pantalla táctil por sí sola no puede hacer todo el trabajo pesado. Debajo de la cuadrícula de vidrio se encuentra un microchip especializado conocido como controlador táctil. Este chip escanea constantemente toda la cuadrícula miles de veces por segundo, midiendo los pequeños cambios en la corriente eléctrica.",
+        "Cuando tu dedo altera el campo electrostático, el controlador calcula al instante las coordenadas exactas de dicha alteración utilizando algoritmos sofisticados. Traduce esas coordenadas en una señal digital y se la envía al procesador principal del teléfono, el cual ejecuta la acción correspondiente en tu pantalla, todo en una fracción de milisegundo."
+      ]
+    },
+    {
+      "heading": "Por qué los guantes no funcionan (Y cómo lo resolvimos)",
+      "paragraphs": [
+        "Dado que las pantallas capacitivas dependen de la conductividad eléctrica de tu cuerpo, los materiales aislantes tradicionales, como los guantes de tela estándar, impiden que la pantalla registre tu toque. El guante bloquea la alteración eléctrica necesaria para modificar el campo electrostático subyacente.",
+        "Para solucionar esto, los fabricantes de dispositivos modernos suelen incluir modos de alta sensibilidad en la configuración de software, o bien la gente utiliza guantes táctiles diseñados específicamente y tejidos con hilos metálicos conductores. Del mismo modo, los lápices ópticos (stylus) estándar no funcionan en pantallas capacitivas a menos que tengan una punta esponjosa y conductora que imite las propiedades eléctricas de la piel humana."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Por qué las pantallas táctiles capacitivas no funcionan con guantes normales?",
+      "a": "Las pantallas táctiles capacitivas necesitan la conductividad eléctrica de la piel humana para alterar un campo electrostático. Los guantes estándar de tela o cuero actúan como aislantes y bloquean esta interacción eléctrica."
+    },
+    {
+      "q": "¿Cómo funciona el sistema multitáctil?",
+      "a": "La cuadrícula conductora situada bajo el vidrio se divide en una fina matriz de puntos de intersección. Un controlador táctil puede rastrear de forma independiente múltiples alteraciones distintas en el campo electrostático al mismo tiempo, lo que permite realizar gestos como pellizcar y rotar."
+    },
+    {
+      "q": "¿Las pantallas de los teléfonos están hechas de vidrio real?",
+      "a": "Sí, los smartphones modernos utilizan un vidrio con una fórmula especial y fortalecido químicamente (como Gorilla Glass) que es lo suficientemente resistente como para proteger las delicadas capas conductoras inferiores, al tiempo que permite el paso de los campos eléctricos."
+    }
+  ],
+  "slug": "how-do-touchscreens-work-the-magic-behind-your-phone",
+  "date": "2026-10-16",
+  "topic": "How Do Touchscreens Work? The Physics and Technology Behind Your Phone",
+  "trending": false
+}

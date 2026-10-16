@@ -1,0 +1,60 @@
+{
+  "title": "Comment fonctionnent les écrans tactiles ? La magie derrière votre téléphone",
+  "description": "Découvrez la science fascinante qui se cache derrière les écrans tactiles des smartphones. Apprenez comment les technologies tactiles capacitive et résistive détectent le bout de vos doigts au quotidien.",
+  "category": "Tech",
+  "sections": [
+    {
+      "heading": "Introduction : La magie quotidienne du tactile",
+      "paragraphs": [
+        "Chaque jour, nous tapotons, balayons, pinçons et zoomons sur nos smartphones, tablettes et bornes interactives sans y réfléchir à deux fois. L'écran répond instantanément, ouvrant des applications, faisant défiler des sites Web et zoomant sur des photos comme par magie. Mais sous cette surface de verre lisse se cache une symphonie complexe de physique, de génie électrique et de science des matériaux.",
+        "Meneuse de sensations, l'écran semble réellement sentir votre doigt, alors qu'il mesure en réalité des variations invisibles de champs électriques. Comprendre le fonctionnement de cette technologie révèle tout le génie de l'ingénierie moderne, capable de transformer un simple toucher en une commande numérique précise."
+      ]
+    },
+    {
+      "heading": "Les deux principaux types d'écrans tactiles",
+      "paragraphs": [
+        "Historiquement, les écrans tactiles se sont appuyés sur deux technologies principales : le résistif et le capacitif. Les écrans résistifs étaient courants sur les anciens appareils, comme les premiers assistants personnels et les consoles Nintendo DS. Ils comportent deux couches métalliques flexibles séparées par un minuscule espace. Lorsque vous appuyez, les couches se touchent, fermant un circuit et indiquant au dispositif vos coordonnées exactes.",
+        "Les smartphones modernes, en revanche, utilisent presque exclusivement des écrans tactiles capacitifs. Au lieu de reposer sur une pression physique, ils tirent parti des propriétés électriques du corps humain. Cela les rend beaucoup plus réactifs, durables et capables de gérer des gestes multipoints avancés, comme pincer pour zoomer."
+      ]
+    },
+    {
+      "heading": "La science du tactile capacitif",
+      "paragraphs": [
+        "Pour comprendre les écrans tactiles capacitifs, il faut d'abord saisir la notion de capacité, c'est-à-dire la capacité d'un système à stocker une charge électrique. Un écran capacitif est recouvert d'une grille microscopique de matériau conducteur, généralement de l'oxyde d'indium-étain, située juste sous la couche de verre externe.",
+        "Une tension électrique est appliquée à cette grille, créant un champ électrostatique uniforme sur l'ensemble de l'écran. Lorsque vous touchez le verre avec votre doigt, qui est un conducteur naturel d'électricité, vous perturbez ce champ électrostatique local. Une infime quantité de charge électrique est attirée vers le bout de votre doigt, provoquant une baisse mesurable de la capacité à cet endroit précis."
+      ]
+    },
+    {
+      "heading": "Localiser votre toucher en millisecondes",
+      "paragraphs": [
+        "L'écran tactile ne peut pas tout faire à lui seul. Sous la grille de verre se trouve une micropuce dédiée appelée contrôleur tactile. Cette puce analyse en permanence l'ensemble de la grille des milliers de fois par seconde, en mesurant les infimes variations de courant électrique.",
+        "Lorsque votre doigt perturbe le champ électrostatique, le contrôleur calcule instantanément les coordonnées exactes de cette perturbation grâce à des algorithmes sophistiqués. Il traduit ces coordonnées en signal numérique et les transmet au processeur principal du téléphone, qui exécute l'action correspondante sur votre écran, le tout en une fraction de milliseconde."
+      ]
+    },
+    {
+      "heading": "Pourquoi les gants ne fonctionnent pas (et comment nous avons résolu le problème)",
+      "paragraphs": [
+        "Puisque les écrans capacitifs reposent sur la conductivité électrique de votre corps, les matériaux isolants traditionnels comme les gants en tissu ordinaires empêchent l'écran d'enregistrer votre toucher. Le gant bloque la perturbation électrique nécessaire pour modifier le champ électrostatique sous-jacent.",
+        "Pour y remédier, les fabricants d'appareils modernes intègrent souvent des modes de haute sensibilité dans les paramètres logiciels, ou bien les utilisateurs portent des gants tactiles spécialement conçus, tissés de fils métalliques conducteurs. De même, les stylets standards ne fonctionnent pas sur les écrans capacitifs à moins d'être dotés d'un embout spongieux et conducteur qui imite les propriétés électriques de la peau humaine."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Pourquoi les écrans tactiles capacitifs ne fonctionnent-ils pas avec des gants ordinaires ?",
+      "a": "Les écrans tactiles capacitifs nécessitent la conductivité électrique de la peau humaine pour perturber un champ électrostatique. Les gants en tissu ou en cuir standard agissent comme des isolants, bloquant cette interaction électrique."
+    },
+    {
+      "q": "Comment fonctionne le multipoint ?",
+      "a": "La grille conductrice située sous le verre est découpée en une fine matrice de points d'intersection. Un contrôleur tactile peut suivre indépendamment et simultanément plusieurs perturbations distinctes du champ électrostatique, ce qui permet d'effectuer des gestes tels que pincer et faire pivoter."
+    },
+    {
+      "q": "Les écrans de téléphone sont-ils fabriqués en véritable verre ?",
+      "a": "Oui, les smartphones modernes utilisent un verre spécialement formulé et renforcé chimiquement (comme le Gorilla Glass) qui est suffisamment durable pour protéger les délicates couches conductrices sous-jacentes tout en laissant passer les champs électriques."
+    }
+  ],
+  "slug": "how-do-touchscreens-work-the-magic-behind-your-phone",
+  "date": "2026-10-16",
+  "topic": "How Do Touchscreens Work? The Physics and Technology Behind Your Phone",
+  "trending": false
+}

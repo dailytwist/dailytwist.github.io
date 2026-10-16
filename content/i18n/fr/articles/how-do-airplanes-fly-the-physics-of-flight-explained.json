@@ -1,0 +1,53 @@
+{
+  "title": "Comment font les avions pour voler ? La physique du vol expliquée",
+  "description": "Découvrez la science derrière le vol des avions. Apprenez le rôle de la portance, de la traînée, de la poussée et de la gravité dans un guide ludique et facile à comprendre.",
+  "category": "Science",
+  "sections": [
+    {
+      "heading": "Les quatre forces du vol",
+      "paragraphs": [
+        "Avez-vous déjà regardé par le hublot d'un avion en croisière à 35 000 pieds en vous demandant comment diable cet énorme tube en métal parvient à rester en l'air ? Cela ressemble un peu à de la magie, mais c'est en réalité une magnifique chorégraphie de pure physique. À tout moment en vol, un avion est soumis à quatre forces fondamentales : la portance, la gravité, la poussée et la traînée.",
+        "Pour comprendre le vol, il suffit de comprendre comment ces forces interagissent. Lorsqu'un avion est garé sur le tarmac, tout est en équilibre. Une fois le voyage commencé, les pilotes et les moteurs manipulent ces forces pour défier la gravité et fendre le ciel en toute fluidité."
+      ]
+    },
+    {
+      "heading": "Poussée et traînée : la quête de la vitesse",
+      "paragraphs": [
+        "Commençons par le mouvement vers l'avant. La poussée est la force propulsive créée par les moteurs de l'avion. Qu'il s'agisse d'immenses réacteurs ou d'hélices en rotation, leur unique rôle est de propulser l'appareil dans les airs. Sans poussée, vous n'êtes qu'un très lourd planeur.",
+        "La traînée s'oppose à cet élan. Il s'agit de la résistance de l'air contre l'avion. Imaginez que vous passez la main par la fenêtre d'une voiture en mouvement et que vous sentez le vent la repousser. Les avions ont des formes aux courbes douces et aérodynamiques pour minimiser la traînée, ce qui permet aux moteurs de les propulser efficacement."
+      ]
+    },
+    {
+      "heading": "Portance et gravité : le duel vertical",
+      "paragraphs": [
+        "Tandis que la poussée et la traînée gèrent le mouvement horizontal, la portance et la gravité se disputent le plan vertical. La gravité est la force vers le bas qui tire l'avion vers le centre de la Terre. Elle est constante, lourde et essaie sans relâche de garder vos pieds bien ancrés au sol.",
+        "Pour vaincre la gravité, l'avion doit générer de la portance. Il s'agit de la force ascendante créée par les ailes lorsqu'elles fendent l'air. Alors que les moteurs fournissent la poussée pour faire accélérer l'avion sur la piste, l'air s'écoule au-dessus et en dessous des ailes spécialement profilées, créant la portance nécessaire pour arracher l'appareil vers les nuages."
+      ]
+    },
+    {
+      "heading": "La magie des ailes",
+      "paragraphs": [
+        "Alors, comment les ailes créent-elles exactement de la portance ? Tout est une question de pression de l'air et de la forme de l'aile, appelée profil aérodynamique. Lorsque l'avion avance, l'aile fend l'air qui arrive en face. En raison de la courbure supérieure de l'aile et de sa légère inclinaison, l'air qui passe par-dessus doit se déplacer plus vite que celui qui passe en dessous.",
+        "Selon les principes de la dynamique des fluides, l'air qui se déplace plus vite crée une pression plus faible, tandis que l'air plus lent en dessous crée une pression plus élevée. Cette pression élevée sous l'aile pousse vers le haut, soulevant ainsi l'appareil tout entier dans le ciel. Lorsque la portance ascendante égale ou dépasse la traction vers le bas de la gravité, vous êtes officiellement en train de voler !"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "What happens if both engines fail on a commercial airliner?",
+      "a": "Les avions sont conçus pour planer même si les moteurs s'arrêtent de fonctionner. Les pilotes sont longuement formés pour faire planer l'appareil en toute sécurité jusqu'à une piste en convertissant l'altitude en vitesse horizontale et en distance."
+    },
+    {
+      "q": "Pourquoi les bouts des ailes des avions sont-ils inclinés vers le haut ?",
+      "a": "Ces extrémités recourbées s'appellent des winglets (ou ailerons de bout d'aile). Ils réduisent les tourbillons d'air qui se forment à l'bout des ailes, ce qui diminue la traînée et aide l'avion à consommer moins de carburant pendant le vol."
+    },
+    {
+      "q": "Les avions peuvent-ils voler à l'envers ?",
+      "a": "Oui, les avions de chasse et les avions de voltige peuvent voler à l'envers car ils peuvent incliner leurs ailes pour pousser l'air d'une manière qui génère une force ascendante même en position inversée. Les avions de ligne commerciaux, en revanche, ne sont pas construits pour cela !"
+    }
+  ],
+  "slug": "how-do-airplanes-fly-the-physics-of-flight-explained",
+  "date": "2026-10-14",
+  "topic": "How Do Airplanes Fly? The Physics of Lift, Drag, and Thrust Explained",
+  "trending": false
+}

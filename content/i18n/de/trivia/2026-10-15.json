@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-15",
+  "title": "Täglicher Wissens-Kick: 15. Oktober 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "In welchem Land liegt La Paz, die nach Höhenlage am höchsten gelegene Hauptstadt der Welt?",
+      "options": [
+        "Ecuador",
+        "Peru",
+        "Bolivia",
+        "Kolumbien"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La Paz liegt auf einer beeindruckenden Höhe von etwa 3.650 Metern über dem Meeresspiegel."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Welches Gas macht den Hauptbestandteil der Atmosphäre der Venus aus?",
+      "options": [
+        "Wasserstoff",
+        "Stickstoff",
+        "Kohlenstoffdioxid",
+        "Sauerstoff"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Kohlenstoffdioxid macht etwa 96,5 % der dichten Venusatmosphäre aus und sorgt für einen extremen Treibhauseffekt."
+    },
+    {
+      "category": "Geschichte",
+      "question": "In welchem Jahr fand die historische Schlacht bei Waterloo statt, die die endgültige Niederlage von Napoleon Bonaparte besiegelte?",
+      "options": [
+        "1789",
+        "1815",
+        "1830",
+        "1805"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Die entscheidende Schlacht wurde am 18. Juni 1815 in der Nähe von Waterloo im heutigen Belgien geschlagen."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Welcher Schauspieler lieh Darth Vader in der originalen Star Wars-Trilogie seine legendäre Stimme?",
+      "options": [
+        "Sir Alec Guinness",
+        "James Earl Jones",
+        "David Prowse",
+        "Frank Oz"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Während David Prowse den Bösewicht im Kostüm körperlich darstellte, lieferte James Earl Jones die dröhnende, unvergessliche Stimme."
+    },
+    {
+      "category": "Essen & Trinken",
+      "question": "Welcher Käse wird in der traditionellen italienischen Küche hauptsächlich für die Zubereitung von echtem Pesto Genovese verwendet?",
+      "options": [
+        "Parmigiano-Reggiano",
+        "Gorgonzola",
+        "Mozzarella",
+        "Ricotta"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Echtes Pesto Genovese kombiniert frischen Basilikum, Knoblauch, Pinienkerne, grobes Salz, Parmigiano-Reggiano, Pecorino und Olivenöl."
+    },
+    {
+      "category": "Tiere",
+      "question": "Welche einzigartige körperliche Anpassung befähigt Eulen dazu, ihre Umgebung zu überblicken, obwohl ihre Augen starr in den Augenhöhlen sitzen?",
+      "options": [
+        "Sie können ihren Kopf um bis zu 270 Grad drehen",
+        "Sie besitzen unabhängig voneinander bewegliche Pupillen",
+        "Sie haben einen zweiten Satz durchsichtiger Augenlider",
+        "Sie können sich mithilfe spezieller Federohren per Echolot orientieren"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Eulen haben 14 Halswirbel, wodurch sie ihren Kopf erstaunlich weit drehen können, um die unbeweglichen Augen auszugleichen."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Feldspieler stehen bei einem regulären Eishockeyspiel pro Mannschaft gleichzeitig auf dem Eis (ohne Torhüter)?",
+      "options": [
+        "6",
+        "5",
+        "4",
+        "7"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Eine Standardmannschaft schickt fünf Feldspieler (drei Stürmer und zwei Verteidiger) plus einen Torhüter aufs Eis."
+    },
+    {
+      "category": "Sprache",
+      "question": "Welcher sprachliche Begriff bezeichnet ein Wort, das aus den Anfangsbuchstaben anderer Wörter gebildet wird – wie „NASA“ oder „Radar“ –, und als eigenständiges Wort ausgesprochen wird?",
+      "options": [
+        "Oxymoron",
+        "Portmanteau-Wort",
+        "Akronym",
+        "Palindrom"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Im Gegensatz zu Abkürzungen, bei denen jeder Buchstabe einzeln ausgesprochen wird (wie bei Bafög), werden Akronyme als ganzes Wort ausgesprochen."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Saturnmond ist dafür bekannt, eine dicke, stickstoffreiche Atmosphäre und Seen aus flüssigem Methan auf seiner Oberfläche zu besitzen?",
+      "options": [
+        "Enceladus",
+        "Titan",
+        "Iapetus",
+        "Mimas"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Titan ist der einzige Mond in unserem Sonnensystem, von dem bekannt ist, dass er eine dichte Atmosphäre und stabile Vorkommen von Oberflächenflüssigkeit besitzt."
+    },
+    {
+      "category": "Geografie",
+      "question": "Welche beiden europäischen Länder trennt der Bottnische Meerbusen voneinander?",
+      "options": [
+        "Italien und Griechenland",
+        "Schweden und Finnland",
+        "Estland und Lettland",
+        "Norwegen und Dänemark"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Der Bottnische Meerbusen ist der nördlichste Arm der Ostsee und liegt zwischen Schweden im Westen und Finnland im Osten."
+    }
+  ]
+}
