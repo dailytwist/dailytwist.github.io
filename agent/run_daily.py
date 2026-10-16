@@ -51,6 +51,39 @@ def _post(url, body, headers):
         return json.loads(r.read())
 
 
+_GEMINI_MODEL = None
+
+
+def gemini_model(key: str) -> str:
+    """Pick a working Gemini model: the configured one if it exists, otherwise the newest Flash-Lite / Flash."""
+    global _GEMINI_MODEL
+    if _GEMINI_MODEL:
+        return _GEMINI_MODEL
+    wanted = CONFIG.get("gemini_model", "")
+    try:
+        req = urllib.request.Request("https://generativelanguage.googleapis.com/v1beta/models?pageSize=200",
+                                     headers={"x-goog-api-key": key})
+        with urllib.request.urlopen(req, timeout=60) as r:
+            models = json.loads(r.read()).get("models", [])
+        names = [m["name"].split("/", 1)[1] for m in models
+                 if "generateContent" in m.get("supportedGenerationMethods", [])]
+        print(f"  available Gemini models: {', '.join(names[:40])}")
+        if wanted in names:
+            _GEMINI_MODEL = wanted
+        else:
+            def score(n):
+                bad = any(x in n for x in ("preview", "exp", "tts", "image", "live", "audio", "embedding", "robotics", "thinking"))
+                kind = 2 if "flash-lite" in n else 1 if "flash" in n else 0
+                ver = [int(x) for x in re.findall(r"\d+", n)[:2]] + [0, 0]
+                return (not bad, kind > 0, "latest" in n, kind, ver[0], ver[1])
+            _GEMINI_MODEL = max(names, key=score) if names else (wanted or "gemini-flash-lite-latest")
+    except Exception as e:
+        print(f"  could not list models ({e})")
+        _GEMINI_MODEL = "gemini-flash-lite-latest"
+    print(f"  using Gemini model: {_GEMINI_MODEL}")
+    return _GEMINI_MODEL
+
+
 def ask_ai(prompt: str, max_tokens: int = 4000, retries: int = 4) -> str:
     """Uses Google Gemini (free tier) if GEMINI_API_KEY is set, otherwise Anthropic Claude."""
     gkey = os.environ.get("GEMINI_API_KEY")
@@ -62,7 +95,7 @@ def ask_ai(prompt: str, max_tokens: int = 4000, retries: int = 4) -> str:
     for attempt in range(retries):
         try:
             if gkey:
-                model = CONFIG.get("gemini_model", "gemini-2.5-flash-lite")
+                model = gemini_model(gkey)
                 data = _post(
                     f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
                     {"contents": [{"parts": [{"text": prompt}]}],
