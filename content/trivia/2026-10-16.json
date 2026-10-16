@@ -6,24 +6,24 @@
       "category": "geography",
       "question": "Which African country is completely landlocked by South Africa?",
       "options": [
-        "Botswana",
-        "Lesotho",
         "Eswatini",
-        "Zimbabwe"
+        "Botswana",
+        "Zimbabwe",
+        "Lesotho"
       ],
-      "answer_index": 1,
+      "answer_index": 3,
       "fun_fact": "Lesotho is one of only three independent nations in the world completely surrounded by a single host country."
     },
     {
       "category": "science",
       "question": "What is the chemical symbol for the element gold?",
       "options": [
-        "Ag",
-        "Gd",
         "Au",
-        "Go"
+        "Go",
+        "Gd",
+        "Ag"
       ],
-      "answer_index": 2,
+      "answer_index": 0,
       "fun_fact": "The symbol 'Au' comes from the Latin word 'aurum', meaning 'shining dawn'."
     },
     {
@@ -31,35 +31,35 @@
       "question": "Which 1994 film features the famous line, 'Life is like a box of chocolates'?",
       "options": [
         "Pulp Fiction",
-        "The Shawshank Redemption",
         "Forrest Gump",
-        "Speed"
+        "Speed",
+        "The Shawshank Redemption"
       ],
-      "answer_index": 2,
+      "answer_index": 1,
       "fun_fact": "Tom Hanks famously improvised a slight variation of this line, which originally appeared in the novel by Winston Groom."
     },
     {
       "category": "history",
       "question": "The ancient city of Carthage was located near the modern-day coast of which country?",
       "options": [
-        "Tunisia",
-        "Egypt",
         "Greece",
-        "Italy"
+        "Egypt",
+        "Italy",
+        "Tunisia"
       ],
-      "answer_index": 0,
+      "answer_index": 3,
       "fun_fact": "Carthage was founded by the Phoenicians in the 9th century BCE and later became the rival of the Roman Republic."
     },
     {
       "category": "animals",
       "question": "What is a group of crows commonly called?",
       "options": [
+        "A swarm",
         "A pack",
         "A murder",
-        "A flock",
-        "A swarm"
+        "A flock"
       ],
-      "answer_index": 1,
+      "answer_index": 2,
       "fun_fact": "Crows are exceptionally intelligent birds that can recognize individual human faces and remember them for years."
     },
     {
@@ -67,47 +67,47 @@
       "question": "Traditional pesto sauce originates from which region of Italy?",
       "options": [
         "Sicily",
-        "Tuscany",
         "Liguria",
-        "Campania"
+        "Campania",
+        "Tuscany"
       ],
-      "answer_index": 2,
+      "answer_index": 1,
       "fun_fact": "Pesto alla Genovese specifically hails from Genoa, the capital city of the Liguria region."
     },
     {
       "category": "sports",
       "question": "In bowling, what term is used when a player knocks down all ten pins with two consecutive rolls in a single frame?",
       "options": [
-        "Strike",
-        "Spare",
         "Split",
-        "Turkey"
+        "Turkey",
+        "Spare",
+        "Strike"
       ],
-      "answer_index": 1,
+      "answer_index": 2,
       "fun_fact": "While a strike is scored with the first ball of a frame, a spare requires two rolls to clear the deck."
     },
     {
       "category": "language",
       "question": "From which language did English borrow the word 'safari'?",
       "options": [
+        "Persian",
         "Arabic",
         "Swahili",
-        "Hindi",
-        "Persian"
+        "Hindi"
       ],
-      "answer_index": 1,
+      "answer_index": 2,
       "fun_fact": "The Swahili word 'safari' ultimately derives from an Arabic root meaning 'to make a journey'."
     },
     {
       "category": "space",
       "question": "Which planet in our solar system has the most prominent and complex ring system visible from Earth?",
       "options": [
-        "Jupiter",
         "Uranus",
-        "Saturn",
-        "Neptune"
+        "Jupiter",
+        "Neptune",
+        "Saturn"
       ],
-      "answer_index": 2,
+      "answer_index": 3,
       "fun_fact": "Saturn's rings are made almost entirely of chunks of water ice, ranging in size from microscopic dust to boulders."
     },
     {

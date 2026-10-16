@@ -19,6 +19,7 @@ import argparse
 import datetime as dt
 import json
 import os
+import random
 import re
 import sys
 import time
@@ -200,6 +201,11 @@ Do not repeat these recent questions: {json.dumps(recent[-40:])}
 Format: {{"title": "a catchy quiz title", "questions": [{{"category": "...", "question": "...",
 "options": ["...","...","...","..."], "answer_index": 0, "fun_fact": "one-sentence explanation"}}]}}""", max_tokens=5000)
     qs = [q for q in data.get("questions", []) if len(q.get("options", [])) == 4 and 0 <= q.get("answer_index", -1) < 4]
+    rnd = random.Random(str(day))
+    for q in qs:  # shuffle so the right answer is not always in the same spot
+        right = q["options"][q["answer_index"]]
+        rnd.shuffle(q["options"])
+        q["answer_index"] = q["options"].index(right)
     if len(qs) >= 5:
         save(path, {"date": str(day), "title": data.get("title", "Daily Trivia"), "questions": qs})
 
