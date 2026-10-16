@@ -57,7 +57,7 @@ def page(path, title, desc, body, schema=None, priority="0.6"):
         ads = (f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={e(C["adsense_client"])}" '
                'crossorigin="anonymous"></script>')
     ld = f'<script type="application/ld+json">{json.dumps(schema, ensure_ascii=False)}</script>' if schema else ""
-    full_title = title if title.endswith(SITE) else f"{title} | {SITE}"
+    full_title = title if SITE in title else f"{title} | {SITE}"
     doc = f"""<!doctype html>
 <html lang="en">
 <head>
