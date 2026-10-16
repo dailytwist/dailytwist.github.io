@@ -20,7 +20,7 @@ STATE = CONTENT / "telegram_sent.json"
 
 
 def main():
-    token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    token = "".join((os.environ.get("TELEGRAM_BOT_TOKEN") or "").split())  # remove spaces/newlines from copy-paste
     channel = C.get("telegram_channel", "").lstrip("@")
     if not token or not channel:
         print("Telegram not configured, skipping.")

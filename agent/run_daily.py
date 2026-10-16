@@ -308,18 +308,25 @@ def _merge(orig, tr):
     return tr if isinstance(tr, type(orig)) else orig
 
 
-def translate_json(obj, lang: str, max_tokens: int = 8000):
+def translate_json(obj, lang: str, max_tokens: int = 8000, tries: int = 2):
     src = _strip(obj)
-    out = ask_json(f"""Translate every string value in this JSON into natural, fluent {LANG_NAMES.get(lang, lang)}
+    last = None
+    for _ in range(tries):
+        try:
+            out = ask_json(f"""Translate every string value in this JSON into natural, fluent {LANG_NAMES.get(lang, lang)}
 written for a native reader (not word-for-word). Rules:
-- Keep the JSON structure, keys, list lengths and order exactly the same.
+- Keep the JSON structure, keys, list lengths and order EXACTLY the same: one translated string for every source string.
+  Never merge, split, add or remove list items or paragraphs.
 - Keep HTML tags, {{placeholders}} in curly braces, URLs, numbers and brand/person names unchanged.
 - For horoscope and quiz text keep the same playful tone.
 JSON:
 {json.dumps(src, ensure_ascii=False)}""", max_tokens=max_tokens)
-    if _shape(out) != _shape(src):
-        raise ValueError("translated JSON has a different structure")
-    return _merge(obj, out)
+            if _shape(out) != _shape(src):
+                raise ValueError("translated JSON has a different structure")
+            return _merge(obj, out)
+        except Exception as ex:
+            last = ex
+    raise last
 
 
 def ensure_ui(lang: str) -> None:
