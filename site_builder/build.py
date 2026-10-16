@@ -379,36 +379,65 @@ def build_puzzle():
 
 def build_legal():
     email = e(C["contact_email"])
+    key = C.get("web3forms_key", "")
+    if key:
+        contact_box = f"""
+<form id="cf" class="cform">
+  <input type="hidden" name="access_key" value="{e(key)}">
+  <input type="hidden" name="subject" value="New message from {e(SITE)}">
+  <input type="checkbox" name="botcheck" style="display:none" tabindex="-1" autocomplete="off">
+  <label>Your name<input name="name" required maxlength="100"></label>
+  <label>Your email<input name="email" type="email" required maxlength="150"></label>
+  <label>Message<textarea name="message" required rows="6" maxlength="4000"></textarea></label>
+  <button class="btn" type="submit">Send message</button>
+  <p id="cf-msg" class="msg" aria-live="polite"></p>
+</form>
+<script>
+document.getElementById('cf').addEventListener('submit', function(ev){{
+  ev.preventDefault(); var f=this, m=document.getElementById('cf-msg'), b=f.querySelector('button');
+  b.disabled=true; m.textContent='Sending…';
+  fetch('https://api.web3forms.com/submit',{{method:'POST',body:new FormData(f)}})
+    .then(function(r){{return r.json()}})
+    .then(function(d){{ if(d.success){{f.reset(); m.textContent='Thank you! Your message was sent.';}} else {{m.textContent='Sorry, something went wrong. Please try again.';}} b.disabled=false; }})
+    .catch(function(){{ m.textContent='Sorry, something went wrong. Please try again.'; b.disabled=false; }});
+}});
+</script>"""
+    else:
+        enc = C["contact_email"][::-1]
+        contact_box = (f'<p class="lead"><a id="em" href="#">Show our email address</a></p>'
+                       f'<script>(function(){{var a=document.getElementById("em");a.addEventListener("click",function(ev){{'
+                       f'var x={json.dumps(enc)}.split("").reverse().join("");if(a.dataset.on){{return}}ev.preventDefault();'
+                       f'a.dataset.on=1;a.href="mailto:"+x;a.textContent=x;}})}})();</script>')
     page("about/", f"About {SITE}", f"Who we are and what {SITE} publishes.", f"""
 <article class="post"><h1>About {e(SITE)}</h1>
 <p>{e(SITE)} is a light-hearted daily destination for curious people. Every day we publish fresh horoscopes for all twelve zodiac signs, a new general-knowledge trivia quiz, a five-letter word puzzle, live holiday countdowns, and easy-to-read explainers about the subjects people are curious about.</p>
 <h2>How we create content</h2>
 <p>Our editorial process uses AI-assisted drafting under strict guidelines: evergreen, family-friendly topics only; no news reporting, no medical, legal or financial advice; and only well-established facts. Horoscopes and quizzes are entertainment. If you spot a mistake, please <a href="/contact/">contact us</a> and we will correct it quickly.</p>
-<h2>Contact</h2><p>Email: <a href="mailto:{email}">{email}</a></p></article>""", priority="0.3")
+<h2>Contact</h2><p>Reach us through our <a href="/contact/">contact page</a>.</p></article>""", priority="0.3")
     page("contact/", "Contact Us", f"How to reach the {SITE} team.", f"""
 <article class="post"><h1>Contact us</h1>
 <p>Questions, corrections, partnership ideas or feedback? We read every message.</p>
-<p class="lead"><a href="mailto:{email}">{email}</a></p>
+{contact_box}
 <p>We usually reply within 2–3 business days.</p></article>""", priority="0.3")
     page("privacy/", "Privacy Policy", f"Privacy policy for {SITE}.", f"""
 <article class="post"><h1>Privacy Policy</h1><p class="muted">Last updated: {TODAY.strftime("%B %-d, %Y")}</p>
 <p>This policy explains what information is collected when you visit {e(SITE)} ({e(URL)}).</p>
 <h2>Information we collect</h2>
-<p>We do not ask you to create an account and we do not collect your name, address or other personal details through forms. If you email us, we use your email address only to reply.</p>
+<p>We do not ask you to create an account. If you write to us through the contact page, we receive the name, email address and message you choose to send, and we use them only to reply to you. Contact messages are delivered to us by the form service Web3Forms.</p>
 <p>Game progress (for example, your daily puzzle guesses) is stored only in your own browser and is never sent to us.</p>
 <h2>Advertising and cookies</h2>
 <p>We use Google AdSense to show advertising. Third-party vendors, including Google, use cookies to serve ads based on your prior visits to this website or other websites. Google's use of advertising cookies enables it and its partners to serve ads to you based on your visit to this site and/or other sites on the Internet.</p>
 <p>You may opt out of personalised advertising by visiting <a href="https://www.google.com/settings/ads" rel="nofollow">Google Ads Settings</a>, or opt out of some third-party vendors' use of cookies for personalised advertising at <a href="https://www.aboutads.info/choices/" rel="nofollow">www.aboutads.info</a>. Learn more about <a href="https://policies.google.com/technologies/partner-sites" rel="nofollow">how Google uses information from sites that use its services</a>.</p>
 <p>Visitors in the European Economic Area, the UK and Switzerland are asked for consent through a consent message before personalised ads are shown.</p>
 <h2>Children</h2><p>This site is not directed to children under 13 and we do not knowingly collect information from them.</p>
-<h2>Changes and contact</h2><p>We may update this policy; the date above shows the latest version. Questions: <a href="mailto:{email}">{email}</a>.</p></article>""", priority="0.2")
+<h2>Changes and contact</h2><p>We may update this policy; the date above shows the latest version. Questions: use our <a href="/contact/">contact page</a>.</p></article>""", priority="0.2")
     page("terms/", "Terms of Use", f"Terms of use for {SITE}.", f"""
 <article class="post"><h1>Terms of Use</h1><p class="muted">Last updated: {TODAY.strftime("%B %-d, %Y")}</p>
 <p>By using {e(SITE)} you agree to these terms.</p>
 <h2>Entertainment and general information</h2><p>Horoscopes, quizzes and puzzles are provided for entertainment. Articles are general information and are not professional advice of any kind. We work to keep content accurate but cannot guarantee it is complete or error-free.</p>
 <h2>Intellectual property</h2><p>All content on this site is owned by {e(SITE)} unless stated otherwise. You may share links freely; please do not republish full pages without permission.</p>
 <h2>External links and ads</h2><p>We are not responsible for the content of third-party websites or advertisements.</p>
-<h2>Contact</h2><p><a href="mailto:{email}">{email}</a></p></article>""", priority="0.2")
+<h2>Contact</h2><p>Use our <a href="/contact/">contact page</a>.</p></article>""", priority="0.2")
 
 
 def build_misc():

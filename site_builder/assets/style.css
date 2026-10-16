@@ -95,3 +95,6 @@ main{padding:28px 16px 60px}
 .kb button.g{background:var(--good);color:#fff}.kb button.y{background:var(--mid);color:#fff}.kb button.x{background:var(--bad);color:#fff}
 .foot{border-top:1px solid var(--line);background:var(--paper);padding:26px 0;font-size:.92rem}
 .foot .links{display:flex;gap:16px;flex-wrap:wrap}
+.cform{display:grid;gap:14px;max-width:520px}.cform label{display:grid;gap:6px;font-weight:500;font-size:.95rem}
+.cform input,.cform textarea{font:inherit;padding:11px 12px;border:1.5px solid var(--line);border-radius:10px;background:var(--paper);color:var(--ink)}
+.cform input:focus,.cform textarea:focus{outline:none;border-color:var(--accent)}.cform .btn{border:0;cursor:pointer;justify-self:start}
