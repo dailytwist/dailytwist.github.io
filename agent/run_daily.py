@@ -13,7 +13,7 @@ Everything is saved as JSON under content/, then site_builder/build.py turns it 
 Usage:
   python agent/run_daily.py                 # generate content for today
   python agent/run_daily.py --backfill 14   # also fill the last 14 days (horoscopes + trivia + evergreen articles)
-Requires the environment variable ANTHROPIC_API_KEY. No extra packages needed.
+Requires GEMINI_API_KEY (free, Google AI Studio) or ANTHROPIC_API_KEY. No extra packages needed.
 """
 import argparse
 import datetime as dt
@@ -45,28 +45,36 @@ API_URL = "https://api.anthropic.com/v1/messages"
 
 
 # ---------------------------------------------------------------- helpers
-def ask_ai(prompt: str, max_tokens: int = 4000, retries: int = 3) -> str:
-    key = os.environ.get("ANTHROPIC_API_KEY")
-    if not key:
-        sys.exit("ANTHROPIC_API_KEY is not set.")
-    body = json.dumps({
-        "model": CONFIG["ai_model"],
-        "max_tokens": max_tokens,
-        "messages": [{"role": "user", "content": prompt}],
-    }).encode()
+def _post(url, body, headers):
+    req = urllib.request.Request(url, data=json.dumps(body).encode(), headers=headers)
+    with urllib.request.urlopen(req, timeout=180) as r:
+        return json.loads(r.read())
+
+
+def ask_ai(prompt: str, max_tokens: int = 4000, retries: int = 4) -> str:
+    """Uses Google Gemini (free tier) if GEMINI_API_KEY is set, otherwise Anthropic Claude."""
+    gkey = os.environ.get("GEMINI_API_KEY")
+    akey = os.environ.get("ANTHROPIC_API_KEY")
+    if not gkey and not akey:
+        sys.exit("Set GEMINI_API_KEY or ANTHROPIC_API_KEY.")
     for attempt in range(retries):
         try:
-            req = urllib.request.Request(API_URL, data=body, headers={
-                "x-api-key": key,
-                "anthropic-version": "2023-06-01",
-                "content-type": "application/json",
-            })
-            with urllib.request.urlopen(req, timeout=180) as r:
-                data = json.loads(r.read())
+            if gkey:
+                model = CONFIG.get("gemini_model", "gemini-2.5-flash-lite")
+                data = _post(
+                    f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
+                    {"contents": [{"parts": [{"text": prompt}]}],
+                     "generationConfig": {"maxOutputTokens": max_tokens, "temperature": 0.9}},
+                    {"x-goog-api-key": gkey, "content-type": "application/json"})
+                return "".join(p.get("text", "") for p in data["candidates"][0]["content"]["parts"])
+            data = _post(API_URL, {"model": CONFIG["ai_model"], "max_tokens": max_tokens,
+                                   "messages": [{"role": "user", "content": prompt}]},
+                         {"x-api-key": akey, "anthropic-version": "2023-06-01", "content-type": "application/json"})
             return "".join(b.get("text", "") for b in data["content"])
         except Exception as e:  # network / rate limit
-            print(f"  AI call failed ({e}), retry {attempt + 1}/{retries}")
-            time.sleep(10 * (attempt + 1))
+            wait = 65 if "429" in str(e) else 10 * (attempt + 1)
+            print(f"  AI call failed ({e}), retry {attempt + 1}/{retries} in {wait}s")
+            time.sleep(wait)
     raise RuntimeError("AI call failed after retries")
 
 
