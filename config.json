@@ -1,0 +1,11 @@
+{
+  "site_name": "DailyTwist",
+  "tagline": "Your daily dose of horoscopes, trivia, puzzles and fun explainers",
+  "site_url": "https://dailytwist.github.io",
+  "contact_email": "contact@example.com",
+  "adsense_client": "",
+  "ai_model": "claude-haiku-5-5",
+  "trends_geo": "US",
+  "articles_per_day": 3,
+  "trivia_questions_per_day": 10
+}
