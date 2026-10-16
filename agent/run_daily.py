@@ -86,7 +86,7 @@ def gemini_model(key: str) -> str:
     return _GEMINI_MODEL
 
 
-def ask_ai(prompt: str, max_tokens: int = 4000, retries: int = 4) -> str:
+def ask_ai(prompt: str, max_tokens: int = 4000, retries: int = 4, json_mode: bool = False) -> str:
     """Uses Google Gemini (free tier) if GEMINI_API_KEY is set, otherwise Anthropic Claude."""
     gkey = os.environ.get("GEMINI_API_KEY")
     akey = os.environ.get("ANTHROPIC_API_KEY")
@@ -102,7 +102,8 @@ def ask_ai(prompt: str, max_tokens: int = 4000, retries: int = 4) -> str:
                 data = _post(
                     f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
                     {"contents": [{"parts": [{"text": prompt}]}],
-                     "generationConfig": {"maxOutputTokens": max_tokens, "temperature": 0.9}},
+                     "generationConfig": {"maxOutputTokens": max_tokens, "temperature": 0.9,
+                                          **({"responseMimeType": "application/json"} if json_mode else {})}},
                     {"x-goog-api-key": gkey, "content-type": "application/json"})
                 return "".join(p.get("text", "") for p in data["candidates"][0]["content"]["parts"])
             data = _post(API_URL, {"model": CONFIG["ai_model"], "max_tokens": max_tokens,
@@ -123,7 +124,7 @@ def ask_ai(prompt: str, max_tokens: int = 4000, retries: int = 4) -> str:
 
 
 def ask_json(prompt: str, max_tokens: int = 4000):
-    text = ask_ai(prompt + "\n\nReturn ONLY valid JSON, no markdown fences, no comments.", max_tokens)
+    text = ask_ai(prompt + "\n\nReturn ONLY valid JSON, no markdown fences, no comments.", max_tokens, json_mode=True)
     text = text.strip()
     text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text)
     start = min([i for i in (text.find("{"), text.find("[")) if i >= 0], default=0)
