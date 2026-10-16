@@ -206,6 +206,7 @@ def render(lang, path, pg):
             f"if(p&&p!==cur&&alt[p]&&location.pathname.indexOf('/puzzle/')<0)location.replace({json.dumps(BASE)}+alt[p]+location.search);"
             f"}}catch(x){{}}}})();</script>")
     pre = P(lang)
+    tg = f'<a href="https://t.me/{e(C["telegram_channel"])}" rel="noopener">Telegram</a>' if C.get("telegram_channel") else ""
     doc = f"""<!doctype html>
 <html lang="{lang}" dir="{'rtl' if lang in RTL else 'ltr'}">
 <head>
@@ -223,6 +224,7 @@ def render(lang, path, pg):
 <meta property="og:locale" content="{lang}">
 <meta name="theme-color" content="#5b3df5">
 {auto}
+<link rel="alternate" type="application/rss+xml" title="{e(SITE)} ({lang})" href="{pre}/feed.xml">
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -253,7 +255,7 @@ def render(lang, path, pg):
   <div class="wrap">
     <p class="brand small-brand"><span class="logo">✦</span>{e(SITE)}</p>
     <p>{e(T(lang, 'tagline'))}.</p>
-    <p class="links"><a href="{pre}/about/">{e(T(lang, 'about'))}</a><a href="{pre}/contact/">{e(T(lang, 'contact'))}</a><a href="{pre}/privacy/">{e(T(lang, 'privacy'))}</a><a href="{pre}/terms/">{e(T(lang, 'terms'))}</a><a href="/sitemap.xml">Sitemap</a></p>
+    <p class="links"><a href="{pre}/about/">{e(T(lang, 'about'))}</a><a href="{pre}/contact/">{e(T(lang, 'contact'))}</a><a href="{pre}/privacy/">{e(T(lang, 'privacy'))}</a><a href="{pre}/terms/">{e(T(lang, 'terms'))}</a><a href="{pre}/feed.xml">RSS</a>{tg}<a href="/sitemap.xml">Sitemap</a></p>
     <p class="small">{e(T(lang, 'footer_note'))} © {TODAY.year} {e(SITE)}</p>
   </div>
 </footer>
@@ -581,6 +583,18 @@ def main():
     if "example.com" not in host and "github.io" not in host:
         (OUT / "CNAME").write_text(host + "\n", encoding="utf-8")
     (OUT / ".nojekyll").write_text("", encoding="utf-8")
+    for lang in LANGS:
+        D = DATA[lang]
+        items = []
+        for a in D["articles"][:20]:
+            link = f"{URL}{P(lang)}/articles/{a['slug']}/"
+            pub = dt.datetime.fromisoformat(a["date"]).replace(hour=6, tzinfo=dt.timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
+            items.append(f"<item><title>{e(a['title'])}</title><link>{e(link)}</link><guid>{e(link)}</guid>"
+                         f"<pubDate>{pub}</pubDate><description>{e(a['description'])}</description></item>")
+        (OUT / P(lang).lstrip("/") / "feed.xml").write_text(
+            '<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel>'
+            f"<title>{e(SITE)}</title><link>{e(URL)}{P(lang)}/</link><description>{e(T(lang, 'tagline'))}</description>"
+            f"<language>{lang}</language>{''.join(items)}</channel></rss>", encoding="utf-8")
     urls = []
     for loc, pri, alts in sitemap:
         links = "".join(f'<xhtml:link rel="alternate" hreflang="{l}" href="{e(u)}"/>' for l, u in alts.items()) if len(alts) > 1 else ""
