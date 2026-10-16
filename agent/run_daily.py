@@ -67,7 +67,7 @@ def gemini_model(key: str) -> str:
             models = json.loads(r.read()).get("models", [])
         names = [m["name"].split("/", 1)[1] for m in models
                  if "generateContent" in m.get("supportedGenerationMethods", [])]
-        print(f"  available Gemini models: {', '.join(names[:40])}")
+        print(f"::warning::Gemini models available: {', '.join(names[:40])}")
         if wanted in names:
             _GEMINI_MODEL = wanted
         else:
@@ -78,9 +78,10 @@ def gemini_model(key: str) -> str:
                 return (not bad, kind > 0, "latest" in n, kind, ver[0], ver[1])
             _GEMINI_MODEL = max(names, key=score) if names else (wanted or "gemini-flash-lite-latest")
     except Exception as e:
-        print(f"  could not list models ({e})")
+        body = " ".join(e.read().decode().split())[:300] if hasattr(e, "read") else ""
+        print(f"::warning::could not list Gemini models ({e} {body})")
         _GEMINI_MODEL = "gemini-flash-lite-latest"
-    print(f"  using Gemini model: {_GEMINI_MODEL}")
+    print(f"::warning::using Gemini model: {_GEMINI_MODEL}")
     return _GEMINI_MODEL
 
 
@@ -109,7 +110,7 @@ def ask_ai(prompt: str, max_tokens: int = 4000, retries: int = 4) -> str:
         except Exception as e:  # network / rate limit
             if hasattr(e, "read"):
                 try:
-                    e = f"{e} {e.read().decode()[:300]}"
+                    e = f"{e} " + " ".join(e.read().decode().split())[:300]
                 except Exception:
                     pass
             last_error = str(e)
@@ -279,7 +280,7 @@ def main() -> None:
             fn(*a)
         except Exception as e:
             errors += 1
-            print(f"::error::{fn.__name__} failed: {str(e)[:400]}")
+            print(f"::error::{fn.__name__} failed: {str(e)[:600]}")
     if errors == len(jobs):
         sys.exit(1)
     print("Agent finished.")
