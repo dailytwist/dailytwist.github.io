@@ -221,6 +221,7 @@ Topic: "{topic}"
 Rules:
 - Original, helpful, people-first content; 700-1000 words; clear structure.
 - Only state facts you are highly confident are true. If unsure, leave it out. Never invent quotes, statistics or dates.
+- Never write about unreleased products, rumors, leaks or upcoming events you cannot verify.
 - No medical, legal or financial advice; nothing sexual, violent, political or hateful; no clickbait lies.
 - If the topic cannot be written safely and accurately as an evergreen piece, return {{"skip": true}}.
 Format: {{"title": "SEO-friendly title (max 65 chars)", "description": "meta description (max 155 chars)",
@@ -245,7 +246,7 @@ def make_articles(day: dt.date, topics: list, count: int) -> None:
         picks = ask_json(f"""Here are today's trending search terms: {json.dumps(topics)}
 Pick up to {count} that make a great EVERGREEN, family-friendly explainer article (celebrities' careers, movies, TV shows,
 games, products, sports teams' history, places, holidays, food, science...).
-Reject anything about deaths, crimes, accidents, politics, health scares, gambling, adult content, or that only makes sense as breaking news.
+Reject unreleased products, rumors and anything about deaths, crimes, accidents, politics, health scares, gambling, adult content, or that only makes sense as breaking news.
 Avoid subjects already covered: {json.dumps(done[-60:])}
 Format: {{"picks": ["topic", ...]}}""", max_tokens=500).get("picks", [])
     else:
