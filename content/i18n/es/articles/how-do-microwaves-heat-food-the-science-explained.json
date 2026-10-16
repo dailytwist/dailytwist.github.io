@@ -1,0 +1,61 @@
+{
+  "title": "¿Cómo calientan los microondas la comida? La ciencia explicada",
+  "description": "Descubre la fascinante ciencia detrás de cómo los hornos microondas calientan tus alimentos usando ondas electromagnéticas invisibles. Rápido, divertido y fácil de entender.",
+  "category": "Science",
+  "sections": [
+    {
+      "heading": "Introducción: La caja mágica de la cocina",
+      "paragraphs": [
+        "Todos lo hemos vivido: metes un plato frío de pasta en el microondas, presionas un par de botones y, sesenta segundos después, sostienes una comida humeante. Se siente casi mágico, como si hubiera un pequeño sol atrapado detrás de esa puerta de vidrio. Sin embargo, a diferencia de un horno convencional que calienta el aire alrededor de la comida, el microondas adopta un enfoque completamente diferente y de alta tecnología.",
+        "En lugar de esperar a que el aire caliente penetre lentamente en tu comida de afuera hacia adentro, el microondas dispara energía invisible directamente a los alimentos. Pero, ¿cómo convierte la radiación invisible la sopa de ayer en la cena? Corramos la cortina de malla metálica y echemos un vistazo a la física que ocurre justo dentro de tu electrodoméstico."
+      ]
+    },
+    {
+      "heading": "Conoce al magnetrón: El corazón de la máquina",
+      "paragraphs": [
+        "Para entender cómo funciona un microondas, tienes que conocer su motor: el magnetrón. Escondido detrás del panel de control, este tubo electrónico actúa como un generador. Cuando enciendes el aparato, el magnetrón toma la electricidad del tomacorriente de la pared y la convierte en ondas electromagnéticas de alta potencia (específicamente, ondas de radio en la banda de frecuencia de microondas).",
+        "Estas ondas operan a una frecuencia de unos 2,45 gigahercios. Esto significa que oscilan, o van y vienen, aproximadamente 2.450 millones de veces por cada segundo. Una vez generadas, estas ondas se canalizan desde el magnetrón hacia la cavidad de cocción a través de un conducto llamado guía de ondas, listas para interactuar con cualquier refrigerio que hayas colocado en el plato giratorio de vidrio."
+      ]
+    },
+    {
+      "heading": "Fiesta de baile molecular: Agua, grasa y azúcar",
+      "paragraphs": [
+        "Aquí es donde ocurre la verdadera ciencia. Los microondas no calientan cualquier cosa indiscriminadamente; apuntan específicamente a moléculas que tienen una asimetría eléctrica, sobre todo el agua, las grasas y los azúcares. Estas moléculas son como pequeños imanes, con una carga positiva en un extremo y una carga negativa en el otro.",
+        "Debido a que las microondas del magnetrón oscilan miles de millones de veces por segundo, crean un campo eléctrico que cambia rápidamente. Atrapadas en este campo oscilante, las moléculas de agua polares intentan realinearse frenéticamente con las ondas cambiantes. Imagina miles de millones de diminutas agujas de brújula girando descontroladamente mientras agitas un imán gigante sobre ellas.",
+        "Este giro frenético y los choques crean fricción. Al igual que frotar tus manos rápidamente en un día frío de invierno genera calor, la fricción molecular generada por este baile de alta velocidad calienta la comida desde adentro hacia afuera en cuestión de segundos."
+      ]
+    },
+    {
+      "heading": "The Metal Mystery and the Turntable",
+      "paragraphs": [
+        "This brings us to everyone's favorite microwave rule: never put metal inside. Metals are full of free-moving electrons. When microwaves hit a piece of metal, instead of causing gentle molecular friction, the waves cause electrical currents to race across the surface. If the metal has sharp edges or points—like the tines of a fork or gold leaf trim on a vintage plate—the electrical charge concentrates there, leading to sparks, arcs, and potentially a mini fire.",
+        "To prevent uneven heating due to waves bouncing around the metal box in unpredictable patterns, engineers added the spinning glass turntable. By rotating the food through the peaks and valleys of the electromagnetic wave pattern, the turntable ensures your burrito gets heated evenly rather than ending up with scorching hot spots and frozen centers."
+      ]
+    },
+    {
+      "heading": "El misterio del metal y el plato giratorio",
+      "paragraphs": [
+        "Esto nos lleva a la regla favorita de todos sobre el microondas: nunca metas metal. Los metales están llenos de electrones libres. Cuando las microondas golpean una pieza de metal, en lugar de causar una suave fricción molecular, provocan que corrientes eléctricas corran por su superficie. Si el metal tiene bordes afilados o puntas (como los dientes de un tenedor o el borde dorado de un plato antiguo), la carga eléctrica se concentra allí, lo que genera chispas, arcos eléctricos y potencialmente un pequeño incendio.",
+        "Para evitar un calentamiento desigual debido a que las ondas rebotan por la caja metálica en patrones impredecibles, los ingenieros añadieron el plato giratorio de vidrio. Al hacer girar la comida a través de los picos y valles del patrón de ondas electromagnéticas, el plato giratorio garantiza que tu burrito se caliente de manera uniforme en lugar de terminar con zonas hirviendo y centros congelados."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Por qué los microondas tienen una pantalla de malla metálica en la puerta?",
+      "a": "La malla metálica contiene pequeños agujeros que dejan pasar la luz visible para que puedas ver tu comida, pero los agujeros son mucho más pequeños que la longitud de onda de las microondas. Esto actúa como una barrera, atrapando las ondas electromagnéticas de forma segura dentro de la cavidad de cocción."
+    },
+    {
+      "q": "¿Destruyen los microondas los nutrientes de los alimentos?",
+      "a": "No más que cualquier otro método de cocción. De hecho, como los microondas cocinan los alimentos rápidamente y a menudo requieren poca o nada de agua añadida, en realidad pueden preservar mejor las vitaminas hidrosolubles que hervirlos."
+    },
+    {
+      "q": "¿Por qué es necesario dejar 'reposar' la comida después de usar el microondas?",
+      "a": "Los microondas no siempre calientan de manera completamente uniforme. Dejar reposar la comida durante uno o dos minutos después de que suena el temporizador le da al tiempo del calor para conducirse de manera uniforme por todo el plato."
+    }
+  ],
+  "slug": "how-do-microwaves-heat-food-the-science-explained",
+  "date": "2026-10-16",
+  "topic": "How Do Microwaves Heat Food? The Science of Electromagnetic Waves",
+  "trending": false
+}

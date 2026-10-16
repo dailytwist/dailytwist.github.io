@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-16",
+  "title": "Desafío de Trivia Diario: 16 de octubre de 2026",
+  "questions": [
+    {
+      "category": "geografía",
+      "question": "¿Qué país africano está completamente rodeado por Sudáfrica?",
+      "options": [
+        "Eswatini",
+        "Botswana",
+        "Zimbabwe",
+        "Lesotho"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Lesotho es una de las únicas tres naciones independientes del mundo que están completamente rodeadas por un único país anfitrión."
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Cuál es el símbolo químico del elemento oro?",
+      "options": [
+        "Au",
+        "Go",
+        "Gd",
+        "Ag"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El símbolo 'Au' proviene de la palabra latina 'aurum', que significa 'brillante amanecer'."
+    },
+    {
+      "category": "cine y cultura pop",
+      "question": "¿Qué película de 1994 incluye la famosa frase: «La vida es como una caja de bombones»?",
+      "options": [
+        "Pulp Fiction",
+        "Forrest Gump",
+        "Speed",
+        "The Shawshank Redemption"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Es bien sabido que Tom Hanks improvisó una ligera variación de esta línea, que apareció originalmente en la novela de Winston Groom."
+    },
+    {
+      "category": "historia",
+      "question": "¿Cerca de la costa de qué país actual se encontraba la antigua ciudad de Cartago?",
+      "options": [
+        "Grecia",
+        "Egipto",
+        "Italia",
+        "Túnez"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Cartago fue fundada por los fenicios en el siglo IX a. C. y más tarde se convirtió en la gran rival de la República romana."
+    },
+    {
+      "category": "animales",
+      "question": "¿Cómo se le llama comúnmente a un grupo de cuervos?",
+      "options": [
+        "Un enjambre",
+        "Una manada",
+        "Un congreso",
+        "Una bandada"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Los cuervos son aves excepcionalmente inteligentes capaces de reconocer rostros humanos individuales y recordarlos durante años."
+    },
+    {
+      "category": "gastronomía",
+      "question": "¿De qué región de Italia es originaria la salsa pesto tradicional?",
+      "options": [
+        "Sicilia",
+        "Liguria",
+        "Campania",
+        "Toscana"
+      ],
+      "answer_index": 1,
+      "fun_fact": "El pesto a la genovesa proviene específicamente de Génova, la capital de la región de Liguria."
+    },
+    {
+      "category": "deportes",
+      "question": "En los bolos, ¿qué término se usa cuando un jugador derriba los diez pinos con dos lanzamientos consecutivos en una misma ronda?",
+      "options": [
+        "Split",
+        "Turkey",
+        "Spare",
+        "Strike"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Mientras que el strike se anota con el primer lanzamiento de la ronda, el spare requiere dos tiros para limpiar la pista."
+    },
+    {
+      "category": "idiomas",
+      "question": "¿De qué idioma tomó prestada la lengua inglesa la palabra 'safari'?",
+      "options": [
+        "Persa",
+        "Árabe",
+        "Suajili",
+        "Hindi"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La palabra en suajili 'safari' proviene en última instancia de una raíz árabe que significa 'hacer un viaje'."
+    },
+    {
+      "category": "espacio",
+      "question": "¿Qué planeta de nuestro sistema solar tiene el sistema de anillos más prominente y complejo visible desde la Tierra?",
+      "options": [
+        "Urano",
+        "Júpiter",
+        "Neptuno",
+        "Saturno"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Los anillos de Saturno están compuestos casi en su totalidad por fragmentos de hielo de agua, que van desde polvo microscópico hasta rocas gigantescas."
+    },
+    {
+      "category": "historia",
+      "question": "¿Qué emperador bizantino encargó la construcción de Santa Sofía en Constantinopla durante el siglo VI?",
+      "options": [
+        "Constantino el Grande",
+        "Justiniano I",
+        "Teodosio II",
+        "Heraclio"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Tras su finalización en el año 537 d. C., el emperador Justiniano exclamó según las crónicas: «¡Salomón, te he superado!»"
+    }
+  ]
+}

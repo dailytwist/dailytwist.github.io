@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-16",
+  "title": "Desafio de Trivia Diário: 16 de outubro de 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Qual país africano é completamente cercado pelo território da África do Sul?",
+      "options": [
+        "Eswatini",
+        "Botswana",
+        "Zimbábue",
+        "Lesoto"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O Lesoto é uma das únicas três nações independentes do mundo inteiramente cercadas por um único país hospedeiro."
+    },
+    {
+      "category": "ciência",
+      "question": "Qual é o símbolo químico do elemento ouro?",
+      "options": [
+        "Au",
+        "Go",
+        "Gd",
+        "Ag"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O símbolo 'Au' vem da palavra em latim 'aurum', que significa 'amanhecer brilhante'."
+    },
+    {
+      "category": "filmes e cultura pop",
+      "question": "Qual filme de 1994 traz a famosa frase: 'A vida é como uma caixa de chocolates'?",
+      "options": [
+        "Pulp Fiction",
+        "Forrest Gump",
+        "Velocidade Máxima",
+        "Um Sonho de Liberdade"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Tom Hanks improvisou uma pequena variação dessa frase, que aparecia originalmente no romance de Winston Groom."
+    },
+    {
+      "category": "história",
+      "question": "A antiga cidade de Cartago ficava localizada perto da costa atual de qual país?",
+      "options": [
+        "Grécia",
+        "Egito",
+        "Itália",
+        "Tunísia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Cartago foi fundada pelos fenícios no século IX AEC e mais tarde se tornou rival da República Romana."
+    },
+    {
+      "category": "animais",
+      "question": "Como é comumente chamado um grupo de corvos?",
+      "options": [
+        "Um enxame",
+        "Uma matilha",
+        "Um assassinato",
+        "Um bando"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Os corvos são aves excepcionalmente inteligentes que conseguem reconhecer rostos humanos individuais e se lembrar deles por anos."
+    },
+    {
+      "category": "comida",
+      "question": "O molho pesto tradicional é originário de qual região da Itália?",
+      "options": [
+        "Sicília",
+        "Ligúria",
+        "Campânia",
+        "Toscana"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O Pesto alla Genovese vem especificamente de Gênova, a capital da região da Ligúria."
+    },
+    {
+      "category": "esportes",
+      "question": "No boliche, qual termo é usado quando um jogador derruba todos os dez pinos com duas jogadas consecutivas em uma mesma rodada?",
+      "options": [
+        "Split",
+        "Turkey",
+        "Spare",
+        "Strike"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Enquanto o strike é pontuado com a primeira bola da rodada, o spare exige dois lançamentos para limpar a pista."
+    },
+    {
+      "category": "idiomas",
+      "question": "De qual idioma o inglês pegou emprestada a palavra 'safari'?",
+      "options": [
+        "Persa",
+        "Árabe",
+        "Suaíli",
+        "Hindi"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A palavra em suaíli 'safari' deriva originalmente de uma raiz árabe que significa 'fazer uma viagem'."
+    },
+    {
+      "category": "espaço",
+      "question": "Qual planeta do nosso sistema solar possui o sistema de anéis mais proeminente e complexo visível da Terra?",
+      "options": [
+        "Urano",
+        "Júpiter",
+        "Netuno",
+        "Saturno"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Os anéis de Saturno são feitos quase inteiramente de pedaços de gelo de água, variando de tamanho desde poeira microscópica até grandes rochas."
+    },
+    {
+      "category": "história",
+      "question": "Qual imperador bizantino encomendou a construção da Hagia Sophia (Basílica de Santa Sofia) em Constantinopla durante o século VI?",
+      "options": [
+        "Constantino, o Grande",
+        "Justiniano I",
+        "Teodósio II",
+        "Heráclio"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Após a conclusão da obra em 537 EC, o imperador Justiniano teria exclamado: 'Salomão, eu te superei!'"
+    }
+  ]
+}

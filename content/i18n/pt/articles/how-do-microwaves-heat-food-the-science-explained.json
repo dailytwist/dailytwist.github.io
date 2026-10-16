@@ -1,0 +1,61 @@
+{
+  "title": "Como o Micro-ondas Aquece a Comida? A Ciência Explicada",
+  "description": "Descubra a ciência fascinante por trás de como os fornos de micro-ondas aquecem sua comida usando ondas eletromagnéticas invisíveis. Rápido, divertido e fácil de entender.",
+  "category": "Science",
+  "sections": [
+    {
+      "heading": "Introdução: A Caixa Mágica da Cozinha",
+      "paragraphs": [
+        "Todos nós já passamos por isso: você joga um prato frio de macarrão no micro-ondas, aperta alguns botões e, sessenta segundos depois, está segurando uma refeição bem quente. Parece quase mágica, como se houvesse um pequeno sol preso atrás daquela porta de vidro. No entanto, ao contrário de um forno convencional que aquece o ar ao redor da sua comida, o micro-ondas adota uma abordagem totalmente diferente e de alta tecnologia.",
+        "Em vez de esperar o ar quente penetrar lentamente na sua refeição de fora para dentro, o micro-ondas dispara energia invisível diretamente na comida. Mas como a radiação invisível transforma a sopa de ontem em jantar? Vamos puxar a cortina de tela metálica e dar uma olhada na física que acontece bem dentro do seu eletrodoméstico de bancada."
+      ]
+    },
+    {
+      "heading": "Conheça o Magnetron: O Coração da Máquina",
+      "paragraphs": [
+        "Para entender como um micro-ondas funciona, você precisa conhecer o seu motor: o magnetron. Escondido atrás do painel de controle, este tubo eletrônico atua como um gerador. Quando você liga o aparelho, o magnetron pega a eletricidade da tomada da parede e a converte em ondas eletromagnéticas de alta potência — especificamente, ondas de rádio na faixa de frequência de micro-ondas.",
+        "Esses ondas operam a uma frequência de cerca de 2,45 gigahertz. Isso significa que elas oscilam, ou vão e voltam, aproximadamente 2,45 bilhões de vezes a cada segundo. Uma vez geradas, essas ondas são canalizadas para fora do magnetron e para dentro da cavidade de cozimento através de um canal chamado guia de ondas, prontas para interagir com qualquer lanche que você tenha colocado no prato giratório de vidro."
+      ]
+    },
+    {
+      "heading": "Festa de Dança Molecular: Água, Gordura e Açúcar",
+      "paragraphs": [
+        "Aqui é onde a verdadeira ciência acontece. Os micro-ondas não aquecem qualquer coisa indiscriminadamente; eles têm como alvo específico moléculas que possuem assimetria elétrica, mais notavelmente água, gorduras e açúcares. Essas moléculas são como pequenos ímãs, possuindo uma carga positiva em uma ponta e uma carga negativa na outra.",
+        "Como as micro-ondas do magnetron estão oscilando bilhões de vezes por segundo, elas criam um campo elétrico que muda rapidamente de direção. Presas nesse campo oscilante, as moléculas de água polares tentam freneticamente se realinhar com as ondas em movimento. Imagine bilhões de pequenas agulhas de bússola girando loucamente enquanto um ímã gigante é balançado sobre elas.",
+        "Essa rotação frenética e colisão criam atrito. Assim como esfregar as mãos rapidamente em um dia frio de inverno gera calor, o atrito molecular gerado por essa dança de alta velocidade aquece a comida de dentro para fora em questão de segundos."
+      ]
+    },
+    {
+      "heading": "Por que o Prato Não Esquenta?",
+      "paragraphs": [
+        "Você já tirou uma tigela do micro-ondas e percebeu que a louça cerâmica está queimando, enquanto a sopa lá dentro está apenas morninha? Ou o oposto, a comida está fervendo e o prato está frio? A resposta está nos materiais que as micro-ondas conseguem ou não afetar.",
+        "Materiais como vidro, cerâmica e a maioria dos plásticos não contêm as moléculas polares (como água ou gordura) com as quais as micro-ondas adoram interagir. Consequentemente, as ondas passam direto por esses materiais sem transferir muita energia. Se um prato de cerâmica esquenta, geralmente é porque o calor está se transferindo de dentro para fora, vindo da comida quente apoiada nele, e não porque as micro-ondas aqueceram o prato diretamente."
+      ]
+    },
+    {
+      "heading": "O Mistério do Metal e o Prato Giratório",
+      "paragraphs": [
+        "Isso nos leva à regra favorita de todo mundo sobre o micro-ondas: nunca coloque metal lá dentro. Os metais são cheios de elétrons livres. Quando as micro-ondas atingem um pedaço de metal, em vez de causar um gentil atrito molecular, as ondas fazem correntes elétricas correrem pela superfície. Se o metal tiver bordas afiadas ou pontas — como os dentes de um garfo ou detalhes em ouro em um prato vintage —, a carga elétrica se concentra ali, gerando faíscas, arcos elétricos e potencialmente um pequeno incêndio.",
+        "Para evitar o aquecimento irregular devido a ondas rebatendo dentro da caixa de metal em padrões imprevisíveis, os engenheiros adicionaram o prato giratório de vidro. Ao girar a comida através dos picos e vales do padrão de ondas eletromagnéticas, o prato giratório garante que seu burrito seja aquecido de maneira uniforme, em vez de terminar com pontos superaquecidos e centros congelados."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Por que os micro-ondas têm uma tela de metal na porta?",
+      "a": "A tela de metal contém pequenos furos que deixam a luz visível passar para que você possa ver sua comida, mas os furos são muito menores que o comprimento de onda das micro-ondas. Isso funciona como uma barreira, mantendo as ondas eletromagnéticas presas com segurança dentro da cavidade de cozimento."
+    },
+    {
+      "q": "Os micro-ondas destroem os nutrientes dos alimentos?",
+      "a": "Não mais do que qualquer outro método de cozimento. Na verdade, como os micro-ondas cozinham os alimentos rapidamente e muitas vezes exigem pouca ou nenhuma adição de água, eles podem realmente preservar vitaminas hidrossolúveis melhor do que a fervura."
+    },
+    {
+      "q": "Por que é preciso deixar a comida 'descansar' depois de usar o micro-ondas?",
+      "a": "Os micro-ondas nem sempre aquecem de forma totalmente uniforme. Permitir que a comida fique parada por um minuto ou dois após o temporizador disparar dá tempo para o calor se conduzir uniformemente por todo o prato."
+    }
+  ],
+  "slug": "how-do-microwaves-heat-food-the-science-explained",
+  "date": "2026-10-16",
+  "topic": "How Do Microwaves Heat Food? The Science of Electromagnetic Waves",
+  "trending": false
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-16",
+  "title": "Das tägliche Quiz-Duell: 16. Oktober 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches afrikanische Land ist vollständig von Südafrika umschlossen?",
+      "options": [
+        "Eswatini",
+        "Botswana",
+        "Simbabwe",
+        "Lesotho"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Lesotho ist einer von weltweit nur drei unabhängigen Staaten, die vollständig von einem einzigen Nachbarland umgeben sind."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Wie lautet das chemische Symbol für das Element Gold?",
+      "options": [
+        "Au",
+        "Go",
+        "Gd",
+        "Ag"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Das Symbol ‚Au‘ leitet sich vom lateinischen Wort ‚aurum‘ ab, was ‚strahlende Morgenröte‘ bedeutet."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "In welchem Film von 1994 fällt der berühmte Satz: ‚Das Leben ist wie eine Schachtel Pralinen‘?",
+      "options": [
+        "Pulp Fiction",
+        "Forrest Gump",
+        "Speed",
+        "Die Verurteilten"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Tom Hanks hat diesen Satz, der im Roman von Winston Groom noch etwas anders lautete, bekanntermaßen leicht improvisiert."
+    },
+    {
+      "category": "Geschichte",
+      "question": "In der Nähe der Küste welches heutigen Landes lag die antike Stadt Karthago?",
+      "options": [
+        "Griechenland",
+        "Ägypten",
+        "Italien",
+        "Tunesien"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Karthago wurde im 9. Jahrhundert v. Chr. von den Phöniziern gegründet und wurde später zum Rivalen der Römischen Republik."
+    },
+    {
+      "category": "Tiere",
+      "question": "Wie nennt man eine Gruppe von Krähen im englischen Sprachraum typischerweise?",
+      "options": [
+        "Ein Schwarm",
+        "Ein Rudel",
+        "Ein Mord",
+        "Eine Herde"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Krähen sind extrem intelligente Vögel, die einzelne menschliche Gesichter erkennen und sich diese jahrelang merken können."
+    },
+    {
+      "category": "Essen & Trinken",
+      "question": "Aus welcher Region Italiens stammt die traditionelle Pesto-Soße?",
+      "options": [
+        "Sizilien",
+        "Ligurien",
+        "Kampanien",
+        "Toskana"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Pesto alla Genovese stammt speziell aus Genua, der Hauptstadt der Region Ligurien."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie nennt man es beim Bowling, wenn ein Spieler alle zehn Pins mit zwei Würfen in einem einzigen Durchgang abräumt?",
+      "options": [
+        "Split",
+        "Turkey",
+        "Spare",
+        "Strike"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Während ein Strike direkt mit dem ersten Ball erzielt wird, braucht man für ein Spare zwei Würfe, um die Bahn abzuräumen."
+    },
+    {
+      "category": "Sprache",
+      "question": "Aus welcher Sprache hat das Englische das Wort ‚safari‘ übernommen?",
+      "options": [
+        "Persisch",
+        "Arabisch",
+        "Suaheli",
+        "Hindi"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Das Suaheli-Wort ‚safari‘ lässt sich letztlich auf eine arabische Wurzel zurückführen, die ‚eine Reise machen‘ bedeutet."
+    },
+    {
+      "category": "Weltall",
+      "question": "Welcher Planet in unserem Sonnensystem besitzt das auffälligste und komplexeste von der Erde aus sichtbare Ringsystem?",
+      "options": [
+        "Uranus",
+        "Jupiter",
+        "Neptun",
+        "Saturn"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Saturns Ringe bestehen fast vollständig aus Wassereisbrocken, deren Größe von mikroskopisch kleinem Staub bis hin zu riesigen Felsen reicht."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Welcher byzantinische Kaiser gab im 6. Jahrhundert den Bau der Hagia Sophia in Konstantinopel in Auftrag?",
+      "options": [
+        "Konstantin der Große",
+        "Justinian I.",
+        "Theodosius II.",
+        "Herakleios"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Nach ihrer Fertigstellung im Jahr 537 n. Chr. soll Kaiser Justinian ausgerufen haben: ‚Salomo, ich habe dich übertroffen!‘"
+    }
+  ]
+}

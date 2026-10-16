@@ -1,0 +1,61 @@
+{
+  "title": "Comment les micro-ondes réchauffent-ils les aliments ? Explications scientifiques",
+  "description": "Découvrez la science fascinante qui permet aux fours à micro-ondes de réchauffer vos plats grâce à des ondes électromagnétiques invisibles. Rapide, ludique et facile à comprendre.",
+  "category": "Science",
+  "sections": [
+    {
+      "heading": "Introduction : La boîte magique de la cuisine",
+      "paragraphs": [
+        "Nous l'avons tous vécu : vous glissez une assiette de pâtes froides dans le micro-ondes, appuyez sur quelques boutons, et soixante secondes plus tard, vous tenez un repas bien chaud. C'est presque magique, comme si un minuscule soleil était enfermé derrière cette porte vitrée. Pourtant, contrairement à un four traditionnel qui chauffe l'air autour de votre plat, le micro-ondes adopte une approche totalement différente et ultra-technologique.",
+        "Au lieu d'attendre que l'air chaud pénètre lentement votre repas de l'extérieur vers l'intérieur, un micro-ondes envoie de l'énergie invisible directement au cœur des aliments. Mais comment un rayonnement invisible transforme-t-il des restes de soupe en dîner ? Levons le voile sur le grillage métallique pour observer la physique à l'œuvre dans votre appareil."
+      ]
+    },
+    {
+      "heading": "À la rencontre du magnétron : Le cœur de la machine",
+      "paragraphs": [
+        "Pour comprendre le fonctionnement d'un micro-ondes, il faut s'intéresser à son moteur : le magnétron. Dissimulé derrière le panneau de commande, ce tube électronique fait office de générateur. Lorsque vous mettez l'appareil en marche, le magnétron prélève de l'électricité sur votre secteur et la convertit en ondes électromagnétiques de haute puissance, plus précisément des ondes radio dans la bande des micro-ondes.",
+        "Ces ondes fonctionnent à une fréquence d'environ 2,45 gigahertz. Cela signifie qu'elles oscillent, ou font des va-et-vient, environ 2,45 milliards de fois chaque seconde. Une fois générées, ces ondes sont acheminées hors du magnétron vers la cavite de cuisson par un canal appelé guide d'ondes, prêtes à interagir avec l'en-cas que vous avez posé sur le plateau tournant en verre."
+      ]
+    },
+    {
+      "heading": "Soirée danse moléculaire : Eau, graisses et sucres",
+      "paragraphs": [
+        "C'est ici que la véritable science opère. Les micro-ondes ne chauffent pas n'importe quoi de manière indiscriminée ; ils ciblent spécifiquement les molécules présentant une asymétrie électrique, notamment l'eau, les graisses et les sucres. Ces molécules agissent comme de minuscules aimants, dotés d'une charge positive à une extrémité et négative à l'autre.",
+        "Comme les micro-ondes du magnétron basculent d'un sens à l'autre des milliards de fois par seconde, elles créent un champ électrique qui alterne rapidement. Prises au piège dans ce champ oscillant, les molécules d'eau polaires essaient frénétiquement de se réaligner avec ces ondes changeantes. Imaginez des milliards de minuscules aiguilles de boussole s'affolant lorsqu'on agite un aimant géant au-dessus d'elles.",
+        "Cette agitation et ces collisions frénétiques génèrent des frottements. Tout comme le fait de se frotter rapidement les mains par une froide journée d'hiver produit de la chaleur, le frottement moléculaire provoqué par cette danse ultra-rapide réchauffe les aliments de l'intérieur vers l'extérieur en quelques secondes."
+      ]
+    },
+    {
+      "heading": "Pourquoi l'assiette ne chauffe-t-elle pas ?",
+      "paragraphs": [
+        "Avez-vous déjà sorti un bol du micro-ondes en remarquant que le récipient en céramique est brûlant, alors que la soupe à l'intérieur est tout juste tiède ? Ou inversement, que le plat est bouillant tandis que l'assiette reste froide ? La réponse réside dans les matériaux sur lesquels les micro-ondes peuvent ou non agir.",
+        "Les matériaux tels que le verre, la céramique et la plupart des plastiques ne contiennent pas les molécules polaires (comme l'eau ou les graisses) avec lesquelles les micro-ondes aiment interagir. Par conséquent, les ondes traversent ces matériaux sans transférer beaucoup d'énergie. Si une assiette en céramique devient chaude, c'est généralement parce que la chaleur se propage depuis le plat chaud posé dessus, et non parce que les micro-ondes ont chauffé l'assiette directement."
+      ]
+    },
+    {
+      "heading": "Le mystère du métal et du plateau tournant",
+      "paragraphs": [
+        "Cela nous amène à la règle d'or du micro-ondes : ne jamais y mettre de métal. Les métaux regorgent d'électrons libres. Lorsque les micro-ondes frappent un morceau de métal, au lieu de provoquer de doux frottements moléculaires, elles font circuler des courants électriques à la surface. Si le métal présente des bords ou des pointes acérés — comme les dents d'une fourchette ou le liseré doré d'une assiette vintage —, la charge électrique s'y concentre, ce qui provoque des étincelles, des arcs électriques et potentiellement un début d'incendie.",
+        "Pour éviter une cuisson inégale due aux ondes rebondissant de manière imprévisible dans la boîte métallique, les ingénieurs ont ajouté le plateau tournant en verre. En faisant pivoter les aliments à travers les crêtes et les creux du champ d'ondes électromagnétiques, le plateau garantit que votre burrito est réchauffé uniformément plutôt que de finir avec des zones brûlantes et des centres congelés."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Pourquoi les micro-ondes ont-ils une grille métallique sur la porte ?",
+      "a": "Le grillage métallique comporte de minuscules trous qui laissent passer la lumière visible pour vous permettre de surveiller vos aliments, mais ces trous sont beaucoup plus petits que la longueur d'onde des micro-ondes. Cela fait office de barrière, piégeant les ondes électromagnétiques en toute sécurité à l'intérieur de la cavité de cuisson."
+    },
+    {
+      "q": "Les micro-ondes détruisent-ils les nutriments des aliments ?",
+      "a": "Pas plus que n'importe quelle autre méthode de cuisson. En fait, comme les micro-ondes cuisent les aliments rapidement et nécessitent souvent peu ou pas d'eau ajoutée, ils peuvent même préserver les vitamines hydrosolubles mieux que l'ébullition."
+    },
+    {
+      "q": "Pourquoi faut-il laisser reposer les aliments après le micro-ondes ?",
+      "a": "Les micro-ondes ne chauffent pas toujours de manière tout à fait homogène. Laisser reposer un plat pendant une minute ou deux après la fin du temps imparti permet à la chaleur de se diffuser uniformément dans toute l'assiette."
+    }
+  ],
+  "slug": "how-do-microwaves-heat-food-the-science-explained",
+  "date": "2026-10-16",
+  "topic": "How Do Microwaves Heat Food? The Science of Electromagnetic Waves",
+  "trending": false
+}

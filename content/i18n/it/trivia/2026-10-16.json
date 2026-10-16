@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-16",
+  "title": "Trivia Challenge Quotidiano: 16 Ottobre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Quale paese africano è completamente circondato dal territorio del Sudafrica?",
+      "options": [
+        "Eswatini",
+        "Botswana",
+        "Zimbabwe",
+        "Lesotho"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Il Lesotho è una delle uniche tre nazioni indipendenti al mondo interamente racchiuse da un unico paese ospitante."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è il simbolo chimico dell'oro?",
+      "options": [
+        "Au",
+        "Go",
+        "Gd",
+        "Ag"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il simbolo 'Au' deriva dalla parola latina 'aurum', che significa 'alba splendente'."
+    },
+    {
+      "category": "cinema e pop culture",
+      "question": "In quale film del 1994 si trova la famosa frase: \"La vita è come una scatola di cioccolatini\"?",
+      "options": [
+        "Pulp Fiction",
+        "Forrest Gump",
+        "Speed",
+        "Le ali della libertà"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Tom Hanks ha improvvisato una leggera variazione di questa battuta, originariamente presente nel romanzo di Winston Groom."
+    },
+    {
+      "category": "storia",
+      "question": "L'antica città di Cartagine sorgeva vicino alle coste dell'odierno territorio di quale paese?",
+      "options": [
+        "Grecia",
+        "Egitto",
+        "Italia",
+        "Tunisia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Cartagine fu fondata dai Fenici nel IX secolo a.C. e divenne in seguito la grande rivale della Repubblica Romana."
+    },
+    {
+      "category": "animali",
+      "question": "Come viene comunemente definito un gruppo di corvi?",
+      "options": [
+        "Uno sciame",
+        "Un branco",
+        "Un omicidio",
+        "Un branco"
+      ],
+      "answer_index": 2,
+      "fun_fact": "I corvi sono uccelli straordinariamente intelligenti in grado di riconoscere i singoli volti umani e ricordarli per anni."
+    },
+    {
+      "category": "cucina",
+      "question": "Da quale regione d'Italia proviene la tradizionale salsa al pesto?",
+      "options": [
+        "Sicilia",
+        "Liguria",
+        "Campania",
+        "Toscana"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Il pesto alla Genovese, nello specifico, arriva da Genova, il capoluogo della regione Liguria."
+    },
+    {
+      "category": "sport",
+      "question": "Nel bowling, quale termine si usa quando un giocatore abbatte tutti e dieci i birilli con due tiri consecutivi nello stesso frame?",
+      "options": [
+        "Split",
+        "Turkey",
+        "Spare",
+        "Strike"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Mentre lo strike si realizza con il primo tiro di un frame, lo spare richiede due lanci per ripulire la pista."
+    },
+    {
+      "category": "lingue",
+      "question": "Da quale lingua l'inglese ha preso in prestito la parola 'safari'?",
+      "options": [
+        "Persiano",
+        "Arabo",
+        "Swahili",
+        "Hindi"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La parola swahili 'safari' deriva in ultima analisi da una radice araba che significa 'fare un viaggio'."
+    },
+    {
+      "category": "spazio",
+      "question": "Quale pianeta del nostro sistema solare possiede il sistema di anelli più evidente e complesso visibile dalla Terra?",
+      "options": [
+        "Urano",
+        "Giove",
+        "Nettuno",
+        "Saturno"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Gli anelli di Saturno sono costituiti quasi interamente da frammenti di ghiaccio d'acqua, di dimensioni che vanno dalla polvere microscopica ai massi."
+    },
+    {
+      "category": "storia",
+      "question": "Quale imperatore bizantino commissionò la costruzione di Santa Sofia a Costantinopoli nel VI secolo?",
+      "options": [
+        "Costantino il Grande",
+        "Giustiniano I",
+        "Teodosio II",
+        "Eraclio"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Al completamento dell'opera nel 537 d.C., l'imperatore Giustiniano avrebbe esclamato: \"Salomone, ti ho superato!\""
+    }
+  ]
+}
