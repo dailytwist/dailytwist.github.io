@@ -21,5 +21,6 @@
     "ar"
   ],
   "max_translations_per_run": 60,
-  "ai_delay_seconds": 4
+  "ai_delay_seconds": 4,
+  "telegram_channel": "dailytwist_daily"
 }
