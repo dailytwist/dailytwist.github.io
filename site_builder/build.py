@@ -1,124 +1,271 @@
 #!/usr/bin/env python3
-"""Builds the static website from content/*.json into public/. No extra packages needed."""
+"""Builds the multilingual static website from content/ into public/. No extra packages needed.
+
+English lives at the site root, every other language under /<code>/ (for example /fr/).
+A language is published only once its interface strings exist in content/i18n/<code>/ui.json
+(the daily agent creates them), and only the content that has been translated is shown in it.
+"""
 import datetime as dt
+import hashlib
 import html
 import json
+import random
+import re
 import shutil
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+HERE = Path(__file__).resolve().parent
 CONTENT = ROOT / "content"
 OUT = ROOT / "public"
-ASSETS = Path(__file__).resolve().parent / "assets"
 C = json.loads((ROOT / "config.json").read_text(encoding="utf-8"))
 SITE = C["site_name"]
 URL = C["site_url"].rstrip("/")
 BASE = "/" + URL.split("://", 1)[-1].split("/", 1)[1] if "/" in URL.split("://", 1)[-1] else ""
 TODAY = dt.datetime.now(dt.timezone.utc).date()
-
-SIGNS = {
-    "aries": ("♈", "Mar 21 – Apr 19"), "taurus": ("♉", "Apr 20 – May 20"),
-    "gemini": ("♊", "May 21 – Jun 20"), "cancer": ("♋", "Jun 21 – Jul 22"),
-    "leo": ("♌", "Jul 23 – Aug 22"), "virgo": ("♍", "Aug 23 – Sep 22"),
-    "libra": ("♎", "Sep 23 – Oct 22"), "scorpio": ("♏", "Oct 23 – Nov 21"),
-    "sagittarius": ("♐", "Nov 22 – Dec 21"), "capricorn": ("♑", "Dec 22 – Jan 19"),
-    "aquarius": ("♒", "Jan 20 – Feb 18"), "pisces": ("♓", "Feb 19 – Mar 20"),
-}
+UI_EN = json.loads((HERE / "ui_en.json").read_text(encoding="utf-8"))
+RTL = {"ar", "he", "fa", "ur"}
+NATIVE = {"en": "English", "es": "Español", "fr": "Français", "de": "Deutsch", "pt": "Português", "it": "Italiano",
+          "ja": "日本語", "ar": "العربية", "nl": "Nederlands", "pl": "Polski", "tr": "Türkçe", "id": "Bahasa Indonesia",
+          "hi": "हिन्दी", "ko": "한국어", "ru": "Русский", "sv": "Svenska", "zh": "中文", "vi": "Tiếng Việt", "th": "ไทย",
+          "uk": "Українська"}
 e = html.escape
-sitemap = []
+
+SIGNS = {  # glyph, element, (start month, day), (end month, day)
+    "aries": ("♈", "fire", (3, 21), (4, 19)), "taurus": ("♉", "earth", (4, 20), (5, 20)),
+    "gemini": ("♊", "air", (5, 21), (6, 20)), "cancer": ("♋", "water", (6, 21), (7, 22)),
+    "leo": ("♌", "fire", (7, 23), (8, 22)), "virgo": ("♍", "earth", (8, 23), (9, 22)),
+    "libra": ("♎", "air", (9, 23), (10, 22)), "scorpio": ("♏", "water", (10, 23), (11, 21)),
+    "sagittarius": ("♐", "fire", (11, 22), (12, 21)), "capricorn": ("♑", "earth", (12, 22), (1, 19)),
+    "aquarius": ("♒", "air", (1, 20), (2, 18)), "pisces": ("♓", "water", (2, 19), (3, 20)),
+}
+ELEMENT_COLORS = {"fire": ("#ff7a45", "#ffb347"), "earth": ("#3fa36b", "#a3c76d"),
+                  "air": ("#5b8def", "#9fc3ff"), "water": ("#6a4cf5", "#3fc1c9")}
+CATEGORY_STYLE = {  # two colors + emoji used for generated cover art
+    "Entertainment": ("#ff5e7e", "#ffb26b", "🎬"), "Science": ("#4b6cff", "#3fd0c9", "🔬"),
+    "Food": ("#ff8a3d", "#ffd166", "🍳"), "Travel": ("#1fb5a8", "#7dd3fc", "✈️"),
+    "Sports": ("#22a95b", "#c4e86b", "🏆"), "Lifestyle": ("#d36bff", "#ffb3d9", "🌿"),
+    "Tech": ("#3a4bd8", "#8f7bff", "💡"), "History": ("#b8793b", "#f2c98a", "🏛️"),
+    "Animals": ("#2f9e6e", "#ffd36b", "🐾"), "Explainer": ("#6b4eff", "#ff8a3d", "✨"),
+}
+HOLIDAY_EMOJI = {"christmas": "🎄", "new-year": "🎆", "halloween": "🎃", "valentines-day": "💝",
+                 "thanksgiving": "🦃", "easter": "🐣", "fourth-of-july": "🎇", "mothers-day": "💐",
+                 "fathers-day": "👔", "st-patricks-day": "☘️", "memorial-day": "🇺🇸", "labor-day": "🛠️",
+                 "black-friday": "🛍️"}
 
 
 # ---------------------------------------------------------------- data
-def load_dir(name):
+def load(folder):
     items = []
-    for f in sorted((CONTENT / name).glob("*.json")):
+    for f in sorted(folder.glob("*.json")):
         try:
             items.append(json.loads(f.read_text(encoding="utf-8")))
         except Exception as ex:
-            print(f"skip broken file {f.name}: {ex}")
+            print(f"skip broken file {f}: {ex}")
+    return [i for i in items if i.get("date", "") <= str(TODAY)]  # never publish future-dated content
+
+
+def lang_data(lang):
+    base = CONTENT if lang == "en" else CONTENT / "i18n" / lang
+    ui = dict(UI_EN)
+    if lang != "en":
+        ui.update(json.loads((base / "ui.json").read_text(encoding="utf-8")))
+    return {
+        "ui": ui,
+        "horoscopes": sorted(load(base / "horoscopes"), key=lambda x: x["date"]),
+        "trivia": sorted(load(base / "trivia"), key=lambda x: x["date"]),
+        "articles": sorted(load(base / "articles"), key=lambda x: (x["date"], x["title"]), reverse=True),
+    }
+
+
+LANGS = ["en"] + [l for l in C.get("languages", []) if l != "en" and (CONTENT / "i18n" / l / "ui.json").exists()]
+DATA = {l: lang_data(l) for l in LANGS}
+
+
+# ---------------------------------------------------------------- helpers
+def P(lang):
+    return "" if lang == "en" else f"/{lang}"
+
+
+def T(lang, key, **kw):
+    s = DATA[lang]["ui"].get(key, UI_EN.get(key, key))
+    for k, v in kw.items():
+        s = s.replace("{" + k + "}", str(v))
+    return s
+
+
+def fdate(lang, iso, short=False):
+    d = dt.date.fromisoformat(iso) if isinstance(iso, str) else iso
+    ui = DATA[lang]["ui"]
+    fmt = ui.get("short_date_format" if short else "date_format", UI_EN["date_format"])
+    months = ui.get("months_short", UI_EN["months_short"]) if short else ui["months"]
+    return (fmt.replace("{weekday}", ui["weekdays"][d.weekday()]).replace("{month}", months[d.month - 1])
+            .replace("{day}", str(d.day)).replace("{year}", str(d.year)))
+
+
+def sign_name(lang, s):
+    return DATA[lang]["ui"].get("signs", {}).get(s, s.title())
+
+
+def sign_range(lang, s):
+    (m1, d1), (m2, d2) = SIGNS[s][2], SIGNS[s][3]
+    return f"{fdate(lang, dt.date(2024, m1, d1), True)} – {fdate(lang, dt.date(2024, m2, d2), True)}"
+
+
+def cat_name(lang, c):
+    return DATA[lang]["ui"].get("categories", {}).get(c, c)
+
+
+def rng(seed):
+    return random.Random(int(hashlib.md5(seed.encode()).hexdigest()[:8], 16))
+
+
+# ---------------------------------------------------------------- original illustrations (inline SVG)
+def sign_art(sign, size=64):
+    glyph, element, _, _ = SIGNS[sign]
+    c1, c2 = ELEMENT_COLORS[element]
+    r = rng(sign)
+    pts = [(r.uniform(14, 86), r.uniform(14, 86)) for _ in range(6)]
+    lines = "".join(f'<line x1="{a[0]:.0f}" y1="{a[1]:.0f}" x2="{b[0]:.0f}" y2="{b[1]:.0f}"/>' for a, b in zip(pts, pts[1:]))
+    stars = "".join(f'<circle cx="{x:.0f}" cy="{y:.0f}" r="{r.uniform(1.4, 2.6):.1f}"/>' for x, y in pts)
+    gid = f"g-{sign}"
+    return (f'<svg class="medal" width="{size}" height="{size}" viewBox="0 0 100 100" aria-hidden="true">'
+            f'<defs><linearGradient id="{gid}" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="{c1}"/>'
+            f'<stop offset="1" stop-color="{c2}"/></linearGradient></defs>'
+            f'<circle cx="50" cy="50" r="48" fill="url(#{gid})"/>'
+            f'<g stroke="#fff" stroke-opacity=".35" stroke-width="1">{lines}</g><g fill="#fff" fill-opacity=".8">{stars}</g>'
+            f'<text x="50" y="52" text-anchor="middle" dominant-baseline="central" font-size="40" fill="#fff">{glyph}</text></svg>')
+
+
+def cover_art(seed, category, cls="cover"):
+    c1, c2, emoji = CATEGORY_STYLE.get(category, CATEGORY_STYLE["Explainer"])
+    r = rng(seed)
+    blobs = "".join(
+        f'<circle cx="{r.uniform(0, 400):.0f}" cy="{r.uniform(0, 200):.0f}" r="{r.uniform(30, 110):.0f}" '
+        f'fill="#fff" fill-opacity="{r.uniform(.07, .2):.2f}"/>' for _ in range(5))
+    rings = "".join(
+        f'<circle cx="{r.uniform(40, 360):.0f}" cy="{r.uniform(20, 180):.0f}" r="{r.uniform(10, 40):.0f}" '
+        f'fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="2"/>' for _ in range(3))
+    gid = "c" + hashlib.md5(seed.encode()).hexdigest()[:8]
+    return (f'<svg class="{cls}" viewBox="0 0 400 200" preserveAspectRatio="xMidYMid slice" aria-hidden="true">'
+            f'<defs><linearGradient id="{gid}" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="{c1}"/>'
+            f'<stop offset="1" stop-color="{c2}"/></linearGradient></defs>'
+            f'<rect width="400" height="200" fill="url(#{gid})"/>{blobs}{rings}'
+            f'<text x="200" y="104" text-anchor="middle" dominant-baseline="central" font-size="64">{emoji}</text></svg>')
+
+
+HERO_ART = """<svg class="hero-art" viewBox="0 0 320 260" aria-hidden="true">
+<defs><linearGradient id="hs" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffb347"/><stop offset="1" stop-color="#ff5e7e"/></linearGradient>
+<linearGradient id="hm" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8f7bff"/><stop offset="1" stop-color="#5b3df5"/></linearGradient></defs>
+<ellipse cx="160" cy="135" rx="150" ry="58" fill="none" stroke="currentColor" stroke-opacity=".18" stroke-width="2" stroke-dasharray="4 8" transform="rotate(-14 160 135)"/>
+<circle cx="150" cy="130" r="70" fill="url(#hs)"/>
+<circle cx="250" cy="70" r="34" fill="url(#hm)"/><circle cx="262" cy="62" r="30" fill="var(--bg)"/>
+<circle cx="56" cy="210" r="16" fill="#3fc1c9"/>
+<g fill="#ffb347"><path d="M40 52l4 10 10 4-10 4-4 10-4-10-10-4 10-4z"/><path d="M286 180l3 7 7 3-7 3-3 7-3-7-7-3 7-3z"/></g>
+<g fill="currentColor" fill-opacity=".5"><circle cx="96" cy="40" r="2.5"/><circle cx="210" cy="24" r="2"/><circle cx="300" cy="128" r="2.5"/><circle cx="24" cy="130" r="2"/><circle cx="230" cy="232" r="2.5"/></g>
+<text x="150" y="132" text-anchor="middle" dominant-baseline="central" font-size="56">✨</text></svg>"""
+
+
+# ---------------------------------------------------------------- page registry
+PAGES = {}  # (lang, path) -> dict
+
+
+def add(lang, path, title, desc, body, schema=None, priority="0.6"):
+    PAGES[(lang, path)] = dict(title=title, desc=desc, body=body, schema=schema, priority=priority)
+
+
+def lang_menu(lang, path):
+    items = []
+    for l in LANGS:
+        target = (P(l) + "/" + path) if (l, path) in PAGES else (P(l) + "/")
+        cur = ' aria-current="true"' if l == lang else ""
+        items.append(f'<a href="{e(target)}" data-l="{l}" hreflang="{l}" lang="{l}"{cur}>{e(NATIVE.get(l, l))}</a>')
     return items
 
 
-horoscopes = sorted(load_dir("horoscopes"), key=lambda x: x["date"])
-trivia = sorted(load_dir("trivia"), key=lambda x: x["date"])
-articles = sorted(load_dir("articles"), key=lambda x: (x["date"], x["title"]), reverse=True)
-# never publish future-dated content
-horoscopes = [h for h in horoscopes if h["date"] <= str(TODAY)]
-trivia = [t for t in trivia if t["date"] <= str(TODAY)]
-articles = [a for a in articles if a["date"] <= str(TODAY)]
-
-
-# ---------------------------------------------------------------- layout
-def page(path, title, desc, body, schema=None, priority="0.6"):
-    """path like 'horoscope/aries/' or 'about/' or '' for home."""
-    canonical = f"{URL}/{path}"
+def render(lang, path, pg):
+    canonical = f"{URL}{P(lang)}/{path}"
+    alts = {l: f"{URL}{P(l)}/{path}" for l in LANGS if (l, path) in PAGES}
+    hreflang = "".join(f'<link rel="alternate" hreflang="{l}" href="{e(u)}">' for l, u in alts.items())
+    if "en" in alts:
+        hreflang += f'<link rel="alternate" hreflang="x-default" href="{e(alts["en"])}">'
+    rel_alts = {l: f"{P(l)}/{path}" for l in alts}
     ads = ""
     if C.get("adsense_client"):
         ads = (f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={e(C["adsense_client"])}" '
                'crossorigin="anonymous"></script>')
-    ld = f'<script type="application/ld+json">{json.dumps(schema, ensure_ascii=False)}</script>' if schema else ""
-    full_title = title if SITE in title else f"{title} | {SITE}"
+    ld = f'<script type="application/ld+json">{json.dumps(pg["schema"], ensure_ascii=False)}</script>' if pg["schema"] else ""
+    title = pg["title"] if SITE in pg["title"] else f'{pg["title"]} | {SITE}'
+    extra_font = {"ar": "&family=Noto+Kufi+Arabic:wght@400;600;800", "ja": "&family=Noto+Sans+JP:wght@400;700"}.get(lang, "")
+    menu = "".join(lang_menu(lang, path))
+    auto = (f"<script>(function(){{try{{if(/bot|crawl|spider|slurp|lighthouse|inspection/i.test(navigator.userAgent))return;"
+            f"var L={json.dumps(LANGS)},cur={json.dumps(lang)},alt={json.dumps(rel_alts)},p=null;"
+            f"try{{p=localStorage.getItem('dt-lang')}}catch(x){{}}"
+            f"if(!p&&cur==='en'){{var n=(navigator.languages||[navigator.language||'en']);"
+            f"for(var i=0;i<n.length;i++){{var c=(n[i]||'').slice(0,2).toLowerCase();if(L.indexOf(c)>-1){{p=c;break}}}}}}"
+            f"if(p&&p!==cur&&alt[p]&&location.pathname.indexOf('/puzzle/')<0)location.replace({json.dumps(BASE)}+alt[p]+location.search);"
+            f"}}catch(x){{}}}})();</script>")
+    pre = P(lang)
     doc = f"""<!doctype html>
-<html lang="en">
+<html lang="{lang}" dir="{'rtl' if lang in RTL else 'ltr'}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{e(full_title)}</title>
-<meta name="description" content="{e(desc)}">
+<title>{e(title)}</title>
+<meta name="description" content="{e(pg['desc'])}">
 <link rel="canonical" href="{e(canonical)}">
-<meta property="og:title" content="{e(title)}">
-<meta property="og:description" content="{e(desc)}">
+{hreflang}
+<meta property="og:title" content="{e(pg['title'])}">
+<meta property="og:description" content="{e(pg['desc'])}">
 <meta property="og:type" content="website">
 <meta property="og:url" content="{e(canonical)}">
 <meta property="og:site_name" content="{e(SITE)}">
+<meta property="og:locale" content="{lang}">
+<meta name="theme-color" content="#5b3df5">
+{auto}
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Inter:wght@400;500;600{extra_font}&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/assets/style.css">
 {ads}
 {ld}
 </head>
-<body>
+<body class="lang-{lang}">
 <header class="top">
   <div class="wrap nav">
-    <a class="brand" href="/"><span class="dot"></span>{e(SITE)}</a>
+    <a class="brand" href="{pre}/"><span class="logo">✦</span>{e(SITE)}</a>
     <nav>
-      <a href="/horoscope/">Horoscopes</a>
-      <a href="/trivia/">Trivia</a>
-      <a href="/puzzle/">Puzzle</a>
-      <a href="/articles/">Explainers</a>
-      <a href="/countdown/">Countdowns</a>
+      <a href="{pre}/horoscope/">{e(T(lang, 'nav_horoscopes'))}</a>
+      <a href="{pre}/trivia/">{e(T(lang, 'nav_trivia'))}</a>
+      <a href="/puzzle/">{e(T(lang, 'nav_puzzle'))}</a>
+      <a href="{pre}/articles/">{e(T(lang, 'nav_articles'))}</a>
+      <a href="{pre}/countdown/">{e(T(lang, 'nav_countdowns'))}</a>
     </nav>
+    <details class="langs"><summary aria-label="{e(T(lang, 'language_label'))}">🌐 {e(NATIVE.get(lang, lang))}</summary>
+      <div class="menu">{menu}</div></details>
   </div>
 </header>
 <main class="wrap">
-{body}
+{pg['body']}
 </main>
 <footer class="foot">
   <div class="wrap">
-    <p><strong>{e(SITE)}</strong> — {e(C["tagline"])}.</p>
-    <p class="links"><a href="/about/">About</a><a href="/contact/">Contact</a><a href="/privacy/">Privacy Policy</a><a href="/terms/">Terms of Use</a><a href="/sitemap.xml">Sitemap</a></p>
-    <p class="small">Horoscopes, quizzes and explainers are for entertainment and general information only. © {TODAY.year} {e(SITE)}</p>
+    <p class="brand small-brand"><span class="logo">✦</span>{e(SITE)}</p>
+    <p>{e(T(lang, 'tagline'))}.</p>
+    <p class="links"><a href="{pre}/about/">{e(T(lang, 'about'))}</a><a href="{pre}/contact/">{e(T(lang, 'contact'))}</a><a href="{pre}/privacy/">{e(T(lang, 'privacy'))}</a><a href="{pre}/terms/">{e(T(lang, 'terms'))}</a><a href="/sitemap.xml">Sitemap</a></p>
+    <p class="small">{e(T(lang, 'footer_note'))} © {TODAY.year} {e(SITE)}</p>
   </div>
 </footer>
+<script>document.querySelectorAll('.langs a').forEach(function(a){{a.addEventListener('click',function(){{try{{localStorage.setItem('dt-lang',a.dataset.l)}}catch(x){{}}}})}});</script>
 </body>
 </html>"""
     if BASE:
         doc = doc.replace('href="/', f'href="{BASE}/').replace('src="/', f'src="{BASE}/')
-    target = OUT / path / "index.html" if not path.endswith(".html") else OUT / path
-    target.parent.mkdir(parents=True, exist_ok=True)
-    target.write_text(doc, encoding="utf-8")
-    sitemap.append((canonical, priority))
-
-
-def nice_date(d):
-    return dt.date.fromisoformat(d).strftime("%A, %B %-d, %Y")
-
-
-def article_card(a):
-    return (f'<a class="card art" href="/articles/{e(a["slug"])}/"><span class="tag">{e(a.get("category", "Explainer"))}</span>'
-            f'<h3>{e(a["title"])}</h3><p>{e(a["description"])}</p></a>')
+    out = OUT / (pre.lstrip("/")) / path / "index.html" if not path.endswith(".html") else OUT / path
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(doc, encoding="utf-8")
+    return canonical, pg["priority"], alts
 
 
 # ---------------------------------------------------------------- holidays
@@ -142,25 +289,17 @@ def easter(y):
     i, k = c // 4, c % 4
     l = (32 + 2 * ee + 2 * i - h - k) % 7
     m = (a + 11 * h + 22 * l) // 451
-    month = (h + l - 7 * m + 114) // 31
-    day = (h + l - 7 * m + 114) % 31 + 1
-    return dt.date(y, month, day)
+    return dt.date(y, (h + l - 7 * m + 114) // 31, (h + l - 7 * m + 114) % 31 + 1)
 
 
 HOLIDAYS = {
-    "christmas": ("Christmas", lambda y: dt.date(y, 12, 25)),
-    "new-year": ("New Year's Day", lambda y: dt.date(y, 1, 1)),
-    "halloween": ("Halloween", lambda y: dt.date(y, 10, 31)),
-    "valentines-day": ("Valentine's Day", lambda y: dt.date(y, 2, 14)),
-    "thanksgiving": ("Thanksgiving (US)", lambda y: nth_weekday(y, 11, 3, 4)),
-    "easter": ("Easter Sunday", easter),
-    "fourth-of-july": ("Fourth of July", lambda y: dt.date(y, 7, 4)),
-    "mothers-day": ("Mother's Day (US)", lambda y: nth_weekday(y, 5, 6, 2)),
-    "fathers-day": ("Father's Day (US)", lambda y: nth_weekday(y, 6, 6, 3)),
-    "st-patricks-day": ("St. Patrick's Day", lambda y: dt.date(y, 3, 17)),
-    "memorial-day": ("Memorial Day (US)", lambda y: last_weekday(y, 5, 0)),
-    "labor-day": ("Labor Day (US)", lambda y: nth_weekday(y, 9, 0, 1)),
-    "black-friday": ("Black Friday", lambda y: nth_weekday(y, 11, 3, 4) + dt.timedelta(days=1)),
+    "christmas": lambda y: dt.date(y, 12, 25), "new-year": lambda y: dt.date(y, 1, 1),
+    "halloween": lambda y: dt.date(y, 10, 31), "valentines-day": lambda y: dt.date(y, 2, 14),
+    "thanksgiving": lambda y: nth_weekday(y, 11, 3, 4), "easter": easter,
+    "fourth-of-july": lambda y: dt.date(y, 7, 4), "mothers-day": lambda y: nth_weekday(y, 5, 6, 2),
+    "fathers-day": lambda y: nth_weekday(y, 6, 6, 3), "st-patricks-day": lambda y: dt.date(y, 3, 17),
+    "memorial-day": lambda y: last_weekday(y, 5, 0), "labor-day": lambda y: nth_weekday(y, 9, 0, 1),
+    "black-friday": lambda y: nth_weekday(y, 11, 3, 4) + dt.timedelta(days=1),
 }
 
 
@@ -169,195 +308,239 @@ def next_date(fn):
     return d if d >= TODAY else fn(TODAY.year + 1)
 
 
-# ---------------------------------------------------------------- pages
-def build_home():
-    h = horoscopes[-1] if horoscopes else None
-    t = trivia[-1] if trivia else None
-    signs = "".join(
-        f'<a class="sign" href="/horoscope/{s}/"><span class="glyph">{g}</span><b>{s.title()}</b><small>{r}</small></a>'
-        for s, (g, r) in SIGNS.items())
-    upcoming = sorted(((next_date(fn), slug, name) for slug, (name, fn) in HOLIDAYS.items()))[:4]
-    cds = "".join(f'<a class="cd" href="/countdown/{slug}/"><b>{(d - TODAY).days}</b><span>days to {e(name)}</span></a>'
-                  for d, slug, name in upcoming)
-    latest = "".join(article_card(a) for a in articles[:9]) or "<p class='muted'>New explainers arrive every day.</p>"
+def hname(lang, slug):
+    return DATA[lang]["ui"].get("holidays", {}).get(slug, UI_EN["holidays"][slug])
+
+
+def cd_card(lang, slug, big=False):
+    d = next_date(HOLIDAYS[slug])
+    return (f'<a class="cd" href="{P(lang)}/countdown/{slug}/"><span class="cd-emoji">{HOLIDAY_EMOJI.get(slug, "📅")}</span>'
+            f'<b>{(d - TODAY).days}</b><span>{e(T(lang, "days_to", name=hname(lang, slug)))}</span></a>')
+
+
+# ---------------------------------------------------------------- sections
+def article_card(lang, a):
+    cat = a.get("category", "Explainer")
+    return (f'<a class="card art" href="{P(lang)}/articles/{e(a["slug"])}/">{cover_art(a["slug"], cat)}'
+            f'<div class="card-body"><span class="tag">{e(cat_name(lang, cat))}</span>'
+            f'<h3>{e(a["title"])}</h3><p>{e(a["description"])}</p></div></a>')
+
+
+def sign_grid(lang):
+    return "".join(
+        f'<a class="sign" href="{P(lang)}/horoscope/{s}/">{sign_art(s, 56)}<b>{e(sign_name(lang, s))}</b>'
+        f'<small>{e(sign_range(lang, s))}</small></a>' for s in SIGNS)
+
+
+def build_lang(lang):
+    D = DATA[lang]
+    pre = P(lang)
+    H, TR, AR = D["horoscopes"], D["trivia"], D["articles"]
+
+    # home
+    h, t = (H[-1] if H else None), (TR[-1] if TR else None)
+    upcoming = sorted(HOLIDAYS, key=lambda s: next_date(HOLIDAYS[s]))[:4]
+    latest = "".join(article_card(lang, a) for a in AR[:9]) or f"<p class='muted'>{e(T(lang, 'new_daily'))}</p>"
     body = f"""
 <section class="hero">
-  <p class="kicker">{TODAY.strftime("%A, %B %-d, %Y")}</p>
-  <h1>Today's horoscopes, a fresh trivia quiz and a new word puzzle — every single day.</h1>
-  <div class="hero-cta">
-    <a class="btn" href="/trivia/">Play today's trivia</a>
-    <a class="btn ghost" href="/puzzle/">Solve the daily puzzle</a>
+  <div class="hero-text">
+    <p class="kicker">{e(fdate(lang, TODAY))}</p>
+    <h1>{e(T(lang, 'hero_title'))}</h1>
+    <div class="hero-cta">
+      <a class="btn" href="{pre}/trivia/">{e(T(lang, 'hero_cta_trivia'))}</a>
+      <a class="btn ghost" href="/puzzle/">{e(T(lang, 'hero_cta_puzzle'))}</a>
+    </div>
   </div>
+  {HERO_ART}
 </section>
 <section>
-  <div class="sec-head"><h2>Daily horoscope</h2>{f'<span class="muted">Updated {nice_date(h["date"])}</span>' if h else ''}</div>
-  <div class="signs">{signs}</div>
+  <div class="sec-head"><h2>{e(T(lang, 'daily_horoscope'))}</h2>{f'<span class="muted">{e(T(lang, "updated_on", date=fdate(lang, h["date"])))}</span>' if h else ''}</div>
+  <div class="signs">{sign_grid(lang)}</div>
 </section>
 <section class="split">
-  <div class="panel">
-    <h2>{e(t["title"]) if t else "Daily trivia"}</h2>
-    <p>{len(t["questions"]) if t else 10} brand-new questions across science, history, movies, geography and more. How many can you get right?</p>
-    <a class="btn" href="/trivia/">Start the quiz</a>
+  <div class="panel quiz-panel">
+    <span class="panel-emoji">🧠</span>
+    <h2>{e(t["title"]) if t else e(T(lang, 'daily_trivia'))}</h2>
+    <p>{e(T(lang, 'trivia_teaser', n=len(t["questions"]) if t else 10))}</p>
+    <a class="btn" href="{pre}/trivia/">{e(T(lang, 'start_quiz'))}</a>
   </div>
   <div class="panel">
-    <h2>Upcoming countdowns</h2>
-    <div class="cds">{cds}</div>
+    <h2>{e(T(lang, 'upcoming_countdowns'))}</h2>
+    <div class="cds">{''.join(cd_card(lang, s) for s in upcoming)}</div>
   </div>
 </section>
 <section>
-  <div class="sec-head"><h2>Latest explainers</h2><a href="/articles/">See all →</a></div>
+  <div class="sec-head"><h2>{e(T(lang, 'latest_explainers'))}</h2><a href="{pre}/articles/">{e(T(lang, 'see_all'))} →</a></div>
   <div class="grid">{latest}</div>
 </section>"""
-    schema = {"@context": "https://schema.org", "@type": "WebSite", "name": SITE, "url": URL + "/"}
-    page("", f"{SITE} — Daily Horoscopes, Trivia & Puzzles", C["tagline"], body, schema, "1.0")
+    add(lang, "", f"{SITE} — {T(lang, 'home_title')}", T(lang, "tagline"), body,
+        {"@context": "https://schema.org", "@type": "WebSite", "name": SITE, "url": f"{URL}{pre}/", "inLanguage": lang}, "1.0")
 
-
-def horoscope_body(sign, data, date):
-    g, r = SIGNS[sign]
-    others = "".join(f'<a href="/horoscope/{s}/">{SIGNS[s][0]} {s.title()}</a>' for s in SIGNS if s != sign)
-    return f"""
+    # horoscopes
+    if H:
+        latest_h = H[-1]
+        cards = "".join(
+            f'<a class="card hcard" href="{pre}/horoscope/{s}/">{sign_art(s, 52)}<div><h3>{e(sign_name(lang, s))}</h3>'
+            f'<p>{e(latest_h["signs"][s]["overview"][:140])}…</p></div></a>' for s in SIGNS)
+        archive = "".join(f'<a href="{pre}/horoscope/archive/{x["date"]}/">{e(fdate(lang, x["date"]))}</a>' for x in reversed(H[-60:]))
+        add(lang, "horoscope/", T(lang, "horoscopes_title"), T(lang, "horoscopes_desc", date=fdate(lang, latest_h["date"])),
+            f'<h1>{e(T(lang, "horoscopes_title"))}</h1><p class="muted">{e(fdate(lang, latest_h["date"]))}</p>'
+            f'<div class="grid">{cards}</div><h2>{e(T(lang, "past_days"))}</h2><div class="chips">{archive}</div>', priority="0.9")
+        for s in SIGNS:
+            dd = latest_h["signs"][s]
+            others = "".join(f'<a href="{pre}/horoscope/{o}/">{SIGNS[o][0]} {e(sign_name(lang, o))}</a>' for o in SIGNS if o != s)
+            body = f"""
 <article class="reading">
-  <p class="kicker">{nice_date(date)} · {r}</p>
-  <h1><span class="glyph big">{g}</span> {sign.title()} Horoscope Today</h1>
-  <p class="lead">{e(data["overview"])}</p>
+  <div class="reading-head">{sign_art(s, 96)}<div>
+    <p class="kicker">{e(fdate(lang, latest_h["date"]))} · {e(sign_range(lang, s))}</p>
+    <h1>{e(T(lang, 'horoscope_today', sign=sign_name(lang, s)))}</h1></div></div>
+  <p class="lead">{e(dd["overview"])}</p>
   <div class="facets">
-    <div><h3>❤ Love</h3><p>{e(data["love"])}</p></div>
-    <div><h3>💼 Career</h3><p>{e(data["career"])}</p></div>
-    <div><h3>🌿 Wellness</h3><p>{e(data["wellness"])}</p></div>
+    <div><h3>❤️ {e(T(lang, 'love'))}</h3><p>{e(dd["love"])}</p></div>
+    <div><h3>💼 {e(T(lang, 'career'))}</h3><p>{e(dd["career"])}</p></div>
+    <div><h3>🌿 {e(T(lang, 'wellness'))}</h3><p>{e(dd["wellness"])}</p></div>
   </div>
   <div class="lucky">
-    <span>Lucky number <b>{e(str(data["lucky_number"]))}</b></span>
-    <span>Lucky color <b>{e(str(data["lucky_color"]))}</b></span>
-    <span>Mood <b>{e(str(data["mood"]))}</b></span>
+    <span>🍀 {e(T(lang, 'lucky_number'))} <b>{e(str(dd["lucky_number"]))}</b></span>
+    <span>🎨 {e(T(lang, 'lucky_color'))} <b>{e(str(dd["lucky_color"]))}</b></span>
+    <span>✨ {e(T(lang, 'mood'))} <b>{e(str(dd["mood"]))}</b></span>
   </div>
-  <p class="small muted">For entertainment only.</p>
-  <h2>Other signs today</h2>
+  <p class="small muted">{e(T(lang, 'entertainment_only'))}</p>
+  <h2>{e(T(lang, 'other_signs'))}</h2>
   <div class="chips">{others}</div>
 </article>"""
+            add(lang, f"horoscope/{s}/", f'{T(lang, "horoscope_today", sign=sign_name(lang, s))} – {fdate(lang, latest_h["date"])}',
+                dd["overview"][:150], body, priority="0.9")
+        for x in H:
+            links = "".join(f'<a class="card hcard" href="{pre}/horoscope/{s}/">{sign_art(s, 52)}<div><h3>{e(sign_name(lang, s))}</h3>'
+                            f'<p>{e(x["signs"][s]["overview"])}</p></div></a>' for s in SIGNS)
+            add(lang, f"horoscope/archive/{x['date']}/", T(lang, "horoscopes_for", date=fdate(lang, x["date"])),
+                T(lang, "horoscopes_for", date=fdate(lang, x["date"])),
+                f'<h1>{e(T(lang, "horoscopes_for", date=fdate(lang, x["date"])))}</h1><div class="grid">{links}</div>', priority="0.4")
+    elif lang == "en":
+        add(lang, "horoscope/", T(lang, "horoscopes_title"), T(lang, "tagline"),
+            f'<h1>{e(T(lang, "horoscopes_title"))}</h1><p>{e(T(lang, "being_prepared"))}</p>')
 
-
-def build_horoscopes():
-    if not horoscopes:
-        page("horoscope/", "Daily Horoscopes", "Free daily horoscopes for all 12 zodiac signs.",
-             "<h1>Daily horoscopes</h1><p>Today's readings are being prepared. Check back soon!</p>")
-        return
-    latest = horoscopes[-1]
-    cards = "".join(
-        f'<a class="card hcard" href="/horoscope/{s}/"><span class="glyph">{g}</span><h3>{s.title()}</h3>'
-        f'<p>{e(latest["signs"][s]["overview"][:140])}…</p></a>' for s, (g, r) in SIGNS.items())
-    archive = "".join(f'<a href="/horoscope/archive/{h["date"]}/">{nice_date(h["date"])}</a>' for h in reversed(horoscopes[-60:]))
-    page("horoscope/", "Daily Horoscopes for All 12 Signs",
-         f"Free horoscopes for {nice_date(latest['date'])}: love, career and wellness for every zodiac sign.",
-         f'<h1>Daily horoscopes</h1><p class="muted">{nice_date(latest["date"])}</p><div class="grid">{cards}</div>'
-         f'<h2>Past days</h2><div class="chips">{archive}</div>', priority="0.9")
-    for s in SIGNS:
-        page(f"horoscope/{s}/", f"{s.title()} Horoscope Today – {nice_date(latest['date'])}",
-             latest["signs"][s]["overview"][:150], horoscope_body(s, latest["signs"][s], latest["date"]), priority="0.9")
-    for h in horoscopes:
-        links = "".join(f'<a class="card hcard" href="/horoscope/{s}/"><span class="glyph">{g}</span><h3>{s.title()}</h3>'
-                        f'<p>{e(h["signs"][s]["overview"])}</p></a>' for s, (g, r) in SIGNS.items())
-        page(f"horoscope/archive/{h['date']}/", f"Horoscopes for {nice_date(h['date'])}",
-             f"All 12 zodiac horoscopes for {nice_date(h['date'])}.",
-             f'<h1>Horoscopes for {nice_date(h["date"])}</h1><div class="grid">{links}</div>', priority="0.4")
-
-
-def trivia_body(t):
-    qs = []
-    for i, q in enumerate(t["questions"]):
-        opts = "".join(f'<button class="opt" data-i="{j}">{e(o)}</button>' for j, o in enumerate(q["options"]))
-        qs.append(f"""<div class="q" data-answer="{q["answer_index"]}">
-  <p class="qcat">Question {i + 1} · {e(q.get("category", "General"))}</p>
-  <h3>{e(q["question"])}</h3>
-  <div class="opts">{opts}</div>
-  <p class="fact" hidden>💡 {e(q.get("fun_fact", ""))}</p>
-</div>""")
-    past = "".join(f'<a href="/trivia/{x["date"]}/">{nice_date(x["date"])}</a>' for x in reversed(trivia[-60:]) if x is not t)
-    return f"""
+    # trivia
+    def trivia_body(t):
+        qs = []
+        for i, q in enumerate(t["questions"]):
+            opts = "".join(f'<button class="opt" data-i="{j}"><span class="opt-l">{"ABCD"[j]}</span>{e(o)}</button>'
+                           for j, o in enumerate(q["options"]))
+            qs.append(f'<div class="q" data-answer="{q["answer_index"]}"><p class="qcat">{e(T(lang, "question_n", n=i + 1))} · '
+                      f'{e(str(q.get("category", "")))}</p><h3>{e(q["question"])}</h3><div class="opts">{opts}</div>'
+                      f'<p class="fact" hidden>💡 {e(q.get("fun_fact", ""))}</p></div>')
+        past = "".join(f'<a href="{pre}/trivia/{x["date"]}/">{e(fdate(lang, x["date"]))}</a>' for x in reversed(TR[-60:]) if x is not t)
+        return f"""
 <article class="quiz">
-  <p class="kicker">Daily trivia · {nice_date(t["date"])}</p>
-  <h1>{e(t["title"])}</h1>
-  <p class="lead">Tap an answer to lock it in. Your score appears at the end — share it with friends!</p>
+  <div class="quiz-head"><span class="panel-emoji">🧠</span><div>
+  <p class="kicker">{e(T(lang, 'trivia_kicker', date=fdate(lang, t["date"])))}</p>
+  <h1>{e(t["title"])}</h1></div></div>
+  <p class="lead">{e(T(lang, 'trivia_lead'))}</p>
+  <div class="progress"><span id="bar"></span></div>
   {"".join(qs)}
-  <div class="score" hidden><h2>You scored <span id="sc">0</span>/{len(t["questions"])}</h2>
-  <p>A new quiz drops every day. Come back tomorrow!</p></div>
-  <h2>Previous quizzes</h2><div class="chips">{past}</div>
+  <div class="score" hidden><h2>{e(T(lang, 'you_scored'))} <span id="sc">0</span>/{len(t["questions"])}</h2><p>{e(T(lang, 'come_back'))}</p></div>
+  {f'<h2>{e(T(lang, "previous_quizzes"))}</h2><div class="chips">{past}</div>' if past else ''}
 </article>
 <script src="/assets/quiz.js" defer></script>"""
+    for t in TR:
+        add(lang, f"trivia/{t['date']}/", f"{t['title']} – {fdate(lang, t['date'])}",
+            T(lang, "trivia_desc", date=fdate(lang, t["date"]), n=len(t["questions"])), trivia_body(t),
+            {"@context": "https://schema.org", "@type": "Quiz", "name": t["title"], "datePublished": t["date"], "inLanguage": lang}, "0.5")
+    if TR:
+        t = TR[-1]
+        add(lang, "trivia/", f"{T(lang, 'daily_trivia')} – {fdate(lang, t['date'])}",
+            T(lang, "trivia_desc", date=fdate(lang, t["date"]), n=len(t["questions"])), trivia_body(t), priority="0.9")
+    elif lang == "en":
+        add(lang, "trivia/", T(lang, "daily_trivia"), T(lang, "tagline"), f'<h1>{e(T(lang, "daily_trivia"))}</h1><p>{e(T(lang, "being_prepared"))}</p>')
 
-
-def build_trivia():
-    if not trivia:
-        page("trivia/", "Daily Trivia Quiz", "A new free trivia quiz every day.",
-             "<h1>Daily trivia</h1><p>Today's quiz is being prepared. Check back soon!</p>")
-        return
-    for t in trivia:
-        schema = {"@context": "https://schema.org", "@type": "Quiz", "name": t["title"],
-                  "about": "General knowledge", "datePublished": t["date"]}
-        page(f"trivia/{t['date']}/", f"{t['title']} – Trivia for {nice_date(t['date'])}",
-             f"Play the free daily trivia quiz for {nice_date(t['date'])}: {len(t['questions'])} questions.",
-             trivia_body(t), schema, "0.5")
-    t = trivia[-1]
-    page("trivia/", f"Daily Trivia Quiz – {nice_date(t['date'])}",
-         f"Today's free trivia quiz: {len(t['questions'])} questions on science, history, movies and more.",
-         trivia_body(t), priority="0.9")
-
-
-def build_articles():
-    for a in articles:
-        secs = "".join(f'<h2>{e(s["heading"])}</h2>' + "".join(f"<p>{e(p)}</p>" for p in s.get("paragraphs", []))
-                       for s in a["sections"])
+    # articles
+    for a in AR:
+        cat = a.get("category", "Explainer")
+        secs = "".join(f'<h2>{e(s["heading"])}</h2>' + "".join(f"<p>{e(p)}</p>" for p in s.get("paragraphs", [])) for s in a["sections"])
         faq = "".join(f'<details><summary>{e(f["q"])}</summary><p>{e(f["a"])}</p></details>' for f in a.get("faq", []))
-        rel = [x for x in articles if x is not a and x.get("category") == a.get("category")][:3] or [x for x in articles if x is not a][:3]
-        related = "".join(article_card(x) for x in rel)
-        schema = [{"@context": "https://schema.org", "@type": "Article", "headline": a["title"],
-                   "description": a["description"], "datePublished": a["date"],
-                   "author": {"@type": "Organization", "name": f"{SITE} Editorial Team"},
-                   "publisher": {"@type": "Organization", "name": SITE}}]
+        rel = [x for x in AR if x is not a and x.get("category") == cat][:3] or [x for x in AR if x is not a][:3]
+        schema = [{"@context": "https://schema.org", "@type": "Article", "headline": a["title"], "description": a["description"],
+                   "datePublished": a["date"], "inLanguage": lang,
+                   "author": {"@type": "Organization", "name": f"{SITE} Editorial Team"}, "publisher": {"@type": "Organization", "name": SITE}}]
         if a.get("faq"):
             schema.append({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
                 {"@type": "Question", "name": f["q"], "acceptedAnswer": {"@type": "Answer", "text": f["a"]}} for f in a["faq"]]})
         body = f"""
 <article class="post">
-  <p class="kicker">{e(a.get("category", "Explainer"))} · {nice_date(a["date"])}</p>
+  {cover_art(a["slug"], cat, "banner")}
+  <p class="kicker">{e(cat_name(lang, cat))} · {e(fdate(lang, a["date"]))}</p>
   <h1>{e(a["title"])}</h1>
   <p class="lead">{e(a["description"])}</p>
   {secs}
-  {f'<h2>Frequently asked questions</h2><div class="faq">{faq}</div>' if faq else ''}
-  <p class="small muted">Written by the {e(SITE)} editorial team for general information. Spotted an error? <a href="/contact/">Tell us</a>.</p>
+  {f'<h2>{e(T(lang, "faq"))}</h2><div class="faq">{faq}</div>' if faq else ''}
+  <p class="small muted">{T(lang, 'written_by', site=e(SITE), contact_url=pre + '/contact/')}</p>
 </article>
-{f'<section><h2>Keep reading</h2><div class="grid">{related}</div></section>' if related else ''}"""
-        page(f"articles/{a['slug']}/", a["title"], a["description"], body, schema, "0.7")
-    cats = sorted({a.get("category", "Explainer") for a in articles})
-    cards = "".join(article_card(a) for a in articles) or "<p class='muted'>New explainers arrive every day.</p>"
-    page("articles/", "Explainers & Fun Facts", "Easy, fun explainers about the topics everyone is searching for.",
-         f'<h1>Explainers</h1><p class="muted">{len(articles)} articles · {e(", ".join(cats))}</p><div class="grid">{cards}</div>',
-         priority="0.8")
+{f'<section><h2>{e(T(lang, "keep_reading"))}</h2><div class="grid">{"".join(article_card(lang, x) for x in rel)}</div></section>' if rel else ''}"""
+        add(lang, f"articles/{a['slug']}/", a["title"], a["description"], body, schema, "0.7")
+    if AR or lang == "en":
+        cats = sorted({cat_name(lang, a.get("category", "Explainer")) for a in AR})
+        cards = "".join(article_card(lang, a) for a in AR) or f"<p class='muted'>{e(T(lang, 'new_daily'))}</p>"
+        add(lang, "articles/", T(lang, "explainers_title"), T(lang, "explainers_desc"),
+            f'<h1>{e(T(lang, "explainers_title"))}</h1><p class="muted">{e(T(lang, "articles_count", n=len(AR)))} · {e(", ".join(cats))}</p>'
+            f'<div class="grid">{cards}</div>', priority="0.8")
 
-
-def build_countdowns():
-    rows = []
-    for slug, (name, fn) in HOLIDAYS.items():
+    # countdowns
+    for slug, fn in HOLIDAYS.items():
         d = next_date(fn)
         days = (d - TODAY).days
-        rows.append((d, slug, name, days))
+        name = hname(lang, slug)
+        more = "".join(f'<a href="{pre}/countdown/{s}/">{HOLIDAY_EMOJI.get(s, "")} {e(hname(lang, s))}</a>' for s in HOLIDAYS if s != slug)
         body = f"""
 <article class="countdown" data-target="{d.isoformat()}T00:00:00">
-  <p class="kicker">Countdown</p>
-  <h1>How many days until {e(name)}?</h1>
-  <p class="lead">{e(name)} falls on <b>{d.strftime("%A, %B %-d, %Y")}</b>. That's <b>{days} days</b> from today ({TODAY.strftime("%B %-d")}).</p>
-  <div class="ticker"><div><b id="d">{days}</b><span>days</span></div><div><b id="h">0</b><span>hours</span></div>
-  <div><b id="m">0</b><span>minutes</span></div><div><b id="s">0</b><span>seconds</span></div></div>
-  <p class="small muted">The live timer counts down to midnight in your own time zone.</p>
-  <h2>More countdowns</h2>
-  <div class="chips">{"".join(f'<a href="/countdown/{s}/">{e(n)}</a>' for s, (n, _) in HOLIDAYS.items() if s != slug)}</div>
+  <div class="cd-hero"><span class="cd-big">{HOLIDAY_EMOJI.get(slug, "📅")}</span><div>
+  <p class="kicker">{e(T(lang, 'countdown'))}</p>
+  <h1>{e(T(lang, 'how_many_days', name=name))}</h1></div></div>
+  <p class="lead">{T(lang, 'falls_on', name=e(name), date=e(fdate(lang, d)), days=days)}</p>
+  <div class="ticker"><div><b id="d">{days}</b><span>{e(T(lang, 'days'))}</span></div><div><b id="h">0</b><span>{e(T(lang, 'hours'))}</span></div>
+  <div><b id="m">0</b><span>{e(T(lang, 'minutes'))}</span></div><div><b id="s">0</b><span>{e(T(lang, 'seconds'))}</span></div></div>
+  <p class="small muted">{e(T(lang, 'timer_note'))}</p>
+  <h2>{e(T(lang, 'more_countdowns'))}</h2><div class="chips">{more}</div>
 </article>
 <script src="/assets/countdown.js" defer></script>"""
-        page(f"countdown/{slug}/", f"How Many Days Until {name}? ({days} days)",
-             f"Live countdown: {days} days until {name} on {d.strftime('%B %-d, %Y')}.", body, priority="0.7")
-    rows.sort()
-    cds = "".join(f'<a class="cd" href="/countdown/{s}/"><b>{n}</b><span>days to {e(name)}</span></a>' for d, s, name, n in rows)
-    page("countdown/", "Holiday Countdowns", "Live countdowns to Christmas, Halloween, Thanksgiving and every big holiday.",
-         f'<h1>Holiday countdowns</h1><div class="cds big">{cds}</div>', priority="0.7")
+        add(lang, f"countdown/{slug}/", f"{T(lang, 'how_many_days', name=name)} ({days})",
+            re.sub("<[^>]+>", "", T(lang, "falls_on", name=name, date=fdate(lang, d), days=days)), body, priority="0.7")
+    rows = sorted(HOLIDAYS, key=lambda s: next_date(HOLIDAYS[s]))
+    add(lang, "countdown/", T(lang, "countdowns_title"), T(lang, "countdowns_desc"),
+        f'<h1>{e(T(lang, "countdowns_title"))}</h1><div class="cds big">{"".join(cd_card(lang, s) for s in rows)}</div>', priority="0.7")
+
+    # legal & contact
+    fill = lambda s: s.replace("{site}", e(SITE)).replace("{url}", e(URL)).replace("{contact_url}", pre + "/contact/")
+    add(lang, "about/", T(lang, "about_title", site=SITE), T(lang, "tagline"),
+        f'<article class="post"><h1>{e(T(lang, "about_title", site=SITE))}</h1>{fill(T(lang, "about_html"))}</article>', priority="0.3")
+    upd = e(T(lang, "last_updated", date=fdate(lang, TODAY)))
+    add(lang, "privacy/", T(lang, "privacy"), f"{T(lang, 'privacy')} – {SITE}",
+        f'<article class="post"><h1>{e(T(lang, "privacy"))}</h1><p class="muted">{upd}</p>{fill(T(lang, "privacy_html"))}</article>', priority="0.2")
+    add(lang, "terms/", T(lang, "terms"), f"{T(lang, 'terms')} – {SITE}",
+        f'<article class="post"><h1>{e(T(lang, "terms"))}</h1><p class="muted">{upd}</p>{fill(T(lang, "terms_html"))}</article>', priority="0.2")
+    key = C.get("web3forms_key", "")
+    if key:
+        box = f"""
+<form id="cf" class="cform" data-sending="{e(T(lang, 'form_sending'))}" data-ok="{e(T(lang, 'form_ok'))}" data-err="{e(T(lang, 'form_error'))}">
+  <input type="hidden" name="access_key" value="{e(key)}">
+  <input type="hidden" name="subject" value="New message from {e(SITE)} ({lang})">
+  <input type="checkbox" name="botcheck" style="display:none" tabindex="-1" autocomplete="off">
+  <label>{e(T(lang, 'form_name'))}<input name="name" required maxlength="100"></label>
+  <label>{e(T(lang, 'form_email'))}<input name="email" type="email" required maxlength="150"></label>
+  <label>{e(T(lang, 'form_message'))}<textarea name="message" required rows="6" maxlength="4000"></textarea></label>
+  <button class="btn" type="submit">{e(T(lang, 'form_send'))}</button>
+  <p id="cf-msg" class="msg" aria-live="polite"></p>
+</form>
+<script src="/assets/contact.js" defer></script>"""
+    else:
+        enc = C["contact_email"][::-1]
+        box = (f'<p class="lead"><a id="em" href="#">{e(T(lang, "show_email"))}</a></p>'
+               f'<script>(function(){{var a=document.getElementById("em");a.addEventListener("click",function(ev){{'
+               f'var x={json.dumps(enc)}.split("").reverse().join("");if(a.dataset.on){{return}}ev.preventDefault();'
+               f'a.dataset.on=1;a.href="mailto:"+x;a.textContent=x;}})}})();</script>')
+    add(lang, "contact/", T(lang, "contact_title"), T(lang, "contact_lead"),
+        f'<article class="post"><h1>{e(T(lang, "contact_title"))}</h1><p>{e(T(lang, "contact_lead"))}</p>{box}'
+        f'<p class="muted">{e(T(lang, "contact_reply"))}</p></article>', priority="0.3")
 
 
 def build_puzzle():
@@ -373,108 +556,40 @@ def build_puzzle():
   <p>Type any five-letter word and press Enter. Use the colour clues to narrow it down. Everybody gets the same word on the same day, so you can compare results with friends.</p>
 </article>
 <script src="/assets/puzzle.js" defer></script>"""
-    page("puzzle/", "Daily Word Puzzle – Guess the 5-Letter Word",
-         "A free daily five-letter word guessing game. Six tries, new word every day.", body, priority="0.9")
-
-
-def build_legal():
-    email = e(C["contact_email"])
-    key = C.get("web3forms_key", "")
-    if key:
-        contact_box = f"""
-<form id="cf" class="cform">
-  <input type="hidden" name="access_key" value="{e(key)}">
-  <input type="hidden" name="subject" value="New message from {e(SITE)}">
-  <input type="checkbox" name="botcheck" style="display:none" tabindex="-1" autocomplete="off">
-  <label>Your name<input name="name" required maxlength="100"></label>
-  <label>Your email<input name="email" type="email" required maxlength="150"></label>
-  <label>Message<textarea name="message" required rows="6" maxlength="4000"></textarea></label>
-  <button class="btn" type="submit">Send message</button>
-  <p id="cf-msg" class="msg" aria-live="polite"></p>
-</form>
-<script>
-document.getElementById('cf').addEventListener('submit', function(ev){{
-  ev.preventDefault(); var f=this, m=document.getElementById('cf-msg'), b=f.querySelector('button');
-  b.disabled=true; m.textContent='Sending…';
-  fetch('https://api.web3forms.com/submit',{{method:'POST',body:new FormData(f)}})
-    .then(function(r){{return r.json()}})
-    .then(function(d){{ if(d.success){{f.reset(); m.textContent='Thank you! Your message was sent.';}} else {{m.textContent='Sorry, something went wrong. Please try again.';}} b.disabled=false; }})
-    .catch(function(){{ m.textContent='Sorry, something went wrong. Please try again.'; b.disabled=false; }});
-}});
-</script>"""
-    else:
-        enc = C["contact_email"][::-1]
-        contact_box = (f'<p class="lead"><a id="em" href="#">Show our email address</a></p>'
-                       f'<script>(function(){{var a=document.getElementById("em");a.addEventListener("click",function(ev){{'
-                       f'var x={json.dumps(enc)}.split("").reverse().join("");if(a.dataset.on){{return}}ev.preventDefault();'
-                       f'a.dataset.on=1;a.href="mailto:"+x;a.textContent=x;}})}})();</script>')
-    page("about/", f"About {SITE}", f"Who we are and what {SITE} publishes.", f"""
-<article class="post"><h1>About {e(SITE)}</h1>
-<p>{e(SITE)} is a light-hearted daily destination for curious people. Every day we publish fresh horoscopes for all twelve zodiac signs, a new general-knowledge trivia quiz, a five-letter word puzzle, live holiday countdowns, and easy-to-read explainers about the subjects people are curious about.</p>
-<h2>How we create content</h2>
-<p>Our editorial process uses AI-assisted drafting under strict guidelines: evergreen, family-friendly topics only; no news reporting, no medical, legal or financial advice; and only well-established facts. Horoscopes and quizzes are entertainment. If you spot a mistake, please <a href="/contact/">contact us</a> and we will correct it quickly.</p>
-<h2>Contact</h2><p>Reach us through our <a href="/contact/">contact page</a>.</p></article>""", priority="0.3")
-    page("contact/", "Contact Us", f"How to reach the {SITE} team.", f"""
-<article class="post"><h1>Contact us</h1>
-<p>Questions, corrections, partnership ideas or feedback? We read every message.</p>
-{contact_box}
-<p>We usually reply within 2–3 business days.</p></article>""", priority="0.3")
-    page("privacy/", "Privacy Policy", f"Privacy policy for {SITE}.", f"""
-<article class="post"><h1>Privacy Policy</h1><p class="muted">Last updated: {TODAY.strftime("%B %-d, %Y")}</p>
-<p>This policy explains what information is collected when you visit {e(SITE)} ({e(URL)}).</p>
-<h2>Information we collect</h2>
-<p>We do not ask you to create an account. If you write to us through the contact page, we receive the name, email address and message you choose to send, and we use them only to reply to you. Contact messages are delivered to us by the form service Web3Forms.</p>
-<p>Game progress (for example, your daily puzzle guesses) is stored only in your own browser and is never sent to us.</p>
-<h2>Advertising and cookies</h2>
-<p>We use Google AdSense to show advertising. Third-party vendors, including Google, use cookies to serve ads based on your prior visits to this website or other websites. Google's use of advertising cookies enables it and its partners to serve ads to you based on your visit to this site and/or other sites on the Internet.</p>
-<p>You may opt out of personalised advertising by visiting <a href="https://www.google.com/settings/ads" rel="nofollow">Google Ads Settings</a>, or opt out of some third-party vendors' use of cookies for personalised advertising at <a href="https://www.aboutads.info/choices/" rel="nofollow">www.aboutads.info</a>. Learn more about <a href="https://policies.google.com/technologies/partner-sites" rel="nofollow">how Google uses information from sites that use its services</a>.</p>
-<p>Visitors in the European Economic Area, the UK and Switzerland are asked for consent through a consent message before personalised ads are shown.</p>
-<h2>Children</h2><p>This site is not directed to children under 13 and we do not knowingly collect information from them.</p>
-<h2>Changes and contact</h2><p>We may update this policy; the date above shows the latest version. Questions: use our <a href="/contact/">contact page</a>.</p></article>""", priority="0.2")
-    page("terms/", "Terms of Use", f"Terms of use for {SITE}.", f"""
-<article class="post"><h1>Terms of Use</h1><p class="muted">Last updated: {TODAY.strftime("%B %-d, %Y")}</p>
-<p>By using {e(SITE)} you agree to these terms.</p>
-<h2>Entertainment and general information</h2><p>Horoscopes, quizzes and puzzles are provided for entertainment. Articles are general information and are not professional advice of any kind. We work to keep content accurate but cannot guarantee it is complete or error-free.</p>
-<h2>Intellectual property</h2><p>All content on this site is owned by {e(SITE)} unless stated otherwise. You may share links freely; please do not republish full pages without permission.</p>
-<h2>External links and ads</h2><p>We are not responsible for the content of third-party websites or advertisements.</p>
-<h2>Contact</h2><p>Use our <a href="/contact/">contact page</a>.</p></article>""", priority="0.2")
-
-
-def build_misc():
-    shutil.copytree(ASSETS, OUT / "assets", dirs_exist_ok=True)
-    root_files = Path(__file__).resolve().parent / "root"  # verification files etc. served at the site root
-    if root_files.exists():
-        shutil.copytree(root_files, OUT, dirs_exist_ok=True)
-    (OUT / "404.html").write_text((OUT / "index.html").read_text(encoding="utf-8").replace(
-        '<section class="hero">', '<section class="hero"><p class="kicker">Page not found — but here is today\'s fun:</p>', 1), encoding="utf-8")
-    (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {URL}/sitemap.xml\n", encoding="utf-8")
-    if C.get("adsense_client"):
-        pub = C["adsense_client"].replace("ca-", "")
-        (OUT / "ads.txt").write_text(f"google.com, {pub}, DIRECT, f08c47fec0942fa0\n", encoding="utf-8")
-    host = URL.split("://", 1)[-1]
-    if "example.com" not in host and "github.io" not in host:
-        (OUT / "CNAME").write_text(host + "\n", encoding="utf-8")
-    (OUT / ".nojekyll").write_text("", encoding="utf-8")
-    urls = "".join(f"<url><loc>{e(u)}</loc><lastmod>{TODAY}</lastmod><priority>{p}</priority></url>" for u, p in sitemap)
-    (OUT / "sitemap.xml").write_text(
-        f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{urls}</urlset>',
-        encoding="utf-8")
+    add("en", "puzzle/", "Daily Word Puzzle – Guess the 5-Letter Word",
+        "A free daily five-letter word guessing game. Six tries, new word every day.", body, priority="0.9")
 
 
 def main():
     if OUT.exists():
         shutil.rmtree(OUT)
     OUT.mkdir()
-    build_home()
-    build_horoscopes()
-    build_trivia()
+    for lang in LANGS:
+        build_lang(lang)
     build_puzzle()
-    build_articles()
-    build_countdowns()
-    build_legal()
-    build_misc()
-    print(f"Built {len(sitemap)} pages into {OUT} "
-          f"({len(horoscopes)} horoscope days, {len(trivia)} quizzes, {len(articles)} articles)")
+    sitemap = [render(l, p, pg) for (l, p), pg in PAGES.items()]
+
+    shutil.copytree(HERE / "assets", OUT / "assets", dirs_exist_ok=True)
+    if (HERE / "root").exists():
+        shutil.copytree(HERE / "root", OUT, dirs_exist_ok=True)
+    home = (OUT / "index.html").read_text(encoding="utf-8")
+    (OUT / "404.html").write_text(home.replace('<p class="kicker">', f'<p class="kicker">{e(UI_EN["not_found"])} · ', 1), encoding="utf-8")
+    (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {URL}/sitemap.xml\n", encoding="utf-8")
+    if C.get("adsense_client"):
+        (OUT / "ads.txt").write_text(f"google.com, {C['adsense_client'].replace('ca-', '')}, DIRECT, f08c47fec0942fa0\n", encoding="utf-8")
+    host = URL.split("://", 1)[-1]
+    if "example.com" not in host and "github.io" not in host:
+        (OUT / "CNAME").write_text(host + "\n", encoding="utf-8")
+    (OUT / ".nojekyll").write_text("", encoding="utf-8")
+    urls = []
+    for loc, pri, alts in sitemap:
+        links = "".join(f'<xhtml:link rel="alternate" hreflang="{l}" href="{e(u)}"/>' for l, u in alts.items()) if len(alts) > 1 else ""
+        urls.append(f"<url><loc>{e(loc)}</loc><lastmod>{TODAY}</lastmod><priority>{pri}</priority>{links}</url>")
+    (OUT / "sitemap.xml").write_text(
+        '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
+        f'xmlns:xhtml="http://www.w3.org/1999/xhtml">{"".join(urls)}</urlset>', encoding="utf-8")
+    counts = ", ".join(f"{l}: {len(DATA[l]['articles'])} articles" for l in LANGS)
+    print(f"Built {len(PAGES)} pages in {len(LANGS)} language(s) ({counts})")
 
 
 if __name__ == "__main__":

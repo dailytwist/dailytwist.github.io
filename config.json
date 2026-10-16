@@ -9,5 +9,17 @@
   "articles_per_day": 3,
   "trivia_questions_per_day": 10,
   "gemini_model": "gemini-3.5-flash-lite",
-  "web3forms_key": "acb7e381-4276-4de2-82b1-b6d1f64cc9d5"
+  "web3forms_key": "acb7e381-4276-4de2-82b1-b6d1f64cc9d5",
+  "languages": [
+    "en",
+    "es",
+    "fr",
+    "de",
+    "pt",
+    "it",
+    "ja",
+    "ar"
+  ],
+  "max_translations_per_run": 60,
+  "ai_delay_seconds": 4
 }

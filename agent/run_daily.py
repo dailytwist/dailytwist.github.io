@@ -94,6 +94,7 @@ def ask_ai(prompt: str, max_tokens: int = 4000, retries: int = 4) -> str:
         print("::error::No AI key found. Add the GEMINI_API_KEY secret in the repository settings.")
         sys.exit(1)
     last_error = ""
+    time.sleep(CONFIG.get("ai_delay_seconds", 4))  # stay under free-tier per-minute limits
     for attempt in range(retries):
         try:
             if gkey:
@@ -268,6 +269,105 @@ Format: {{"ideas": ["...", ...]}}""", max_tokens=500).get("ideas", [])
             print(f"  article failed for {t}: {e}")
 
 
+# ---------------------------------------------------------------- translations
+LANG_NAMES = {"en": "English", "es": "Spanish", "fr": "French", "de": "German", "pt": "Portuguese (Brazil)",
+              "it": "Italian", "ja": "Japanese", "ar": "Modern Standard Arabic", "nl": "Dutch", "pl": "Polish",
+              "tr": "Turkish", "id": "Indonesian", "hi": "Hindi", "ko": "Korean", "ru": "Russian",
+              "sv": "Swedish", "zh": "Simplified Chinese", "vi": "Vietnamese", "th": "Thai", "uk": "Ukrainian"}
+UI_EN = json.loads((ROOT / "site_builder" / "ui_en.json").read_text(encoding="utf-8"))
+I18N = CONTENT / "i18n"
+KEEP = {"slug", "date", "topic", "trending", "answer_index", "lucky_number", "category"}
+
+
+def _keep(k, d) -> bool:
+    return k in KEEP and not (k == "category" and "question" in d)  # quiz categories get translated
+
+
+def _shape(o):
+    if isinstance(o, dict):
+        return {k: _shape(v) for k, v in o.items()}
+    if isinstance(o, list):
+        return [_shape(v) for v in o]
+    return type(o).__name__
+
+
+def _strip(o):
+    if isinstance(o, dict):
+        return {k: _strip(v) for k, v in o.items() if not _keep(k, o)}
+    if isinstance(o, list):
+        return [_strip(v) for v in o]
+    return o
+
+
+def _merge(orig, tr):
+    if isinstance(orig, dict):
+        return {k: (v if _keep(k, orig) else _merge(v, tr.get(k, v))) for k, v in orig.items()}
+    if isinstance(orig, list):
+        return [_merge(a, b) for a, b in zip(orig, tr)] if len(orig) == len(tr) else orig
+    return tr if isinstance(tr, type(orig)) else orig
+
+
+def translate_json(obj, lang: str, max_tokens: int = 8000):
+    src = _strip(obj)
+    out = ask_json(f"""Translate every string value in this JSON into natural, fluent {LANG_NAMES.get(lang, lang)}
+written for a native reader (not word-for-word). Rules:
+- Keep the JSON structure, keys, list lengths and order exactly the same.
+- Keep HTML tags, {{placeholders}} in curly braces, URLs, numbers and brand/person names unchanged.
+- For horoscope and quiz text keep the same playful tone.
+JSON:
+{json.dumps(src, ensure_ascii=False)}""", max_tokens=max_tokens)
+    if _shape(out) != _shape(src):
+        raise ValueError("translated JSON has a different structure")
+    return _merge(obj, out)
+
+
+def ensure_ui(lang: str) -> None:
+    path = I18N / lang / "ui.json"
+    have = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+    missing = {k: v for k, v in UI_EN.items() if k not in have}
+    if not missing:
+        return
+    print(f"- UI strings -> {lang} ({len(missing)} keys)")
+    html_keys = [k for k in missing if k.endswith("_html")]
+    groups = [{k: v for k, v in missing.items() if k not in html_keys}] + [{k: missing[k]} for k in html_keys]
+    for g in groups:
+        if not g:
+            continue
+        try:
+            t = translate_json(g, lang)
+        except Exception as ex:
+            print(f"::warning::UI translation {lang} failed: {str(ex)[:200]}")
+            continue
+        for k, v in t.items():
+            if isinstance(v, str) and set(re.findall(r"{\w+}", v)) != set(re.findall(r"{\w+}", UI_EN[k])):
+                continue  # placeholders broken -> keep English for this key
+            have[k] = v
+    have["language_name"] = LANG_NAMES.get(lang, lang)
+    save(path, have)
+
+
+def translate_content(lang: str, budget: list, today: dt.date) -> None:
+    jobs = []
+    for kind in ("horoscopes", "trivia", "articles"):
+        for f in (CONTENT / kind).glob("*.json"):
+            if not (I18N / lang / kind / f.name).exists():
+                jobs.append((kind, f))
+    # newest first (today's items come first), horoscopes/trivia before articles on the same day
+    def newest(j):
+        d = json.loads(j[1].read_text(encoding="utf-8")).get("date", "")
+        return (d, j[0] != "articles")
+    jobs.sort(key=newest, reverse=True)
+    for kind, f in jobs:
+        if budget[0] <= 0:
+            return
+        budget[0] -= 1
+        try:
+            data = json.loads(f.read_text(encoding="utf-8"))
+            save(I18N / lang / kind / f.name, translate_json(data, lang))
+        except Exception as ex:
+            print(f"::warning::translate {kind}/{f.name} -> {lang} failed: {str(ex)[:200]}")
+
+
 # ---------------------------------------------------------------- main
 def main() -> None:
     ap = argparse.ArgumentParser()
@@ -290,6 +390,28 @@ def main() -> None:
             print(f"::error::{fn.__name__} failed: {str(e)[:600]}")
     if errors == len(jobs):
         sys.exit(1)
+
+    budget = [CONFIG.get("max_translations_per_run", 60)]
+    langs = [l for l in CONFIG.get("languages", ["en"]) if l != "en"]
+    for lang in langs:
+        try:
+            ensure_ui(lang)
+        except Exception as ex:
+            print(f"::warning::UI {lang}: {str(ex)[:200]}")
+    # round-robin so every language gets today's content before any backlog
+    for _ in range(100):
+        used_round = 0
+        for lang in langs:
+            if budget[0] <= 0:
+                break
+            chunk = [min(3, budget[0])]
+            start = chunk[0]
+            translate_content(lang, chunk, today)
+            used = start - chunk[0]
+            budget[0] -= used
+            used_round += used
+        if used_round == 0:
+            break
     print("Agent finished.")
 
 
