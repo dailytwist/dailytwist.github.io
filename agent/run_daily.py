@@ -56,7 +56,9 @@ def ask_ai(prompt: str, max_tokens: int = 4000, retries: int = 4) -> str:
     gkey = os.environ.get("GEMINI_API_KEY")
     akey = os.environ.get("ANTHROPIC_API_KEY")
     if not gkey and not akey:
-        sys.exit("Set GEMINI_API_KEY or ANTHROPIC_API_KEY.")
+        print("::error::No AI key found. Add the GEMINI_API_KEY secret in the repository settings.")
+        sys.exit(1)
+    last_error = ""
     for attempt in range(retries):
         try:
             if gkey:
@@ -72,10 +74,16 @@ def ask_ai(prompt: str, max_tokens: int = 4000, retries: int = 4) -> str:
                          {"x-api-key": akey, "anthropic-version": "2023-06-01", "content-type": "application/json"})
             return "".join(b.get("text", "") for b in data["content"])
         except Exception as e:  # network / rate limit
+            if hasattr(e, "read"):
+                try:
+                    e = f"{e} {e.read().decode()[:300]}"
+                except Exception:
+                    pass
+            last_error = str(e)
             wait = 65 if "429" in str(e) else 10 * (attempt + 1)
             print(f"  AI call failed ({e}), retry {attempt + 1}/{retries} in {wait}s")
             time.sleep(wait)
-    raise RuntimeError("AI call failed after retries")
+    raise RuntimeError(f"AI call failed after retries: {last_error}")
 
 
 def ask_json(prompt: str, max_tokens: int = 4000):
@@ -226,16 +234,21 @@ def main() -> None:
     args = ap.parse_args()
     today = dt.datetime.now(dt.timezone.utc).date()
 
+    jobs = []
     for i in range(args.backfill, 0, -1):
         d = today - dt.timedelta(days=i)
-        make_horoscopes(d)
-        make_trivia(d)
-        make_articles(d, [], 2)
-
-    topics = trending_topics(CONFIG["trends_geo"])
-    make_horoscopes(today)
-    make_trivia(today)
-    make_articles(today, topics, CONFIG["articles_per_day"])
+        jobs += [(make_horoscopes, (d,)), (make_trivia, (d,)), (make_articles, (d, [], 2))]
+    jobs += [(make_horoscopes, (today,)), (make_trivia, (today,)),
+             (make_articles, (today, trending_topics(CONFIG["trends_geo"]), CONFIG["articles_per_day"]))]
+    errors = 0
+    for fn, a in jobs:
+        try:
+            fn(*a)
+        except Exception as e:
+            errors += 1
+            print(f"::error::{fn.__name__} failed: {str(e)[:400]}")
+    if errors == len(jobs):
+        sys.exit(1)
     print("Agent finished.")
 
 
