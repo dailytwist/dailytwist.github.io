@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-15",
+  "title": "Coup de savoir du jour : 15 octobre 2026",
+  "questions": [
+    {
+      "category": "Géographie",
+      "question": "Quel pays abrite la capitale la plus haute du monde en termes d'altitude, à savoir La Paz ?",
+      "options": [
+        "Équateur",
+        "Pérou",
+        "Bolivie",
+        "Colombie"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La Paz culmine à une impressionnante altitude d'environ 3 650 mètres au-dessus du niveau de la mer."
+    },
+    {
+      "category": "Science",
+      "question": "Quel est le gaz principal présent dans l'atmosphère de Vénus ?",
+      "options": [
+        "Hydrogène",
+        "Azote",
+        "Dioxyde de carbone",
+        "Oxygène"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le dioxyde de carbone représente environ 96,5 % de l'épaisse atmosphère de Vénus, ce qui provoque un effet de serre emballé."
+    },
+    {
+      "category": "Histoire",
+      "question": "La célèbre bataille de Waterloo, qui a marqué la défaite finale de Napoléon Bonaparte, a eu lieu en quelle année ?",
+      "options": [
+        "1789",
+        "1815",
+        "1830",
+        "1805"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Cette bataille décisive a été livrée le 18 juin 1815 près de Waterloo, dans l'actuelle Belgique."
+    },
+    {
+      "category": "Films et pop culture",
+      "question": "Quel acteur a prêté sa voix emblématique à Darth Vader dans la trilogie originale de Star Wars ?",
+      "options": [
+        "Sir Alec Guinness",
+        "James Earl Jones",
+        "David Prowse",
+        "Frank Oz"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Alors que David Prowse incarnait physiquement le méchant dans le costume, James Earl Jones lui prêtait sa voix puissante et inoubliable."
+    },
+    {
+      "category": "Cuisine",
+      "question": "Dans la cuisine italienne traditionnelle, quel est le principal fromage utilisé pour préparer l'authentique pesto génois ?",
+      "options": [
+        "Parmigiano-Reggiano",
+        "Gorgonzola",
+        "Mozzarella",
+        "Ricotta"
+      ],
+      "answer_index": 0,
+      "fun_fact": "L'authentique pesto génois associe basilic frais, ail, pignons de pin, gros sel, Parmigiano-Reggiano, pecorino et huile d'olive."
+    },
+    {
+      "category": "Animaux",
+      "question": "Quelle adaptation physique unique permet aux hiboux de voir tout autour d'eux alors que leurs yeux sont fixes dans leurs orbites ?",
+      "options": [
+        "Ils peuvent pivoter leur tête jusqu'à 270 degrés",
+        "Ils possèdent des pupilles mobiles de manière indépendante",
+        "Ils disposent d'une seconde paupière transparente",
+        "Ils peuvent se repérer par écholocalisation grâce à des aigrettes spécialisées"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Les hiboux possèdent 14 vertèbres cervicales, ce qui leur permet de tourner la tête de façon impressionnante pour compenser l'immobilité de leurs yeux."
+    },
+    {
+      "category": "Sports",
+      "question": "Combien de joueurs au total se trouvent sur la glace pour une seule équipe de hockey sur glace lors d'un match réglementaire standard (hors gardien) ?",
+      "options": [
+        "6",
+        "5",
+        "4",
+        "7"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Une équipe standard aligne cinq patineurs (trois attaquants et deux défenseurs) ainsi qu'un gardien de but."
+    },
+    {
+      "category": "Langue",
+      "question": "Quel terme linguistique utilise-t-on pour désigner un mot formé à partir des initiales d'autres mots, tel que 'NASA' ou 'Sida', et qui se prononce comme un mot ordinaire ?",
+      "options": [
+        "Oxymore",
+        "Mot-valise",
+        "Acronyme",
+        "Palindrome"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Contrairement aux sigles où chaque lettre est prononcée individuellement (comme FBI), les acronymes se prononcent comme des mots à part entière."
+    },
+    {
+      "category": "Espace",
+      "question": "Quel satellite de Saturne est célèbre pour posséder une épaisse atmosphère riche en azote et des lacs de méthane liquide à sa surface ?",
+      "options": [
+        "Encelade",
+        "Titan",
+        "Japet",
+        "Mimas"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Titan est la seule lune de notre système solaire connue pour posséder une atmosphère dense et des étendues stables de liquide en surface."
+    },
+    {
+      "category": "Géographie",
+      "question": "Le golfe de Botnie sépare quels deux pays européens ?",
+      "options": [
+        "L'Italie et la Grèce",
+        "La Suède et la Finlande",
+        "L'Estonie et la Lettonie",
+        "La Norvège et le Danemark"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Le golfe de Botnie est le bras le plus au nord de la mer Baltique, situé entre la Suède à l'ouest et la Finlande à l'est."
+    }
+  ]
+}

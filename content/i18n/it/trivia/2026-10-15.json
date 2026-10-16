@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-15",
+  "title": "Pillola di Sapenza Quotidiana: 15 Ottobre 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Quale paese ospita la capitale più alta del mondo per altitudine, ovvero La Paz?",
+      "options": [
+        "Ecuador",
+        "Perù",
+        "Bolivia",
+        "Colombia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La Paz si trova a un'altitudine impressionante di circa 3.650 metri sul livello del mare."
+    },
+    {
+      "category": "Scienza",
+      "question": "Qual è il gas principale presente nell'atmosfera di Venere?",
+      "options": [
+        "Idrogeno",
+        "Azoto",
+        "Anidride carbonica",
+        "Ossigeno"
+      ],
+      "answer_index": 2,
+      "fun_fact": "L'anidride carbonica costituisce circa il 96,5% della densa atmosfera di Venere, alimentando un effetto serra galoppante."
+    },
+    {
+      "category": "Storia",
+      "question": "La storica battaglia di Waterloo, che segnò la definitiva sconfitta di Napoleone Bonaparte, ebbe luogo in quale anno?",
+      "options": [
+        "1789",
+        "1815",
+        "1830",
+        "1805"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Questa battaglia decisiva fu combattuta il 18 giugno 1815 vicino a Waterloo, nell'odierno Belgio."
+    },
+    {
+      "category": "Cinema e Pop Culture",
+      "question": "Quale attore ha prestato l'iconica voce a Darth Vader nella trilogia originale di Star Wars?",
+      "options": [
+        "Sir Alec Guinness",
+        "James Earl Jones",
+        "David Prowse",
+        "Frank Oz"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Mentre David Prowse ha interpretato fisicamente il cattivo nel costume, James Earl Jones ha fornito la sua voce profonda e indimenticabile."
+    },
+    {
+      "category": "Cucina",
+      "question": "Nella cucina tradizionale italiana, qual è il formaggio principale usato per preparare l'autentico pesto alla genovese?",
+      "options": [
+        "Parmigiano-Reggiano",
+        "Gorgonzola",
+        "Mozzarella",
+        "Ricotta"
+      ],
+      "answer_index": 0,
+      "fun_fact": "L'autentico pesto genovese unisce basilico fresco, aglio, pinoli, sale grosso, Parmigiano-Reggiano, Pecorino e olio d'oliva."
+    },
+    {
+      "category": "Animali",
+      "question": "Quale particolare adattamento fisico permette ai gufi di osservare ciò che li circonda, nonostante i loro occhi siano fissi nelle orbite?",
+      "options": [
+        "Possono ruotare la testa fino a 270 gradi",
+        "Hanno pupille che si muovono indipendentemente",
+        "Possiedono un secondo set di palpebre trasparenti",
+        "Possono ecolocalizzare usando ciuffi auricolari specializzati"
+      ],
+      "answer_index": 0,
+      "fun_fact": "I gufi hanno 14 vertebre cervicali, il che permette loro di girare la testa in modo straordinario per compensare gli occhi immobili."
+    },
+    {
+      "category": "Sport",
+      "question": "Quanti giocatori in totale si trovano sul ghiaccio per una singola squadra durante una partita standard di hockey su ghiaccio (escluso il portiere)?",
+      "options": [
+        "6",
+        "5",
+        "4",
+        "7"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Una squadra standard schiera cinque giocatori di movimento (tre attaccanti e due difensori) più un portiere."
+    },
+    {
+      "category": "Linguistica",
+      "question": "Quale termine linguistico viene usato per descrivere una parola formata dalle lettere iniziali di altre parole, come 'NASA' o 'Laser', che viene pronunciata come un'unica parola?",
+      "options": [
+        "Ossimoro",
+        "Macedonia",
+        "Acronimo",
+        "Palindromo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A differenza delle sigle in cui ogni lettera viene pronunciata singolarmente (come FBI), gli acronimi si pronunciano come parole intere."
+    },
+    {
+      "category": "Spazio",
+      "question": "Quale luna di Saturno è famosa per avere una densa atmosfera ricca di azoto e laghi di metano liquido sulla sua superficie?",
+      "options": [
+        "Encelado",
+        "Titano",
+        "Giapeto",
+        "Mimas"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Titano è l'unica luna del nostro sistema solare nota per avere una densa atmosfera e riserve stabili di liquido in superficie."
+    },
+    {
+      "category": "Geografia",
+      "question": "Il Golfo di Botnia separa quali due paesi europei?",
+      "options": [
+        "Italia e Grecia",
+        "Svezia e Finlandia",
+        "Estonia e Lettonia",
+        "Norvegia e Danimarca"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Il Golfo di Botnia è il braccio più settentrionale del Mar Baltico, situato tra la Svezia a ovest e la Finlandia a est."
+    }
+  ]
+}

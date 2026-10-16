@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-15",
+  "signs": {
+    "aries": {
+      "overview": "El jueves llega con una gloriosa carga de energía impulsada por espresso, Aries, y estás listo para conquistar todo el calendario. Tu planeta regente, Marte, está encendiendo una hoguera bajo tu ambición, convirtiéndote en el indiscutible MVP de cada habitación a la que entras pavoneándote hoy. Mientras otros todavía buscan el botón de posponer, tú estás redactando manifiesto tras manifiesto y organizando tus suministros de escritorio por colores neón. Solo recuerda que no todos se mueven a la velocidad de un cohete, así que practica un poquito de paciencia al tratar con colegas más lentos. Por la noche, canaliza ese resto de adrenalina en una fiesta de baile ridículamente divertida en tu sala.",
+      "love": "Tu juego de coqueteo audaz irradia calor por los poros, convirtiendo hilos de mensajes casuales en aventuras chispeantes. Si tienes pareja, sorpréndela con una cita espontánea y llena de energía haciendo algo salvajemente fuera de lo común.",
+      "career": "Estás abriendo caminos y cortando la burocracia como cuchillo caliente en mantequilla. Lidera la carga en esa gran presentación porque el jefe está tomando notas serias.",
+      "wellness": "Canaliza esa inquietud feroz en una clase de kickboxing de alta intensidad o un trote rápido por el parque.",
+      "lucky_number": 23,
+      "lucky_color": "Carmesí",
+      "mood": "Eléctrico"
+    },
+    "taurus": {
+      "overview": "Hunde tus pantuflas de terciopelo de felpa en las vibras acogedoras de este delicioso jueves, Tauro. El clima cósmico te invita a bajar el ritmo, saborear tu café artesanal favorito y apreciar las obras maestras sensoriales que se esconden a simple vista. Es posible que te encuentres totalmente hipnotizado por la forma en que la luz del sol otoñal ilumina tu planta de interior favorita o por el aroma celestial de la vainilla horneándose en la cocina. Resiste cualquier impulso repentino de renovar toda tu vida hoy; en su lugar, perfecciona el arte del descanso lujoso. Envuélvete en una cobija pesada y deja que el resto del mundo ajetreado gire sin tu supervisión inmediata.",
+      "love": "El romance a fuego lento es tu superpoder absoluto hoy, especialmente sobre una comida casera que incluya demasiado ajo y mantequilla. Mantén las cosas acogedoras, íntimas y libres de cualquier drama.",
+      "career": "La persistencia constante gana el maratón, y tu enfoque metódico mantiene a todo el equipo con los pies en la tierra. No dejes que los colegas apresurados apuren tu obra maestra.",
+      "wellness": "Regálate una lujosa rutina de cuidado de la piel de cinco pasos o un baño largo con infusión de eucalipto en la tina.",
+      "lucky_number": 7,
+      "lucky_color": "Salvia",
+      "mood": "Acogedor"
+    },
+    "gemini": {
+      "overview": "Tu cerebro está operando actualmente a velocidad warp, Géminis, saltando entre diez ideas brillantes antes de que siquiera hayas terminado de atarte los zapatos. El jueves está hecho a la medida para tu marca distintiva de ingenio chispeante y curiosidad insaciable. Encantarás sin esfuerzo a todos, desde el barista hasta el CEO, con tus observaciones afiladas como navaja y tu risa contagiosa. Solo ten cuidado con la sobrecarga de información; en realidad no necesitas leer cuarenta y siete pestañas abiertas del navegador hoy. Elige tu distracción brillante favorita y sumérgete en la madriguera con alegría desenfrenada y cero arrepentimientos.",
+      "love": "Un intercambio de mensajes ingenioso puede encender chispas serias al instante, así que deja que tu broma inteligente fluya libremente. Si estás en pareja, enséñense mutuamente un dato curioso y extraño para mantener viva la conexión mental.",
+      "career": "La multitarea es tu patio de recreo hoy, permitiéndote hacer malabares con tres proyectos y aun así tener tiempo para un gran chisme de equipo. Tus habilidades comunicativas son oro puro.",
+      "wellness": "Dale un respiro a tu mente hiperactiva con cinco minutos de respiración en caja entre llamadas de Zoom llenas de charla.",
+      "lucky_number": 42,
+      "lucky_color": "Amarillo",
+      "mood": "Hablador"
+    },
+    "cancer": {
+      "overview": "Lleva tu radar emocional a su máxima sensibilidad hoy, dulce Cáncer, porque tu intuición es prácticamente clarividente. El jueves te pide que envuelvas tu tierno corazón en tu suéter de cachemira favorito y protejas tu paz personal a toda costa. Eres el oyente cósmico definitivo, y un amigo se va a apoyar en tu hombro reconfortante para pedir un sabio consejo. Sírvele una taza de té de manzanilla y ofrécele un puerto seguro. Para cuando llegue la noche, retírate a tu concha bellamente curada para ver una película bien merecida y recargar energías emocionales.",
+      "love": "La vulnerabilidad es tu rasgo más atractivo en este momento, atrayendo a tu persona favorita aún más hacia tu órbita. Comparte tus sueños más acogedores y profundos bajo una pila de edredones pesados.",
+      "career": "Tu estilo de liderazgo empático genera confianza instantánea y suaviza cualquier tensión en la oficina. Confía en tus instintos al navegar por dinámicas de equipo difíciles.",
+      "wellness": "Nutre tu alma con un tazón de sopa casera cálido y reconfortante o un guiso de verduras de raíz.",
+      "lucky_number": 12,
+      "lucky_color": "Azul hortensia",
+      "mood": "Nutricio"
+    },
+    "leo": {
+      "overview": "El universo ha desplegado oficialmente la pasarela de terciopelo solo para ti, Leo, y tu momento estelar ocurre exactamente a tiempo. El jueves irradia estilo teatral, impulsando tu carisma natural a proporciones legendarias. Ya sea que estés presentando una visión artística o simplemente caminando por la calle con tu atuendo más fabuloso, estás llamando la atención y marcando tendencias. Absorbe cada cumplido que se cruce en tu camino, pero recuerda compartir los aplausos con tus fieles compinches. La noche exige iluminación dramática, música fabulosa y tal vez una corona de estrellas metafóricas.",
+      "love": "El romance es tu escenario personal, y estás listo para ofrecer una actuación de afecto que detenga el espectáculo. Colma a tu admirador de generosos elogios y míralo derretirse.",
+      "career": "Tu chispa creativa brilla con tanta intensidad que incluso los críticos más duros se quedan ganados por tu encanto. Adueña tus grandes ideas y toma el centro del escenario.",
+      "wellness": "Adopta una postura de yoga de poder frente al espejo y recuérdate lo fabuloso que eres.",
+      "lucky_number": 88,
+      "lucky_color": "Oro",
+      "mood": "Regio"
+    },
+    "virgo": {
+      "overview": "Toma tu marcador fluorescente y tu agenda favorita, Virgo, porque el jueves es tu obra maestra en magia organizacional. Estás viendo patrones y arreglando enredos logísticos que todos los demás pasaron completamente por alto, y tu pura competencia es impresionante. Mientras otros corren como locos, tú estás codificando con colores tu camino hacia la victoria absoluta de manera calmada. Tómate un breve momento para celebrar tu propia brillantez antes de sumergirte en la siguiente lista de verificación. Recuerda que la perfección es una ilusión, así que date permiso para declarar un proyecto maravillosamente 'terminado' y sigue adelante.",
+      "love": "Los actos de servicio son tu lenguaje del amor hoy, desde organizar el desordenado librero de tu pareja hasta hacerle una lista de reproducción personalizada. El afecto dulce y práctico gana el día.",
+      "career": "Tu meticulosa atención al detalle detecta un error que podría haber sido catastrófico. Da paso a los aplausos silenciosos de la gerencia.",
+      "wellness": "Despeja el desorden físico de tu mesa de noche para calmar instantáneamente tus patrones de pensamiento ocupados.",
+      "lucky_number": 5,
+      "lucky_color": "Azul marino",
+      "mood": "Eficiente"
+    },
+    "libra": {
+      "overview": "El equilibrio estético es tu búsqueda definitiva este jueves, Libra, y estás orquestando belleza dondequiera que vayas. Venus está bendiciendo tu sector social, convirtiéndote en el consentido indiscutible de cada reunión y chat grupal. Tienes una habilidad mágica para hacer que todos se sientan vistos, escuchados y excepcionalmente bien vestidos. Si estás atrapado tratando de tomar una decisión, deja de torturarte con los pros y los contras y simplemente elige la opción que traiga la mayor alegría visual. La noche es ideal para visitar galerías, escuchar jazz suave o beber algo espumoso en buena compañía.",
+      "love": "El coqueteo es una forma de arte exquisita hoy, y estás ejecutando cada trazo con gracia sin esfuerzo. Si tienes pareja, planea una cena romántica increíblemente pintoresca.",
+      "career": "Tus legendarias habilidades diplomáticas convierten un acalorado debate de oficina en una sesión de lluvia de ideas armoniosa. Todos te quieren en su comité.",
+      "wellness": "Haz un poco de estiramiento suave mientras escuchas una lista de reproducción acústica curada para restaurar tu equilibrio interior.",
+      "lucky_number": 19,
+      "lucky_color": "Rosa",
+      "mood": "Armonioso"
+    },
+    "scorpio": {
+      "overview": "Sumérgete en las profundidades misteriosas hoy, Escorpio, porque la charla superficial simplemente no servirá en este intenso jueves. Tu intuición opera en modo de enfoque láser, ayudándote a leer entre líneas y descubrir verdades fascinantes. Canalizas una energía magnética y enigmática que atrae a las personas como polillas a una llama muy elegante. Inclínate hacia tu lado investigativo, ya sea que estés investigando un pasatiempo fascinante o desentrañando una trama compleja en una novela de suspense. Abraza tu detective interior y deja que tus pasiones ardan con una intensidad silenciosa y feroz.",
+      "love": "Tu mirada intensa puede comunicar mil palabras sin que pronuncies una sola sílaba. Las conversaciones profundas que desnudan el alma forjan lazos inquebrantables esta noche.",
+      "career": "El enfoque láser te permite cortar distracciones y resolver un problema obstinado que ha desconcertado a todos los demás. Confía en tus agudos instintos.",
+      "wellness": "Desconéctate de las redes sociales y disfruta de un poco de soledad tranquila en una habitación tenue para recargar tu batería energética.",
+      "lucky_number": 33,
+      "lucky_color": "Borgoña",
+      "mood": "Intenso"
+    },
+    "sagittarius": {
+      "overview": "Empaca tus maletas metafóricas, Sagitario, porque tu alma impulsada por la pasión por los viajes te pide a gritos una gran aventura este jueves. Incluso si estás atrapado en un escritorio, tu mente vuela a través de continentes, tramando tu próxima escapada épica o viaje por carretera espontáneo. Tu optimismo contagioso está convirtiendo los momentos mundanos en un espectáculo de comedia, y tu risa resuena por los pasillos. Di que sí a cualquier invitación extraña y aleatoria que se cruce en tu camino hoy porque la serendipia juega en tu equipo. Mantén tu pasaporte a mano y tu mente bien abierta.",
+      "love": "La espontaneidad es tu mayor afrodisíaco, así que sorprende a tu amorcito con un picnic improvisado en un lugar inusual. La aventura espera a aquellos que se atreven a amar en voz alta.",
+      "career": "Pensar en grande es tu superpoder absoluto hoy. Mientras otros se obsesionan con pequeños detalles, tú estás trazando el rumbo visionario para el futuro.",
+      "wellness": "Sal a dar un paseo largo y serpenteante por un vecindario que nunca antes hayas explorado.",
+      "lucky_number": 11,
+      "lucky_color": "Turquesa",
+      "mood": "Aventurero"
+    },
+    "capricorn": {
+      "overview": "Canaliza tu cabra montés interior hoy, Capricornio, porque el jueves se trata de escalar constantemente los picos de tu ambición. Estás jugando a largo plazo, y tu formidable ética de trabajo está sentando las bases para el triunfo futuro. La gente acude a ti en busca de liderazgo porque tu energía arraigada y confiable es un ancla en cualquier tormenta. Siente un enorme orgullo por tus logros, pero no olvides aflojarte la corbata o la bufanda al final de la tarde. Regálate algo excepcionalmente bien hecho y date una palmada en la espalda por un trabajo extraordinariamente bien hecho.",
+      "love": "Las acciones hablan infinitamente más alto que las palabras, y tu lealtad inquebrantable es el gesto romántico definitivo. Hazte presente por tu pareja de una manera tangible y confiable.",
+      "career": "Tu plan maestro estratégico se está uniendo con precisión de relojero. Los altos mandos definitivamente están tomando nota de tu destreza ejecutiva.",
+      "wellness": "Apoya tu postura con algunos estiramientos de espalda específicos y un ajuste de asiento ergonómico.",
+      "lucky_number": 8,
+      "lucky_color": "Carbón",
+      "mood": "Ambicioso"
+    },
+    "aquarius": {
+      "overview": "Bienvenido a tu revolución peculiar, Acuario, donde el jueves se trata de marchar al ritmo de tu propia caja de ritmos fuertemente remezclada. Tu mente brillante y futurista zumba con conceptos de vanguardia que dejan a los tradicionalistas rascándose la cabeza en deliciosa confusión. Comparte tus ideas más extrañas y excéntricas con el grupo porque inspiraciones en forma de rayo están golpeando tu cerebro. Es posible que encuentres a tu tribu entre los compañeros rebeldes y visionarios hoy. Abraza a tu científico loco interior y deja que tu rareza única brille como un letrero de neón en la oscuridad.",
+      "love": "La química mental es tu principal excitación, así que conéctate a través de pasiones nerds compartidas o maratones de películas de ciencia ficción. Mantén las cosas poco convencionales y frescas.",
+      "career": "Tu innovación fuera de lo común salva el día cuando un enfoque estándar falla por completo. Inventa una nueva regla solo por diversión.",
+      "wellness": "Dale a tus ojos un descanso de la pantalla observando las estrellas o mirando algo verde y vivo durante diez minutos completos.",
+      "lucky_number": 17,
+      "lucky_color": "Azul eléctrico",
+      "mood": "Innovador"
+    },
+    "pisces": {
+      "overview": "Flota en una nube de ensoñaciones este jueves, Piscis imaginativo, mientras el universo disuelve la frontera entre la realidad y la fantasía. Tus sensibilidades artísticas y poéticas están al máximo, haciendo de este un paraíso absoluto para pintores, escritores y soñadores. Presta mucha atención a tus vívidos sueños diurnos y a los símbolos que bailan detrás de tus párpados porque tu subconsciente intenta entregarte un mapa del tesoro. Rodéate de música suave, iluminación etérea y almas gentiles que no revienten tu hermosa burbuja rosa.",
+      "love": "El idealismo romántico te está golpeando fuerte, convirtiendo los momentos cotidianos en escenas de una película romántica independiente. Expresa tus afectos a través del arte, la música o una nota sincera escrita a mano.",
+      "career": "Tu visión creativa añade un toque de magia a un proyecto mundano, elevándolo a algo verdaderamente especial. Confía implícitamente en tus impulsos imaginativos.",
+      "wellness": "Escucha un baño de sonido o pistas de agua ambiental relajantes mientras te dejas llevar hacia una siesta reparadora.",
+      "lucky_number": 3,
+      "lucky_color": "Verde mar",
+      "mood": "Soñador"
+    }
+  }
+}
