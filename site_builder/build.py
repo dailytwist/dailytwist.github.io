@@ -413,6 +413,9 @@ def build_legal():
 
 def build_misc():
     shutil.copytree(ASSETS, OUT / "assets", dirs_exist_ok=True)
+    root_files = Path(__file__).resolve().parent / "root"  # verification files etc. served at the site root
+    if root_files.exists():
+        shutil.copytree(root_files, OUT, dirs_exist_ok=True)
     (OUT / "404.html").write_text((OUT / "index.html").read_text(encoding="utf-8").replace(
         '<section class="hero">', '<section class="hero"><p class="kicker">Page not found — but here is today\'s fun:</p>', 1), encoding="utf-8")
     (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {URL}/sitemap.xml\n", encoding="utf-8")
