@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-15",
+  "title": "Daily Knowledge Blast: October 15, 2026",
+  "questions": [
+    {
+      "category": "Geography",
+      "question": "Which country features the highest capital city in the world by elevation, La Paz?",
+      "options": [
+        "Ecuador",
+        "Peru",
+        "Bolivia",
+        "Colombia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La Paz sits at an impressive altitude of approximately 3,650 meters (11,975 feet) above sea level."
+    },
+    {
+      "category": "Science",
+      "question": "What is the primary gas found in the atmosphere of Venus?",
+      "options": [
+        "Hydrogen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Oxygen"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Carbon dioxide makes up about 96.5% of Venus's thick atmosphere, driving a runaway greenhouse effect."
+    },
+    {
+      "category": "History",
+      "question": "The historic Battle of Waterloo, which marked the final defeat of Napoleon Bonaparte, took place in the year of what?",
+      "options": [
+        "1789",
+        "1815",
+        "1830",
+        "1805"
+      ],
+      "answer_index": 1,
+      "fun_fact": "The decisive battle was fought on June 18, 1815, near Waterloo in present-day Belgium."
+    },
+    {
+      "category": "Movies & Pop Culture",
+      "question": "Which actor provided the iconic voice of Darth Vader in the original Star Wars trilogy?",
+      "options": [
+        "Sir Alec Guinness",
+        "James Earl Jones",
+        "David Prowse",
+        "Frank Oz"
+      ],
+      "answer_index": 1,
+      "fun_fact": "While David Prowse physically portrayed the villain in the suit, James Earl Jones provided the booming, unforgettable voice."
+    },
+    {
+      "category": "Food",
+      "question": "In traditional Italian cooking, what is the primary cheese used to make authentic Genovese pesto?",
+      "options": [
+        "Parmigiano-Reggiano",
+        "Gorgonzola",
+        "Mozzarella",
+        "Ricotta"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Authentic pesto genovese combines fresh basil, garlic, pine nuts, coarse salt, Parmigiano-Reggiano, Pecorino, and olive oil."
+    },
+    {
+      "category": "Animals",
+      "question": "What unique physical adaptation allows owls to see their surroundings despite their eyes being fixed in their sockets?",
+      "options": [
+        "They can rotate their heads up to 270 degrees",
+        "They have independently moving pupils",
+        "They possess a second set of transparent eyelids",
+        "They can echolocate using specialized ear tufts"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Owls have 14 neck vertebrae, allowing them to swivel their heads remarkably far to compensate for immovable eyes."
+    },
+    {
+      "category": "Sports",
+      "question": "How many total players are on the ice for a single ice hockey team during a standard regulation game (excluding the goaltender)?",
+      "options": [
+        "6",
+        "5",
+        "4",
+        "7"
+      ],
+      "answer_index": 1,
+      "fun_fact": "A standard team fields five skaters (three forwards and two defenders) plus one goaltender."
+    },
+    {
+      "category": "Language",
+      "question": "What linguistic term is used to describe a word formed from the initial letters of other words, such as 'NASA' or 'Scuba', that is pronounced as a single word?",
+      "options": [
+        "Oxymoron",
+        "Portmanteau",
+        "Acronym",
+        "Palindrome"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Unlike initialisms where each letter is pronounced individually (like FBI), acronyms are pronounced as whole words."
+    },
+    {
+      "category": "Space",
+      "question": "Which moon of Saturn is famous for possessing a thick nitrogen-rich atmosphere and liquid methane lakes on its surface?",
+      "options": [
+        "Enceladus",
+        "Titan",
+        "Iapetus",
+        "Mimas"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Titan is the only moon in our solar system known to have a dense atmosphere and stable bodies of surface liquid."
+    },
+    {
+      "category": "Geography",
+      "question": "The Gulf of Bothnia separates which two European countries?",
+      "options": [
+        "Italy and Greece",
+        "Sweden and Finland",
+        "Estonia and Latvia",
+        "Norway and Denmark"
+      ],
+      "answer_index": 1,
+      "fun_fact": "The Gulf of Bothnia is the northernmost arm of the Baltic Sea, situated between Sweden to the west and Finland to the east."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-14",
+  "title": "The Daily Spark Trivia: October 14, 2026",
+  "questions": [
+    {
+      "category": "Food",
+      "question": "What is the primary ingredient in traditional hummus?",
+      "options": [
+        "Lentils",
+        "Fava beans",
+        "Chickpeas",
+        "Black beans"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Chickpeas, also known as garbanzo beans, have been cultivated by humans for over 7,500 years."
+    },
+    {
+      "category": "Animals",
+      "question": "Which large marine mammal is known for having a long, spiral tusk that is actually an elongated canine tooth?",
+      "options": [
+        "Manatee",
+        "Walrus",
+        "Blue whale",
+        "Narwhal"
+      ],
+      "answer_index": 3,
+      "fun_fact": "The narwhal's iconic tusk can grow up to 10 feet long and is packed with millions of nerve endings."
+    },
+    {
+      "category": "Language",
+      "question": "What term is used to describe words like 'buzz', 'hiss', and 'murmur' that phonetically imitate the sound they describe?",
+      "options": [
+        "Metaphor",
+        "Onomatopoeia",
+        "Oxymoron",
+        "Alliteration"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Onomatopoeic words often vary wildly between different human languages to reflect distinct cultural perceptions of the same sounds."
+    },
+    {
+      "category": "Geography",
+      "question": "Which country boasts the longest coastline in the world?",
+      "options": [
+        "Russia",
+        "Australia",
+        "United States",
+        "Canada"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Canada's coastline stretches for over 202,000 kilometers (125,000 miles) when factoring in its countless islands and inlets."
+    },
+    {
+      "category": "Science",
+      "question": "What is the atomic number of the element carbon on the periodic table?",
+      "options": [
+        "12",
+        "8",
+        "6",
+        "14"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Carbon's atomic number of 6 means every carbon atom possesses 6 protons in its nucleus."
+    },
+    {
+      "category": "Movies & Pop Culture",
+      "question": "Which 1999 sci-fi action film popularized the 'bullet time' visual effect featuring frozen, slow-motion camera movement around moving actors?",
+      "options": [
+        "Total Recall",
+        "The Terminator",
+        "The Matrix",
+        "Blade Runner"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Directors Lana and Lilly Wachowski utilized an array of still cameras fired in rapid succession to create the iconic bullet time sequences."
+    },
+    {
+      "category": "Sports",
+      "question": "In international soccer (Association Football), how many players are on the field for a single team at the start of a match?",
+      "options": [
+        "11",
+        "12",
+        "10",
+        "9"
+      ],
+      "answer_index": 0,
+      "fun_fact": "A regulation soccer team consists of 11 players per side, including one designated goalkeeper."
+    },
+    {
+      "category": "History",
+      "question": "The historic Magna Carta was sealed in 1215 by King John at which location near Windsor?",
+      "options": [
+        "Canterbury",
+        "Tower of London",
+        "Hastings",
+        "Runnymede"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Runnymede was chosen as the meeting site because it was a neutral, open meadow situated conveniently between the royal camp and the rebel barons."
+    },
+    {
+      "category": "Space",
+      "question": "Which space telescope, launched in December 2021, is positioned at the Sun-Earth L2 Lagrangian point to observe the universe primarily in infrared light?",
+      "options": [
+        "Hubble Space Telescope",
+        "James Webb Space Telescope",
+        "Kepler Space Telescope",
+        "Spitzer Space Telescope"
+      ],
+      "answer_index": 1,
+      "fun_fact": "The James Webb Space Telescope features a massive gold-coated beryllium mirror spanning 6.5 meters in diameter."
+    },
+    {
+      "category": "History",
+      "question": "Which Renaissance polymath designed an early conceptual version of an armored vehicle resembling a conical wooden fort on wheels during the late 15th century?",
+      "options": [
+        "Leonardo da Vinci",
+        "Galileo Galilei",
+        "Johannes Gutenberg",
+        "Niccolò Machiavelli"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Leonardo da Vinci's armored tank design included a clever internal gear flaw that historians suspect was deliberately added so it could never be weaponized."
+    }
+  ]
+}

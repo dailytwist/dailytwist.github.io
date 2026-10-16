@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-12",
+  "title": "The October 12, 2026 Daily Trivia Challenge",
+  "questions": [
+    {
+      "category": "Geography",
+      "question": "Which South American country shares land borders with every other nation on the continent except for Chile and Ecuador?",
+      "options": [
+        "Brazil",
+        "Colombia",
+        "Peru",
+        "Argentina"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Brazil is the fifth-largest country in the world by both land area and population."
+    },
+    {
+      "category": "Animals",
+      "question": "What is the primary diet of a giant panda, accounting for up to 99% of its daily food intake?",
+      "options": [
+        "Insects",
+        "Small rodents",
+        "Bamboo",
+        "Eucalyptus leaves"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Giant pandas spend up to 12 hours a day eating bamboo to get enough nutrients."
+    },
+    {
+      "category": "Food",
+      "question": "Which spice, known as the most expensive in the world by weight, is derived from the flower of Crocus sativus?",
+      "options": [
+        "Cinnamon",
+        "Vanilla",
+        "Cardamom",
+        "Saffron"
+      ],
+      "answer_index": 3,
+      "fun_fact": "It takes roughly 75,000 saffron blossoms to produce just a single pound of the spice."
+    },
+    {
+      "category": "Science",
+      "question": "Which subatomic particle carries a negative electrical charge?",
+      "options": [
+        "Proton",
+        "Positron",
+        "Electron",
+        "Neutron"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Electrons orbit the nucleus of an atom in shells or energy levels."
+    },
+    {
+      "category": "Movies & Pop Culture",
+      "question": "Who directed the critically acclaimed 1994 crime film 'Pulp Fiction'?",
+      "options": [
+        "Steven Spielberg",
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "David Fincher"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Pulp Fiction revitalized John Travolta's career and won the prestigious Palme d'Or at the Cannes Film Festival."
+    },
+    {
+      "category": "Sports",
+      "question": "In the sport of track and field, how many hurdles must an athlete clear during a standard 400-meter hurdles race?",
+      "options": [
+        "5",
+        "10",
+        "8",
+        "12"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Both men and women race the 400-meter hurdles over exactly 10 barriers."
+    },
+    {
+      "category": "History",
+      "question": "The Rosetta Stone, discovered in 1799, was crucial in deciphering which ancient writing system?",
+      "options": [
+        "Linear B",
+        "Egyptian hieroglyphs",
+        "Maya script",
+        "Cuneiform"
+      ],
+      "answer_index": 1,
+      "fun_fact": "The stone features the same decree written in three different scripts: ancient Greek, demotic, and hieroglyphs."
+    },
+    {
+      "category": "Space",
+      "question": "What is the name of the boundary surrounding a black hole beyond which nothing, not even light, can escape?",
+      "options": [
+        "Accretion disk",
+        "Singularity",
+        "Event horizon",
+        "Photon sphere"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Once an object crosses the event horizon, its escape velocity exceeds the speed of light."
+    },
+    {
+      "category": "Language",
+      "question": "What linguistic term describes a word that is spelled the same way forwards and backwards, such as 'racecar'?",
+      "options": [
+        "Oxymoron",
+        "Anagram",
+        "Palindrom",
+        "Portmanteau"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Longer palindromic words and phrases, like 'A man, a plan, a canal: Panama!', have fascinated writers for centuries."
+    },
+    {
+      "category": "Science",
+      "question": "What is the hardest known naturally occurring mineral on the Mohs scale?",
+      "options": [
+        "Corundum",
+        "Topaz",
+        "Diamond",
+        "Quartz"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A diamond is given the maximum rating of 10 on the Mohs hardness scale."
+    }
+  ]
+}
