@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-17",
+  "title": "Tägliches Quiz-Gewinnspiel vom 17. Oktober 2026",
+  "questions": [
+    {
+      "category": "Erdkunde",
+      "question": "Welcher Binnenstaat ist vollständig von italienischem Staatsgebiet umschlossen?",
+      "options": [
+        "San Marino",
+        "Liechtenstein",
+        "Andorra",
+        "Luxemburg"
+      ],
+      "answer_index": 0,
+      "fun_fact": "San Marino gehört zu den kleinsten Staaten der Welt und beansprucht für sich, die älteste noch existierende Republik der Welt zu sein."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist das härteste von Natur aus vorkommende Mineral auf der Mohs-Skala der Härte?",
+      "options": [
+        "Topas",
+        "Quarz",
+        "Korund",
+        "Diamant"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Diamant bildet mit dem Höchstwert 10 das Ende der Mohs-Skala, was bedeutet, dass er nur von einem anderen Diamanten zerkratzt werden kann."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Die antike Stadt Persepolis war die zeremonielle Hauptstadt welches historischen Reiches?",
+      "options": [
+        "Römisches Reich",
+        "Osmanisches Reich",
+        "Byzantinisches Reich",
+        "Achämeniden-Reich"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Persepolis wurde schließlich 330 v. Chr. von Alexander dem Großen erobert und weitgehend niedergebrannt."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "In welchem Science-Fiction-Film aus dem Jahr 1982 unter der Regie von Ridley Scott jagt ein Detektiv abtrünnige, genmanipulierte Androiden, sogenannte Replikanten?",
+      "options": [
+        "Alien",
+        "Blade Runner",
+        "Total Recall",
+        "The Terminator"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Blade Runner basiert lose auf Philip K. Dicks Roman „Träumen Androiden von elektrischen Schafen?“ aus dem Jahr 1968."
+    },
+    {
+      "category": "Essen & Trinken",
+      "question": "Welche Spirituose ist die Hauptzutat für einen klassischen, traditionellen Mojito-Cocktail?",
+      "options": [
+        "Wodka",
+        "Rum",
+        "Gin",
+        "Tequila"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Ein traditioneller Mojito kombiniert weißen Rum, Rohrzucker, Limettensaft, Mineralwasser mit Kohlensäure und frische Minze."
+    },
+    {
+      "category": "Tiere",
+      "question": "Woraus besteht die Hauptnahrung eines Großen Pandas in freier Wildbahn?",
+      "options": [
+        "Bambus",
+        "Eukalyptusblätter",
+        "Fisch",
+        "Insekten"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Große Pandas verbringen täglich bis zu 12 Stunden damit, Bambus zu fressen, um ihren Nährstoffbedarf zu decken."
+    },
+    {
+      "category": "Sport",
+      "question": "Welcher Begriff wird im Tennissport verwendet, um einen Spielstand von null anzuzeigen?",
+      "options": [
+        "Nil",
+        "Zero",
+        "Duck",
+        "Love"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Der Begriff „Love“ im Tennis geht vermutlich auf das französische Wort „l'oeuf“ (Ei) zurück, da eine Null die Form eines Eies hat."
+    },
+    {
+      "category": "Sprache",
+      "question": "Welcher sprachwissenschaftliche Begriff wird für Wörter wie „Rentner“, „Lageregal“ oder „Otto“ verwendet, die vorwärts und rückwärts gleich gelesen werden?",
+      "options": [
+        "Homonym",
+        "Synonym",
+        "Akronym",
+        "Palindrom"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Als das längste einwortige Palindrom in standardisierten englischen Wörterbüchern gilt oft „rotator“."
+    },
+    {
+      "category": "Weltall",
+      "question": "Welcher Planet in unserem Sonnensystem rotiert auf der Seite und weist eine Achsenneigung von etwa 98 Grad auf?",
+      "options": [
+        "Saturn",
+        "Mars",
+        "Neptun",
+        "Uranus"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Wegen seiner extremen Neigung erlebt jeder Pol des Uranus 42 Erdenjahre lang kontinuierliches Sonnenlicht, gefolgt von 42 Jahren Dunkelheit."
+    },
+    {
+      "category": "Erdkunde",
+      "question": "Welcher afrikanische See ist der größte tropische See der Welt und das wichtigste Hauptreservoir des Weißen Nils?",
+      "options": [
+        "Malawisee",
+        "Tanganjikasee",
+        "Victoriasee",
+        "Tschadsee"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Der Victoriasee ist nach Königin Victoria des Vereinigten Königreichs benannt und grenzt an drei verschiedene Länder."
+    }
+  ]
+}

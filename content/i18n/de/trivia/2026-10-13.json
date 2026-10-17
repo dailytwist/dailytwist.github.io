@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-13",
+  "title": "Das tägliche Gehirntraining: 13. Oktober 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches europäische Land hat eine Flagge mit einem weißen Kreuz auf rotem Grund, die als einzige quadratisch geformt ist?",
+      "options": [
+        "Dänemark",
+        "Vatikanstadt",
+        "Österreich",
+        "Schweiz"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Neben der Vatikanstadt ist die Schweiz eines von nur zwei souveränen Ländern weltweit mit einer quadratischen Nationalflagge."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Wie lautet die gängige Bezeichnung für die chemische Verbindung Natriumchlorid?",
+      "options": [
+        "Natron",
+        "Speisesalz",
+        "Essig",
+        "Bittersalz"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Natriumchlorid ist lebensnotwendig für Tiere, aber übermäßiger Konsum kann für viele Arten schädlich sein."
+    },
+    {
+      "category": "Geschichte",
+      "question": "In welchem Monat des Jahres 1912 sank die Titanic im Nordatlantik?",
+      "options": [
+        "April",
+        "Mai",
+        "Juni",
+        "März"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Die RMS Titanic kollidierte in der Nacht des 14. April mit einem Eisberg und sank in den frühen Morgenstunden des 15. April 1912."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Welcher Animations-Fantasyfilm des Studio Ghibli aus dem Jahr 2001 handelt von einem jungen Mädchen namens Chihiro, das in eine magische Geisterwelt gerät?",
+      "options": [
+        "Das wandelnde Schloss",
+        "Prinzessin Mononoke",
+        "Chihiros Reise ins Zauberland",
+        "Mein Nachbar Totoro"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Chihiros Reise ins Zauberland gewann bei der 75. Oscar-Verleihung den Oscar für den besten animierten Spielfilm."
+    },
+    {
+      "category": "Essen & Trinken",
+      "question": "Was ist die alkoholische Hauptgrundlage für einen traditionellen Dark 'n' Stormy Cocktail?",
+      "options": [
+        "Dunkler Rum",
+        "Wodka",
+        "Tequila",
+        "Gin"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Ein echter Dark 'n' Stormy erfordert ausdrücklich Gosling's Black Seal Rum und Ginger Beer, um markenrechtlich geschützt zu sein."
+    },
+    {
+      "category": "Tiere",
+      "question": "Welches einzigartige körperliche Merkmal besitzen alle erwachsenen Baumkänguru-Arten, das sie von den meisten anderen Beuteltieren unterscheidet?",
+      "options": [
+        "Schwimmhäute zum Schwimmen",
+        "Die Fähigkeit, kurze Strecken zu fliegen",
+        "Im Dunkeln leuchtendes Fell",
+        "Greifschwänze zum Festhalten an Ästen"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Im Gegensatz zu bodenlebenden Kängurus haben Baumkängurus lange, nicht greifbare Schwänze, die hauptsächlich der Balance dienen, sowie spezielle gebogene Krallen zum Klettern."
+    },
+    {
+      "category": "Sport",
+      "question": "Welcher Begriff wird im Golfsport verwendet, um ein Ergebnis von einem Schlag unter Par auf einem bestimmten Loch zu beschreiben?",
+      "options": [
+        "Albatros",
+        "Eagle",
+        "Birdie",
+        "Bogey"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Der Begriff „Birdie“ entstand in den USA im späten 19. Jahrhundert aus einem Slang-Ausdruck für „ausgezeichnet“ oder „Vogel“."
+    },
+    {
+      "category": "Sprache",
+      "question": "Welcher linguistische Begriff wird für ein Wort verwendet, das genauso ausgesprochen wird wie ein anderes Wort, aber eine andere Bedeutung und oft eine andere Schreibweise hat, wie zum Beispiel „Saite“ und „Seite“?",
+      "options": [
+        "Synonym",
+        "Homograph",
+        "Homophon",
+        "Akronym"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Homophone können beim Schreiben zu Verwirrung führen, da ihre Schreibweise nicht immer mit ihren übereinstimmenden Lauten übereinstimmt."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Jupitermond ist der vulkanisch aktivste Himmelskörper in unserem gesamten Sonnensystem?",
+      "options": [
+        "Ganymed",
+        "Kallisto",
+        "Io",
+        "Europa"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Ios extreme vulkanische Aktivität wird durch Gezeitenkräfte angetrieben, die aus dem gravitativen Tauziehen mit Jupiter und benachbarten großen Monden resultieren."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Wie heißt der Prozess, bei dem ein fester Stoff direkt in ein Gas übergeht, ohne den flüssigen Zustand zu durchlaufen?",
+      "options": [
+        "Verdunstung",
+        "Kondensation",
+        "Sublimation",
+        "Resublimation"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Trockeneis, das aus festem Kohlenstoffdioxid besteht, ist ein alltägliches Beispiel für eine Substanz, die bei Raumtemperatur sublimiert."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-17",
+  "title": "October 17, 2026 Daily Trivia Challenge",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Which landlocked country is completely surrounded by territory belonging to Italy?",
+      "options": [
+        "San Marino",
+        "Liechtenstein",
+        "Andorra",
+        "Luxembourg"
+      ],
+      "answer_index": 0,
+      "fun_fact": "San Marino is one of the world's smallest nations and claims to be the oldest surviving sovereign republic in the world."
+    },
+    {
+      "category": "science",
+      "question": "What is the hardest naturally occurring mineral on the Mohs scale of mineral hardness?",
+      "options": [
+        "Topaz",
+        "Quartz",
+        "Corundum",
+        "Diamond"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Diamond sits at the maximum rating of 10 on the Mohs scale, meaning it can only be scratched by another diamond."
+    },
+    {
+      "category": "history",
+      "question": "The ancient city of Persepolis was the ceremonial capital of which historical empire?",
+      "options": [
+        "Roman Empire",
+        "Ottoman Empire",
+        "Byzantine Empire",
+        "Achaemenid Persian Empire"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Persepolis was eventually conquered and largely burned by Alexander the Great in 330 BCE."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Which 1982 science fiction film directed by Ridley Scott features a detective hunting rogue bioengineered androids known as replicants?",
+      "options": [
+        "Alien",
+        "Blade Runner",
+        "Total Recall",
+        "The Terminator"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Blade Runner is loosely based on Philip K. Dick's 1968 novel 'Do Androids Dream of Electric Sheep?'."
+    },
+    {
+      "category": "food",
+      "question": "What is the primary spirit used to make a classic traditional Mojito cocktail?",
+      "options": [
+        "Vodka",
+        "Rum",
+        "Gin",
+        "Tequila"
+      ],
+      "answer_index": 1,
+      "fun_fact": "A traditional mojito combines white rum, raw sugar, lime juice, sparkling water, and fresh mint."
+    },
+    {
+      "category": "animals",
+      "question": "What is the primary diet of a giant panda in the wild?",
+      "options": [
+        "Bamboo",
+        "Eucalyptus leaves",
+        "Fish",
+        "Insects"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Giant pandas spend up to 12 hours a day eating bamboo to meet their daily nutritional needs."
+    },
+    {
+      "category": "sports",
+      "question": "In the sport of tennis, what term is used to denote a score of zero?",
+      "options": [
+        "Nil",
+        "Zero",
+        "Duck",
+        "Love"
+      ],
+      "answer_index": 3,
+      "fun_fact": "The term 'love' in tennis is widely believed to originate from the French word 'l'oeuf', meaning 'egg', symbolizing a zero shaped like an egg."
+    },
+    {
+      "category": "language",
+      "question": "What linguistic term is used for words like 'pop', 'peep', and 'tot' that read the same forwards and backwards?",
+      "options": [
+        "Homonym",
+        "Synonym",
+        "Acronym",
+        "Palindrome"
+      ],
+      "answer_index": 3,
+      "fun_fact": "The longest single-word palindrome in standard English dictionaries is often considered to be 'rotator'."
+    },
+    {
+      "category": "space",
+      "question": "Which planet in our solar system rotates on its side, possessing an axial tilt of about 98 degrees?",
+      "options": [
+        "Saturn",
+        "Mars",
+        "Neptune",
+        "Uranus"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Because of its extreme tilt, each pole of Uranus experiences continuous sunlight for 42 Earth years followed by 42 years of darkness."
+    },
+    {
+      "category": "geography",
+      "question": "Which African lake is the largest tropical lake in the world and the primary reservoir of the White Nile river?",
+      "options": [
+        "Lake Malawi",
+        "Lake Tanganyika",
+        "Lake Victoria",
+        "Lake Chad"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Lake Victoria is named after Queen Victoria of the United Kingdom and borders three different countries."
+    }
+  ]
+}

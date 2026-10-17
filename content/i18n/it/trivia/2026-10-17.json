@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-17",
+  "title": "Sfida Trivia del Giorno: 17 Ottobre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Quale stato senza sbocco al mare è completamente circondato da territorio italiano?",
+      "options": [
+        "San Marino",
+        "Liechtenstein",
+        "Andorra",
+        "Lussemburgo"
+      ],
+      "answer_index": 0,
+      "fun_fact": "San Marino è una delle nazioni più piccole del mondo e vanta il titolo di repubblica sovrana più antica del pianeta."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è il minerale naturale più duro secondo la scala di durezza di Mohs?",
+      "options": [
+        "Topazio",
+        "Quarzo",
+        "Corindone",
+        "Diamante"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Il diamante si trova al livello massimo di 10 sulla scala di Mohs, il che significa che può essere scalfito solo da un altro diamante."
+    },
+    {
+      "category": "storia",
+      "question": "L'antica città di Persepoli era la capitale cerimoniale di quale impero storico?",
+      "options": [
+        "Impero Romano",
+        "Impero Ottomano",
+        "Impero Bizantino",
+        "Impero Persiano Achemenide"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Persepoli fu infine conquistata e in gran parte data alle fiamme da Alessandro Magno nel 330 a.C."
+    },
+    {
+      "category": "cinema e pop culture",
+      "question": "Quale film di fantascienza del 1982 diretto da Ridley Scott vede protagonista un detective a caccia di androidi ribelli bioingegnerizzati noti come replicanti?",
+      "options": [
+        "Alien",
+        "Blade Runner",
+        "Atto di forza",
+        "Terminator"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Blade Runner è liberamente ispirato al romanzo di Philip K. Dick del 1968 'Il cacciatore di androidi'."
+    },
+    {
+      "category": "cucina",
+      "question": "Qual è il distillato principale utilizzato per preparare un classico e tradizionale cocktail Mojito?",
+      "options": [
+        "Vodka",
+        "Rum",
+        "Gin",
+        "Tequila"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Un mojito tradizionale unisce rum bianco, zucchero di canna grezzo, succo di lime, acqua frizzante e menta fresca."
+    },
+    {
+      "category": "animali",
+      "question": "Qual è l'alimento principale di un panda gigante nel suo habitat naturale?",
+      "options": [
+        "Bambù",
+        "Foglie di eucalipto",
+        "Pesce",
+        "Insetti"
+      ],
+      "answer_index": 0,
+      "fun_fact": "I panda giganti passano fino a 12 ore al giorno a mangiare bambù per soddisfare il loro fabbisogno nutrizionale."
+    },
+    {
+      "category": "sport",
+      "question": "Nel tennis, quale termine viene usato per indicare un punteggio pari a zero?",
+      "options": [
+        "Nil",
+        "Zero",
+        "Duck",
+        "Love"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Si ritiene comunemente che il termine 'love' nel tennis derivi dalla parola francese 'l'oeuf', che significa 'uovo', a simboleggiare uno zero a forma di uovo."
+    },
+    {
+      "category": "lingua",
+      "question": "Quale termine linguistico si usa per parole come 'radar' o 'Otto' che si leggono uguali da sinistra a destra e viceversa?",
+      "options": [
+        "Omonimo",
+        "Sinonimo",
+        "Acronimo",
+        "Palindromo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Il palindromo a parola singola più lungo nei dizionari di inglese standard è comunemente considerato 'rotator'."
+    },
+    {
+      "category": "spazio",
+      "question": "Quale pianeta del nostro sistema solare ruota su un fianco, presentando un'inclinazione assiale di circa 98 gradi?",
+      "options": [
+        "Saturno",
+        "Marte",
+        "Nettuno",
+        "Urano"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A causa della sua estrema inclinazione, ciascuno dei poli di Urano sperimenta luce solare continua per 42 anni terrestri, seguiti da altri 42 anni di buio."
+    },
+    {
+      "category": "geografia",
+      "question": "Quale lago africano è il più grande lago tropicale del mondo e il principale serbatoio del Nilo Bianco?",
+      "options": [
+        "Lago Malawi",
+        "Lago Tanganica",
+        "Lago Vittoria",
+        "Lago Ciad"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il Lago Vittoria prende il nome dalla Regina Vittoria del Regno Unito e bagna tre diversi paesi."
+    }
+  ]
+}

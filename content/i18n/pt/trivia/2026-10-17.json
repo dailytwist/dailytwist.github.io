@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-17",
+  "title": "Desafio de Trivia Diário de 17 de outubro de 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Qual país sem saída para o mar é completamente cercado por território pertencente à Itália?",
+      "options": [
+        "San Marino",
+        "Liechtenstein",
+        "Andorra",
+        "Luxemburgo"
+      ],
+      "answer_index": 0,
+      "fun_fact": "San Marino é uma das menores nações do mundo e afirma ser a república soberana mais antiga ainda em existência."
+    },
+    {
+      "category": "ciência",
+      "question": "Qual é o mineral natural mais duro na escala de dureza de Mohs?",
+      "options": [
+        "Topázio",
+        "Quartzo",
+        "Coríndon",
+        "Diamante"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O diamante ocupa a classificação máxima de 10 na escala de Mohs, o que significa que ele só pode ser riscado por outro diamante."
+    },
+    {
+      "category": "história",
+      "question": "A antiga cidade de Persépolis foi a capital cerimonial de qual império histórico?",
+      "options": [
+        "Império Romano",
+        "Império Otomano",
+        "Império Bizantino",
+        "Império Persa Aquemênida"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Persépolis acabou sendo conquistada e quase totalmente incendiada por Alexandre o Grande em 330 AEC."
+    },
+    {
+      "category": "filmes e cultura pop",
+      "question": "Qual filme de ficção científica de 1982 dirigido oleh Ridley Scott apresenta um detetive caçando androides bioengenharizados rebeldes conhecidos como replicantes?",
+      "options": [
+        "Alien",
+        "Blade Runner",
+        "O Vingador do Futuro",
+        "O Exterminador do Futuro"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Blade Runner é vagamente baseado no romance de Philip K. Dick de 1968 'Androides Sonham com Ovelhas Elétricas?'."
+    },
+    {
+      "category": "culinária",
+      "question": "Qual é a bebida destilada principal usada para fazer um coquetel Mojito tradicional clássico?",
+      "options": [
+        "Vodka",
+        "Rum",
+        "Gin",
+        "Tequila"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Um mojito tradicional combina rum branco, açúcar mascavo ou refinado, suco de limão, água com gás e hortelã fresca."
+    },
+    {
+      "category": "animais",
+      "question": "Qual é a principal dieta de um panda-gigante na natureza?",
+      "options": [
+        "Bambu",
+        "Folhas de eucalipto",
+        "Peixe",
+        "Insetos"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Os pandas-gigantes passam até 12 horas por dia comendo bambu para suprir suas necessidades nutricionais diárias."
+    },
+    {
+      "category": "esportes",
+      "question": "No tênis, qual termo é usado para indicar uma pontuação de zero?",
+      "options": [
+        "Nil",
+        "Zero",
+        "Duck",
+        "Love"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Acredita-se amplamente que o termo 'love' no tênis se origine da palavra francesa 'l'oeuf', que significa 'ovo', simbolizando um zero em formato de ovo."
+    },
+    {
+      "category": "idioma",
+      "question": "Qual termo linguístico é usado para palavras como 'arara', 'osso' e 'radar' que se leem da mesma forma de trás para frente?",
+      "options": [
+        "Homônimo",
+        "Sinônimo",
+        "Acrônimo",
+        "Palíndromo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O palíndromo de uma única palavra mais longo em dicionários de inglês padrão é frequentemente considerado como 'rotator'."
+    },
+    {
+      "category": "espaço",
+      "question": "Qual planeta do nosso sistema solar gira de lado, possuindo uma inclinação axial de cerca de 98 graus?",
+      "options": [
+        "Saturno",
+        "Marte",
+        "Netuno",
+        "Urano"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Devido à sua inclinação extrema, cada polo de Urano experimenta luz solar contínua por 42 anos terrestres, seguidos por 42 anos de escuridão."
+    },
+    {
+      "category": "geografia",
+      "question": "Qual lago africano é o maior lago tropical do mundo e o principal reservatório do rio Nilo Branco?",
+      "options": [
+        "Lago Maláui",
+        "Lago Tanganica",
+        "Lago Vitória",
+        "Lago Chade"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O Lago Vitória recebeu esse nome em homenagem à Rainha Vitória do Reino Unido e faz fronteira com três países diferentes."
+    }
+  ]
+}

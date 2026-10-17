@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-12",
+  "title": "La sfida giornaliera di cultura generale del 12 ottobre 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Quale paese sudamericano confina via terra con tutte le altre nazioni del continente, ad eccezione di Cile ed Ecuador?",
+      "options": [
+        "Brasile",
+        "Colombia",
+        "Perù",
+        "Argentina"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il Brasile è il quinto paese al mondo per estensione territoriale e popolazione."
+    },
+    {
+      "category": "Animali",
+      "question": "Qual è la dieta principale del panda gigante, che costituisce fino al 99% della sua assunzione giornaliera di cibo?",
+      "options": [
+        "Insetti",
+        "Piccoli roditori",
+        "Bambù",
+        "Foglie di eucalipto"
+      ],
+      "answer_index": 2,
+      "fun_fact": "I panda giganti trascorrono fino a 12 ore al giorno a mangiare bambù per assumere abbastanza nutrienti."
+    },
+    {
+      "category": "Cibo",
+      "question": "Quale spezia, nota come la più costosa al mondo in base al peso, si ricava dal fiore del Crocus sativus?",
+      "options": [
+        "Cannella",
+        "Vaniglia",
+        "Cardamomo",
+        "Zafferano"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Ci vogliono circa 75.000 fiori di zafferano per produrre appena una libbra di spezia."
+    },
+    {
+      "category": "Scienza",
+      "question": "Quale particella subatomica trasporta una carica elettrica negativa?",
+      "options": [
+        "Protone",
+        "Positrone",
+        "Elettrone",
+        "Neutrone"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Gli elettroni orbitano attorno al nucleo di un atomo in gusci o livelli energetici."
+    },
+    {
+      "category": "Cinema e cultura pop",
+      "question": "Chi ha diretto l'acclamato film crime del 1994 'Pulp Fiction'?",
+      "options": [
+        "Steven Spielberg",
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "David Fincher"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Pulp Fiction ha rivitalizzato la carriera di John Travolta e ha vinto la prestigiosa Palma d'Oro al Festival di Cannes."
+    },
+    {
+      "category": "Sport",
+      "question": "Nell'atletica leggera, quanti ostacoli deve superare un atleta durante una gara standard dei 400 metri ostacoli?",
+      "options": [
+        "5",
+        "10",
+        "8",
+        "12"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Sia gli uomini che le donne corrono i 400 metri ostacoli affrontando esattamente 10 barriere."
+    },
+    {
+      "category": "Storia",
+      "question": "La Stele di Rosetta, scoperta nel 1799, è stata fondamentale per decifrare quale antico sistema di scrittura?",
+      "options": [
+        "Lineare B",
+        "Geroglifici egizi",
+        "Scrittura maya",
+        "Cuneiforme"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La stele riporta lo stesso decreto scritto in tre diversi sistemi di scrittura: greco antico, demotico e geroglifici."
+    },
+    {
+      "category": "Spazio",
+      "question": "Come si chiama il confine che circonda un buco nero oltre il quale nulla, nemmeno la luce, può sfuggire?",
+      "options": [
+        "Disco di accrescimento",
+        "Singolarità",
+        "Orizzonte degli eventi",
+        "Sfera fotonica"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Una volta che un oggetto supera l'orizzonte degli eventi, la sua velocità di fuga supera quella della luce."
+    },
+    {
+      "category": "Linguistica",
+      "question": "Quale termine linguistico descrive una parola che si scrive allo stesso modo sia da sinistra a destra che da destra a sinistra, come 'radar'?",
+      "options": [
+        "Ossimoro",
+        "Anagramma",
+        "Palindromo",
+        "Parola macedonia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Parole e frasi palindrome più lunghe, come 'Ai lati d'Italia', affascinano gli scrittori da secoli."
+    },
+    {
+      "category": "Scienza",
+      "question": "Qual è il minerale naturale più duro conosciuto sulla scala di Mohs?",
+      "options": [
+        "Corindone",
+        "Topazio",
+        "Diamante",
+        "Quarzo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Al diamante viene assegnata la valutazione massima di 10 sulla scala di durezza di Mohs."
+    }
+  ]
+}
