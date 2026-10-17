@@ -265,12 +265,12 @@ def render(lang, path, pg):
   <div class="wrap nav">
     <a class="brand" href="{pre}/"><span class="logo">✦</span>{e(SITE)}</a>
     <nav>
-      <a href="{pre}/horoscope/">{e(T(lang, 'nav_horoscopes'))}</a>
-      <a href="{pre}/trivia/">{e(T(lang, 'nav_trivia'))}</a>
-      <a href="{pre}/games/">{e(T(lang, 'nav_games'))}</a>
-      <a href="/puzzle/">{e(T(lang, 'nav_puzzle'))}</a>
-      <a href="{pre}/articles/">{e(T(lang, 'nav_articles'))}</a>
-      <a href="{pre}/countdown/">{e(T(lang, 'nav_countdowns'))}</a>
+      <a href="{pre}/horoscope/">🔮 {e(T(lang, 'nav_horoscopes'))}</a>
+      <a href="{pre}/games/">🎮 {e(T(lang, 'nav_games'))}</a>
+      <a href="{pre}/trivia/">🧠 {e(T(lang, 'nav_trivia'))}</a>
+      <a href="/puzzle/">🧩 {e(T(lang, 'nav_puzzle'))}</a>
+      <a href="{pre}/articles/">📖 {e(T(lang, 'nav_articles'))}</a>
+      <a href="{pre}/countdown/">⏳ {e(T(lang, 'nav_countdowns'))}</a>
     </nav>
     <button id="install" class="install" hidden>📲 {e(T(lang, 'install_app'))}</button>
     <details class="langs"><summary aria-label="{e(T(lang, 'language_label'))}">🌐 {e(NATIVE.get(lang, lang))}</summary>
@@ -427,16 +427,49 @@ def build_lang(lang):
     h, t = (H[-1] if H else None), (TR[-1] if TR else None)
     upcoming = sorted(HOLIDAYS, key=lambda s: next_date(HOLIDAYS[s]))[:4]
     latest = "".join(article_card(lang, a) for a in AR[:9]) or f"<p class='muted'>{e(T(lang, 'new_daily'))}</p>"
+    n_games = len(GAMES)
+    tiles = [
+        (f"{pre}/horoscope/", "🔮", "nav_horoscopes", "tile_horoscope", "#7c5cff", "#c084fc"),
+        (f"{pre}/games/", "🎮", "nav_games", "tile_games", "#ff5e7e", "#ff8a3d"),
+        (f"{pre}/trivia/", "🧠", "nav_trivia", "tile_trivia", "#3a6ff7", "#22c1c3"),
+        ("/puzzle/", "🧩", "nav_puzzle", "tile_puzzle", "#2fa36b", "#a3e635"),
+        (f"{pre}/articles/", "📖", "nav_articles", "tile_articles", "#f59e0b", "#f97316"),
+        (f"{pre}/countdown/", "⏳", "nav_countdowns", "tile_countdown", "#0ea5e9", "#6366f1"),
+    ]
+    tiles_html = "".join(
+        f'<a class="xtile" href="{u}" style="--c1:{c1};--c2:{c2}"><span class="xtile-ic">{ic}</span>'
+        f'<span class="xtile-tx"><b>{e(T(lang, k))}</b><small>{e(T(lang, d))}</small></span></a>'
+        for u, ic, k, d, c1, c2 in tiles)
+    strip = "".join(
+        f'<a class="sg" href="{pre}/horoscope/{s}/" data-sign="{s}">{sign_art(s, 50)}<b>{e(sign_name(lang, s))}</b></a>'
+        for s in SIGNS)
     body = f"""
-<section class="hero-top">
-  <div class="hero-head">
-    <div><p class="kicker">{e(fdate(lang, TODAY))}</p>
-    <h1>{e(T(lang, 'hero_title'))}</h1></div>
+<section class="hero2">
+  <div class="hero2-in">
+    <p class="kicker">{e(fdate(lang, TODAY))}</p>
+    <h1>{e(T(lang, 'hero_short'))}</h1>
+    <p class="hero2-sub">{e(T(lang, 'tagline'))}.</p>
+    <div class="hero2-cta">
+      <a class="btn light" href="{pre}/games/">🎮 {e(T(lang, 'cta_play'))}</a>
+      <a class="btn glass" href="{pre}/horoscope/" data-mysign>🔮 {e(T(lang, 'cta_horoscope'))}</a>
+    </div>
+    <ul class="hero2-badges"><li>🎮 {e(T(lang, 'badge_games', n=n_games))}</li><li>♈ {e(T(lang, 'badge_signs'))}</li><li>✨ {e(T(lang, 'badge_daily'))}</li></ul>
   </div>
-  <div class="sec-head"><h2>🔮 {e(T(lang, 'daily_horoscope'))}</h2>{f'<span class="muted">{e(T(lang, "updated_on", date=fdate(lang, h["date"])))}</span>' if h else ''}</div>
-  <div class="signs">{sign_grid(lang)}</div>
+  {HERO_ART}
 </section>
-{facts(lang)}
+<section class="explore">
+  <h2 class="sr">{e(T(lang, 'explore'))}</h2>
+  <div class="xtiles">{tiles_html}</div>
+</section>
+<section>
+  <div class="sec-head"><h2>🔮 {e(T(lang, 'daily_horoscope'))}</h2><a href="{pre}/horoscope/">{e(T(lang, 'see_all'))} →</a></div>
+  <p class="muted small hint">{e(T(lang, 'pick_sign'))}</p>
+  <div class="sgstrip" data-your="{e(T(lang, 'your_sign'))}">{strip}</div>
+</section>
+<section>
+  <div class="sec-head"><h2>🎮 {e(T(lang, 'games_title'))}</h2><a href="{pre}/games/">{e(T(lang, 'see_all'))} →</a></div>
+  {games_grid(lang)}
+</section>
 <section class="split">
   <div class="panel quiz-panel">
     <span class="panel-emoji">🧠</span>
@@ -449,14 +482,16 @@ def build_lang(lang):
     <div class="cds">{''.join(cd_card(lang, s) for s in upcoming)}</div>
   </div>
 </section>
-<section>
-  <div class="sec-head"><h2>🎮 {e(T(lang, 'games_title'))}</h2><a href="{pre}/games/">{e(T(lang, 'see_all'))} →</a></div>
-  {games_grid(lang)}
-</section>
+{facts(lang)}
 <section>
   <div class="sec-head"><h2>📖 {e(T(lang, 'latest_explainers'))}</h2><a href="{pre}/articles/">{e(T(lang, 'see_all'))} →</a></div>
   <div class="grid">{latest}</div>
-</section>"""
+</section>
+<script>(function(){{try{{var m=localStorage.getItem('dt-sign'),st=document.querySelector('.sgstrip');if(!st)return;
+st.querySelectorAll('.sg').forEach(function(a){{a.addEventListener('click',function(){{try{{localStorage.setItem('dt-sign',a.dataset.sign)}}catch(x){{}}}})}});
+if(m){{var a=st.querySelector('[data-sign="'+m+'"]');if(a){{a.classList.add('mine');a.setAttribute('data-your',st.dataset.your);st.prepend(a);
+var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href');}}}}}}catch(x){{}}}})();</script>
+{labels_json(lang)}<script src="/assets/games.js" defer></script>"""
     add(lang, "", f"{SITE} — {T(lang, 'home_title')}", T(lang, "tagline"), body,
         {"@context": "https://schema.org", "@type": "WebSite", "name": SITE, "url": f"{URL}{pre}/", "inLanguage": lang}, "1.0")
 

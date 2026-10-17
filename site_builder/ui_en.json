@@ -248,5 +248,20 @@
   "check": "Check",
   "your_move": "Your move",
   "checkmate_win": "Checkmate — you win!",
-  "checkmate_lose": "Checkmate — the computer wins"
+  "checkmate_lose": "Checkmate — the computer wins",
+  "hero_short": "Your daily twist of fun ✨",
+  "cta_play": "Play games",
+  "cta_horoscope": "My horoscope",
+  "badge_games": "{n} free games",
+  "badge_signs": "12 zodiac signs",
+  "badge_daily": "New every day",
+  "explore": "Explore",
+  "tile_horoscope": "Love, work & luck today",
+  "tile_games": "Chess, Ludo, Sudoku & more",
+  "tile_trivia": "New questions every day",
+  "tile_puzzle": "Guess today's word",
+  "tile_articles": "Fun reads in 3 minutes",
+  "tile_countdown": "Days until the holidays",
+  "pick_sign": "Tap your sign — we'll remember it.",
+  "your_sign": "Your sign"
 }
