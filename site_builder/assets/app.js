@@ -29,7 +29,12 @@
       return;
     }
     if (isAndroid && play) { location.href = play; hide(); return; }
-    if (isIOS && banner) { banner.querySelector('.ab-text span').textContent = banner.dataset.ios; return; }
+    if (isIOS && banner) {
+      banner.classList.add('ios-open');
+      banner.querySelector('.ios-steps').hidden = false;
+      document.getElementById('ab-install').hidden = true;
+      return;
+    }
     hide();
   }
   function hide(remember) {
@@ -44,6 +49,7 @@
   var later = +get('dt-banner-later') || 0;
   if (Date.now() - later < 3 * 24 * 3600 * 1000) return;
   if (/\/puzzle\/|\/games\/.+/.test(location.pathname)) return; // never interrupt a game
+  if (isIOS) document.getElementById('ab-install').textContent = banner.dataset.how;
   document.getElementById('ab-install').addEventListener('click', install);
   document.getElementById('ab-later').addEventListener('click', function () { hide(true); });
   setTimeout(function () {

@@ -193,5 +193,9 @@
   "banner_text": "Free • fast • your daily horoscope, quiz and games in one tap",
   "banner_install": "Install",
   "banner_later": "Not now",
-  "ios_hint": "Tap the Share button, then “Add to Home Screen”."
+  "ios_hint": "Tap the Share button, then “Add to Home Screen”.",
+  "banner_how": "Show me",
+  "ios_step1": "Tap the Share button",
+  "ios_step2": "Choose “Add to Home Screen”",
+  "ios_step3": "Tap “Add” — done!"
 }

@@ -203,3 +203,10 @@ nav a:hover{opacity:1;color:var(--accent);text-decoration:none}
 .ab-later{border:0;background:none;color:var(--muted);font:500 .78rem var(--text);cursor:pointer;padding:2px}
 @keyframes abUp{from{transform:translateY(120%);opacity:0}to{transform:none;opacity:1}}
 @media (prefers-reduced-motion:reduce){.appbanner{animation:none}}
+.appbanner.ios-open{flex-wrap:wrap}
+.ios-steps{flex-basis:100%;margin:6px 0 2px;padding:10px 12px;list-style:none;display:grid;gap:8px;background:var(--accent-soft);border-radius:14px;font-size:.9rem;counter-reset:s}
+.ios-steps[hidden]{display:none}
+.ios-steps li{display:flex;align-items:center;gap:10px;counter-increment:s}
+.ios-steps li::before{content:counter(s);flex:none;width:22px;height:22px;border-radius:50%;background:var(--accent);color:#fff;display:grid;place-items:center;font-size:.75rem;font-weight:700}
+.ios-ic{display:inline-grid;place-items:center;width:28px;height:28px;border-radius:8px;background:var(--paper);color:#0a84ff;flex:none;font-weight:700}
+.ab-actions .btn[hidden]{display:none}

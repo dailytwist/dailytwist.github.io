@@ -240,6 +240,8 @@ def render(lang, path, pg):
 <link rel="manifest" href="/manifest.webmanifest">
 <link rel="apple-touch-icon" href="/assets/icons/apple-touch-icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="{e(SITE)}">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="mobile-web-app-capable" content="yes">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -277,11 +279,16 @@ def render(lang, path, pg):
   </div>
 </footer>
 <div id="appbanner" class="appbanner" hidden role="dialog" aria-label="{e(T(lang, 'banner_title'))}"
-  data-play="{e(C.get('play_store_url', ''))}" data-ios="{e(T(lang, 'ios_hint'))}">
+  data-play="{e(C.get('play_store_url', ''))}" data-how="{e(T(lang, 'banner_how'))}">
   <img src="/assets/icons/icon-192.png" alt="" width="52" height="52">
   <div class="ab-text"><b>{e(T(lang, 'banner_title'))}</b><span>{e(T(lang, 'banner_text'))}</span></div>
   <div class="ab-actions"><button class="btn small" id="ab-install">{e(T(lang, 'banner_install'))}</button>
   <button class="ab-later" id="ab-later">{e(T(lang, 'banner_later'))}</button></div>
+  <ol class="ios-steps" hidden>
+    <li><span class="ios-ic"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12"/><path d="M8 7l4-4 4 4"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg></span>{e(T(lang, 'ios_step1'))}</li>
+    <li><span class="ios-ic"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="4"/><path d="M12 8v8M8 12h8"/></svg></span>{e(T(lang, 'ios_step2'))}</li>
+    <li><span class="ios-ic">✓</span>{e(T(lang, 'ios_step3'))}</li>
+  </ol>
 </div>
 <script src="/assets/app.js" defer></script>
 <script>document.querySelectorAll('.langs a').forEach(function(a){{a.addEventListener('click',function(){{try{{localStorage.setItem('dt-lang',a.dataset.l)}}catch(x){{}}}})}});</script>
