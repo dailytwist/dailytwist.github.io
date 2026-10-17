@@ -36,6 +36,9 @@ jobs:
 
       - name: Create the upload key the first time (needs the ANDROID_KEYSTORE_PASSWORD secret)
         run: |
+          if [ -n "$ANDROID_KEYSTORE_PASSWORD" ] && [ ${#ANDROID_KEYSTORE_PASSWORD} -lt 12 ]; then
+            echo "::error::ANDROID_KEYSTORE_PASSWORD must be at least 12 characters"; exit 1
+          fi
           if [ -n "$ANDROID_KEYSTORE_PASSWORD" ] && [ ! -f android/upload.p12 ]; then
             keytool -genkeypair -keystore android/upload.p12 -storetype PKCS12 \
               -storepass "$ANDROID_KEYSTORE_PASSWORD" -keypass "$ANDROID_KEYSTORE_PASSWORD" \
