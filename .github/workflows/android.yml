@@ -34,21 +34,16 @@ jobs:
         with:
           gradle-version: "8.14.3"
 
-      - name: Create the upload key the first time (needs the ANDROID_KEYSTORE_PASSWORD secret)
+      - name: Rebuild the upload key from the password (never stored in the repo)
         run: |
-          if [ -n "$ANDROID_KEYSTORE_PASSWORD" ] && [ ${#ANDROID_KEYSTORE_PASSWORD} -lt 12 ]; then
+          if [ -z "$ANDROID_KEYSTORE_PASSWORD" ]; then
+            echo "::warning::No ANDROID_KEYSTORE_PASSWORD secret yet: building the test APK only."; exit 0
+          fi
+          if [ ${#ANDROID_KEYSTORE_PASSWORD} -lt 12 ]; then
             echo "::error::ANDROID_KEYSTORE_PASSWORD must be at least 12 characters"; exit 1
           fi
-          if [ -n "$ANDROID_KEYSTORE_PASSWORD" ] && [ ! -f android/upload.p12 ]; then
-            keytool -genkeypair -keystore android/upload.p12 -storetype PKCS12 \
-              -storepass "$ANDROID_KEYSTORE_PASSWORD" -keypass "$ANDROID_KEYSTORE_PASSWORD" \
-              -alias upload -keyalg RSA -keysize 2048 -validity 10000 \
-              -dname "CN=DailyTwist, O=DailyTwist, C=MA"
-            echo "::warning::Created a new upload key (android/upload.p12)"
-          fi
-          if [ -z "$ANDROID_KEYSTORE_PASSWORD" ]; then
-            echo "::warning::No ANDROID_KEYSTORE_PASSWORD secret yet: building the test APK only."
-          fi
+          pip install --quiet cryptography
+          python android/make_key.py android/upload.p12
 
       - name: Build
         working-directory: android
@@ -84,7 +79,7 @@ jobs:
         run: |
           git config user.name "dailytwist-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add android/fingerprints.json android/upload.p12 2>/dev/null || git add android/fingerprints.json
+          git add android/fingerprints.json
           if ! git diff --cached --quiet; then
             git commit -m "Android signing fingerprints"
             git pull --rebase origin main
