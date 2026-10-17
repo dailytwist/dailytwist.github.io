@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-14",
+  "title": "Das tägliche Fun-Trivia: 14. Oktober 2026",
+  "questions": [
+    {
+      "category": "Essen",
+      "question": "Was ist die Hauptzutat von traditionellem Hummus?",
+      "options": [
+        "Linsen",
+        "Saubohnen",
+        "Kichererbsen",
+        "Schwarze Bohnen"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Kichererbsen, die auch als Garbanzobohnen bekannt sind, werden bereits seit über 7.500 Jahren vom Menschen kultiviert."
+    },
+    {
+      "category": "Tiere",
+      "question": "Welches große Meeressäugetier ist für seinen langen, spiralförmigen Stoßzahn bekannt, der eigentlich ein verlängerter Eckzahn ist?",
+      "options": [
+        "Manati",
+        "Walross",
+        "Blauwal",
+        "Narwal"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Der kultige Stoßzahn des Narwals kann bis zu 3 Meter lang werden und ist mit Millionen von Nervenenden durchzogen."
+    },
+    {
+      "category": "Sprache",
+      "question": "Welcher Begriff wird verwendet, um Wörter wie „summen“, „zischen“ und „murmeln“ zu beschreiben, die das Geräusch, das sie beschreiben, lautmalerisch nachahmen?",
+      "options": [
+        "Metapher",
+        "Onomatopoesie",
+        "Oxymoron",
+        "Alliteration"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Onomatopoetische Wörter variieren in verschiedenen menschlichen Sprachen oft stark, um unterschiedliche kulturelle Wahrnehmungen derselben Geräusche wiederzugeben."
+    },
+    {
+      "category": "Geografie",
+      "question": "Welches Land hat die längste Küstenlinie der Welt?",
+      "options": [
+        "Russland",
+        "Australien",
+        "Vereinigte Staaten",
+        "Kanada"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Kanadas Küstenlinie erstreckt sich über 202.000 Kilometer (125.000 Meilen), wenn man die unzähligen Inseln und Buchten mitrechnet."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist die Ordnungszahl des Elements Kohlenstoff im Periodensystem?",
+      "options": [
+        "12",
+        "8",
+        "6",
+        "14"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Die Ordnungszahl 6 von Kohlenstoff bedeutet, dass jedes Kohlenstoffatom 6 Protonen in seinem Kern besitzt."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Welcher Sci-Fi-Actionfilm aus dem Jahr 1999 machte den visuellen Effekt der „Bullet Time“ populär, bei dem eine eingefrorene Zeitlupenkamera um sich bewegende Schauspieler herumkreist?",
+      "options": [
+        "Total Recall",
+        "The Terminator",
+        "The Matrix",
+        "Blade Runner"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Die Regisseure Lana und Lilly Wachowski verwendeten eine Anordnung von Standkameras, die in rascher Folge ausgelöst wurden, um die ikonischen Bullet-Time-Sequenzen zu erzeugen."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Spieler stehen beim internationalen Fußball zu Beginn eines Spiels für eine einzelne Mannschaft auf dem Platz?",
+      "options": [
+        "11",
+        "12",
+        "10",
+        "9"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Eine reguläre Fußballmannschaft besteht aus 11 Spielern pro Seite, einschließlich eines bestimmten Torwarts."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Die historische Magna Carta wurde 1215 von König Johann an welchem Ort in der Nähe von Windsor besiegelt?",
+      "options": [
+        "Canterbury",
+        "Tower of London",
+        "Hastings",
+        "Runnymede"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Runnymede wurde als Treffpunkt ausgewählt, weil es eine neutrale, offene Wiese war, die günstig zwischen dem königlichen Lager und den rebellischen Baronen lag."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welches im Dezember 2021 gestartete Weltraumteleskop ist am Lagrange-Punkt L2 von Sonne und Erde positioniert, um das Universum hauptsächlich im Infrarotlicht zu beobachten?",
+      "options": [
+        "Hubble-Weltraumteleskop",
+        "James-Webb-Weltraumteleskop",
+        "Kepler-Weltraumteleskop",
+        "Spitzer-Weltraumteleskop"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Das James-Webb-Weltraumteleskop verfügt über einen riesigen, goldbeschichteten Berylliumspiegel mit einem Durchmesser von 6,5 Metern."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Welcher Universalgelehrte der Renaissance entwarf im späten 15. Jahrhundert eine frühe konzeptionelle Version eines gepanzerten Fahrzeugs, das einer konischen Holzfestung auf Rädern ähnelte?",
+      "options": [
+        "Leonardo da Vinci",
+        "Galileo Galilei",
+        "Johannes Gutenberg",
+        "Niccolò Machiavelli"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Leonardo da Vincis Entwurf für einen Panzer enthielt einen geschickten internen Getriebefler, von dem Historiker vermuten, dass er absichtlich eingebaut wurde, damit er niemals als Waffe eingesetzt werden konnte."
+    }
+  ]
+}

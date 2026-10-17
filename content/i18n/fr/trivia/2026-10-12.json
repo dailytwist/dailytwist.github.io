@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-12",
+  "title": "Le défi du quiz quotidien du 12 octobre 2026",
+  "questions": [
+    {
+      "category": "Géographie",
+      "question": "Quel pays d'Amérique du Sud partage des frontières terrestres avec tous les autres pays du continent, à l'exception du Chili et de l'Équateur ?",
+      "options": [
+        "Brésil",
+        "Colombie",
+        "Pérou",
+        "Argentine"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le Brésil est le cinquième plus grand pays du monde tant par sa superficie que par sa population."
+    },
+    {
+      "category": "Animaux",
+      "question": "Quel est l'aliment de base du panda géant, représentant jusqu'à 99 % de son apport alimentaire quotidien ?",
+      "options": [
+        "Insectes",
+        "Petits rongeurs",
+        "Bambou",
+        "Feuilles d'eucalyptus"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Les pandas géants passent jusqu'à 12 heures par jour à manger du bambou pour faire le plein de nutriments."
+    },
+    {
+      "category": "Cuisine",
+      "question": "Quelle épice, reconnue comme la plus chère au monde au poids, est tirée de la fleur du Crocus sativus ?",
+      "options": [
+        "Cannelle",
+        "Vanille",
+        "Cardamome",
+        "Safran"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Il faut environ 75 000 fleurs de safran pour produire une seule livre de cette épice."
+    },
+    {
+      "category": "Science",
+      "question": "Quelle particule subatomique porte une charge électrique négative ?",
+      "options": [
+        "Proton",
+        "Positron",
+        "Électron",
+        "Neutron"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Les électrons gravitent autour du noyau d'un atome en couches ou en niveaux d'énergie."
+    },
+    {
+      "category": "Films et Pop Culture",
+      "question": "Qui a réalisé le film policier 'Pulp Fiction', acclamé par la critique en 1994 ?",
+      "options": [
+        "Steven Spielberg",
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "David Fincher"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Pulp Fiction a relancé la carrière de John Travolta et a remporté la prestigieuse Palme d'or au Festival de Cannes."
+    },
+    {
+      "category": "Sports",
+      "question": "En athlétisme, combien d'obstacles un athlète doit-il franchir lors d'une course de 400 mètres haies standard ?",
+      "options": [
+        "5",
+        "10",
+        "8",
+        "12"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Les hommes comme les femmes courent le 400 mètres haies en franchissant exactement 10 barrières."
+    },
+    {
+      "category": "Histoire",
+      "question": "La pierre de Rosette, découverte en 1799, a été essentielle pour déchiffrer quel système d'écriture ancien ?",
+      "options": [
+        "Linéaire B",
+        "Hiéroglyphes égyptiens",
+        "Écriture maya",
+        "Cunéiforme"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La pierre présente le même décret rédigé en trois écritures différentes : le grec ancien, le démotique et les hiéroglyphes."
+    },
+    {
+      "category": "Espace",
+      "question": "Quel est le nom de la limite entourant un trou noir au-delà de laquelle rien, pas même la lumière, ne peut s'échapper ?",
+      "options": [
+        "Disque d'accrétion",
+        "Singularité",
+        "Horizon des événements",
+        "Sphère de photons"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Une fois qu'un objet franchit l'horizon des événements, sa vitesse de libération dépasse celle de la lumière."
+    },
+    {
+      "category": "Langue",
+      "question": "Quel terme linguistique désigne un mot qui se lit de la même manière de gauche à droite et de droite à gauche, comme 'ressasser' ?",
+      "options": [
+        "Oxymore",
+        "Anagramme",
+        "Palindrome",
+        "Mot-valise"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Les mots et phrases palindromiques plus longs, comme 'Ésope reste ici et se repose', fascinent les écrivains depuis des siècles."
+    },
+    {
+      "category": "Science",
+      "question": "Quel est le minéral naturel connu le plus dur sur l'échelle de Mohs ?",
+      "options": [
+        "Corindon",
+        "Topaze",
+        "Diamant",
+        "Quartz"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le diamant obtient la note maximale de 10 sur l'échelle de dureté de Mohs."
+    }
+  ]
+}

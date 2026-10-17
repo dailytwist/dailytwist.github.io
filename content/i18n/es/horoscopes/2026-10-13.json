@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-13",
+  "signs": {
+    "aries": {
+      "overview": "El martes te golpea con un rayo de energía cinética sin filtros, Aries, y honestamente, más vale que el mundo se te quite del medio. Tu regente Marte está avivando tu lado espontáneo, haciendo de este el día ideal para lanzarse de cabeza a un proyecto apasionante sobre el que llevas dándole demasiadas vueltas todo el otoño. Claro, puede que quemes tres ideas distintas antes de almorzar, pero ese es solo tu proceso de lluvia de ideas cósmica en su máxima expresión. Abraza el glorioso caos de tu propio entusiasmo. Esta noche, canaliza ese fuego sobrante hacia algo maravillosamente táctil, como reacomodar tu sala o por fin aprender a hacer ese plato de pasta ridículamente complicado que guardaste en TikTok hace tres meses.",
+      "love": "¿Soltero? Un encuentro al azar en la fila del café podría encender una química instantánea. ¿En pareja? Sorprende a tu pareja con un mensaje tonto de la nada solo para verla sonreír.",
+      "career": "Tu enfoque audaz atraviesa la burocracia, dejando a tus compañeros de trabajo asombrados de lo rápido que haces las cosas.",
+      "wellness": "Estira esos hombros antes de que se conviertan en auténticos ladrillos de estrés.",
+      "lucky_number": 17,
+      "lucky_color": "carmesí",
+      "mood": "Eléctrico"
+    },
+    "taurus": {
+      "overview": "Bájale dos rayitas a tu ritmo, Tauro, porque el universo exige que hoy realmente te detengas y huela el eucalipto metafórico. Eres el amo de las comodidades acogedoras, y este martes te invita a disfrutarlas sin una sola gota de culpa. Ya sea que eso signifique usar tu suéter de cachemira más suave en una reunión de Zoom o darte el gusto de comprar un pastel artesanal ridículo, el lujo es tu derecho de nacimiento ahora mismo. Deja que los demás anden corriendo como pollos sin cabeza; tú sabes que las cosas buenas de la vida requieren una cocción lenta. Esta noche se trata de iluminación ambiental, ritmos lo-fi suaves y paz absoluta.",
+      "love": "El romance florece en los momentos tranquilos de quietud compartida en el sofá. Los solteros podrían encontrar consuelo al hablar con alguien que de verdad escucha.",
+      "career": "Tu persistencia firme y bien plantada es el ancla que todo tu equipo necesita desesperadamente hoy.",
+      "wellness": "Date el capricho de una lujosa rutina de cuidado facial de diez pasos solo porque se siente increíble.",
+      "lucky_number": 4,
+      "lucky_color": "salvia",
+      "mood": "Acogedor"
+    },
+    "gemini": {
+      "overview": "Tu cerebro va a aproximadamente un millón de millas por hora hoy, Géminis, y tu chat grupal simplemente no da abasto. Estás a tope con bromas brillantes, teorías de la cultura pop y la curiosidad suficiente para alimentar a una pequeña ciudad. Usa esta agilidad mental para devorarte un libro nuevo, engancharte a un pódcast o conectar con un amigo al que no ves desde el verano. La única trampa que debes evitar es repartirte entre diez pestañas distintas en tu cerebro y quedarte congelado. Elige tu distracción favorita y tírate por ese agujero de conejo con absoluta alegría. Los datos curiosos que recojas hoy sin duda impresionarán a alguien muy pronto.",
+      "love": "Flirtear es tu superpoder ahora mismo, así que úsalo con el máximo encanto. Un intercambio de mensajes ingeniosos se vuelve muy tierno muy rápido.",
+      "career": "La multitarea se te da sin esfuerzo, lo que te permite hacer malabarismos con una docena de tareas menores con total elegancia.",
+      "wellness": "Dale un respiro a tus ojos de las pantallas brillantes y mira por la ventana durante diez minutos completos.",
+      "lucky_number": 23,
+      "lucky_color": "amarillo",
+      "mood": "Efervescente"
+    },
+    "cancer": {
+      "overview": "Tu radar emocional está sintonizado al máximo en modo cinematográfico hoy, Cáncer, captando cada pequeño cambio en la vibra de la habitación. En lugar de esconderte en tu caparazón, apóyate en tus legendarios superpoderes maternales y envuélvete en calidez emocional. Hornea algo delicioso para un vecino, llama al familiar que siempre te hace reír o arma una playlist que se sienta como un abrazo cálido en una fresca tarde de otoño. Se vale sentir profundamente sin necesidad de resolverle los problemas a todo el mundo. Protege tu dulce paz esta noche desconectándote del drama y sumergiéndote en un baño de burbujas profundamente reparador.",
+      "love": "La vulnerabilidad es tu rasgo más atractivo hoy, abriendo puertas a la intimidad genuina. Deja caer tus muros solo un poquito.",
+      "career": "Tu intuición te guía más allá de la política de oficina y te lleva directo al grano.",
+      "wellness": "Tócate un vaso gigante de agua con limón para ayudar a eliminar la pesadez mental que aún ronda.",
+      "lucky_number": 8,
+      "lucky_color": "azulado",
+      "mood": "Nostálgico"
+    },
+    "leo": {
+      "overview": "El foco cósmico está brillando directamente sobre tu fabulosa persona, Leo, así que bien podrías posar y disfrutar de los aplausos. El martes trae una explosión de estilo teatral que hace que hasta un viaje al supermercado se sienta como un evento de alfombra roja. Tu creatividad está por las nubes, instándote a expresarte a través de elecciones de moda audaces, arte llamativo o simplemente contando una historia ridículamente entretenida a la hora del almuerzo. No apagues tu brillo para hacer sentir cómodos a los demás. Dueño de tu brillantez, comparte tu alegría contagiosa y recuerda que el mundo es tu escenario personal hoy.",
+      "love": "Los grandes gestos románticos obtienen grandes recompensas románticas, así que no te guardes tu toque dramático. Los solteros podrían llamar la atención en cuanto pongan un pie en la habitación.",
+      "career": "Tu liderazgo natural inspira a todos a tu alrededor a dar lo mejor de sí mismos.",
+      "wellness": "Haz una pose de poder frente al espejo durante un minuto para aumentar tu confianza al instante.",
+      "lucky_number": 29,
+      "lucky_color": "dorado",
+      "mood": "Radiante"
+    },
+    "virgo": {
+      "overview": "Ah, la dulce organización, Virgo. Mientras todos los demás corren confundidos, tú ya codificaste tu vida por colores y resolviste tres problemas antes del desayuno. El martes trae una maravillosa sensación de claridad mental que te permite ordenar cabos sueltos con una precisión de infarto. Ese cajón desordenado, esa lista de reproducción desorganizada, ese correo olvidado... considéralos a todos vencidos. Pero recuerda no ser demasiado duro con nadie que no opere a tu nivel de eficiencia supersónica. Canaliza tu perfeccionador interior en algo profundamente creativo y regálate una noche impecable de orden y calma.",
+      "love": "Los actos de servicio dicen mucho hoy, como llevarle a tu persona favorita su café exactamente como le gusta. Los solteros aprecian la honestidad directa.",
+      "career": "Tu atención al detalle con ojo de halcón salva el día de un descuido importante.",
+      "wellness": "Ordena tu escritorio para despejar al instante la estática mental.",
+      "lucky_number": 5,
+      "lucky_color": "azul marino",
+      "mood": "Centrado"
+    },
+    "libra": {
+      "overview": "La dicha estética te llama, Libra, y estás más que feliz de responder con estilo. Como el máximo curador de la belleza, tu martes se pasa mejor armonizando tu entorno, ya sea colgando un nuevo cuadro, comprando flores caras o equilibrando tu calendario social para tener algo de tiempo libre. Tienes un don mágico para hacer que todos se sientan vistos y apreciados hoy. Solo asegúrate de no estar doblando la espalda para complacer a alguien que no haría lo mismo por ti. Mantente firme en tu encanto y disfruta del precioso equilibrio que creas.",
+      "love": "Un picnic romántico o una cita artística en un museo dan en el clavo estéticamente. Los solteros son imanes para el encanto sofisticado.",
+      "career": "Tus legendarias habilidades diplomáticas transforman los conflictos potenciales del equipo en colaboraciones fluidas.",
+      "wellness": "Difunde un poco de aceite de lavanda para crear una atmósfera de pura tranquilidad.",
+      "lucky_number": 12,
+      "lucky_color": "rosa",
+      "mood": "Armonioso"
+    },
+    "scorpio": {
+      "overview": "Tu aura misteriosa está al máximo de intensidad hoy, Escorpio, y la gente está fascinada contigo. Estás de humor para quitarle las capas a la superficialidad cotidiana y tirarte directo a la parte honda. Ya sea que estés investigando una teoría conspirativa fascinante, trabajando intensamente en un proyecto secreto o teniendo una charla nocturna que dura hasta el amanecer, buscas sustancia. Confía en tus instintos afilados como navaja; hoy parpadean en verde neón. La noche es ideal para la introspección profunda, música dramática y abrazar tu espíritu maravillosamente transformador.",
+      "love": "El contacto visual intenso dice más que mil palabras. Los secretos compartidos construyen un lazo irrompible.",
+      "career": "Tu enfoque láser te ayuda a descubrir una solución oculta que nadie más podía ver.",
+      "wellness": "Prueba un ejercicio de respiración de conexión a tierra para liberar cualquier tensión acumulada.",
+      "lucky_number": 33,
+      "lucky_color": "ciruela",
+      "mood": "Intenso"
+    },
+    "sagittarius": {
+      "overview": "Haz las maletas, Sagitario, aunque solo sea un viaje mental a algún lugar soleado y exótico. Tu espíritu aventurero se está liberando de la rutina, deseando nuevos horizontes, grandes ideas y madrigueras filosóficas. El martes es un día fantástico para reservar un viaje improvisado, probar una comida completamente diferente para cenar o apuntarte a una clase que te dé miedo de forma divertida. Tu optimismo contagioso saca a todos de sus aburridos bajones. Mantén tus zapatillas flojas y tu mente aún más abierta, porque la serendipia se esconde a la vuelta de la esquina.",
+      "love": "La espontaneidad es el afrodisíaco definitivo hoy; sorprende a tu media naranja con una aventura extraña. Los solteros atraen a almas libres afines.",
+      "career": "Pensar en grande gana el día, dejando los pequeños detalles para que alguien más los resuelva.",
+      "wellness": "Sal a dar una caminata rápida al aire fresco para saciar tus ansias de movimiento.",
+      "lucky_number": 7,
+      "lucky_color": "turquesa",
+      "mood": "Aventurero"
+    },
+    "capricorn": {
+      "overview": "Estás construyendo tu imperio un ladrillo brillante a la vez, Capricornio, y el martes recompensa tu implacable ética de trabajo con un progreso tangible. Tienes la vista puesta en el premio y tu planificación estratégica está a nivel de clase magistral. Sin embargo, no dejes que tu ambición te ciegue ante las alegrías simples que ocurren justo frente a ti. Tómate un merecido descanso para el café, charla con un colega ingenioso y admira lo lejos que te ha traído tu duro trabajo este año. Esta noche, date el gusto de una cena magnífica porque te has ganado cada gramo de ella.",
+      "love": "La confiabilidad es sumamente atractiva, y tu pareja sabe que eres su roca. Los solteros podrían encontrar el amor a través de círculos profesionales.",
+      "career": "Tu visión a largo plazo impresiona a los superiores, abriendo nuevas y emocionantes puertas.",
+      "wellness": "Haz algunos estiramientos suaves de pantorrilla para liberar la rigidez de estar sentado tan derecho y orgulloso.",
+      "lucky_number": 10,
+      "lucky_color": "carbón",
+      "mood": "Ambicioso"
+    },
+    "aquarius": {
+      "overview": "Tu cerebro futurista está descargando ideas locas para las que nadie más está listo todavía, Acuario, y honestamente, ese es tu martes habitual. Marchas al ritmo de tu propio tambor hiperoriginal, ideando innovaciones tecnológicas, proyectos de arte extravagantes o formas inusuales de resolver problemas comunitarios. Abraza a tu visionario interior y comparte esos pensamientos raros con el chat grupal; les encantará tu rareza. Solo recuerda mantenerte atado al planeta Tierra de vez en cuando para no flotar hacia la capa de ozono. Esta noche, sumérgete en la ciencia ficción o en la música electrónica.",
+      "love": "La conexión mental es tu lenguaje del amor favorito absoluto. Una charla peculiar enciende mariposas inesperadas.",
+      "career": "Tu sesión de lluvia de ideas fuera de lo común revitaliza por completo un proyecto estancado.",
+      "wellness": "Escucha un pódcast bizarro o música electrónica ambiental para estimular tu mente brillante.",
+      "lucky_number": 11,
+      "lucky_color": "azul eléctrico",
+      "mood": "Visionario"
+    },
+    "pisces": {
+      "overview": "El velo entre la realidad y los puros devaneos es deliciosamente delgado para ti hoy, Piscis. Tu imaginación corre salvaje con ensoñaciones cinematográficas, perspicacias poéticas y una empatía casi psíquica por el mundo que te rodea. El martes te invita a canalizar esta magia pintando, escribiendo, componiendo canciones o simplemente perdiéndote gloriosamente en una película fantástica. Deja que tu intuición guíe tus elecciones en lugar de la lógica rígida. Envuélvete en una cobija acogedora de fantasías, ¡pero recuerda almorzar! Tu alma tierna y compasiva trae energía sanadora dondequiera que va.",
+      "love": "Los devaneos románticos pueden manifestarse en una dulce realidad si tan solo hablas. Un toque suave derrumba todas las dudas.",
+      "career": "Tu intuición creativa te ayuda a navegar una situación confusa con gracia poética.",
+      "wellness": "Date un baño largo y soñador en una tina tibia con sales de Epsom para calmar tu aura sensible.",
+      "lucky_number": 2,
+      "lucky_color": "verde agua",
+      "mood": "Soñador"
+    }
+  }
+}
