@@ -15,4 +15,4 @@ jobs:
       - name: Check the Telegram token (never prints it)
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-        run: python agent/telegram_post.py --check && python agent/telegram_post.py --welcome
+        run: python agent/telegram_post.py --check
