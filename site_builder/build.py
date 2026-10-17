@@ -143,6 +143,8 @@ def cover_art(seed, category, cls="cover"):
 
 
 GAMES = {  # slug: (title key, desc key, how key, colors, emoji, js name, best-score storage key)
+    "chess": ("game_chess", "game_chess_desc", "how_chess", ("#5b3df5", "#1e1b2b"), "♟️", "chess", None),
+    "ludo": ("game_ludo", "game_ludo_desc", "how_ludo", ("#e5484d", "#f5b301"), "🎲", "ludo", None),
     "sudoku": ("game_sudoku", "game_sudoku_desc", "how_sudoku", ("#3a4bd8", "#8f7bff"), "🧩", "sudoku", "dt-sdk-best-easy"),
     "math-rush": ("game_math", "game_math_desc", "how_math", ("#ff5e7e", "#ff8a3d"), "⚡", "math", "dt-math-best"),
     "memory": ("game_memory", "game_memory_desc", "how_memory", ("#d36bff", "#ffb3d9"), "🃏", "memory", "dt-mem-best-medium"),
@@ -153,7 +155,8 @@ GAMES = {  # slug: (title key, desc key, how key, colors, emoji, js name, best-s
 GAME_LABELS = ["new_game", "moves", "score", "best", "you_won", "you_lost", "draw", "your_turn", "easy", "medium", "hard",
                "time", "undo", "hint", "mistakes", "start", "play_again", "game_over", "new_record", "times_up", "combo",
                "wins", "losses", "draws", "level", "level_up", "day_streak", "too_many_mistakes", "math_intro", "watch",
-               "your_turn_repeat", "simon_intro"]
+               "your_turn_repeat", "simon_intro", "quick", "classic", "computer_turn", "captured", "try_again",
+               "thinking", "check", "your_move", "checkmate_win", "checkmate_lose"]
 
 
 def art(seed, c1, c2, emoji, cls="cover"):
@@ -610,7 +613,7 @@ def build_lang(lang):
 </article>
 <section><h2>✨ {e(T(lang, 'more_fun'))}</h2>{games_grid(lang, [g for g in GAMES if g != slug])}</section>
 {labels_json(lang)}
-<script src="/assets/games.js" defer></script>"""
+<script src="/assets/games.js" defer></script>{f'<script src="/assets/{js}.js" defer></script>' if js in ("chess", "ludo") else ""}"""
         add(lang, f"games/{slug}/", f"{T(lang, title)} – {T(lang, 'games_title')}", T(lang, desc), body,
             {"@context": "https://schema.org", "@type": "VideoGame", "name": T(lang, title), "inLanguage": lang,
              "gamePlatform": "Web browser", "applicationCategory": "Game"}, "0.7")

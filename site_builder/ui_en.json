@@ -232,5 +232,21 @@
   "your_turn_repeat": "Your turn — repeat it!",
   "simon_intro": "Press Start and remember the colors.",
   "brain_games": "Brain games",
-  "your_progress": "Your progress"
+  "your_progress": "Your progress",
+  "game_chess": "Chess",
+  "game_chess_desc": "Play chess against the computer — from friendly Easy to tricky Hard.",
+  "how_chess": "You play White. Tap a piece to see its moves, then tap where to go. Checkmate the black king to win. Pawns promote to a queen automatically.",
+  "game_ludo": "Ludo (Parchís)",
+  "game_ludo_desc": "Roll the dice and race your tokens home against 3 computer players.",
+  "how_ludo": "You are Red. Roll a 6 to bring a token out. Move around the board and into your home column. Land on an opponent to send it back! Rolling a 6 or capturing gives you another turn. Stars are safe squares.",
+  "quick": "Quick (2 tokens)",
+  "classic": "Classic (4 tokens)",
+  "computer_turn": "Computer's turn",
+  "captured": "Captured!",
+  "try_again": "Try again!",
+  "thinking": "Thinking…",
+  "check": "Check",
+  "your_move": "Your move",
+  "checkmate_win": "Checkmate — you win!",
+  "checkmate_lose": "Checkmate — the computer wins"
 }

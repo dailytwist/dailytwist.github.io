@@ -389,5 +389,8 @@
     bs.set(get('dt-simon-best', 0)); lv.set(0); msg.textContent = t('simon_intro');
   }
 
-  ({ memory: memory, '2048': g2048, ttt: ttt, sudoku: sudoku, math: math, simon: simon })[root.dataset.game]();
+  window.DTG = { t: t, el: el, get: get, set: set, stat: stat, bar: bar, pills: pills, DIFF: DIFF, beep: beep, good: good, bad: bad,
+                 fanfare: fanfare, confetti: confetti, addXP: addXP, toast: toast, winBox: winBox, shuffle: shuffle };
+  var fn = ({ memory: memory, '2048': g2048, ttt: ttt, sudoku: sudoku, math: math, simon: simon })[root.dataset.game];
+  if (fn) fn();
 })();
