@@ -39,6 +39,19 @@ def main():
         except Exception as ex:
             print(f"::warning::getMe failed: {ex}")
         return
+    if "--welcome" in sys.argv:
+        url = C["site_url"].rstrip("/")
+        text = (f"👋 <b>Welcome to {html.escape(C['site_name'])}!</b>\n\n"
+                "Every morning you'll get here:\n🔮 the daily horoscope for every sign\n🧠 a fresh trivia quiz\n"
+                "🧩 a new word puzzle\n📖 fun explainers about what everyone is searching for\n\n"
+                f"🎮 Free mini games: <a href=\"{url}/games/\">play now</a>\n🌍 <a href=\"{url}/\">{url.split('//')[-1]}</a>")
+        body = urllib.parse.urlencode({"chat_id": f"@{channel}", "text": text, "parse_mode": "HTML"}).encode()
+        try:
+            with urllib.request.urlopen(f"https://api.telegram.org/bot{token}/sendMessage", data=body, timeout=30) as r:
+                print("::warning::welcome posted:", json.loads(r.read()).get("ok"))
+        except Exception as ex:
+            print(f"::warning::welcome failed: {ex} {ex.read().decode()[:200] if hasattr(ex, 'read') else ''}")
+        return
     today = str(dt.datetime.now(dt.timezone.utc).date())
     sent = json.loads(STATE.read_text()) if STATE.exists() else []
     if today in sent:
