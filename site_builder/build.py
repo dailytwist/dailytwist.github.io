@@ -139,6 +139,17 @@ def sign_art(sign, size=64):
 
 def cover_art(seed, category, cls="cover"):
     c1, c2, emoji = CATEGORY_STYLE.get(category, CATEGORY_STYLE["Explainer"])
+    return art(seed, c1, c2, emoji, cls)
+
+
+GAMES = {  # slug: (ui title key, ui desc key, ui how key, colors, emoji)
+    "memory": ("game_memory", "game_memory_desc", "how_memory", ("#ff5e7e", "#ffb26b"), "🧠"),
+    "2048": ("game_2048", "game_2048_desc", "how_2048", ("#ff8a3d", "#ffd166"), "🔢"),
+    "tictactoe": ("game_ttt", "game_ttt_desc", "how_ttt", ("#4b6cff", "#3fd0c9"), "❌⭕"),
+}
+
+
+def art(seed, c1, c2, emoji, cls="cover"):
     r = rng(seed)
     blobs = "".join(
         f'<circle cx="{r.uniform(0, 400):.0f}" cy="{r.uniform(0, 200):.0f}" r="{r.uniform(30, 110):.0f}" '
@@ -240,6 +251,7 @@ def render(lang, path, pg):
     <nav>
       <a href="{pre}/horoscope/">{e(T(lang, 'nav_horoscopes'))}</a>
       <a href="{pre}/trivia/">{e(T(lang, 'nav_trivia'))}</a>
+      <a href="{pre}/games/">{e(T(lang, 'nav_games'))}</a>
       <a href="/puzzle/">{e(T(lang, 'nav_puzzle'))}</a>
       <a href="{pre}/articles/">{e(T(lang, 'nav_articles'))}</a>
       <a href="{pre}/countdown/">{e(T(lang, 'nav_countdowns'))}</a>
@@ -328,6 +340,32 @@ def article_card(lang, a):
             f'<h3>{e(a["title"])}</h3><p>{e(a["description"])}</p></div></a>')
 
 
+def game_card(lang, slug):
+    title, desc, _, (c1, c2), emoji = GAMES[slug]
+    return (f'<a class="card art" href="{P(lang)}/games/{slug}/">{art("game-" + slug, c1, c2, emoji)}'
+            f'<div class="card-body"><span class="tag">🎮 {e(T(lang, "play"))}</span><h3>{e(T(lang, title))}</h3>'
+            f'<p>{e(T(lang, desc))}</p></div></a>')
+
+
+def more_fun(lang):
+    quiz = (f'<a class="card art" href="{P(lang)}/trivia/">{art("quiz", "#5b3df5", "#8f7bff", "🧠")}'
+            f'<div class="card-body"><span class="tag">❓ {e(T(lang, "daily_trivia"))}</span><h3>{e(T(lang, "start_quiz"))}</h3>'
+            f'<p>{e(T(lang, "trivia_teaser", n=10))}</p></div></a>') if DATA[lang]["trivia"] else ""
+    return (f'<section class="more-fun"><h2>✨ {e(T(lang, "more_fun"))}</h2><div class="grid">'
+            f'{quiz}{"".join(game_card(lang, g) for g in GAMES)}</div></section>')
+
+
+def facts(lang, n=3):
+    pool = [q.get("fun_fact", "") for t in DATA[lang]["trivia"][-14:] for q in t["questions"] if q.get("fun_fact")]
+    if not pool:
+        return ""
+    r = random.Random(str(TODAY) + lang)
+    pick = r.sample(pool, min(n, len(pool)))
+    cards = "".join(f'<div class="fact-card"><span class="fact-emoji">{em}</span><p>{e(f)}</p></div>'
+                    for em, f in zip(["💡", "🌍", "🔭", "🐾", "🎨"], pick))
+    return f'<section><h2>🤔 {e(T(lang, "did_you_know"))}</h2><div class="facts">{cards}</div></section>'
+
+
 def sign_grid(lang):
     return "".join(
         f'<a class="sign" href="{P(lang)}/horoscope/{s}/">{sign_art(s, 56)}<b>{e(sign_name(lang, s))}</b>'
@@ -344,21 +382,15 @@ def build_lang(lang):
     upcoming = sorted(HOLIDAYS, key=lambda s: next_date(HOLIDAYS[s]))[:4]
     latest = "".join(article_card(lang, a) for a in AR[:9]) or f"<p class='muted'>{e(T(lang, 'new_daily'))}</p>"
     body = f"""
-<section class="hero">
-  <div class="hero-text">
-    <p class="kicker">{e(fdate(lang, TODAY))}</p>
-    <h1>{e(T(lang, 'hero_title'))}</h1>
-    <div class="hero-cta">
-      <a class="btn" href="{pre}/trivia/">{e(T(lang, 'hero_cta_trivia'))}</a>
-      <a class="btn ghost" href="/puzzle/">{e(T(lang, 'hero_cta_puzzle'))}</a>
-    </div>
+<section class="hero-top">
+  <div class="hero-head">
+    <div><p class="kicker">{e(fdate(lang, TODAY))}</p>
+    <h1>{e(T(lang, 'hero_title'))}</h1></div>
   </div>
-  {HERO_ART}
-</section>
-<section>
-  <div class="sec-head"><h2>{e(T(lang, 'daily_horoscope'))}</h2>{f'<span class="muted">{e(T(lang, "updated_on", date=fdate(lang, h["date"])))}</span>' if h else ''}</div>
+  <div class="sec-head"><h2>🔮 {e(T(lang, 'daily_horoscope'))}</h2>{f'<span class="muted">{e(T(lang, "updated_on", date=fdate(lang, h["date"])))}</span>' if h else ''}</div>
   <div class="signs">{sign_grid(lang)}</div>
 </section>
+{facts(lang)}
 <section class="split">
   <div class="panel quiz-panel">
     <span class="panel-emoji">🧠</span>
@@ -367,12 +399,16 @@ def build_lang(lang):
     <a class="btn" href="{pre}/trivia/">{e(T(lang, 'start_quiz'))}</a>
   </div>
   <div class="panel">
-    <h2>{e(T(lang, 'upcoming_countdowns'))}</h2>
+    <h2>⏳ {e(T(lang, 'upcoming_countdowns'))}</h2>
     <div class="cds">{''.join(cd_card(lang, s) for s in upcoming)}</div>
   </div>
 </section>
 <section>
-  <div class="sec-head"><h2>{e(T(lang, 'latest_explainers'))}</h2><a href="{pre}/articles/">{e(T(lang, 'see_all'))} →</a></div>
+  <div class="sec-head"><h2>🎮 {e(T(lang, 'games_title'))}</h2><a href="{pre}/games/">{e(T(lang, 'see_all'))} →</a></div>
+  <div class="grid">{''.join(game_card(lang, g) for g in GAMES)}<a class="card art" href="/puzzle/">{art("puzzle", "#2f9e6e", "#c4e86b", "🔤")}<div class="card-body"><span class="tag">🎮 {e(T(lang, 'play'))}</span><h3>{e(T(lang, 'nav_puzzle'))}</h3><p>{e(T(lang, 'hero_cta_puzzle'))}</p></div></a></div>
+</section>
+<section>
+  <div class="sec-head"><h2>📖 {e(T(lang, 'latest_explainers'))}</h2><a href="{pre}/articles/">{e(T(lang, 'see_all'))} →</a></div>
   <div class="grid">{latest}</div>
 </section>"""
     add(lang, "", f"{SITE} — {T(lang, 'home_title')}", T(lang, "tagline"), body,
@@ -410,7 +446,8 @@ def build_lang(lang):
   <p class="small muted">{e(T(lang, 'entertainment_only'))}</p>
   <h2>{e(T(lang, 'other_signs'))}</h2>
   <div class="chips">{others}</div>
-</article>"""
+</article>
+{more_fun(lang)}"""
             add(lang, f"horoscope/{s}/", f'{T(lang, "horoscope_today", sign=sign_name(lang, s))} – {fdate(lang, latest_h["date"])}',
                 dd["overview"][:150], body, priority="0.9")
         for x in H:
@@ -444,6 +481,7 @@ def build_lang(lang):
   <div class="score" hidden><h2>{e(T(lang, 'you_scored'))} <span id="sc">0</span>/{len(t["questions"])}</h2><p>{e(T(lang, 'come_back'))}</p></div>
   {f'<h2>{e(T(lang, "previous_quizzes"))}</h2><div class="chips">{past}</div>' if past else ''}
 </article>
+{more_fun(lang)}
 <script src="/assets/quiz.js" defer></script>"""
     for t in TR:
         add(lang, f"trivia/{t['date']}/", f"{t['title']} – {fdate(lang, t['date'])}",
@@ -478,7 +516,8 @@ def build_lang(lang):
   {f'<h2>{e(T(lang, "faq"))}</h2><div class="faq">{faq}</div>' if faq else ''}
   <p class="small muted">{T(lang, 'written_by', site=e(SITE), contact_url=pre + '/contact/')}</p>
 </article>
-{f'<section><h2>{e(T(lang, "keep_reading"))}</h2><div class="grid">{"".join(article_card(lang, x) for x in rel)}</div></section>' if rel else ''}"""
+{f'<section><h2>{e(T(lang, "keep_reading"))}</h2><div class="grid">{"".join(article_card(lang, x) for x in rel)}</div></section>' if rel else ''}
+{more_fun(lang)}"""
         add(lang, f"articles/{a['slug']}/", a["title"], a["description"], body, schema, "0.7")
     if AR or lang == "en":
         cats = sorted({cat_name(lang, a.get("category", "Explainer")) for a in AR})
@@ -510,6 +549,30 @@ def build_lang(lang):
     rows = sorted(HOLIDAYS, key=lambda s: next_date(HOLIDAYS[s]))
     add(lang, "countdown/", T(lang, "countdowns_title"), T(lang, "countdowns_desc"),
         f'<h1>{e(T(lang, "countdowns_title"))}</h1><div class="cds big">{"".join(cd_card(lang, s) for s in rows)}</div>', priority="0.7")
+
+    # games
+    labels = {"data-new-game": T(lang, "new_game"), "data-moves": T(lang, "moves"), "data-score": T(lang, "score"),
+              "data-best": T(lang, "best"), "data-won": T(lang, "you_won"), "data-lost": T(lang, "you_lost"),
+              "data-draw": T(lang, "draw"), "data-turn": T(lang, "your_turn")}
+    attrs = " ".join(f'{k}="{e(v)}"' for k, v in labels.items())
+    add(lang, "games/", T(lang, "games_title"), T(lang, "games_desc"),
+        f'<h1>🎮 {e(T(lang, "games_title"))}</h1><p class="lead">{e(T(lang, "games_desc"))}</p>'
+        f'<div class="grid">{"".join(game_card(lang, g) for g in GAMES)}</div>', priority="0.8")
+    for slug, (title, desc, how, _, emoji) in GAMES.items():
+        others = "".join(game_card(lang, g) for g in GAMES if g != slug)
+        body = f"""
+<article class="gamepage">
+  <p class="kicker">🎮 {e(T(lang, 'games_title'))}</p>
+  <h1>{emoji} {e(T(lang, title))}</h1>
+  <p class="lead">{e(T(lang, desc))}</p>
+  <div id="game" data-game="{'ttt' if slug == 'tictactoe' else slug}" {attrs}></div>
+  <h2>{e(T(lang, 'how_to_play'))}</h2><p>{e(T(lang, how))}</p>
+</article>
+<section><h2>✨ {e(T(lang, 'more_fun'))}</h2><div class="grid">{others}</div></section>
+<script src="/assets/games.js" defer></script>"""
+        add(lang, f"games/{slug}/", f"{T(lang, title)} – {T(lang, 'games_title')}", T(lang, desc), body,
+            {"@context": "https://schema.org", "@type": "VideoGame", "name": T(lang, title), "inLanguage": lang,
+             "gamePlatform": "Web browser", "applicationCategory": "Game"}, "0.7")
 
     # legal & contact
     fill = lambda s: s.replace("{site}", e(SITE)).replace("{url}", e(URL)).replace("{contact_url}", pre + "/contact/")
