@@ -25,6 +25,17 @@ def main():
     if not token or not channel:
         print("Telegram not configured, skipping.")
         return
+    import re
+    if "--check" in sys.argv:
+        ok_format = bool(re.fullmatch(r"\d{6,12}:[A-Za-z0-9_-]{30,40}", token))
+        print(f"::warning::token length {len(token)}, looks like a bot token: {ok_format}")
+        try:
+            with urllib.request.urlopen(f"https://api.telegram.org/bot{token}/getMe", timeout=30) as r:
+                me = json.loads(r.read())["result"]
+            print(f"::warning::token works for bot @{me.get('username')}")
+        except Exception as ex:
+            print(f"::warning::getMe failed: {ex}")
+        return
     today = str(dt.datetime.now(dt.timezone.utc).date())
     sent = json.loads(STATE.read_text()) if STATE.exists() else []
     if today in sent:
