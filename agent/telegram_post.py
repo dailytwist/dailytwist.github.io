@@ -20,7 +20,10 @@ STATE = CONTENT / "telegram_sent.json"
 
 
 def main():
-    token = "".join((os.environ.get("TELEGRAM_BOT_TOKEN") or "").split())  # remove spaces/newlines from copy-paste
+    import re
+    raw = os.environ.get("TELEGRAM_BOT_TOKEN") or ""
+    found = re.search(r"\d{6,12}:[A-Za-z0-9_-]{30,40}", raw)  # pick the token even if extra text was pasted with it
+    token = found.group(0) if found else "".join(raw.split())
     channel = C.get("telegram_channel", "").lstrip("@")
     if not token or not channel:
         print("Telegram not configured, skipping.")
