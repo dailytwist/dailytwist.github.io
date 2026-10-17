@@ -142,11 +142,18 @@ def cover_art(seed, category, cls="cover"):
     return art(seed, c1, c2, emoji, cls)
 
 
-GAMES = {  # slug: (ui title key, ui desc key, ui how key, colors, emoji)
-    "memory": ("game_memory", "game_memory_desc", "how_memory", ("#ff5e7e", "#ffb26b"), "🧠"),
-    "2048": ("game_2048", "game_2048_desc", "how_2048", ("#ff8a3d", "#ffd166"), "🔢"),
-    "tictactoe": ("game_ttt", "game_ttt_desc", "how_ttt", ("#4b6cff", "#3fd0c9"), "❌⭕"),
+GAMES = {  # slug: (title key, desc key, how key, colors, emoji, js name, best-score storage key)
+    "sudoku": ("game_sudoku", "game_sudoku_desc", "how_sudoku", ("#3a4bd8", "#8f7bff"), "🧩", "sudoku", "dt-sdk-best-easy"),
+    "math-rush": ("game_math", "game_math_desc", "how_math", ("#ff5e7e", "#ff8a3d"), "⚡", "math", "dt-math-best"),
+    "memory": ("game_memory", "game_memory_desc", "how_memory", ("#d36bff", "#ffb3d9"), "🃏", "memory", "dt-mem-best-medium"),
+    "color-memory": ("game_simon", "game_simon_desc", "how_simon", ("#1fb5a8", "#7dd3fc"), "🎨", "simon", "dt-simon-best"),
+    "2048": ("game_2048", "game_2048_desc", "how_2048", ("#ff8a3d", "#ffd166"), "🔢", "2048", "dt-2048-best"),
+    "tictactoe": ("game_ttt", "game_ttt_desc", "how_ttt", ("#2f9e6e", "#c4e86b"), "⭕", "ttt", None),
 }
+GAME_LABELS = ["new_game", "moves", "score", "best", "you_won", "you_lost", "draw", "your_turn", "easy", "medium", "hard",
+               "time", "undo", "hint", "mistakes", "start", "play_again", "game_over", "new_record", "times_up", "combo",
+               "wins", "losses", "draws", "level", "level_up", "day_streak", "too_many_mistakes", "math_intro", "watch",
+               "your_turn_repeat", "simon_intro"]
 
 
 def art(seed, c1, c2, emoji, cls="cover"):
@@ -361,18 +368,34 @@ def article_card(lang, a):
 
 
 def game_card(lang, slug):
-    title, desc, _, (c1, c2), emoji = GAMES[slug]
-    return (f'<a class="card art" href="{P(lang)}/games/{slug}/">{art("game-" + slug, c1, c2, emoji)}'
-            f'<div class="card-body"><span class="tag">🎮 {e(T(lang, "play"))}</span><h3>{e(T(lang, title))}</h3>'
-            f'<p>{e(T(lang, desc))}</p></div></a>')
+    title, desc, _, (c1, c2), emoji, _, best = GAMES[slug]
+    return (f'<a class="gcard" href="{P(lang)}/games/{slug}/" style="--c1:{c1};--c2:{c2}">'
+            f'<span class="gc-icon">{emoji}</span><span class="gc-body"><b>{e(T(lang, title))}</b>'
+            f'<small>{e(T(lang, desc))}</small>{f"<em data-best={chr(34)}{best}{chr(34)}></em>" if best else ""}</span>'
+            f'<span class="gc-play">▶</span></a>')
+
+
+def games_grid(lang, only=None):
+    return f'<div class="ggrid">{"".join(game_card(lang, g) for g in (only or GAMES))}</div>'
+
+
+def labels_json(lang):
+    data = {k: T(lang, k) for k in GAME_LABELS}
+    return '<script type="application/json" id="game-l">' + json.dumps(data, ensure_ascii=False).replace("</", "<\\/") + '</script>'
+
+
+def profile_box(lang):
+    return f'<div class="profile" data-profile></div>'
+
 
 
 def more_fun(lang):
     quiz = (f'<a class="card art" href="{P(lang)}/trivia/">{art("quiz", "#5b3df5", "#8f7bff", "🧠")}'
             f'<div class="card-body"><span class="tag">❓ {e(T(lang, "daily_trivia"))}</span><h3>{e(T(lang, "start_quiz"))}</h3>'
             f'<p>{e(T(lang, "trivia_teaser", n=10))}</p></div></a>') if DATA[lang]["trivia"] else ""
-    return (f'<section class="more-fun"><h2>✨ {e(T(lang, "more_fun"))}</h2><div class="grid">'
-            f'{quiz}{"".join(game_card(lang, g) for g in GAMES)}</div></section>')
+    return (f'<section class="more-fun"><h2>✨ {e(T(lang, "more_fun"))}</h2>{games_grid(lang, list(GAMES)[:4])}'
+            f'<div class="grid" style="margin-top:14px">{quiz}</div></section>'
+            f'{labels_json(lang)}<script src="/assets/games.js" defer></script>')
 
 
 def facts(lang, n=3):
@@ -425,7 +448,7 @@ def build_lang(lang):
 </section>
 <section>
   <div class="sec-head"><h2>🎮 {e(T(lang, 'games_title'))}</h2><a href="{pre}/games/">{e(T(lang, 'see_all'))} →</a></div>
-  <div class="grid">{''.join(game_card(lang, g) for g in GAMES)}<a class="card art" href="/puzzle/">{art("puzzle", "#2f9e6e", "#c4e86b", "🔤")}<div class="card-body"><span class="tag">🎮 {e(T(lang, 'play'))}</span><h3>{e(T(lang, 'nav_puzzle'))}</h3><p>{e(T(lang, 'hero_cta_puzzle'))}</p></div></a></div>
+  {games_grid(lang)}
 </section>
 <section>
   <div class="sec-head"><h2>📖 {e(T(lang, 'latest_explainers'))}</h2><a href="{pre}/articles/">{e(T(lang, 'see_all'))} →</a></div>
@@ -571,24 +594,22 @@ def build_lang(lang):
         f'<h1>{e(T(lang, "countdowns_title"))}</h1><div class="cds big">{"".join(cd_card(lang, s) for s in rows)}</div>', priority="0.7")
 
     # games
-    labels = {"data-new-game": T(lang, "new_game"), "data-moves": T(lang, "moves"), "data-score": T(lang, "score"),
-              "data-best": T(lang, "best"), "data-won": T(lang, "you_won"), "data-lost": T(lang, "you_lost"),
-              "data-draw": T(lang, "draw"), "data-turn": T(lang, "your_turn")}
-    attrs = " ".join(f'{k}="{e(v)}"' for k, v in labels.items())
     add(lang, "games/", T(lang, "games_title"), T(lang, "games_desc"),
-        f'<h1>🎮 {e(T(lang, "games_title"))}</h1><p class="lead">{e(T(lang, "games_desc"))}</p>'
-        f'<div class="grid">{"".join(game_card(lang, g) for g in GAMES)}</div>', priority="0.8")
-    for slug, (title, desc, how, _, emoji) in GAMES.items():
-        others = "".join(game_card(lang, g) for g in GAMES if g != slug)
+        f'<section class="games-hero"><p class="kicker">🎮 {e(T(lang, "brain_games"))}</p><h1>{e(T(lang, "games_title"))}</h1>'
+        f'<p class="lead">{e(T(lang, "games_desc"))}</p>{profile_box(lang)}</section>{games_grid(lang)}'
+        f'{labels_json(lang)}<script src="/assets/games.js" defer></script>', priority="0.8")
+    for slug, (title, desc, how, (c1, c2), emoji, js, _) in GAMES.items():
         body = f"""
-<article class="gamepage">
-  <p class="kicker">🎮 {e(T(lang, 'games_title'))}</p>
-  <h1>{emoji} {e(T(lang, title))}</h1>
+<article class="gamepage" style="--c1:{c1};--c2:{c2}">
+  <div class="game-head"><span class="gc-icon">{emoji}</span><div><p class="kicker">🎮 {e(T(lang, 'brain_games'))}</p>
+  <h1>{e(T(lang, title))}</h1></div></div>
   <p class="lead">{e(T(lang, desc))}</p>
-  <div id="game" data-game="{'ttt' if slug == 'tictactoe' else slug}" {attrs}></div>
-  <h2>{e(T(lang, 'how_to_play'))}</h2><p>{e(T(lang, how))}</p>
+  {profile_box(lang)}
+  <div id="game" data-game="{js}"></div>
+  <details class="howto"><summary>{e(T(lang, 'how_to_play'))}</summary><p>{e(T(lang, how))}</p></details>
 </article>
-<section><h2>✨ {e(T(lang, 'more_fun'))}</h2><div class="grid">{others}</div></section>
+<section><h2>✨ {e(T(lang, 'more_fun'))}</h2>{games_grid(lang, [g for g in GAMES if g != slug])}</section>
+{labels_json(lang)}
 <script src="/assets/games.js" defer></script>"""
         add(lang, f"games/{slug}/", f"{T(lang, title)} – {T(lang, 'games_title')}", T(lang, desc), body,
             {"@context": "https://schema.org", "@type": "VideoGame", "name": T(lang, title), "inLanguage": lang,
