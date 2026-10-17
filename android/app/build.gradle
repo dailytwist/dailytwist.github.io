@@ -1,0 +1,61 @@
+plugins {
+    id 'com.android.application'
+}
+
+def host = 'www.mydailytwist.com'
+def releaseStore = rootProject.file('upload.p12')
+def releasePassword = System.getenv('ANDROID_KEYSTORE_PASSWORD')
+
+android {
+    namespace 'com.mydailytwist.app'
+    compileSdk 36
+
+    defaultConfig {
+        applicationId 'com.mydailytwist.app'
+        minSdk 21
+        targetSdk 36
+        versionCode Integer.parseInt(System.getenv('VERSION_CODE') ?: '1')
+        versionName "1.0.${System.getenv('VERSION_CODE') ?: '1'}"
+        resValue 'string', 'appName', 'DailyTwist'
+        resValue 'string', 'launchUrl', "https://${host}/?source=android"
+        resValue 'string', 'assetStatements',
+            "[{ \\\"relation\\\": [\\\"delegate_permission/common.handle_all_urls\\\"], \\\"target\\\": {\\\"namespace\\\": \\\"web\\\", \\\"site\\\": \\\"https://${host}\\\"}}]"
+        manifestPlaceholders = [hostName: host]
+    }
+
+    signingConfigs {
+        debug {
+            storeFile rootProject.file('debug.keystore')
+            storePassword 'android'
+            keyAlias 'androiddebugkey'
+            keyPassword 'android'
+        }
+        if (releaseStore.exists() && releasePassword) {
+            release {
+                storeFile releaseStore
+                storeType 'pkcs12'
+                storePassword releasePassword
+                keyAlias 'upload'
+                keyPassword releasePassword
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            if (releaseStore.exists() && releasePassword) {
+                signingConfig signingConfigs.release
+            }
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+dependencies {
+    implementation 'com.google.androidbrowserhelper:androidbrowserhelper:2.5.0'
+}

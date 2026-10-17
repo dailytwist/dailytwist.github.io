@@ -22,5 +22,7 @@
   ],
   "max_translations_per_run": 60,
   "ai_delay_seconds": 4,
-  "telegram_channel": "dailytwist_daily"
+  "telegram_channel": "dailytwist_daily",
+  "android_package": "com.mydailytwist.app",
+  "android_sha256": []
 }

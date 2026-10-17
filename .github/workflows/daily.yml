@@ -11,7 +11,7 @@ on:
         default: "0"
   push:
     branches: [main]
-    paths: ["config.json", "site_builder/**"]
+    paths: ["config.json", "site_builder/**", "android/fingerprints.json"]
 
 permissions:
   contents: write

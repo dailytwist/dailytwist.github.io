@@ -237,6 +237,10 @@ def render(lang, path, pg):
 {auto}
 <link rel="alternate" type="application/rss+xml" title="{e(SITE)} ({lang})" href="{pre}/feed.xml">
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="apple-touch-icon" href="/assets/icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Inter:wght@400;500;600{extra_font}&display=swap" rel="stylesheet">
@@ -256,6 +260,7 @@ def render(lang, path, pg):
       <a href="{pre}/articles/">{e(T(lang, 'nav_articles'))}</a>
       <a href="{pre}/countdown/">{e(T(lang, 'nav_countdowns'))}</a>
     </nav>
+    <button id="install" class="install" hidden>📲 {e(T(lang, 'install_app'))}</button>
     <details class="langs"><summary aria-label="{e(T(lang, 'language_label'))}">🌐 {e(NATIVE.get(lang, lang))}</summary>
       <div class="menu">{menu}</div></details>
   </div>
@@ -271,6 +276,7 @@ def render(lang, path, pg):
     <p class="small">{e(T(lang, 'footer_note'))} © {TODAY.year} {e(SITE)}</p>
   </div>
 </footer>
+<script src="/assets/app.js" defer></script>
 <script>document.querySelectorAll('.langs a').forEach(function(a){{a.addEventListener('click',function(){{try{{localStorage.setItem('dt-lang',a.dataset.l)}}catch(x){{}}}})}});</script>
 </body>
 </html>"""
@@ -646,6 +652,33 @@ def main():
     if "example.com" not in host and "github.io" not in host:
         (OUT / "CNAME").write_text(host + "\n", encoding="utf-8")
     (OUT / ".nojekyll").write_text("", encoding="utf-8")
+    manifest = {
+        "name": f"{SITE} – Horoscopes, Trivia & Games", "short_name": SITE, "id": "/", "start_url": "/?source=pwa",
+        "scope": "/", "display": "standalone", "orientation": "portrait", "background_color": "#fbf8f3",
+        "theme_color": "#5b3df5", "description": UI_EN["tagline"], "lang": "en", "dir": "ltr",
+        "categories": ["entertainment", "games", "lifestyle"],
+        "icons": [{"src": "/assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+                  {"src": "/assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+                  {"src": "/assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}],
+        "shortcuts": [{"name": "Daily horoscope", "url": "/horoscope/"}, {"name": "Daily trivia", "url": "/trivia/"},
+                      {"name": "Games", "url": "/games/"}],
+    }
+    (OUT / "manifest.webmanifest").write_text(json.dumps(manifest, ensure_ascii=False, indent=1), encoding="utf-8")
+    sw = (HERE / "sw.js").read_text(encoding="utf-8").replace("__VERSION__", dt.datetime.now(dt.timezone.utc).strftime("%Y%m%d%H%M"))
+    (OUT / "sw.js").write_text(sw, encoding="utf-8")
+    offline = (OUT / "index.html").read_text(encoding="utf-8")
+    start, end = offline.index("<main"), offline.index("</main>")
+    (OUT / "offline.html").write_text(offline[:start] + f'<main class="wrap"><section class="hero-top" style="text-align:center;margin-top:30px">'
+                                      f'<p style="font-size:3rem;margin:0">📡</p><h1>{e(UI_EN["offline_title"])}</h1><p class="lead">{e(UI_EN["offline_text"])}</p>'
+                                      f'</section>' + offline[end:], encoding="utf-8")
+    links = [{"relation": ["delegate_permission/common.handle_all_urls"],
+              "target": {"namespace": "android_app", "package_name": C["android_package"],
+                         "sha256_cert_fingerprints": sorted(set(C.get("android_sha256", []) + (
+                             json.loads((ROOT / "android" / "fingerprints.json").read_text())
+                             if (ROOT / "android" / "fingerprints.json").exists() else [])))}}] if C.get("android_package") else []
+    if links:
+        (OUT / ".well-known").mkdir(exist_ok=True)
+        (OUT / ".well-known" / "assetlinks.json").write_text(json.dumps(links, indent=1), encoding="utf-8")
     for lang in LANGS:
         D = DATA[lang]
         items = []

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4b2fe0"/><stop offset=".55" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ff8a3d"/></linearGradient>
+<linearGradient id="sun" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd166"/><stop offset="1" stop-color="#ff5e7e"/></linearGradient>
+</defs>
+<rect width="1024" height="1024" fill="url(#bg)"/>
+<circle cx="820" cy="190" r="260" fill="#fff" fill-opacity=".07"/>
+<circle cx="170" cy="880" r="300" fill="#fff" fill-opacity=".06"/>
+<ellipse cx="512" cy="520" rx="380" ry="140" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="10" stroke-dasharray="6 26" stroke-linecap="round" transform="rotate(-18 512 520)"/>
+<circle cx="512" cy="512" r="210" fill="url(#sun)"/>
+<path d="M512 352 C 528 470 554 496 672 512 C 554 528 528 554 512 672 C 496 554 470 528 352 512 C 470 496 496 470 512 352 Z" fill="#fff"/>
+<circle cx="770" cy="330" r="48" fill="#fff"/><circle cx="792" cy="314" r="42" fill="#7b5cf2"/>
+<circle cx="250" cy="700" r="30" fill="#3fc1c9"/>
+<g fill="#fff"><path d="M230 250l14 34 34 14-34 14-14 34-14-34-34-14 34-14z"/><path d="M800 760l10 24 24 10-24 10-10 24-10-24-24-10 24-10z"/></g>
+<g fill="#fff" fill-opacity=".8"><circle cx="380" cy="200" r="7"/><circle cx="660" cy="860" r="8"/><circle cx="880" cy="560" r="6"/><circle cx="140" cy="480" r="6"/></g>
+</svg>

@@ -189,3 +189,6 @@ nav a:hover{opacity:1;color:var(--accent);text-decoration:none}
 .tc{aspect-ratio:1;border-radius:16px;border:2px solid var(--line);background:var(--paper);font:800 clamp(2rem,10vw,3rem) Inter,sans-serif;cursor:pointer;color:var(--ink)}
 .tc.x{color:var(--accent)}.tc.o{color:var(--accent-2)}
 .tc:hover{border-color:var(--accent)}
+.install{border:0;border-radius:999px;padding:7px 14px;font:600 .88rem var(--text);background:linear-gradient(135deg,var(--accent),var(--accent-2));color:#fff;cursor:pointer;white-space:nowrap}
+.install[hidden]{display:none}
+@media (max-width:720px){.install{margin-inline-start:auto}.install:not([hidden])+.langs{margin-inline-start:8px}}
