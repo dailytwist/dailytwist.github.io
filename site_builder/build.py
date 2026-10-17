@@ -276,6 +276,13 @@ def render(lang, path, pg):
     <p class="small">{e(T(lang, 'footer_note'))} © {TODAY.year} {e(SITE)}</p>
   </div>
 </footer>
+<div id="appbanner" class="appbanner" hidden role="dialog" aria-label="{e(T(lang, 'banner_title'))}"
+  data-play="{e(C.get('play_store_url', ''))}" data-ios="{e(T(lang, 'ios_hint'))}">
+  <img src="/assets/icons/icon-192.png" alt="" width="52" height="52">
+  <div class="ab-text"><b>{e(T(lang, 'banner_title'))}</b><span>{e(T(lang, 'banner_text'))}</span></div>
+  <div class="ab-actions"><button class="btn small" id="ab-install">{e(T(lang, 'banner_install'))}</button>
+  <button class="ab-later" id="ab-later">{e(T(lang, 'banner_later'))}</button></div>
+</div>
 <script src="/assets/app.js" defer></script>
 <script>document.querySelectorAll('.langs a').forEach(function(a){{a.addEventListener('click',function(){{try{{localStorage.setItem('dt-lang',a.dataset.l)}}catch(x){{}}}})}});</script>
 </body>
