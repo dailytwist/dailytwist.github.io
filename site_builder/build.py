@@ -652,6 +652,28 @@ def build_lang(lang):
         f'<p class="muted">{e(T(lang, "contact_reply"))}</p></article>', priority="0.3")
 
 
+def build_delete_page():
+    body = f"""
+<article class="post"><h1>Delete your data — {e(SITE)}</h1>
+<p class="muted">Applies to the {e(SITE)} website ({e(URL)}) and the {e(SITE)} Android app (com.mydailytwist.app) by the {e(SITE)} developer.</p>
+<h2>What data we have</h2>
+<p>{e(SITE)} has no accounts. The only personal data we can hold is what you send us yourself through the contact form:
+your <b>name</b>, your <b>email address</b> and your <b>message</b>.</p>
+<p>Your game scores, levels, streaks and language choice are stored <b>only on your own device</b> (browser/app storage). We never receive them.</p>
+<h2>How to request deletion</h2>
+<ol>
+<li>Open our <a href="/contact/">contact page</a>.</li>
+<li>Write “Delete my data” in the message and enter the same email address you used before.</li>
+<li>Send the form. We delete your name, email address and messages within <b>30 days</b> and confirm by email.</li>
+</ol>
+<h2>Delete data stored on your device</h2>
+<p>Clear the site data in your browser settings, or in Android go to <b>Settings → Apps → {e(SITE)} → Storage → Clear storage</b>, or simply uninstall the app.</p>
+<h2>What we keep</h2>
+<p>Nothing. After deletion we keep no copy of your contact messages.</p>
+</article>"""
+    add("en", "delete-data/", f"Delete your data – {SITE}", f"How to request deletion of your data from {SITE}.", body, priority="0.2")
+
+
 def build_puzzle():
     body = """
 <article class="puzzle">
@@ -676,6 +698,7 @@ def main():
     for lang in LANGS:
         build_lang(lang)
     build_puzzle()
+    build_delete_page()
     sitemap = [render(l, p, pg) for (l, p), pg in PAGES.items()]
 
     shutil.copytree(HERE / "assets", OUT / "assets", dirs_exist_ok=True)
