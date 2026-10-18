@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-18",
+  "title": "Quiz di cultura generale del giorno: 18 ottobre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Qual è l'unico paese al mondo a condividere una frontiera terrestre con il Portogallo?",
+      "options": [
+        "Francia",
+        "Italia",
+        "Marocco",
+        "Spagna"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La Spagna condivide la penisola iberica con il Portogallo, rappresentando la stragrande maggioranza dei suoi confini terrestri."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è il simbolo chimico dell'elemento ferro?",
+      "options": [
+        "I",
+        "Ir",
+        "In",
+        "Fe"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Il simbolo Fe deriva da 'ferrum', la parola latina per ferro."
+    },
+    {
+      "category": "storia",
+      "question": "In quale anno è caduto il Muro di Berlino, segnando un momento cruciale nella fine della Guerra Fredda?",
+      "options": [
+        "1991",
+        "1989",
+        "1993",
+        "1987"
+      ],
+      "answer_index": 1,
+      "fun_fact": "L'apertura dei valichi di frontiera tra Berlino Est e Berlino Ovest è avvenuta la sera del 9 novembre 1989."
+    },
+    {
+      "category": "cinema e pop culture",
+      "question": "Quale film d'animazione ha come protagonista un giovane leone di nome Simba che riconquista il suo posto come legittimo re delle Terre del Scirocco?",
+      "options": [
+        "Madagascar",
+        "Tarzan",
+        "Bambi",
+        "Il Re Leone"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Uscito nel 1994, Il Re Leone è stato fortemente ispirato dalla tragedia Amleto di William Shakespeare."
+    },
+    {
+      "category": "cucina",
+      "question": "Qual è l'ingrediente principale utilizzato per preparare il guacamole tradizionale?",
+      "options": [
+        "Tomatillo",
+        "Carciofo",
+        "Avocado",
+        "Pomodoro verde"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il guacamole risale ai tempi degli Aztechi in Mesoamerica, intorno al XVI secolo."
+    },
+    {
+      "category": "animali",
+      "question": "Qual è l'animale terrestre più veloce del mondo?",
+      "options": [
+        "Cavallo Quarter Horse",
+        "Ghepardo",
+        "Antilocapra",
+        "Leone"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Un ghepardo può accelerare da 0 a 100 chilometri orari in pochi secondi."
+    },
+    {
+      "category": "sport",
+      "question": "Quanti giocatori sono in campo per una singola squadra di baseball durante una partita standard?",
+      "options": [
+        "9",
+        "12",
+        "7",
+        "11"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Ogni squadra schiera nove giocatori in difesa disposti in varie posizioni sul diamante."
+    },
+    {
+      "category": "linguistica",
+      "question": "Quale termine viene usato in linguistica per indicare una parola che ha un significato esattamente opposto a un'altra?",
+      "options": [
+        "Sinonimo",
+        "Acronimo",
+        "Omonimo",
+        "Contrario"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Esempi di coppie di contrari includono caldo e freddo, oppure veloce e lento."
+    },
+    {
+      "category": "spazio",
+      "question": "Quale pianeta del nostro sistema solare è noto come il Pianeta Rosso?",
+      "options": [
+        "Venere",
+        "Giove",
+        "Saturno",
+        "Marte"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Il colore rossastro di Marte è causato dall'ossido di ferro, comunemente noto come ruggine, che ne ricopre la superficie."
+    },
+    {
+      "category": "storia",
+      "question": "L'antico monumento di Stonehenge si trova in quale paese odierno?",
+      "options": [
+        "Grecia",
+        "Regno Unito",
+        "Italia",
+        "Egitto"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Stonehenge, situato nel Wiltshire, in Inghilterra, è stato costruito in diverse fasi durante la preistoria."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-18",
+  "title": "Tägliches Allgemeinwissens-Quiz: 18. Oktober 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches ist das einzige Land der Welt, das sich eine gemeinsame Landgrenze mit Portugal teilt?",
+      "options": [
+        "Frankreich",
+        "Italien",
+        "Marokko",
+        "Spanien"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Spanien teilt sich die Iberische Halbinsel mit Portugal und macht den weitaus größten Teil von dessen Landgrenzen aus."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Wie lautet das chemische Symbol für das Element Eisen?",
+      "options": [
+        "I",
+        "Ir",
+        "In",
+        "Fe"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Das Symbol Fe stammt von „ferrum“, dem lateinischen Wort für Eisen."
+    },
+    {
+      "category": "Geschichte",
+      "question": "In welchem Jahr fiel die Berliner Mauer und markierte damit einen Wendepunkt am Ende des Kalten Krieges?",
+      "options": [
+        "1991",
+        "1989",
+        "1993",
+        "1987"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Die Öffnung der Grenzübergänge zwischen Ost- und West-Berlin fand am Abend des 9. November 1989 statt."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "In welchem Animationsfilm beansprucht ein junger Löwe namens Simba seinen rechtmäßigen Platz als König des geweihten Landes zurück?",
+      "options": [
+        "Madagascar",
+        "Tarzan",
+        "Bambi",
+        "The Lion King"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Der 1994 erschienene Film The Lion King war stark von William Shakespeares Tragödie Hamlet inspiriert."
+    },
+    {
+      "category": "Essen",
+      "question": "Welches ist die Hauptzutat zur Zubereitung von traditioneller Guacamole?",
+      "options": [
+        "Tomatillo",
+        "Artischocke",
+        "Avocado",
+        "Grüne Tomate"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Guacamole lässt sich bis auf die Zeit der Azteken in Mesoamerika um das 16. Jahrhundert zurückverfolgen."
+    },
+    {
+      "category": "Tiere",
+      "question": "Welches ist das schnellste Landtier der Welt?",
+      "options": [
+        "Quarter Horse",
+        "Gepard",
+        "Gabelbock",
+        "Löwe"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Ein Gepard kann in nur wenigen Sekunden von 0 auf 60 Meilen pro Stunde beschleunigen."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Spieler stehen bei einem regulären Baseballspiel pro Mannschaft auf dem Spielfeld?",
+      "options": [
+        "9",
+        "12",
+        "7",
+        "11"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Jedes Team schickt neun Defensivspieler auf das Feld, die sich auf verschiedene Positionen auf dem Infield und Outfield verteilen."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie nennt man in der Linguistik ein Wort, das die exakte Gegenteilbedeutung eines anderen Wortes hat?",
+      "options": [
+        "Synonym",
+        "Akronym",
+        "Homonym",
+        "Antonym"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Paare von Antonymen sind zum Beispiel heiß und kalt oder schnell und langsam."
+    },
+    {
+      "category": "Weltall",
+      "question": "Welcher Planet in unserem Sonnensystem wird als der Rote Planet bezeichnet?",
+      "options": [
+        "Venus",
+        "Jupiter",
+        "Saturn",
+        "Mars"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Die rötliche Farbe des Mars wird durch Eisenoxid, gemeinhin als Rost bekannt, verursacht, das seine Oberfläche bedeckt."
+    },
+    {
+      "category": "Geschichte",
+      "question": "In welchem heutigen Land befindet sich das antike Monument Stonehenge?",
+      "options": [
+        "Griechenland",
+        "Vereinigtes Königreich",
+        "Italien",
+        "Ägypten"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Stonehenge in Wiltshire, England, wurde in mehreren Phasen während der Prähistorie erbaut."
+    }
+  ]
+}

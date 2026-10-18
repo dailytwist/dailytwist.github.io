@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-18",
+  "title": "Quiz Diário de Conhecimentos Gerais: 18 de outubro de 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Qual é o único país do mundo que faz fronteira terrestre com Portugal?",
+      "options": [
+        "France",
+        "Italy",
+        "Morocco",
+        "Spain"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A Espanha compartilha a Península Ibérica com Portugal, respondendo pela esmagadora maioria de suas fronteiras terrestres."
+    },
+    {
+      "category": "science",
+      "question": "Qual é o símbolo químico do elemento ferro?",
+      "options": [
+        "I",
+        "Ir",
+        "In",
+        "Fe"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O símbolo Fe vem de 'ferrum', a palavra em latim para ferro."
+    },
+    {
+      "category": "history",
+      "question": "Em que ano caiu o Muro de Berlim, marcando um momento crucial para o fim da Guerra Fria?",
+      "options": [
+        "1991",
+        "1989",
+        "1993",
+        "1987"
+      ],
+      "answer_index": 1,
+      "fun_fact": "A abertura das passagens de fronteira entre Berlim Oriental e Ocidental aconteceu na noite de 9 de novembro de 1989."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Qual filme de animação traz um jovem leão chamado Simba retomando seu lugar como o rei legítimo das Terras do Pride?",
+      "options": [
+        "Madagascar",
+        "Tarzan",
+        "Bambi",
+        "The Lion King"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Lançado em 1994, O Rei Leão foi fortemente inspirado na tragédia Hamlet, de William Shakespeare."
+    },
+    {
+      "category": "food",
+      "question": "Qual é o ingrediente principal usado para fazer o guacamole tradicional?",
+      "options": [
+        "Tomatillo",
+        "Artichoke",
+        "Avocado",
+        "Green tomato"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O guacamole remonta à época dos astecas na Mesoamérica, por volta do século XVI."
+    },
+    {
+      "category": "animals",
+      "question": "Qual é o animal terrestre mais rápido do mundo?",
+      "options": [
+        "Quarter horse",
+        "Cheetah",
+        "Pronghorn",
+        "Lion"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Um guepardo pode acelerar de 0 a 100 km/h em apenas alguns segundos."
+    },
+    {
+      "category": "sports",
+      "question": "Quantos jogadores estão em campo por um único time de beisebol durante uma partida padrão?",
+      "options": [
+        "9",
+        "12",
+        "7",
+        "11"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Cada equipe coloca em campo nove jogadores defensivos distribuídos por várias posições no diamante."
+    },
+    {
+      "category": "language",
+      "question": "Qual termo é usado na linguística para uma palavra que tem o significado exatamente oposto ao de outra palavra?",
+      "options": [
+        "Synonym",
+        "Acronym",
+        "Homonym",
+        "Antonym"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Pares de antônimos incluem quente e frio, ou rápido e devagar."
+    },
+    {
+      "category": "space",
+      "question": "Qual planeta do nosso sistema solar é conhecido como o Planeta Vermelho?",
+      "options": [
+        "Venus",
+        "Jupiter",
+        "Saturn",
+        "Mars"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A cor avermelhada de Marte é causada por óxido de ferro, comumente conhecido como ferrugem, cobrindo sua superfície."
+    },
+    {
+      "category": "history",
+      "question": "O antigo monumento de Stonehenge está localizado em qual país dos dias de hoje?",
+      "options": [
+        "Greece",
+        "United Kingdom",
+        "Italy",
+        "Egypt"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Stonehenge, situado em Wiltshire, na Inglaterra, foi construído em vários estágios que abrangeram os tempos pré-históricos."
+    }
+  ]
+}

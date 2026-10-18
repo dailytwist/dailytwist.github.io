@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-12",
+  "title": "El desafío de trivia diario del 12 de octubre de 2026",
+  "questions": [
+    {
+      "category": "Geografía",
+      "question": "¿Qué país sudamericano comparte fronteras terrestres con todas las demás naciones del continente, excepto Chile y Ecuador?",
+      "options": [
+        "Brasil",
+        "Colombia",
+        "Perú",
+        "Argentina"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Brasil es el quinto país más grande del mundo tanto en superficie como en población."
+    },
+    {
+      "category": "Animales",
+      "question": "¿Cuál es la dieta principal del panda gigante, representando hasta el 99% de su ingesta diaria de alimentos?",
+      "options": [
+        "Insectos",
+        "Pequeños roedores",
+        "Bambú",
+        "Hojas de eucalipto"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Los pandas gigantes pasan hasta 12 horas al día comiendo bambú para obtener suficientes nutrientes."
+    },
+    {
+      "category": "Comida",
+      "question": "¿Qué especia, considerada la más cara del mundo por su peso, se obtiene de la flor del Crocus sativus?",
+      "options": [
+        "Canela",
+        "Vainilla",
+        "Cardamomo",
+        "Azafrán"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Se necesitan aproximadamente 75.000 flores de azafrán para producir apenas una sola libra de la especia."
+    },
+    {
+      "category": "Ciencia",
+      "question": "¿Qué partícula subatómica tiene carga eléctrica negativa?",
+      "options": [
+        "Protón",
+        "Positrón",
+        "Electrón",
+        "Neutrón"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Los electrones orbitan alrededor del núcleo de un átomo en capas o niveles de energía."
+    },
+    {
+      "category": "Películas y cultura pop",
+      "question": "¿Quién dirigió la aclamada película de crimen de 1994 'Pulp Fiction'?",
+      "options": [
+        "Steven Spielberg",
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "David Fincher"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Pulp Fiction revitalizó la carrera de John Travolta y ganó la prestigiosa Palma de Oro en el Festival de Cine de Cannes."
+    },
+    {
+      "category": "Deportes",
+      "question": "En el atletismo, ¿cuántos obstáculos debe superar un atleta durante una carrera estándar de 400 metros con vallas?",
+      "options": [
+        "5",
+        "10",
+        "8",
+        "12"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Tanto los hombres como las mujeres corren los 400 metros con vallas superando exactamente 10 barreras."
+    },
+    {
+      "category": "Historia",
+      "question": "La piedra de Rosetta, descubierta en 1799, fue crucial para descifrar qué antiguo sistema de escritura?",
+      "options": [
+        "Lineal B",
+        "Jeroglíficos egipcios",
+        "Escritura maya",
+        "Cuneiforme"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La piedra presenta el mismo decreto escrito en tres escrituras diferentes: griego antiguo, demótico y jeroglíficos."
+    },
+    {
+      "category": "Espacio",
+      "question": "¿Cómo se llama el límite que rodea un agujero negro más allá del cual nada, ni siquiera la luz, puede escapar?",
+      "options": [
+        "Disco de acreción",
+        "Singularidad",
+        "Horizonte de eventos",
+        "Esfera de fotones"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Una vez que un objeto cruza el horizonte de eventos, su velocidad de escape supera la velocidad de la luz."
+    },
+    {
+      "category": "Idioma",
+      "question": "¿Qué término lingüístico describe una palabra que se lee igual al derecho y al revés, como 'racecar'?",
+      "options": [
+        "Oxímoron",
+        "Anagrama",
+        "Palíndromo",
+        "Palabra maleta"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Las palabras y frases palindrómicas más largas, como 'A man, a plan, a canal: Panama!', han fascinado a los escritores durante siglos."
+    },
+    {
+      "category": "Ciencia",
+      "question": "¿Cuál es el mineral natural más duro conocido en la escala de Mohs?",
+      "options": [
+        "Corindón",
+        "Topacio",
+        "Diamante",
+        "Cuarzo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Al diamante se le asigna la calificación máxima de 10 en la escala de dureza de Mohs."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-18",
+  "title": "Test de Cultura General Diario: 18 de octubre de 2026",
+  "questions": [
+    {
+      "category": "geografía",
+      "question": "¿Qué país es el único del mundo que comparte frontera terrestre con Portugal?",
+      "options": [
+        "Francia",
+        "Italia",
+        "Marruecos",
+        "España"
+      ],
+      "answer_index": 3,
+      "fun_fact": "España comparte la península ibérica con Portugal y abarca la gran mayoría de sus límites terrestres."
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Cuál es el símbolo químico del elemento hierro?",
+      "options": [
+        "I",
+        "Ir",
+        "In",
+        "Fe"
+      ],
+      "answer_index": 3,
+      "fun_fact": "El símbolo Fe proviene de «ferrum», la palabra en latín para el hierro."
+    },
+    {
+      "category": "historia",
+      "question": "¿En qué año cayó el Muro de Berlín, marcando un momento decisivo en el fin de la Guerra Fría?",
+      "options": [
+        "1991",
+        "1989",
+        "1993",
+        "1987"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La apertura de los cruces fronterizos entre el Berlín Oriental y el Occidental tuvo lugar la noche del 9 de noviembre de 1989."
+    },
+    {
+      "category": "cine y cultura pop",
+      "question": "¿Qué película de animación presenta a un joven león llamado Simba que reclama su lugar como el legítimo rey de las Tierras del Pride?",
+      "options": [
+        "Madagascar",
+        "Tarzán",
+        "Bambi",
+        "El rey león"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Estrenada en 1994, El rey león se inspiró fuertemente en la tragedia Hamlet de William Shakespeare."
+    },
+    {
+      "category": "comida",
+      "question": "¿Cuál es el ingrediente principal que se utiliza para hacer el guacamole tradicional?",
+      "options": [
+        "Tomatillo",
+        "Alcachofa",
+        "Aguacate",
+        "Tomate verde"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El guacamole se remonta a la época de los aztecas en Mesoamérica, alrededor del siglo XVI."
+    },
+    {
+      "category": "animales",
+      "question": "¿Cuál es el animal terrestre más rápido del mundo?",
+      "options": [
+        "Caballo cuarto de milla",
+        "Guepardo",
+        "Berrendo",
+        "León"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Un guepardo puede acelerar de 0 a 60 millas por hora en tan solo unos segundos."
+    },
+    {
+      "category": "deportes",
+      "question": "¿Cuántos jugadores hay en el campo por un solo equipo de béisbol durante un partido estándar?",
+      "options": [
+        "9",
+        "12",
+        "7",
+        "11"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Cada equipo cuenta con nueve jugadores defensivos repartidos en varias posiciones del diamante."
+    },
+    {
+      "category": "idioma",
+      "question": "¿Qué término se utiliza en lingüística para una palabra que tiene el significado exactamente opuesto al de otra palabra?",
+      "options": [
+        "Sinónimo",
+        "Acrónimo",
+        "Homónimo",
+        "Antónimo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Algunos pares de antónimos son caliente y frío, o rápido y lento."
+    },
+    {
+      "category": "espacio",
+      "question": "¿Qué planeta de nuestro sistema solar es conocido como el Planeta Rojo?",
+      "options": [
+        "Venus",
+        "Júpiter",
+        "Saturno",
+        "Marte"
+      ],
+      "answer_index": 3,
+      "fun_fact": "El color rojizo de Marte se debe al óxido de hierro, comúnmente conocido como óxido o herrumbre, que cubre su superficie."
+    },
+    {
+      "category": "historia",
+      "question": "¿En qué país actual se encuentra el antiguo monumento de Stonehenge?",
+      "options": [
+        "Grecia",
+        "Reino Unido",
+        "Italia",
+        "Egipto"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Stonehenge, situado en Wiltshire, Inglaterra, se construyó en varias etapas que abarcaron la prehistoria."
+    }
+  ]
+}

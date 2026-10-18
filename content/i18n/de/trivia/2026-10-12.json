@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-12",
+  "title": "Das Tägliche Quiz-Abenteuer vom 12. Oktober 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches südamerikanische Land teilt sich mit jedem anderen Staat des Kontinents eine Landgrenze, außer mit Chile und Ecuador?",
+      "options": [
+        "Brasilien",
+        "Kolumbien",
+        "Peru",
+        "Argentinien"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Brasilien ist sowohl nach Fläche als auch nach Bevölkerung das fünftgrößte Land der Welt."
+    },
+    {
+      "category": "Tiere",
+      "question": "Woraus besteht die Hauptnahrung eines Großen Pandas, die bis zu 99 % seiner täglichen Nahrungsaufnahme ausmacht?",
+      "options": [
+        "Insekten",
+        "Kleine Nagetiere",
+        "Bambus",
+        "Eukalyptusblätter"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Große Pandas verbringen bis zu 12 Stunden am Tag damit, Bambus zu fressen, um genügend Nährstoffe aufzunehmen."
+    },
+    {
+      "category": "Essen & Trinken",
+      "question": "Welches Gewürz, das nach Gewicht als das teuerste der Welt gilt, wird aus der Blume von Crocus sativus gewonnen?",
+      "options": [
+        "Zimt",
+        "Vanille",
+        "Kardamom",
+        "Safran"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Es braucht ungefähr 75.000 Safranblüten, um nur ein einziges Pfund des Gewürzes herzustellen."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Welches subatomare Teilchen trägt eine negative elektrische Ladung?",
+      "options": [
+        "Proton",
+        "Positron",
+        "Elektron",
+        "Neutron"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Elektronen umkreisen den Atomkern in Schalen oder Energieniveaus."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Wer führte Regie bei dem von der Kritik gefeierten Kriminalfilm 'Pulp Fiction' aus dem Jahr 1994?",
+      "options": [
+        "Steven Spielberg",
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "David Fincher"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Pulp Fiction hauchte John Travoltas Karriere neues Leben ein und gewann die begehrte Palme d'Or bei den Filmfestspielen von Cannes."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Hürden muss ein Athlet bei einem standardmäßigen 400-Meter-Hürdenlauf überwinden?",
+      "options": [
+        "5",
+        "10",
+        "8",
+        "12"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Sowohl Männer als auch Frauen laufen die 400 Meter Hürden über genau 10 Barrieren."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Der 1799 entdeckte Stein von Rosetta war entscheidend für die Entzifferung welches antiken Schriftsystems?",
+      "options": [
+        "Linear B",
+        "Ägyptische Hieroglyphen",
+        "Mayaschrift",
+        "Keilschrift"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Der Stein zeigt denselben Erlass in drei verschiedenen Schriften: Altgriechisch, Demotisch und Hieroglyphen."
+    },
+    {
+      "category": "Weltall",
+      "question": "Wie heißt die Grenze um ein schwarzes Loch herum, jenseits derer nichts, nicht einmal Licht, entkommen kann?",
+      "options": [
+        "Akkretionsscheibe",
+        "Singularität",
+        "Ereignishorizont",
+        "Photonensphäre"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Sobald ein Objekt den Ereignishorizont überschreitet, übersteigt seine Fluchtgeschwindigkeit die Lichtgeschwindigkeit."
+    },
+    {
+      "category": "Sprache",
+      "question": "Welcher sprachliche Begriff bezeichnet ein Wort, das vorwärts und rückwärts gleich geschrieben wird, wie zum Beispiel 'Lageregal'?",
+      "options": [
+        "Oxymoron",
+        "Anagramm",
+        "Palindrom",
+        "Kofferwort"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Längere palindromische Wörter und Sätze faszinieren Schriftsteller bereits seit Jahrhunderten."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist das härteste bekannte natürlich vorkommende Mineral auf der Mohs-Skala?",
+      "options": [
+        "Korund",
+        "Topas",
+        "Diamant",
+        "Quarz"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Ein Diamant erhält auf der Mohs-Härteskala den Höchstwert von 10."
+    }
+  ]
+}
