@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-19",
+  "title": "Trivia diaria de cultura general: 19 de octubre de 2026",
+  "questions": [
+    {
+      "category": "geografía",
+      "question": "¿Qué país escandinavo comparte toda su frontera terrestre oriental con Suecia?",
+      "options": [
+        "Dinamarca",
+        "Islandia",
+        "Finlandia",
+        "Noruega"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Noruega comparte una frontera de 1.619 kilómetros de longitud con Suecia, lo que la convierte en la frontera terrestre más larga de Europa al oeste de Rusia."
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Cuál es la central energética de la célula responsable de generar la mayor parte de la energía química necesaria para impulsar las reacciones bioquímicas?",
+      "options": [
+        "Retículo endoplasmático",
+        "Mitocondria",
+        "Ribosoma",
+        "Aparato de Golgi"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Las mitocondrias poseen su propio ADN independiente que está separado del ADN nuclear de la célula."
+    },
+    {
+      "category": "historia",
+      "question": "¿En qué año fue firmada y sellada la Carta Magna por el rey Juan?",
+      "options": [
+        "1776",
+        "1215",
+        "1492",
+        "1066"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Aunque hoy en día solo tres cláusulas originales de la Carta Magna siguen vigentes en la legislación inglesa, esta sentó los principios fundamentales para el gobierno constitucional moderno."
+    },
+    {
+      "category": "cine y cultura pop",
+      "question": "¿Qué clásica película animada de Disney de 1941 presenta a un joven elefante de circo con orejas inusualmente grandes que aprende a volar?",
+      "options": [
+        "Fantasía",
+        "Dumbo",
+        "Pinocho",
+        "Bambi"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Con apenas 64 minutos de duración, Dumbo es uno de los largometrajes más cortos en la historia de la animación de Disney."
+    },
+    {
+      "category": "gastronomía",
+      "question": "¿Cuál es el ingrediente principal del tradicional dip griego conocido como tzatziki?",
+      "options": [
+        "Yogur",
+        "Berenjena",
+        "Garbanzos",
+        "Queso feta"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El tzatziki se suele preparar con yogur escurrido de leche de oveja o cabra mezclado con pepinos salados, ajo, sal y aceite de oliva."
+    },
+    {
+      "category": "animales",
+      "question": "¿Qué característica física única distingue al grupo de animales conocido como monotremas de todos los demás mamíferos?",
+      "options": [
+        "Poseen tres corazones",
+        " ponen huevos en lugar de dar a luz crías vivas",
+        "No tienen columna vertebral",
+        "Son completamente acuáticos"
+      ],
+      "answer_index": 1,
+      "fun_fact": "El ornitorrinco y el equidna son las únicas especies vivas de monotremas que quedan en la Tierra."
+    },
+    {
+      "category": "deportes",
+      "question": "¿Cuántos jugadores hay en el campo por un solo equipo de fútbol en un partido reglamentario estándar?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La regla de los 11 jugadores por equipo ha sido una norma estándar del fútbol establecida por la International Football Association Board desde el siglo XIX."
+    },
+    {
+      "category": "lenguaje",
+      "question": "¿Qué término lingüístico se utiliza para describir palabras como 'hola' y 'ola' (o 'vaca' y 'baca') que suenan idénticas pero tienen diferentes significados y grafías?",
+      "options": [
+        "Antónimos",
+        "Homófonos",
+        "Sinónimos",
+        "Homónimos"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Aunque todos los homófonos comparten la misma pronunciación, pueden tener la misma ortografía (homógrafos) o diferente ortografía (heterógrafos)."
+    },
+    {
+      "category": "espacio",
+      "question": "¿Qué planeta de nuestro sistema solar presenta la Gran Mancha Oscura, un sistema de tormentas masivo comparable en tamaño a la Tierra?",
+      "options": [
+        "Neptuno",
+        "Urano",
+        "Júpiter",
+        "Saturno"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Descubierta por primera vez por la sonda espacial Voyager 2 en 1989, más tarde se observó que la Gran Mancha Oscura de Neptuno había desaparecido por completo al ser vista por el telescopio espacial Hubble en 1994."
+    },
+    {
+      "category": "geografía",
+      "question": "La región autónoma de Groenlandia es un territorio de ultramar perteneciente a ¿qué país europeo?",
+      "options": [
+        "Suecia",
+        "Islandia",
+        "Noruega",
+        "Dinamarca"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A pesar de formar parte geográfica del continente norteamericano, Groenlandia ha mantenido profundos lazos políticos y culturales con el Reino de Dinamarca durante siglos."
+    }
+  ]
+}

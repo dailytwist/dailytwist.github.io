@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-19",
+  "title": "Daily General Knowledge Trivia: October 19, 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Which Scandinavian country shares its entire eastern land border with Sweden?",
+      "options": [
+        "Denmark",
+        "Iceland",
+        "Finland",
+        "Norway"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Norway shares a 1,619-kilometer-long border with Sweden, making it the longest land border in Europe west of Russia."
+    },
+    {
+      "category": "science",
+      "question": "What is the powerhouse of the cell responsible for generating most of the chemical energy needed to power biochemical reactions?",
+      "options": [
+        "Endoplasmic reticulum",
+        "Mitochondrion",
+        "Ribosome",
+        "Golgi apparatus"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Mitochondria possess their own independent DNA that is separate from the nuclear DNA of the cell."
+    },
+    {
+      "category": "history",
+      "question": "The Magna Carta was signed and sealed by King John in which year?",
+      "options": [
+        "1776",
+        "1215",
+        "1492",
+        "1066"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Although only three original clauses of the Magna Carta remain valid in English law today, it laid the foundational principles for modern constitutional governance."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Which classic 1941 animated Disney film features a young circus elephant with unusually large ears who learns to fly?",
+      "options": [
+        "Fantasia",
+        "Dumbo",
+        "Pinocchio",
+        "Bambi"
+      ],
+      "answer_index": 1,
+      "fun_fact": "At just 64 minutes long, Dumbo is one of the shortest feature-length films in Disney's animation history."
+    },
+    {
+      "category": "food",
+      "question": "What is the primary ingredient in the traditional Greek dip known as tzatziki?",
+      "options": [
+        "Yogurt",
+        "Eggplant",
+        "Chickpeas",
+        "Feta cheese"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Tzatziki is typically made using strained sheep or goat milk yogurt mixed with salted cucumbers, garlic, salt, and olive oil."
+    },
+    {
+      "category": "animals",
+      "question": "What unique physical characteristic distinguishes the animal group known as monotremes from all other mammals?",
+      "options": [
+        "They possess three hearts",
+        "They lay eggs instead of giving birth to live young",
+        "They do not have backbones",
+        "They are completely aquatic"
+      ],
+      "answer_index": 1,
+      "fun_fact": "The platypus and the echidna are the only surviving species of monotremes left on Earth."
+    },
+    {
+      "category": "sports",
+      "question": "How many players are on the field for a single association football (soccer) team during a standard regulation match?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ],
+      "answer_index": 1,
+      "fun_fact": "The 11-player rule per team has been a standard regulation of association football established by the International Football Association Board since the 19th century."
+    },
+    {
+      "category": "language",
+      "question": "What linguistic term is used to describe words like 'night' and 'knight' that sound identical but have different meanings and spellings?",
+      "options": [
+        "Antonyms",
+        "Homophones",
+        "Synonyms",
+        "Homonyms"
+      ],
+      "answer_index": 1,
+      "fun_fact": "While all homophones share the same pronunciation, they can either share the same spelling (homographs) or have different spellings (heterographs)."
+    },
+    {
+      "category": "space",
+      "question": "Which planet in our solar system features the Great Dark Spot, a massive storm system comparable in size to Earth?",
+      "options": [
+        "Neptune",
+        "Uranus",
+        "Jupiter",
+        "Saturn"
+      ],
+      "answer_index": 0,
+      "fun_fact": "First discovered by the Voyager 2 spacecraft in 1989, Neptune's Great Dark Spot was later observed to have completely vanished when viewed by the Hubble Space Telescope in 1994."
+    },
+    {
+      "category": "geography",
+      "question": "The autonomous region of Greenland is an overseas territory belonging to which European country?",
+      "options": [
+        "Sweden",
+        "Iceland",
+        "Norway",
+        "Denmark"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Despite being geographically part of the North American continent, Greenland has maintained deep political and cultural ties to the Kingdom of Denmark for centuries."
+    }
+  ]
+}

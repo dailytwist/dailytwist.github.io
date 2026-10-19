@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-19",
+  "title": "Tägliches Allgemeinwissen-Quiz: 19. Oktober 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Welches skandinavische Land teilt seine gesamte östliche Landgrenze mit Schweden?",
+      "options": [
+        "Dänemark",
+        "Island",
+        "Finnland",
+        "Norwegen"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Norwegen teilt eine 1.619 Kilometer lange Grenze mit Schweden, womit dies die längste Landgrenze Europas westlich von Russland ist."
+    },
+    {
+      "category": "science",
+      "question": "Wie heißt das Kraftwerk der Zelle, das für die Bereitstellung des Großteils der chemischen Energie verantwortlich ist, die für biochemische Reaktionen benötigt wird?",
+      "options": [
+        "Endoplasmatisches Retikulum",
+        "Mitochondrium",
+        "Ribosom",
+        "Golgi-Apparat"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Mitochondrien besitzen eine eigene, vom nukleären DNA der Zelle unabhängige DNA."
+    },
+    {
+      "category": "history",
+      "question": "In welchem Jahr wurde die Magna Carta von König Johann unterzeichnet und besiegelt?",
+      "options": [
+        "1776",
+        "1215",
+        "1492",
+        "1066"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Obwohl heute nur noch drei ursprüngliche Klauseln der Magna Carta im englischen Recht Gültigkeit besitzen, legte sie die Grundprinzipien für die moderne konstitutionelle Regierung fest."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "In welchem klassischen Disney-Zeichentrickfilm aus dem Jahr 1941 lernt ein junger Zirkuselefant mit ungewöhnlich großen Ohren das Fliegen?",
+      "options": [
+        "Fantasia",
+        "Dumbo",
+        "Pinocchio",
+        "Bambi"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Mit gerade einmal 64 Minuten Laufzeit ist Dumbo einer der kürzesten animierten Spielfilme in der Geschichte von Disney."
+    },
+    {
+      "category": "food",
+      "question": "Was ist die Hauptzutat des traditionellen griechischen Dips namens Tzatziki?",
+      "options": [
+        "Joghurt",
+        "Auberginen",
+        "Kichererbsen",
+        "Feta-Käse"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Tzatziki wird klassischerweise aus abgetropftem Schaf- oder Ziegenmilchjoghurt, vermischt mit gesalzenen Gurken, Knoblauch, Salz und Olivenöl, zubereitet."
+    },
+    {
+      "category": "animals",
+      "question": "Welches einzigartige körperliche Merkmal unterscheidet die Tiergruppe der Kloakentiere von allen anderen Säugetieren?",
+      "options": [
+        "Sie besitzen drei Herzen",
+        "Sie legen Eier, anstatt lebend zu gebären",
+        "Sie haben keine Wirbelsäule",
+        "Sie leben komplett im Wasser"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Das Schnabeltier und der Ameisenigel sind die einzigen auf der Erde noch überlebenden Arten von Kloakentieren."
+    },
+    {
+      "category": "sports",
+      "question": "Wie viele Spieler stehen bei einem regulären Fußballspiel für eine einzelne Mannschaft auf dem Feld?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Die Regel mit 11 Spielern pro Mannschaft ist eine vom International Football Association Board im 19. Jahrhundert festgelegte Standardbestimmung des Fußballsports."
+    },
+    {
+      "category": "language",
+      "question": "Welcher sprachwissenschaftliche Begriff wird für Wörter wie „Nacht“ und „neid“ (oder im Englischen „night“ und „knight“) verwendet, die gleich klingen, aber unterschiedliche Bedeutungen und Schreibweisen haben?",
+      "options": [
+        "Antonyme",
+        "Homophone",
+        "Synonyme",
+        "Homonyme"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Während alle Homophone dieselbe Aussprache besitzen, können sie entweder gleich geschrieben werden (Homographen) oder eine unterschiedliche Schreibweise aufweisen (Heterographen)."
+    },
+    {
+      "category": "space",
+      "question": "Welcher Planet in unserem Sonnensystem weist den Großen Dunklen Fleck auf, ein massives Sturmsystem von der Größe der Erde?",
+      "options": [
+        "Neptun",
+        "Uranus",
+        "Jupiter",
+        "Saturn"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Der Große Dunkle Fleck des Neptun wurde 1994 vom Hubble-Weltraumteleskop beobachtet und hatte sich zu diesem Zeitpunkt, nachdem er 1989 erstmals von der Raumsonde Voyager 2 entdeckt worden war, völlig aufgelöst."
+    },
+    {
+      "category": "geography",
+      "question": "Zu welchem europäischen Land gehört die autonome Region Grönland als Überseegebiet?",
+      "options": [
+        "Schweden",
+        "Island",
+        "Norwegen",
+        "Dänemark"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Obwohl Grönland geografisch zum nordamerikanischen Kontinent gehört, pflegt es seit Jahrhunderten enge politische und kulturelle Bindungen zum Königreich Dänemark."
+    }
+  ]
+}

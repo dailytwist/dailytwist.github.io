@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-19",
+  "title": "Trivia Quotidiana di Cultura Generale: 19 Ottobre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Quale paese scandinavo condivide l'intero confine terrestre orientale con la Svezia?",
+      "options": [
+        "Danimarca",
+        "Islanda",
+        "Finlandia",
+        "Norvegia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La Norvegia condivide con la Svezia un confine lungo 1.619 chilometri, il che lo rende il confine terrestre più lungo d'Europa a ovest della Russia."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è la centrale energetica della cellula responsabile della generazione della maggior parte dell'energia chimica necessaria per alimentare le reazioni biochimiche?",
+      "options": [
+        "Reticolo endoplasmatico",
+        "Mitocondrio",
+        "Ribosoma",
+        "Apparato di Golgi"
+      ],
+      "answer_index": 1,
+      "fun_fact": "I mitocondri possiedono un proprio DNA indipendente che è separato dal DNA nucleare della cellula."
+    },
+    {
+      "category": "storia",
+      "question": "In quale anno la Magna Carta fu firmata e sigillata da Re Giovanni?",
+      "options": [
+        "1776",
+        "1215",
+        "1492",
+        "1066"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Sebbene oggi solo tre clausole originali della Magna Carta rimangano valide nel diritto inglese, essa ha posto i principi fondamentali per la governance costituzionale moderna."
+    },
+    {
+      "category": "cinema e pop culture",
+      "question": "Quale classico film d'animazione Disney del 1941 ha per protagonista un giovane elefante da circo con orecchie insolitamente grandi che impara a volare?",
+      "options": [
+        "Fantasia",
+        "Dumbo",
+        "Pinocchio",
+        "Bambi"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Con una durata di soli 64 minuti, Dumbo è uno dei lungometraggi più brevi nella storia dell'animazione Disney."
+    },
+    {
+      "category": "cibo",
+      "question": "Qual è l'ingrediente principale della tradizionale salsa greca nota come tzatziki?",
+      "options": [
+        "Yogurt",
+        "Melanzane",
+        "Ceci",
+        "Formaggio feta"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Lo tzatziki è tipicamente preparato utilizzando yogurt colato di latte di pecora o di capra mescolato con cetrioli salati, aglio, sale e olio d'oliva."
+    },
+    {
+      "category": "animali",
+      "question": "Quale caratteristica fisica unica distingue il gruppo animale noto come monotremi da tutti gli altri mammiferi?",
+      "options": [
+        "Possiedono tre cuori",
+        "Depongono uova anziché dare alla luce piccoli vivi",
+        "Non hanno la spina dorsale",
+        "Sono completamente acquatici"
+      ],
+      "answer_index": 1,
+      "fun_fact": "L'ornitorinco e l'echidna sono le uniche specie sopravvissute di monotremi rimaste sulla Terra."
+    },
+    {
+      "category": "sport",
+      "question": "Quanti giocatori sono in campo per una singola squadra di calcio durante una partita di normale regolamento?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La regola degli 11 giocatori per squadra è un regolamento standard del calcio stabilito dall'International Football Association Board fin dal XIX secolo."
+    },
+    {
+      "category": "lingua",
+      "question": "Quale termine linguistico viene usato per descrivere parole come 'notte' e 'gnomo' (in inglese 'night' e 'knight') che suonano identiche ma hanno significati e ortografie differenti?",
+      "options": [
+        "Antonimi",
+        "Omofoni",
+        "Sinonimi",
+        "Omonimi"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Mentre tutti gli omofoni condividono la stessa pronuncia, possono anche condividere la stessa ortografia (omografi) o avere ortografie diverse (eterografi)."
+    },
+    {
+      "category": "spazio",
+      "question": "Quale pianeta del nostro sistema solare presenta la Grande Macchia Scura, un massiccio sistema di tempeste paragonabile per dimensioni alla Terra?",
+      "options": [
+        "Nettuno",
+        "Urano",
+        "Giove",
+        "Saturno"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Scoperta per la prima volta dalla sonda spaziale Voyager 2 nel 1989, la Grande Macchia Scura di Nettuno è stata successivamente osservata completamente svanita se vista dal Telescopio Spaziale Hubble nel 1994."
+    },
+    {
+      "category": "geografia",
+      "question": "La regione autonoma della Groenlandia è un territorio d'oltremare appartenente a quale paese europeo?",
+      "options": [
+        "Svezia",
+        "Islanda",
+        "Norvegia",
+        "Danimarca"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Nonostante faccia geograficamente parte del continente nordamericano, la Groenlandia ha mantenuto profondi legami politici e culturali con il Regno di Danimarca per secoli."
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-19",
+  "signs": {
+    "aries": {
+      "overview": "El lunes llega con una explosión de energía fogosa que prácticamente te pide a gritos que empieces algo completamente nuevo antes de que tu café de la mañana se haya enfriado, Aries. Aunque tu impulso natural es lanzarte de cabeza a cada uno de los desafíos en tu radar, hoy te pide que canalices ese impulso magnífico con un poco de estrategia divertida. Piensa en ti menos como un piloto de demolición y más como una mente maestra planeando un atraco fabuloso. Tu entusiasmo es totalmente contagioso, así que úsalo para reunir a tus personas favoritas en torno a un proyecto grupal ridículo y alegre. Las estrellas se están alineando para hacer que tus ensoñaciones diurnas más audaces sean notablemente productivas, siempre y cuando recuerdes estirar y respirar entre tus destellos de brillantez absoluta.",
+      "love": "Los cumplidos espontáneos y las bromas coquetas reavivarán al instante cualquier pereza persistente del fin de semana. Los carneros solteros deben mantener los ojos abiertos para encontrar a alguien que esté a la altura de su ingenio vertiginoso.",
+      "career": "Toma la iniciativa en esa sesión de lluvia de ideas intimidante, porque tus ideas audaces dejarán a todos boquiabiertos. Solo recuerda dejar que tus compañeros de trabajo terminen sus frases también.",
+      "wellness": "Cambia tu bebida energética de la tarde por una caminata rápida al aire libre de diez minutos para despejar tu mente acelerada.",
+      "lucky_number": 7,
+      "lucky_color": "carmesí",
+      "mood": "imparable"
+    },
+    "taurus": {
+      "overview": "Te estás concediendo oficialmente permiso para moverte a tu propio ritmo gloriosamente sin prisas hoy, Tauro. Mientras el resto del mundo sale corriendo de la línea de salida, tú estás ocupado curando la estética acogedora definitiva y disfrutando de los placeres táctiles de un lento lunes por la mañana. Esto no es pereza; es cuidado personal de alto nivel y sabiduría terca. Apóyate en tu legendario aprecio por la comodidad actualizando tu espacio de trabajo con una vela de olor fabuloso o tu lista de reproducción favorita en bucle. Por la tarde, tu perspectiva realista se convertirá en el ancla que todos los demás están buscando desesperadamente. Confía en tu instinto y mantente fiel a tus convicciones deliciosamente terrenales.",
+      "love": "Los caprichos culinarios compartidos y los mimos profundos y prolongados en el sofá hablarán más alto que la poesía esta noche. El romance prospera cuando las cosas se sienten maravillosamente seguras y predecibles.",
+      "career": "Lento y seguro se gana la carrera, así que ignora el ritmo frenético de tus colegas y concéntrate en la perfección absoluta. La calidad es tu sello distintivo.",
+      "wellness": "Date el gusto de una lujosa rutina de cuidado de la piel de diez pasos o un baño largo y tibio para restablecer por completo tu sistema nervioso.",
+      "lucky_number": 14,
+      "lucky_color": "salvia",
+      "mood": "sereno"
+    },
+    "gemini": {
+      "overview": "Tu mente es una brillante mesa de ping-pong hoy, Géminis, rebotando rápidamente entre tres proyectos creativos diferentes, una docena de mensajes de texto sin leer y planes para las aventuras del próximo fin de semana. Abraza el caos porque tu encanto conversacional está actualmente al máximo voltaje, convirtiéndote en la estrella absoluta de cada chat grupal y discusión junto al dispensador de agua. No te preocupes por intentar concentrarte en una sola tarea aburrida; en su lugar, deja que tu curiosidad natural te lleve por los callejones sin salida de internet más fascinantes. Solo asegúrate de poner un cronograma para que realmente recuerdes almorzar en medio de toda tu gloria multitarea. Tu ingenio rápido es tu superpoder hoy.",
+      "love": "Las bromas juguetonas y el intercambio de notas de voz rápidas mantendrán la chispa romántica brillante y fresca. La curiosidad es tu mejor afrodisíaco en este momento.",
+      "career": "Tus excepcionales habilidades de comunicación te convierten en el puente definitivo entre diferentes departamentos hoy. La multitarea es tu patio de recreo.",
+      "wellness": "Haz una desintoxicación digital rápida cerrando la mitad de las pestañas de tu navegador y descansando tus ojos durante cinco minutos tranquilos.",
+      "lucky_number": 23,
+      "lucky_color": "amarillo",
+      "mood": "eléctrico"
+    },
+    "cancer": {
+      "overview": "Tu intuición prácticamente tararea una dulce nana hoy, Cáncer, haciéndote maravillosamente sensible a los cambiantes estados de ánimo emocionales de todos en tu órbita. Aunque puedas sentir ganas de acurrucarte dentro de tu caparazón protector favorito, el cosmos te está invitando en realidad a compartir tu magia nutritiva con el mundo exterior. Hornea algo delicioso para un vecino, envía un mensaje de control inesperado a un viejo amigo o simplemente crea un santuario de iluminación suave en tu escritorio. Tu corazón empático es un faro para cualquiera que se sienta un poco perdido en este lunes. Protege tu paz ferozmente, pero deja entrar a las personas adecuadas para compartir tu calidez.",
+      "love": "La vulnerabilidad de corazón a corazón bajo una manta acogedora los acercará a ti y a tu pareja más que nunca. Los cangrejos solteros deben confiar en sus instintos sobre una nueva perspectiva romántica.",
+      "career": "Tu inteligencia emocional tras bambalinas mantiene a flote la moral de la oficina cuando las fechas límite empiezan a cernirse. Confía por completo en tu brújula interior.",
+      "wellness": "Bebe un vaso grande de té de hierbas tibio mientras practicas una respiración abdominal profunda y de conexión a tierra.",
+      "lucky_number": 2,
+      "lucky_color": "plateado",
+      "mood": "nutricio"
+    },
+    "leo": {
+      "overview": "El universo ha desplegado una brillante alfombra roja solo para ti este lunes, Leo, y tu talento teatral natural está listo para actuar. Estás irradiando un poder estelar sin esfuerzo que atrae a admiradores y colaboradores hacia tu órbita gravitacional sin ningún esfuerzo. En lugar de huir de los focos, adéntrate en ellos y comparte tus visiones creativas más ambiciosas con el mundo. Tu generosidad contagiosa y tu cálida risa pueden transformar la reunión de lunes más tediosa en una celebración absoluta. Solo recuerda compartir los aplausos con tu elenco de apoyo, y tu día será poco menos que magnífico.",
+      "love": "Los grandes gestos románticos y los cumplidos entusiastas harán latir tu corazón con pura alegría teatral. El romance debe sentirse como una película de taquilla en este momento.",
+      "career": "Presenta tus conceptos más audaces y creativos con absoluta confianza, porque la sala te está comiendo en la mano. Adueñate de tu brillantez.",
+      "wellness": "Adopta una pose de poder frente al espejo durante treinta segundos para aumentar al instante tu confianza, que ya de por sí es estelar.",
+      "lucky_number": 19,
+      "lucky_color": "dorado",
+      "mood": "radiante"
+    },
+    "virgo": {
+      "overview": "Tu organizador interior está bailando feliz hoy, Virgo, al mirar un horario desordenado y transformarlo instantáneamente en una obra de arte. El lunes es tu día absolutamente favorito para ordenar alfabéticamente tus prioridades, codificar por colores tu calendario y tachar tareas con inmensa satisfacción. Mientras otros tropiezan con su somnolencia matutina, tú ya vas tres pasos por delante y llevas las riendas con firmeza. Solo asegúrate de canalizar tu legendaria atención al detalle hacia la autocompasión en lugar de la crítica minuciosa. La perfección es un mito, pero tu capacidad hoy es innegablemente legendaria.",
+      "love": "Los actos de servicio, como llevarle a tu persona favorita su pedido exacto de café, dicen mucho sobre tu profundo afecto. Mantén la comunicación clara y práctica.",
+      "career": "Tu planificación meticulosa salva al equipo de un descuido masivo, lo que te hace ganar asentimientos silenciosos de profundo respeto. La eficiencia es tu segundo nombre.",
+      "wellness": "Organiza el espacio físico de tu escritorio para crear instantáneamente una sensación de claridad mental y calma.",
+      "lucky_number": 5,
+      "lucky_color": "azul marino",
+      "mood": "enfocado"
+    },
+    "libra": {
+      "overview": "Eres el embajador indiscutible de la armonía estética hoy, Libra, deslizándote a través de tu lunes con gracia, encanto y un gusto impecable. El cosmos destaca tu capacidad natural para unir a facciones en guerra, convirtiéndote en el mediador definitivo en cualquier dinámica de grupo. Pasa un tiempo extra curando tu estilo personal esta mañana, porque lucir fabuloso alimenta directamente tu brillante energía social. Ya sea que estés diseñando una presentación elegante o planeando una tarde encantadora con amigos, tu ojo para la belleza transforma todo lo que toca. Deja que tu indecisión se desvanezca simplemente eligiendo el camino más alegre disponible.",
+      "love": "Las bromas coquetas y un toque de romance hacen que tu corazón se sienta como si flotara en una nube. Las asociaciones prosperan bajo tu toque diplomático.",
+      "career": "Las sesiones de lluvia de ideas colaborativas producen resultados magníficos cuando guías la dirección estética del equipo. La armonía es tu producto final definitivo.",
+      "wellness": "Equilibra tu energía practicando suaves estiramientos de yoga que abran tu pecho y hombros.",
+      "lucky_number": 33,
+      "lucky_color": "rosa",
+      "mood": "armonioso"
+    },
+    "scorpio": {
+      "overview": "Tu intuición afilada como un láser opera a un nivel de élite hoy, Escorpio, lo que te permite leer entre líneas y detectar oportunidades ocultas que todos los demás pasan completamente por alto. El lunes trae una ola de intensa concentración que te ayuda a cortar el ruido del lugar de trabajo e ir directo al meollo del asunto. Aunque normalmente prefieres guardarte tus cartas, compartir un secreto vulnerable con un confidente de confianza podría traer un alivio inesperado. Abraza tu encanto misterioso y deja que tu pasión magnética guíe tus decisiones. Estás jugando al ajedrez mientras todos los demás juegan a las damas.",
+      "love": "La intensidad magnética y el contacto visual profundo dirán todo lo que las palabras no pueden expresar. Ríndete a la deliciosa profundidad de la intimidad emocional.",
+      "career": "Sumérgete profundamente en la investigación compleja o en tareas de resolución de problemas porque tu mente investigadora descubrirá oro puro. Los secretos están seguros contigo.",
+      "wellness": "Toma unos momentos para la meditación silenciosa en una habitación tenue para recargar tu batería profundamente intuitiva.",
+      "lucky_number": 8,
+      "lucky_color": "burdeos",
+      "mood": "magnético"
+    },
+    "sagittarius": {
+      "overview": "Agarra tu pasaporte metafórico porque tu alma aventurera se muere por liberarse de la rutina este lunes, Sagitario. Incluso si estás atrapado en un escritorio, tu mente deambula por horizontes globales, tramando tu próxima escapada épica o inscribiéndote en una clase totalmente fuera de lo común. Tu optimismo sin límites es contagioso, transformando tareas mundanas en grandes experimentos filosóficos. No dejes que los detalles insignuyentes ralenticen tu visión general; en su lugar, inspira a tus compañeros con tu entusiasmo contagioso por el futuro. La vida es una gran aventura y tú estás liderando la expedición con una sonrisa.",
+      "love": "Las risas espontáneas, las bromas juguetonas y la planificación de futuros viajes juntos mantendrán tu romance ligero y emocionante. La aventura os espera a ambos.",
+      "career": "Piensa en grande y presenta esas ideas salvajes y poco convencionales que asustan a los demás. Tu optimismo abre puertas en lugares inesperados.",
+      "wellness": "Sal a caminar a paso ligero al aire libre para satisfacer tu anhelo de espacios abiertos.",
+      "lucky_number": 11,
+      "lucky_color": "turquesa",
+      "mood": "aventurero"
+    },
+    "capricorn": {
+      "overview": "Tu ambición es una fuerza de absoluta naturaleza hoy, Capricornio, impulsándote a escalar montañas profesionales mientras todos los demás siguen presionando el botón de repetición. El lunes es tu plataforma de lanzamiento para lograr objetivos a largo plazo, y tienes la disciplina, la estrategia y la resistencia para hacer que la magia suceda. Aunque por naturaleza te inclines a llevar el peso del mundo sobre tus hombros robustos, recuerda que delegar también es un superpoder. Siente orgullo de tu excepcional ética de trabajo, pero prométete una recompensa fabulosa cuando la jornada laboral finalmente termine. Estás construyendo un imperio, un ladrillo sólido a la vez.",
+      "love": "La fiabilidad y la devoción constante son tus lenguajes del amor hoy, haciendo que tu pareja se sienta completamente querida. Las acciones hablan mucho más alto que las palabras dulces.",
+      "career": "Tu visión estratégica y tu estilo de liderazgo sin rodejos impresionan a los altos cargos de manera importante. Sigue subiendo hacia esa cumbre.",
+      "wellness": "Haz algunos estiramientos específicos de cuello y hombros para liberar la tensión física de cargar con tanta ambición.",
+      "lucky_number": 4,
+      "lucky_color": "carbón",
+      "mood": "ambicioso"
+    },
+    "aquarius": {
+      "overview": "Tu cerebro brillantemente excéntrico está cocinando ideas futuristas que están a años luz de la conversación actual, Acuario. El lunes te invita a apoyarte fuertemente en tu rebelde interior y proponer el tipo de soluciones poco convencionales que hacen que los tradicionalistas se rasquen la cabeza con asombro. Prosperas cuando formas parte de un esfuerzo comunitario, así que reúne a tus raros y visionarios favoritos para abordar un proyecto de pasión colaborativo. No te preocupes por encajar en una pequeña caja ordenada hoy; tu singularidad es tu activo más grande absoluto. Abraza lo raro y observa cómo se desarrolla la magia.",
+      "love": "La estimulación intelectual y los profundos debates filosóficos nocturnos son tu idea del romance definitivo. Encuentra a alguien que ame tu cerebro extraño.",
+      "career": "Introduce una solución tecnológica innovadora o un flujo de trabajo nuevo y peculiar que revolucione por completo el día de tu equipo. Sé un visionario orgulloso.",
+      "wellness": "Dale un respiro a tu brillante mente escuchando un paisaje sonoro ambiental o una lista de reproducción instrumental.",
+      "lucky_number": 17,
+      "lucky_color": "azul eléctrico",
+      "mood": "innovador"
+    },
+    "pisces": {
+      "overview": "Estás nadando en un océano magnífico de ensoñaciones e inspiración artística este lunes, Piscis, convirtiendo el mundo mundano en una acuarela viva. Tu empatía está por las nubes, convirtiéndote en un santuario para cualquiera que necesite un hombro amable en el que apoyarse. Canaliza esta energía de ensueño en escritura creativa, música o simplemente diseñando un oasis pacífico en tu sala de estar. Aunque es fácil flotar hacia las nubes, intenta mantener un ancla tocando el fondo del mar para poder cumplir con tu lista de tareas diarias. Confía en tu intuición mágica por encima de todo.",
+      "love": "Los tiernos devaneos románticos y los gestos suaves y poéticos harán que tu corazón se derrita en un charco de puro afecto. El romance es una forma de arte en este momento.",
+      "career": "Deja que tu intuición artística guíe tus proyectos creativos, ya que tu imaginación fuera de lo común resuelve problemas con pura gracia. La belleza salva el día.",
+      "wellness": "Escucha tu lista de reproducción relajante favorita mientras cierras los ojos para una escapada mental restauradora.",
+      "lucky_number": 9,
+      "lucky_color": "lavanda",
+      "mood": "soñador"
+    }
+  }
+}

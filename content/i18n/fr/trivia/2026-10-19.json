@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-19",
+  "title": "Quiz de culture générale du jour : 19 octobre 2026",
+  "questions": [
+    {
+      "category": "géographie",
+      "question": "Quel pays scandinave partage toute sa frontière terrestre orientale avec la Suède ?",
+      "options": [
+        "Danemark",
+        "Islande",
+        "Finlande",
+        "Norvège"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La Norvège partage une frontière de 1 619 kilomètres avec la Suède, ce qui en fait la plus longue frontière terrestre d'Europe à l'ouest de la Russie."
+    },
+    {
+      "category": "science",
+      "question": "Quelle est la centrale énergétique de la cellule, responsable de la production de la majeure partie de l'énergie chimique nécessaire aux réactions biochimiques ?",
+      "options": [
+        "Réticulum endoplasmique",
+        "Mitochondrie",
+        "Ribosome",
+        "Appareil de Golgi"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Les mitochondries possèdent leur propre ADN indépendant, distinct de l'ADN nucléaire de la cellule."
+    },
+    {
+      "category": "histoire",
+      "question": "En quelle année la Magna Carta a-t-elle été signée et scellée par le roi Jean ?",
+      "options": [
+        "1776",
+        "1215",
+        "1492",
+        "1066"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Bien que seuls trois articles originaux de la Magna Carta restent en vigueur en droit anglais aujourd'hui, elle a posé les principes fondateurs de la gouvernance constitutionnelle moderne."
+    },
+    {
+      "category": "cinéma et pop culture",
+      "question": "Quel film d'animation classique de Disney de 1941 met en scène un jeune éléphant de cirque aux oreilles inhabituellement grandes qui apprend à voler ?",
+      "options": [
+        "Fantasia",
+        "Dumbo",
+        "Pinocchio",
+        "Bambi"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Avec une durée de seulement 64 minutes, Dumbo est l'un des longs métrages les plus courts de l'histoire de l'animation Disney."
+    },
+    {
+      "category": "gastronomie",
+      "question": "Quel est l'ingrédient principal de la fameuse sauce grecque appelée tzatziki ?",
+      "options": [
+        "Yaourt",
+        "Aubergine",
+        "Pois chiches",
+        "Feta"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le tzatziki est traditionnellement préparé avec du yaourt de brebis ou de chèvre égoutté, mélangé à des concombres salés, de l'ail, du sel et de l'huile d'olive."
+    },
+    {
+      "category": "animaux",
+      "question": "Quelle caractéristique physique unique distingue le groupe d'animaux connu sous le nom de monotrèmes de tous les autres mammifères ?",
+      "options": [
+        "Ils possèdent trois cœurs",
+        "Ils pondent des œufs au lieu de mettre bas des petits vivants",
+        "Ils n'ont pas de colonne vertébrale",
+        "Ils sont entièrement aquatiques"
+      ],
+      "answer_index": 1,
+      "fun_fact": "L'ornithorynque et l'échidné sont les seules espèces survivantes de monotrèmes sur Terre."
+    },
+    {
+      "category": "sport",
+      "question": "Combien de joueurs se trouvent sur le terrain pour une seule équipe de football lors d'un match de compétition standard ?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La règle des 11 joueurs par équipe est une norme du football établie par l'International Football Association Board depuis le XIXe siècle."
+    },
+    {
+      "category": "langue",
+      "question": "Quel terme linguistique utilise-t-on pour désigner des mots comme 'verre', 'vers' et 'vert' qui se prononcent de la même manière mais ont des sens et des orthographes différents ?",
+      "options": [
+        "Antonymes",
+        "Homophones",
+        "Synonymes",
+        "Homonymes"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Si tous les homophones partagent la même prononciation, ils peuvent soit s'écrire de la même façon (homographes), soit avoir des orthographes différentes (hétérographes)."
+    },
+    {
+      "category": "espace",
+      "question": "Quelle planète de notre système solaire présente la Grande Tache sombre, un système tempétueux massif comparable en taille à la Terre ?",
+      "options": [
+        "Neptune",
+        "Uranus",
+        "Jupiter",
+        "Saturne"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Découverte pour la première fois par la sonde Voyager 2 en 1989, la Grande Tache sombre de Neptune a ensuite été observée comme ayant complètement disparu par le télescope spatial Hubble en 1994."
+    },
+    {
+      "category": "géographie",
+      "question": "La région autonome du Groenland est un territoire d'outre-mer appartenant à quel pays européen ?",
+      "options": [
+        "Suède",
+        "Islande",
+        "Norvège",
+        "Danemark"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Bien qu'il fasse géographiquement partie du continent nord-américain, le Groenland entretient de profonds liens politiques et culturels avec le Royaume du Danemark depuis des siècles."
+    }
+  ]
+}
