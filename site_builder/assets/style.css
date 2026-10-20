@@ -501,3 +501,29 @@ nav a{display:inline-flex;align-items:center;gap:5px}
 .pair-heart{font-size:2rem;color:#e0245e;animation:beat 1.2s infinite}
 .cc-ring.big{margin-top:10px}
 .center{text-align:center}
+/* ---- chinese / numerology / moon / word search */
+.finder.red{background:linear-gradient(135deg,#b91c1c,#f77f00)}
+.finder.teal{background:linear-gradient(135deg,#0f766e,#22c1c3)}
+.finder .small{margin:0;color:rgba(255,255,255,.85)}
+.aemo{display:inline-grid;place-items:center;border-radius:50%;background:radial-gradient(circle at 35% 30%,#fff3d6,#f5c76b);box-shadow:0 0 0 2px #f5d98b,0 8px 18px rgba(185,28,28,.25);line-height:1}
+.ngrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(100px,1fr));gap:10px}
+.ncard{display:grid;justify-items:center;gap:2px;background:var(--paper);border:1px solid var(--line);border-radius:18px;padding:12px 6px;color:var(--ink);text-align:center}
+.ncard:hover{text-decoration:none;border-color:#0f766e}
+.ncard b{font:800 2rem var(--display);color:#0f766e}.ncard small{color:var(--muted);font-size:.78rem}
+.bignum{display:inline-grid;place-items:center;width:130px;height:130px;border-radius:50%;background:linear-gradient(135deg,#0f766e,#22c1c3);color:#fff;font:800 4rem var(--display);box-shadow:0 12px 30px rgba(15,118,110,.35)}
+.bignum.sm{width:84px;height:84px;font-size:2.6rem;flex:none}
+.mchip.num b{display:inline-grid;place-items:center;width:28px;height:28px;border-radius:50%;background:#0f766e;color:#fff}
+.moonpage{max-width:640px}
+.moon{text-align:center;background:radial-gradient(circle at 50% 20%,#2a2547,#0d0b1f);color:#fff;border-radius:24px;padding:22px 14px}
+.moon svg{filter:drop-shadow(0 0 30px rgba(255,240,180,.35))}
+.moon h2{color:#f5d98b;margin:.3em 0 .1em}.moon .lead{color:#e6e1f7}
+.moon .facts div{background:rgba(255,255,255,.08);border-color:rgba(255,255,255,.12);color:#fff}
+.moon .facts small{color:#c9c2e6}
+.ws-theme{text-align:center;font-size:1.1rem;margin:4px 0}
+.ws-board{display:grid;grid-template-columns:repeat(10,1fr);gap:3px;width:min(100%,460px);margin:0 auto;padding:8px;border-radius:18px;background:var(--paper);border:1px solid var(--line);touch-action:none;user-select:none;-webkit-user-select:none}
+.ws-cell{aspect-ratio:1;display:grid;place-items:center;border-radius:8px;font-weight:800;font-size:clamp(.9rem,4.2vw,1.3rem);color:var(--ink);cursor:pointer;transition:background .1s}
+.ws-cell.found{background:color-mix(in srgb,var(--c) 30%,transparent);color:color-mix(in srgb,var(--c) 70%,var(--ink))}
+.ws-cell.sel{background:var(--accent);color:#fff;transform:scale(1.06)}
+.ws-list{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:14px auto 0;max-width:460px}
+.ws-list span{background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:4px 12px;font-weight:700}
+.ws-list span.done{text-decoration:line-through;opacity:.5}

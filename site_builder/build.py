@@ -80,6 +80,9 @@ def lang_data(lang):
         "articles": sorted(load(base / "articles"), key=lambda x: (x["date"], x["title"]), reverse=True),
         "guides": {g["sign"]: g for g in load(base / "signs") if g.get("sign") in SIGN_KEYS},
         "pairs": {x["slug"]: x for x in load(base / "pairs") if x.get("slug")},
+        "yearly": {(x["year"], x["sign"]): x for x in load(base / "yearly") if x.get("sign") in SIGN_KEYS},
+        "chinese": {x["animal"]: x for x in load(base / "chinese") if x.get("animal")},
+        "numerology": {int(x["number"]): x for x in load(base / "numerology") if x.get("number")},
     }
 
 
@@ -152,6 +155,7 @@ def cover_art(seed, category, cls="cover"):
 
 GAMES = {  # slug: (title key, desc key, how key, colors, emoji, js name, best-score storage key)
     "block-puzzle": ("game_blocks", "game_blocks_desc", "how_blocks", ("#7c5cff", "#ff5e7e"), "🟪", "blocks", "dt-blocks-best"),
+    "word-search": ("game_ws", "game_ws_desc", "how_ws", ("#2563eb", "#22c1c3"), "🔤", "wordsearch", None),
     "solitaire": ("game_solitaire", "game_solitaire_desc", "how_solitaire", ("#1f7a4f", "#3fc1c9"), "🃏", "solitaire", None),
     "chess": ("game_chess", "game_chess_desc", "how_chess", ("#5b3df5", "#1e1b2b"), "♟️", "chess", None),
     "ludo": ("game_ludo", "game_ludo_desc", "how_ludo", ("#e5484d", "#f5b301"), "🎲", "ludo", None),
@@ -162,13 +166,14 @@ GAMES = {  # slug: (title key, desc key, how key, colors, emoji, js name, best-s
     "2048": ("game_2048", "game_2048_desc", "how_2048", ("#ff8a3d", "#ffd166"), "🔢", "2048", "dt-2048-best"),
     "tictactoe": ("game_ttt", "game_ttt_desc", "how_ttt", ("#2f9e6e", "#c4e86b"), "⭕", "ttt", None),
 }
-EXTERNAL_JS = ("chess", "ludo", "blocks", "solitaire")
+WS = json.loads((HERE / "data" / "wordsearch.json").read_text(encoding="utf-8"))
+EXTERNAL_JS = ("chess", "ludo", "blocks", "solitaire", "wordsearch")
 GAME_LABELS = ["new_game", "moves", "score", "best", "you_won", "you_lost", "draw", "your_turn", "easy", "medium", "hard",
                "time", "undo", "hint", "mistakes", "start", "play_again", "game_over", "new_record", "times_up", "combo",
                "wins", "losses", "draws", "level", "level_up", "day_streak", "too_many_mistakes", "math_intro", "watch",
                "your_turn_repeat", "simon_intro", "quick", "classic", "computer_turn", "captured", "try_again",
                "thinking", "check", "your_move", "checkmate_win", "checkmate_lose",
-               "nice", "great", "amazing", "no_moves", "draw_1", "draw_3", "auto_finish"]
+               "nice", "great", "amazing", "no_moves", "draw_1", "draw_3", "auto_finish", "ws_theme", "ws_found"]
 
 
 def art(seed, c1, c2, emoji, cls="cover"):
@@ -450,10 +455,16 @@ def build_lang(lang):
         (f"{pre}/compatibility/", "💕", "compat_title", "tile_compat", "#ff5e7e", "#d36bff"),
         (f"{pre}/tarot/", "🃏", "tarot_title", "tile_tarot", "#3b2a8c", "#c084fc"),
         (f"{pre}/zodiac/", "♈", "zodiac_title", "tile_zodiac", "#b8793b", "#f5b301"),
+        (f"{pre}/chinese-zodiac/", "🐉", "chinese_title", "tile_chinese", "#d62828", "#f77f00"),
+        (f"{pre}/numerology/", "🔢", "num_title", "tile_num", "#0f766e", "#22c1c3"),
+        (f"{pre}/moon-phase/", "🌙", "moon_title", "tile_moon", "#1e1b4b", "#6366f1"),
     ]
+    yrs = sorted({y for (y, _) in D["yearly"]})
+    if yrs:
+        tiles.insert(1, (f"{pre}/horoscope-{yrs[-1]}/", "🎆", "yearly_title", "tile_yearly", "#7c3aed", "#f59e0b"))
     tiles_html = "".join(
         f'<a class="xtile" href="{u}" style="--c1:{c1};--c2:{c2}"><span class="xtile-ic">{ic}</span>'
-        f'<span class="xtile-tx"><b>{e(T(lang, k))}</b><small>{e(T(lang, d))}</small></span></a>'
+        f'<span class="xtile-tx"><b>{e(T(lang, k, year=yrs[-1] if yrs else ""))}</b><small>{e(T(lang, d))}</small></span></a>'
         for u, ic, k, d, c1, c2 in tiles)
     strip = "".join(
         f'<a class="sg" href="{pre}/horoscope/{s}/" data-sign="{s}">{sign_art(s, 50)}<b>{e(sign_name(lang, s))}</b></a>'
@@ -661,6 +672,7 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
   <p class="lead">{e(T(lang, desc))}</p>
   {profile_box(lang)}
   <div id="game" data-game="{js}"></div>
+  {f'<script type="application/json" id="ws-data">{json.dumps(WS.get(lang, WS["en"]), ensure_ascii=False)}</script>' if js == "wordsearch" else ""}
   <details class="howto"><summary>{e(T(lang, 'how_to_play'))}</summary><p>{e(T(lang, how))}</p></details>
 </article>
 <section><h2>✨ {e(T(lang, 'more_fun'))}</h2>{games_grid(lang, [g for g in GAMES if g != slug])}</section>
@@ -759,6 +771,131 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
   <div class="chips">{sign_link(a)}{sign_link(b) if b != a else ''}</div>
 </article>"""
         add(lang, f"compatibility/{slug}/", x["title"], x["summary"], body, priority="0.7")
+
+    # yearly horoscope
+    Y = D["yearly"]
+    for year in sorted({y for (y, _) in Y}):
+        have = [s for s in SIGNS if (year, s) in Y]
+        cards = "".join(f'<a class="zcard" href="{pre}/horoscope-{year}/{s}/"><img src="/assets/signs/{s}.webp" alt="" width="160" height="160" loading="lazy">'
+                        f'<b>{SIGNS[s][0]} {e(sign_name(lang, s))}</b><small>{e(Y[(year, s)]["theme"])}</small></a>' for s in have)
+        add(lang, f"horoscope-{year}/", T(lang, "yearly_title", year=year), T(lang, "yearly_desc", year=year),
+            f'<section class="zhub"><p class="kicker">🎆 {year}</p><h1>{e(T(lang, "yearly_title", year=year))}</h1>'
+            f'<p class="lead">{e(T(lang, "yearly_desc", year=year))}</p><div class="zgrid">{cards}</div></section>', priority="0.9")
+        for s in have:
+            x = Y[(year, s)]
+            li = "".join(f"<li>{e(t)}</li>" for t in x.get("tips", []))
+            body = f"""
+<article class="guide">
+  <img class="sign-hero" src="/assets/signs/{s}-tall.webp" width="512" height="768" alt="{e(sign_name(lang, s))}">
+  <p class="kicker">🎆 {year} · {SIGNS[s][0]} {e(sign_name(lang, s))}</p>
+  <h1>{e(x['title'])}</h1>
+  <p class="lead">{e(x['summary'])}</p>
+  <div class="facts"><div><span>✨</span><small>{e(T(lang, 'theme_year'))}</small><b>{e(x['theme'])}</b></div>
+  <div><span>🍀</span><small>{e(T(lang, 'best_months'))}</small><b>{e(', '.join(map(str, x['best_months'])))}</b></div></div>
+  <h2>❤️ {e(T(lang, 'love'))}</h2><p>{e(x['love'])}</p>
+  <h2>💼 {e(T(lang, 'career'))}</h2><p>{e(x['career'])}</p>
+  <h2>💰 {e(T(lang, 'money'))}</h2><p>{e(x['money'])}</p>
+  <h2>🌿 {e(T(lang, 'wellness'))}</h2><p>{e(x['wellness'])}</p>
+  <h2>💡 {e(T(lang, 'yearly_tips'))}</h2><ul>{li}</ul>
+  <p class="small muted">{e(T(lang, 'entertainment_only'))}</p>
+  <div class="chips">{"".join(f'<a class="mchip" href="{pre}/horoscope-{year}/{o}/">{sign_art(o, 28)} {e(sign_name(lang, o))}</a>' for o in have if o != s)}</div>
+</article>"""
+            add(lang, f"horoscope-{year}/{s}/", x["title"], x["summary"], body, priority="0.8")
+
+    # chinese zodiac
+    CZ = D["chinese"]
+    ANIMALS = ["rat", "ox", "tiger", "rabbit", "dragon", "snake", "horse", "goat", "monkey", "rooster", "dog", "pig"]
+    AEMO = dict(zip(ANIMALS, "🐀 🐂 🐅 🐇 🐉 🐍 🐎 🐐 🐒 🐓 🐕 🐖".split()))
+    def animal_art(a, size=110):
+        if (HERE / "assets" / "chinese" / f"{a}.webp").exists():
+            return f'<img class="medal pic" src="/assets/chinese/{a}.webp" width="{size}" height="{size}" alt="" loading="lazy">'
+        return f'<span class="aemo" style="width:{size}px;height:{size}px;font-size:{size * .55:.0f}px">{AEMO[a]}</span>'
+    acards = "".join(f'<a class="zcard" href="{pre}/chinese-zodiac/{a}/" data-animal="{a}">{animal_art(a)}<b>{e(T(lang, "an_" + a))}</b>'
+                     f'<small>{", ".join(str(y) for y in range(1936 + ANIMALS.index(a), 2032, 12)[-4:])}</small></a>' for a in ANIMALS)
+    cny = json.loads((HERE / "data" / "cny.json").read_text())
+    add(lang, "chinese-zodiac/", T(lang, "chinese_title"), T(lang, "chinese_desc"), f"""
+<section class="zhub">
+  <p class="kicker">🐉 {e(T(lang, 'chinese_title'))}</p><h1>{e(T(lang, 'chinese_title'))}</h1>
+  <p class="lead">{e(T(lang, 'chinese_desc'))}</p>
+  <div class="finder red" id="cfinder">
+    <h2>🔍 {e(T(lang, 'chinese_finder'))}</h2>
+    <label>{e(T(lang, 'birth_date'))}<input type="date" name="bd" value="2000-06-15" min="1924-02-05" max="2032-01-30"></label>
+    <button class="btn">{e(T(lang, 'find_sign'))}</button>
+    <div class="finder-out" aria-live="polite"></div>
+  </div>
+  <div class="zgrid">{acards}</div>
+</section>
+<script type="application/json" id="cfinder-data">{json.dumps({"cny": cny, "a": ANIMALS, "emo": AEMO, "n": {a: T(lang, "an_" + a) for a in ANIMALS}, "pre": pre, "you": T(lang, "you_are_animal"), "has": sorted(CZ)}, ensure_ascii=False).replace("</", "<\\/")}</script>
+<script src="/assets/chinese.js" defer></script>""", priority="0.9")
+    for a, x in CZ.items():
+        li = lambda xs: "".join(f"<li>{e(str(t))}</li>" for t in xs)
+        faq = x.get("faq", [])
+        body = f"""
+<article class="guide">
+  <div class="pair-head">{animal_art(a, 140)}</div>
+  <p class="kicker">🐉 {e(T(lang, 'chinese_title'))} · {e(T(lang, 'an_' + a))}</p>
+  <h1>{e(x['title'])}</h1>
+  <p class="lead">{e(x['intro'])}</p>
+  <div class="facts"><div><span>📅</span><small>{e(T(lang, 'years_label'))}</small><b>{e(', '.join(str(y) for y in x.get('years', [])))}</b></div>
+  <div><span>🎨</span><small>{e(T(lang, 'lucky_colors'))}</small><b>{e(', '.join(map(str, x['lucky_colors'])))}</b></div>
+  <div><span>🍀</span><small>{e(T(lang, 'lucky_numbers'))}</small><b>{e(str(x['lucky_numbers']))}</b></div></div>
+  <h2>✨ {e(T(lang, 'personality'))}</h2><p>{e(x['personality'])}</p>
+  <div class="sw"><div><h3>💪 {e(T(lang, 'strengths'))}</h3><ul>{li(x['strengths'])}</ul></div><div><h3>⚠️ {e(T(lang, 'weaknesses'))}</h3><ul>{li(x['weaknesses'])}</ul></div></div>
+  <h2>❤️ {e(T(lang, 'love'))}</h2><p>{e(x['love'])}</p>
+  <h2>💼 {e(T(lang, 'career'))}</h2><p>{e(x['career'])}</p>
+  <h2>💞 {e(T(lang, 'best_matches'))}</h2><div class="chips">{"".join(f'<a class="mchip" href="{pre}/chinese-zodiac/{m}/">{AEMO[m]} {e(T(lang, "an_" + m))}</a>' for m in x.get('best_matches', []) if m in AEMO)}</div>
+  {f'<h2>❓ {e(T(lang, "faq_title"))}</h2>' + "".join(f"<details class='faq'><summary>{e(q['q'])}</summary><p>{e(q['ans'])}</p></details>" for q in faq) if faq else ''}
+  <a class="btn" href="{pre}/chinese-zodiac/">🔍 {e(T(lang, 'chinese_finder'))}</a>
+  <p class="small muted">{e(T(lang, 'entertainment_only'))}</p>
+</article>"""
+        schema = {"@context": "https://schema.org", "@type": "FAQPage", "inLanguage": lang,
+                  "mainEntity": [{"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["ans"]}} for q in faq]} if faq else None
+        add(lang, f"chinese-zodiac/{a}/", x["title"], x["intro"], body, schema, priority="0.8")
+
+    # numerology
+    NU = D["numerology"]
+    if NU:
+        ncards = "".join(f'<a class="ncard" href="{pre}/numerology/{n}/"><b>{n}</b><small>{e(NU[n]["name"])}</small></a>' for n in sorted(NU))
+        add(lang, "numerology/", T(lang, "num_title"), T(lang, "num_desc"), f"""
+<section class="zhub">
+  <p class="kicker">🔢 {e(T(lang, 'num_title'))}</p><h1>{e(T(lang, 'num_title'))}</h1>
+  <p class="lead">{e(T(lang, 'num_desc'))}</p>
+  <div class="finder teal" id="nfinder">
+    <label>{e(T(lang, 'birth_date'))}<input type="date" name="bd" value="1995-07-14"></label>
+    <button class="btn">{e(T(lang, 'num_calc'))}</button>
+    <div class="finder-out" aria-live="polite"></div>
+    <p class="small">{e(T(lang, 'num_how'))}</p>
+  </div>
+  <div class="ngrid">{ncards}</div>
+</section>
+<script type="application/json" id="nfinder-data">{json.dumps({"pre": pre, "res": T(lang, "num_result"), "names": {n: NU[n]["name"] for n in NU}, "read": T(lang, "compat_open")}, ensure_ascii=False).replace("</", "<\\/")}</script>
+<script src="/assets/numerology.js" defer></script>""", priority="0.8")
+        for n, x in NU.items():
+            li = lambda xs: "".join(f"<li>{e(t)}</li>" for t in xs)
+            add(lang, f"numerology/{n}/", x["title"], x["intro"], f"""
+<article class="guide">
+  <div class="pair-head"><span class="bignum">{n}</span></div>
+  <p class="kicker">🔢 {e(T(lang, 'num_title'))}</p><h1>{e(x['title'])}</h1>
+  <p class="lead">{e(x['intro'])}</p>
+  <div class="sw"><div><h3>💪 {e(T(lang, 'strengths'))}</h3><ul>{li(x['strengths'])}</ul></div><div><h3>⚠️ {e(T(lang, 'weaknesses'))}</h3><ul>{li(x['weaknesses'])}</ul></div></div>
+  <h2>❤️ {e(T(lang, 'love'))}</h2><p>{e(x['love'])}</p>
+  <h2>💼 {e(T(lang, 'career'))}</h2><p>{e(x['career'])}</p>
+  <a class="btn" href="{pre}/numerology/">🔢 {e(T(lang, 'num_calc'))}</a>
+  <p class="small muted">{e(T(lang, 'entertainment_only'))}</p>
+  <div class="chips">{"".join(f'<a class="mchip num" href="{pre}/numerology/{m}/"><b>{m}</b> {e(NU[m]["name"])}</a>' for m in sorted(NU) if m != n)}</div>
+</article>""", priority="0.7")
+
+    # moon phase
+    mdata = {"p": [T(lang, f"moon_p{i}") for i in range(8)], "m": [T(lang, f"moon_m{i}") for i in range(8)], "lang": lang,
+             "l": {k: T(lang, k) for k in ("moon_illum", "moon_next_full", "moon_next_new", "moon_age", "days")}}
+    add(lang, "moon-phase/", T(lang, "moon_title"), T(lang, "moon_desc"), f"""
+<section class="moonpage">
+  <p class="kicker">🌙 {e(T(lang, 'moon_title'))}</p><h1>{e(T(lang, 'moon_title'))}</h1>
+  <p class="lead">{e(T(lang, 'moon_desc'))}</p>
+  <div id="moon" class="moon"></div>
+</section>
+<script type="application/json" id="moon-data">{json.dumps(mdata, ensure_ascii=False).replace("</", "<\\/")}</script>
+<script src="/assets/moon.js" defer></script>""", priority="0.8")
 
     # love compatibility
     sj = lambda o: json.dumps(o, ensure_ascii=False).replace("</", "<\\/")

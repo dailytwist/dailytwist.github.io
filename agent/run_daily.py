@@ -277,7 +277,7 @@ LANG_NAMES = {"en": "English", "es": "Spanish", "fr": "French", "de": "German", 
               "sv": "Swedish", "zh": "Simplified Chinese", "vi": "Vietnamese", "th": "Thai", "uk": "Ukrainian"}
 UI_EN = json.loads((ROOT / "site_builder" / "ui_en.json").read_text(encoding="utf-8"))
 I18N = CONTENT / "i18n"
-KEEP = {"slug", "date", "topic", "trending", "answer_index", "lucky_number", "category", "sign", "best", "hard", "a", "b", "score"}
+KEEP = {"slug", "date", "topic", "trending", "answer_index", "lucky_number", "category", "sign", "best", "hard", "a", "b", "score", "year", "animal", "number", "years"}
 
 
 def _keep(k, d) -> bool:
@@ -357,7 +357,7 @@ def ensure_ui(lang: str) -> None:
 
 def translate_content(lang: str, budget: list, today: dt.date) -> None:
     jobs = []
-    for kind in ("horoscopes", "trivia", "articles", "signs", "pairs"):
+    for kind in ("horoscopes", "trivia", "articles", "signs", "pairs", "yearly", "chinese", "numerology"):
         for f in (CONTENT / kind).glob("*.json"):
             if not (I18N / lang / kind / f.name).exists():
                 jobs.append((kind, f))
@@ -404,6 +404,44 @@ Format: {{"title": "{a.title()} and {b.title()} Compatibility: Love, Friendship 
                  {"date": str(day), "slug": f"{a}-{b}", "a": a, "b": b, **{k: data[k] for k in need}})
 
 
+def make_yearly(day: dt.date, count: int) -> None:
+    """Next-year forecast per sign, written from October on, a few per run."""
+    year = day.year + 1 if day.month >= 10 else day.year
+    todo = [s for s in SIGNS if not (CONTENT / "yearly" / f"{year}-{s}.json").exists()]
+    for s in todo[:count]:
+        print(f"- yearly {year} {s}")
+        data = ask_json(f"""Write the {year} yearly horoscope for {s.title()} for an entertainment website.
+Warm, specific, optimistic but honest, second person. Use classic astrology ideas (ruling planet, element) loosely.
+No medical, legal, financial or gambling advice.
+Format: {{"title": "{s.title()} Horoscope {year}: Love, Career, Money & Luck", "summary": "2-3 sentences",
+"love": "100-130 words", "career": "100-130 words", "money": "60-90 words (general habits only)", "wellness": "60-90 words (light lifestyle tips)",
+"best_months": ["3 month names"], "theme": "a 2-4 word theme for the year", "tips": ["3 short tips"]}}""", max_tokens=3000)
+        need = ("title", "summary", "love", "career", "money", "wellness", "best_months", "theme", "tips")
+        if all(k in data for k in need):
+            save(CONTENT / "yearly" / f"{year}-{s}.json", {"date": str(day), "year": year, "sign": s, **{k: data[k] for k in need}})
+
+
+CHINESE = ["rat", "ox", "tiger", "rabbit", "dragon", "snake", "horse", "goat", "monkey", "rooster", "dog", "pig"]
+
+
+def make_chinese(day: dt.date, count: int) -> None:
+    todo = [a for a in CHINESE if not (CONTENT / "chinese" / f"{a}.json").exists()]
+    for a in todo[:count]:
+        years = [y for y in range(1936, 2032) if (y - 1936) % 12 == CHINESE.index(a)]
+        print(f"- chinese zodiac {a}")
+        data = ask_json(f"""Write an evergreen guide to the Chinese zodiac animal {a.title()} for an entertainment website.
+Accurate to traditional Chinese astrology, warm and specific. Years: {years}.
+Format: {{"title": "Year of the {a.title()}: Personality, Love, Career & Compatibility", "intro": "2-3 sentences",
+"personality": "110-150 words", "love": "70-100 words", "career": "60-90 words",
+"strengths": ["5 short items"], "weaknesses": ["4 short items"], "lucky_colors": ["2-3 colors"], "lucky_numbers": "e.g. 2 and 3",
+"best_matches": ["3 animal names in English, lowercase"], "faq": [{{"q": "question", "ans": "short answer"}}, 3 items]}}""", max_tokens=3000)
+        need = ("title", "intro", "personality", "love", "career", "strengths", "weaknesses", "lucky_colors", "lucky_numbers", "best_matches", "faq")
+        if all(k in data for k in need):
+            data["best_matches"] = [m for m in (str(x).lower() for x in data["best_matches"]) if m in CHINESE][:3]
+            data["faq"] = [{"q": str(x.get("q", "")), "ans": str(x.get("ans", ""))} for x in data["faq"] if isinstance(x, dict)][:4]
+            save(CONTENT / "chinese" / f"{a}.json", {"date": str(day), "animal": a, "years": years, **{k: data[k] for k in need}})
+
+
 # ---------------------------------------------------------------- main
 def main() -> None:
     ap = argparse.ArgumentParser()
@@ -417,7 +455,8 @@ def main() -> None:
         jobs += [(make_horoscopes, (d,)), (make_trivia, (d,)), (make_articles, (d, [], 2))]
     jobs += [(make_horoscopes, (today,)), (make_trivia, (today,)),
              (make_articles, (today, trending_topics(CONFIG["trends_geo"]), CONFIG["articles_per_day"])),
-             (make_pairs, (today, CONFIG.get("pairs_per_day", 6)))]
+             (make_pairs, (today, CONFIG.get("pairs_per_day", 6))),
+             (make_yearly, (today, 6)), (make_chinese, (today, 6))]
     errors = 0
     for fn, a in jobs:
         try:
