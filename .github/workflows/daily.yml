@@ -64,6 +64,16 @@ jobs:
       - id: deploy
         uses: actions/deploy-pages@v4
 
+      - name: Tell search engines about new pages (IndexNow)
+        continue-on-error: true
+        run: |
+          sleep 60
+          git config user.name "dailytwist-bot"
+          git config user.email "bot@users.noreply.github.com"
+          python agent/indexnow.py
+          git add content/indexnow_sent.json
+          if ! git diff --cached --quiet; then git commit -m "IndexNow $(date -u +%F)"; git pull --rebase origin main; git push; fi
+
       - name: Post today's highlights to Telegram
         if: github.event_name != 'push'
         env:
