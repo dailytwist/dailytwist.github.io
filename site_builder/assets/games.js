@@ -47,9 +47,23 @@
     var b = el('div', 'toast', msg); document.body.appendChild(b);
     setTimeout(function () { b.classList.add('out'); }, 1600); setTimeout(function () { b.remove(); }, 2100);
   }
+  var BADGES = [['b_first', '🥇', function (p) { return p.plays >= 1; }], ['b_10', '🎮', function (p) { return p.plays >= 10; }],
+    ['b_50', '🏆', function (p) { return p.plays >= 50; }], ['b_s3', '🔥', function (p) { return p.streak >= 3; }],
+    ['b_s7', '🌟', function (p) { return p.streak >= 7; }], ['b_s30', '👑', function (p) { return p.streak >= 30; }],
+    ['b_l5', '⭐', function (p) { return level(p.xp) >= 5; }], ['b_l10', '💎', function (p) { return level(p.xp) >= 10; }]];
+  function checkBadges() {
+    profile.badges = profile.badges || [];
+    BADGES.forEach(function (b, i) {
+      if (profile.badges.indexOf(b[0]) < 0 && b[2](profile)) {
+        profile.badges.push(b[0]); set('dt-profile', profile);
+        setTimeout(function () { toast(b[1] + ' ' + t('badge_new') + ': ' + t(b[0])); fanfare(); }, 1800 + i * 300);
+      }
+    });
+  }
   function addXP(n) {
     n = Math.max(1, Math.round(n));
-    var before = level(profile.xp); profile.xp += n; set('dt-profile', profile);
+    profile.plays = (profile.plays || 0) + 1;
+    var before = level(profile.xp); profile.xp += n; set('dt-profile', profile); checkBadges();
     toast('+' + n + ' XP');
     if (level(profile.xp) > before) setTimeout(function () { toast('⭐ ' + t('level_up', { n: level(profile.xp) })); fanfare(); }, 900);
     renderProfile();
@@ -58,11 +72,12 @@
     document.querySelectorAll('[data-profile]').forEach(function (box) {
       var lv = level(profile.xp), lo = (lv - 1) * (lv - 1) * 40, hi = lv * lv * 40;
       box.innerHTML = '<div class="pf-item"><b>⭐ ' + t('level') + ' ' + lv + '</b><div class="xpbar"><span style="width:' + Math.round(100 * (profile.xp - lo) / (hi - lo)) + '%"></span></div><small>' + profile.xp + ' / ' + hi + ' XP</small></div>' +
-        '<div class="pf-item"><b>🔥 ' + profile.streak + '</b><small>' + t('day_streak') + '</small></div>';
+        '<div class="pf-item"><b>🔥 ' + profile.streak + '</b><small>' + t('day_streak') + '</small></div>' +
+        '<div class="pf-badges" title="' + t('badges') + '">' + BADGES.map(function (b) { var on = (profile.badges || []).indexOf(b[0]) > -1; return '<span class="' + (on ? 'on' : '') + '" title="' + t(b[0]) + '">' + b[1] + '</span>'; }).join('') + '</div>';
     });
     document.querySelectorAll('[data-best]').forEach(function (b) { var v = get(b.dataset.best, null); b.textContent = v === null ? '' : t('best') + ': ' + v; });
   }
-  renderProfile();
+  checkBadges(); renderProfile();
   if (!root) return;
 
   function bar(items) {

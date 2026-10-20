@@ -527,3 +527,14 @@ nav a{display:inline-flex;align-items:center;gap:5px}
 .ws-list{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:14px auto 0;max-width:460px}
 .ws-list span{background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:4px 12px;font-weight:700}
 .ws-list span.done{text-decoration:line-through;opacity:.5}
+.pf-badges{flex:1 1 100%;display:flex;flex-wrap:wrap;gap:6px;justify-content:center;padding-top:4px}
+.pf-badges span{font-size:1.3rem;filter:grayscale(1);opacity:.3}
+.pf-badges span.on{filter:none;opacity:1;animation:popIn .4s}
+/* ---- mahjong */
+.mj{position:relative;width:100%;max-width:600px;margin:6px auto 0;border-radius:18px;background:radial-gradient(circle at 50% 30%,#2f6b4f,#163d2c);overflow:hidden;user-select:none}
+.mt{position:absolute;padding:0;border:0;border-radius:7px;background:linear-gradient(160deg,#fffdf5,#efe6cf);box-shadow:3px 3px 0 #c9b98f,4px 4px 0 #8a7a55,0 6px 10px rgba(0,0,0,.35);display:grid;place-items:center;cursor:pointer;line-height:1;filter:brightness(.82)}
+.mt.free{filter:none}
+.mt.on{background:linear-gradient(160deg,#fff4b8,#ffd166);transform:translateY(-3px)}
+.mt.hint{animation:mjHint .4s 3}
+.mt.shake{animation:shake .35s}
+@keyframes mjHint{50%{background:#b8f5c8}}

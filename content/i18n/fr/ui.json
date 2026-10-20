@@ -439,5 +439,21 @@
   "an_monkey": "Singe",
   "an_rooster": "Coq",
   "an_dog": "Chien",
-  "an_pig": "Cochon"
+  "an_pig": "Cochon",
+  "game_mj": "Mahjong",
+  "game_mj_desc": "Le grand classique relaxant d'association de tuiles. Trouvez les paires de tuiles libres et videz le plateau.",
+  "how_mj": "Touchez deux tuiles identiques pour les retirer. Une tuile ne peut être prise que si rien n'est posé dessus et que son côté gauche ou droit est libre. Utilisez l'indice si vous bloquez, ou Mélanger s'il n'y a plus de coups. Chaque donne peut être résolue.",
+  "mj_pairs": "Paires restantes",
+  "mj_shuffle": "Mélanger",
+  "mj_stuck": "Plus de coups — touchez Mélanger",
+  "badges": "Badges",
+  "badge_new": "Nouveau badge",
+  "b_first": "Première partie",
+  "b_10": "10 parties",
+  "b_50": "50 parties",
+  "b_s3": "3 jours de suite",
+  "b_s7": "7 jours de suite",
+  "b_s30": "30 jours de suite",
+  "b_l5": "Niveau 5",
+  "b_l10": "Niveau 10"
 }

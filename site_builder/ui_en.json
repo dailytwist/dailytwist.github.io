@@ -439,5 +439,21 @@
   "an_monkey": "Monkey",
   "an_rooster": "Rooster",
   "an_dog": "Dog",
-  "an_pig": "Pig"
+  "an_pig": "Pig",
+  "game_mj": "Mahjong",
+  "game_mj_desc": "The relaxing tile-matching classic. Find pairs of free tiles and clear the board.",
+  "how_mj": "Tap two identical tiles to remove them. A tile can only be picked if nothing is on top of it and its left or right side is free. Use Hint if you're stuck, or Shuffle when there are no moves left. Every deal can be solved.",
+  "mj_pairs": "Pairs left",
+  "mj_shuffle": "Shuffle",
+  "mj_stuck": "No moves left — tap Shuffle",
+  "badges": "Badges",
+  "badge_new": "New badge",
+  "b_first": "First game",
+  "b_10": "10 games",
+  "b_50": "50 games",
+  "b_s3": "3-day streak",
+  "b_s7": "7-day streak",
+  "b_s30": "30-day streak",
+  "b_l5": "Level 5",
+  "b_l10": "Level 10"
 }

@@ -155,6 +155,7 @@ def cover_art(seed, category, cls="cover"):
 
 GAMES = {  # slug: (title key, desc key, how key, colors, emoji, js name, best-score storage key)
     "block-puzzle": ("game_blocks", "game_blocks_desc", "how_blocks", ("#7c5cff", "#ff5e7e"), "🟪", "blocks", "dt-blocks-best"),
+    "mahjong": ("game_mj", "game_mj_desc", "how_mj", ("#2f6b4f", "#c9b98f"), "🀄", "mahjong", None),
     "word-search": ("game_ws", "game_ws_desc", "how_ws", ("#2563eb", "#22c1c3"), "🔤", "wordsearch", None),
     "solitaire": ("game_solitaire", "game_solitaire_desc", "how_solitaire", ("#1f7a4f", "#3fc1c9"), "🃏", "solitaire", None),
     "chess": ("game_chess", "game_chess_desc", "how_chess", ("#5b3df5", "#1e1b2b"), "♟️", "chess", None),
@@ -167,13 +168,14 @@ GAMES = {  # slug: (title key, desc key, how key, colors, emoji, js name, best-s
     "tictactoe": ("game_ttt", "game_ttt_desc", "how_ttt", ("#2f9e6e", "#c4e86b"), "⭕", "ttt", None),
 }
 WS = json.loads((HERE / "data" / "wordsearch.json").read_text(encoding="utf-8"))
-EXTERNAL_JS = ("chess", "ludo", "blocks", "solitaire", "wordsearch")
+EXTERNAL_JS = ("chess", "ludo", "blocks", "solitaire", "wordsearch", "mahjong")
 GAME_LABELS = ["new_game", "moves", "score", "best", "you_won", "you_lost", "draw", "your_turn", "easy", "medium", "hard",
                "time", "undo", "hint", "mistakes", "start", "play_again", "game_over", "new_record", "times_up", "combo",
                "wins", "losses", "draws", "level", "level_up", "day_streak", "too_many_mistakes", "math_intro", "watch",
                "your_turn_repeat", "simon_intro", "quick", "classic", "computer_turn", "captured", "try_again",
                "thinking", "check", "your_move", "checkmate_win", "checkmate_lose",
-               "nice", "great", "amazing", "no_moves", "draw_1", "draw_3", "auto_finish", "ws_theme", "ws_found"]
+               "nice", "great", "amazing", "no_moves", "draw_1", "draw_3", "auto_finish", "ws_theme", "ws_found", "mj_pairs", "mj_shuffle", "mj_stuck", "badges", "badge_new",
+               "b_first", "b_10", "b_50", "b_s3", "b_s7", "b_s30", "b_l5", "b_l10"]
 
 
 def art(seed, c1, c2, emoji, cls="cover"):
