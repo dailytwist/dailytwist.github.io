@@ -466,3 +466,5 @@ nav a{display:inline-flex;align-items:center;gap:5px}
 .tarot-out h2{color:#f5d98b;margin:.2em 0}
 .tarot-out .lead{color:#fff}
 .tarot-out .muted{color:#c9c2e6}
+.medal.pic{border-radius:50%;object-fit:cover;box-shadow:0 0 0 2px rgba(245,217,139,.7),0 4px 12px rgba(59,42,140,.35)}
+.sign-hero{display:block;width:100%;max-width:420px;height:auto;max-height:420px;object-fit:cover;object-position:center 30%;margin:0 auto 16px;border-radius:24px;box-shadow:0 16px 40px rgba(59,42,140,.35)}

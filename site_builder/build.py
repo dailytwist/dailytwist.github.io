@@ -122,6 +122,9 @@ def rng(seed):
 
 # ---------------------------------------------------------------- original illustrations (inline SVG)
 def sign_art(sign, size=64):
+    if (HERE / "assets" / "signs" / f"{sign}.webp").exists():  # painted artwork when we have it
+        return (f'<img class="medal pic" src="/assets/signs/{sign}.webp" width="{size}" height="{size}" '
+                f'alt="" loading="lazy" decoding="async">')
     glyph, element, _, _ = SIGNS[sign]
     c1, c2 = ELEMENT_COLORS[element]
     r = rng(sign)
@@ -516,6 +519,7 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
             others = "".join(f'<a href="{pre}/horoscope/{o}/">{SIGNS[o][0]} {e(sign_name(lang, o))}</a>' for o in SIGNS if o != s)
             body = f"""
 <article class="reading">
+  {f'<img class="sign-hero" src="/assets/signs/{s}-tall.webp" width="512" height="768" alt="{e(sign_name(lang, s))}">' if (HERE / "assets" / "signs" / f"{s}-tall.webp").exists() else ""}
   <div class="reading-head">{sign_art(s, 96)}<div>
     <p class="kicker">{e(fdate(lang, latest_h["date"]))} · {e(sign_range(lang, s))}</p>
     <h1>{e(T(lang, 'horoscope_today', sign=sign_name(lang, s)))}</h1></div></div>
