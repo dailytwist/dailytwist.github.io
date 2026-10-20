@@ -538,3 +538,26 @@ nav a{display:inline-flex;align-items:center;gap:5px}
 .mt.hint{animation:mjHint .4s 3}
 .mt.shake{animation:shake .35s}
 @keyframes mjHint{50%{background:#b8f5c8}}
+/* ---- fun tools */
+.lc input{width:100%;padding:12px 10px;border-radius:14px;border:0;font:600 1rem var(--text);background:#fff;color:#1e1b2b}
+.finder.orange{background:linear-gradient(135deg,#ea580c,#facc15)}
+.bday-out .facts a{background:rgba(255,255,255,.95);border:1px solid var(--line);border-radius:16px;padding:10px 12px;display:grid;color:#1e1b2b}
+.bday-out .facts div{background:rgba(255,255,255,.95);color:#1e1b2b}
+.bday-out .facts small{color:#6c6878}
+.bday-party{font-size:1.4rem;font-weight:800;text-align:center;margin:4px 0}
+.pquiz{background:var(--paper);border:1px solid var(--line);border-radius:24px;padding:18px;text-align:center;min-height:200px;display:grid;align-content:center}
+.pq-start{justify-self:center;font-size:1.1rem}
+.pq-bar{height:8px;border-radius:99px;background:var(--line);overflow:hidden}
+.pq-bar i{display:block;height:100%;background:linear-gradient(90deg,#7c3aed,#ec4899);transition:width .3s}
+.pq-opts{display:grid;gap:10px;margin-top:10px}
+.pq-opt{padding:14px;border-radius:16px;border:1.5px solid var(--line);background:var(--bg);font:600 1rem var(--text);color:var(--ink);cursor:pointer;transition:transform .12s}
+.pq-opt:hover{border-color:#7c3aed}
+.pq-opt.on{background:linear-gradient(135deg,#7c3aed,#ec4899);color:#fff;transform:scale(.98)}
+.pq-img{border-radius:50%;box-shadow:0 0 0 3px #f5d98b,0 10px 24px rgba(124,58,237,.35);margin:6px auto;display:block}
+.lovemsg{background:var(--paper);border:1px solid var(--line);border-radius:24px;padding:16px;text-align:center}
+.lm-signs{display:flex;flex-wrap:wrap;justify-content:center;gap:2px}
+.lm-signs .mchip{cursor:pointer;font:600 .9rem var(--text)}
+.lm-signs .mchip.on{border-color:#db2777;background:#fde7f1;color:#1e1b2b}
+.lovemsg canvas{width:100%;max-width:440px;border-radius:20px;margin:14px auto 8px;display:block;box-shadow:0 14px 34px rgba(219,39,119,.3)}
+.lovemsg canvas[hidden],.lm-actions[hidden]{display:none}
+.lm-actions{display:flex;gap:8px;justify-content:center;flex-wrap:wrap}

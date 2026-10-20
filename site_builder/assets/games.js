@@ -254,9 +254,9 @@
 
   // ---------------------------------------------------------------- sudoku
   function sudoku() {
-    var diff = get('dt-sdk-diff', 'easy'), HOLES = { easy: 36, medium: 46, hard: 53 };
+    var diff = get('dt-sdk-diff', 'daily'), HOLES = { easy: 36, medium: 46, hard: 53, daily: 46 };
     var tm = stat(t('time')), ms = stat(t('mistakes')), hn = el('button', 'btn small ghost', '💡 ' + t('hint')), nb = el('button', 'btn small', t('new_game'));
-    root.append(pills(DIFF, diff, function (d) { diff = d; set('dt-sdk-diff', d); start(); }), bar([tm, ms, hn, nb]));
+    root.append(pills([['daily', '📅 ' + t('daily')]].concat(DIFF), diff, function (d) { diff = d; set('dt-sdk-diff', d); start(); }), bar([tm, ms, hn, nb]));
     var grid = el('div', 'sgrid'), pad = el('div', 'spad'); root.append(grid, pad);
     var sol, puz, cur, sel, mistakes, hints, secs, timer, cells = [];
     function ok(g, r, c, n) {
@@ -276,6 +276,14 @@
       return n;
     }
     function make() {
+      var realRandom = Math.random;
+      if (diff === 'daily') { // same puzzle for everyone today
+        var seed = Math.floor(Date.now() / 864e5) * 2654435761 >>> 0;
+        Math.random = function () { seed = (seed * 1664525 + 1013904223) >>> 0; return seed / 4294967296; };
+      }
+      try { make2(); } finally { Math.random = realRandom; }
+    }
+    function make2() {
       sol = new Array(81).fill(0); fill(sol); puz = sol.slice();
       var order = shuffle(Array.from({ length: 81 }, function (_, i) { return i; })), removed = 0;
       for (var k = 0; k < 81 && removed < HOLES[diff]; k++) {

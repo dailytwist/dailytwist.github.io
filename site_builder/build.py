@@ -175,7 +175,7 @@ GAME_LABELS = ["new_game", "moves", "score", "best", "you_won", "you_lost", "dra
                "your_turn_repeat", "simon_intro", "quick", "classic", "computer_turn", "captured", "try_again",
                "thinking", "check", "your_move", "checkmate_win", "checkmate_lose",
                "nice", "great", "amazing", "no_moves", "draw_1", "draw_3", "auto_finish", "ws_theme", "ws_found", "mj_pairs", "mj_shuffle", "mj_stuck", "badges", "badge_new",
-               "b_first", "b_10", "b_50", "b_s3", "b_s7", "b_s30", "b_l5", "b_l10"]
+               "daily", "b_first", "b_10", "b_50", "b_s3", "b_s7", "b_s30", "b_l5", "b_l10"]
 
 
 def art(seed, c1, c2, emoji, cls="cover"):
@@ -459,6 +459,10 @@ def build_lang(lang):
         (f"{pre}/zodiac/", "♈", "zodiac_title", "tile_zodiac", "#b8793b", "#f5b301"),
         (f"{pre}/chinese-zodiac/", "🐉", "chinese_title", "tile_chinese", "#d62828", "#f77f00"),
         (f"{pre}/numerology/", "🔢", "num_title", "tile_num", "#0f766e", "#22c1c3"),
+        (f"{pre}/love-calculator/", "💘", "love_calc_title", "tile_lovecalc", "#e11d48", "#fb7185"),
+        (f"{pre}/zodiac-quiz/", "🧠", "pq_title", "tile_pq", "#7c3aed", "#ec4899"),
+        (f"{pre}/love-messages/", "💌", "lm_title", "tile_lm", "#db2777", "#f9a8d4"),
+        (f"{pre}/age-calculator/", "🎂", "bday_title", "tile_bday", "#ea580c", "#facc15"),
         (f"{pre}/moon-phase/", "🌙", "moon_title", "tile_moon", "#1e1b4b", "#6366f1"),
     ]
     yrs = sorted({y for (y, _) in D["yearly"]})
@@ -898,6 +902,65 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
 </section>
 <script type="application/json" id="moon-data">{json.dumps(mdata, ensure_ascii=False).replace("</", "<\\/")}</script>
 <script src="/assets/moon.js" defer></script>""", priority="0.8")
+
+    # fun tools: love calculator, birthday/age, personality quiz, love message cards
+    jd = lambda o: json.dumps(o, ensure_ascii=False).replace("</", "<\\/")
+    names = {s: sign_name(lang, s) for s in SIGNS}
+    add(lang, "love-calculator/", T(lang, "love_calc_title"), T(lang, "love_calc_desc"), f"""
+<article class="compat-page">
+  <p class="kicker">💘 {e(T(lang, 'love_calc_title'))}</p><h1>{e(T(lang, 'love_calc_title'))}</h1>
+  <p class="lead">{e(T(lang, 'love_calc_desc'))}</p>
+  <div id="lovecalc" class="compat lc">
+    <label><span>{e(T(lang, 'your_name'))}</span><input name="a" maxlength="40" autocomplete="off"></label>
+    <span class="compat-plus">❤</span>
+    <label><span>{e(T(lang, 'their_name'))}</span><input name="b" maxlength="40" autocomplete="off"></label>
+    <button class="btn compat-go">💘 {e(T(lang, 'calc_love'))}</button>
+    <div class="compat-out" aria-live="polite"></div>
+  </div>
+  <p class="small muted">{e(T(lang, 'entertainment_only'))}</p>
+</article>
+<script type="application/json" id="tools-data">{jd({"r": [T(lang, f"love_r{i}") for i in range(5)], "share": T(lang, "compat_share"), "title": T(lang, "love_calc_title")})}</script>
+<script src="/assets/tools.js" defer></script>""", priority="0.9")
+    add(lang, "age-calculator/", T(lang, "bday_title"), T(lang, "bday_desc"), f"""
+<article class="compat-page">
+  <p class="kicker">🎂 {e(T(lang, 'bday_title'))}</p><h1>{e(T(lang, 'bday_title'))}</h1>
+  <p class="lead">{e(T(lang, 'bday_desc'))}</p>
+  <div id="bday" class="finder orange"><label>{e(T(lang, 'birth_date'))}<input type="date" name="bd" value="2000-01-01"></label>
+  <button class="btn">{e(T(lang, 'bday_calc'))}</button><div class="finder-out bday-out" aria-live="polite"></div></div>
+</article>
+<script type="application/json" id="tools-data">{jd({"lang": lang, "pre": pre, "names": names, "ranges": {s: [SIGNS[s][2], SIGNS[s][3]] for s in SIGNS}, "glyph": {s: SIGNS[s][0] for s in SIGNS},
+    "cny": json.loads((HERE / "data" / "cny.json").read_text()), "animals": ["rat", "ox", "tiger", "rabbit", "dragon", "snake", "horse", "goat", "monkey", "rooster", "dog", "pig"],
+    "an": {a: T(lang, "an_" + a) for a in ["rat", "ox", "tiger", "rabbit", "dragon", "snake", "horse", "goat", "monkey", "rooster", "dog", "pig"]},
+    "l": {k: T(lang, k) for k in ("age", "age_exact", "days_lived", "next_bday", "born_on", "in_days", "today_bday", "heartbeats", "your_zodiac", "your_animal", "your_number")}})}</script>
+<script src="/assets/tools.js" defer></script>""", priority="0.9")
+    pq = {"q": [{"t": T(lang, f"pq_q{i}"), "o": [T(lang, f"pq_q{i}_{j}") for j in range(3 if i == 7 else 4)]} for i in range(8)],
+          "names": names, "pre": pre, "res": T(lang, "pq_result"), "again": T(lang, "pq_again"), "share": T(lang, "pq_share"),
+          "of": T(lang, "pq_of"), "read": T(lang, "read_guide"), "title": T(lang, "pq_title")}
+    add(lang, "zodiac-quiz/", T(lang, "pq_title"), T(lang, "pq_desc"), f"""
+<article class="compat-page">
+  <p class="kicker">🧠 {e(T(lang, 'pq_title'))}</p><h1>{e(T(lang, 'pq_title'))}</h1>
+  <p class="lead">{e(T(lang, 'pq_desc'))}</p>
+  <div id="pquiz" class="pquiz"><button class="btn pq-start">✨ {e(T(lang, 'pq_start'))}</button></div>
+  <p class="small muted">{e(T(lang, 'entertainment_only'))}</p>
+</article>
+<script type="application/json" id="tools-data">{jd(pq)}</script>
+<script src="/assets/tools.js" defer></script>""", priority="0.9")
+    lm = {"m": {s: [T(lang, f"lm_{s}_{i}") for i in range(3)] for s in SIGNS}, "names": names, "glyph": {s: SIGNS[s][0] for s in SIGNS},
+          "save": T(lang, "lm_save"), "share": T(lang, "lm_share"), "next": T(lang, "lm_next"), "rtl": lang == "ar", "site": "mydailytwist.com"}
+    add(lang, "love-messages/", T(lang, "lm_title"), T(lang, "lm_desc"), f"""
+<article class="compat-page">
+  <p class="kicker">💌 {e(T(lang, 'lm_title'))}</p><h1>{e(T(lang, 'lm_title'))}</h1>
+  <p class="lead">{e(T(lang, 'lm_desc'))}</p>
+  <div id="lovemsg" class="lovemsg">
+    <p class="muted">{e(T(lang, 'lm_pick'))}</p>
+    <div class="lm-signs">{"".join(f'<button class="mchip" data-s="{s}">{sign_art(s, 28)} {e(sign_name(lang, s))}</button>' for s in SIGNS)}</div>
+    <canvas width="1080" height="1080" hidden></canvas>
+    <div class="lm-actions" hidden><button class="btn small lm-share">📤 {e(T(lang, 'lm_share'))}</button>
+    <button class="btn small ghost lm-save">⬇ {e(T(lang, 'lm_save'))}</button><button class="btn small ghost lm-next">🔄 {e(T(lang, 'lm_next'))}</button></div>
+  </div>
+</article>
+<script type="application/json" id="tools-data">{jd(lm)}</script>
+<script src="/assets/tools.js" defer></script>""", priority="0.8")
 
     # love compatibility
     sj = lambda o: json.dumps(o, ensure_ascii=False).replace("</", "<\\/")
