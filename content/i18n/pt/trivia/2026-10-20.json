@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-20",
+  "title": "Desafio de Trivia Diário: 20 de outubro de 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Qual país da América do Sul possui a maior costa ao longo do Oceano Pacífico?",
+      "options": [
+        "Colômbia",
+        "Equador",
+        "Peru",
+        "Chile"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O Chile se estende por mais de 4.300 quilômetros de norte a sul, o que lhe confere uma faixa costeira incrivelmente longa e estreita banhada pelo Pacífico."
+    },
+    {
+      "category": "science",
+      "question": "Qual é o número atômico do elemento químico carbono?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O carbono tem o número atômico 6, o que significa que cada átomo de carbono possui seis prótons em seu núcleo."
+    },
+    {
+      "category": "history",
+      "question": "A histórica Batalha de Waterloo, que marcou a derrota final de Napoleon Bonaparte, aconteceu em que ano?",
+      "options": [
+        "1830",
+        "1815",
+        "1805",
+        "1789"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Travada em 18 de junho de 1815, a Batalha de Waterloo encerrou o reinado de Napoleão como Imperador dos Franceses."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Qual filme de ação e ficção científica de 1999 popularizou o efeito visual conhecido como 'bullet time'?",
+      "options": [
+        "The Terminator",
+        "Total Recall",
+        "The Matrix",
+        "Blade Runner"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The Matrix utilizou matrizes de câmeras inovadoras para simular cenas em câmera lenta onde era possível acompanhar as balas no ar."
+    },
+    {
+      "category": "food",
+      "question": "O gochujang é um condimento fermentado salgado, doce e picante que está profundamente enraizado na culinária de qual país?",
+      "options": [
+        "Japão",
+        "Coreia do Sul",
+        "Tailândia",
+        "Vietnã"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O gochujang tradicional é feito com pimenta em pó, arroz glutinoso, pasta de soja fermentada e sal, sendo frequentemente envelhecido ao ar livre em grandes potes de barro."
+    },
+    {
+      "category": "animals",
+      "question": "Qual é a principal fonte de alimentação de um coala?",
+      "options": [
+        "Casca de acácia",
+        "Raízes de capim",
+        "Brotos de bambu",
+        "Folhas de eucalipto"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Os coalas comem quase exclusivamente folhas de eucalipto, que são notoriamente duras, fibrosas e pobres em nutrientes."
+    },
+    {
+      "category": "sports",
+      "question": "No golfe, qual termo é usado para descrever uma pontuação de uma tacada abaixo do par em um único buraco?",
+      "options": [
+        "Albatross",
+        "Eagle",
+        "Birdie",
+        "Bogey"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Um birdie significa uma tacada abaixo do par, enquanto um eagle representa duas tacadas abaixo do par em um único buraco."
+    },
+    {
+      "category": "language",
+      "question": "Qual termo linguístico é usado para descrever uma palavra formada pelas letras iniciais de outras palavras, como 'NASA' ou 'Scuba'?",
+      "options": [
+        "Palíndromo",
+        "Acrônimo",
+        "Portmanteau",
+        "Homófono"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Um acrônimo é um tipo especial de abreviação que pode ser pronunciada como uma única palavra, em vez de simplesmente soletrar as letras individuais."
+    },
+    {
+      "category": "space",
+      "question": "Qual planeta do nosso sistema solar possui a maior lua, chamada Ganimedes?",
+      "options": [
+        "Netuno",
+        "Urano",
+        "Saturno",
+        "Júpiter"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Ganimedes não é apenas a maior lua que orbita Júpiter, mas também a maior lua de todo o sistema solar, superando até mesmo o planeta Mercúrio em tamanho."
+    },
+    {
+      "category": "history",
+      "question": "Qual civilização antiga construiu a monumental cidade de Machu Picchu no alto da Cordilheira dos Andes?",
+      "options": [
+        "Asteca",
+        "Inca",
+        "Maia",
+        "Olmeca"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Construído no século XV como uma propriedade para o imperador inca Pachacuti, Machu Picchu é famoso por sua sofisticada construção em pedra seca."
+    }
+  ]
+}

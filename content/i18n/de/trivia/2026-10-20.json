@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-20",
+  "title": "Tägliches Quiz-Duell: 20. Oktober 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches südamerikanische Land hat die längste Küstenlinie am Pazifischen Ozean?",
+      "options": [
+        "Kolumbien",
+        "Ecuador",
+        "Peru",
+        "Chile"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Chile erstreckt sich über 4.300 Kilometer von Norden nach Süden, was ihm eine unglaublich lange und schmale Küste am Pazifik beschert."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist die Ordnungszahl des chemischen Elements Kohlenstoff?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Kohlenstoff hat die Ordnungszahl 6, was bedeutet, dass jedes Kohlenstoffatom sechs Protonen in seinem Kern besitzt."
+    },
+    {
+      "category": "Geschichte",
+      "question": "In welchem Jahr fand die historische Schlacht bei Waterloo statt, die die endgültige Niederlage von Napoleon Bonaparte besiegelte?",
+      "options": [
+        "1830",
+        "1815",
+        "1805",
+        "1789"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Die am 18. Juni 1815 geschlagene Schlacht bei Waterloo beendete Napoleons Herrschaft als Kaiser der Franzosen."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Welcher Science-Fiction-Actionfilm aus dem Jahr 1999 machte den visuellen Effekt des „Bullet Time“-Effekts weltberühmt?",
+      "options": [
+        "The Terminator",
+        "Total Recall",
+        "The Matrix",
+        "Blade Runner"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The Matrix nutzte bahnbrechende Kamera-Arrays, um Zeitlupenszenen zu simulieren, in denen Kugeln in der Luft verfolgt werden konnten."
+    },
+    {
+      "category": "Essen",
+      "question": "Gochujang ist eine herzhafte, süße und scharfe fermentierte Paste, die fest in der Küche welches Landes verankert ist?",
+      "options": [
+        "Japan",
+        "Südkorea",
+        "Thailand",
+        "Vietnam"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Traditionelles Gochujang wird aus Chilipulver, Klebreis, fermentiertem Sojabohnenpulver und Salz hergestellt und reift oft in großen Tonkrügen im Freien."
+    },
+    {
+      "category": "Tiere",
+      "question": "Woraus besteht die Hauptnahrung eines Koalas?",
+      "options": [
+        "Akazienrinde",
+        "Graswurzeln",
+        "Bambusspitzen",
+        "Eukalyptusblätter"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Koalas ernähren sich fast ausschließlich von Eukalyptusblättern, die bekanntermaßen zäh, faserig und Nährstoffarm sind."
+    },
+    {
+      "category": "Sport",
+      "question": "Welcher Begriff wird im Golfsport für ein Ergebnis von einem Schlag unter Par auf einem einzelnen Loch verwendet?",
+      "options": [
+        "Albatros",
+        "Eagle",
+        "Birdie",
+        "Bogey"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Ein Birdie bedeutet einen Schlag unter Par, während ein Eagle zwei Schläge unter Par auf einem einzelnen Loch darstellt."
+    },
+    {
+      "category": "Sprache",
+      "question": "Welcher sprachliche Begriff wird für ein Wort verwendet, das aus den Anfangsbuchstaben anderer Wörter gebildet wird, wie zum Beispiel „NASA“ oder „Radar“?",
+      "options": [
+        "Palindrom",
+        "Akronym",
+        "Portmanteau",
+        "Homophon"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Ein Akronym ist eine besondere Art von Abkürzung, die als eigenständiges Wort ausgesprochen werden kann, anstatt nur die einzelnen Buchstaben aneinanderzureihen."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Planet in unserem Sonnensystem besitzt den größten Mond namens Ganymed?",
+      "options": [
+        "Neptun",
+        "Uranus",
+        "Saturn",
+        "Jupiter"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Ganymed ist nicht nur der größte Mond, der den Jupiter umkreist, sondern auch der größte Mond im gesamten Sonnensystem und übertrifft sogar den Planeten Merkur an Größe."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Welche alte Zivilisation erbaute die monumentale Stadt Machu Picchu hoch oben in den Anden?",
+      "options": [
+        "Azteken",
+        "Inka",
+        "Maya",
+        "Olmeken"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Im 15. Jahrhundert als Landsitz für den Inka-Herrscher Pachacuti erbaut, ist Machu Picchu berühmt für seine ausgeklügelte Trockensteinbauweise."
+    }
+  ]
+}

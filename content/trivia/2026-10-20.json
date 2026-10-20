@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-20",
+  "title": "Daily Trivia Challenge: October 20, 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Which South American country has the longest coastline along the Pacific Ocean?",
+      "options": [
+        "Colombia",
+        "Ecuador",
+        "Peru",
+        "Chile"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Chile stretches over 4,300 kilometers north to south, giving it a remarkably long and narrow coastline bordering the Pacific."
+    },
+    {
+      "category": "science",
+      "question": "What is the atomic number of the chemical element carbon?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Carbon has an atomic number of 6, meaning every carbon atom possesses six protons in its nucleus."
+    },
+    {
+      "category": "history",
+      "question": "The historic Battle of Waterloo, which marked the final defeat of Napoleon Bonaparte, took place in the year of what?",
+      "options": [
+        "1830",
+        "1815",
+        "1805",
+        "1789"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Fought on June 18, 1815, the Battle of Waterloo ended Napoleon's rule as Emperor of the French."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Which 1999 science fiction action film popularized the visual effect known as 'bullet time'?",
+      "options": [
+        "The Terminator",
+        "Total Recall",
+        "The Matrix",
+        "Blade Runner"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The Matrix utilized groundbreaking camera arrays to simulate slow-motion scenes where bullets could be tracked in mid-air."
+    },
+    {
+      "category": "food",
+      "question": "Gochujang is a savory, sweet, and spicy fermented condiment deeply rooted in the cuisine of which country?",
+      "options": [
+        "Japan",
+        "South Korea",
+        "Thailand",
+        "Vietnam"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Traditional gochujang is made from chili powder, glutinous rice, fermented soybean powder, and salt, often aged in large earthenware pots outdoors."
+    },
+    {
+      "category": "animals",
+      "question": "What is the primary diet of a koala?",
+      "options": [
+        "Acacia bark",
+        "Grass roots",
+        "Bamboo shoots",
+        "Eucalyptus leaves"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Koalas eat almost exclusively eucalyptus leaves, which are notoriously tough, fibrous, and low in nutrients."
+    },
+    {
+      "category": "sports",
+      "question": "In the sport of golf, what term is used for a score of one stroke under par on a single hole?",
+      "options": [
+        "Albatross",
+        "Eagle",
+        "Birdie",
+        "Bogey"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A birdie means one stroke under par, while an eagle represents two strokes under par on a single hole."
+    },
+    {
+      "category": "language",
+      "question": "What linguistic term is used to describe a word formed from the initial letters of other words, such as 'NASA' or 'Scuba'?",
+      "options": [
+        "Palindrome",
+        "Acronym",
+        "Portmanteau",
+        "Homophone"
+      ],
+      "answer_index": 1,
+      "fun_fact": "An acronym is a special type of abbreviation that can be pronounced as a single word rather than just reciting the individual letters."
+    },
+    {
+      "category": "space",
+      "question": "Which planet in our solar system possesses the largest moon, named Ganymede?",
+      "options": [
+        "Neptune",
+        "Uranus",
+        "Saturn",
+        "Jupiter"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Ganymede is not only the largest moon orbiting Jupiter, but it is also the largest moon in the entire solar system, surpassing even the planet Mercury in size."
+    },
+    {
+      "category": "history",
+      "question": "Which ancient civilization constructed the monumental city of Machu Picchu high in the Andes Mountains?",
+      "options": [
+        "Aztec",
+        "Inca",
+        "Mayan",
+        "Olmec"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Built in the 15th century as an estate for the Inca emperor Pachacuti, Machu Picchu is renowned for its sophisticated dry-stone construction."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-20",
+  "title": "Desafío de Trivia Diario: 20 de octubre de 2026",
+  "questions": [
+    {
+      "category": "geografía",
+      "question": "¿Qué país sudamericano tiene la costa más larga a lo largo del Océano Pacífico?",
+      "options": [
+        "Colombia",
+        "Ecuador",
+        "Perú",
+        "Chile"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Chile se extiende a lo largo de más de 4.300 kilómetros de norte a sur, lo que le otorga una costa notablemente larga y estrecha que limita con el Pacífico."
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Cuál es el número atómico del elemento químico carbono?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer_index": 1,
+      "fun_fact": "El carbono tiene un número atómico de 6, lo que significa que cada átomo de carbono posee seis protones en su núcleo."
+    },
+    {
+      "category": "historia",
+      "question": "La histórica Batalla de Waterloo, que marcó la derrota definitiva de Napoleón Bonaparte, tuvo lugar en el año...",
+      "options": [
+        "1830",
+        "1815",
+        "1805",
+        "1789"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Librada el 18 de junio de 1815, la Batalla de Waterloo puso fin al mandato de Napoleón como emperador de los franceses."
+    },
+    {
+      "category": "cine y cultura pop",
+      "question": "¿Qué película de acción y ciencia ficción de 1999 popularizó el efecto visual conocido como «tiempo bala»?",
+      "options": [
+        "The Terminator",
+        "Total Recall",
+        "The Matrix",
+        "Blade Runner"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The Matrix utilizó innovadores arreglos de cámaras para simular escenas en cámara lenta donde las balas podían seguirse en pleno vuelo."
+    },
+    {
+      "category": "comida",
+      "question": "El gochujang es un condimento fermentado salado, dulce y picante muy arraigado en la gastronomía de qué país?",
+      "options": [
+        "Japón",
+        "Corea del Sur",
+        "Tailandia",
+        "Vietnam"
+      ],
+      "answer_index": 1,
+      "fun_fact": "El gochujang tradicional se elabora con chile en polvo, arroz glutinoso, polvo de soja fermentada y sal, y a menudo se deja envejecer al aire libre en grandes vasijas de barro."
+    },
+    {
+      "category": "animales",
+      "question": "¿Cuál es la dieta principal de un koala?",
+      "options": [
+        "Corteza de acacia",
+        "Raíces de hierba",
+        "Brotes de bambú",
+        "Hojas de eucalipto"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Los koalas se alimentan casi exclusivamente de hojas de eucalipto, las cuales son notoriamente duras, fibrosas y bajas en nutrientes."
+    },
+    {
+      "category": "deportes",
+      "question": "En el golf, ¿qué término se utiliza para una puntuación de un golpe por debajo del par en un solo hoyo?",
+      "options": [
+        "Albatros",
+        "Eagle",
+        "Birdie",
+        "Bogey"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un birdie significa un golpe por debajo del par, mientras que un eagle representa dos golpes por debajo del par en un solo hoyo."
+    },
+    {
+      "category": "lenguaje",
+      "question": "¿Qué término lingüístico se utiliza para describir una palabra formada por las letras iniciales de otras palabras, como «OTAN» o «láser»?",
+      "options": [
+        "Palíndromo",
+        "Acrónimo",
+        "Portmanteau",
+        "Homófono"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Un acrónimo es un tipo especial de abreviatura que se puede pronunciar como una sola palabra en lugar de simplemente deletrear las letras individuales."
+    },
+    {
+      "category": "espacio",
+      "question": "¿Qué planeta de nuestro sistema solar posee la luna más grande, llamada Ganímedes?",
+      "options": [
+        "Neptuno",
+        "Urano",
+        "Saturno",
+        "Júpiter"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Ganímedes no solo es la luna más grande que orbita Júpiter, sino que también es la luna más grande de todo el sistema solar, superando incluso en tamaño al planeta Mercurio."
+    },
+    {
+      "category": "historia",
+      "question": "¿Qué antigua civilización construyó la monumental ciudad de Machu Picchu en lo alto de la cordillera de los Andes?",
+      "options": [
+        "Azteca",
+        "Inca",
+        "Maya",
+        "Olmeca"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Construido en el siglo XV como finca para el emperador inca Pachacútec, Machu Picchu es famoso por su sofisticada construcción en piedra seca."
+    }
+  ]
+}

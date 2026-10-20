@@ -1,0 +1,53 @@
+{
+  "title": "Qu'est-ce que League of Legends ? Le guide ultime pour débutants",
+  "description": "Découvrez ce qu'est League of Legends, son histoire fascinante, ses mécaniques de jeu principales et pourquoi ce jeu multijoueur emblématique captive des millions de joueurs.",
+  "category": "Entertainment",
+  "sections": [
+    {
+      "heading": "Qu'est-ce que League of Legends ?",
+      "paragraphs": [
+        "League of Legends, souvent abrégé en LoL, est un jeu vidéo d'arène de bataille en ligne multijoueur (MOBA) extrêmement populaire, développé et édité par Riot Games. Sorti en 2009, le jeu est devenu un phénomène culturel, comptant l'une des communautés de joueurs les plus vastes et la scène e-sport la plus active au monde.",
+        "Dans une partie standard de League of Legends, deux équipes de cinq joueurs s'affrontent, chacun contrôlant un personnage unique appelé un \"champion\". L'objectif principal est simple mais tactiquement exigeant : détruire le \"Nexus\" de l'équipe ennemie, une structure située au cœur de leur base, tout en défendant le vôtre."
+      ]
+    },
+    {
+      "heading": "Le cœur du gameplay",
+      "paragraphs": [
+        "Les parties se déroulent généralement sur une carte appelée la Faillite de l'Invocateur (Summoner's Rift), qui comporte trois chemins principaux — appelés voies ou lanes — reliant les deux bases ennemies. Ces voies sont gardées par de puissantes tours défensives et peuplées par des vagues de combattants plus faibles contrôlés par l'ordinateur, appelés sbires (minions).",
+        "Au fur et à mesure que les joueurs éliminent des sbires, des monstres neutres et des champions ennemis, leurs personnages gagnent de l'or et des points d'expérience. L'or sert à acheter des objets qui renforcent les capacités de combat d'un champion, tandis que l'expérience lui permet de monter en niveau et de débloquer de puissants sorts. Le travail d'équipe, la stratégie et la rapidité de décision sont essentiels, car les joueurs doivent constamment concilier la poussée des voies, la sécurisation des objectifs et le soutien à leurs coéquipiers."
+      ]
+    },
+    {
+      "heading": "Un riche catalogue de champions",
+      "paragraphs": [
+        "L'une des caractéristiques phares de League of Legends est sa liste variée et constamment renouvelée de champions. Chaque champion arbore un design visuel distinct, une histoire unique ancrée dans le vaste univers fantastique du jeu (Runeterra) et un style de jeu totalement différent.",
+        "Les champions entrent généralement dans différentes catégories de rôles, tels que les tanks qui absorbent les dégâts pour l'équipe, les mages dotés de puissants sorts, les tireurs qui inflangent de lourds dégâts physiques à distance, et les personnages de soutien qui soignent et protègent leurs alliés. Cette variété garantit que chaque joueur peut trouver un champion à son goût, qu'il préfère le combat frontal agressif ou le soutien tactique."
+      ]
+    },
+    {
+      "heading": "Impact culturel et e-sport",
+      "paragraphs": [
+        "Au-delà de ses millions de joueurs occasionnels, League of Legends a contribué à façonner le paysage moderne de l'e-sport professionnel. Riot Games gère des ligues régionales structurées à travers le monde, qui culminent lors d'un Championnat du monde annuel attirant une audience mondiale massive.",
+        "L'influence du jeu s'étend également bien au-delà du jeu vidéo traditionnel. Riot Games a décliné sa propriété intellectuelle sous différentes formes de médias, notamment à travers des séries animées saluées par la critique comme Arcane, mais aussi des groupes de musique virtuels, des bandes dessinées et de vastes extensions du lore qui approfondissent l'univers de Runeterra."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Est-ce que League of Legends est gratuit ?",
+      "a": "Oui, League of Legends est gratuit à télécharger et à jouer. Le modèle économique du jeu repose principalement sur des objets cosmétiques optionnels, tels que des skins de champions, qui ne confèrent aucun avantage compétitif en jeu."
+    },
+    {
+      "q": "Combien de joueurs y a-t-il dans chaque équipe ?",
+      "a": "Le mode de jeu standard oppose deux équipes de cinq joueurs chacune, ce qui nécessite une forte coordination et communication pour décrocher la victoire."
+    },
+    {
+      "q": "Quand est sorti League of Legends ?",
+      "a": "League of Legends a été officiellement lancé par Riot Games en octobre 2009 sur Microsoft Windows, avant de recevoir par la suite un support pour macOS."
+    }
+  ],
+  "slug": "what-is-league-of-legends-the-ultimate-beginner-s-guide",
+  "date": "2026-10-20",
+  "topic": "league of legends",
+  "trending": true
+}
