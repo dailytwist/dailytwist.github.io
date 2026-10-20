@@ -254,6 +254,7 @@ def render(lang, path, pg):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="p:domain_verify" content="35643b0df7034260a8368e9d58182cfd"/>
 <title>{e(title)}</title>
 <meta name="description" content="{e(pg['desc'])}">
 <link rel="canonical" href="{e(canonical)}">
