@@ -277,7 +277,7 @@ LANG_NAMES = {"en": "English", "es": "Spanish", "fr": "French", "de": "German", 
               "sv": "Swedish", "zh": "Simplified Chinese", "vi": "Vietnamese", "th": "Thai", "uk": "Ukrainian"}
 UI_EN = json.loads((ROOT / "site_builder" / "ui_en.json").read_text(encoding="utf-8"))
 I18N = CONTENT / "i18n"
-KEEP = {"slug", "date", "topic", "trending", "answer_index", "lucky_number", "category"}
+KEEP = {"slug", "date", "topic", "trending", "answer_index", "lucky_number", "category", "sign", "best", "hard", "a", "b", "score"}
 
 
 def _keep(k, d) -> bool:
@@ -337,7 +337,8 @@ def ensure_ui(lang: str) -> None:
         return
     print(f"- UI strings -> {lang} ({len(missing)} keys)")
     html_keys = [k for k in missing if k.endswith("_html")]
-    groups = [{k: v for k, v in missing.items() if k not in html_keys}] + [{k: missing[k]} for k in html_keys]
+    plain = [k for k in missing if k not in html_keys]
+    groups = [{k: missing[k] for k in plain[i:i + 25]} for i in range(0, len(plain), 25)] + [{k: missing[k]} for k in html_keys]
     for g in groups:
         if not g:
             continue
@@ -356,7 +357,7 @@ def ensure_ui(lang: str) -> None:
 
 def translate_content(lang: str, budget: list, today: dt.date) -> None:
     jobs = []
-    for kind in ("horoscopes", "trivia", "articles"):
+    for kind in ("horoscopes", "trivia", "articles", "signs", "pairs"):
         for f in (CONTENT / kind).glob("*.json"):
             if not (I18N / lang / kind / f.name).exists():
                 jobs.append((kind, f))
@@ -376,6 +377,33 @@ def translate_content(lang: str, budget: list, today: dt.date) -> None:
             print(f"::warning::translate {kind}/{f.name} -> {lang} failed: {str(ex)[:200]}")
 
 
+PAIR_ELEMENT = {"aries": "fire", "leo": "fire", "sagittarius": "fire", "taurus": "earth", "virgo": "earth", "capricorn": "earth",
+                "gemini": "air", "libra": "air", "aquarius": "air", "cancer": "water", "scorpio": "water", "pisces": "water"}
+
+
+def make_pairs(day: dt.date, count: int) -> None:
+    """Evergreen love-compatibility guides, a few per day until all 78 sign pairs exist."""
+    signs = list(PAIR_ELEMENT)
+    todo = [(a, b) for i, a in enumerate(signs) for b in signs[i:]
+            if not (CONTENT / "pairs" / f"{a}-{b}.json").exists()]
+    for a, b in todo[:count]:
+        print(f"- compatibility {a} + {b}")
+        data = ask_json(f"""You write evergreen zodiac compatibility guides for an entertainment website.
+Write an original, warm and specific guide for {a.title()} ({PAIR_ELEMENT[a]}) and {b.title()} ({PAIR_ELEMENT[b]}).
+{"It is a pair of the same sign, so talk about two " + a.title() + "s together." if a == b else ""}
+Use classic astrology ideas (elements, ruling planets, modalities) but keep it fun, kind and for entertainment.
+Never claim a pair is doomed; give practical, positive advice. No medical, legal or financial advice.
+Format: {{"title": "{a.title()} and {b.title()} Compatibility: Love, Friendship & Work",
+"summary": "2-3 sentences", "love": "110-150 words", "friendship": "60-90 words", "work": "60-90 words",
+"challenges": "60-90 words", "tips": ["3 short practical tips"], "score": an integer 40-98 for overall harmony}}""", max_tokens=3000)
+        need = ("title", "summary", "love", "friendship", "work", "challenges", "tips", "score")
+        if all(k in data for k in need) and isinstance(data["tips"], list) and len(data["tips"]) >= 3:
+            data["tips"] = [str(t) for t in data["tips"][:3]]
+            data["score"] = max(40, min(98, int(data["score"])))
+            save(CONTENT / "pairs" / f"{a}-{b}.json",
+                 {"date": str(day), "slug": f"{a}-{b}", "a": a, "b": b, **{k: data[k] for k in need}})
+
+
 # ---------------------------------------------------------------- main
 def main() -> None:
     ap = argparse.ArgumentParser()
@@ -388,7 +416,8 @@ def main() -> None:
         d = today - dt.timedelta(days=i)
         jobs += [(make_horoscopes, (d,)), (make_trivia, (d,)), (make_articles, (d, [], 2))]
     jobs += [(make_horoscopes, (today,)), (make_trivia, (today,)),
-             (make_articles, (today, trending_topics(CONFIG["trends_geo"]), CONFIG["articles_per_day"]))]
+             (make_articles, (today, trending_topics(CONFIG["trends_geo"]), CONFIG["articles_per_day"])),
+             (make_pairs, (today, CONFIG.get("pairs_per_day", 6)))]
     errors = 0
     for fn, a in jobs:
         try:

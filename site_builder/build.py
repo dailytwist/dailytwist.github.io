@@ -65,6 +65,9 @@ def load(folder):
     return [i for i in items if i.get("date", "") <= str(TODAY)]  # never publish future-dated content
 
 
+SIGN_KEYS = ("aries", "taurus", "gemini", "cancer", "leo", "virgo", "libra", "scorpio", "sagittarius", "capricorn", "aquarius", "pisces")
+
+
 def lang_data(lang):
     base = CONTENT if lang == "en" else CONTENT / "i18n" / lang
     ui = dict(UI_EN)
@@ -75,6 +78,8 @@ def lang_data(lang):
         "horoscopes": sorted(load(base / "horoscopes"), key=lambda x: x["date"]),
         "trivia": sorted(load(base / "trivia"), key=lambda x: x["date"]),
         "articles": sorted(load(base / "articles"), key=lambda x: (x["date"], x["title"]), reverse=True),
+        "guides": {g["sign"]: g for g in load(base / "signs") if g.get("sign") in SIGN_KEYS},
+        "pairs": {x["slug"]: x for x in load(base / "pairs") if x.get("slug")},
     }
 
 
@@ -444,6 +449,7 @@ def build_lang(lang):
         (f"{pre}/countdown/", "⏳", "nav_countdowns", "tile_countdown", "#0ea5e9", "#6366f1"),
         (f"{pre}/compatibility/", "💕", "compat_title", "tile_compat", "#ff5e7e", "#d36bff"),
         (f"{pre}/tarot/", "🃏", "tarot_title", "tile_tarot", "#3b2a8c", "#c084fc"),
+        (f"{pre}/zodiac/", "♈", "zodiac_title", "tile_zodiac", "#b8793b", "#f5b301"),
     ]
     tiles_html = "".join(
         f'<a class="xtile" href="{u}" style="--c1:{c1};--c2:{c2}"><span class="xtile-ic">{ic}</span>'
@@ -535,6 +541,7 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
     <span>✨ {e(T(lang, 'mood'))} <b>{e(str(dd["mood"]))}</b></span>
   </div>
   <p class="small muted">{e(T(lang, 'entertainment_only'))}</p>
+  {f'<a class="btn ghost guide-link" href="{pre}/zodiac/{s}/">📖 {e(T(lang, "read_guide", sign=sign_name(lang, s)))}</a>' if s in D["guides"] else ""}
   <h2>{e(T(lang, 'other_signs'))}</h2>
   <div class="chips">{others}</div>
 </article>
@@ -663,13 +670,104 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
             {"@context": "https://schema.org", "@type": "VideoGame", "name": T(lang, title), "inLanguage": lang,
              "gamePlatform": "Web browser", "applicationCategory": "Game"}, "0.7")
 
+    # zodiac sign guides + pair compatibility guides
+    G, PR = D["guides"], D["pairs"]
+    EL = lambda s: T(lang, "el_" + SIGNS[s][1])
+    pair_slug = lambda a, b: "-".join(sorted([a, b], key=SIGN_KEYS.index))
+    def sign_link(s):
+        return f'<a class="mchip" href="{pre}/zodiac/{s}/">{sign_art(s, 28)} {e(sign_name(lang, s))}</a>' if s in G else \
+               f'<a class="mchip" href="{pre}/horoscope/{s}/">{sign_art(s, 28)} {e(sign_name(lang, s))}</a>'
+    if G:
+        cards = "".join(
+            f'<a class="zcard" href="{pre}/zodiac/{s}/" data-sign="{s}">'
+            f'<img src="/assets/signs/{s}.webp" alt="" width="160" height="160" loading="lazy">'
+            f'<b>{SIGNS[s][0]} {e(sign_name(lang, s))}</b><small>{e(sign_range(lang, s))} · {e(EL(s))}</small></a>'
+            for s in SIGNS if s in G)
+        ranges = {s: [SIGNS[s][2], SIGNS[s][3]] for s in SIGNS}
+        names = {s: sign_name(lang, s) for s in SIGNS}
+        add(lang, "zodiac/", T(lang, "zodiac_title"), T(lang, "zodiac_desc"), f"""
+<section class="zhub">
+  <p class="kicker">♈ {e(T(lang, 'zodiac_title'))}</p><h1>{e(T(lang, 'zodiac_title'))}</h1>
+  <p class="lead">{e(T(lang, 'zodiac_desc'))}</p>
+  <div class="finder" id="finder">
+    <h2>🔍 {e(T(lang, 'zodiac_finder'))}</h2>
+    <label>{e(T(lang, 'birthday'))}<input type="date" name="bd" value="2000-01-01"></label>
+    <button class="btn">{e(T(lang, 'find_sign'))}</button>
+    <div class="finder-out" aria-live="polite"></div>
+  </div>
+  <div class="zgrid">{cards}</div>
+</section>
+<script type="application/json" id="finder-data">{json.dumps({"r": ranges, "n": names, "pre": pre, "you": T(lang, "you_are"), "read": T(lang, "read_guide")}, ensure_ascii=False).replace("</", "<\\/")}</script>
+<script src="/assets/finder.js" defer></script>""", priority="0.9")
+    for s, g in G.items():
+        f = g.get("facts", {})
+        kf = [("🪐", T(lang, "ruling_planet"), f.get("planet", "")), ("🔥", T(lang, "element"), EL(s)),
+                 ("🧭", T(lang, "modality"), f.get("modality", "")), ("📅", T(lang, "lucky_day"), f.get("day", "")),
+                 ("🎨", T(lang, "lucky_color"), f.get("color", "")), ("💎", T(lang, "lucky_stone"), f.get("stone", "")),
+                 ("🍀", T(lang, "lucky_number"), str(g.get("lucky_number", "")))]
+        facts_html = "".join(f'<div><span>{ic}</span><small>{e(k)}</small><b>{e(v)}</b></div>' for ic, k, v in kf if v)
+        li = lambda xs: "".join(f"<li>{e(x)}</li>" for x in xs)
+        match = lambda xs: "".join(
+            (f'<a class="mchip" href="{pre}/compatibility/{pair_slug(s, o)}/">{sign_art(o, 28)} {e(sign_name(lang, o))}</a>'
+             if pair_slug(s, o) in PR else sign_link(o)) for o in xs)
+        guides = "".join(f'<a class="mchip" href="{pre}/compatibility/{pair_slug(s, o)}/">{sign_art(o, 28)} {e(sign_name(lang, o))}</a>'
+                         for o in SIGNS if pair_slug(s, o) in PR)
+        faq = g.get("faq", [])
+        faq_html = "".join(f"<details class='faq'><summary>{e(x['q'])}</summary><p>{e(x['ans'])}</p></details>" for x in faq)
+        body = f"""
+<article class="guide">
+  <img class="sign-hero" src="/assets/signs/{s}-tall.webp" width="512" height="768" alt="{e(sign_name(lang, s))}">
+  <p class="kicker">{SIGNS[s][0]} {e(sign_range(lang, s))} · {e(EL(s))}</p>
+  <h1>{e(g['title'])}</h1>
+  <p class="lead">{e(g['intro'])}</p>
+  <div class="facts">{facts_html}</div>
+  <h2>✨ {e(T(lang, 'personality'))}</h2><p>{e(g['personality'])}</p>
+  <div class="sw"><div><h3>💪 {e(T(lang, 'strengths'))}</h3><ul>{li(g['strengths'])}</ul></div>
+  <div><h3>⚠️ {e(T(lang, 'weaknesses'))}</h3><ul>{li(g['weaknesses'])}</ul></div></div>
+  <h2>❤️ {e(T(lang, 'love'))}</h2><p>{e(g['love'])}</p>
+  <h2>💼 {e(T(lang, 'career'))}</h2><p>{e(g['career'])}</p>
+  <h2>🤝 {e(T(lang, 'friendship'))}</h2><p>{e(g['friendship'])}</p>
+  <h2>💞 {e(T(lang, 'best_matches'))}</h2><div class="chips">{match(g['best'])}</div>
+  <h3>🌗 {e(T(lang, 'hard_matches'))}</h3><div class="chips">{match(g['hard'])}</div>
+  {f'<h2>💕 {e(T(lang, "compat_guides"))}</h2><div class="chips">{guides}</div>' if guides else ''}
+  <a class="btn" href="{pre}/horoscope/{s}/">🔮 {e(T(lang, 'horoscope_today', sign=sign_name(lang, s)))}</a>
+  {f'<h2>❓ {e(T(lang, "faq_title"))}</h2>{faq_html}' if faq else ''}
+  <p class="small muted">{e(T(lang, 'entertainment_only'))}</p>
+  <h2>{e(T(lang, 'other_signs'))}</h2><div class="chips">{"".join(sign_link(o) for o in SIGNS if o != s)}</div>
+</article>"""
+        schema = {"@context": "https://schema.org", "@type": "FAQPage", "inLanguage": lang,
+                  "mainEntity": [{"@type": "Question", "name": x["q"], "acceptedAnswer": {"@type": "Answer", "text": x["ans"]}} for x in faq]} if faq else None
+        add(lang, f"zodiac/{s}/", g["title"], g["intro"], body, schema, priority="0.8")
+    for slug, x in PR.items():
+        a, b = x["a"], x["b"]
+        tips = "".join(f"<li>{e(t)}</li>" for t in x.get("tips", []))
+        body = f"""
+<article class="guide pair">
+  <div class="pair-head">{sign_art(a, 96)}<span class="pair-heart">❤</span>{sign_art(b, 96)}</div>
+  <p class="kicker">💕 {e(sign_name(lang, a))} + {e(sign_name(lang, b))}</p>
+  <h1>{e(x['title'])}</h1>
+  <div class="cc-ring big" style="--p:{int(x['score'])}"><b>{int(x['score'])}%</b></div>
+  <p class="center muted small">{e(T(lang, 'harmony'))}</p>
+  <p class="lead">{e(x['summary'])}</p>
+  <h2>❤️ {e(T(lang, 'love'))}</h2><p>{e(x['love'])}</p>
+  <h2>🤝 {e(T(lang, 'friendship'))}</h2><p>{e(x['friendship'])}</p>
+  <h2>💼 {e(T(lang, 'compat_work'))}</h2><p>{e(x['work'])}</p>
+  <h2>🌗 {e(T(lang, 'challenges'))}</h2><p>{e(x['challenges'])}</p>
+  <h2>💡 {e(T(lang, 'compat_tip'))}</h2><ul>{tips}</ul>
+  <a class="btn" href="{pre}/compatibility/">💘 {e(T(lang, 'compat_check'))}</a>
+  <p class="small muted">{e(T(lang, 'entertainment_only'))}</p>
+  <div class="chips">{sign_link(a)}{sign_link(b) if b != a else ''}</div>
+</article>"""
+        add(lang, f"compatibility/{slug}/", x["title"], x["summary"], body, priority="0.7")
+
     # love compatibility
     sj = lambda o: json.dumps(o, ensure_ascii=False).replace("</", "<\\/")
     elems = ["fire", "earth", "air", "water"]
     pairs = [f"{x}_{y}" for i, x in enumerate(elems) for y in elems[i:]]
     cdata = {"signs": {s: [SIGNS[s][0], SIGNS[s][1], e(sign_name(lang, s))] for s in SIGNS},
              "t": {k: e(T(lang, "compat_" + k)) for k in pairs},
-             "l": {k: e(T(lang, "compat_" + k)) for k in ("love", "friend", "work", "tip", "share")} | {"title": e(T(lang, "compat_title"))}}
+             "l": {k: e(T(lang, "compat_" + k)) for k in ("love", "friend", "work", "tip", "share", "open")} | {"title": e(T(lang, "compat_title"))},
+             "pairs": sorted(D["pairs"]), "pre": pre}
     opts = lambda sel: "".join(f'<option value="{s}"{" selected" if s == sel else ""}>{SIGNS[s][0]} {e(sign_name(lang, s))}</option>' for s in SIGNS)
     add(lang, "compatibility/", T(lang, "compat_title"), T(lang, "compat_desc"), f"""
 <article class="compat-page">
@@ -682,6 +780,7 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
     <button class="btn compat-go">💘 {e(T(lang, 'compat_check'))}</button>
     <div class="compat-out" aria-live="polite"></div>
   </div>
+  {f'<h2>💕 {e(T(lang, "compat_guides"))}</h2><div class="chips">' + "".join(f'<a class="mchip" href="{pre}/compatibility/{k}/">{SIGNS[v["a"]][0]}{SIGNS[v["b"]][0]} {e(sign_name(lang, v["a"]))} + {e(sign_name(lang, v["b"]))}</a>' for k, v in sorted(D["pairs"].items())) + '</div>' if D["pairs"] else ''}
 </article>
 <script type="application/json" id="compat-data">{sj(cdata)}</script>
 <script src="/assets/compat.js" defer></script>""", priority="0.8")

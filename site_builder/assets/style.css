@@ -468,3 +468,36 @@ nav a{display:inline-flex;align-items:center;gap:5px}
 .tarot-out .muted{color:#c9c2e6}
 .medal.pic{border-radius:50%;object-fit:cover;box-shadow:0 0 0 2px rgba(245,217,139,.7),0 4px 12px rgba(59,42,140,.35)}
 .sign-hero{display:block;width:100%;max-width:420px;height:auto;max-height:420px;object-fit:cover;object-position:center 30%;margin:0 auto 16px;border-radius:24px;box-shadow:0 16px 40px rgba(59,42,140,.35)}
+/* ---- zodiac guides */
+.zhub,.guide{max-width:760px}
+.finder{background:linear-gradient(135deg,#3b2a8c,#7c5cff);color:#fff;border-radius:24px;padding:18px;margin:10px 0 24px;display:grid;gap:10px}
+.finder h2{margin:0;font-size:1.25rem;color:#fff}
+.finder label{display:grid;gap:4px;font-weight:600;font-size:.9rem}
+.finder input{padding:12px;border-radius:14px;border:0;font:600 1rem var(--text);width:100%}
+.finder .btn{background:#fff;color:#3b24aa;justify-self:start}
+.finder-res{display:flex;gap:14px;align-items:center;background:rgba(255,255,255,.14);border-radius:18px;padding:10px;color:#fff;animation:popIn .35s}
+.finder-res img{border-radius:50%;box-shadow:0 0 0 2px #f5d98b}
+.finder-res b{display:block;font-size:1.25rem}
+.finder-res small{color:#f5d98b;font-weight:600}
+.zgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px}
+.zcard{display:grid;gap:4px;justify-items:center;text-align:center;background:var(--paper);border:1px solid var(--line);border-radius:20px;padding:12px 8px;color:var(--ink);transition:transform .15s}
+.zcard:hover{text-decoration:none;transform:translateY(-3px);border-color:var(--accent)}
+.zcard img{width:110px;height:110px;border-radius:50%;box-shadow:0 0 0 2px rgba(245,217,139,.8),0 8px 18px rgba(59,42,140,.3)}
+.zcard small{color:var(--muted);font-size:.78rem}
+.zcard.mine{border:2px solid var(--accent);background:var(--accent-soft)}
+.facts{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:10px;margin:16px 0}
+.facts div{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:10px 12px;display:grid}
+.facts span{font-size:1.3rem}.facts small{color:var(--muted);font-size:.75rem;text-transform:uppercase;letter-spacing:.04em}
+.sw{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media (max-width:560px){.sw{grid-template-columns:1fr}}
+.sw>div{background:var(--paper);border:1px solid var(--line);border-radius:18px;padding:4px 16px}
+.mchip{display:inline-flex;align-items:center;gap:6px;background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:4px 12px 4px 4px;color:var(--ink);font-weight:600;margin:3px}
+.mchip:hover{text-decoration:none;border-color:var(--accent)}
+.faq{background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:10px 14px;margin:8px 0}
+.faq summary{font-weight:700;cursor:pointer}
+.guide .btn{margin:14px 0}
+.guide-link{margin:6px 0 4px}
+.pair-head{display:flex;justify-content:center;align-items:center;gap:14px;margin-top:10px}
+.pair-heart{font-size:2rem;color:#e0245e;animation:beat 1.2s infinite}
+.cc-ring.big{margin-top:10px}
+.center{text-align:center}

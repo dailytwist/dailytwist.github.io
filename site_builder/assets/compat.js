@@ -14,6 +14,10 @@
   }
   function clamp(v) { return Math.max(35, Math.min(99, v)); }
   try { var mine = localStorage.getItem('dt-sign'); if (mine && D.signs[mine]) a.value = mine; } catch (e) {}
+  function guideLink(s1, s2) {
+    var ks = Object.keys(D.signs), slug = [s1, s2].sort(function (p, q) { return ks.indexOf(p) - ks.indexOf(q); }).join('-');
+    return (D.pairs || []).indexOf(slug) > -1 ? ' <a class="btn small ghost" href="' + D.pre + '/compatibility/' + slug + '/">📖 ' + D.l.open + '</a>' : '';
+  }
   function bar(label, v) { return '<div class="cb"><span>' + label + '</span><div class="cb-track"><i style="width:' + v + '%"></i></div><b>' + v + '%</b></div>'; }
   function run(scroll) {
     var s1 = a.value, s2 = b.value, e1 = D.signs[s1][1], e2 = D.signs[s2][1], k = key(e1, e2), base = BASE[k];
@@ -25,7 +29,7 @@
       '<div class="cc-ring" style="--p:' + total + '"><b>0%</b></div>' +
       bar(D.l.love, love) + bar(D.l.friend, friend) + bar(D.l.work, work) +
       '<h3>💡 ' + D.l.tip + '</h3><p>' + D.t[k] + '</p>' +
-      '<button class="btn small compat-share">📤 ' + D.l.share + '</button></div>';
+      '<button class="btn small compat-share">📤 ' + D.l.share + '</button>' + guideLink(s1, s2) + '</div>';
     var num = out.querySelector('.cc-ring b'), n = 0, timer = setInterval(function () { n = Math.min(total, n + 3); num.textContent = n + '%'; if (n >= total) clearInterval(timer); }, 18);
     out.querySelector('.compat-share').onclick = function () {
       var text = heart + ' ' + D.signs[s1][2] + ' + ' + D.signs[s2][2] + ' = ' + total + '% — ' + D.l.title, url = location.href.split('#')[0];
