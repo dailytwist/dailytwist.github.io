@@ -20,6 +20,7 @@ Usage:
 """
 import datetime as dt
 import json
+import subprocess
 import os
 import re
 import socket
@@ -211,6 +212,9 @@ def check_integrity(public: Path):
                     still.append(rel)
             except Exception:
                 still.append(rel)
+        if still and deploy_pending():
+            ok("a new version is still being published, live files will match after the deploy: " + ", ".join(still))
+            return
         if still:
             bad("live files differ from the repository (possible tampering): " + ", ".join(still))
             return
@@ -260,6 +264,21 @@ def check_pages_local(public: Path):
         bad(i)
     if not issues:
         ok(f"{n} local pages scanned, no foreign scripts")
+
+
+def deploy_pending():
+    """True while the newest commit is not live yet (a publish run is queued or running)."""
+    try:
+        for st in ("in_progress", "queued", "waiting", "pending"):
+            runs = gh(f"/actions/runs?status={st}&per_page=20") or {}
+            if any(r.get("name", "").startswith(("Daily", "pages")) for r in runs.get("workflow_runs", [])):
+                return True
+        head = subprocess.run(["git", "rev-parse", "HEAD"], cwd=ROOT, capture_output=True, text=True).stdout.strip()
+        deps = gh("/deployments?environment=github-pages&per_page=1") or []
+        return bool(head and deps and deps[0].get("sha") != head)
+    except Exception as ex:
+        print(f"  could not check deploy status: {ex}")
+        return False
 
 
 def gh(path, method="GET", payload=None):

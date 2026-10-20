@@ -48,7 +48,7 @@ CATEGORY_STYLE = {  # two colors + emoji used for generated cover art
     "Tech": ("#3a4bd8", "#8f7bff", "💡"), "History": ("#b8793b", "#f2c98a", "🏛️"),
     "Animals": ("#2f9e6e", "#ffd36b", "🐾"), "Explainer": ("#6b4eff", "#ff8a3d", "✨"),
 }
-HOLIDAY_EMOJI = {"christmas": "🎄", "new-year": "🎆", "halloween": "🎃", "valentines-day": "💝",
+HOLIDAY_EMOJI = {"ramadan": "🌙", "eid-al-fitr": "🌙", "eid-al-adha": "🐑", "islamic-new-year": "🕌", "mawlid": "✨", "chinese-new-year": "🧧", "christmas": "🎄", "new-year": "🎆", "halloween": "🎃", "valentines-day": "💝",
                  "thanksgiving": "🦃", "easter": "🐣", "fourth-of-july": "🎇", "mothers-day": "💐",
                  "fathers-day": "👔", "st-patricks-day": "☘️", "memorial-day": "🇺🇸", "labor-day": "🛠️",
                  "black-friday": "🛍️"}
@@ -83,6 +83,7 @@ def lang_data(lang):
         "yearly": {(x["year"], x["sign"]): x for x in load(base / "yearly") if x.get("sign") in SIGN_KEYS},
         "chinese": {x["animal"]: x for x in load(base / "chinese") if x.get("animal")},
         "numerology": {int(x["number"]): x for x in load(base / "numerology") if x.get("number")},
+        "dreams": {x["symbol"]: x for x in load(base / "dreams") if x.get("symbol")},
     }
 
 
@@ -355,6 +356,15 @@ def easter(y):
     return dt.date(y, (h + l - 7 * m + 114) // 31, (h + l - 7 * m + 114) % 31 + 1)
 
 
+# expected dates (astronomical calendar); the real day can move by one depending on the moon sighting
+ISLAMIC = {
+    "ramadan": {2026: dt.date(2026, 2, 18), 2027: dt.date(2027, 2, 8), 2028: dt.date(2028, 1, 28), 2029: dt.date(2029, 1, 16), 2030: dt.date(2030, 1, 6)},
+    "eid-al-fitr": {2026: dt.date(2026, 3, 20), 2027: dt.date(2027, 3, 10), 2028: dt.date(2028, 2, 27), 2029: dt.date(2029, 2, 15), 2030: dt.date(2030, 2, 5)},
+    "eid-al-adha": {2026: dt.date(2026, 5, 27), 2027: dt.date(2027, 5, 17), 2028: dt.date(2028, 5, 6), 2029: dt.date(2029, 4, 25), 2030: dt.date(2030, 4, 14)},
+    "islamic-new-year": {2026: dt.date(2026, 6, 16), 2027: dt.date(2027, 6, 6), 2028: dt.date(2028, 5, 25), 2029: dt.date(2029, 5, 15), 2030: dt.date(2030, 5, 4)},
+    "mawlid": {2026: dt.date(2026, 8, 26), 2027: dt.date(2027, 8, 15), 2028: dt.date(2028, 8, 4), 2029: dt.date(2029, 7, 24), 2030: dt.date(2030, 7, 13)},
+}
+CNY = json.loads((HERE / "data" / "cny.json").read_text())
 HOLIDAYS = {
     "christmas": lambda y: dt.date(y, 12, 25), "new-year": lambda y: dt.date(y, 1, 1),
     "halloween": lambda y: dt.date(y, 10, 31), "valentines-day": lambda y: dt.date(y, 2, 14),
@@ -363,6 +373,12 @@ HOLIDAYS = {
     "fathers-day": lambda y: nth_weekday(y, 6, 6, 3), "st-patricks-day": lambda y: dt.date(y, 3, 17),
     "memorial-day": lambda y: last_weekday(y, 5, 0), "labor-day": lambda y: nth_weekday(y, 9, 0, 1),
     "black-friday": lambda y: nth_weekday(y, 11, 3, 4) + dt.timedelta(days=1),
+    "ramadan": lambda y: ISLAMIC["ramadan"].get(y, dt.date(9999, 1, 1)),
+    "eid-al-fitr": lambda y: ISLAMIC["eid-al-fitr"].get(y, dt.date(9999, 1, 1)),
+    "eid-al-adha": lambda y: ISLAMIC["eid-al-adha"].get(y, dt.date(9999, 1, 1)),
+    "islamic-new-year": lambda y: ISLAMIC["islamic-new-year"].get(y, dt.date(9999, 1, 1)),
+    "mawlid": lambda y: ISLAMIC["mawlid"].get(y, dt.date(9999, 1, 1)),
+    "chinese-new-year": lambda y: dt.date(y, *divmod(CNY[str(y)], 100)) if str(y) in CNY else dt.date(9999, 1, 1),
 }
 
 
@@ -460,6 +476,7 @@ def build_lang(lang):
         (f"{pre}/chinese-zodiac/", "🐉", "chinese_title", "tile_chinese", "#d62828", "#f77f00"),
         (f"{pre}/numerology/", "🔢", "num_title", "tile_num", "#0f766e", "#22c1c3"),
         (f"{pre}/love-calculator/", "💘", "love_calc_title", "tile_lovecalc", "#e11d48", "#fb7185"),
+        *([(f"{pre}/dreams/", "💤", "dreams_title", "tile_dreams", "#312e81", "#a78bfa")] if D["dreams"] else []),
         (f"{pre}/zodiac-quiz/", "🧠", "pq_title", "tile_pq", "#7c3aed", "#ec4899"),
         (f"{pre}/love-messages/", "💌", "lm_title", "tile_lm", "#db2777", "#f9a8d4"),
         (f"{pre}/age-calculator/", "🎂", "bday_title", "tile_bday", "#ea580c", "#facc15"),
@@ -655,7 +672,7 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
   <p class="lead">{T(lang, 'falls_on', name=e(name), date=e(fdate(lang, d)), days=days)}</p>
   <div class="ticker"><div><b id="d">{days}</b><span>{e(T(lang, 'days'))}</span></div><div><b id="h">0</b><span>{e(T(lang, 'hours'))}</span></div>
   <div><b id="m">0</b><span>{e(T(lang, 'minutes'))}</span></div><div><b id="s">0</b><span>{e(T(lang, 'seconds'))}</span></div></div>
-  <p class="small muted">{e(T(lang, 'timer_note'))}</p>
+  <p class="small muted">{e(T(lang, 'timer_note'))}{(" " + e(T(lang, "moon_note"))) if slug in ISLAMIC else ""}</p>
   <h2>{e(T(lang, 'more_countdowns'))}</h2><div class="chips">{more}</div>
 </article>
 <script src="/assets/countdown.js" defer></script>"""
@@ -961,6 +978,37 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
 </article>
 <script type="application/json" id="tools-data">{jd(lm)}</script>
 <script src="/assets/tools.js" defer></script>""", priority="0.8")
+
+    # dream dictionary
+    DR = D["dreams"]
+    if DR:
+        dcards = "".join(f'<a class="dcard" href="{pre}/dreams/{k}/" data-q="{e(x["title"].lower())}"><span>{e(x.get("emoji", "🌙"))}</span><b>{e(x["title"].split(":")[0])}</b></a>'
+                         for k, x in sorted(DR.items(), key=lambda kv: kv[1]["title"]))
+        add(lang, "dreams/", T(lang, "dreams_title"), T(lang, "dreams_desc"), f"""
+<section class="zhub">
+  <p class="kicker">🌙 {e(T(lang, 'dreams_title'))}</p><h1>{e(T(lang, 'dreams_title'))}</h1>
+  <p class="lead">{e(T(lang, 'dreams_desc'))}</p>
+  <input class="dsearch" type="search" placeholder="🔍 {e(T(lang, 'dreams_search'))}" oninput="var q=this.value.toLowerCase();document.querySelectorAll('.dcard').forEach(function(c){{c.hidden=q&&c.dataset.q.indexOf(q)<0}})">
+  <div class="dgrid">{dcards}</div>
+</section>""", priority="0.9")
+        for k, x in DR.items():
+            v = x.get("variations", [])
+            others = sorted(DR, key=lambda o: hashlib.md5((k + o).encode()).hexdigest())[:8]
+            body = f"""
+<article class="guide">
+  <div class="pair-head"><span class="aemo dream" style="width:120px;height:120px;font-size:62px">{e(x.get('emoji', '🌙'))}</span></div>
+  <p class="kicker">🌙 {e(T(lang, 'dreams_title'))}</p><h1>{e(x['title'])}</h1>
+  <p class="lead">{e(x['summary'])}</p>
+  <h2>🔮 {e(T(lang, 'dream_meaning'))}</h2><p>{e(x['meaning'])}</p>
+  <div class="sw"><div><h3>✨ {e(T(lang, 'dream_positive'))}</h3><p>{e(x['positive'])}</p></div><div><h3>⚠️ {e(T(lang, 'dream_warning'))}</h3><p>{e(x['warning'])}</p></div></div>
+  {f'<h2>❓ {e(T(lang, "dream_variations"))}</h2>' + "".join(f"<details class='faq'><summary>{e(q['q'])}</summary><p>{e(q['ans'])}</p></details>" for q in v) if v else ''}
+  <p class="small muted">{e(T(lang, 'entertainment_only'))}</p>
+  <h2>🌙 {e(T(lang, 'dreams_more'))}</h2><div class="chips">{"".join(f'<a class="mchip" href="{pre}/dreams/{o}/">{e(DR[o].get("emoji", "🌙"))} {e(DR[o]["title"].split(":")[0])}</a>' for o in others if o != k)}</div>
+  <a class="btn" href="{pre}/dreams/">📖 {e(T(lang, 'dreams_title'))}</a>
+</article>"""
+            schema = {"@context": "https://schema.org", "@type": "FAQPage", "inLanguage": lang,
+                      "mainEntity": [{"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["ans"]}} for q in v]} if v else None
+            add(lang, f"dreams/{k}/", x["title"], x["summary"], body, schema, priority="0.8")
 
     # love compatibility
     sj = lambda o: json.dumps(o, ensure_ascii=False).replace("</", "<\\/")

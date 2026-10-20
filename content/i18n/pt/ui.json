@@ -143,7 +143,13 @@
     "st-patricks-day": "Dia de São Patrício",
     "memorial-day": "Memorial Day (EUA)",
     "labor-day": "Dia do Trabalho (EUA)",
-    "black-friday": "Black Friday"
+    "black-friday": "Black Friday",
+    "ramadan": "Ramadã",
+    "eid-al-fitr": "Eid al-Fitr",
+    "eid-al-adha": "Eid al-Adha",
+    "islamic-new-year": "Ano Novo Islâmico",
+    "mawlid": "Mawlid (nascimento do Profeta)",
+    "chinese-new-year": "Ano Novo Chinês"
   },
   "months_short": [
     "jan",
@@ -377,5 +383,6 @@
   "el_earth": "Terra",
   "el_air": "Ar",
   "el_water": "Água",
-  "compat_open": "Abrir o guia completo"
+  "compat_open": "Abrir o guia completo",
+  "moon_note": "As datas islâmicas são previstas e podem variar um dia conforme a observação da lua no seu país."
 }

@@ -146,7 +146,13 @@
     "st-patricks-day": "St. Patrick's Day",
     "memorial-day": "Memorial Day (US)",
     "labor-day": "Labor Day (US)",
-    "black-friday": "Black Friday"
+    "black-friday": "Black Friday",
+    "ramadan": "Ramadan",
+    "eid-al-fitr": "Eid al-Fitr",
+    "eid-al-adha": "Eid al-Adha",
+    "islamic-new-year": "Islamic New Year",
+    "mawlid": "Mawlid (Prophet's Birthday)",
+    "chinese-new-year": "Chinese New Year"
   },
   "months_short": [
     "Jan",
@@ -572,5 +578,15 @@
   "lm_aquarius_2": "Our love is my favorite kind of unique.",
   "lm_pisces_0": "You're the dream I never want to wake up from.",
   "lm_pisces_1": "My heart floats every time I see you.",
-  "lm_pisces_2": "You fill my world with magic."
+  "lm_pisces_2": "You fill my world with magic.",
+  "moon_note": "Islamic dates are expected dates and may change by one day depending on the moon sighting in your country.",
+  "dreams_title": "Dream Dictionary",
+  "dreams_desc": "What does your dream mean? Look up common dream symbols and read their popular meanings and interpretations.",
+  "dreams_search": "Search a dream (snake, teeth, water…)",
+  "dream_meaning": "What it means",
+  "dream_positive": "Positive meaning",
+  "dream_warning": "What to watch",
+  "dream_variations": "Common variations",
+  "dreams_more": "More dream meanings",
+  "tile_dreams": "What does your dream mean?"
 }

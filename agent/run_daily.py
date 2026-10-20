@@ -277,7 +277,7 @@ LANG_NAMES = {"en": "English", "es": "Spanish", "fr": "French", "de": "German", 
               "sv": "Swedish", "zh": "Simplified Chinese", "vi": "Vietnamese", "th": "Thai", "uk": "Ukrainian"}
 UI_EN = json.loads((ROOT / "site_builder" / "ui_en.json").read_text(encoding="utf-8"))
 I18N = CONTENT / "i18n"
-KEEP = {"slug", "date", "topic", "trending", "answer_index", "lucky_number", "category", "sign", "best", "hard", "a", "b", "score", "year", "animal", "number", "years"}
+KEEP = {"slug", "date", "topic", "trending", "answer_index", "lucky_number", "category", "sign", "best", "hard", "a", "b", "score", "year", "animal", "number", "years", "symbol"}
 
 
 def _keep(k, d) -> bool:
@@ -357,7 +357,7 @@ def ensure_ui(lang: str) -> None:
 
 def translate_content(lang: str, budget: list, today: dt.date) -> None:
     jobs = []
-    for kind in ("horoscopes", "trivia", "articles", "signs", "pairs", "yearly", "chinese", "numerology"):
+    for kind in ("horoscopes", "trivia", "articles", "signs", "pairs", "yearly", "chinese", "numerology", "dreams"):
         for f in (CONTENT / kind).glob("*.json"):
             if not (I18N / lang / kind / f.name).exists():
                 jobs.append((kind, f))
@@ -442,6 +442,39 @@ Format: {{"title": "Year of the {a.title()}: Personality, Love, Career & Compati
             save(CONTENT / "chinese" / f"{a}.json", {"date": str(day), "animal": a, "years": years, **{k: data[k] for k in need}})
 
 
+DREAM_SYMBOLS = """snake teeth-falling-out falling flying being-chased water ocean fish baby pregnancy wedding ex-partner death
+cat dog spider house car-crash fire money gold exam being-late naked-in-public school hair-loss blood rain flood storm
+mirror moon sun stars bird horse lion wolf bear rat mouse cockroach shark crocodile scorpion bees butterfly flowers
+tree garden mountain bridge stairs elevator door key lost-phone shoes clothes dress white-dress ring kiss hug crying
+laughing dancing singing food bread eggs fruit grapes dates milk honey coffee meat cooking eating-with-family
+mother father grandmother deceased-relative friend stranger celebrity king prayer mosque church quran angel
+travel airplane train bus ship lost-in-a-city prison police running fighting war gun knife wound hospital doctor
+illness shower bathroom toilet urine rainbow lightning earthquake snow desert river well green-grass camel sheep
+cow goat chicken frog turtle owl crow pigeon peacock eagle wedding-ring gift party birthday moving-house new-house
+old-house buying-a-car shopping lottery losing-money finding-money cheating breakup proposal twins children-playing""".split()
+
+
+def make_dreams(day: dt.date, count: int) -> None:
+    """Dream dictionary: a few dream symbols per day."""
+    todo = [x for x in DREAM_SYMBOLS if not (CONTENT / "dreams" / f"{x}.json").exists()]
+    for sym in todo[:count]:
+        name = sym.replace("-", " ")
+        print(f"- dream {name}")
+        data = ask_json(f"""Write an evergreen dream-meaning guide: "Dream about {name}" for an entertainment website.
+Kind, clear and specific. Mention common psychological interpretations and popular traditional/cultural readings
+(including well-known interpretations from Arab and Islamic dream traditions where relevant), without religious rulings.
+Never frightening, never medical advice. Format:
+{{"title": "Dream About {name.title()}: Meaning and Interpretation", "summary": "2 sentences",
+"meaning": "130-170 words", "positive": "60-80 words: hopeful meanings", "warning": "60-80 words: what it may ask you to watch",
+"variations": [{{"q": "Dreaming of ... (a common variation)", "ans": "2-3 sentences"}}, 5 items],
+"emoji": "one emoji"}}""", max_tokens=3000)
+        need = ("title", "summary", "meaning", "positive", "warning", "variations")
+        if all(k in data for k in need) and isinstance(data["variations"], list):
+            data["variations"] = [{"q": str(v.get("q", "")), "ans": str(v.get("ans", ""))} for v in data["variations"] if isinstance(v, dict)][:6]
+            save(CONTENT / "dreams" / f"{sym}.json", {"date": str(day), "symbol": sym, "emoji": str(data.get("emoji", "🌙"))[:4],
+                                                     **{k: data[k] for k in need}})
+
+
 # ---------------------------------------------------------------- main
 def main() -> None:
     ap = argparse.ArgumentParser()
@@ -456,7 +489,8 @@ def main() -> None:
     jobs += [(make_horoscopes, (today,)), (make_trivia, (today,)),
              (make_articles, (today, trending_topics(CONFIG["trends_geo"]), CONFIG["articles_per_day"])),
              (make_pairs, (today, CONFIG.get("pairs_per_day", 6))),
-             (make_yearly, (today, 6)), (make_chinese, (today, 6))]
+             (make_yearly, (today, 6)), (make_chinese, (today, 6)),
+             (make_dreams, (today, CONFIG.get("dreams_per_day", 6)))]
     errors = 0
     for fn, a in jobs:
         try:

@@ -143,7 +143,13 @@
     "st-patricks-day": "St. Patrick's Day",
     "memorial-day": "Memorial Day (US)",
     "labor-day": "Tag der Arbeit (US)",
-    "black-friday": "Black Friday"
+    "black-friday": "Black Friday",
+    "ramadan": "Ramadan",
+    "eid-al-fitr": "Zuckerfest (Eid al-Fitr)",
+    "eid-al-adha": "Opferfest (Eid al-Adha)",
+    "islamic-new-year": "Islamisches Neujahr",
+    "mawlid": "Mawlid (Geburtstag des Propheten)",
+    "chinese-new-year": "Chinesisches Neujahr"
   },
   "months_short": [
     "Jan.",
@@ -377,5 +383,6 @@
   "el_earth": "Erde",
   "el_air": "Luft",
   "el_water": "Wasser",
-  "compat_open": "Ganzen Guide öffnen"
+  "compat_open": "Ganzen Guide öffnen",
+  "moon_note": "Islamische Daten sind voraussichtlich und können sich je nach Mondsichtung in deinem Land um einen Tag verschieben."
 }

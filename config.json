@@ -25,5 +25,6 @@
   "telegram_channel": "dailytwist_daily",
   "android_package": "com.mydailytwist.app",
   "android_sha256": [],
-  "pairs_per_day": 6
+  "pairs_per_day": 6,
+  "dreams_per_day": 6
 }

@@ -142,7 +142,13 @@
     "st-patricks-day": "Saint-Patrick",
     "memorial-day": "Memorial Day (US)",
     "labor-day": "Fête du Travail (US)",
-    "black-friday": "Black Friday"
+    "black-friday": "Black Friday",
+    "ramadan": "Ramadan",
+    "eid-al-fitr": "Aïd el-Fitr",
+    "eid-al-adha": "Aïd el-Kébir",
+    "islamic-new-year": "Nouvel An de l'Hégire",
+    "mawlid": "Mawlid (naissance du Prophète)",
+    "chinese-new-year": "Nouvel An chinois"
   },
   "months_short": [
     "janv.",
@@ -572,5 +578,15 @@
   "lm_aquarius_2": "Notre amour est mon genre d'unique préféré.",
   "lm_pisces_0": "Tu es le rêve dont je ne veux jamais me réveiller.",
   "lm_pisces_1": "Mon cœur s'envole chaque fois que je te vois.",
-  "lm_pisces_2": "Tu remplis mon monde de magie."
+  "lm_pisces_2": "Tu remplis mon monde de magie.",
+  "moon_note": "Les dates islamiques sont prévisionnelles et peuvent varier d'un jour selon l'observation de la lune dans votre pays.",
+  "dreams_title": "Dictionnaire des rêves",
+  "dreams_desc": "Que signifie votre rêve ? Cherchez les symboles de rêves courants et lisez leurs interprétations populaires.",
+  "dreams_search": "Chercher un rêve (serpent, dents, eau…)",
+  "dream_meaning": "Signification",
+  "dream_positive": "Sens positif",
+  "dream_warning": "Ce qu'il faut surveiller",
+  "dream_variations": "Variantes courantes",
+  "dreams_more": "Autres significations de rêves",
+  "tile_dreams": "Que signifie votre rêve ?"
 }

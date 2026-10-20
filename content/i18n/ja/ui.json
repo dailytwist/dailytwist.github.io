@@ -143,7 +143,13 @@
     "st-patricks-day": "聖パトリックの祝日",
     "memorial-day": "戦没者追悼記念日（米国）",
     "labor-day": "労働者の日（米国）",
-    "black-friday": "ブラックフライデー"
+    "black-friday": "ブラックフライデー",
+    "ramadan": "ラマダン",
+    "eid-al-fitr": "イード・アル＝フィトル",
+    "eid-al-adha": "イード・アル＝アドハー",
+    "islamic-new-year": "イスラム新年",
+    "mawlid": "マウリド（預言者生誕祭）",
+    "chinese-new-year": "春節（旧正月）"
   },
   "months_short": [
     "1月",
@@ -377,5 +383,6 @@
   "el_earth": "地",
   "el_air": "風",
   "el_water": "水",
-  "compat_open": "くわしいガイドを開く"
+  "compat_open": "くわしいガイドを開く",
+  "moon_note": "イスラム暦の日付は予定日で、国ごとの月の観測により1日ずれることがあります。"
 }

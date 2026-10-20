@@ -561,3 +561,8 @@ nav a{display:inline-flex;align-items:center;gap:5px}
 .lovemsg canvas{width:100%;max-width:440px;border-radius:20px;margin:14px auto 8px;display:block;box-shadow:0 14px 34px rgba(219,39,119,.3)}
 .lovemsg canvas[hidden],.lm-actions[hidden]{display:none}
 .lm-actions{display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.dsearch{width:100%;padding:14px 16px;border-radius:16px;border:1.5px solid var(--line);background:var(--paper);color:var(--ink);font:500 1rem var(--text);margin:6px 0 14px}
+.dgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}
+.dcard{display:flex;gap:10px;align-items:center;background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:10px 12px;color:var(--ink);font-weight:600}
+.dcard:hover{text-decoration:none;border-color:#7c3aed}.dcard span{font-size:1.6rem}.dcard[hidden]{display:none}
+.aemo.dream{background:radial-gradient(circle at 35% 30%,#c4b5fd,#312e81)}
