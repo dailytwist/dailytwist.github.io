@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-20",
+  "sign": "cancer",
+  "title": "Signe du zodiaque du Cancer : Personnalité, Amour, Carrière et Compatibilité",
+  "intro": "Le Cancer (21 juin – 22 juillet) est le signe d'eau bienveillant gouverné par la Lune. Sensible, loyal et protecteur, le Cancer sait faire de n'importe quel endroit un véritable chez-soi.",
+  "personality": "Le Cancer ressent tout intensément et s'en souvient longtemps. Derrière une carapace parfois timide se cache une personne chaleureuse et intuitive, qui devine les besoins des autres avant même qu'ils ne les expriment. La famille, les amis proches et les souvenirs comptent énormément pour lui. Ses humeurs peuvent changer au gré des marées, mais sa loyauté reste infaillible.",
+  "strengths": [
+    "Attentionné et protecteur",
+    "Très intuitif",
+    "Loyal envers sa famille et ses amis",
+    "Créatif et imaginatif",
+    "Forte mémoire émotionnelle"
+  ],
+  "weaknesses": [
+    "Parfois lunatique",
+    "Prend les critiques personnellement",
+    "A tendance à s'accrocher au passé",
+    "Évite les conflits en se cachant dans sa carapace"
+  ],
+  "love": "Le Cancer recherche un amour tendre et sécurisant. Il prouve son attachement en cuisinant, en prenant soin des autres et en se souvenant du moindre détail. Aux côtés d'un partenaire patient et rassurant, il se montre incroyablement chaleureux et dévoué.",
+  "career": "Le Cancer s'épanouit dans les métiers de l'aide à la personne, de l'enseignement, de la restauration, de l'hôtellerie, de l'immobilier, du conseil et dans tout domaine où il peut protéger et soutenir les autres.",
+  "friendship": "En tant qu'ami, le Cancer se souvient de votre anniversaire, prend de vos nouvelles quand ça ne va pas et garde vos secrets pour toujours.",
+  "best": [
+    "scorpio",
+    "pisces",
+    "taurus"
+  ],
+  "hard": [
+    "aries",
+    "libra"
+  ],
+  "facts": {
+    "planet": "Lune",
+    "modality": "Cardinal",
+    "day": "Lundi",
+    "color": "Argent",
+    "stone": "Perle"
+  },
+  "lucky_number": 2,
+  "faq": [
+    {
+      "q": "Quelle est la personnalité du Cancer ?",
+      "ans": "Le Cancer est attentionné, émotif, intuitif et très loyal envers sa famille et ses amis."
+    },
+    {
+      "q": "Avec qui le Cancer est-il le plus compatible ?",
+      "ans": "Le Cancer s'accorde généralement le mieux avec le Scorpion, les Poissons et le Taureau."
+    },
+    {
+      "q": "Quelle planète gouverne le Cancer ?",
+      "ans": "Le Cancer est gouverné par la Lune, ce qui explique sa nature émotionnelle et intuitive."
+    }
+  ]
+}
