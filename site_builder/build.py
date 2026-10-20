@@ -84,6 +84,7 @@ def lang_data(lang):
         "chinese": {x["animal"]: x for x in load(base / "chinese") if x.get("animal")},
         "numerology": {int(x["number"]): x for x in load(base / "numerology") if x.get("number")},
         "dreams": {x["symbol"]: x for x in load(base / "dreams") if x.get("symbol")},
+        "guides2": load(base / "guides"),
     }
 
 
@@ -477,6 +478,8 @@ def build_lang(lang):
         (f"{pre}/numerology/", "🔢", "num_title", "tile_num", "#0f766e", "#22c1c3"),
         (f"{pre}/love-calculator/", "💘", "love_calc_title", "tile_lovecalc", "#e11d48", "#fb7185"),
         *([(f"{pre}/dreams/", "💤", "dreams_title", "tile_dreams", "#312e81", "#a78bfa")] if D["dreams"] else []),
+        *([(f"{pre}/angel-numbers/", "👼", "ang_title", "tile_ang", "#0369a1", "#7dd3fc")] if any(x.get("kind") == "angel" for x in D["guides2"]) else []),
+        *([(f"{pre}/birthday/", "🎁", "bdp_title", "tile_bdp", "#be185d", "#fbbf24")] if any(x.get("kind") == "birthday" for x in D["guides2"]) else []),
         (f"{pre}/zodiac-quiz/", "🧠", "pq_title", "tile_pq", "#7c3aed", "#ec4899"),
         (f"{pre}/love-messages/", "💌", "lm_title", "tile_lm", "#db2777", "#f9a8d4"),
         (f"{pre}/age-calculator/", "🎂", "bday_title", "tile_bday", "#ea580c", "#facc15"),
@@ -1010,6 +1013,67 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
                       "mainEntity": [{"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["ans"]}} for q in v]} if v else None
             add(lang, f"dreams/{k}/", x["title"], x["summary"], body, schema, priority="0.8")
 
+    # evergreen guide collections (written by the agent): tarot meanings, angel numbers, birthdays, birthstones
+    TAROT_KEYS = ["the-fool", "the-magician", "the-high-priestess", "the-empress", "the-emperor", "the-hierophant", "the-lovers",
+                  "the-chariot", "strength", "the-hermit", "wheel-of-fortune", "justice", "the-hanged-man", "death", "temperance",
+                  "the-devil", "the-tower", "the-star", "the-moon", "the-sun", "judgement", "the-world"]
+    MONTH_KEYS = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+    GD = {}
+    for x in D["guides2"]:
+        GD.setdefault(x.get("kind"), {})[x.get("key")] = x
+    COLL = {"tarot": ("tarot-meanings", "tm", "🃏"), "angel": ("angel-numbers", "ang", "👼"),
+            "birthday": ("birthday", "bdp", "🎂"), "birthstone": ("birthstones", "bst", "💎")}
+    def short_title(x):
+        return x["title"].split(":")[0]
+    def label(kind, k):
+        if kind == "birthday":
+            m, d = k.split("-"); return fdate(lang, dt.date(2024, MONTH_KEYS.index(m) + 1, int(d)), True)
+        return short_title(GD[kind][k])
+    def month_name(m):
+        return re.sub(r"\s*15日|\s*15\s*", " ", fdate(lang, dt.date(2024, MONTH_KEYS.index(m) + 1, 15), True)).strip(" ,.")
+    def order(kind, ks):
+        if kind == "tarot": return sorted(ks, key=TAROT_KEYS.index)
+        if kind == "angel": return sorted(ks, key=lambda v: (len(v), v))
+        if kind == "birthday": return sorted(ks, key=lambda v: (MONTH_KEYS.index(v.split("-")[0]), int(v.split("-")[1])))
+        return sorted(ks, key=MONTH_KEYS.index)
+    for kind, items in GD.items():
+        if kind not in COLL:
+            continue
+        path, pfx, emo = COLL[kind]
+        ks = order(kind, list(items))
+        if kind == "birthday":
+            groups = {}
+            for k in ks:
+                groups.setdefault(k.split("-")[0], []).append(k)
+            grid = "".join(f'<h2>🎂 {e(month_name(m))}</h2>'
+                           f'<div class="chips">' + "".join(f'<a class="mchip daychip" href="{pre}/{path}/{k}/">{e(label(kind, k))}</a>' for k in g) + '</div>'
+                           for m, g in groups.items())
+        else:
+            grid = '<div class="dgrid">' + "".join(f'<a class="dcard" href="{pre}/{path}/{k}/"><span>{e(items[k].get("emoji", emo))}</span><b>{e(label(kind, k))}</b></a>' for k in ks) + '</div>'
+        add(lang, f"{path}/", T(lang, pfx + "_title"), T(lang, pfx + "_desc"),
+            f'<section class="zhub"><p class="kicker">{emo} {e(T(lang, pfx + "_title"))}</p><h1>{e(T(lang, pfx + "_title"))}</h1>'
+            f'<p class="lead">{e(T(lang, pfx + "_desc"))}</p>{grid}</section>', priority="0.9")
+        for i, k in enumerate(ks):
+            x = items[k]
+            nb = [ks[j] for j in (i - 1, i + 1) if 0 <= j < len(ks)]
+            secs = "".join(f"<h2>{e(sc['h'])}</h2><p>{e(sc['p'])}</p>" for sc in x.get("sections", []))
+            faq = x.get("faq", [])
+            body = f"""
+<article class="guide">
+  <div class="pair-head"><span class="aemo dream" style="width:120px;height:120px;font-size:62px">{e(x.get('emoji', emo))}</span></div>
+  <p class="kicker">{emo} {e(T(lang, pfx + '_title'))}</p><h1>{e(x['title'])}</h1>
+  <p class="lead">{e(x['summary'])}</p>
+  {secs}
+  {f'<h2>❓ {e(T(lang, "faq_title"))}</h2>' + "".join(f"<details class='faq'><summary>{e(q['q'])}</summary><p>{e(q['ans'])}</p></details>" for q in faq) if faq else ''}
+  <p class="small muted">{e(T(lang, 'entertainment_only'))}</p>
+  <div class="chips">{"".join(f'<a class="mchip" href="{pre}/{path}/{o}/">{e(items[o].get("emoji", emo))} {e(label(kind, o))}</a>' for o in nb)}</div>
+  <a class="btn" href="{pre}/{path}/">{emo} {e(T(lang, pfx + '_title'))}</a>
+</article>"""
+            schema = {"@context": "https://schema.org", "@type": "FAQPage", "inLanguage": lang,
+                      "mainEntity": [{"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["ans"]}} for q in faq]} if faq else None
+            add(lang, f"{path}/{k}/", x["title"], x["summary"], body, schema, priority="0.7")
+    TAROT_LINKS = [f"{pre}/tarot-meanings/{k}/" if k in GD.get("tarot", {}) else "" for k in TAROT_KEYS]
+
     # love compatibility
     sj = lambda o: json.dumps(o, ensure_ascii=False).replace("</", "<\\/")
     elems = ["fire", "earth", "air", "water"]
@@ -1037,7 +1101,8 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
 
     # tarot card of the day
     tdata = {"cards": [[e(T(lang, f"tarot_{i}")), e(T(lang, f"tarot_{i}_m"))] for i in range(22)],
-             "l": {k: e(T(lang, "tarot_" + k)) for k in ("tap", "back", "again", "note")}}
+             "l": {k: e(T(lang, "tarot_" + k)) for k in ("tap", "back", "again", "note")} | {"more": e(T(lang, "compat_open"))},
+             "links": TAROT_LINKS}
     add(lang, "tarot/", T(lang, "tarot_title"), T(lang, "tarot_desc"), f"""
 <article class="tarot-page">
   <p class="kicker">🔮 {e(T(lang, 'tarot_title'))}</p><h1>{e(T(lang, 'tarot_title'))}</h1>

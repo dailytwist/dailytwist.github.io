@@ -20,11 +20,17 @@
     "ja",
     "ar"
   ],
-  "max_translations_per_run": 120,
+  "max_translations_per_run": 250,
   "ai_delay_seconds": 4,
   "telegram_channel": "dailytwist_daily",
   "android_package": "com.mydailytwist.app",
   "android_sha256": [],
   "pairs_per_day": 6,
-  "dreams_per_day": 6
+  "dreams_per_day": 6,
+  "guides_per_run": {
+    "tarot": 4,
+    "angel": 4,
+    "birthday": 6,
+    "birthstone": 2
+  }
 }

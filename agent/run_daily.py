@@ -277,7 +277,7 @@ LANG_NAMES = {"en": "English", "es": "Spanish", "fr": "French", "de": "German", 
               "sv": "Swedish", "zh": "Simplified Chinese", "vi": "Vietnamese", "th": "Thai", "uk": "Ukrainian"}
 UI_EN = json.loads((ROOT / "site_builder" / "ui_en.json").read_text(encoding="utf-8"))
 I18N = CONTENT / "i18n"
-KEEP = {"slug", "date", "topic", "trending", "answer_index", "lucky_number", "category", "sign", "best", "hard", "a", "b", "score", "year", "animal", "number", "years", "symbol"}
+KEEP = {"slug", "date", "topic", "trending", "answer_index", "lucky_number", "category", "sign", "best", "hard", "a", "b", "score", "year", "animal", "number", "years", "symbol", "key", "kind", "month", "day"}
 
 
 def _keep(k, d) -> bool:
@@ -357,7 +357,7 @@ def ensure_ui(lang: str) -> None:
 
 def translate_content(lang: str, budget: list, today: dt.date) -> None:
     jobs = []
-    for kind in ("horoscopes", "trivia", "articles", "signs", "pairs", "yearly", "chinese", "numerology", "dreams"):
+    for kind in ("horoscopes", "trivia", "articles", "signs", "pairs", "yearly", "chinese", "numerology", "dreams", "guides"):
         for f in (CONTENT / kind).glob("*.json"):
             if not (I18N / lang / kind / f.name).exists():
                 jobs.append((kind, f))
@@ -475,6 +475,59 @@ Never frightening, never medical advice. Format:
                                                      **{k: data[k] for k in need}})
 
 
+TAROT_CARDS = ["the-fool", "the-magician", "the-high-priestess", "the-empress", "the-emperor", "the-hierophant", "the-lovers",
+               "the-chariot", "strength", "the-hermit", "wheel-of-fortune", "justice", "the-hanged-man", "death", "temperance",
+               "the-devil", "the-tower", "the-star", "the-moon", "the-sun", "judgement", "the-world"]
+ANGEL_NUMBERS = ["111", "222", "333", "444", "555", "666", "777", "888", "999", "000", "1111", "1212", "1234", "1010", "1122",
+                 "1221", "1313", "1414", "1515", "2222", "2121", "0000", "123", "911", "717", "818", "202", "303", "505", "707"]
+MONTHS = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+MDAYS = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
+
+
+def _guide_prompt(kind, key):
+    base = """Kind, specific, original, for entertainment. No medical, legal, financial or gambling advice.
+Format: {"title": "...", "summary": "2 sentences", "emoji": "one emoji",
+"sections": [{"h": "short heading", "p": "70-110 words"}, 5 items], "faq": [{"q": "question", "ans": "2 sentences"}, 4 items]}"""
+    if kind == "tarot":
+        name = key.replace("-", " ").title()
+        return f"""Write an evergreen guide to the tarot card {name} (Major Arcana) for a tarot meaning website.
+Title: "{name} Tarot Card Meaning: Upright, Reversed, Love & Career". Sections: upright meaning, reversed meaning, love, career and money, yes or no / advice.
+{base}"""
+    if kind == "angel":
+        return f"""Write an evergreen guide to the angel number {key} for a spirituality and numerology website.
+Title: "Angel Number {key} Meaning: Love, Twin Flame, Career & Spirituality". Sections: what it means, love and relationships,
+twin flame, career and money, what to do when you see {key}. Present it as popular belief, not fact.
+{base}"""
+    if kind == "birthday":
+        m, d = key.split("-")
+        return f"""Write an evergreen "birthday personality" guide for people born on {m.title()} {int(d)} for an astrology website.
+Title: "{m.title()} {int(d)} Birthday Personality: Zodiac Sign, Love & Career". Include the correct zodiac sign for that date,
+personality traits, love and compatibility, career strengths, and lucky things (color, number, stone). Do not mention any real people.
+{base}"""
+    if kind == "birthstone":
+        return f"""Write an evergreen guide to the birthstone of {key.title()} for a website about birthdays and zodiac signs.
+Title: "{key.title()} Birthstone: Meaning, Color, History & Care". Use the widely accepted modern birthstone(s) for {key.title()}.
+Sections: the stone(s) and color, meaning and symbolism, history and legends, which zodiac signs it suits, how to care for it.
+{base}"""
+
+
+def make_guides(day: dt.date, plan: dict) -> None:
+    """Evergreen guide backlogs (tarot cards, angel numbers, birthdays, birthstones), a few per run."""
+    keys = {"tarot": TAROT_CARDS, "angel": ANGEL_NUMBERS,
+            "birthday": [f"{m}-{d}" for i, m in enumerate(MONTHS) for d in range(1, MDAYS[i] + 1)], "birthstone": MONTHS}
+    for kind, n in plan.items():
+        todo = [k for k in keys[kind] if not (CONTENT / "guides" / f"{kind}-{k}.json").exists()]
+        for k in todo[:n]:
+            print(f"- guide {kind} {k}")
+            data = ask_json(_guide_prompt(kind, k), max_tokens=3500)
+            secs = [{"h": str(x.get("h", "")), "p": str(x.get("p", ""))} for x in data.get("sections", []) if isinstance(x, dict)]
+            faq = [{"q": str(x.get("q", "")), "ans": str(x.get("ans", ""))} for x in data.get("faq", []) if isinstance(x, dict)]
+            if data.get("title") and data.get("summary") and len(secs) >= 3:
+                save(CONTENT / "guides" / f"{kind}-{k}.json", {"date": str(day), "kind": kind, "key": k,
+                     "emoji": str(data.get("emoji", "✨"))[:4], "title": data["title"], "summary": data["summary"],
+                     "sections": secs[:6], "faq": faq[:5]})
+
+
 # ---------------------------------------------------------------- main
 def main() -> None:
     ap = argparse.ArgumentParser()
@@ -490,7 +543,8 @@ def main() -> None:
              (make_articles, (today, trending_topics(CONFIG["trends_geo"]), CONFIG["articles_per_day"])),
              (make_pairs, (today, CONFIG.get("pairs_per_day", 6))),
              (make_yearly, (today, 6)), (make_chinese, (today, 6)),
-             (make_dreams, (today, CONFIG.get("dreams_per_day", 6)))]
+             (make_dreams, (today, CONFIG.get("dreams_per_day", 6))),
+             (make_guides, (today, CONFIG.get("guides_per_run", {"tarot": 4, "angel": 4, "birthday": 6, "birthstone": 2})))]
     errors = 0
     for fn, a in jobs:
         try:

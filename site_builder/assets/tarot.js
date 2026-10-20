@@ -16,7 +16,7 @@
     el.classList.add('chosen'); el.innerHTML = '<div class="tc-in"><div class="tc-back"></div>' + face(i) + '</div>';
     setTimeout(function () { el.classList.add('flip'); }, animate ? 60 : 0);
     msg.textContent = D.l.again;
-    out.innerHTML = '<h2>' + ICONS[i] + ' ' + D.cards[i][0] + '</h2><p class="lead">' + D.cards[i][1] + '</p><p class="muted small">' + D.l.back + ' · ' + D.l.note + '</p>';
+    out.innerHTML = '<h2>' + ICONS[i] + ' ' + D.cards[i][0] + '</h2><p class="lead">' + D.cards[i][1] + '</p>' + (D.links && D.links[i] ? '<a class="btn small light" href="' + D.links[i] + '">📖 ' + D.l.more + '</a>' : '') + '<p class="muted small">' + D.l.back + ' · ' + D.l.note + '</p>';
     out.hidden = false;
   }
   if (saved && saved.d === today) {
