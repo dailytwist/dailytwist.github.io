@@ -170,7 +170,6 @@
   "badge_daily": "Nuovo ogni giorno",
   "explore": "Esplora",
   "tile_horoscope": "Amore, lavoro e fortuna oggi",
-  "tile_games": "Scacchi, Ludo, Sudoku e altro",
   "tile_trivia": "Nuove domande ogni giorno",
   "tile_puzzle": "Indovina la parola del giorno",
   "tile_articles": "Letture da 3 minuti",
@@ -263,5 +262,18 @@
   "check": "Scacco",
   "your_move": "A te la mossa",
   "checkmate_win": "Scacco matto: hai vinto!",
-  "checkmate_lose": "Scacco matto: il computer ha vinto"
+  "checkmate_lose": "Scacco matto: il computer ha vinto",
+  "game_blocks": "Puzzle a blocchi",
+  "game_blocks_desc": "Trascina i blocchi sulla griglia e completa righe o colonne per eliminarle. Quanti punti farai?",
+  "how_blocks": "Trascina un blocco dal vassoio alla griglia (oppure tocca un blocco e poi la griglia). Completa una riga o una colonna intera per eliminarla. Elimina più linee insieme o di seguito per grandi combo. La partita finisce quando nessun blocco entra più. La partita viene salvata automaticamente.",
+  "game_solitaire": "Solitario",
+  "game_solitaire_desc": "Il classico solitario Klondike. Tocca una carta e salta alla mossa migliore.",
+  "how_solitaire": "Costruisci quattro pile dall'Asso al Re, una per seme. Sul tavolo impila le carte in ordine decrescente alternando i colori; solo un Re può andare in una colonna vuota. Tocca il mazzo per pescare. Tocca una carta scoperta per spostarla automaticamente. La partita viene salvata automaticamente.",
+  "nice": "Bene!",
+  "great": "Grande!",
+  "amazing": "Incredibile!",
+  "no_moves": "Nessuna mossa possibile",
+  "draw_1": "Pesca 1",
+  "draw_3": "Pesca 3",
+  "auto_finish": "Completa da solo"
 }

@@ -143,6 +143,8 @@ def cover_art(seed, category, cls="cover"):
 
 
 GAMES = {  # slug: (title key, desc key, how key, colors, emoji, js name, best-score storage key)
+    "block-puzzle": ("game_blocks", "game_blocks_desc", "how_blocks", ("#7c5cff", "#ff5e7e"), "🟪", "blocks", "dt-blocks-best"),
+    "solitaire": ("game_solitaire", "game_solitaire_desc", "how_solitaire", ("#1f7a4f", "#3fc1c9"), "🃏", "solitaire", None),
     "chess": ("game_chess", "game_chess_desc", "how_chess", ("#5b3df5", "#1e1b2b"), "♟️", "chess", None),
     "ludo": ("game_ludo", "game_ludo_desc", "how_ludo", ("#e5484d", "#f5b301"), "🎲", "ludo", None),
     "sudoku": ("game_sudoku", "game_sudoku_desc", "how_sudoku", ("#3a4bd8", "#8f7bff"), "🧩", "sudoku", "dt-sdk-best-easy"),
@@ -152,11 +154,13 @@ GAMES = {  # slug: (title key, desc key, how key, colors, emoji, js name, best-s
     "2048": ("game_2048", "game_2048_desc", "how_2048", ("#ff8a3d", "#ffd166"), "🔢", "2048", "dt-2048-best"),
     "tictactoe": ("game_ttt", "game_ttt_desc", "how_ttt", ("#2f9e6e", "#c4e86b"), "⭕", "ttt", None),
 }
+EXTERNAL_JS = ("chess", "ludo", "blocks", "solitaire")
 GAME_LABELS = ["new_game", "moves", "score", "best", "you_won", "you_lost", "draw", "your_turn", "easy", "medium", "hard",
                "time", "undo", "hint", "mistakes", "start", "play_again", "game_over", "new_record", "times_up", "combo",
                "wins", "losses", "draws", "level", "level_up", "day_streak", "too_many_mistakes", "math_intro", "watch",
                "your_turn_repeat", "simon_intro", "quick", "classic", "computer_turn", "captured", "try_again",
-               "thinking", "check", "your_move", "checkmate_win", "checkmate_lose"]
+               "thinking", "check", "your_move", "checkmate_win", "checkmate_lose",
+               "nice", "great", "amazing", "no_moves", "draw_1", "draw_3", "auto_finish"]
 
 
 def art(seed, c1, c2, emoji, cls="cover"):
@@ -435,6 +439,8 @@ def build_lang(lang):
         ("/puzzle/", "🧩", "nav_puzzle", "tile_puzzle", "#2fa36b", "#a3e635"),
         (f"{pre}/articles/", "📖", "nav_articles", "tile_articles", "#f59e0b", "#f97316"),
         (f"{pre}/countdown/", "⏳", "nav_countdowns", "tile_countdown", "#0ea5e9", "#6366f1"),
+        (f"{pre}/compatibility/", "💕", "compat_title", "tile_compat", "#ff5e7e", "#d36bff"),
+        (f"{pre}/tarot/", "🃏", "tarot_title", "tile_tarot", "#3b2a8c", "#c084fc"),
     ]
     tiles_html = "".join(
         f'<a class="xtile" href="{u}" style="--c1:{c1};--c2:{c2}"><span class="xtile-ic">{ic}</span>'
@@ -648,10 +654,49 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
 </article>
 <section><h2>✨ {e(T(lang, 'more_fun'))}</h2>{games_grid(lang, [g for g in GAMES if g != slug])}</section>
 {labels_json(lang)}
-<script src="/assets/games.js" defer></script>{f'<script src="/assets/{js}.js" defer></script>' if js in ("chess", "ludo") else ""}"""
+<script src="/assets/games.js" defer></script>{f'<script src="/assets/{js}.js" defer></script>' if js in EXTERNAL_JS else ""}"""
         add(lang, f"games/{slug}/", f"{T(lang, title)} – {T(lang, 'games_title')}", T(lang, desc), body,
             {"@context": "https://schema.org", "@type": "VideoGame", "name": T(lang, title), "inLanguage": lang,
              "gamePlatform": "Web browser", "applicationCategory": "Game"}, "0.7")
+
+    # love compatibility
+    sj = lambda o: json.dumps(o, ensure_ascii=False).replace("</", "<\\/")
+    elems = ["fire", "earth", "air", "water"]
+    pairs = [f"{x}_{y}" for i, x in enumerate(elems) for y in elems[i:]]
+    cdata = {"signs": {s: [SIGNS[s][0], SIGNS[s][1], e(sign_name(lang, s))] for s in SIGNS},
+             "t": {k: e(T(lang, "compat_" + k)) for k in pairs},
+             "l": {k: e(T(lang, "compat_" + k)) for k in ("love", "friend", "work", "tip", "share")} | {"title": e(T(lang, "compat_title"))}}
+    opts = lambda sel: "".join(f'<option value="{s}"{" selected" if s == sel else ""}>{SIGNS[s][0]} {e(sign_name(lang, s))}</option>' for s in SIGNS)
+    add(lang, "compatibility/", T(lang, "compat_title"), T(lang, "compat_desc"), f"""
+<article class="compat-page">
+  <p class="kicker">💕 {e(T(lang, 'compat_title'))}</p><h1>{e(T(lang, 'compat_title'))}</h1>
+  <p class="lead">{e(T(lang, 'compat_desc'))}</p>
+  <div id="compat" class="compat">
+    <label><span>{e(T(lang, 'your_sign'))}</span><select name="a">{opts("aries")}</select></label>
+    <span class="compat-plus">❤</span>
+    <label><span>{e(T(lang, 'compat_partner'))}</span><select name="b">{opts("leo")}</select></label>
+    <button class="btn compat-go">💘 {e(T(lang, 'compat_check'))}</button>
+    <div class="compat-out" aria-live="polite"></div>
+  </div>
+</article>
+<script type="application/json" id="compat-data">{sj(cdata)}</script>
+<script src="/assets/compat.js" defer></script>""", priority="0.8")
+
+    # tarot card of the day
+    tdata = {"cards": [[e(T(lang, f"tarot_{i}")), e(T(lang, f"tarot_{i}_m"))] for i in range(22)],
+             "l": {k: e(T(lang, "tarot_" + k)) for k in ("tap", "back", "again", "note")}}
+    add(lang, "tarot/", T(lang, "tarot_title"), T(lang, "tarot_desc"), f"""
+<article class="tarot-page">
+  <p class="kicker">🔮 {e(T(lang, 'tarot_title'))}</p><h1>{e(T(lang, 'tarot_title'))}</h1>
+  <p class="lead">{e(T(lang, 'tarot_desc'))}</p>
+  <div id="tarot" class="tarot">
+    <p class="tarot-msg"></p>
+    <div class="tarot-deck">{''.join('<button class="tc" aria-label="card"><div class="tc-in"><div class="tc-back"></div></div></button>' for _ in range(3))}</div>
+    <div class="tarot-out" hidden></div>
+  </div>
+</article>
+<script type="application/json" id="tarot-data">{sj(tdata)}</script>
+<script src="/assets/tarot.js" defer></script>""", priority="0.7")
 
     # legal & contact
     fill = lambda s: s.replace("{site}", e(SITE)).replace("{url}", e(URL)).replace("{contact_url}", pre + "/contact/")

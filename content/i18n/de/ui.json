@@ -170,7 +170,6 @@
   "badge_daily": "Jeden Tag neu",
   "explore": "Entdecken",
   "tile_horoscope": "Liebe, Job & Glück heute",
-  "tile_games": "Schach, Ludo, Sudoku & mehr",
   "tile_trivia": "Jeden Tag neue Fragen",
   "tile_puzzle": "Errate das Wort des Tages",
   "tile_articles": "Lesespaß in 3 Minuten",
@@ -263,5 +262,18 @@
   "check": "Schach",
   "your_move": "Dein Zug",
   "checkmate_win": "Schachmatt – du gewinnst!",
-  "checkmate_lose": "Schachmatt – der Computer gewinnt"
+  "checkmate_lose": "Schachmatt – der Computer gewinnt",
+  "game_blocks": "Block-Puzzle",
+  "game_blocks_desc": "Ziehe die Blöcke aufs Feld und fülle Reihen oder Spalten, um sie zu leeren. Wie hoch wird dein Punktestand?",
+  "how_blocks": "Ziehe einen Block aus der Ablage aufs Feld (oder tippe einen Block an und dann aufs Feld). Fülle eine ganze Reihe oder Spalte, um sie zu leeren. Leere mehrere Linien auf einmal oder nacheinander für große Kombos. Das Spiel endet, wenn kein Block mehr passt. Dein Spiel wird automatisch gespeichert.",
+  "game_solitaire": "Solitär",
+  "game_solitaire_desc": "Das klassische Klondike-Kartenspiel. Tippe eine Karte an und sie springt zum besten Zug.",
+  "how_solitaire": "Baue vier Stapel vom Ass bis zum König, je einen pro Farbe. Auf dem Tisch legst du Karten absteigend und abwechselnd rot und schwarz; nur ein König darf in eine leere Spalte. Tippe auf den Stapel, um Karten zu ziehen. Tippe auf eine offene Karte, um sie automatisch zu bewegen. Dein Spiel wird automatisch gespeichert.",
+  "nice": "Gut!",
+  "great": "Super!",
+  "amazing": "Fantastisch!",
+  "no_moves": "Keine Züge mehr",
+  "draw_1": "1 ziehen",
+  "draw_3": "3 ziehen",
+  "auto_finish": "Automatisch beenden"
 }

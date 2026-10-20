@@ -170,7 +170,6 @@
   "badge_daily": "Nuevo cada día",
   "explore": "Explorar",
   "tile_horoscope": "Amor, trabajo y suerte hoy",
-  "tile_games": "Ajedrez, Parchís, Sudoku y más",
   "tile_trivia": "Preguntas nuevas cada día",
   "tile_puzzle": "Adivina la palabra del día",
   "tile_articles": "Lecturas de 3 minutos",
@@ -263,5 +262,18 @@
   "check": "Jaque",
   "your_move": "Tu turno",
   "checkmate_win": "¡Jaque mate, has ganado!",
-  "checkmate_lose": "Jaque mate, la computadora gana"
+  "checkmate_lose": "Jaque mate, la computadora gana",
+  "game_blocks": "Puzle de bloques",
+  "game_blocks_desc": "Arrastra los bloques al tablero y completa filas o columnas para eliminarlas. ¿Cuántos puntos lograrás?",
+  "how_blocks": "Arrastra un bloque de la bandeja al tablero (o toca un bloque y luego el tablero). Completa una fila o columna para eliminarla. Elimina varias líneas a la vez o seguidas para hacer grandes combos. El juego termina cuando ningún bloque cabe. Tu partida se guarda automáticamente.",
+  "game_solitaire": "Solitario",
+  "game_solitaire_desc": "El clásico juego de cartas Klondike. Toca una carta y saltará a la mejor jugada.",
+  "how_solitaire": "Forma cuatro pilas del As al Rey, una por palo. En la mesa, apila cartas en orden descendente alternando colores; solo un Rey puede ir en una columna vacía. Toca el mazo para robar cartas. Toca cualquier carta descubierta para moverla automáticamente. Tu partida se guarda automáticamente.",
+  "nice": "¡Bien!",
+  "great": "¡Genial!",
+  "amazing": "¡Increíble!",
+  "no_moves": "No hay más movimientos",
+  "draw_1": "Robar 1",
+  "draw_3": "Robar 3",
+  "auto_finish": "Terminar solo"
 }

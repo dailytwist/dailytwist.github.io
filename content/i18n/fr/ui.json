@@ -170,7 +170,6 @@
   "badge_daily": "Nouveau chaque jour",
   "explore": "Explorer",
   "tile_horoscope": "Amour, travail et chance",
-  "tile_games": "Échecs, Ludo, Sudoku et plus",
   "tile_trivia": "Nouvelles questions chaque jour",
   "tile_puzzle": "Devine le mot du jour",
   "tile_articles": "Lectures de 3 minutes",
@@ -263,5 +262,18 @@
   "check": "Échec",
   "your_move": "À vous de jouer",
   "checkmate_win": "Échec et mat — vous avez gagné !",
-  "checkmate_lose": "Échec et mat — l'ordinateur a gagné"
+  "checkmate_lose": "Échec et mat — l'ordinateur a gagné",
+  "game_blocks": "Puzzle de blocs",
+  "game_blocks_desc": "Glissez les blocs sur la grille et remplissez des lignes ou des colonnes pour les effacer. Quel score atteindrez-vous ?",
+  "how_blocks": "Glissez un bloc du plateau vers la grille (ou touchez un bloc, puis la grille). Remplissez une ligne ou une colonne entière pour l'effacer. Effacez plusieurs lignes d'un coup ou à la suite pour de gros combos. La partie se termine quand plus aucun bloc ne rentre. Votre partie est sauvegardée automatiquement.",
+  "game_solitaire": "Solitaire",
+  "game_solitaire_desc": "Le jeu de cartes Klondike classique. Touchez une carte et elle va au meilleur endroit.",
+  "how_solitaire": "Formez quatre piles de l'As au Roi, une par couleur. Sur la table, empilez les cartes en ordre décroissant en alternant rouge et noir ; seul un Roi peut aller sur une colonne vide. Touchez le talon pour piocher. Touchez une carte visible pour la déplacer automatiquement. Votre partie est sauvegardée automatiquement.",
+  "nice": "Bien !",
+  "great": "Super !",
+  "amazing": "Incroyable !",
+  "no_moves": "Plus aucun coup",
+  "draw_1": "Piocher 1",
+  "draw_3": "Piocher 3",
+  "auto_finish": "Terminer auto"
 }

@@ -170,7 +170,6 @@
   "badge_daily": "Novo todo dia",
   "explore": "Explorar",
   "tile_horoscope": "Amor, trabalho e sorte hoje",
-  "tile_games": "Xadrez, Ludo, Sudoku e mais",
   "tile_trivia": "Perguntas novas todo dia",
   "tile_puzzle": "Adivinhe a palavra do dia",
   "tile_articles": "Leituras de 3 minutos",
@@ -263,5 +262,18 @@
   "check": "Xeque",
   "your_move": "Sua vez",
   "checkmate_win": "Xeque-mate — você venceu!",
-  "checkmate_lose": "Xeque-mate — o computador venceu"
+  "checkmate_lose": "Xeque-mate — o computador venceu",
+  "game_blocks": "Quebra-cabeça de blocos",
+  "game_blocks_desc": "Arraste os blocos para o tabuleiro e complete linhas ou colunas para eliminá-las. Quantos pontos você faz?",
+  "how_blocks": "Arraste um bloco da bandeja para o tabuleiro (ou toque num bloco e depois no tabuleiro). Complete uma linha ou coluna inteira para eliminá-la. Elimine várias linhas de uma vez ou seguidas para grandes combos. O jogo acaba quando nenhum bloco cabe. Seu jogo é salvo automaticamente.",
+  "game_solitaire": "Paciência",
+  "game_solitaire_desc": "O clássico jogo de cartas Klondike. Toque numa carta e ela vai para a melhor jogada.",
+  "how_solitaire": "Monte quatro pilhas do Ás ao Rei, uma para cada naipe. Na mesa, empilhe cartas em ordem decrescente alternando cores; só um Rei pode ir para uma coluna vazia. Toque no monte para comprar cartas. Toque em qualquer carta virada para movê-la automaticamente. Seu jogo é salvo automaticamente.",
+  "nice": "Boa!",
+  "great": "Ótimo!",
+  "amazing": "Incrível!",
+  "no_moves": "Sem mais jogadas",
+  "draw_1": "Comprar 1",
+  "draw_3": "Comprar 3",
+  "auto_finish": "Concluir sozinho"
 }
