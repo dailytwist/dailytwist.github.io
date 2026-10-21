@@ -1,0 +1,180 @@
+{
+ "date": "2026-10-21",
+ "slug": "verb-to-be",
+ "cefr": "A1",
+ "cat": "grammar",
+ "emoji": "🧩",
+ "title": "فعل الكينونة To Be: ‏am و is و are",
+ "summary": "فعل 'to be' هو أهم فعل في الإنجليزية. تعلّم متى تستعمل am و is و are، وكيف تصوغ النفي والسؤال.",
+ "sections": [
+  {
+   "h": "am و is و are",
+   "p": "استعمل 'am' مع I فقط. واستعمل 'is' مع he و she و it ومع شخص أو شيء واحد. واستعمل 'are' مع you و we و they ومع أكثر من شخص أو شيء. نستعمل 'to be' للحديث عن الأسماء والعمر والمهن والمشاعر والأماكن والأوصاف.",
+   "ex": [
+    {
+     "en": "I am a student.",
+     "mean": "تقول ما أنت."
+    },
+    {
+     "en": "She is happy today.",
+     "mean": "تصف شعور امرأة."
+    },
+    {
+     "en": "They are at home.",
+     "mean": "تقول أين يوجد بعض الأشخاص."
+    }
+   ]
+  },
+  {
+   "h": "الصيغ المختصرة",
+   "p": "في الكلام والكتابة غير الرسمية نجمع عادة الضمير والفعل: I'm و you're و he's و she's و it's و we're و they're. المعنى نفسه تمامًا، لكنه يبدو أكثر طبيعية.",
+   "ex": [
+    {
+     "en": "I'm 25 years old.",
+     "mean": "تقول عمرك (في الإنجليزية نستعمل be للعمر)."
+    },
+    {
+     "en": "It's cold outside.",
+     "mean": "تصف الطقس."
+    },
+    {
+     "en": "We're friends.",
+     "mean": "تقول ما نحن بالنسبة لبعضنا."
+    }
+   ]
+  },
+  {
+   "h": "النفي",
+   "p": "للنفي أضف 'not' بعد am أو is أو are. والصيغ المختصرة هي 'I'm not' و'isn't' و'aren't'. لا توجد صيغة مختصرة 'amn't'.",
+   "ex": [
+    {
+     "en": "I'm not tired.",
+     "mean": "تقول إنك لست متعبًا."
+    },
+    {
+     "en": "He isn't a doctor.",
+     "mean": "تقول إن رجلًا لا يعمل في هذه المهنة."
+    },
+    {
+     "en": "You aren't late.",
+     "mean": "تخبر شخصًا أنه وصل في الوقت."
+    }
+   ]
+  },
+  {
+   "h": "الأسئلة",
+   "p": "لطرح سؤال ضع am أو is أو are قبل الفاعل. وأجب بإجابات قصيرة بالفعل: 'Yes, I am.' 'No, she isn't.' في الإجابات القصيرة المثبتة لا تستعمل الصيغة المختصرة: قل 'Yes, I am' وليس 'Yes, I'm'.",
+   "ex": [
+    {
+     "en": "Are you ready?",
+     "mean": "تسأل إن كان شخص مستعدًا."
+    },
+    {
+     "en": "Is it expensive?",
+     "mean": "تسأل إن كان شيء غاليًا."
+    },
+    {
+     "en": "Yes, it is.",
+     "mean": "جواب قصير بالإيجاب."
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "en": "am",
+   "mean": "يكون، مع I"
+  },
+  {
+   "en": "is",
+   "mean": "يكون، مع he/she/it"
+  },
+  {
+   "en": "are",
+   "mean": "يكون، مع you/we/they"
+  },
+  {
+   "en": "isn't",
+   "mean": "is not (ليس)"
+  },
+  {
+   "en": "aren't",
+   "mean": "are not (ليسوا)"
+  },
+  {
+   "en": "happy",
+   "mean": "سعيد"
+  },
+  {
+   "en": "tired",
+   "mean": "متعب"
+  },
+  {
+   "en": "ready",
+   "mean": "مستعد"
+  }
+ ],
+ "tip": "احفظ النمط I-am و he-she-it-is و you-we-they-are. ردده كأغنية صغيرة ثلاث مرات وسيبقى في ذهنك.",
+ "quiz": [
+  {
+   "ask": "اختر الكلمة الصحيحة",
+   "en": "I ___ from Brazil.",
+   "choices": [
+    "is",
+    "am",
+    "are"
+   ],
+   "answer_index": 1
+  },
+  {
+   "ask": "اختر الكلمة الصحيحة",
+   "en": "My brothers ___ at school.",
+   "choices": [
+    "are",
+    "is",
+    "am"
+   ],
+   "answer_index": 0
+  },
+  {
+   "ask": "اختر الكلمة الصحيحة",
+   "en": "It ___ a beautiful day.",
+   "choices": [
+    "am",
+    "are",
+    "is"
+   ],
+   "answer_index": 2
+  },
+  {
+   "ask": "حوّلها إلى النفي",
+   "en": "She ___ hungry.",
+   "choices": [
+    "not is",
+    "isn't",
+    "aren't"
+   ],
+   "answer_index": 1
+  },
+  {
+   "ask": "اختر السؤال الصحيح",
+   "en": "Which question is correct?",
+   "choices": [
+    "You are tired?",
+    "Are you tired?",
+    "Is you tired?"
+   ],
+   "answer_index": 1
+  },
+  {
+   "ask": "اختر الجواب القصير الصحيح",
+   "en": "A: Are you a teacher? B: Yes, ___",
+   "choices": [
+    "I'm.",
+    "I am.",
+    "I is."
+   ],
+   "answer_index": 1
+  }
+ ]
+}

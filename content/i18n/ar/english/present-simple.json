@@ -1,0 +1,176 @@
+{
+ "date": "2026-10-21",
+ "slug": "present-simple",
+ "cefr": "A1",
+ "cat": "grammar",
+ "emoji": "🔁",
+ "title": "المضارع البسيط: العادات والحقائق",
+ "summary": "استعمل المضارع البسيط للحديث عن الأشياء التي تفعلها كل يوم والأشياء الصحيحة دائمًا. تعلّم قاعدة -s المهمة مع he و she و it.",
+ "sections": [
+  {
+   "h": "متى نستعمله؟",
+   "p": "نستعمل المضارع البسيط للعادات (أشياء نفعلها مرارًا) وللروتين وللحقائق الصحيحة دائمًا. كلمات مثل every day و always و usually و on Mondays تأتي غالبًا مع هذا الزمن.",
+   "ex": [
+    {
+     "en": "I drink coffee every morning.",
+     "mean": "عادة يومية."
+    },
+    {
+     "en": "Water boils at 100 degrees.",
+     "mean": "حقيقة علمية."
+    },
+    {
+     "en": "We play football on Sundays.",
+     "mean": "روتين أسبوعي."
+    }
+   ]
+  },
+  {
+   "h": "قاعدة -s",
+   "p": "مع he و she و it أضف -s إلى الفعل: he works و she lives و it rains. للأفعال المنتهية بـ -ch و -sh و -s و -x و -o أضف -es: watches و goes. إذا انتهى الفعل بحرف ساكن ثم y غيّر y إلى -ies: study تصبح studies. و'have' تصبح 'has'.",
+   "ex": [
+    {
+     "en": "She works in a bank.",
+     "mean": "تقول أين تعمل امرأة."
+    },
+    {
+     "en": "He watches TV after dinner.",
+     "mean": "عادة رجل في المساء."
+    },
+    {
+     "en": "My sister studies English.",
+     "mean": "ما تتعلمه الأخت."
+    }
+   ]
+  },
+  {
+   "h": "النفي",
+   "p": "استعمل don't (do not) مع I و you و we و they، واستعمل doesn't (does not) مع he و she و it. بعد don't أو doesn't يكون الفعل بدون -s.",
+   "ex": [
+    {
+     "en": "I don't eat meat.",
+     "mean": "تقول إنك لا تأكل اللحم أبدًا."
+    },
+    {
+     "en": "He doesn't like rain.",
+     "mean": "تقول إن رجلًا لا يحب المطر."
+    }
+   ]
+  },
+  {
+   "h": "الأسئلة",
+   "p": "ابدأ السؤال بـ Do أو Does. ومرة أخرى يكون الفعل الأساسي بدون -s. والإجابات القصيرة تستعمل do و don't و does و doesn't.",
+   "ex": [
+    {
+     "en": "Do you speak French?",
+     "mean": "تسأل عن اللغات التي يتكلمها شخص."
+    },
+    {
+     "en": "Does she live here?",
+     "mean": "تسأل أين تسكن امرأة."
+    },
+    {
+     "en": "No, she doesn't.",
+     "mean": "جواب قصير بالنفي."
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "en": "every day",
+   "mean": "كل يوم"
+  },
+  {
+   "en": "usually",
+   "mean": "عادةً"
+  },
+  {
+   "en": "always",
+   "mean": "دائمًا"
+  },
+  {
+   "en": "never",
+   "mean": "أبدًا"
+  },
+  {
+   "en": "work",
+   "mean": "يعمل"
+  },
+  {
+   "en": "live",
+   "mean": "يسكن"
+  },
+  {
+   "en": "don't",
+   "mean": "do not (لا)"
+  },
+  {
+   "en": "doesn't",
+   "mean": "does not (لا)"
+  }
+ ],
+ "tip": "كلما استعملت he أو she أو it، تخيّل أفعى صغيرة تصفر 'سسس' في آخر الفعل: she work-s و he play-s.",
+ "quiz": [
+  {
+   "ask": "اختر الصيغة الصحيحة",
+   "en": "She ___ in Madrid.",
+   "choices": [
+    "live",
+    "lives",
+    "living"
+   ],
+   "answer_index": 1
+  },
+  {
+   "ask": "اختر الصيغة الصحيحة",
+   "en": "They ___ tea in the evening.",
+   "choices": [
+    "drinks",
+    "drinking",
+    "drink"
+   ],
+   "answer_index": 2
+  },
+  {
+   "ask": "حوّلها إلى النفي",
+   "en": "He ___ like coffee.",
+   "choices": [
+    "don't",
+    "doesn't",
+    "not"
+   ],
+   "answer_index": 1
+  },
+  {
+   "ask": "أكمل السؤال",
+   "en": "___ you play the guitar?",
+   "choices": [
+    "Do",
+    "Does",
+    "Are"
+   ],
+   "answer_index": 0
+  },
+  {
+   "ask": "اختر الكتابة الصحيحة",
+   "en": "My father ___ the news every night.",
+   "choices": [
+    "watchs",
+    "watches",
+    "watch"
+   ],
+   "answer_index": 1
+  },
+  {
+   "ask": "اختر السؤال الصحيح",
+   "en": "Which question is correct?",
+   "choices": [
+    "Does she works here?",
+    "Do she work here?",
+    "Does she work here?"
+   ],
+   "answer_index": 2
+  }
+ ]
+}

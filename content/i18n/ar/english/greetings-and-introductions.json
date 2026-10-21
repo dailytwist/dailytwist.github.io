@@ -1,0 +1,176 @@
+{
+ "date": "2026-10-21",
+ "slug": "greetings-and-introductions",
+ "cefr": "A1",
+ "cat": "phrases",
+ "emoji": "👋",
+ "title": "التحية والتعريف بالنفس بالإنجليزية",
+ "summary": "تعلّم كيف تقول مرحبًا، وتعرّف بنفسك، وتسأل عن اسم شخص ما. هذه أول الجمل التي ستستعملها في كل محادثة.",
+ "sections": [
+  {
+   "h": "قول مرحبًا",
+   "p": "استعمل 'Hello' في أي موقف. أما 'Hi' و'Hey' فهما وديّتان وغير رسميتين، للأصدقاء والعائلة. مع أشخاص لا تعرفهم أو في العمل، تبدو عبارات 'Good morning' و'Good afternoon' و'Good evening' مهذبة. أما 'Good night' فتُقال فقط عند الوداع ليلًا.",
+   "ex": [
+    {
+     "en": "Hi, Sam! How are you?",
+     "mean": "تحية ودية لصديق."
+    },
+    {
+     "en": "Good morning, everyone.",
+     "mean": "تحية مهذبة قبل الساعة 12."
+    },
+    {
+     "en": "Good evening, sir.",
+     "mean": "تحية مهذبة في المساء."
+    }
+   ]
+  },
+  {
+   "h": "التعريف بنفسك",
+   "p": "لتقول من أنت، استعمل 'My name is...' أو الأقصر 'I'm...'. يمكنك أن تضيف من أين أنت وماذا تعمل. عندما تلتقي بشخص لأول مرة قل 'Nice to meet you'، وغالبًا يجيب الآخر 'Nice to meet you too'.",
+   "ex": [
+    {
+     "en": "Hello, my name is Lina.",
+     "mean": "تقول لشخص ما اسمك."
+    },
+    {
+     "en": "I'm from Morocco.",
+     "mean": "تقول من أي بلد أنت."
+    },
+    {
+     "en": "Nice to meet you!",
+     "mean": "عبارة مهذبة عندما تتعرف على شخص جديد."
+    }
+   ]
+  },
+  {
+   "h": "طرح الأسئلة",
+   "p": "لتتعرف على الشخص الآخر، اطرح أسئلة بسيطة. أشهرها 'What's your name?' و'Where are you from?'. أما 'How are you?' فهي تحية، لذلك يكفي جواب قصير: 'I'm fine, thanks. And you?'",
+   "ex": [
+    {
+     "en": "What's your name?",
+     "mean": "تسأل عن اسم شخص ما."
+    },
+    {
+     "en": "Where are you from?",
+     "mean": "تسأل من أي بلد أو مدينة هو."
+    },
+    {
+     "en": "I'm fine, thanks. And you?",
+     "mean": "تجيب عن 'How are you?' وتسأل بدورك."
+    }
+   ]
+  },
+  {
+   "h": "قول وداعًا",
+   "p": "'Goodbye' مهذبة وتصلح في كل مكان. أما 'Bye' و'See you!' فغير رسميتين. وعبارتا 'See you later' و'See you tomorrow' مفيدتان عندما ستلتقيان قريبًا. و'Have a nice day!' طريقة لطيفة لإنهاء الحديث.",
+   "ex": [
+    {
+     "en": "Bye! See you tomorrow.",
+     "mean": "وداع غير رسمي عندما تلتقيان في اليوم التالي."
+    },
+    {
+     "en": "Have a nice day!",
+     "mean": "أمنية لطيفة عندما تغادر."
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "en": "hello",
+   "mean": "تحية"
+  },
+  {
+   "en": "hi",
+   "mean": "مرحبًا (غير رسمي)"
+  },
+  {
+   "en": "goodbye",
+   "mean": "وداعًا"
+  },
+  {
+   "en": "nice to meet you",
+   "mean": "سعيد بلقائك"
+  },
+  {
+   "en": "How are you?",
+   "mean": "كيف حالك؟"
+  },
+  {
+   "en": "I'm fine",
+   "mean": "أنا بخير"
+  },
+  {
+   "en": "from",
+   "mean": "من (البلد الأصلي)"
+  },
+  {
+   "en": "see you later",
+   "mean": "أراك لاحقًا"
+  }
+ ],
+ "tip": "تدرّب كل يوم على تقديم نفسك بصوت عالٍ: اسمك وبلدك وشيء تحبه. بعد أسبوع واحد ستقوله دون تفكير.",
+ "quiz": [
+  {
+   "ask": "اختر أفضل جواب",
+   "en": "A: How are you? B: ___",
+   "choices": [
+    "I'm fine, thanks.",
+    "I'm Lina.",
+    "Nice to meet you."
+   ],
+   "answer_index": 0
+  },
+  {
+   "ask": "أكمل الجملة",
+   "en": "___ name is Omar.",
+   "choices": [
+    "I",
+    "My",
+    "Me"
+   ],
+   "answer_index": 1
+  },
+  {
+   "ask": "اختر التحية المناسبة للساعة 9 صباحًا",
+   "en": "___, everyone!",
+   "choices": [
+    "Good night",
+    "Good evening",
+    "Good morning"
+   ],
+   "answer_index": 2
+  },
+  {
+   "ask": "أكمل السؤال",
+   "en": "Where are you ___?",
+   "choices": [
+    "from",
+    "of",
+    "to"
+   ],
+   "answer_index": 0
+  },
+  {
+   "ask": "اختر الرد المهذب",
+   "en": "A: Nice to meet you. B: ___",
+   "choices": [
+    "Goodbye.",
+    "Nice to meet you too.",
+    "I'm from Spain."
+   ],
+   "answer_index": 1
+  },
+  {
+   "ask": "أيها غير رسمي؟",
+   "en": "Choose the informal way to say goodbye.",
+   "choices": [
+    "Good evening",
+    "Goodbye, sir",
+    "See you!"
+   ],
+   "answer_index": 2
+  }
+ ]
+}

@@ -1,0 +1,176 @@
+{
+ "date": "2026-10-21",
+ "slug": "present-simple",
+ "cefr": "A1",
+ "cat": "grammar",
+ "emoji": "🔁",
+ "title": "Le présent simple : habitudes et vérités",
+ "summary": "Le présent simple sert à parler de ce que vous faites tous les jours et de ce qui est toujours vrai. Apprenez la règle importante du -s avec he, she et it.",
+ "sections": [
+  {
+   "h": "Quand l'utiliser ?",
+   "p": "On utilise le présent simple pour les habitudes, les routines et les vérités générales. Des mots comme every day, always, usually et on Mondays l'accompagnent souvent.",
+   "ex": [
+    {
+     "en": "I drink coffee every morning.",
+     "mean": "Une habitude quotidienne."
+    },
+    {
+     "en": "Water boils at 100 degrees.",
+     "mean": "Un fait scientifique."
+    },
+    {
+     "en": "We play football on Sundays.",
+     "mean": "Une routine de la semaine."
+    }
+   ]
+  },
+  {
+   "h": "La règle du -s",
+   "p": "Avec he, she et it, ajoutez -s au verbe : he works, she lives, it rains. Pour les verbes en -ch, -sh, -s, -x ou -o, ajoutez -es : watches, goes. Consonne + y devient -ies : study donne studies. 'Have' devient 'has'.",
+   "ex": [
+    {
+     "en": "She works in a bank.",
+     "mean": "Dire où travaille une femme."
+    },
+    {
+     "en": "He watches TV after dinner.",
+     "mean": "L'habitude d'un homme le soir."
+    },
+    {
+     "en": "My sister studies English.",
+     "mean": "Ce qu'étudie une sœur."
+    }
+   ]
+  },
+  {
+   "h": "La négation",
+   "p": "Utilisez don't (do not) avec I, you, we et they, et doesn't (does not) avec he, she et it. Après don't ou doesn't, le verbe ne prend pas de -s.",
+   "ex": [
+    {
+     "en": "I don't eat meat.",
+     "mean": "Dire qu'on ne mange jamais de viande."
+    },
+    {
+     "en": "He doesn't like rain.",
+     "mean": "Dire qu'un homme n'aime pas la pluie."
+    }
+   ]
+  },
+  {
+   "h": "Les questions",
+   "p": "Commencez la question par Do ou Does. Là encore, le verbe principal ne prend pas de -s. Les réponses courtes utilisent do, don't, does ou doesn't.",
+   "ex": [
+    {
+     "en": "Do you speak French?",
+     "mean": "Demander quelles langues parle quelqu'un."
+    },
+    {
+     "en": "Does she live here?",
+     "mean": "Demander où habite une femme."
+    },
+    {
+     "en": "No, she doesn't.",
+     "mean": "Une réponse courte négative."
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "en": "every day",
+   "mean": "tous les jours"
+  },
+  {
+   "en": "usually",
+   "mean": "d'habitude"
+  },
+  {
+   "en": "always",
+   "mean": "toujours"
+  },
+  {
+   "en": "never",
+   "mean": "jamais"
+  },
+  {
+   "en": "work",
+   "mean": "travailler"
+  },
+  {
+   "en": "live",
+   "mean": "habiter"
+  },
+  {
+   "en": "don't",
+   "mean": "do not"
+  },
+  {
+   "en": "doesn't",
+   "mean": "does not"
+  }
+ ],
+ "tip": "À chaque he, she ou it, imaginez un petit serpent qui siffle « sss » à la fin du verbe : she work-s, he play-s.",
+ "quiz": [
+  {
+   "ask": "Choisissez la bonne forme",
+   "en": "She ___ in Madrid.",
+   "choices": [
+    "live",
+    "lives",
+    "living"
+   ],
+   "answer_index": 1
+  },
+  {
+   "ask": "Choisissez la bonne forme",
+   "en": "They ___ tea in the evening.",
+   "choices": [
+    "drinks",
+    "drinking",
+    "drink"
+   ],
+   "answer_index": 2
+  },
+  {
+   "ask": "Mettez à la forme négative",
+   "en": "He ___ like coffee.",
+   "choices": [
+    "don't",
+    "doesn't",
+    "not"
+   ],
+   "answer_index": 1
+  },
+  {
+   "ask": "Complétez la question",
+   "en": "___ you play the guitar?",
+   "choices": [
+    "Do",
+    "Does",
+    "Are"
+   ],
+   "answer_index": 0
+  },
+  {
+   "ask": "Choisissez la bonne orthographe",
+   "en": "My father ___ the news every night.",
+   "choices": [
+    "watchs",
+    "watches",
+    "watch"
+   ],
+   "answer_index": 1
+  },
+  {
+   "ask": "Choisissez la bonne question",
+   "en": "Which question is correct?",
+   "choices": [
+    "Does she works here?",
+    "Do she work here?",
+    "Does she work here?"
+   ],
+   "answer_index": 2
+  }
+ ]
+}

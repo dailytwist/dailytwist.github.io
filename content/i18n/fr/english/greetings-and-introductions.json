@@ -1,0 +1,176 @@
+{
+ "date": "2026-10-21",
+ "slug": "greetings-and-introductions",
+ "cefr": "A1",
+ "cat": "phrases",
+ "emoji": "👋",
+ "title": "Saluer et se présenter en anglais",
+ "summary": "Apprenez à dire bonjour, à vous présenter et à demander le prénom de quelqu'un. Ce sont les premières phrases de toute conversation.",
+ "sections": [
+  {
+   "h": "Dire bonjour",
+   "p": "'Hello' marche dans toutes les situations. 'Hi' et 'Hey' sont amicaux et familiers, pour les amis et la famille. Avec des inconnus ou au travail, 'Good morning', 'Good afternoon' et 'Good evening' sont polis. 'Good night' sert uniquement à dire au revoir le soir.",
+   "ex": [
+    {
+     "en": "Hi, Sam! How are you?",
+     "mean": "Un bonjour amical à un ami."
+    },
+    {
+     "en": "Good morning, everyone.",
+     "mean": "Un bonjour poli avant midi."
+    },
+    {
+     "en": "Good evening, sir.",
+     "mean": "Un bonsoir poli."
+    }
+   ]
+  },
+  {
+   "h": "Se présenter",
+   "p": "Pour dire qui vous êtes, utilisez 'My name is...' ou plus court 'I'm...'. Vous pouvez ajouter d'où vous venez et ce que vous faites. Quand vous rencontrez quelqu'un pour la première fois, dites 'Nice to meet you'. L'autre répond souvent 'Nice to meet you too'.",
+   "ex": [
+    {
+     "en": "Hello, my name is Lina.",
+     "mean": "Dire son prénom."
+    },
+    {
+     "en": "I'm from Morocco.",
+     "mean": "Dire de quel pays on vient."
+    },
+    {
+     "en": "Nice to meet you!",
+     "mean": "Une formule polie pour une nouvelle rencontre."
+    }
+   ]
+  },
+  {
+   "h": "Poser des questions",
+   "p": "Pour connaître l'autre, posez des questions simples. 'What's your name?' et 'Where are you from?' sont les plus courantes. 'How are you?' est une salutation : une réponse courte suffit, 'I'm fine, thanks. And you?'",
+   "ex": [
+    {
+     "en": "What's your name?",
+     "mean": "Demander le prénom de quelqu'un."
+    },
+    {
+     "en": "Where are you from?",
+     "mean": "Demander de quel pays ou de quelle ville vient quelqu'un."
+    },
+    {
+     "en": "I'm fine, thanks. And you?",
+     "mean": "Répondre à 'How are you?' et retourner la question."
+    }
+   ]
+  },
+  {
+   "h": "Dire au revoir",
+   "p": "'Goodbye' est poli et convient partout. 'Bye' et 'See you!' sont familiers. 'See you later' et 'See you tomorrow' sont utiles quand on se revoit bientôt. 'Have a nice day!' est une jolie façon de terminer.",
+   "ex": [
+    {
+     "en": "Bye! See you tomorrow.",
+     "mean": "Un au revoir familier quand on se revoit le lendemain."
+    },
+    {
+     "en": "Have a nice day!",
+     "mean": "Un souhait sympathique en partant."
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "en": "hello",
+   "mean": "une salutation"
+  },
+  {
+   "en": "hi",
+   "mean": "bonjour familier"
+  },
+  {
+   "en": "goodbye",
+   "mean": "au revoir"
+  },
+  {
+   "en": "nice to meet you",
+   "mean": "enchanté(e)"
+  },
+  {
+   "en": "How are you?",
+   "mean": "comment ça va ?"
+  },
+  {
+   "en": "I'm fine",
+   "mean": "je vais bien"
+  },
+  {
+   "en": "from",
+   "mean": "de (pays d'origine)"
+  },
+  {
+   "en": "see you later",
+   "mean": "à plus tard"
+  }
+ ],
+ "tip": "Entraînez-vous chaque jour à voix haute : votre prénom, votre pays et une chose que vous aimez. En une semaine, ce sera automatique.",
+ "quiz": [
+  {
+   "ask": "Choisissez la meilleure réponse",
+   "en": "A: How are you? B: ___",
+   "choices": [
+    "I'm fine, thanks.",
+    "I'm Lina.",
+    "Nice to meet you."
+   ],
+   "answer_index": 0
+  },
+  {
+   "ask": "Complétez la phrase",
+   "en": "___ name is Omar.",
+   "choices": [
+    "I",
+    "My",
+    "Me"
+   ],
+   "answer_index": 1
+  },
+  {
+   "ask": "Choisissez la salutation pour 9 h",
+   "en": "___, everyone!",
+   "choices": [
+    "Good night",
+    "Good evening",
+    "Good morning"
+   ],
+   "answer_index": 2
+  },
+  {
+   "ask": "Complétez la question",
+   "en": "Where are you ___?",
+   "choices": [
+    "from",
+    "of",
+    "to"
+   ],
+   "answer_index": 0
+  },
+  {
+   "ask": "Choisissez la réponse polie",
+   "en": "A: Nice to meet you. B: ___",
+   "choices": [
+    "Goodbye.",
+    "Nice to meet you too.",
+    "I'm from Spain."
+   ],
+   "answer_index": 1
+  },
+  {
+   "ask": "Laquelle est familière ?",
+   "en": "Choose the informal way to say goodbye.",
+   "choices": [
+    "Good evening",
+    "Goodbye, sir",
+    "See you!"
+   ],
+   "answer_index": 2
+  }
+ ]
+}
