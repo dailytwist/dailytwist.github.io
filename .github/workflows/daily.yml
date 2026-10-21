@@ -47,7 +47,12 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python agent/run_daily.py --backfill "${{ github.event.inputs.backfill_days || 0 }}"
+        run: |
+          set -o pipefail
+          rc=0
+          python -u agent/run_daily.py --backfill "${{ github.event.inputs.backfill_days || 0 }}" 2>&1 | tee /tmp/agent.log || rc=$?
+          grep -v -i "key=" /tmp/agent.log | tail -n 400 > content/agent_log.txt || true
+          exit $rc
 
       - name: Save new content to the repository
         if: github.event_name != 'push'
