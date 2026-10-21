@@ -934,8 +934,9 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
         if (HERE / "assets" / "chinese" / f"{a}.webp").exists():
             return f'<img class="medal pic" src="/assets/chinese/{a}.webp" width="{size}" height="{size}" alt="" loading="lazy">'
         return f'<span class="aemo" style="width:{size}px;height:{size}px;font-size:{size * .55:.0f}px">{AEMO[a]}</span>'
-    acards = "".join(f'<a class="zcard" href="{pre}/chinese-zodiac/{a}/" data-animal="{a}">{animal_art(a)}<b>{e(T(lang, "an_" + a))}</b>'
-                     f'<small>{", ".join(str(y) for y in range(1936 + ANIMALS.index(a), 2032, 12)[-4:])}</small></a>' for a in ANIMALS)
+    acards = "".join((f'<a class="zcard" href="{pre}/chinese-zodiac/{a}/" data-animal="{a}">' if a in CZ else f'<div class="zcard" data-animal="{a}">')
+                     + f'{animal_art(a)}<b>{e(T(lang, "an_" + a))}</b>'
+                     f'<small>{", ".join(str(y) for y in range(1936 + ANIMALS.index(a), 2032, 12)[-4:])}</small>' + ('</a>' if a in CZ else '</div>') for a in ANIMALS)
     cny = json.loads((HERE / "data" / "cny.json").read_text())
     add(lang, "chinese-zodiac/", T(lang, "chinese_title"), T(lang, "chinese_desc"), f"""
 <section class="zhub">
