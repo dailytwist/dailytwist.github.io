@@ -1,6 +1,6 @@
 :root{
-  --bg:#f6f3ec;--paper:#fffdf9;--ink:#2c2a36;--muted:#6f6b7a;--line:#e8e2d6;
-  --accent:#5a4fc8;--accent-2:#ff8a3d;--accent-soft:#efeaff;--good:#2fa36b;--mid:#e3b341;--bad:#9b97a6;
+  --bg:#f5f6fb;--paper:#ffffff;--ink:#22243a;--muted:#686b80;--line:#e6e8f2;
+  --accent:#6246ea;--accent-2:#ff8a3d;--accent-soft:#efeaff;--good:#2fa36b;--mid:#e3b341;--bad:#9b97a6;
   --radius:18px;--shadow:0 1px 2px rgba(30,27,43,.04),0 10px 30px rgba(30,27,43,.07);
   --display:Fraunces,Georgia,serif;--text:Inter,system-ui,sans-serif;
 }
@@ -348,8 +348,8 @@ nav a{display:inline-flex;align-items:center;gap:5px}
   nav{scrollbar-width:none}nav::-webkit-scrollbar{display:none}}
 .hero2{position:relative;overflow:hidden;display:grid;grid-template-columns:1.3fr .7fr;align-items:center;gap:10px;
   margin-top:4px;padding:34px 32px;border-radius:30px;color:#fff;
-  background:radial-gradient(90% 120% at 100% 0%,#ff8a3d30,transparent 55%),radial-gradient(80% 120% at 0% 100%,#22c1c326,transparent 60%),linear-gradient(135deg,#2e2a5e,#4a43a0 55%,#6a5cb8);
-  box-shadow:0 14px 40px rgba(46,42,94,.22)}
+  background:radial-gradient(90% 120% at 100% 0%,#ff8a3d48,transparent 55%),radial-gradient(80% 120% at 0% 100%,#22c1c33a,transparent 60%),linear-gradient(135deg,#3a1f9e,#6246ea 55%,#9b5de5);
+  box-shadow:0 16px 44px rgba(98,70,234,.25)}
 .hero2::before{content:"";position:absolute;inset:0;pointer-events:none;opacity:.55;
   background-image:radial-gradient(1.4px 1.4px at 12% 22%,#fff,transparent),radial-gradient(1.2px 1.2px at 32% 78%,#fff,transparent),radial-gradient(1.6px 1.6px at 58% 18%,#fff,transparent),radial-gradient(1.1px 1.1px at 74% 62%,#fff,transparent),radial-gradient(1.3px 1.3px at 90% 32%,#fff,transparent),radial-gradient(1px 1px at 46% 46%,#fff,transparent)}
 .hero2-in{position:relative;z-index:1}
@@ -706,7 +706,5 @@ nav a{display:inline-flex;align-items:center;gap:5px}
 .themebtn .th-sun{display:none}
 :root[data-theme=dark] .themebtn .th-sun{display:inline}:root[data-theme=dark] .themebtn .th-moon{display:none}
 @media (prefers-color-scheme:dark){:root:not([data-theme=light]) .themebtn .th-sun{display:inline}:root:not([data-theme=light]) .themebtn .th-moon{display:none}}
-.cover{filter:saturate(.8)}
-.rcard img{filter:saturate(.92)}
 p{color:color-mix(in srgb,var(--ink) 92%,var(--bg))}
 :root[data-theme=dark] .games-hero{background:radial-gradient(120% 140% at 100% 0%,#3a2a1d,transparent 55%),var(--paper)}
