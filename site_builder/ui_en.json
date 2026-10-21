@@ -680,5 +680,18 @@
   "cat_islamic": "Islamic calendar & prayer",
   "cat_play": "Play & quizzes",
   "cat_life": "Learn & everyday tools",
-  "theme_toggle": "Switch light / dark mode"
+  "theme_toggle": "Switch light / dark mode",
+  "td_title": "Your day today",
+  "td_sign": "Your horoscope",
+  "td_pick": "Choose your sign once and we'll show your horoscope here every day:",
+  "td_streak": "🔥 {n} days in a row",
+  "td_streak1": "🔥 Welcome back!",
+  "td_change": "change",
+  "td_word": "English word of the day",
+  "td_prayer": "Next prayer & countdown",
+  "td_prayer_d": "Accurate times for your city",
+  "td_quiz": "10 new questions",
+  "td_quiz_d": "Test yourself in 2 minutes",
+  "td_tarot": "Draw your card",
+  "td_tarot_d": "A short message for your day"
 }

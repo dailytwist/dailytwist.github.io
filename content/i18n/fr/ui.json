@@ -680,5 +680,18 @@
   "cat_islamic": "Prière et calendrier hégirien",
   "cat_play": "Jeux et quiz",
   "cat_life": "Apprendre et outils du quotidien",
-  "theme_toggle": "Mode clair / sombre"
+  "theme_toggle": "Mode clair / sombre",
+  "td_title": "Votre journée",
+  "td_sign": "Votre horoscope",
+  "td_pick": "Choisissez votre signe une fois, et votre horoscope s'affichera ici chaque jour :",
+  "td_streak": "🔥 {n} jours d'affilée",
+  "td_streak1": "🔥 Bon retour !",
+  "td_change": "changer",
+  "td_word": "Le mot anglais du jour",
+  "td_prayer": "Prochaine prière et compte à rebours",
+  "td_prayer_d": "Horaires précis pour votre ville",
+  "td_quiz": "10 nouvelles questions",
+  "td_quiz_d": "Testez-vous en 2 minutes",
+  "td_tarot": "Tirez votre carte",
+  "td_tarot_d": "Un petit message pour votre journée"
 }

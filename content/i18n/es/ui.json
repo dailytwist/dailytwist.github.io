@@ -555,5 +555,18 @@
   "cat_islamic": "Oración y calendario hégira",
   "cat_play": "Juegos y quiz",
   "cat_life": "Aprender y herramientas",
-  "theme_toggle": "Modo claro / oscuro"
+  "theme_toggle": "Modo claro / oscuro",
+  "td_title": "Tu día de hoy",
+  "td_sign": "Tu horóscopo",
+  "td_pick": "Elige tu signo una vez y verás tu horóscopo aquí cada día:",
+  "td_streak": "🔥 {n} días seguidos",
+  "td_streak1": "🔥 ¡Bienvenido de nuevo!",
+  "td_change": "cambiar",
+  "td_word": "Palabra en inglés del día",
+  "td_prayer": "Próxima oración y cuenta atrás",
+  "td_prayer_d": "Horarios exactos para tu ciudad",
+  "td_quiz": "10 preguntas nuevas",
+  "td_quiz_d": "Ponte a prueba en 2 minutos",
+  "td_tarot": "Saca tu carta",
+  "td_tarot_d": "Un mensaje corto para tu día"
 }

@@ -557,6 +557,24 @@ def build_lang(lang):
             for k in keys if k in by_path)
         return f'<section class="rail"><h2>{emo} {e(T(lang, title))}</h2><div class="rtrack">{cards}</div></section>' if cards else ""
     tiles_html = "".join(rail(*c) for c in CATS)
+    # "your day" panel: personal and different every day, so visitors come back
+    tdy = {"signs": {sg: [SIGNS[sg][0], sign_name(lang, sg), (h["signs"][sg]["overview"].split(". ")[0] + ".") if h else ""] for sg in SIGNS},
+           "words": [[w["en"], w["mean"]] for x in D["english"].values() for w in x.get("words", [])][:200],
+           "locale": {"ar": "ar-MA", "pt": "pt-BR"}.get(lang, lang), "pre": pre,
+           "l": {k: T(lang, "td_" + k) for k in ("pick", "streak", "streak1", "change", "word")}}
+    today_box = f"""<section class="today">
+  <div class="td-head"><div><h2>☀️ {e(T(lang, 'td_title'))}</h2><p class="td-date"></p></div><span class="td-streak" hidden></span></div>
+  <div class="td-grid">
+    <a class="td-card td-sign" href="{pre}/horoscope/"><small>🔮 {e(T(lang, 'td_sign'))}</small><b class="td-sign-name"></b><p class="td-sign-text"></p></a>
+    <a class="td-card" href="{pre}/prayer-times/"><small>🕌 {e(T(lang, 'pt_title'))}</small><b>{e(T(lang, 'td_prayer'))}</b><p>{e(T(lang, 'td_prayer_d'))}</p></a>
+    <a class="td-card" href="{pre}/trivia/"><small>🧠 {e(T(lang, 'daily_trivia'))}</small><b>{e(T(lang, 'td_quiz'))}</b><p>{e(T(lang, 'td_quiz_d'))}</p></a>
+    <a class="td-card" href="{pre}/tarot/"><small>🃏 {e(T(lang, 'tarot_title'))}</small><b>{e(T(lang, 'td_tarot'))}</b><p>{e(T(lang, 'td_tarot_d'))}</p></a>
+    {f'<a class="td-card td-word" href="{pre}/learn-english/"><small>🇬🇧 {e(T(lang, "td_word"))}</small><b lang="en" dir="ltr"></b><p></p></a>' if D["english"] else ''}
+  </div>
+  <div class="td-pick" hidden><p>{e(T(lang, 'td_pick'))}</p><div class="td-signs"></div></div>
+</section>
+<script type="application/json" id="today-data">{json.dumps(tdy, ensure_ascii=False).replace("</", "<\\/")}</script>
+<script src="/assets/today.js" defer></script>"""
     strip = "".join(
         f'<a class="sg" href="{pre}/horoscope/{s}/" data-sign="{s}">{sign_art(s, 50)}<b>{e(sign_name(lang, s))}</b></a>'
         for s in SIGNS)
@@ -575,6 +593,7 @@ def build_lang(lang):
   </div>
   <picture><source media="(min-width:761px)" srcset="/assets/sections/hero-wide.webp"><img class="hero-img" src="/assets/sections/hero.webp" width="560" height="600" alt=""></picture>
 </section>
+{today_box}
 <div class="explore">{tiles_html}</div>
 <section>
   <div class="sec-head"><h2>🔮 {e(T(lang, 'daily_horoscope'))}</h2><a href="{pre}/horoscope/">{e(T(lang, 'see_all'))} →</a></div>
