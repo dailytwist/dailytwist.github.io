@@ -24,7 +24,7 @@
   }
   Object.keys(D.signs).forEach(function (s) {
     var b = document.createElement('button'); b.type = 'button'; b.className = 'mchip'; b.textContent = D.signs[s][0] + ' ' + D.signs[s][1];
-    b.onclick = function () { set('dt-sign', s); showSign(s); };
+    b.onclick = function () { set('dt-sign', s); showSign(s); try { (window.OneSignalDeferred = window.OneSignalDeferred || []).push(function (O) { O.User.addTag('sign', s); }); } catch (e) {} };
     list.appendChild(b);
   });
   var mine = get('dt-sign');

@@ -1,3 +1,4 @@
+importScripts("https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.sw.js");
 const CACHE = 'dailytwist-__VERSION__';
 const PRECACHE = ['/offline.html', '/assets/style.css', '/assets/favicon.svg', '/assets/icons/icon-192.png', '/assets/app.js'];
 self.addEventListener('install', e => {

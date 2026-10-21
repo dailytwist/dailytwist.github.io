@@ -256,6 +256,21 @@ def lang_menu(lang, path):
     return items
 
 
+def push_js(lang):
+    """OneSignal web push: a polite prompt after a short visit, tagged with language and zodiac sign."""
+    app = C.get("onesignal_app_id")
+    if not app:
+        return ""
+    t = {"msg": T(lang, "push_msg"), "yes": T(lang, "push_yes"), "no": T(lang, "push_no")}
+    return f"""<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>window.OneSignalDeferred=window.OneSignalDeferred||[];OneSignalDeferred.push(async function(OneSignal){{
+await OneSignal.init({{appId:"{app}",serviceWorkerPath:"sw.js",serviceWorkerParam:{{scope:"/"}},
+promptOptions:{{slidedown:{{prompts:[{{type:"push",autoPrompt:true,delay:{{pageViews:1,timeDelay:20}},
+text:{{actionMessage:{json.dumps(t["msg"], ensure_ascii=False)},acceptButton:{json.dumps(t["yes"], ensure_ascii=False)},cancelButton:{json.dumps(t["no"], ensure_ascii=False)}}}}}]}}}}}});
+try{{OneSignal.User.addTag("lang","{lang}");var s=localStorage.getItem("dt-sign");if(s)OneSignal.User.addTag("sign",s)}}catch(e){{}}
+}});</script>"""
+
+
 def render(lang, path, pg):
     canonical = f"{URL}{P(lang)}/{path}"
     alts = {l: f"{URL}{P(l)}/{path}" for l in LANGS if (l, path) in PAGES}
@@ -359,6 +374,7 @@ def render(lang, path, pg):
   </ol>
 </div>
 <script src="/assets/app.js" defer></script>
+{push_js(lang)}
 <script>document.querySelectorAll('.langs a').forEach(function(a){{a.addEventListener('click',function(){{try{{localStorage.setItem('dt-lang',a.dataset.l)}}catch(x){{}}}})}});</script>
 </body>
 </html>"""
