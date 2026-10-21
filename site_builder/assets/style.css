@@ -692,3 +692,8 @@ nav a{display:inline-flex;align-items:center;gap:5px}
 /* nicer search fields everywhere */
 .dsearch{box-shadow:0 6px 20px rgba(20,10,60,.08);border:1.5px solid transparent;background:var(--paper);font-size:1.05rem;padding:15px 18px;transition:border-color .15s,box-shadow .15s}
 .dsearch:focus{outline:0;border-color:#a78bfa;box-shadow:0 0 0 4px rgba(167,139,250,.25)}
+/* big phone text sizes: never let the hero grow wider than the screen */
+.hero2{grid-template-columns:minmax(0,1.3fr) minmax(0,.7fr)}
+.hero2-in{min-width:0}
+@media (max-width:760px){.hero2{grid-template-columns:minmax(0,1fr)}.hero2-cta .btn{white-space:normal;flex:1 1 140px}}
+.hero2 h1,.hero2-sub{overflow-wrap:anywhere}
