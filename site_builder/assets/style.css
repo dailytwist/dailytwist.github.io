@@ -734,3 +734,9 @@ p{color:color-mix(in srgb,var(--ink) 92%,var(--bg))}
 .hero2-in{z-index:2;max-width:620px}
 .hero2::before{z-index:1}
 @media (max-width:760px){.hero2{min-height:0}.hero2::after,[dir=rtl] .hero2::after{background:linear-gradient(180deg,rgba(8,12,30,.55),rgba(8,12,30,.88))}.hero2 .hero-img{opacity:1}}
+@media (min-width:761px){
+  .hero2 .hero-img{object-position:left center}
+  [dir=ltr] .hero2 .hero-img{transform:scaleX(-1)}
+  .hero2::after{background:linear-gradient(90deg,rgba(8,12,30,.55) 0%,rgba(8,12,30,.25) 50%,rgba(8,12,30,0) 75%)}
+  [dir=rtl] .hero2::after{background:linear-gradient(270deg,rgba(8,12,30,.55) 0%,rgba(8,12,30,.25) 50%,rgba(8,12,30,0) 75%)}
+}

@@ -571,7 +571,7 @@ def build_lang(lang):
     </div>
     <ul class="hero2-badges"><li>🎮 {e(T(lang, 'badge_games', n=n_games))}</li><li>♈ {e(T(lang, 'badge_signs'))}</li><li>✨ {e(T(lang, 'badge_daily'))}</li></ul>
   </div>
-  <img class="hero-img" src="/assets/sections/hero.webp" width="560" height="600" alt="">
+  <picture><source media="(min-width:761px)" srcset="/assets/sections/hero-wide.webp"><img class="hero-img" src="/assets/sections/hero.webp" width="560" height="600" alt=""></picture>
 </section>
 <div class="explore">{tiles_html}</div>
 <section>
