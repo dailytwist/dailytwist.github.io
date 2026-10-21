@@ -284,6 +284,7 @@ def render(lang, path, pg):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<script>try{{var t=localStorage.getItem('dt-theme');if(t)document.documentElement.dataset.theme=t}}catch(e){{}}</script>
 <meta name="p:domain_verify" content="35643b0df7034260a8368e9d58182cfd"/>
 <title>{e(title)}</title>
 <meta name="description" content="{e(pg['desc'])}">
@@ -327,6 +328,7 @@ def render(lang, path, pg):
       <a href="{pre}/articles/">📖 {e(T(lang, 'nav_articles'))}</a>
       <a href="{pre}/countdown/">⏳ {e(T(lang, 'nav_countdowns'))}</a>
     </nav>
+    <button class="themebtn" type="button" aria-label="{e(T(lang, 'theme_toggle'))}" onclick="var d=document.documentElement,n=(d.dataset.theme||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'))==='dark'?'light':'dark';d.dataset.theme=n;try{{localStorage.setItem('dt-theme',n)}}catch(e){{}}"><span class="th-moon">🌙</span><span class="th-sun">☀️</span></button>
     <button id="install" class="install" hidden>📲 {e(T(lang, 'install_app'))}</button>
     <details class="langs"><summary aria-label="{e(T(lang, 'language_label'))}">🌐 {e(NATIVE.get(lang, lang))}</summary>
       <div class="menu">{menu}</div></details>
