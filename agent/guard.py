@@ -344,6 +344,23 @@ def report():
         gh(f"/issues/{mine['number']}", "PATCH", {"state": "closed"})
 
 
+def check_links(public: Path):
+    """Every internal link and file reference must point to something that exists (broken links hurt Google ranking)."""
+    broken = {}
+    for f in public.rglob("*.html"):
+        for u in re.findall(r'(?:href|src)="(/[^"#?]*)', f.read_text(encoding="utf-8", errors="replace")):
+            t = public / u.lstrip("/")
+            if u.endswith("/"):
+                t = t / "index.html"
+            if not t.exists():
+                broken.setdefault(u, str(f.relative_to(public)))
+    if broken:
+        sample = ", ".join(f"{u} (on {p})" for u, p in list(broken.items())[:8])
+        bad(f"{len(broken)} broken internal links: {sample}")
+    else:
+        ok("all internal links work")
+
+
 def main():
     args = sys.argv[1:]
     if args[:1] == ["--local"]:
@@ -357,6 +374,7 @@ def main():
         check_integrity(public)
         check_pages_live()
         check_pages_local(public)
+        check_links(public)
         check_commits()
         report()
     print(f"\n{len(problems)} problem(s)")
