@@ -1,0 +1,7 @@
+{
+ "day": "2026-10-21",
+ "test": {
+  "error": 401,
+  "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n"
+ }
+}
