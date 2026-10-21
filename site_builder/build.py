@@ -85,9 +85,11 @@ def lang_data(lang):
         "numerology": {int(x["number"]): x for x in load(base / "numerology") if x.get("number")},
         "dreams": {x["symbol"]: x for x in load(base / "dreams") if x.get("symbol")},
         "guides2": load(base / "guides"),
+        "english": {x["slug"]: x for x in load(base / "english") if x.get("slug") and x.get("quiz")},
     }
 
 
+EN_ORDER = json.loads((Path(__file__).parent / "data" / "english_lessons.json").read_text(encoding="utf-8"))
 LANGS = ["en"] + [l for l in C.get("languages", []) if l != "en" and (CONTENT / "i18n" / l / "ui.json").exists()]
 DATA = {l: lang_data(l) for l in LANGS}
 
@@ -481,6 +483,7 @@ def build_lang(lang):
         *([(f"{pre}/dreams/", "💤", "dreams_title", "tile_dreams", "#312e81", "#a78bfa")] if D["dreams"] else []),
         *([(f"{pre}/angel-numbers/", "👼", "ang_title", "tile_ang", "#0369a1", "#7dd3fc")] if any(x.get("kind") == "angel" for x in D["guides2"]) else []),
         *([(f"{pre}/birthday/", "🎁", "bdp_title", "tile_bdp", "#be185d", "#fbbf24")] if any(x.get("kind") == "birthday" for x in D["guides2"]) else []),
+        *([(f"{pre}/learn-english/", "🇬🇧", "en_title", "tile_en", "#1d4ed8", "#ef4444")] if D["english"] else []),
         (f"{pre}/zodiac-quiz/", "🧠", "pq_title", "tile_pq", "#7c3aed", "#ec4899"),
         (f"{pre}/love-messages/", "💌", "lm_title", "tile_lm", "#db2777", "#f9a8d4"),
         (f"{pre}/age-calculator/", "🎂", "bday_title", "tile_bday", "#ea580c", "#facc15"),
@@ -1074,6 +1077,66 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
                       "mainEntity": [{"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["ans"]}} for q in faq]} if faq else None
             add(lang, f"{path}/{k}/", x["title"], x["summary"], body, schema, priority="0.7")
     TAROT_LINKS = [f"{pre}/tarot-meanings/{k}/" if k in GD.get("tarot", {}) else "" for k in TAROT_KEYS]
+
+    sj = lambda o: json.dumps(o, ensure_ascii=False).replace("</", "<\\/")
+    # learn English: lessons written by the agent, explanations translated, English examples kept
+    EN = D["english"]
+    if EN:
+        order = [x[0] for x in EN_ORDER if x[0] in EN]
+        order += sorted(k for k in EN if k not in order)
+        LV = ("A1", "A2", "B1", "B2")
+        def ecard(k):
+            x = EN[k]
+            return (f'<a class="encard" href="{pre}/learn-english/{k}/" data-k="{k}"><span class="enemo">{e(x.get("emoji", "📘"))}</span>'
+                    f'<span class="entx"><b>{e(x["title"])}</b><small>{e(T(lang, "en_cat_" + x.get("cat", "grammar")))}</small></span><i class="enok">✓</i></a>')
+        levels = "".join(f'<h2 class="enlv"><span class="cefr">{lv}</span> {e(T(lang, "en_lv_" + lv))}</h2><div class="engrid">' + "".join(ecard(k) for k in order if EN[k].get("cefr") == lv) + '</div>'
+                         for lv in LV if any(EN[k].get("cefr") == lv for k in order))
+        wod = [[w["en"], w["mean"], k] for k in order for w in EN[k].get("words", [])]
+        edata = {"words": wod, "total": len(order), "l": {k: e(T(lang, "en_" + k)) for k in ("progress", "listen")}, "pre": pre}
+        add(lang, "learn-english/", T(lang, "en_title"), T(lang, "en_desc"), f"""
+<section class="zhub enhub">
+  <p class="kicker">🇬🇧 {e(T(lang, 'en_title'))}</p><h1>{e(T(lang, 'en_title'))}</h1>
+  <p class="lead">{e(T(lang, 'en_desc'))}</p>
+  <div class="enwod"><small>⭐ {e(T(lang, 'en_wod'))}</small><div class="enwod-w"><b lang="en" dir="ltr"></b><button class="say" type="button" aria-label="{e(T(lang, 'en_listen'))}">🔊</button></div><p></p><a class="small" href="#"></a></div>
+  <div class="enprog"><div class="enbar"><i></i></div><span></span></div>
+  {levels}
+  <p class="muted small">✨ {e(T(lang, 'en_new'))}</p>
+</section>
+<script type="application/json" id="en-data">{sj(edata)}</script>
+<script src="/assets/english.js" defer></script>""", priority="0.9")
+        for i, k in enumerate(order):
+            x = EN[k]
+            say = lambda t: f'<button class="say" type="button" data-t="{e(t)}" aria-label="{e(T(lang, "en_listen"))}">🔊</button>'
+            secs = "".join(
+                f"<h2>{e(sc['h'])}</h2><p>{e(sc['p'])}</p>" + "".join(
+                    f'<div class="enex">{say(z["en"])}<div><b lang="en" dir="ltr">{e(z["en"])}</b><small>{e(z["mean"])}</small></div></div>' for z in sc.get("ex", []))
+                for sc in x.get("sections", []))
+            words = "".join(f'<div class="enw">{say(w["en"])}<b lang="en" dir="ltr">{e(w["en"])}</b><small>{e(w["mean"])}</small></div>' for w in x.get("words", []))
+            qd = {"q": [{"ask": q["ask"], "en": q["en"], "c": q["choices"], "a": q["answer_index"]} for q in x["quiz"]], "k": k,
+                  "l": {kk: e(T(lang, "en_" + kk)) for kk in ("score", "retry", "done", "listen")}}
+            prv = order[i - 1] if i else None
+            nxt = order[i + 1] if i + 1 < len(order) else None
+            nav = (f'<a class="btn small ghost" href="{pre}/learn-english/{prv}/">← {e(EN[prv]["title"])}</a>' if prv else "") + \
+                  (f'<a class="btn small" href="{pre}/learn-english/{nxt}/">{e(T(lang, "en_next"))}: {e(EN[nxt]["title"])} →</a>' if nxt else "")
+            body = f"""
+<article class="guide enles">
+  <p class="kicker">🇬🇧 <a href="{pre}/learn-english/">{e(T(lang, 'en_title'))}</a> · <span class="cefr">{e(x.get('cefr', ''))}</span> {e(T(lang, 'en_cat_' + x.get('cat', 'grammar')))}</p>
+  <h1>{e(x.get('emoji', '📘'))} {e(x['title'])}</h1>
+  <p class="lead">{e(x['summary'])}</p>
+  {secs}
+  {f'<h2>📝 {e(T(lang, "en_words"))}</h2><div class="enwords">{words}</div>' if words else ''}
+  {f'<div class="entip">💡 {e(x["tip"])}</div>' if x.get('tip') else ''}
+  <h2>✅ {e(T(lang, 'en_quiz'))}</h2>
+  <div id="enquiz" class="enquiz"></div>
+  <div class="ennav">{nav}</div>
+  <a class="btn light" href="{pre}/learn-english/">📚 {e(T(lang, 'en_all'))}</a>
+</article>
+<script type="application/json" id="enq-data">{sj(qd)}</script>
+<script src="/assets/english.js" defer></script>"""
+            schema = {"@context": "https://schema.org", "@type": "LearningResource", "name": x["title"], "description": x["summary"],
+                      "inLanguage": lang, "educationalLevel": x.get("cefr", ""), "learningResourceType": "Lesson",
+                      "teaches": x["title"], "isAccessibleForFree": True}
+            add(lang, f"learn-english/{k}/", x["title"], x["summary"], body, schema, priority="0.8")
 
     # love compatibility
     sj = lambda o: json.dumps(o, ensure_ascii=False).replace("</", "<\\/")

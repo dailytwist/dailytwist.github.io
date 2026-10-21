@@ -1,0 +1,180 @@
+{
+ "date": "2026-10-21",
+ "slug": "verb-to-be",
+ "cefr": "A1",
+ "cat": "grammar",
+ "emoji": "🧩",
+ "title": "The Verb To Be: Am, Is, Are",
+ "summary": "The verb 'to be' is the most important verb in English. Learn when to use am, is and are, and how to make negatives and questions.",
+ "sections": [
+  {
+   "h": "Am, is, are",
+   "p": "Use 'am' only with I. Use 'is' with he, she, it and one person or thing. Use 'are' with you, we, they and more than one person or thing. We use 'to be' to talk about names, age, jobs, feelings, places and descriptions.",
+   "ex": [
+    {
+     "en": "I am a student.",
+     "mean": "Saying what you are."
+    },
+    {
+     "en": "She is happy today.",
+     "mean": "Describing how a woman feels."
+    },
+    {
+     "en": "They are at home.",
+     "mean": "Saying where some people are."
+    }
+   ]
+  },
+  {
+   "h": "Short forms",
+   "p": "In speaking and informal writing, we usually join the pronoun and the verb: I'm, you're, he's, she's, it's, we're, they're. The meaning is exactly the same, but it sounds more natural.",
+   "ex": [
+    {
+     "en": "I'm 25 years old.",
+     "mean": "Saying your age (in English we use 'be' for age)."
+    },
+    {
+     "en": "It's cold outside.",
+     "mean": "Describing the weather."
+    },
+    {
+     "en": "We're friends.",
+     "mean": "Saying what we are to each other."
+    }
+   ]
+  },
+  {
+   "h": "Negatives",
+   "p": "To make a negative, add 'not' after am, is or are. The short forms are 'I'm not', 'isn't' and 'aren't'. There is no short form 'amn't'.",
+   "ex": [
+    {
+     "en": "I'm not tired.",
+     "mean": "Saying you do not feel tired."
+    },
+    {
+     "en": "He isn't a doctor.",
+     "mean": "Saying a man does not have this job."
+    },
+    {
+     "en": "You aren't late.",
+     "mean": "Telling someone they arrived on time."
+    }
+   ]
+  },
+  {
+   "h": "Questions",
+   "p": "To ask a question, put am, is or are before the subject. Give short answers with the verb: 'Yes, I am.' 'No, she isn't.' In positive short answers, do not use the short form: say 'Yes, I am', not 'Yes, I'm'.",
+   "ex": [
+    {
+     "en": "Are you ready?",
+     "mean": "Asking if someone is prepared."
+    },
+    {
+     "en": "Is it expensive?",
+     "mean": "Asking if something costs a lot."
+    },
+    {
+     "en": "Yes, it is.",
+     "mean": "A short positive answer."
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "en": "am",
+   "mean": "be, with I"
+  },
+  {
+   "en": "is",
+   "mean": "be, with he/she/it"
+  },
+  {
+   "en": "are",
+   "mean": "be, with you/we/they"
+  },
+  {
+   "en": "isn't",
+   "mean": "is not"
+  },
+  {
+   "en": "aren't",
+   "mean": "are not"
+  },
+  {
+   "en": "happy",
+   "mean": "feeling good"
+  },
+  {
+   "en": "tired",
+   "mean": "needing rest"
+  },
+  {
+   "en": "ready",
+   "mean": "prepared"
+  }
+ ],
+ "tip": "Remember the pattern I-am, he-she-it-is, you-we-they-are. Say it like a little song three times and it will stay in your head.",
+ "quiz": [
+  {
+   "ask": "Choose the correct word",
+   "en": "I ___ from Brazil.",
+   "choices": [
+    "is",
+    "am",
+    "are"
+   ],
+   "answer_index": 1
+  },
+  {
+   "ask": "Choose the correct word",
+   "en": "My brothers ___ at school.",
+   "choices": [
+    "are",
+    "is",
+    "am"
+   ],
+   "answer_index": 0
+  },
+  {
+   "ask": "Choose the correct word",
+   "en": "It ___ a beautiful day.",
+   "choices": [
+    "am",
+    "are",
+    "is"
+   ],
+   "answer_index": 2
+  },
+  {
+   "ask": "Make it negative",
+   "en": "She ___ hungry.",
+   "choices": [
+    "not is",
+    "isn't",
+    "aren't"
+   ],
+   "answer_index": 1
+  },
+  {
+   "ask": "Choose the correct question",
+   "en": "Which question is correct?",
+   "choices": [
+    "You are tired?",
+    "Are you tired?",
+    "Is you tired?"
+   ],
+   "answer_index": 1
+  },
+  {
+   "ask": "Choose the correct short answer",
+   "en": "A: Are you a teacher? B: Yes, ___",
+   "choices": [
+    "I'm.",
+    "I am.",
+    "I is."
+   ],
+   "answer_index": 1
+  }
+ ]
+}

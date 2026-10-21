@@ -301,7 +301,7 @@ LANG_NAMES = {"en": "English", "es": "Spanish", "fr": "French", "de": "German", 
               "sv": "Swedish", "zh": "Simplified Chinese", "vi": "Vietnamese", "th": "Thai", "uk": "Ukrainian"}
 UI_EN = json.loads((ROOT / "site_builder" / "ui_en.json").read_text(encoding="utf-8"))
 I18N = CONTENT / "i18n"
-KEEP = {"slug", "date", "topic", "trending", "answer_index", "lucky_number", "category", "sign", "best", "hard", "a", "b", "score", "year", "animal", "number", "years", "symbol", "key", "kind", "month", "day"}
+KEEP = {"slug", "date", "topic", "trending", "answer_index", "lucky_number", "category", "sign", "best", "hard", "a", "b", "score", "year", "animal", "number", "years", "symbol", "key", "kind", "month", "day", "en", "cefr", "cat", "choices"}
 
 
 def _keep(k, d) -> bool:
@@ -381,7 +381,7 @@ def ensure_ui(lang: str) -> None:
 
 def translate_content(lang: str, budget: list, today: dt.date) -> None:
     jobs = []
-    for kind in ("horoscopes", "trivia", "articles", "signs", "pairs", "yearly", "chinese", "numerology", "dreams", "guides"):
+    for kind in ("horoscopes", "trivia", "articles", "signs", "pairs", "yearly", "chinese", "numerology", "dreams", "guides", "english"):
         for f in (CONTENT / kind).glob("*.json"):
             if not (I18N / lang / kind / f.name).exists():
                 jobs.append((kind, f))
@@ -552,6 +552,50 @@ def make_guides(day: dt.date, plan: dict) -> None:
                      "sections": secs[:6], "faq": faq[:5]})
 
 
+# English lessons: (slug, CEFR level, category, topic). Written in simple English; the agent translates the explanations
+# for each site language while every English example ("en"), answer choice and word stays in English.
+ENGLISH_LESSONS = [tuple(x) for x in json.loads((ROOT / "site_builder" / "data" / "english_lessons.json").read_text(encoding="utf-8"))]
+
+
+def make_english(day: dt.date, count: int) -> None:
+    """English lessons for learners, a few per run until the course is complete."""
+    todo = [x for x in ENGLISH_LESSONS if not (CONTENT / "english" / f"{x[0]}.json").exists()]
+    for slug, cefr, cat, topic in todo[:count]:
+        print(f"- english {slug}")
+        data = ask_json(f"""You are a friendly, expert English teacher writing a short online lesson for learners at CEFR level {cefr}.
+Topic: {topic}.
+Write the explanations in very simple, clear English (they will later be translated for learners who speak other languages).
+Every English example must be correct, natural and useful in real life. No names of real famous people.
+Format:
+{{"title": "short lesson title (e.g. 'The Verb To Be: Am, Is, Are')", "summary": "2 short sentences: what you will learn",
+"emoji": "one emoji",
+"sections": [{{"h": "short heading", "p": "40-80 words explanation", "ex": [{{"en": "an English example sentence", "mean": "the same idea explained in simple words"}}, 2-4 items]}}, 3-4 items],
+"words": [{{"en": "key English word or phrase from the lesson", "mean": "1-4 word plain-English gloss"}}, 6-10 items],
+"tip": "one practical tip for remembering this, 1-2 sentences",
+"quiz": [{{"ask": "short instruction, e.g. 'Choose the correct word'", "en": "an English sentence with ___ for the gap, or an English question",
+"choices": ["3 or 4 short English answers"], "answer_index": 0}}, 6 items]}}
+Vary answer_index (do not always use 0).""", max_tokens=4000)
+        secs = []
+        for x in data.get("sections", []):
+            if isinstance(x, dict) and x.get("h") and x.get("p"):
+                ex = [{"en": str(y.get("en", "")), "mean": str(y.get("mean", ""))} for y in x.get("ex", []) if isinstance(y, dict) and y.get("en")]
+                secs.append({"h": str(x["h"]), "p": str(x["p"]), "ex": ex[:4]})
+        words = [{"en": str(w.get("en", "")), "mean": str(w.get("mean", ""))} for w in data.get("words", []) if isinstance(w, dict) and w.get("en")]
+        quiz = []
+        for q in data.get("quiz", []):
+            try:
+                ch = [str(c) for c in q["choices"]][:4]
+                ai = int(q["answer_index"])
+                if len(ch) >= 2 and 0 <= ai < len(ch) and q.get("en"):
+                    quiz.append({"ask": str(q.get("ask", "")), "en": str(q["en"]), "choices": ch, "answer_index": ai})
+            except Exception:
+                continue
+        if data.get("title") and data.get("summary") and len(secs) >= 2 and len(quiz) >= 3:
+            save(CONTENT / "english" / f"{slug}.json", {"date": str(day), "slug": slug, "cefr": cefr, "cat": cat,
+                 "emoji": str(data.get("emoji", "📘"))[:4], "title": str(data["title"]), "summary": str(data["summary"]),
+                 "sections": secs[:4], "words": words[:10], "tip": str(data.get("tip", "")), "quiz": quiz[:8]})
+
+
 # ---------------------------------------------------------------- main
 def main() -> None:
     ap = argparse.ArgumentParser()
@@ -568,7 +612,8 @@ def main() -> None:
              (make_pairs, (today, CONFIG.get("pairs_per_day", 6))),
              (make_yearly, (today, 6)), (make_chinese, (today, 6)),
              (make_dreams, (today, CONFIG.get("dreams_per_day", 6))),
-             (make_guides, (today, CONFIG.get("guides_per_run", {"tarot": 4, "angel": 4, "birthday": 6, "birthstone": 2})))]
+             (make_guides, (today, CONFIG.get("guides_per_run", {"tarot": 4, "angel": 4, "birthday": 6, "birthstone": 2}))),
+             (make_english, (today, CONFIG.get("english_per_run", 5)))]
     errors = 0
     for fn, a in jobs:
         try:

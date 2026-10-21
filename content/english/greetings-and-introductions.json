@@ -1,0 +1,176 @@
+{
+ "date": "2026-10-21",
+ "slug": "greetings-and-introductions",
+ "cefr": "A1",
+ "cat": "phrases",
+ "emoji": "👋",
+ "title": "Greetings and Introductions in English",
+ "summary": "Learn how to say hello, introduce yourself and ask someone's name. These are the first sentences you will use in every conversation.",
+ "sections": [
+  {
+   "h": "Saying hello",
+   "p": "Use 'Hello' in any situation. 'Hi' and 'Hey' are friendly and informal, for friends and family. With people you don't know, or at work, 'Good morning', 'Good afternoon' and 'Good evening' sound polite. 'Good night' is only for saying goodbye at night.",
+   "ex": [
+    {
+     "en": "Hi, Sam! How are you?",
+     "mean": "A friendly hello to a friend."
+    },
+    {
+     "en": "Good morning, everyone.",
+     "mean": "A polite hello before 12 o'clock."
+    },
+    {
+     "en": "Good evening, sir.",
+     "mean": "A polite hello in the evening."
+    }
+   ]
+  },
+  {
+   "h": "Introducing yourself",
+   "p": "To say who you are, use 'My name is...' or the shorter 'I'm...'. You can add where you are from and what you do. When you meet someone for the first time, say 'Nice to meet you'. The other person often answers 'Nice to meet you too'.",
+   "ex": [
+    {
+     "en": "Hello, my name is Lina.",
+     "mean": "Telling someone your name."
+    },
+    {
+     "en": "I'm from Morocco.",
+     "mean": "Saying which country you come from."
+    },
+    {
+     "en": "Nice to meet you!",
+     "mean": "A polite phrase when you meet someone new."
+    }
+   ]
+  },
+  {
+   "h": "Asking questions",
+   "p": "To learn about the other person, ask simple questions. 'What's your name?' and 'Where are you from?' are the most common. 'How are you?' is a greeting, so a short answer is enough: 'I'm fine, thanks. And you?'",
+   "ex": [
+    {
+     "en": "What's your name?",
+     "mean": "Asking for someone's name."
+    },
+    {
+     "en": "Where are you from?",
+     "mean": "Asking which country or city someone comes from."
+    },
+    {
+     "en": "I'm fine, thanks. And you?",
+     "mean": "Answering 'How are you?' and asking back."
+    }
+   ]
+  },
+  {
+   "h": "Saying goodbye",
+   "p": "'Goodbye' is polite and works everywhere. 'Bye' and 'See you!' are informal. 'See you later' and 'See you tomorrow' are useful when you will meet again soon. 'Have a nice day!' is a kind way to end a conversation.",
+   "ex": [
+    {
+     "en": "Bye! See you tomorrow.",
+     "mean": "An informal goodbye when you meet again the next day."
+    },
+    {
+     "en": "Have a nice day!",
+     "mean": "A friendly wish when you leave."
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "en": "hello",
+   "mean": "a greeting"
+  },
+  {
+   "en": "hi",
+   "mean": "informal hello"
+  },
+  {
+   "en": "goodbye",
+   "mean": "a word for leaving"
+  },
+  {
+   "en": "nice to meet you",
+   "mean": "happy to know you"
+  },
+  {
+   "en": "How are you?",
+   "mean": "a greeting question"
+  },
+  {
+   "en": "I'm fine",
+   "mean": "I am well"
+  },
+  {
+   "en": "from",
+   "mean": "origin, home country"
+  },
+  {
+   "en": "see you later",
+   "mean": "goodbye for now"
+  }
+ ],
+ "tip": "Practise your introduction out loud every day: your name, your country and one thing you like. In one week you will say it without thinking.",
+ "quiz": [
+  {
+   "ask": "Choose the best answer",
+   "en": "A: How are you? B: ___",
+   "choices": [
+    "I'm fine, thanks.",
+    "I'm Lina.",
+    "Nice to meet you."
+   ],
+   "answer_index": 0
+  },
+  {
+   "ask": "Complete the sentence",
+   "en": "___ name is Omar.",
+   "choices": [
+    "I",
+    "My",
+    "Me"
+   ],
+   "answer_index": 1
+  },
+  {
+   "ask": "Choose the correct greeting for 9 a.m.",
+   "en": "___, everyone!",
+   "choices": [
+    "Good night",
+    "Good evening",
+    "Good morning"
+   ],
+   "answer_index": 2
+  },
+  {
+   "ask": "Complete the question",
+   "en": "Where are you ___?",
+   "choices": [
+    "from",
+    "of",
+    "to"
+   ],
+   "answer_index": 0
+  },
+  {
+   "ask": "Choose the polite reply",
+   "en": "A: Nice to meet you. B: ___",
+   "choices": [
+    "Goodbye.",
+    "Nice to meet you too.",
+    "I'm from Spain."
+   ],
+   "answer_index": 1
+  },
+  {
+   "ask": "Which one is informal?",
+   "en": "Choose the informal way to say goodbye.",
+   "choices": [
+    "Good evening",
+    "Goodbye, sir",
+    "See you!"
+   ],
+   "answer_index": 2
+  }
+ ]
+}

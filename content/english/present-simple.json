@@ -1,0 +1,176 @@
+{
+ "date": "2026-10-21",
+ "slug": "present-simple",
+ "cefr": "A1",
+ "cat": "grammar",
+ "emoji": "🔁",
+ "title": "Present Simple: Habits and Facts",
+ "summary": "Use the present simple to talk about things you do every day and things that are always true. Learn the important -s rule for he, she and it.",
+ "sections": [
+  {
+   "h": "When do we use it?",
+   "p": "We use the present simple for habits (things we do again and again), routines, and facts that are always true. Words like every day, always, usually and on Mondays often go with this tense.",
+   "ex": [
+    {
+     "en": "I drink coffee every morning.",
+     "mean": "A daily habit."
+    },
+    {
+     "en": "Water boils at 100 degrees.",
+     "mean": "A scientific fact."
+    },
+    {
+     "en": "We play football on Sundays.",
+     "mean": "A weekly routine."
+    }
+   ]
+  },
+  {
+   "h": "The -s rule",
+   "p": "With he, she and it, add -s to the verb: he works, she lives, it rains. For verbs ending in -ch, -sh, -s, -x or -o, add -es: watches, goes. For a consonant + y, change y to -ies: study becomes studies. 'Have' becomes 'has'.",
+   "ex": [
+    {
+     "en": "She works in a bank.",
+     "mean": "Saying where a woman works."
+    },
+    {
+     "en": "He watches TV after dinner.",
+     "mean": "A man's evening habit."
+    },
+    {
+     "en": "My sister studies English.",
+     "mean": "What a sister learns."
+    }
+   ]
+  },
+  {
+   "h": "Negatives",
+   "p": "Use don't (do not) with I, you, we and they. Use doesn't (does not) with he, she and it. After don't or doesn't, the verb has no -s.",
+   "ex": [
+    {
+     "en": "I don't eat meat.",
+     "mean": "Saying you never eat meat."
+    },
+    {
+     "en": "He doesn't like rain.",
+     "mean": "Saying a man does not enjoy rain."
+    }
+   ]
+  },
+  {
+   "h": "Questions",
+   "p": "Start the question with Do or Does. Again, the main verb has no -s. Short answers use do, don't, does or doesn't.",
+   "ex": [
+    {
+     "en": "Do you speak French?",
+     "mean": "Asking about someone's languages."
+    },
+    {
+     "en": "Does she live here?",
+     "mean": "Asking where a woman lives."
+    },
+    {
+     "en": "No, she doesn't.",
+     "mean": "A short negative answer."
+    }
+   ]
+  }
+ ],
+ "words": [
+  {
+   "en": "every day",
+   "mean": "each day"
+  },
+  {
+   "en": "usually",
+   "mean": "most of the time"
+  },
+  {
+   "en": "always",
+   "mean": "all the time"
+  },
+  {
+   "en": "never",
+   "mean": "not at any time"
+  },
+  {
+   "en": "work",
+   "mean": "do a job"
+  },
+  {
+   "en": "live",
+   "mean": "have your home"
+  },
+  {
+   "en": "don't",
+   "mean": "do not"
+  },
+  {
+   "en": "doesn't",
+   "mean": "does not"
+  }
+ ],
+ "tip": "Each time you use he, she or it, imagine a little snake hissing 'sss' at the end of the verb: she work-s, he play-s.",
+ "quiz": [
+  {
+   "ask": "Choose the correct form",
+   "en": "She ___ in Madrid.",
+   "choices": [
+    "live",
+    "lives",
+    "living"
+   ],
+   "answer_index": 1
+  },
+  {
+   "ask": "Choose the correct form",
+   "en": "They ___ tea in the evening.",
+   "choices": [
+    "drinks",
+    "drinking",
+    "drink"
+   ],
+   "answer_index": 2
+  },
+  {
+   "ask": "Make it negative",
+   "en": "He ___ like coffee.",
+   "choices": [
+    "don't",
+    "doesn't",
+    "not"
+   ],
+   "answer_index": 1
+  },
+  {
+   "ask": "Complete the question",
+   "en": "___ you play the guitar?",
+   "choices": [
+    "Do",
+    "Does",
+    "Are"
+   ],
+   "answer_index": 0
+  },
+  {
+   "ask": "Choose the correct spelling",
+   "en": "My father ___ the news every night.",
+   "choices": [
+    "watchs",
+    "watches",
+    "watch"
+   ],
+   "answer_index": 1
+  },
+  {
+   "ask": "Choose the correct question",
+   "en": "Which question is correct?",
+   "choices": [
+    "Does she works here?",
+    "Do she work here?",
+    "Does she work here?"
+   ],
+   "answer_index": 2
+  }
+ ]
+}
