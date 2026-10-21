@@ -53,6 +53,26 @@ def _post(url, body, headers):
 
 
 _GEMINI_MODEL = None
+_GEMINI_AVAILABLE = []
+_GEMINI_SPENT = set()  # models whose daily free quota is used up in this run
+PREFERRED = ["gemini-flash-lite-latest", "gemini-2.5-flash-lite", "gemini-flash-latest", "gemini-2.5-flash",
+             "gemma-4-31b-it", "gemma-4-26b-a4b-it", "gemma-3-27b-it"]
+
+
+class QuotaDone(RuntimeError):
+    pass
+
+
+def next_gemini_model() -> str:
+    """Switch to the next model that still has free quota (each model has its own daily limit)."""
+    global _GEMINI_MODEL
+    _GEMINI_SPENT.add(_GEMINI_MODEL)
+    for m in [CONFIG.get("gemini_model", "")] + PREFERRED:
+        if m and m not in _GEMINI_SPENT and (not _GEMINI_AVAILABLE or m in _GEMINI_AVAILABLE):
+            _GEMINI_MODEL = m
+            print(f"::warning::daily quota reached, switching to {m}")
+            return m
+    raise QuotaDone("all free Gemini models are out of quota for today")
 
 
 def gemini_model(key: str) -> str:
@@ -68,6 +88,7 @@ def gemini_model(key: str) -> str:
             models = json.loads(r.read()).get("models", [])
         names = [m["name"].split("/", 1)[1] for m in models
                  if "generateContent" in m.get("supportedGenerationMethods", [])]
+        _GEMINI_AVAILABLE[:] = names
         print(f"::warning::Gemini models available: {', '.join(names[:40])}")
         if wanted in names:
             _GEMINI_MODEL = wanted
@@ -103,7 +124,7 @@ def ask_ai(prompt: str, max_tokens: int = 4000, retries: int = 4, json_mode: boo
                     f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
                     {"contents": [{"parts": [{"text": prompt}]}],
                      "generationConfig": {"maxOutputTokens": max_tokens, "temperature": 0.9,
-                                          **({"responseMimeType": "application/json"} if json_mode else {})}},
+                                          **({"responseMimeType": "application/json"} if json_mode and "gemma" not in model else {})}},
                     {"x-goog-api-key": gkey, "content-type": "application/json"})
                 return "".join(p.get("text", "") for p in data["candidates"][0]["content"]["parts"])
             data = _post(API_URL, {"model": CONFIG["ai_model"], "max_tokens": max_tokens,
@@ -117,6 +138,9 @@ def ask_ai(prompt: str, max_tokens: int = 4000, retries: int = 4, json_mode: boo
                 except Exception:
                     pass
             last_error = str(e)
+            if gkey and "429" in last_error and ("PerDay" in last_error or "per day" in last_error.lower() or attempt >= 1):
+                next_gemini_model()  # daily limit: move on to another free model instead of waiting
+                continue
             wait = 65 if "429" in str(e) else 10 * (attempt + 1)
             print(f"  AI call failed ({e}), retry {attempt + 1}/{retries} in {wait}s")
             time.sleep(wait)
@@ -549,6 +573,9 @@ def main() -> None:
     for fn, a in jobs:
         try:
             fn(*a)
+        except QuotaDone as e:
+            print(f"::warning::{fn.__name__} skipped: {e}")
+            errors += 1
         except Exception as e:
             errors += 1
             print(f"::error::{fn.__name__} failed: {str(e)[:600]}")
