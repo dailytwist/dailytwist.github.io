@@ -111,6 +111,12 @@ def section_img(path):
     return None
 
 
+CITIES = json.loads((Path(__file__).parent / "data" / "cities.json").read_text(encoding="utf-8"))
+PRAYER_METHODS = {"morocco": {"f": 19, "i": 17, "mg": 5}, "algeria": {"f": 18, "i": 17}, "tunisia": {"f": 18, "i": 18},
+                  "egypt": {"f": 19.5, "i": 17.5}, "ummalqura": {"f": 18.5, "i": "90"}, "uae": {"f": 18.2, "i": 18.2},
+                  "qatar": {"f": 18, "i": "90"}, "kuwait": {"f": 18, "i": 17.5}, "jordan": {"f": 18, "i": 18},
+                  "mwl": {"f": 18, "i": 17}, "turkey": {"f": 18, "i": 17}, "karachi": {"f": 18, "i": 18, "asr": 2},
+                  "sea": {"f": 20, "i": 18}, "france": {"f": 12, "i": 12}, "isna": {"f": 15, "i": 15}}
 EN_ORDER = json.loads((Path(__file__).parent / "data" / "english_lessons.json").read_text(encoding="utf-8"))
 LANGS = ["en"] + [l for l in C.get("languages", []) if l != "en" and (CONTENT / "i18n" / l / "ui.json").exists()]
 DATA = {l: lang_data(l) for l in LANGS}
@@ -508,7 +514,8 @@ def build_lang(lang):
         *([(f"{pre}/dreams/", "💤", "dreams_title", "tile_dreams", "#312e81", "#a78bfa")] if D["dreams"] else []),
         *([(f"{pre}/angel-numbers/", "👼", "ang_title", "tile_ang", "#0369a1", "#7dd3fc")] if any(x.get("kind") == "angel" for x in D["guides2"]) else []),
         *([(f"{pre}/birthday/", "🎁", "bdp_title", "tile_bdp", "#be185d", "#fbbf24")] if any(x.get("kind") == "birthday" for x in D["guides2"]) else []),
-        (f"{pre}/hijri-calendar/", "🕌", "hj_title", "tile_hj", "#047857", "#34d399"),
+        (f"{pre}/prayer-times/", "🕌", "pt_title", "tile_pt", "#065f46", "#10b981"),
+        (f"{pre}/hijri-calendar/", "🌙", "hj_title", "tile_hj", "#047857", "#34d399"),
         *([(f"{pre}/names/", "👶", "nm_title", "tile_nm", "#0891b2", "#f472b6")] if D["names"] else []),
         *([(f"{pre}/learn-english/", "🇬🇧", "en_title", "tile_en", "#1d4ed8", "#ef4444")] if D["english"] else []),
         (f"{pre}/zodiac-quiz/", "🧠", "pq_title", "tile_pq", "#7c3aed", "#ec4899"),
@@ -1124,6 +1131,46 @@ n.textContent=out.length?'':{json.dumps(T(lang, 'search_none'), ensure_ascii=Fal
 r.innerHTML=out.map(function(x){{return '<a class="sres" href="'+x.u+'"><b>'+x.t.replace(/</g,'&lt;')+'</b><small>'+x.d.replace(/</g,'&lt;')+'</small></a>'}}).join('')}}
 fetch('/search-{lang}.json').then(function(x){{return x.json()}}).then(function(d){{I=d.map(function(x){{return {{t:x[0],u:x[1],d:x[2],k:nz(x[0]+' '+x[2])}}}});var s=new URLSearchParams(location.search).get('q');if(s)q.value=s;go()}});
 q.oninput=go}})();</script>""", priority="0.3")
+
+    # prayer times: calculated in the browser for each city
+    ci = {"en": 1, "ar": 2, "fr": 3, "es": 4}.get(lang, 1)
+    flag = lambda cc: "".join(chr(0x1F1E6 + ord(c) - 65) for c in cc)
+    pnames = {n: T(lang, "pt_" + n) for n in ("fajr", "sunrise", "dhuhr", "asr", "maghrib", "isha")}
+    ptl = {**pnames, "next": T(lang, "pt_next"), "here": T(lang, "pt_here")}
+    icons = {"fajr": "🌄", "sunrise": "🌅", "dhuhr": "☀️", "asr": "🌤️", "maghrib": "🌇", "isha": "🌙"}
+    loc = {"ar": "ar-MA", "pt": "pt-BR"}.get(lang, lang)
+    citylist = "".join(f'<a class="mchip ptchip" href="{pre}/prayer-times/{c[0]}/">{flag(c[5])} {e(c[ci])}</a>' for c in CITIES)
+    def pt_widget(city, slug):
+        d = {"city": city, "methods": PRAYER_METHODS, "l": ptl, "icons": icons, "locale": loc}
+        return f"""<div id="prayer" class="prayer">
+    <div class="pt-head"><b class="pt-city">{e(city.get("name", ""))}</b><small class="pt-date"></small></div>
+    <p class="pt-next"></p><div class="pt-grid"></div>
+    {'' if slug else f'<button class="btn small pt-locate" type="button">📍 {e(T(lang, "pt_locate"))}</button>'}
+    <h2>📅 {e(T(lang, 'pt_month'))}</h2><div class="pt-scroll"><table class="pt-month"></table></div>
+  </div>
+<script type="application/json" id="prayer-data">{json.dumps(d, ensure_ascii=False)}</script>
+<script src="/assets/prayer.js" defer></script>"""
+    home_city = next(c for c in CITIES if c[0] == ("cairo" if lang == "ar" else "casablanca" if lang == "fr" else "mecca"))
+    add(lang, "prayer-times/", T(lang, "pt_title"), T(lang, "pt_desc"), f"""
+<article class="pt-page">
+  <p class="kicker">🕌 {e(T(lang, 'pt_title'))}</p><h1>{e(T(lang, 'pt_title'))}</h1>
+  <p class="lead">{e(T(lang, 'pt_desc'))}</p>
+  <h2>🏙️ {e(T(lang, 'pt_cities'))}</h2><div class="chips">{citylist}</div>
+  {pt_widget({"name": home_city[ci], "lat": home_city[6], "lng": home_city[7], "tz": home_city[8], "m": home_city[9]}, "")}
+  <p class="small muted">ℹ️ {e(T(lang, 'pt_note'))}</p>
+</article>""", priority="0.9")
+    for c in CITIES:
+        name = c[ci]
+        others = [o for o in CITIES if o[5] == c[5] and o[0] != c[0]][:12] or [o for o in CITIES if o[0] != c[0]][:12]
+        add(lang, f"prayer-times/{c[0]}/", T(lang, "pt_city_title", city=name), T(lang, "pt_city_desc", city=name), f"""
+<article class="pt-page">
+  <p class="kicker">🕌 <a href="{pre}/prayer-times/">{e(T(lang, 'pt_title'))}</a></p><h1>{flag(c[5])} {e(T(lang, 'pt_city_title', city=name))}</h1>
+  <p class="lead">{e(T(lang, 'pt_city_desc', city=name))}</p>
+  {pt_widget({"name": name, "lat": c[6], "lng": c[7], "tz": c[8], "m": c[9]}, c[0])}
+  <p class="small muted">ℹ️ {e(T(lang, 'pt_note'))}</p>
+  <h2>🏙️ {e(T(lang, 'pt_other'))}</h2><div class="chips">{"".join(f'<a class="mchip ptchip" href="{pre}/prayer-times/{o[0]}/">{flag(o[5])} {e(o[ci])}</a>' for o in others)}</div>
+  <a class="btn light" href="{pre}/hijri-calendar/">🌙 {e(T(lang, 'hj_title'))}</a>
+</article>""", priority="0.8")
 
     # Hijri calendar: today's date and converter (computed in the browser)
     hol = DATA[lang]["ui"].get("holidays", {})
