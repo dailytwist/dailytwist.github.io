@@ -40,6 +40,8 @@ jobs:
 
       - name: AI agent writes today's content
         if: github.event_name != 'push'
+        timeout-minutes: 140
+        continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}

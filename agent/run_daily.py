@@ -63,6 +63,14 @@ class QuotaDone(RuntimeError):
     pass
 
 
+START = time.time()
+
+
+def out_of_time() -> bool:
+    """Stop asking the AI before GitHub's time limit so the finished work is always saved."""
+    return time.time() - START > CONFIG.get("max_run_minutes", 120) * 60
+
+
 def next_gemini_model() -> str:
     """Switch to the next model that still has free quota (each model has its own daily limit)."""
     global _GEMINI_MODEL
@@ -114,6 +122,8 @@ def ask_ai(prompt: str, max_tokens: int = 4000, retries: int = 4, json_mode: boo
     if not gkey and not akey:
         print("::error::No AI key found. Add the GEMINI_API_KEY secret in the repository settings.")
         sys.exit(1)
+    if out_of_time():
+        raise QuotaDone("time budget for this run is used up")
     last_error = ""
     time.sleep(CONFIG.get("ai_delay_seconds", 4))  # stay under free-tier per-minute limits
     for attempt in range(retries):
