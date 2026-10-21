@@ -89,6 +89,27 @@ def lang_data(lang):
     }
 
 
+DEFAULT_IMG = "/assets/sections/games.webp"
+SECTION_IMG = {"dreams": "dreams", "tarot": "tarot", "tarot-meanings": "tarot", "compatibility": "compatibility",
+               "love-calculator": "compatibility", "love-messages": "compatibility", "numerology": "numerology",
+               "angel-numbers": "angel", "chinese-zodiac": "chinese", "moon-phase": "moon", "birthday": "birthday",
+               "birthstones": "birthday", "age-calculator": "birthday", "games": "games", "trivia": "trivia", "zodiac-quiz": "trivia"}
+
+
+def section_img(path):
+    """Illustration for a page path ('dreams/snake/' -> /assets/sections/dreams.webp), or None."""
+    parts = [x for x in path.split("/") if x]
+    if not parts:
+        return None
+    if parts[0] in SECTION_IMG:
+        return f"/assets/sections/{SECTION_IMG[parts[0]]}.webp"
+    if parts[0] == "learn-english":
+        return "/assets/english/hero.webp"
+    if parts[0] in ("horoscope", "zodiac") and len(parts) > 1 and (HERE / "assets" / "signs" / f"{parts[1]}.webp").exists():
+        return f"/assets/signs/{parts[1]}.webp"
+    return None
+
+
 EN_ORDER = json.loads((Path(__file__).parent / "data" / "english_lessons.json").read_text(encoding="utf-8"))
 LANGS = ["en"] + [l for l in C.get("languages", []) if l != "en" and (CONTENT / "i18n" / l / "ui.json").exists()]
 DATA = {l: lang_data(l) for l in LANGS}
@@ -267,6 +288,8 @@ def render(lang, path, pg):
 <meta property="og:url" content="{e(canonical)}">
 <meta property="og:site_name" content="{e(SITE)}">
 <meta property="og:locale" content="{lang}">
+<meta property="og:image" content="{URL}{e(section_img(path) or DEFAULT_IMG)}">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#5b3df5">
 {auto}
 <link rel="alternate" type="application/rss+xml" title="{e(SITE)} ({lang})" href="{pre}/feed.xml">
@@ -492,8 +515,11 @@ def build_lang(lang):
     yrs = sorted({y for (y, _) in D["yearly"]})
     if yrs:
         tiles.insert(1, (f"{pre}/horoscope-{yrs[-1]}/", "🎆", "yearly_title", "tile_yearly", "#7c3aed", "#f59e0b"))
+    def tile_ic(u, ic):
+        im = section_img(u[len(pre):].lstrip("/") if pre and u.startswith(pre) else u.lstrip("/"))
+        return f'<img src="{im}" width="48" height="48" alt="" loading="lazy">' if im and "/signs/" not in im else ic
     tiles_html = "".join(
-        f'<a class="xtile" href="{u}" style="--c1:{c1};--c2:{c2}"><span class="xtile-ic">{ic}</span>'
+        f'<a class="xtile" href="{u}" style="--c1:{c1};--c2:{c2}"><span class="xtile-ic">{tile_ic(u, ic)}</span>'
         f'<span class="xtile-tx"><b>{e(T(lang, k, year=yrs[-1] if yrs else ""))}</b><small>{e(T(lang, d))}</small></span></a>'
         for u, ic, k, d, c1, c2 in tiles)
     strip = "".join(
@@ -1263,6 +1289,11 @@ def main():
         build_lang(lang)
     build_puzzle()
     build_delete_page()
+    for (l, p), pg in PAGES.items():  # section illustration under the title of each hub page
+        im = section_img(p)
+        if im and p.count("/") == 1 and "/sections/" in im and "</h1>" in pg["body"] and "sechero" not in pg["body"]:
+            i = pg["body"].index("</h1>") + 5
+            pg["body"] = pg["body"][:i] + f'<img class="sechero" src="{im}" width="640" height="640" alt="{e(pg["title"])}">' + pg["body"][i:]
     sitemap = [render(l, p, pg) for (l, p), pg in PAGES.items()]
 
     shutil.copytree(HERE / "assets", OUT / "assets", dirs_exist_ok=True)
