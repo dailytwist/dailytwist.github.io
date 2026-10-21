@@ -62,7 +62,7 @@ def send(key, app, filters, title, body, url):
 
 def main():
     raw = os.environ.get("ONESIGNAL_API_KEY", "")
-    found = re.search(r"os_v2_app_[A-Za-z0-9]+", raw)  # pick the key even if extra text was pasted with it
+    found = re.search(r"os_v2_[a-z]+_[A-Za-z0-9_-]+", raw)  # pick the key even if extra text was pasted with it
     key = found.group(0) if found else "".join(raw.split()).strip("'\"")
     app = C.get("onesignal_app_id")
     shape = {"len": len(key), "starts": key[:7], "v2": bool(found)}  # safe hints only, never the key
