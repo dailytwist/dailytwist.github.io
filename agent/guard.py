@@ -47,7 +47,7 @@ PAGES_TO_SCAN = ["", "games/", "horoscope/", "trivia/", "contact/", "ar/", "es/"
 ALLOWED_HOSTS = (
     "pagead2.googlesyndication.com", "googleads.g.doubleclick.net", "tpc.googlesyndication.com",
     "ep2.adtrafficquality.google", "fundingchoicesmessages.google.com", "www.google.com",
-    "www.gstatic.com", "api.web3forms.com",
+    "www.gstatic.com", "api.web3forms.com", "cdn.onesignal.com", "onesignal.com",
 )
 SUSPICIOUS = re.compile(
     r"coinhive|cryptonight|coin-hive|webminer|miner\.start|crypto-loot|"
