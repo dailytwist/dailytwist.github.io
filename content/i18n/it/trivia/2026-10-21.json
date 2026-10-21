@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-21",
+  "title": "Sfida Trivia Quotidiana del 21 Ottobre 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Quale stato senza sbocco al mare confina con la Svizzera a ovest e a nord, e con l'Italia a est e a sud?",
+      "options": [
+        "Liechtenstein",
+        "Città del Vaticano",
+        "Andorra",
+        "San Marino"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il Liechtenstein è doppiamente senza sbocco al mare, il che significa che è circondato interamente da paesi anch'essi privi di sbocco sul mare."
+    },
+    {
+      "category": "Scienza",
+      "question": "Qual è il simbolo chimico dell'oro, elemento metallico?",
+      "options": [
+        "Au",
+        "Ag",
+        "Go",
+        "Gd"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il simbolo Au deriva da 'aurum', la parola latina per oro, che si traduce in 'alba splendente'."
+    },
+    {
+      "category": "Storia",
+      "question": "L'antica città di Cartagine si trovava nel territorio di quale odierno paese nordafricano?",
+      "options": [
+        "Marocco",
+        "Libya",
+        "Tunisia",
+        "Egitto"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le rovine di Cartagine si trovano appena fuori dalla moderna città di Tunisi, con vista sul Mar Mediterraneo."
+    },
+    {
+      "category": "Film e Pop Culture",
+      "question": "Quale film drammatico d'animazione musicale del 1994 include la canzone 'Il cerchio della vita' composta da Elton John?",
+      "options": [
+        "La Bella e la Bestia",
+        "Pocahontas",
+        "Il Re Leone",
+        "Aladdin"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il Re Leone è stato il primo lungometraggio d'animazione della Disney basato su una storia originale anziché su un'opera letteraria preesistente."
+    },
+    {
+      "category": "Cibo",
+      "question": "Il tempeh è un prodotto tradizionale a base di soia originario di quale paese del Sud-Est asiatico?",
+      "options": [
+        "Indonesia",
+        "Tailandia",
+        "Vietnam",
+        "Giappone"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il tempeh è prodotto tramite un processo di coltivazione naturale e fermentazione controllata che compatta i fagioli di soia in un panetto."
+    },
+    {
+      "category": "Animali",
+      "question": "Qual è l'unico mammifero in grado di compiere un volo battuto prolungato?",
+      "options": [
+        "Petauro dello zucchero",
+        "Scoiattolo volante",
+        "Pipistrello",
+        "Colugo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "I pipistrelli costituiscono circa un quinto di tutte le specie di mammiferi classificate nel mondo."
+    },
+    {
+      "category": "Sport",
+      "question": "Nel football americano, quanti punti vale un touchdown prima di qualsiasi tentativo di punto extra o conversione da due punti?",
+      "options": [
+        "2",
+        "3",
+        "6",
+        "7"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un touchdown valeva originariamente zero punti nella primissima partita di football americano del 1869, in cui le squadre segnavano esclusivamente calciando la palla attraverso i pali della porta."
+    },
+    {
+      "category": "Linguistica",
+      "question": "Quale termine linguistico viene usato per una parola che si legge allo stesso modo da sinistra a destra e da destra a sinistra?",
+      "options": [
+        "Anagramma",
+        "Palindromo",
+        "Acronimo",
+        "Omonimo"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Il palindromo di una sola parola più lungo nei dizionari di inglese standard è 'tattarrattat', coniato da James Joyce in Ulisse per indicare un colpo a una porta."
+    },
+    {
+      "category": "Spazio",
+      "question": "Quale pianeta del nostro sistema solare possiede il sistema di anelli più esteso e complesso, composto principalmente da particelle di ghiaccio e detriti rocciosi?",
+      "options": [
+        "Urano",
+        "Giove",
+        "Nettuno",
+        "Saturno"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Anche se Saturno ha gli anelli più evidenti, tutti e quattro i pianeti giganti gassosi e ghiacciati del nostro sistema solare possiedono sistemi di anelli."
+    },
+    {
+      "category": "Storia",
+      "question": "Il Codice di Hammurabi, uno dei più antichi scritti decifrati di notevole lunghezza al mondo, da quale antica civiltà ha avuto origine?",
+      "options": [
+        "Babilonesi",
+        "Antico Egitto",
+        "Antica Grecia",
+        "Repubblica Romana"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le leggi di Hammurabi furono incise su una grande stele di basalto e stabilirono notoriamente il principio del 'occhio per occhio'."
+    }
+  ]
+}

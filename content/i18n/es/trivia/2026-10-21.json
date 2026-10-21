@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-21",
+  "title": "Desafío de trivia diario del 21 de octubre de 2026",
+  "questions": [
+    {
+      "category": "Geografía",
+      "question": "¿Qué país sin salida al mar limita con Suiza al oeste y al norte, y con Italia al este y al sur?",
+      "options": [
+        "Liechtenstein",
+        "Ciudad del Vaticano",
+        "Andorra",
+        "San Marino"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Liechtenstein no tiene salida al mar por doble partida, lo que significa que está rodeado enteramente por países que tampoco tienen salida al mar."
+    },
+    {
+      "category": "Ciencia",
+      "question": "¿Cuál es el símbolo químico del elemento metálico oro?",
+      "options": [
+        "Au",
+        "Ag",
+        "Go",
+        "Gd"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El símbolo Au proviene de 'aurum', la palabra en latín para el oro, que se traduce como 'aurora brillante'."
+    },
+    {
+      "category": "Historia",
+      "question": "¿En el territorio de qué país actual del norte de África se encontraba la antigua ciudad de Cartago?",
+      "options": [
+        "Marruecos",
+        "Libia",
+        "Túnez",
+        "Egipto"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Las ruinas de Cartago se encuentran justo a las afueras de la moderna ciudad de Túnez, con vistas al mar Mediterráneo."
+    },
+    {
+      "category": "Cine y cultura pop",
+      "question": "¿Qué película dramática musical animada de 1994 incluye la canción 'El ciclo sin fin' (Circle of Life) compuesta por Elton John?",
+      "options": [
+        "La Bella y la Bestia",
+        "Pocahontas",
+        "El Rey León",
+        "Aladdín"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El Rey León fue el primer largometraje animado de Disney basado en una historia original en lugar de una obra literaria preexistente."
+    },
+    {
+      "category": "Comida",
+      "question": "¿De qué país del sudeste asiático es originario el tempeh, un producto tradicional a base de soja?",
+      "options": [
+        "Indonesia",
+        "Tailandia",
+        "Vietnam",
+        "Japón"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El tempeh se elabora mediante un proceso de cultivo natural y fermentación controlada que une los granos de soja en un bloque compacto."
+    },
+    {
+      "category": "Animales",
+      "question": "¿Cuál es el único mamífero capaz de volar por sí mismo de forma sostenida?",
+      "options": [
+        "Petauro del azúcar",
+        "Ardilla voladora",
+        "Murciélago",
+        "Colugo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Los murciélagos representan aproximadamente una quinta parte de todas las especies de mamíferos clasificadas en todo el mundo."
+    },
+    {
+      "category": "Deportes",
+      "question": "En el fútbol americano, ¿cuántos puntos vale un touchdown antes de cualquier intento de punto extra o conversión de dos puntos?",
+      "options": [
+        "2",
+        "3",
+        "6",
+        "7"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Originalmente, un touchdown valía cero puntos en el primer partido de fútbol americano de la historia en 1869, donde los equipos anotaban únicamente pateando el balón a través de los postes de la portería."
+    },
+    {
+      "category": "Idioma",
+      "question": "¿Qué término lingüístico se utiliza para una palabra que se escribe igual de izquierda a derecha que de derecha a izquierda?",
+      "options": [
+        "Anagrama",
+        "Palíndromo",
+        "Acrónimo",
+        "Homónimo"
+      ],
+      "answer_index": 1,
+      "fun_fact": "El palíndromo de una sola palabra más largo en los diccionarios de inglés estándar es 'tattarrattat', acuñado por James Joyce en Ulises para referirse a llamar a una puerta."
+    },
+    {
+      "category": "Espacio",
+      "question": "¿Qué planeta de nuestro sistema solar tiene el sistema de anillos más extenso y complejo, compuesto principalmente por partículas de hielo y escombros rocosos?",
+      "options": [
+        "Urano",
+        "Júpiter",
+        "Neptuno",
+        "Saturno"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Aunque Saturno tiene los anillos más prominentes, los cuatro planetas gigantes de gas y hielo de nuestro sistema solar poseen sistemas de anillos."
+    },
+    {
+      "category": "Historia",
+      "question": "¿De qué civilización antigua es originario el Código de Hammurabi, uno de los escritos descifrados de considerable longitud más antiguos del mundo?",
+      "options": [
+        "Babilonia",
+        "Antiguo Egipto",
+        "Antigua Grecia",
+        "La República Romana"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Las leyes de Hammurabi fueron grabadas en una gran estela de basalto y establecieron famosamente el principio de 'ojo por ojo'."
+    }
+  ]
+}

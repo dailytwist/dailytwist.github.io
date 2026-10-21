@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-21",
+  "signs": {
+    "aries": {
+      "overview": "Préparez-vous à foncer, Bélier, car ce mercredi vous offre un ticket en or pour lancer enfin ce projet qui vous tient tant à cœur. Votre enthousiasme légendaire est pour ainsi dire contagieux et attire tout le monde dans votre orbite de bonne humeur. N'ayez pas peur de vous mettre sur le devant de la scène et d'exposer vos talents de leader né, mais pensez tout de même à garder un peu d'énergie pour des pauses danse improvisées. Un rebondissement inattendu dans votre vie sociale pourrait vous surprendre cet après-midi, mais votre vivacité d'esprit en fera la meilleure anecdote de la semaine. Embrassez le chaos, faites confiance à vos instincts flamboyants et laissez votre âme d'aventurier vous guider au fil de la journée.",
+      "love": "Célibataire ? Un échange plein d'esprit dans un café pourrait bien se transformer en douce romance. En couple ? Prévoyez une mini-aventure surprise ce soir.",
+      "career": "Vos idées audacieuses finissent par taper dans l'œil de votre supérieur, c'est le moment idéal pour pitcher cette refonte créative.",
+      "wellness": "Canalisez cette énergie ardente avec une playlist bien rythmée et une marche rapide en plein air.",
+      "lucky_number": 17,
+      "lucky_color": "Cramoisi",
+      "mood": "Électrique"
+    },
+    "taurus": {
+      "overview": "Enracinez-vous bien confortablement aujourd'hui, Taureau. Ce mercredi vous invite à lever le pied et à savourer ces petits luxes qui rendent la vie si délicieuse, comme des viennoiseries artisanales et des plaids en cachemire. Pendant que le reste du monde s'agite comme des poules sans tête, vous êtes l'épicentre calme, ancré, stylé et gracieux. Profitez de cette ambiance paisible pour réorganiser votre intérieur et en faire un véritable sanctuaire de bonnes ondes. Une délicieuse découverte culinaire vous attend un peu plus tard ce soir, alors offrez-vous ce restaurant branché ou concoctez un festin gastronomique à la maison avec vos proches.",
+      "love": "Les Taureaux en couple adoreront une soirée bien au chaud sous le signe du réconfort et des jeux de société. Les célibataires pourraient faire une belle rencontre au détour d'un cercle gourmand.",
+      "career": "Rien ne sert de courir, il faut partir à point, et votre sens méticuleux du détail vous évite un énorme fiasco de mise en page.",
+      "wellness": "Offrez-vous un bain luxueux aux notes de lavande pour faire fondre toute tension résiduelle.",
+      "lucky_number": 8,
+      "lucky_color": "Vert sauge",
+      "mood": "Serein"
+    },
+    "gemini": {
+      "overview": "Votre esprit est un véritable flipper survolté aujourd'hui, Gémeaux, qui rebondit à toute vitesse d'une idée fascinante à la suivante. Ce mercredi vous apporte son lot de SMS inattendus, de mèmes hilarants et de conversations captivantes qui nourrissent votre curiosité sans fin. Vous êtes le papillon social par excellence en ce moment, virevoltant sans effort d'un groupe à l'autre et semant des éclats de rire sur votre passage. Assurez-vous simplement de terminer la lecture de vos e-mails au lieu d'ouvrir cinquante onglets dans votre navigateur. Ce soir est parfait pour une soirée quiz déjantée ou pour plonger tête baissée dans une recherche internet totalement absurde juste pour le plaisir.",
+      "love": "Des messages pleins de flirt maintiennent la flamme, que vous soyez célibataire à prendre du bon temps ou déjà pris.",
+      "career": "Le multitasking est votre super-pouvoir aujourd'hui, vous permettant de jongler avec trois projets différents avec un brio absolu.",
+      "wellness": "Reposez votre cerveau en effervescence en lisant un vrai livre papier au lieu de faire défiler votre fil d'actualité.",
+      "lucky_number": 23,
+      "lucky_color": "Jaune",
+      "mood": "Curieux"
+    },
+    "cancer": {
+      "overview": "Sortez les plaids douillets et lancez votre playlist nostalgique fétiche, doux Cancer. Ce mercredi met à l'honneur le soin de votre âme sensible et la création d'une bulle de confort bien chaleureuse. Votre intuition tourne à plein régime aujourd'hui, vous permettant de deviner ce dont vos proches ont besoin avant même qu'ils ne le demandent. Ne laissez pas votre grand cœur absorber les drames des autres pour autant ; posez des limites bienveillantes et préservez votre précieuse zénitude. Ce soir, préparez un plat réconfortant de votre enfance ou écrivez dans votre journal intime sous la lune en pensant à vos grands projets créatifs.",
+      "love": "Des discussions profondes et sincères vous rapprochent de votre partenaire comme jamais. Célibataire ? Une connexion pleine d'âme est en train de naître.",
+      "career": "Fiez-vous à votre instinct lors des réunions d'équipe pour guider tout le monde vers un compromis harmonieux.",
+      "wellness": "Dégustez une tasse de camomille bien chaude tout en regardant votre film réconfortant favori.",
+      "lucky_number": 4,
+      "lucky_color": "Argenté",
+      "mood": "Nostalgique"
+    },
+    "leo": {
+      "overview": "L'univers déroule le tapis rouge rien que pour vous aujourd'hui, Lion, alors entrez en scène et profitez des applaudissements. Ce mercredi dégage une énergie de grand personnage principal, rendant votre charisme naturel totalement irrésistible. Que vous présentiez une grande idée ou choisissiez simplement une tenue qui attire tous les regards, vous rayonnez d'un pur soleil et d'un magnétisme fou. Partagez votre grand cœur avec quelqu'un qui a besoin d'un petit coup de boost, et observez à quelle vitesse le bon karma vous revient en pleine face. Ce soir, karaoké, danse ou célébration de votre fabuleuse personne au programme.",
+      "love": "La romance prend des airs de film hollywoodien lorsque vous laissez votre côté théâtral et affectueux prendre le volant.",
+      "career": "Vos présentations créatives envoûtent toute l'assemblée et vous valent des points bonus précieux auprès de la hiérarchie.",
+      "wellness": "Prenez une pose de power yoga devant le miroir pour booster une confiance en vous qui brille déjà de mille feux.",
+      "lucky_number": 5,
+      "lucky_color": "Or",
+      "mood": "Rayonnant"
+    },
+    "virgo": {
+      "overview": "L'organisation est votre langage de l'amour aujourd'hui, Vierge, et votre agenda n'a jamais été aussi joliment coloré. Ce mercredi vous invite à canaliser votre perfectionniste intérieur sur des projets qui ont besoin d'une touche de relecture soignée. Vous avez l'œil de lynx pour repérer ces minuscules détails que tout le monde avait complètement ratés, sauvant la mise avec style. Si faire de la logistique est très satisfaisant, n'oubliez pas de garder un peu de place pour l'imprévu lorsqu'un ami vous propose un dej surprise. Ce soir, offrez-vous une pièce bien rangée, minimaliste, et une merveilleuse nuit de sommeil réparateur.",
+      "love": "Les petites attentions, comme préparer le café matinal préféré de votre moitié, en disent bien plus long que de grands poèmes.",
+      "career": "Un audit méticuleux de vos tableaux débloque un énorme goulet d'étranglement logistique et vous attire des éloges.",
+      "wellness": "Désencombrez votre bureau pour faire instantanément le vide dans votre esprit.",
+      "lucky_number": 12,
+      "lucky_color": "Bleu marine",
+      "mood": "Concentré"
+    },
+    "libra": {
+      "overview": "L'harmonie esthétique est votre mission absolue aujourd'hui, Balance. Ce mercredi fait ressortir votre âme de curateur, vous inspirant à embellir votre environnement, à assortir vos accessoires à votre humeur et à apaiser les tensions dans votre cercle social. Vous êtes le diplomate incontesté du zodiaque, charmant sans effort tout le monde, du barista au comité de direction. Attention tout de même à l'indécision lorsqu'il s'agira de choisir entre deux restos tout aussi fabuleux pour déjeuner. Ce soir, c'est le moment idéal pour improviser une soirée vin et fromage ou pour vous offrir une superbe visite de galerie d'art entre amis.",
+      "love": "Le couple est doux et équilibré, ce qui en fait une soirée parfaite pour un dîner romantique aux chandelles.",
+      "career": "La collaboration est votre arme secrète, réunissant des personnalités très différentes pour décrocher une victoire éclatante.",
+      "wellness": "Écoutez une playlist classique bien apaisante tout en sirotant de l'eau gazeuse aux fruits rouges.",
+      "lucky_number": 6,
+      "lucky_color": "Rose",
+      "mood": "Harmonieux"
+    },
+    "scorpio": {
+      "overview": "Votre intensité magnétique est presque hypnotique aujourd'hui, Scorpion. Ce mercredi vous plonge bien en deçà du vernis des petites discussions du quotidien, vous poussant à explorer des mystères fascinants et des projets secrets. Pas de superficialité pour vous en ce moment : vous voulez de l'authenticité, de la passion et de vraies discussions. Utilisez votre concentration chirurgicale pour résoudre un casse-tête complexe ou vous plonger dans un roman policier haletant. Un admirateur secret pourrait bien vous lancer une allusion subtile, de quoi faire cogiter votre cœur mystérieux. Ce soir, tamisez les lumières et laissez votre imagination vagabonder dans l'ombre.",
+      "love": "La chimie magnétique atteint des sommets, rendant les discussions profondes électriques et inoubliables.",
+      "career": "Votre planification stratégique en coulisses donne à votre équipe une longueur d'avance imbattable.",
+      "wellness": "Pratiquez des exercices de respiration profonde dans une pièce calme et tamisée pour recentrer votre énergie puissante.",
+      "lucky_number": 9,
+      "lucky_color": "Bordeaux",
+      "mood": "Intense"
+    },
+    "sagittarius": {
+      "overview": "Faites vos valises métaphoriques, Sagittaire, car vos envies d'évasion atteignent des sommets aujourd'hui. Ce mercredi réclame de l'air frais, de grands horizons et zéro routine ennuyeuse. Si vous ne pouvez pas sauter dans un avion long-courrier tout de suite, empruntez un nouveau chemin pour rentrer chez vous ou testez une cuisine exotique ce midi. Votre optimisme contagieux transforme la moindre course banale en expédition comique improvisée. Partagez vos grandes réflexions philosophiques avec quiconque voudra bien écouter, et laissez votre rire communicatif illuminer toute la pièce.",
+      "love": "La spontanéité est le piment de votre vie amoureuse en ce moment ; surprenez votre partenaire avec une aventure loufoque.",
+      "career": "Votre vision globale pousse votre équipe à dépasser les petits tracas pour voir beaucoup plus grand.",
+      "wellness": "Partez pour une longue balade à vélo ou allez faire un footing improvisé dans un parc verdoyant.",
+      "lucky_number": 3,
+      "lucky_color": "Turquoise",
+      "mood": "Aventurier"
+    },
+    "capricorn": {
+      "overview": "L'ambition est votre deuxième prénom aujourd'hui, Capricorne, et vous gravissez des montagnes métaphoriques avec une élégance suprême. Ce mercredi récompense votre travail acharné par des progrès bien concrets, vous donnant l'impression d'être le grand boss que vous êtes vraiment. Pendant que vous cochez frénétiquement les cases de votre to-do list ultime, n'oubliez pas de marquer une pause pour apprécier le chemin déjà parcouru. Un mentor ou un collègue plus expérimenté pourrait vous glisser un conseil d'une surprenante pertinence qui changera votre perspective pour le mieux. Ce soir, déconnectez des e-mails pro et offrez-vous une séance de détente bien méritée.",
+      "love": "La fiabilité et une affection constante posent des bases solides comme le roc pour un bonheur amoureux durable.",
+      "career": "Votre approche disciplinée face à une tâche complexe impressionne les décisionnaires dans la pièce.",
+      "wellness": "Étirez vos épaules et votre nuque pour relâcher les tensions physiques dues aux heures passées devant l'écran.",
+      "lucky_number": 10,
+      "lucky_color": "Anthracite",
+      "mood": "Ambitieux"
+    },
+    "aquarius": {
+      "overview": "Votre cerveau futuriste mijote des idées complètement innovantes aujourd'hui, Verseau. Ce mercredi fait de vous le pionnier visionnaire de votre bande, impatient d'expérimenter des styles décalés et des concepts avant-gardistes. Ne vous inquiétez pas si les gens plus traditionnels ne comprennent pas tout de suite votre génie un peu fou ; votre charme excentrique est votre meilleur atout. Connectez-vous avec des rebelles qui partagent votre passion pour changer le monde, ou passez l'après-midi à bidouiller un gadget high-tech sympa. Ce soir, c'est parfait pour observer les étoiles ou imaginer des scénarios de science-fiction.",
+      "love": "La connexion intellectuelle est ce qui vous stimule le plus ; trouvez quelqu'un qui adore débattre d'hypothèses loufoques.",
+      "career": "Une solution originale sauve la mise lorsqu'une méthode un peu trop classique se retrouve dans une impasse.",
+      "wellness": "Déconnectez de vos flux de réseaux sociaux pour offrir à votre esprit saturé de technologie une cure de désintox numérique bienvenue.",
+      "lucky_number": 11,
+      "lucky_color": "Bleu électrique",
+      "mood": "Innovant"
+    },
+    "pisces": {
+      "overview": "Laissez-vous porter par un nuage d'inspiration bien rêveur aujourd'hui, Poissons, grand imaginatif. Ce mercredi vous fait cadeau d'une créativité surréaliste, rendant vos songes, votre art et votre musique plus riches qu'un film en technicolor. Votre cœur empathique capte les courants émotionnels subtils qui vous entourent, faisant de vous un havre de paix réconfortant pour un ami dans le besoin. Canalisez toutes ces émotions qui tourbillonnent dans un carnet de croquis, un journal intime ou une superbe playlist. Pensez juste à porter des chaussures confortables pour ne pas trébucher en rêvant tout en marchant sur le trottoir.",
+      "love": "Les rêveries romantiques débordent dans la réalité, créant des moments magiques dignes de cinéma avec quelqu'un de spécial.",
+      "career": "Votre touche artistique insuffle une dose de magie dans un projet par ailleurs bien technique et aride.",
+      "wellness": "Écoutez des sons ambiants de l'océan ou de douces musiques instrumentales pour apaiser votre sensibilité.",
+      "lucky_number": 7,
+      "lucky_color": "Lavande",
+      "mood": "Rêveur"
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-21",
+  "title": "Desafio de Trivia Diário de 21 de outubro de 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Qual país sem saída para o mar faz fronteira com a Suíça a oeste e ao norte, e com a Itália a leste e ao sul?",
+      "options": [
+        "Liechtenstein",
+        "Cidade do Vaticano",
+        "Andorra",
+        "San Marino"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O Liechtenstein é duplamente cercado por terra, o que significa que ele é inteiramente rodeado por países que também não têm saída para o mar."
+    },
+    {
+      "category": "Ciência",
+      "question": "Qual é o símbolo químico do elemento metálico ouro?",
+      "options": [
+        "Au",
+        "Ag",
+        "Go",
+        "Gd"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O símbolo Au vem de 'aurum', a palavra em latim para ouro, que significa 'aurora brilhante'."
+    },
+    {
+      "category": "História",
+      "question": "A antiga cidade de Cartago estava localizada no território de qual país moderno do Norte da África?",
+      "options": [
+        "Marrocos",
+        "Líbia",
+        "Tunísia",
+        "Egito"
+      ],
+      "answer_index": 2,
+      "fun_fact": "As ruínas de Cartago ficam bem pertinho da cidade moderna de Tunes, com vista para o Mar Mediterrâneo."
+    },
+    {
+      "category": "Filmes e Cultura Pop",
+      "question": "Qual filme dramático musical animado de 1994 apresenta a música 'Circle of Life' composta por Elton John?",
+      "options": [
+        "A Bela e a Fera",
+        "Pocahontas",
+        "O Rei Leão",
+        "Aladdin"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O Rei Leão foi o primeiro longa-metragem animado da Disney baseado em uma história original, em vez de uma obra literária pré-existente."
+    },
+    {
+      "category": "Comida",
+      "question": "O tempeh é um produto de soja tradicional originário de qual país do Sudeste Asiático?",
+      "options": [
+        "Indonésia",
+        "Tailândia",
+        "Vietnã",
+        "Japão"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O tempeh é feito por um processo de cultivo natural e fermentação controlada que une os grãos de soja em um bolo compacto."
+    },
+    {
+      "category": "Animais",
+      "question": "Qual é o único mamífero capaz de voar de forma sustentada e ativa?",
+      "options": [
+        "Sugar glider",
+        "Esquilo-voador",
+        "Morcego",
+        "Colugo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Os morcegos representam cerca de um quinto de todas as espécies de mamíferos classificadas no mundo todo."
+    },
+    {
+      "category": "Esportes",
+      "question": "No futebol americano, quantos pontos vale um touchdown antes de qualquer tentativa de ponto extra ou conversão de dois pontos?",
+      "options": [
+        "2",
+        "3",
+        "6",
+        "7"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Um touchdown originalmente valia zero pontos no primeiro jogo de futebol americano da história, em 1869, onde as equipes pontuavam apenas chutando a bola através das traves."
+    },
+    {
+      "category": "Idioma",
+      "question": "Qual termo linguístico é usado para uma palavra que se escreve da mesma forma de trás para frente e de frente para trás?",
+      "options": [
+        "Anagrama",
+        "Palíndromo",
+        "Acrônimo",
+        "Homônimo"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O maior palíndromo de uma única palavra nos dicionários de inglês padrão é 'tattarrattat', cunhado por James Joyce em Ulysses para representar uma batida na porta."
+    },
+    {
+      "category": "Espaço",
+      "question": "Qual planeta do nosso sistema solar possui o sistema de anéis mais extenso e complexo, composto principalmente de partículas de gelo e detritos rochosos?",
+      "options": [
+        "Urano",
+        "Júpiter",
+        "Netuno",
+        "Saturno"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Embora Saturno tenha os anéis mais proeminentes, todos os quatro planetas gigantes gasosos e de gelo do nosso sistema solar possuem sistemas de anéis."
+    },
+    {
+      "category": "História",
+      "question": "O Código de Hamurabi, um dos escritos decifrados mais antigos de extensão significativa no mundo, originou-se de qual civilização antiga?",
+      "options": [
+        "Babilônia",
+        "Antigo Egito",
+        "Antiga Grécia",
+        "A República Romana"
+      ],
+      "answer_index": 0,
+      "fun_fact": "As leis de Hamurabi foram inscritas em uma grande estela de basalto e estabeleceram famosamente o princípio de 'olho por olho'."
+    }
+  ]
+}

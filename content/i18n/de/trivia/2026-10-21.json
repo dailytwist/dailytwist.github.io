@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-21",
+  "title": "Tägliches Quiz-Herausforderung vom 21. Oktober 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welcher Binnenstaat grenzt im Westen und Norden an die Schweiz und im Osten und Süden an Italien?",
+      "options": [
+        "Liechtenstein",
+        "Vatikanstadt",
+        "Andorra",
+        "San Marino"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Liechtenstein ist ein doppelt Binnenstaat, was bedeutet, dass es vollständig von Ländern umgeben ist, die ebenfalls keinen Zugang zum Meer haben."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist das chemische Symbol für das Edelmetall Gold?",
+      "options": [
+        "Au",
+        "Ag",
+        "Go",
+        "Gd"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Das Symbol Au leitet sich von „aurum“ ab, dem lateinischen Wort für Gold, was so viel wie „morgendliche Morgenröte“ bedeutet."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Auf dem Gebiet welches heutigen nordafrikanischen Landes befand sich die antike Stadt Karthago?",
+      "options": [
+        "Marokko",
+        "Libyen",
+        "Tunesien",
+        "Ägypten"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Die Ruinen von Karthago liegen direkt vor den Toren der modernen Stadt Tunis und blicken auf das Mittelmeer."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "In welchem animierten Musikdrama aus dem Jahr 1994 ist der von Elton John komponierte Song „Circle of Life“ (Der Kreis des Lebens) zu hören?",
+      "options": [
+        "Die Schöne und das Biest",
+        "Pocahontas",
+        "Der König der Löwen",
+        "Aladdin"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Der König der Löwen war Disneys erster Animationsfilm, der auf einer Originalgeschichte statt auf einer bereits existierenden literarischen Vorlage basierte."
+    },
+    {
+      "category": "Essen & Trinken",
+      "question": "Tempeh ist ein traditionelles Sojaprodukt aus welchem südostasiatischen Land?",
+      "options": [
+        "Indonesien",
+        "Thailand",
+        "Vietnam",
+        "Japan"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Tempeh wird durch einen natürlichen Kultur- und kontrollierten Fermentationsprozess hergestellt, der Sojabohnen zu einem kompakten Laib verbindet."
+    },
+    {
+      "category": "Tiere",
+      "question": "Welches ist das einzige Säugetier, das zum echten, aktiven Fliegen fähig ist?",
+      "options": [
+        "Gleithörnchen",
+        "Kurzkopfgleitbeutler",
+        "Fledermaus",
+        "Malaiischer Plumplori"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Fledermausarten machen weltweit etwa ein Fünftel aller bekannten Säugetierarten aus."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Punkte ist ein Touchdown beim American Football wert, bevor ein Extrapunkt oder eine Two-Point-Conversion versucht wird?",
+      "options": [
+        "2",
+        "3",
+        "6",
+        "7"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Im allerersten American-Football-Spiel im Jahr 1969 brachte ein Touchdown ursprünglich null Punkte; damals erzielten Teams Punkte ausschließlich dadurch, dass sie den Ball durch die Torstangen kickten."
+    },
+    {
+      "category": "Sprache",
+      "question": "Welcher sprachwissenschaftliche Begriff wird für ein Wort verwendet, das vorwärts und rückwärts gleich buchstabiert wird?",
+      "options": [
+        "Anagramm",
+        "Palindrom",
+        "Akronym",
+        "Homonym"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Das längste Einwort-Palindrom in Standard-Wörterbüchern der englischen Sprache ist „tattarrattat“, erfunden von James Joyce in Ulysses als Geräusch für ein Klopfen an eine Tür."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Planet in unserem Sonnensystem besitzt das ausgedehnteste und komplexeste Ringsystem, das hauptsächlich aus Eisteilchen und Gesteinstrümmern besteht?",
+      "options": [
+        "Uranus",
+        "Jupiter",
+        "Neptun",
+        "Saturn"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Obwohl der Saturn die auffälligsten Ringe hat, besitzen alle vier Gas- und Eisriesen in unserem Sonnensystem Ringsysteme."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Aus welcher antiken Zivilisation stammt der Kodex Hammurabi, einer der ältesten entzifferten Gesetzestexte von nennenswerter Länge auf der Welt?",
+      "options": [
+        "Babylonien",
+        "Altes Ägypten",
+        "Antikes Griechenland",
+        "Die Römische Republik"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Die Gesetze Hammurabis wurden in eine große Basaltstele gemeißelt und machten den Grundsatz „Auge um Auge“ berühmt."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-21",
+  "title": "October 21, 2026 Daily Trivia Challenge",
+  "questions": [
+    {
+      "category": "Geography",
+      "question": "Which landlocked country is bordered by Switzerland to the west and north, and Italy to the east and south?",
+      "options": [
+        "Liechtenstein",
+        "Vatican City",
+        "Andorra",
+        "San Marino"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Liechtenstein is doubly landlocked, meaning it is surrounded entirely by countries that are also landlocked."
+    },
+    {
+      "category": "Science",
+      "question": "What is the chemical symbol for the metallic element gold?",
+      "options": [
+        "Au",
+        "Ag",
+        "Go",
+        "Gd"
+      ],
+      "answer_index": 0,
+      "fun_fact": "The symbol Au comes from 'aurum', the Latin word for gold, which translates to 'shining dawn'."
+    },
+    {
+      "category": "History",
+      "question": "The ancient city of Carthage was located in the territory of which modern-day North African country?",
+      "options": [
+        "Morocco",
+        "Libya",
+        "Tunisia",
+        "Egypt"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The ruins of Carthage lie just outside the modern city of Tunis, overlooking the Mediterranean Sea."
+    },
+    {
+      "category": "Movies & Pop Culture",
+      "question": "Which 1994 animated musical drama film features the song 'Circle of Life' composed by Elton John?",
+      "options": [
+        "Beauty and the Beast",
+        "Pocahontas",
+        "The Lion King",
+        "Aladdin"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The Lion King was Disney's first animated feature to be based on an original story rather than a pre-existing literary work."
+    },
+    {
+      "category": "Food",
+      "question": "Tempeh is a traditional soy product originating from which Southeast Asian country?",
+      "options": [
+        "Indonesia",
+        "Thailand",
+        "Vietnam",
+        "Japan"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Tempeh is made by a natural culturing and controlled fermentation process that binds soybeans into a compact cake."
+    },
+    {
+      "category": "Animals",
+      "question": "What is the only mammal capable of sustained powered flight?",
+      "options": [
+        "Sugar glider",
+        "Flying squirrel",
+        "Bat",
+        "Colugo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Bats make up about one-fifth of all classified mammal species worldwide."
+    },
+    {
+      "category": "Sports",
+      "question": "In the sport of American football, how many points is a touchdown worth before any extra point or two-point conversion attempt?",
+      "options": [
+        "2",
+        "3",
+        "6",
+        "7"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A touchdown was originally worth zero points in the very first American football game in 1869, where teams scored solely by kicking the ball through the goalposts."
+    },
+    {
+      "category": "Language",
+      "question": "What linguistic term is used for a word that is spelled the same way forwards and backwards?",
+      "options": [
+        "Anagram",
+        "Palindrome",
+        "Acronym",
+        "Homonym"
+      ],
+      "answer_index": 1,
+      "fun_fact": "The longest single-word palindrome in standard English dictionaries is 'tattarrattat', coined by James Joyce in Ulysses for a knock on a door."
+    },
+    {
+      "category": "Space",
+      "question": "Which planet in our solar system has the most extensive and complex ring system composed mostly of ice particles and rocky debris?",
+      "options": [
+        "Uranus",
+        "Jupiter",
+        "Neptune",
+        "Saturn"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Although Saturn has the most prominent rings, all four gas and ice giant planets in our solar system possess ring systems."
+    },
+    {
+      "category": "History",
+      "question": "The Code of Hammurabi, one of the oldest deciphered writings of significant length in the world, originated from which ancient civilization?",
+      "options": [
+        "Babylonia",
+        "Ancient Egypt",
+        "Ancient Greece",
+        "The Roman Republic"
+      ],
+      "answer_index": 0,
+      "fun_fact": "The laws of Hammurabi were inscribed on a large basalt stele and famously established the principle of 'an eye for an eye'."
+    }
+  ]
+}
