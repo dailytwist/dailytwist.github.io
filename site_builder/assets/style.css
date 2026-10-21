@@ -740,3 +740,10 @@ p{color:color-mix(in srgb,var(--ink) 92%,var(--bg))}
   .hero2::after{background:linear-gradient(90deg,rgba(8,12,30,.55) 0%,rgba(8,12,30,.25) 50%,rgba(8,12,30,0) 75%)}
   [dir=rtl] .hero2::after{background:linear-gradient(270deg,rgba(8,12,30,.55) 0%,rgba(8,12,30,.25) 50%,rgba(8,12,30,0) 75%)}
 }
+/* phones: picture clearly on top, text underneath on a smooth fade */
+@media (max-width:760px){
+  .hero2{padding-top:230px;background:#080c1e}
+  .hero2 .hero-img{inset:0 0 auto 0;height:330px;object-position:center 30%;opacity:1}
+  .hero2::after,[dir=rtl] .hero2::after{background:linear-gradient(180deg,rgba(8,12,30,0) 0,rgba(8,12,30,0) 150px,rgba(8,12,30,.85) 250px,#080c1e 330px,#080c1e 100%)}
+  .hero2::before{opacity:.3}
+}
