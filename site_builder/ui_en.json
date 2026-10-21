@@ -651,5 +651,9 @@
   "hj_events": "Upcoming Islamic occasions",
   "hj_note": "Calculated with the Umm al-Qura calendar. The actual date can differ by one day in your country depending on the sighting of the moon.",
   "hj_unsupported": "Your browser cannot show the Hijri calendar. Please update it or try another browser.",
-  "hj_invalid": "This date does not exist in the Hijri calendar."
+  "hj_invalid": "This date does not exist in the Hijri calendar.",
+  "search_title": "Search",
+  "search_desc": "Search horoscopes, games, dreams, names, lessons and more on DailyTwist.",
+  "search_ph": "What are you looking for?",
+  "search_none": "No results. Try another word."
 }

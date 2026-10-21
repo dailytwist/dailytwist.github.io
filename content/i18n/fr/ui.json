@@ -651,5 +651,9 @@
   "hj_events": "Prochaines fêtes islamiques",
   "hj_note": "Calcul selon le calendrier Umm al-Qura. La date réelle peut varier d'un jour dans votre pays selon l'observation de la lune.",
   "hj_unsupported": "Votre navigateur ne peut pas afficher le calendrier hégirien. Mettez-le à jour ou essayez un autre navigateur.",
-  "hj_invalid": "Cette date n'existe pas dans le calendrier hégirien."
+  "hj_invalid": "Cette date n'existe pas dans le calendrier hégirien.",
+  "search_title": "Recherche",
+  "search_desc": "Cherchez horoscopes, jeux, rêves, prénoms, leçons et plus sur DailyTwist.",
+  "search_ph": "Que cherchez-vous ?",
+  "search_none": "Aucun résultat. Essayez un autre mot."
 }

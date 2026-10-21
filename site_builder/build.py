@@ -313,6 +313,7 @@ def render(lang, path, pg):
   <div class="wrap nav">
     <a class="brand" href="{pre}/"><span class="logo">✦</span>{e(SITE)}</a>
     <nav>
+      <a href="{pre}/search/" aria-label="{e(T(lang, 'search_title'))}">🔍</a>
       <a href="{pre}/horoscope/">🔮 {e(T(lang, 'nav_horoscopes'))}</a>
       <a href="{pre}/games/">🎮 {e(T(lang, 'nav_games'))}</a>
       <a href="{pre}/trivia/">🧠 {e(T(lang, 'nav_trivia'))}</a>
@@ -1108,6 +1109,22 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
     TAROT_LINKS = [f"{pre}/tarot-meanings/{k}/" if k in GD.get("tarot", {}) else "" for k in TAROT_KEYS]
 
     sj = lambda o: json.dumps(o, ensure_ascii=False).replace("</", "<\\/")
+    # site search (the index is written after every page is known)
+    add(lang, "search/", T(lang, "search_title"), T(lang, "search_desc"), f"""
+<section class="zhub srch">
+  <p class="kicker">🔍 {e(T(lang, 'search_title'))}</p><h1>{e(T(lang, 'search_title'))}</h1>
+  <input class="dsearch" type="search" id="q" placeholder="🔍 {e(T(lang, 'search_ph'))}" autofocus>
+  <p class="muted small" id="sn"></p>
+  <div id="sr" class="sr"></div>
+</section>
+<script>(function(){{var I=[],q=document.getElementById('q'),r=document.getElementById('sr'),n=document.getElementById('sn');
+function nz(s){{return s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'')}}
+function go(){{var v=nz(q.value.trim());if(v.length<2){{r.innerHTML='';n.textContent='';return}}var w=v.split(/\\s+/),out=I.filter(function(x){{return w.every(function(t){{return x.k.indexOf(t)>-1}})}}).slice(0,60);
+n.textContent=out.length?'':{json.dumps(T(lang, 'search_none'), ensure_ascii=False)};
+r.innerHTML=out.map(function(x){{return '<a class="sres" href="'+x.u+'"><b>'+x.t.replace(/</g,'&lt;')+'</b><small>'+x.d.replace(/</g,'&lt;')+'</small></a>'}}).join('')}}
+fetch('/search-{lang}.json').then(function(x){{return x.json()}}).then(function(d){{I=d.map(function(x){{return {{t:x[0],u:x[1],d:x[2],k:nz(x[0]+' '+x[2])}}}});var s=new URLSearchParams(location.search).get('q');if(s)q.value=s;go()}});
+q.oninput=go}})();</script>""", priority="0.3")
+
     # Hijri calendar: today's date and converter (computed in the browser)
     hol = DATA[lang]["ui"].get("holidays", {})
     evs = sorted((d, k) for k, ys in ISLAMIC.items() for d in ys.values() if d >= TODAY)[:8]
@@ -1379,6 +1396,10 @@ def main():
         if im and p.count("/") == 1 and "/sections/" in im and "</h1>" in pg["body"] and "sechero" not in pg["body"]:
             i = pg["body"].index("</h1>") + 5
             pg["body"] = pg["body"][:i] + f'<img class="sechero" src="{im}" width="640" height="640" alt="{e(pg["title"])}">' + pg["body"][i:]
+    for lang in LANGS:  # small per-language search index: title, url, short description
+        idx = [[html.unescape(pg["title"]), f"{P(l)}/{p}", html.unescape(pg["desc"])[:110]]
+               for (l, p), pg in PAGES.items() if l == lang and p not in ("search/", "")]
+        (OUT / f"search-{lang}.json").write_text(json.dumps(idx, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     sitemap = [render(l, p, pg) for (l, p), pg in PAGES.items()]
 
     shutil.copytree(HERE / "assets", OUT / "assets", dirs_exist_ok=True)
