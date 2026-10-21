@@ -638,5 +638,18 @@
   "nm_similar": "Similar names",
   "nm_same_letter": "More names starting with {letter}",
   "nm_all_names": "All baby names",
-  "nm_new": "New names are added every day."
+  "nm_new": "New names are added every day.",
+  "hj_title": "Hijri Calendar & Date Converter",
+  "tile_hj": "Today's Hijri date & converter",
+  "hj_desc": "See today's Islamic (Hijri) date and convert any date between the Gregorian and Hijri calendars, plus the dates of Ramadan, Eid and other Islamic occasions.",
+  "hj_today": "Today in the Hijri calendar",
+  "hj_g2h": "Gregorian to Hijri",
+  "hj_h2g": "Hijri to Gregorian",
+  "hj_day": "Day",
+  "hj_month": "Month",
+  "hj_year": "Year",
+  "hj_events": "Upcoming Islamic occasions",
+  "hj_note": "Calculated with the Umm al-Qura calendar. The actual date can differ by one day in your country depending on the sighting of the moon.",
+  "hj_unsupported": "Your browser cannot show the Hijri calendar. Please update it or try another browser.",
+  "hj_invalid": "This date does not exist in the Hijri calendar."
 }

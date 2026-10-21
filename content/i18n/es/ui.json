@@ -513,5 +513,18 @@
   "nm_similar": "Nombres parecidos",
   "nm_same_letter": "Más nombres con {letter}",
   "nm_all_names": "Todos los nombres",
-  "nm_new": "Cada día se añaden nombres nuevos."
+  "nm_new": "Cada día se añaden nombres nuevos.",
+  "hj_title": "Calendario Hégira y conversor de fechas",
+  "tile_hj": "Fecha hégira de hoy y conversor",
+  "hj_desc": "Consulta la fecha islámica (hégira) de hoy y convierte cualquier fecha entre el calendario gregoriano y el hégira, con las fechas de Ramadán, el Eid y otras celebraciones.",
+  "hj_today": "Hoy en el calendario hégira",
+  "hj_g2h": "Gregoriano a hégira",
+  "hj_h2g": "Hégira a gregoriano",
+  "hj_day": "Día",
+  "hj_month": "Mes",
+  "hj_year": "Año",
+  "hj_events": "Próximas celebraciones islámicas",
+  "hj_note": "Calculado con el calendario Umm al-Qura. La fecha real puede variar un día en tu país según el avistamiento de la luna.",
+  "hj_unsupported": "Tu navegador no puede mostrar el calendario hégira. Actualízalo o prueba otro navegador.",
+  "hj_invalid": "Esta fecha no existe en el calendario hégira."
 }

@@ -507,6 +507,7 @@ def build_lang(lang):
         *([(f"{pre}/dreams/", "💤", "dreams_title", "tile_dreams", "#312e81", "#a78bfa")] if D["dreams"] else []),
         *([(f"{pre}/angel-numbers/", "👼", "ang_title", "tile_ang", "#0369a1", "#7dd3fc")] if any(x.get("kind") == "angel" for x in D["guides2"]) else []),
         *([(f"{pre}/birthday/", "🎁", "bdp_title", "tile_bdp", "#be185d", "#fbbf24")] if any(x.get("kind") == "birthday" for x in D["guides2"]) else []),
+        (f"{pre}/hijri-calendar/", "🕌", "hj_title", "tile_hj", "#047857", "#34d399"),
         *([(f"{pre}/names/", "👶", "nm_title", "tile_nm", "#0891b2", "#f472b6")] if D["names"] else []),
         *([(f"{pre}/learn-english/", "🇬🇧", "en_title", "tile_en", "#1d4ed8", "#ef4444")] if D["english"] else []),
         (f"{pre}/zodiac-quiz/", "🧠", "pq_title", "tile_pq", "#7c3aed", "#ec4899"),
@@ -1107,6 +1108,29 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
     TAROT_LINKS = [f"{pre}/tarot-meanings/{k}/" if k in GD.get("tarot", {}) else "" for k in TAROT_KEYS]
 
     sj = lambda o: json.dumps(o, ensure_ascii=False).replace("</", "<\\/")
+    # Hijri calendar: today's date and converter (computed in the browser)
+    hol = DATA[lang]["ui"].get("holidays", {})
+    evs = sorted((d, k) for k, ys in ISLAMIC.items() for d in ys.values() if d >= TODAY)[:8]
+    evrows = "".join(f'<li><b>{e(hol.get(k, UI_EN["holidays"].get(k, k)))}</b><span>{e(fdate(lang, d))}</span><small data-iso="{d}"></small>'
+                     + (f' <a href="{pre}/countdown/{k}/">⏳</a>' if (lang, f"countdown/{k}/") in PAGES else "") + '</li>' for d, k in evs)
+    hjd = {"locale": {"ar": "ar-MA", "pt": "pt-BR"}.get(lang, lang), "l": {k: e(T(lang, "hj_" + k)) for k in ("unsupported", "invalid")}}
+    add(lang, "hijri-calendar/", T(lang, "hj_title"), T(lang, "hj_desc"), f"""
+<article class="hijri-page">
+  <p class="kicker">🌙 {e(T(lang, 'hj_title'))}</p><h1>{e(T(lang, 'hj_title'))}</h1>
+  <p class="lead">{e(T(lang, 'hj_desc'))}</p>
+  <div id="hijri" class="hijri">
+    <div class="hj-today"><small class="hj-k">{e(T(lang, 'hj_today'))}</small><b>…</b><small></small></div>
+    <div class="hj-box"><h2>📅 → 🌙 {e(T(lang, 'hj_g2h'))}</h2><input type="date" name="g"><p class="hj-g2h-out"></p></div>
+    <div class="hj-box"><h2>🌙 → 📅 {e(T(lang, 'hj_h2g'))}</h2>
+      <div class="hj-sel"><select name="hd" aria-label="{e(T(lang, 'hj_day'))}"></select><select name="hm" aria-label="{e(T(lang, 'hj_month'))}"></select><input type="number" name="hy" min="1300" max="1600" aria-label="{e(T(lang, 'hj_year'))}"></div>
+      <p class="hj-h2g-out"></p></div>
+  </div>
+  <h2>🕌 {e(T(lang, 'hj_events'))}</h2><ul class="hj-events">{evrows}</ul>
+  <p class="small muted">ℹ️ {e(T(lang, 'hj_note'))}</p>
+</article>
+<script type="application/json" id="hijri-data">{json.dumps(hjd, ensure_ascii=False)}</script>
+<script src="/assets/hijri.js" defer></script>""", priority="0.9")
+
     # baby names: meaning pages written by the agent
     NM = D["names"]
     if NM:

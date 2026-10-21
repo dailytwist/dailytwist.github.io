@@ -638,5 +638,18 @@
   "nm_similar": "Prénoms proches",
   "nm_same_letter": "D'autres prénoms en {letter}",
   "nm_all_names": "Tous les prénoms",
-  "nm_new": "De nouveaux prénoms sont ajoutés chaque jour."
+  "nm_new": "De nouveaux prénoms sont ajoutés chaque jour.",
+  "hj_title": "Calendrier hégirien et convertisseur",
+  "tile_hj": "Date hégirienne du jour et conversion",
+  "hj_desc": "Découvrez la date islamique (hégirienne) du jour et convertissez n'importe quelle date entre les calendriers grégorien et hégirien, avec les dates du Ramadan, de l'Aïd et des autres fêtes.",
+  "hj_today": "Aujourd'hui dans le calendrier hégirien",
+  "hj_g2h": "Grégorien vers hégirien",
+  "hj_h2g": "Hégirien vers grégorien",
+  "hj_day": "Jour",
+  "hj_month": "Mois",
+  "hj_year": "Année",
+  "hj_events": "Prochaines fêtes islamiques",
+  "hj_note": "Calcul selon le calendrier Umm al-Qura. La date réelle peut varier d'un jour dans votre pays selon l'observation de la lune.",
+  "hj_unsupported": "Votre navigateur ne peut pas afficher le calendrier hégirien. Mettez-le à jour ou essayez un autre navigateur.",
+  "hj_invalid": "Cette date n'existe pas dans le calendrier hégirien."
 }
