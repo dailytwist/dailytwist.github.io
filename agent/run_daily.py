@@ -316,7 +316,7 @@ LANG_NAMES = {"en": "English", "es": "Spanish", "fr": "French", "de": "German", 
               "sv": "Swedish", "zh": "Simplified Chinese", "vi": "Vietnamese", "th": "Thai", "uk": "Ukrainian"}
 UI_EN = json.loads((ROOT / "site_builder" / "ui_en.json").read_text(encoding="utf-8"))
 I18N = CONTENT / "i18n"
-KEEP = {"slug", "date", "topic", "trending", "answer_index", "lucky_number", "category", "sign", "best", "hard", "a", "b", "score", "year", "animal", "number", "years", "symbol", "key", "kind", "month", "day", "en", "cefr", "cat", "choices"}
+KEEP = {"slug", "date", "topic", "trending", "answer_index", "lucky_number", "category", "sign", "best", "hard", "a", "b", "score", "year", "animal", "number", "years", "symbol", "key", "kind", "month", "day", "en", "cefr", "cat", "choices", "nm", "gender", "variants", "nicknames", "similar", "script"}
 
 
 def _keep(k, d) -> bool:
@@ -396,7 +396,7 @@ def ensure_ui(lang: str) -> None:
 
 def translate_content(lang: str, budget: list, today: dt.date) -> None:
     jobs = []
-    for kind in ("horoscopes", "trivia", "articles", "signs", "pairs", "yearly", "chinese", "numerology", "dreams", "guides", "english"):
+    for kind in ("horoscopes", "trivia", "articles", "signs", "pairs", "yearly", "chinese", "numerology", "dreams", "guides", "english", "names"):
         for f in (CONTENT / kind).glob("*.json"):
             if not (I18N / lang / kind / f.name).exists():
                 jobs.append((kind, f))
@@ -611,6 +611,35 @@ Vary answer_index (do not always use 0).""", max_tokens=4000)
                  "sections": secs[:4], "words": words[:10], "tip": str(data.get("tip", "")), "quiz": quiz[:8]})
 
 
+NAMES = [tuple(x) for x in json.loads((ROOT / "site_builder" / "data" / "names.json").read_text(encoding="utf-8"))]
+
+
+def make_names(day: dt.date, count: int) -> None:
+    """Baby-name meaning pages, a few per run."""
+    todo = [x for x in NAMES if not (CONTENT / "names" / f"{x[0]}.json").exists()]
+    for slug, name, gender, group in todo[:count]:
+        print(f"- name {name}")
+        data = ask_json(f"""Write an evergreen guide to the {"boy" if gender == "boy" else "girl"}'s name "{name}" for a baby-names website.
+Be accurate about etymology; if the origin is uncertain or debated, say so honestly. {"It is an Arabic name: give its Arabic spelling and its meaning in Arabic tradition." if group == "arabic" else ""}
+Never mention real famous people, religious rulings or anything negative. Warm, clear, specific. Format:
+{{"title": "{name}: Name Meaning, Origin & Personality", "summary": "2 sentences",
+"meaning": "the core meaning in 3-8 words", "script": "{"the name in Arabic script" if group == "arabic" else "the name in its original script if not Latin, else empty string"}",
+"origin": "70-100 words: language of origin, history and where it is popular today",
+"personality": "80-110 words: traits commonly associated with the name (popular belief, positive)",
+"popularity": "50-80 words: how popular it is and in which countries, without exact rankings or years",
+"variants": ["4-6 spellings or versions in other languages"], "nicknames": ["3-5 nicknames"],
+"similar": ["5 names with a similar feel or meaning"],
+"faq": [{{"q": "question people ask about the name", "ans": "2 sentences"}}, 4 items]}}""", max_tokens=2500)
+        need = ("title", "summary", "meaning", "origin", "personality", "popularity")
+        if not all(isinstance(data.get(k), str) and data.get(k) for k in need):
+            continue
+        lst = lambda k: [str(v) for v in data.get(k, []) if isinstance(v, str) and v.strip()][:6]
+        faq = [{"q": str(x.get("q", "")), "ans": str(x.get("ans", ""))} for x in data.get("faq", []) if isinstance(x, dict)][:5]
+        save(CONTENT / "names" / f"{slug}.json", {"date": str(day), "slug": slug, "nm": name, "gender": gender,
+             "script": str(data.get("script", ""))[:40], **{k: data[k] for k in need},
+             "variants": lst("variants"), "nicknames": lst("nicknames"), "similar": lst("similar"), "faq": faq})
+
+
 def articles_today() -> int:
     today = str(dt.datetime.now(dt.timezone.utc).date())
     return sum(1 for f in (CONTENT / "articles").glob("*.json") if json.loads(f.read_text(encoding="utf-8")).get("date") == today)
@@ -633,7 +662,8 @@ def main() -> None:
              (make_yearly, (today, 6)), (make_chinese, (today, 6)),
              (make_dreams, (today, CONFIG.get("dreams_per_day", 6))),
              (make_guides, (today, CONFIG.get("guides_per_run", {"tarot": 4, "angel": 4, "birthday": 6, "birthstone": 2}))),
-             (make_english, (today, CONFIG.get("english_per_run", 5)))]
+             (make_english, (today, CONFIG.get("english_per_run", 5))),
+             (make_names, (today, CONFIG.get("names_per_run", 8)))]
     errors = 0
     for fn, a in jobs:
         try:

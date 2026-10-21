@@ -85,6 +85,7 @@ def lang_data(lang):
         "numerology": {int(x["number"]): x for x in load(base / "numerology") if x.get("number")},
         "dreams": {x["symbol"]: x for x in load(base / "dreams") if x.get("symbol")},
         "guides2": load(base / "guides"),
+        "names": {x["slug"]: x for x in load(base / "names") if x.get("slug") and x.get("nm")},
         "english": {x["slug"]: x for x in load(base / "english") if x.get("slug") and x.get("quiz")},
     }
 
@@ -506,6 +507,7 @@ def build_lang(lang):
         *([(f"{pre}/dreams/", "💤", "dreams_title", "tile_dreams", "#312e81", "#a78bfa")] if D["dreams"] else []),
         *([(f"{pre}/angel-numbers/", "👼", "ang_title", "tile_ang", "#0369a1", "#7dd3fc")] if any(x.get("kind") == "angel" for x in D["guides2"]) else []),
         *([(f"{pre}/birthday/", "🎁", "bdp_title", "tile_bdp", "#be185d", "#fbbf24")] if any(x.get("kind") == "birthday" for x in D["guides2"]) else []),
+        *([(f"{pre}/names/", "👶", "nm_title", "tile_nm", "#0891b2", "#f472b6")] if D["names"] else []),
         *([(f"{pre}/learn-english/", "🇬🇧", "en_title", "tile_en", "#1d4ed8", "#ef4444")] if D["english"] else []),
         (f"{pre}/zodiac-quiz/", "🧠", "pq_title", "tile_pq", "#7c3aed", "#ec4899"),
         (f"{pre}/love-messages/", "💌", "lm_title", "tile_lm", "#db2777", "#f9a8d4"),
@@ -1105,6 +1107,65 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
     TAROT_LINKS = [f"{pre}/tarot-meanings/{k}/" if k in GD.get("tarot", {}) else "" for k in TAROT_KEYS]
 
     sj = lambda o: json.dumps(o, ensure_ascii=False).replace("</", "<\\/")
+    # baby names: meaning pages written by the agent
+    NM = D["names"]
+    if NM:
+        def name_number(n):
+            import unicodedata as ud
+            t = sum((ord(c) - 97) % 9 + 1 for c in ud.normalize("NFKD", n.lower()) if "a" <= c <= "z")
+            while t > 9 and t not in (11, 22, 33):
+                t = sum(int(d) for d in str(t))
+            return t
+        gl = lambda g: T(lang, "nm_boy" if g == "boy" else "nm_girl")
+        keys = sorted(NM, key=lambda k: NM[k]["nm"].lower())
+        scr = lambda k: f'<i>{e(NM[k]["script"])}</i>' if NM[k].get("script") else ""
+        cards = []
+        for letter in sorted({NM[k]["nm"][0].upper() for k in keys}):
+            cards.append(f'<h2 class="nmletter" id="l-{letter}">{letter}</h2><div class="nmgrid">' + "".join(
+                f'<a class="nmcard {NM[k]["gender"]}" href="{pre}/names/{k}/" data-q="{e((NM[k]["nm"] + " " + NM[k].get("script", "") + " " + NM[k]["meaning"]).lower())}" data-g="{NM[k]["gender"]}">'
+                f'<b>{e(NM[k]["nm"])}</b>{scr(k)}<small>{e(NM[k]["meaning"])}</small></a>'
+                for k in keys if NM[k]["nm"][0].upper() == letter) + '</div>')
+        add(lang, "names/", T(lang, "nm_title"), T(lang, "nm_desc"), f"""
+<section class="zhub nmhub">
+  <p class="kicker">👶 {e(T(lang, 'nm_title'))}</p><h1>{e(T(lang, 'nm_title'))}</h1>
+  <p class="lead">{e(T(lang, 'nm_desc'))}</p>
+  <input class="dsearch" type="search" placeholder="🔍 {e(T(lang, 'nm_search'))}">
+  <div class="nmfilter"><button class="on" data-g="">{e(T(lang, 'nm_all'))}</button><button data-g="boy">👦 {e(T(lang, 'nm_boys'))}</button><button data-g="girl">👧 {e(T(lang, 'nm_girls'))}</button></div>
+  {"".join(cards)}
+  <p class="muted small">✨ {e(T(lang, 'nm_new'))}</p>
+</section>
+<script>(function(){{var q='',g='',inp=document.querySelector('.nmhub .dsearch');function f(){{document.querySelectorAll('.nmcard').forEach(function(c){{c.hidden=(q&&c.dataset.q.indexOf(q)<0)||(g&&c.dataset.g!==g)}});document.querySelectorAll('.nmgrid').forEach(function(d){{var any=[].some.call(d.children,function(c){{return !c.hidden}});d.hidden=!any;d.previousElementSibling.hidden=!any}})}}inp.oninput=function(){{q=this.value.toLowerCase().trim();f()}};document.querySelectorAll('.nmfilter button').forEach(function(b){{b.onclick=function(){{document.querySelectorAll('.nmfilter button').forEach(function(x){{x.classList.remove('on')}});b.classList.add('on');g=b.dataset.g;f()}}}})}})();</script>""", priority="0.9")
+        by_slug = {NM[k]["nm"].lower(): k for k in NM}
+        for k in keys:
+            x = NM[k]
+            num = name_number(x["nm"])
+            numlink = f'<a href="{pre}/numerology/{num}/">{num}</a>' if num in D["numerology"] else str(num)
+            def chips(lst, link=False):
+                return "".join((f'<a class="mchip nmchip" href="{pre}/names/{by_slug[v.lower()]}/">{e(v)}</a>' if link and v.lower() in by_slug and by_slug[v.lower()] != k
+                                else f'<span class="mchip nmchip">{e(v)}</span>') for v in lst)
+            same = [o for o in keys if o != k and NM[o]["nm"][0].upper() == x["nm"][0].upper()][:10]
+            faq = x.get("faq", [])
+            body = f"""
+<article class="guide nmpage">
+  <p class="kicker">👶 <a href="{pre}/names/">{e(T(lang, 'nm_title'))}</a></p>
+  <div class="nmhead {x['gender']}"><span class="nmbig">{e(x['nm'])}</span>{f'<span class="nmscript">{e(x["script"])}</span>' if x.get('script') else ''}
+    <div class="nmtags"><span>{'👦' if x['gender'] == 'boy' else '👧'} {e(gl(x['gender']))}</span><span>💬 {e(x['meaning'])}</span><span>🔢 {e(T(lang, 'nm_number'))}: {numlink}</span></div></div>
+  <h1>{e(x['title'])}</h1>
+  <p class="lead">{e(x['summary'])}</p>
+  <h2>🌍 {e(T(lang, 'nm_origin'))}</h2><p>{e(x['origin'])}</p>
+  <h2>✨ {e(T(lang, 'nm_personality'))}</h2><p>{e(x['personality'])}</p>
+  <h2>📈 {e(T(lang, 'nm_popularity'))}</h2><p>{e(x['popularity'])}</p>
+  {f'<h2>🔤 {e(T(lang, "nm_variants"))}</h2><div class="chips">{chips(x["variants"], True)}</div>' if x.get('variants') else ''}
+  {f'<h2>💕 {e(T(lang, "nm_nicknames"))}</h2><div class="chips">{chips(x["nicknames"])}</div>' if x.get('nicknames') else ''}
+  {f'<h2>👶 {e(T(lang, "nm_similar"))}</h2><div class="chips">{chips(x["similar"], True)}</div>' if x.get('similar') else ''}
+  {f'<h2>❓ {e(T(lang, "faq_title"))}</h2>' + "".join(f"<details class='faq'><summary>{e(q['q'])}</summary><p>{e(q['ans'])}</p></details>" for q in faq) if faq else ''}
+  {f'<h2>🔠 {e(T(lang, "nm_same_letter", letter=x["nm"][0].upper()))}</h2><div class="chips">' + "".join(f'<a class="mchip nmchip" href="{pre}/names/{o}/">{e(NM[o]["nm"])}</a>' for o in same) + '</div>' if same else ''}
+  <a class="btn" href="{pre}/names/">👶 {e(T(lang, 'nm_all_names'))}</a>
+</article>"""
+            schema = {"@context": "https://schema.org", "@type": "FAQPage", "inLanguage": lang,
+                      "mainEntity": [{"@type": "Question", "name": q["q"], "acceptedAnswer": {"@type": "Answer", "text": q["ans"]}} for q in faq]} if faq else None
+            add(lang, f"names/{k}/", x["title"], x["summary"], body, schema, priority="0.8")
+
     # learn English: lessons written by the agent, explanations translated, English examples kept
     EN = D["english"]
     if EN:
