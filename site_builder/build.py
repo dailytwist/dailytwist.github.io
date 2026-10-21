@@ -1087,7 +1087,7 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
         LV = ("A1", "A2", "B1", "B2")
         def ecard(k):
             x = EN[k]
-            return (f'<a class="encard" href="{pre}/learn-english/{k}/" data-k="{k}"><span class="enemo">{e(x.get("emoji", "📘"))}</span>'
+            return (f'<a class="encard" href="{pre}/learn-english/{k}/" data-k="{k}"><span class="enemo"><img src="/assets/english/{x.get('cat', 'grammar')}.webp" width="60" height="60" alt="" loading="lazy"><em>{e(x.get("emoji", "📘"))}</em></span>'
                     f'<span class="entx"><b>{e(x["title"])}</b><small>{e(T(lang, "en_cat_" + x.get("cat", "grammar")))}</small></span><i class="enok">✓</i></a>')
         levels = "".join(f'<h2 class="enlv"><span class="cefr">{lv}</span> {e(T(lang, "en_lv_" + lv))}</h2><div class="engrid">' + "".join(ecard(k) for k in order if EN[k].get("cefr") == lv) + '</div>'
                          for lv in LV if any(EN[k].get("cefr") == lv for k in order))
@@ -1122,6 +1122,7 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
             body = f"""
 <article class="guide enles">
   <p class="kicker">🇬🇧 <a href="{pre}/learn-english/">{e(T(lang, 'en_title'))}</a> · <span class="cefr">{e(x.get('cefr', ''))}</span> {e(T(lang, 'en_cat_' + x.get('cat', 'grammar')))}</p>
+  <img class="enles-img" src="/assets/english/{x.get('cat', 'grammar')}.webp" width="480" height="480" alt="{e(T(lang, 'en_cat_' + x.get('cat', 'grammar')))}">
   <h1>{e(x.get('emoji', '📘'))} {e(x['title'])}</h1>
   <p class="lead">{e(x['summary'])}</p>
   {secs}
