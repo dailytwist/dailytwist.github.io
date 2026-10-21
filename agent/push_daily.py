@@ -39,21 +39,33 @@ def short(text, n=150):
     return first if len(first) <= n else first[: n - 1].rstrip() + "…"
 
 
+AUTH = ["Key"]
+
+
 def send(key, app, filters, title, body, url):
     data = json.dumps({"app_id": app, "target_channel": "push", "filters": filters,
                        "headings": {"en": title}, "contents": {"en": body}, "url": url,
                        "chrome_web_icon": f"{URL}/assets/icons/icon-192.png", "ttl": 43200}).encode()
-    req = urllib.request.Request("https://api.onesignal.com/notifications?c=push", data=data, method="POST",
-                                 headers={"Authorization": f"Key {key}", "Content-Type": "application/json; charset=utf-8"})
-    try:
-        with urllib.request.urlopen(req, timeout=60) as r:
-            return json.loads(r.read())
-    except urllib.error.HTTPError as e:
-        return {"error": e.code, "body": e.read().decode()[:300]}
+    for scheme in list(AUTH) + [x for x in ("Key", "Basic") if x not in AUTH]:
+        req = urllib.request.Request("https://api.onesignal.com/notifications?c=push", data=data, method="POST",
+                                     headers={"Authorization": f"{scheme} {key}", "Content-Type": "application/json; charset=utf-8"})
+        try:
+            with urllib.request.urlopen(req, timeout=60) as r:
+                AUTH[:] = [scheme]
+                return json.loads(r.read())
+        except urllib.error.HTTPError as e:
+            res = {"error": e.code, "body": e.read().decode()[:300], "auth": scheme}
+            if e.code != 401:
+                return res
+    return res
 
 
 def main():
-    key, app = os.environ.get("ONESIGNAL_API_KEY", "").strip(), C.get("onesignal_app_id")
+    raw = os.environ.get("ONESIGNAL_API_KEY", "")
+    found = re.search(r"os_v2_app_[A-Za-z0-9]+", raw)  # pick the key even if extra text was pasted with it
+    key = found.group(0) if found else "".join(raw.split()).strip("'\"")
+    app = C.get("onesignal_app_id")
+    shape = {"len": len(key), "starts": key[:7], "v2": bool(found)}  # safe hints only, never the key
     if not key or not app:
         print("OneSignal not configured, skipping.")
         return
@@ -65,7 +77,7 @@ def main():
         r = send(key, app, [{"field": "session_count", "relation": ">", "value": "0"}], "✅ DailyTwist",
                  "Notifications are working! 🎉", f"{URL}/")
         print("test", r)
-        (CONTENT / "push_log.json").write_text(json.dumps({"day": today, "test": r}, ensure_ascii=False, indent=1))
+        (CONTENT / "push_log.json").write_text(json.dumps({"day": today, "test": r, "key_shape": shape}, ensure_ascii=False, indent=1))
         return
     if today in sent:
         print("Already sent today.")
