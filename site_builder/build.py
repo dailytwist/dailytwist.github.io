@@ -117,6 +117,7 @@ PRAYER_METHODS = {"morocco": {"f": 19, "i": 17, "mg": 5}, "algeria": {"f": 18, "
                   "qatar": {"f": 18, "i": "90"}, "kuwait": {"f": 18, "i": 17.5}, "jordan": {"f": 18, "i": 18},
                   "mwl": {"f": 18, "i": 17}, "turkey": {"f": 18, "i": 17}, "karachi": {"f": 18, "i": 18, "asr": 2},
                   "sea": {"f": 20, "i": 18}, "france": {"f": 12, "i": 12}, "isna": {"f": 15, "i": 15}}
+ASSET_V = hashlib.md5(b"".join(f.read_bytes() for f in sorted((Path(__file__).parent / "assets").glob("*.*")) if f.suffix in (".css", ".js"))).hexdigest()[:8]
 EN_ORDER = json.loads((Path(__file__).parent / "data" / "english_lessons.json").read_text(encoding="utf-8"))
 LANGS = ["en"] + [l for l in C.get("languages", []) if l != "en" and (CONTENT / "i18n" / l / "ui.json").exists()]
 DATA = {l: lang_data(l) for l in LANGS}
@@ -365,6 +366,7 @@ def render(lang, path, pg):
         doc = doc.replace('href="/', f'href="{BASE}/').replace('src="/', f'src="{BASE}/')
     out = OUT / (pre.lstrip("/")) / path / "index.html" if not path.endswith(".html") else OUT / path
     out.parent.mkdir(parents=True, exist_ok=True)
+    doc = re.sub(r'(["\'])(/assets/[\w./-]+\.(?:css|js))\1', lambda m: f'{m.group(1)}{m.group(2)}?v={ASSET_V}{m.group(1)}', doc)
     out.write_text(doc, encoding="utf-8")
     return canonical, pg["priority"], alts
 
