@@ -1,0 +1,33 @@
+name: Morning push notification
+
+on:
+  schedule:
+    - cron: "41 7 * * *"   # 07:41 UTC (= 08:41 Morocco), after the morning content run
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: push
+  cancel-in-progress: false
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Send today's notification
+        env:
+          ONESIGNAL_API_KEY: ${{ secrets.ONESIGNAL_API_KEY }}
+        run: python agent/push_daily.py
+      - name: Remember that today was sent
+        run: |
+          git config user.name "dailytwist-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add content/push_sent.json
+          if ! git diff --cached --quiet; then git commit -m "Push sent $(date -u +%F)"; git pull --rebase origin main; git push; fi

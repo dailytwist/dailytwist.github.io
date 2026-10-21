@@ -696,5 +696,8 @@
   "td_tarot_d": "Un petit message pour votre journée",
   "push_msg": "Recevoir votre horoscope et un nouveau défi chaque matin ? 🔮",
   "push_yes": "Oui, me prévenir",
-  "push_no": "Plus tard"
+  "push_no": "Plus tard",
+  "push_day_title": "☀️ Votre journée est prête",
+  "push_day_body": "Votre horoscope, 10 nouvelles questions et le mot anglais du jour vous attendent 🔮",
+  "push_sign_title": "{sign} : votre horoscope du jour"
 }

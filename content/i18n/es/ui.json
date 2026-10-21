@@ -571,5 +571,8 @@
   "td_tarot_d": "Un mensaje corto para tu día",
   "push_msg": "¿Quieres recibir tu horóscopo y un reto nuevo cada mañana? 🔮",
   "push_yes": "Sí, avísame",
-  "push_no": "Más tarde"
+  "push_no": "Más tarde",
+  "push_day_title": "☀️ Tu día está listo",
+  "push_day_body": "Tu horóscopo, 10 preguntas nuevas y la palabra en inglés del día te esperan 🔮",
+  "push_sign_title": "{sign}: tu horóscopo de hoy"
 }

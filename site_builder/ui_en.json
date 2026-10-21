@@ -696,5 +696,8 @@
   "td_tarot_d": "A short message for your day",
   "push_msg": "Get your horoscope and a new daily challenge every morning? 🔮",
   "push_yes": "Yes, notify me",
-  "push_no": "Later"
+  "push_no": "Later",
+  "push_day_title": "☀️ Your day is ready",
+  "push_day_body": "Your horoscope, 10 new questions and today's English word are waiting 🔮",
+  "push_sign_title": "{sign}: your horoscope for today"
 }
