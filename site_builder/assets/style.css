@@ -655,3 +655,4 @@ nav a{display:inline-flex;align-items:center;gap:5px}
 .sres{display:flex;flex-direction:column;background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:10px 14px;color:var(--ink)}
 .sres:hover{text-decoration:none;border-color:var(--accent)}
 .sres small{color:var(--muted)}
+.sres b{line-height:1.3}

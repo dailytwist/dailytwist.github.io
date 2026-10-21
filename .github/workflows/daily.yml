@@ -20,9 +20,9 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: daily
-  cancel-in-progress: false
+concurrency:  # site updates (push) publish right away; the long AI runs queue in their own lane
+  group: ${{ github.event_name == 'push' && 'publish' || 'daily' }}
+  cancel-in-progress: ${{ github.event_name == 'push' }}
 
 jobs:
   run:
