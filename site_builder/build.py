@@ -496,7 +496,7 @@ def build_lang(lang):
     # home
     h, t = (H[-1] if H else None), (TR[-1] if TR else None)
     upcoming = sorted(HOLIDAYS, key=lambda s: next_date(HOLIDAYS[s]))[:4]
-    latest = "".join(article_card(lang, a) for a in AR[:9]) or f"<p class='muted'>{e(T(lang, 'new_daily'))}</p>"
+    latest = "".join(article_card(lang, a) for a in AR[:6]) or f"<p class='muted'>{e(T(lang, 'new_daily'))}</p>"
     n_games = len(GAMES)
     tiles = [
         (f"{pre}/horoscope/", "🔮", "nav_horoscopes", "tile_horoscope", "#7c5cff", "#c084fc"),
@@ -529,10 +529,30 @@ def build_lang(lang):
     def tile_ic(u, ic):
         im = section_img(u[len(pre):].lstrip("/") if pre and u.startswith(pre) else u.lstrip("/"))
         return f'<img src="{im}" width="48" height="48" alt="" loading="lazy">' if im and "/signs/" not in im else ic
-    tiles_html = "".join(
-        f'<a class="xtile" href="{u}" style="--c1:{c1};--c2:{c2}"><span class="xtile-ic">{tile_ic(u, ic)}</span>'
-        f'<span class="xtile-tx"><b>{e(T(lang, k, year=yrs[-1] if yrs else ""))}</b><small>{e(T(lang, d))}</small></span></a>'
-        for u, ic, k, d, c1, c2 in tiles)
+    def tile_img(u, ic, c1, c2):
+        path = u[len(pre):].lstrip("/") if pre and u.startswith(pre) else u.lstrip("/")
+        im = section_img(path)
+        if path.startswith(("horoscope", "zodiac")) and not im:
+            im = "/assets/signs/leo.webp"
+        return (f'<img src="{im}" width="320" height="320" alt="" loading="lazy">' if im
+                else f'<span class="rc-emo" style="--c1:{c1};--c2:{c2}">{ic}</span>')
+    by_path = {}
+    for tl in tiles:
+        by_path[tl[0][len(pre):].strip("/") if pre else tl[0].strip("/")] = tl
+    CATS = [("cat_popular", "⭐", ["horoscope", "prayer-times", "names", "learn-english", "games", "compatibility"]),
+            ("cat_spirit", "🔮", [k for k in by_path if k.startswith("horoscope-")] + ["zodiac", "tarot", "dreams", "chinese-zodiac", "numerology", "angel-numbers", "moon-phase", "zodiac-quiz"]),
+            ("cat_islamic", "🕌", ["prayer-times", "hijri-calendar", "countdown"]),
+            ("cat_play", "🎮", ["games", "trivia", "puzzle", "zodiac-quiz", "love-calculator"]),
+            ("cat_life", "💡", ["names", "learn-english", "birthday", "love-messages", "age-calculator", "articles", "countdown"])]
+    used = set(k for _, _, ks in CATS for k in ks)
+    CATS[-1][2].extend(k for k in by_path if k not in used)
+    def rail(title, emo, keys):
+        cards = "".join(
+            f'<a class="rcard" href="{by_path[k][0]}">{tile_img(by_path[k][0], by_path[k][1], by_path[k][4], by_path[k][5])}'
+            f'<b>{e(T(lang, by_path[k][2], year=yrs[-1] if yrs else ""))}</b><small>{e(T(lang, by_path[k][3]))}</small></a>'
+            for k in keys if k in by_path)
+        return f'<section class="rail"><h2>{emo} {e(T(lang, title))}</h2><div class="rtrack">{cards}</div></section>' if cards else ""
+    tiles_html = "".join(rail(*c) for c in CATS)
     strip = "".join(
         f'<a class="sg" href="{pre}/horoscope/{s}/" data-sign="{s}">{sign_art(s, 50)}<b>{e(sign_name(lang, s))}</b></a>'
         for s in SIGNS)
@@ -542,6 +562,7 @@ def build_lang(lang):
     <p class="kicker">{e(fdate(lang, TODAY))}</p>
     <h1>{e(T(lang, 'hero_short'))}</h1>
     <p class="hero2-sub">{e(T(lang, 'tagline'))}.</p>
+    <form class="hsearch" action="{pre}/search/" method="get" role="search"><input type="search" name="q" placeholder="{e(T(lang, 'search_hero'))}" aria-label="{e(T(lang, 'search_title'))}"><button type="submit" aria-label="{e(T(lang, 'search_title'))}">🔍</button></form>
     <div class="hero2-cta">
       <a class="btn light" href="{pre}/games/">🎮 {e(T(lang, 'cta_play'))}</a>
       <a class="btn glass" href="{pre}/horoscope/" data-mysign>🔮 {e(T(lang, 'cta_horoscope'))}</a>
@@ -550,10 +571,7 @@ def build_lang(lang):
   </div>
   {HERO_ART}
 </section>
-<section class="explore">
-  <h2 class="sr">{e(T(lang, 'explore'))}</h2>
-  <div class="xtiles">{tiles_html}</div>
-</section>
+<div class="explore">{tiles_html}</div>
 <section>
   <div class="sec-head"><h2>🔮 {e(T(lang, 'daily_horoscope'))}</h2><a href="{pre}/horoscope/">{e(T(lang, 'see_all'))} →</a></div>
   <p class="muted small hint">{e(T(lang, 'pick_sign'))}</p>
@@ -561,7 +579,7 @@ def build_lang(lang):
 </section>
 <section>
   <div class="sec-head"><h2>🎮 {e(T(lang, 'games_title'))}</h2><a href="{pre}/games/">{e(T(lang, 'see_all'))} →</a></div>
-  {games_grid(lang)}
+  {games_grid(lang, list(GAMES)[:6])}
 </section>
 <section class="split">
   <div class="panel quiz-panel">

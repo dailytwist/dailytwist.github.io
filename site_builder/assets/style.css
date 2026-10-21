@@ -672,3 +672,23 @@ nav a{display:inline-flex;align-items:center;gap:5px}
 .pt-month th,.pt-month td{padding:5px 4px;border-bottom:1px solid var(--line)}
 .pt-month tr.on td{background:#ecfdf5;color:#064e3b;font-weight:700}
 .ptchip{padding:5px 12px}
+/* home: search in hero + category rails */
+.hsearch{display:flex;align-items:center;gap:6px;background:#fff;border-radius:18px;padding:6px 6px 6px 16px;margin:18px 0 4px;max-width:560px;box-shadow:0 10px 30px rgba(20,10,60,.25)}
+[dir=rtl] .hsearch{padding:6px 16px 6px 6px}
+.hsearch input{flex:1;min-width:0;border:0;outline:0;background:transparent;font:500 1rem var(--text);color:#1e1b2b;padding:8px 0}
+.hsearch input::placeholder{color:#8a8599}
+.hsearch button{border:0;border-radius:13px;width:46px;height:42px;background:linear-gradient(135deg,#7c3aed,#ec4899);color:#fff;font-size:1.1rem;cursor:pointer}
+.explore{margin-top:8px}
+.rail{margin:22px 0 4px}
+.rail h2{font-size:1.25rem;margin:0 0 10px}
+.rtrack{display:grid;grid-auto-flow:column;grid-auto-columns:176px;justify-content:start;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;padding:2px 2px 12px;scrollbar-width:thin;-webkit-overflow-scrolling:touch}
+.rcard{scroll-snap-align:start;display:flex;flex-direction:column;background:var(--paper);border:1px solid var(--line);border-radius:20px;overflow:hidden;color:var(--ink);box-shadow:var(--shadow);transition:transform .15s,box-shadow .15s;min-width:150px}
+.rcard:hover{text-decoration:none;transform:translateY(-3px);box-shadow:0 14px 30px rgba(0,0,0,.12)}
+.rcard img,.rc-emo{width:100%;height:auto;aspect-ratio:1/1;object-fit:cover;display:block}
+.rc-emo{display:grid;place-items:center;font-size:3.2rem;background:linear-gradient(135deg,var(--c1),var(--c2))}
+.rcard b{font:700 .98rem/1.25 var(--display);padding:10px 12px 2px}
+.rcard small{color:var(--muted);font-size:.78rem;line-height:1.35;padding:0 12px 12px}
+@media (max-width:700px){.rtrack{grid-auto-columns:42%}}
+/* nicer search fields everywhere */
+.dsearch{box-shadow:0 6px 20px rgba(20,10,60,.08);border:1.5px solid transparent;background:var(--paper);font-size:1.05rem;padding:15px 18px;transition:border-color .15s,box-shadow .15s}
+.dsearch:focus{outline:0;border-color:#a78bfa;box-shadow:0 0 0 4px rgba(167,139,250,.25)}
