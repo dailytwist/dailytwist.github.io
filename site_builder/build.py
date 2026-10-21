@@ -105,7 +105,7 @@ def section_img(path):
     if parts[0] in SECTION_IMG:
         return f"/assets/sections/{SECTION_IMG[parts[0]]}.webp"
     if parts[0] == "learn-english":
-        return "/assets/english/hero.webp"
+        return "/assets/sections/english.webp"
     if parts[0] in ("horoscope", "zodiac") and len(parts) > 1 and (HERE / "assets" / "signs" / f"{parts[1]}.webp").exists():
         return f"/assets/signs/{parts[1]}.webp"
     return None
