@@ -276,6 +276,11 @@ Format: {{"title": "SEO-friendly title (max 65 chars)", "description": "meta des
 
 
 def make_articles(day: dt.date, topics: list, count: int) -> None:
+    have = sum(1 for f in (CONTENT / "articles").glob("*.json")
+               if json.loads(f.read_text(encoding="utf-8")).get("date") == str(day))
+    count -= have  # the agent runs several times a day: only top up to the daily number
+    if count <= 0:
+        return
     done = existing_article_titles()
     if topics:
         print(f"- choosing articles from trends for {day}")
@@ -606,6 +611,11 @@ Vary answer_index (do not always use 0).""", max_tokens=4000)
                  "sections": secs[:4], "words": words[:10], "tip": str(data.get("tip", "")), "quiz": quiz[:8]})
 
 
+def articles_today() -> int:
+    today = str(dt.datetime.now(dt.timezone.utc).date())
+    return sum(1 for f in (CONTENT / "articles").glob("*.json") if json.loads(f.read_text(encoding="utf-8")).get("date") == today)
+
+
 # ---------------------------------------------------------------- main
 def main() -> None:
     ap = argparse.ArgumentParser()
@@ -618,7 +628,7 @@ def main() -> None:
         d = today - dt.timedelta(days=i)
         jobs += [(make_horoscopes, (d,)), (make_trivia, (d,)), (make_articles, (d, [], 2))]
     jobs += [(make_horoscopes, (today,)), (make_trivia, (today,)),
-             (make_articles, (today, trending_topics(CONFIG["trends_geo"]), CONFIG["articles_per_day"])),
+             (make_articles, (today, trending_topics(CONFIG["trends_geo"]) if articles_today() < CONFIG["articles_per_day"] else [], CONFIG["articles_per_day"])),
              (make_pairs, (today, CONFIG.get("pairs_per_day", 6))),
              (make_yearly, (today, 6)), (make_chinese, (today, 6)),
              (make_dreams, (today, CONFIG.get("dreams_per_day", 6))),

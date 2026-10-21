@@ -2,7 +2,9 @@ name: Daily AI agent + publish
 
 on:
   schedule:
-    - cron: "17 5 * * *"   # every day at 05:17 UTC (= 06:17 Morocco)
+    - cron: "17 5 * * *"   # 05:17 UTC: today's horoscopes/trivia early, using what is left of yesterday's free AI quota
+    - cron: "23 8 * * *"   # 08:23 UTC: just after Google resets the free Gemini quota
+    - cron: "23 19 * * *"  # 19:23 UTC: continue the backlog (guides, lessons, translations)
   workflow_dispatch:
     inputs:
       backfill_days:
