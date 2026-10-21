@@ -91,7 +91,7 @@ def lang_data(lang):
 
 
 DEFAULT_IMG = "/assets/sections/games.webp"
-SECTION_IMG = {"dreams": "dreams", "tarot": "tarot", "tarot-meanings": "tarot", "compatibility": "compatibility",
+SECTION_IMG = {"prayer-times": "prayer", "dreams": "dreams", "tarot": "tarot", "tarot-meanings": "tarot", "compatibility": "compatibility",
                "love-calculator": "compatibility", "love-messages": "compatibility", "numerology": "numerology",
                "angel-numbers": "angel", "chinese-zodiac": "chinese", "moon-phase": "moon", "birthday": "birthday",
                "birthstones": "birthday", "age-calculator": "birthday", "games": "games", "trivia": "trivia", "zodiac-quiz": "trivia"}
