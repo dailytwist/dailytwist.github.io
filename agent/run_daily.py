@@ -664,6 +664,16 @@ def main() -> None:
              (make_guides, (today, CONFIG.get("guides_per_run", {"tarot": 4, "angel": 4, "birthday": 6, "birthstone": 2}))),
              (make_english, (today, CONFIG.get("english_per_run", 5))),
              (make_names, (today, CONFIG.get("names_per_run", 8)))]
+    # menu and button texts first: they are few calls and every page in that language needs them
+    langs = [l for l in CONFIG.get("languages", ["en"]) if l != "en"]
+    for lang in langs:
+        try:
+            ensure_ui(lang)
+        except QuotaDone as ex:
+            print(f"::warning::UI {lang}: {ex}")
+            break
+        except Exception as ex:
+            print(f"::warning::UI {lang}: {str(ex)[:200]}")
     errors = 0
     for fn, a in jobs:
         try:
@@ -678,12 +688,6 @@ def main() -> None:
         sys.exit(1)
 
     budget = [CONFIG.get("max_translations_per_run", 60)]
-    langs = [l for l in CONFIG.get("languages", ["en"]) if l != "en"]
-    for lang in langs:
-        try:
-            ensure_ui(lang)
-        except Exception as ex:
-            print(f"::warning::UI {lang}: {str(ex)[:200]}")
     # round-robin so every language gets today's content before any backlog
     for _ in range(100):
         used_round = 0
