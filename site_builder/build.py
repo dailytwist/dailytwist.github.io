@@ -1097,6 +1097,7 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
 <section class="zhub enhub">
   <p class="kicker">🇬🇧 {e(T(lang, 'en_title'))}</p><h1>{e(T(lang, 'en_title'))}</h1>
   <p class="lead">{e(T(lang, 'en_desc'))}</p>
+  <img class="enhero" src="/assets/english/hero.webp" width="768" height="576" alt="{e(T(lang, 'en_title'))}">
   <div class="enwod"><small>⭐ {e(T(lang, 'en_wod'))}</small><div class="enwod-w"><b lang="en" dir="ltr"></b><button class="say" type="button" aria-label="{e(T(lang, 'en_listen'))}">🔊</button></div><p></p><a class="small" href="#"></a></div>
   <div class="enprog"><div class="enbar"><i></i></div><span></span></div>
   {levels}

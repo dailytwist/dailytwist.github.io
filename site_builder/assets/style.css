@@ -611,3 +611,4 @@ nav a{display:inline-flex;align-items:center;gap:5px}
 .enq.ok{border-color:#16a34a}.enq.no{border-color:#dc2626}
 .enres{display:flex;flex-wrap:wrap;align-items:center;gap:10px;justify-content:space-between;background:#eff6ff;color:#1e1b2b;border-radius:14px;padding:12px 14px}
 .ennav{display:flex;flex-wrap:wrap;gap:8px;justify-content:space-between;margin:18px 0 8px}
+.enhero{width:100%;height:auto;max-height:360px;object-fit:cover;border-radius:20px;display:block;margin:10px 0}
