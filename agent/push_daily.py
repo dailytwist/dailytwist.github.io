@@ -59,6 +59,14 @@ def main():
         return
     today = str(dt.datetime.now(dt.timezone.utc).date())
     sent = json.loads(STATE.read_text()) if STATE.exists() else []
+    test = os.environ.get("PUSH_TEST") == "1"
+    log = []
+    if test:  # one message to every subscriber, to check the setup
+        r = send(key, app, [{"field": "session_count", "relation": ">", "value": "0"}], "✅ DailyTwist",
+                 "Notifications are working! 🎉", f"{URL}/")
+        print("test", r)
+        (CONTENT / "push_log.json").write_text(json.dumps({"day": today, "test": r}, ensure_ascii=False, indent=1))
+        return
     if today in sent:
         print("Already sent today.")
         return
@@ -71,6 +79,7 @@ def main():
         r = send(key, app, [lang_f, {"field": "tag", "key": "sign", "relation": "not_exists"}],
                  u.get("push_day_title", UI_EN["push_day_title"]), u.get("push_day_body", UI_EN["push_day_body"]), f"{URL}{pre}/")
         print(lang, "general", r.get("id") or r)
+        log.append([lang, "general", r])
         ok += bool(r.get("id"))
         if not h:
             continue
@@ -80,9 +89,11 @@ def main():
             r = send(key, app, [lang_f, {"field": "tag", "key": "sign", "relation": "=", "value": s}],
                      title, short(h["signs"][s]["overview"]), f"{URL}{pre}/horoscope/{s}/")
             ok += bool(r.get("id"))
+            log.append([lang, s, r])
             if r.get("error"):
                 print(lang, s, r)
     print("notifications created:", ok)
+    (CONTENT / "push_log.json").write_text(json.dumps({"day": today, "created": ok, "results": log}, ensure_ascii=False, indent=1))
     sent = (sent + [today])[-60:]
     STATE.write_text(json.dumps(sent))
 

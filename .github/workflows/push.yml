@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "41 7 * * *"   # 07:41 UTC (= 08:41 Morocco), after the morning content run
   workflow_dispatch:
+    inputs:
+      test:
+        description: "Send a test message to everyone (1 = yes)"
+        required: false
+        default: "0"
 
 permissions:
   contents: write
@@ -24,10 +29,11 @@ jobs:
       - name: Send today's notification
         env:
           ONESIGNAL_API_KEY: ${{ secrets.ONESIGNAL_API_KEY }}
+          PUSH_TEST: ${{ github.event.inputs.test || '0' }}
         run: python agent/push_daily.py
       - name: Remember that today was sent
         run: |
           git config user.name "dailytwist-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add content/push_sent.json
+          git add content/push_sent.json content/push_log.json
           if ! git diff --cached --quiet; then git commit -m "Push sent $(date -u +%F)"; git pull --rebase origin main; git push; fi
