@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-22",
+  "slug": "family-members",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "👨‍👩‍",
+  "title": "Talking About Your Family",
+  "summary": "Learn how to name your family members in English. Practice saying who is in your family using simple words.",
+  "sections": [
+    {
+      "h": "Parents and Siblings",
+      "p": "In English, we use special words for the people in our family. Your mother and father are your parents. A brother is a boy from your mother and father. A sister is a girl from your mother and father. We use the verb 'have' to talk about our family. For example, you can say 'I have one brother' or 'I have a sister'.",
+      "ex": [
+        {
+          "en": "This is my mother.",
+          "mean": "Introducing your female parent."
+        },
+        {
+          "en": "I have one brother.",
+          "mean": "Saying you have a male sibling."
+        },
+        {
+          "en": "She is my sister.",
+          "mean": "Showing your female sibling."
+        }
+      ]
+    },
+    {
+      "h": "Husband, Wife, and Children",
+      "p": "When people get married, the man is a husband and the woman is a wife. Your son is your boy child. Your daughter is your girl child. Together, they are your children. You can say 'I have two children' to talk about your son and your daughter in a simple and clear way.",
+      "ex": [
+        {
+          "en": "He is my husband.",
+          "mean": "Introducing your married man."
+        },
+        {
+          "en": "We have a daughter.",
+          "mean": "Saying you have a girl child."
+        },
+        {
+          "en": "This is my son.",
+          "mean": "Introducing your boy child."
+        }
+      ]
+    },
+    {
+      "h": "Grandparents",
+      "p": "Your mother's parents and your father's parents are your grandparents. The man is your grandfather and the woman is your grandmother. In everyday English, many people call them 'grandpa' and 'grandma' because it sounds friendly and warm. You can say 'My grandparents are very nice'.",
+      "ex": [
+        {
+          "en": "This is my grandfather.",
+          "mean": "Introducing your parent's father."
+        },
+        {
+          "en": "My grandmother is kind.",
+          "mean": "Describing your parent's mother."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "mother",
+      "mean": "female parent"
+    },
+    {
+      "en": "father",
+      "mean": "male parent"
+    },
+    {
+      "en": "brother",
+      "mean": "boy sibling"
+    },
+    {
+      "en": "sister",
+      "mean": "girl sibling"
+    },
+    {
+      "en": "husband",
+      "mean": "married man"
+    },
+    {
+      "en": "wife",
+      "mean": "married woman"
+    },
+    {
+      "en": "son",
+      "mean": "boy child"
+    },
+    {
+      "en": "daughter",
+      "mean": "girl child"
+    },
+    {
+      "en": "grandfather",
+      "mean": "parent's father"
+    },
+    {
+      "en": "grandmother",
+      "mean": "parent's mother"
+    }
+  ],
+  "tip": "Look at photos of your family on your phone. Point to each person and say their English name out loud.",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "My mother and father are my ___.",
+      "choices": [
+        "parents",
+        "brothers",
+        "children"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "A boy from your mother and father is your ___.",
+      "choices": [
+        "sister",
+        "brother",
+        "wife"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "This is my ___ . She is married to me.",
+      "choices": [
+        "husband",
+        "son",
+        "wife"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "My parent's mother is my ___.",
+      "choices": [
+        "grandmother",
+        "grandfather",
+        "daughter"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "A girl child is your ___.",
+      "choices": [
+        "son",
+        "daughter",
+        "brother"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "I ___ one sister.",
+      "choices": [
+        "has",
+        "is",
+        "have"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

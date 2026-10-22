@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-22",
+  "slug": "this-that-these-those",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "👉",
+  "title": "This, That, These, Those",
+  "summary": "Learn how to point to things that are near you or far away. You will also learn how to talk about one thing or many things.",
+  "sections": [
+    {
+      "h": "This and These (Near)",
+      "p": "Use 'this' when you talk about one thing that is close to you. For example, a pen in your hand. Use 'these' when you talk about two or more things that are close to you. Both words are for things near your body or right in front of you.",
+      "ex": [
+        {
+          "en": "This is my coffee.",
+          "mean": "The coffee is in my hand or right here."
+        },
+        {
+          "en": "These shoes are new.",
+          "mean": "The shoes are on my feet right now."
+        }
+      ]
+    },
+    {
+      "h": "That and Those (Far)",
+      "p": "Use 'that' when you talk about one thing that is far from you. For example, a car down the street. Use 'those' when you talk about two or more things that are far away. Both words are for things you cannot touch easily.",
+      "ex": [
+        {
+          "en": "That is a big house.",
+          "mean": "The house is over there, far away."
+        },
+        {
+          "en": "Look at those birds in the tree.",
+          "mean": "The birds are far up in the tree."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "this",
+      "mean": "one thing near"
+    },
+    {
+      "en": "that",
+      "mean": "one thing far"
+    },
+    {
+      "en": "these",
+      "mean": "many things near"
+    },
+    {
+      "en": "those",
+      "mean": "many things far"
+    },
+    {
+      "en": "near",
+      "mean": "close to you"
+    },
+    {
+      "en": "far",
+      "mean": "not close"
+    },
+    {
+      "en": "thing",
+      "mean": "an object"
+    }
+  ],
+  "tip": "Look at your hands! If you can touch it, use 'this' or 'these'. If you must point far away, use 'that' or 'those'.",
+  "quiz": [
+    {
+      "ask": "Choose the correct word for one item near you",
+      "en": "___ is my phone in my hand.",
+      "choices": [
+        "That",
+        "This",
+        "Those",
+        "These"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word for many items far away",
+      "en": "Look at ___ stars in the night sky.",
+      "choices": [
+        "this",
+        "that",
+        "those",
+        "these"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word for one item far away",
+      "en": "Whose car is ___ parked down the street?",
+      "choices": [
+        "that",
+        "these",
+        "this",
+        "those"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word for many items near you",
+      "en": "I like ___ apples I am holding.",
+      "choices": [
+        "that",
+        "this",
+        "those",
+        "these"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Choose the correct word for a near object",
+      "en": "Is ___ your jacket on the chair next to you?",
+      "choices": [
+        "these",
+        "this",
+        "those",
+        "that"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word for far away plural objects",
+      "en": "I want to buy ___ shoes in the shop window across the street.",
+      "choices": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "answer_index": 3
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-22",
+  "slug": "days-and-months",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "📅",
+  "title": "Days, Months, and Seasons",
+  "summary": "Learn how to talk about days, months, and seasons in English. Practice using them to tell time and make plans.",
+  "sections": [
+    {
+      "h": "Days of the Week",
+      "p": "There are seven days in a week. We use capital letters for all days like Monday and Tuesday. We say 'on' before a day, for example, 'on Monday'. The weekend is Saturday and Sunday.",
+      "ex": [
+        {
+          "en": "Today is Monday.",
+          "mean": "This is the day today."
+        },
+        {
+          "en": "I work on Tuesday.",
+          "mean": "My work day is Tuesday."
+        },
+        {
+          "en": "We rest on Sunday.",
+          "mean": "Sunday is a day of rest."
+        }
+      ]
+    },
+    {
+      "h": "Months of the Year",
+      "p": "There are twelve months in a year. The year starts in January and ends in December. We also use capital letters for months. We use 'in' before a month, like 'in January'.",
+      "ex": [
+        {
+          "en": "My birthday is in January.",
+          "mean": "The month of my birth is January."
+        },
+        {
+          "en": "School starts in September.",
+          "mean": "The school year begins in September."
+        }
+      ]
+    },
+    {
+      "h": "The Four Seasons",
+      "p": "A year has four seasons: spring, summer, autumn, and winter. Each season brings different weather. We use 'in' before seasons, such as 'in summer'.",
+      "ex": [
+        {
+          "en": "It is hot in summer.",
+          "mean": "Summer weather is warm."
+        },
+        {
+          "en": "It snows in winter.",
+          "mean": "Winter has snow."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Monday",
+      "mean": "first work day"
+    },
+    {
+      "en": "Saturday",
+      "mean": "weekend day"
+    },
+    {
+      "en": "January",
+      "mean": "first month"
+    },
+    {
+      "en": "December",
+      "mean": "last month"
+    },
+    {
+      "en": "Spring",
+      "mean": "season of flowers"
+    },
+    {
+      "en": "Summer",
+      "mean": "hot season"
+    },
+    {
+      "en": "Autumn",
+      "mean": "fall season"
+    },
+    {
+      "en": "Winter",
+      "mean": "cold season"
+    }
+  ],
+  "tip": "Make a mini calendar for your desk and write one English event on it every single day.",
+  "quiz": [
+    {
+      "ask": "Choose the correct day",
+      "en": "After Monday comes ___.",
+      "choices": [
+        "Tuesday",
+        "Sunday",
+        "Friday"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct preposition",
+      "en": "My birthday is ___ July.",
+      "choices": [
+        "on",
+        "in",
+        "at"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct season",
+      "en": "The weather is very hot in ___.",
+      "choices": [
+        "winter",
+        "autumn",
+        "summer"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct month",
+      "en": "The first month of the year is ___.",
+      "choices": [
+        "December",
+        "January",
+        "March"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct day",
+      "en": "Saturday and Sunday are the ___.",
+      "choices": [
+        "weekdays",
+        "weekend",
+        "months"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct preposition",
+      "en": "We have no class ___ Friday.",
+      "choices": [
+        "in",
+        "at",
+        "on"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

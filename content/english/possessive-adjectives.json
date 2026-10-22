@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-22",
+  "slug": "possessive-adjectives",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "🎒",
+  "title": "Possessive Adjectives: My, Your, His, Her, Its, Our, Their",
+  "summary": "Learn how to show who owns something using words like my, your, and his. These words make your English sound natural and clear.",
+  "sections": [
+    {
+      "h": "What are Possessive Adjectives?",
+      "p": "Possessive adjectives show who owns a thing. We put these words right before a noun. For example, we say 'my pen' or 'your bag'. They change depending on who has the thing. We use 'my' for I, 'your' for you, 'his' for a man, and 'her' for a woman.",
+      "ex": [
+        {
+          "en": "This is my book.",
+          "mean": "The book belongs to me."
+        },
+        {
+          "en": "Where is your coat?",
+          "mean": "The coat belongs to you."
+        },
+        {
+          "en": "His car is red.",
+          "mean": "The car belongs to him."
+        },
+        {
+          "en": "Her name is Anna.",
+          "mean": "The name belongs to her."
+        }
+      ]
+    },
+    {
+      "h": "Talking about Animals, Groups, and Everyone",
+      "p": "We use 'its' for animals or things, like a dog or a phone. We use 'our' when something belongs to you and me together. We use 'their' when something belongs to a group of other people. Always match the word to the owner, not the object.",
+      "ex": [
+        {
+          "en": "The dog wags its tail.",
+          "mean": "The tail belongs to the dog."
+        },
+        {
+          "en": "This is our classroom.",
+          "mean": "The classroom belongs to us."
+        },
+        {
+          "en": "Their house is big.",
+          "mean": "The house belongs to them."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "my",
+      "mean": "belongs to me"
+    },
+    {
+      "en": "your",
+      "mean": "belongs to you"
+    },
+    {
+      "en": "his",
+      "mean": "belongs to a man"
+    },
+    {
+      "en": "her",
+      "mean": "belongs to a woman"
+    },
+    {
+      "en": "its",
+      "mean": "belongs to an animal or thing"
+    },
+    {
+      "en": "our",
+      "mean": "belongs to us"
+    },
+    {
+      "en": "their",
+      "mean": "belongs to them"
+    }
+  ],
+  "tip": "Look at the person who owns the thing to choose the right word. Remember: He = his, She = her, They = their!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "I have a cat. ___ name is Luna.",
+      "choices": [
+        "His",
+        "Its",
+        "Her"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "You are a student. Where is ___ backpack?",
+      "choices": [
+        "your",
+        "my",
+        "our"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "John is here. This is ___ jacket.",
+      "choices": [
+        "her",
+        "their",
+        "his"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Maria loves ___ new shoes.",
+      "choices": [
+        "its",
+        "her",
+        "his"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "We live in this city. ___ street is quiet.",
+      "choices": [
+        "their",
+        "your",
+        "our"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "The children are playing with ___ toys.",
+      "choices": [
+        "their",
+        "our",
+        "its"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

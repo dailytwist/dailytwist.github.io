@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-22",
+  "slug": "colors",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "🎨",
+  "title": "Colors and Describing Things",
+  "summary": "Learn basic English color words. Practice using colors to describe everyday objects.",
+  "sections": [
+    {
+      "h": "Basic Colors",
+      "p": "Colors help us describe the world around us. In English, we use the verb 'to be' with colors. For example, we say 'It is red' or 'The pen is blue'. Color words usually go before nouns, like 'a red car', or after the verb 'is', like 'The car is red'.",
+      "ex": [
+        {
+          "en": "The apple is red.",
+          "mean": "The fruit has a red color."
+        },
+        {
+          "en": "The sky is blue.",
+          "mean": "The sky has a blue color."
+        },
+        {
+          "en": "I have a yellow bag.",
+          "mean": "My bag is yellow."
+        }
+      ]
+    },
+    {
+      "h": "Asking About Colors",
+      "p": "To ask about the color of something, we use the question 'What color is...?'. The answer usually starts with 'It is' or 'They are' followed by the color word. This is very useful when shopping or looking for your things.",
+      "ex": [
+        {
+          "en": "What color is your car?",
+          "mean": "Asking about the color of a car."
+        },
+        {
+          "en": "It is black.",
+          "mean": "The car has a black color."
+        },
+        {
+          "en": "What color are your shoes?",
+          "mean": "Asking about the color of shoes."
+        }
+      ]
+    },
+    {
+      "h": "Plural Colors",
+      "p": "When we talk about more than one thing, we change 'is' to 'are'. We say 'The cats are white' or 'The books are green'. The color word stays the same even if there are many things.",
+      "ex": [
+        {
+          "en": "The flowers are yellow.",
+          "mean": "More than one flower is yellow."
+        },
+        {
+          "en": "These pens are green.",
+          "mean": "More than one pen is green."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "red",
+      "mean": "color of blood"
+    },
+    {
+      "en": "blue",
+      "mean": "color of the sky"
+    },
+    {
+      "en": "yellow",
+      "mean": "color of the sun"
+    },
+    {
+      "en": "green",
+      "mean": "color of grass"
+    },
+    {
+      "en": "black",
+      "mean": "dark color"
+    },
+    {
+      "en": "white",
+      "mean": "color of snow"
+    },
+    {
+      "en": "What color",
+      "mean": "asking about color"
+    },
+    {
+      "en": "bag",
+      "mean": "thing to carry items"
+    }
+  ],
+  "tip": "Look around your room right now. Say the color of three things out loud in English, like 'The door is brown.'",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "The sun is ___.",
+      "choices": [
+        "blue",
+        "yellow",
+        "red"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "What ___ is your pen?",
+      "choices": [
+        "color",
+        "name",
+        "dog"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct answer",
+      "en": "The grass is green. -> Grass is ___.",
+      "choices": [
+        "blue",
+        "black",
+        "green"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Snow is ___.",
+      "choices": [
+        "white",
+        "red",
+        "green"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct verb",
+      "en": "The flowers ___ yellow.",
+      "choices": [
+        "is",
+        "are",
+        "am"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct sentence",
+      "en": "Which sentence is correct?",
+      "choices": [
+        "The car is red.",
+        "Red is car the.",
+        "Car is the red."
+      ],
+      "answer_index": 0
+    }
+  ]
+}
