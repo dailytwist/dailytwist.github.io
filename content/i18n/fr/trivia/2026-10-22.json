@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-22",
+  "title": "Défi Trivia Quotidien du 22 octobre 2026",
+  "questions": [
+    {
+      "category": "Géographie",
+      "question": "Quel pays africain est entièrement enclavé par l'Afrique du Sud ?",
+      "options": [
+        "Botswana",
+        "Zimbabwe",
+        "Lesotho",
+        "Namibie"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le Lesotho est l'un des trois seuls pays souverains au monde à être entièrement entouré par un seul et même autre pays.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Science",
+      "question": "Quelle est la substance naturelle la plus dure connue sur Terre ?",
+      "options": [
+        "Topaze",
+        "Diamant",
+        "Corindon",
+        "Quartz"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Le diamant obtient la note maximale de 10 sur l'échelle de dureté de Mohs.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Histoire",
+      "question": "Qui a été le premier empereur de l'Empire romain ?",
+      "options": [
+        "Néron",
+        "Auguste",
+        "Constantin",
+        "Jules César"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Auguste, initialement nommé Octave, est devenu le premier empereur romain après la chute de la République romaine.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Films et Pop Culture",
+      "question": "Quel film épique de space opera de 1977 a fait découvrir au monde des personnages tels que Luke Skywalker et Han Solo ?",
+      "options": [
+        "Blade Runner",
+        "Alien",
+        "Rencontres du troisième type",
+        "Star Wars"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Star Wars a été écrit et réalisé par George Lucas et est devenu un immense phénomène culturel.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Cuisine",
+      "question": "De quel pays est originaire le célèbre fromage à pâte persillée qu'est le roquefort ?",
+      "options": [
+        "France",
+        "Suisse",
+        "Espagne",
+        "Italie"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le fromage roquefort est élaboré à partir de lait de brebis et affiné dans les grottes naturelles de la montagne du Combalou, en France.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Animaux",
+      "question": "Comment appelle-t-on communément un groupe de corbeaux ?",
+      "options": [
+        "Une volée",
+        "Un essaim",
+        "Une meute",
+        "Un meurtre"
+      ],
+      "answer_index": 3,
+      "fun_fact": "L'expression anglaise « murder of crows » (meurtre de corbeaux) trouve ses origines dans le folklore et l'association de l'oiseau avec la mort et les charognards.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Sports",
+      "question": "Au bowling à dix quilles, quel terme utilise-t-on lorsqu'un joueur abat toutes les quilles dès le premier lancer d'une manche ?",
+      "options": [
+        "Split",
+        "Spare",
+        "Strike",
+        "Turkey"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Réaliser douze strikes consécutifs au cours d'une même partie permet d'atteindre le score maximal de 300 points.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Langue",
+      "question": "Comment appelle-t-on l'étude de l'origine et de l'évolution historique des mots ?",
+      "options": [
+        "La syntaxe",
+        "L'étymologie",
+        "La phonétique",
+        "La sémantique"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Les étymologistes retracent l'histoire des mots en étudiant leurs plus anciennes utilisations connues et leurs changements structurels.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Espace",
+      "question": "Quelle lune de Saturne est célèbre pour posséder une atmosphère dense d'azote et des lacs de méthane liquide ?",
+      "options": [
+        "Encelade",
+        "Io",
+        "Europe",
+        "Titan"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Titan est le seul corps céleste autre que la Terre à posséder des plans de liquide stables à sa surface.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Science",
+      "question": "Quel est le gaz noble portant le numéro atomique 10, couramment utilisé pour les enseignes lumineuses publicitaires rouge vif ?",
+      "options": [
+        "L'argon",
+        "Le néon",
+        "L'hélium",
+        "Le krypton"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Le néon émet une lueur rouge-orangé lorsqu'un courant électrique y est déchargé dans un tube à vide.",
+      "difficulty": "hard"
+    }
+  ]
+}

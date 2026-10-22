@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-22",
+  "slug": "alphabet-and-spelling",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "🔤",
+  "title": "The English Alphabet and Spelling",
+  "summary": "In this lesson, you will learn the names of the English letters. You will also learn how to spell your name.",
+  "sections": [
+    {
+      "h": "The English Alphabet",
+      "p": "English has twenty-six letters in the alphabet. There are five vowels (A, E, I, O, U) and twenty-one consonants. Every letter has a special name. When people ask for your name in English, you often need to spell it out loud letter by letter so they can write it down correctly.",
+      "ex": [
+        {
+          "en": "A, B, C, D, E are the first five letters.",
+          "mean": "The beginning of the alphabet."
+        },
+        {
+          "en": "My name is Anna. A-N-N-A.",
+          "mean": "How to say and spell a name."
+        }
+      ]
+    },
+    {
+      "h": "How to Spell Your Name",
+      "p": "When someone asks 'How do you spell your name?', you say each letter one by one. Listen carefully to the letter names. For example, the letter 'I' sounds like 'eye', and the letter 'Y' sounds like 'why'. Practice saying your name slowly.",
+      "ex": [
+        {
+          "en": "How do you spell that?",
+          "mean": "Please tell me the letters."
+        },
+        {
+          "en": "It is J-O-H-N.",
+          "mean": "The spelling of the name John."
+        }
+      ]
+    },
+    {
+      "h": "Useful Questions",
+      "p": "In daily life, people often need help with spelling. You can ask someone to repeat the letters if they speak too fast. Polite phrases help you communicate clearly when you meet new friends, check into a hotel, or talk on the phone.",
+      "ex": [
+        {
+          "en": "Can you spell that, please?",
+          "mean": "Please give me the letters."
+        },
+        {
+          "en": "Could you repeat that slowly?",
+          "mean": "Say it again with more time."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "alphabet",
+      "mean": "all letters A to Z"
+    },
+    {
+      "en": "letter",
+      "mean": "A, B, C, etc."
+    },
+    {
+      "en": "spell",
+      "mean": "say letters in order"
+    },
+    {
+      "en": "name",
+      "mean": "what you are called"
+    },
+    {
+      "en": "vowel",
+      "mean": "A, E, I, O, U"
+    },
+    {
+      "en": "consonant",
+      "mean": "other letters"
+    },
+    {
+      "en": "ask",
+      "mean": "want to know"
+    },
+    {
+      "en": "repeat",
+      "mean": "say again"
+    }
+  ],
+  "tip": "Practice spelling your own name and your friends' names every day. Say the letters out loud to remember their sounds.",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "How do you ___ your name?",
+      "choices": [
+        "spell",
+        "read",
+        "write"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "There are twenty-six letters in the English ___.",
+      "choices": [
+        "book",
+        "alphabet",
+        "number"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct letter",
+      "en": "Which of these is a vowel?",
+      "choices": [
+        "B",
+        "Z",
+        "A"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct question",
+      "en": "When you do not understand, you say: 'Can you ___ that, please?'",
+      "choices": [
+        "spell",
+        "sing",
+        "run"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct meaning",
+      "en": "What does 'repeat' mean?",
+      "choices": [
+        "go home",
+        "say again",
+        "write down"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "My ___ is Maria.",
+      "choices": [
+        "pen",
+        "table",
+        "name"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-22",
+  "title": "Sfida Trivia Quotidiana del 22 Ottobre 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Quale paese africano è completamente circondato dal Sudafrica?",
+      "options": [
+        "Botswana",
+        "Zimbabwe",
+        "Lesotho",
+        "Namibia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il Lesotho è una delle uniche tre nazioni sovrane al mondo a essere interamente racchiusa da un unico altro paese.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Scienza",
+      "question": "Qual è la sostanza naturale più dura conosciuta sulla Terra?",
+      "options": [
+        "Topazio",
+        "Diamante",
+        "Corindone",
+        "Quarzo"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Il diamante si colloca al massimo della scala di durezza minerale di Mohs con un valore di 10.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Storia",
+      "question": "Chi è stato il primo Imperatore dell'Impero Romano?",
+      "options": [
+        "Nerone",
+        "Augusto",
+        "Costantino",
+        "Giulio Cesare"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Augusto, originariamente chiamato Ottaviano, divenne il primo imperatore romano dopo la caduta della Repubblica Romana.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Cinema e Pop Culture",
+      "question": "Quale film epico di fantascienza del 1977 ha presentato al mondo personaggi come Luke Skywalker e Han Solo?",
+      "options": [
+        "Blade Runner",
+        "Alien",
+        "Incontri ravvicinati del terzo tipo",
+        "Star Wars"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Star Wars è stato scritto e diretto da George Lucas ed è diventato un enorme fenomeno culturale.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Cibo",
+      "question": "Da quale paese proviene il famoso formaggio erborinato Roquefort?",
+      "options": [
+        "Francia",
+        "Svizzera",
+        "Spagna",
+        "Italia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il formaggio Roquefort è fatto con latte di pecora e viene stagionato nelle grotte naturali della montagna di Combalou in Francia.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Animali",
+      "question": "Come viene comunemente chiamato un gruppo di corvi?",
+      "options": [
+        "Uno stormo",
+        "Uno sciame",
+        "Un branco",
+        "Un agguato"
+      ],
+      "answer_index": 3,
+      "fun_fact": "L'espressione inglese 'murder of crows' (letteralmente 'omicidio di corvi') affonda le sue radici nel folklore e nell'associazione dell'uccello con la morte e gli animali sciacalli.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Sport",
+      "question": "Nel bowling a dieci stecche, quale termine si usa quando un giocatore abbatte tutti e dieci i birilli con il primo lancio di un turno?",
+      "options": [
+        "Split",
+        "Spare",
+        "Strike",
+        "Turkey"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Realizzare dodici strike consecutivi in una singola partita porta a un punteggio massimo ottenibile di 300 punti.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Linguistica",
+      "question": "Come si chiama lo studio dell'origine e dello sviluppo storico delle parole?",
+      "options": [
+        "Sintassi",
+        "Etimologia",
+        "Fonetica",
+        "Semantica"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Gli etimologi tracciano a ritroso nel tempo la storia delle parole esaminandone i primi usi noti e i cambiamenti strutturali.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Spazio",
+      "question": "Quale luna di Saturno è famosa per possedere una densa atmosfera di azoto e laghi di metano liquido?",
+      "options": [
+        "Encelado",
+        "Io",
+        "Europa",
+        "Titano"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Titano è l'unico corpo celeste oltre alla Terra noto per avere riserve stabili di liquido in superficie.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Scienza",
+      "question": "Qual è il gas nobile con numero atomico 10, comunemente usato nelle insegne pubblicitarie rosso vivo?",
+      "options": [
+        "Argon",
+        "Neon",
+        "Elio",
+        "Kripton"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Il neon brilla di un colore rosso-arancio quando viene scaricata elettricità al suo interno in un tubo a vuoto.",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-22",
+  "slug": "personal-pronouns",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "👥",
+  "title": "Subject Pronouns: I, You, He, She, It, We, They",
+  "summary": "Learn how to use subject pronouns in English. These words help us talk about people, animals, and things easily.",
+  "sections": [
+    {
+      "h": "Talking About Yourself and Others",
+      "p": "When you talk about yourself, use 'I'. When you talk to the person in front of you, use 'you'. These words are the start of many English sentences and are very important for everyday conversations.",
+      "ex": [
+        {
+          "en": "I am a student.",
+          "mean": "Talking about yourself"
+        },
+        {
+          "en": "You are my friend.",
+          "mean": "Talking to one person"
+        }
+      ]
+    },
+    {
+      "h": "He, She, and It",
+      "p": "We use 'he' for a man or a boy. We use 'she' for a woman or a girl. When we talk about one animal or one thing, we use 'it'. This makes speaking and writing much simpler.",
+      "ex": [
+        {
+          "en": "He is a teacher.",
+          "mean": "Talking about a man"
+        },
+        {
+          "en": "She is happy.",
+          "mean": "Talking about a woman"
+        },
+        {
+          "en": "It is a big dog.",
+          "mean": "Talking about an animal"
+        }
+      ]
+    },
+    {
+      "h": "Groups of People and Things",
+      "p": "Use 'we' when you are part of a group. Use 'they' when you talk about other people, animals, or things in a group. These pronouns help us talk about more than one person or thing at the same time.",
+      "ex": [
+        {
+          "en": "We are happy today.",
+          "mean": "You and other people"
+        },
+        {
+          "en": "They are nice people.",
+          "mean": "A group of other people"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "I",
+      "mean": "the person speaking"
+    },
+    {
+      "en": "You",
+      "mean": "the person listening"
+    },
+    {
+      "en": "He",
+      "mean": "a male person"
+    },
+    {
+      "en": "She",
+      "mean": "a female person"
+    },
+    {
+      "en": "It",
+      "mean": "one thing or animal"
+    },
+    {
+      "en": "We",
+      "mean": "me and others"
+    },
+    {
+      "en": "They",
+      "mean": "more than one person or thing"
+    }
+  ],
+  "tip": "Point to yourself for 'I' and to your friend for 'you'. Connecting words to body actions helps your brain remember them faster!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word for a man.",
+      "en": "___ is a doctor.",
+      "choices": [
+        "She",
+        "He",
+        "It",
+        "They"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word for yourself.",
+      "en": "___ am learning English.",
+      "choices": [
+        "I",
+        "He",
+        "You",
+        "We"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word for a woman.",
+      "en": "___ is my mother.",
+      "choices": [
+        "He",
+        "It",
+        "She",
+        "They"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word for a cat.",
+      "en": "___ is sleeping.",
+      "choices": [
+        "You",
+        "He",
+        "They",
+        "It"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Choose the correct word for you and your friend.",
+      "en": "___ are going home.",
+      "choices": [
+        "We",
+        "He",
+        "She",
+        "It"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word for a group of people.",
+      "en": "___ are playing football.",
+      "choices": [
+        "I",
+        "It",
+        "They",
+        "He"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

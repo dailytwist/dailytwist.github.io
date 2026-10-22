@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-22",
+  "slug": "plural-nouns",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "🍎",
+  "title": "Plural Nouns: One and Many",
+  "summary": "In this lesson, you will learn how to talk about more than one thing. We will look at regular and irregular plural nouns.",
+  "sections": [
+    {
+      "h": "Regular Plurals: Add -s",
+      "p": "Most English words are regular. When you have two or more of something, you just add an 's' to the end of the word. For example, one cat becomes two cats. This is the easiest way to make a word plural, and you will use it every day when you speak and write in English.",
+      "ex": [
+        {
+          "en": "I have one cat and two dogs.",
+          "mean": "one cat, plus two dogs"
+        },
+        {
+          "en": "Please buy three apples at the store.",
+          "mean": "more than one apple"
+        },
+        {
+          "en": "My books are on the table.",
+          "mean": "more than one book"
+        }
+      ]
+    },
+    {
+      "h": "Words Ending in -ch, -sh, -s, -x",
+      "p": "Some words end with special sounds like ch, sh, s, or x. You cannot just add an 's' to these words. Instead, you must add '-es' to the end so it is easy to say. For example, one box becomes two boxes, and one bus becomes two buses.",
+      "ex": [
+        {
+          "en": "I wash the dishes every evening.",
+          "mean": "more than one dish"
+        },
+        {
+          "en": "There are two buses on the street.",
+          "mean": "more than one bus"
+        },
+        {
+          "en": "She has three boxes of shoes.",
+          "mean": "more than one box"
+        }
+      ]
+    },
+    {
+      "h": "Irregular Plurals",
+      "p": "Some common English words do not follow the rules. They change their spelling completely when they become plural! For example, one child becomes two children, and one man becomes two men. You need to memorize these special words because people use them all the time.",
+      "ex": [
+        {
+          "en": "The children are playing in the park.",
+          "mean": "more than one child"
+        },
+        {
+          "en": "I see two men near the door.",
+          "mean": "more than one man"
+        },
+        {
+          "en": "My feet are cold today.",
+          "mean": "both of my feet"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "cat",
+      "mean": "small furry pet"
+    },
+    {
+      "en": "cats",
+      "mean": "more than one cat"
+    },
+    {
+      "en": "bus",
+      "mean": "large vehicle for passengers"
+    },
+    {
+      "en": "buses",
+      "mean": "more than one bus"
+    },
+    {
+      "en": "child",
+      "mean": "young person"
+    },
+    {
+      "en": "children",
+      "mean": "more than one child"
+    },
+    {
+      "en": "man",
+      "mean": "adult male"
+    },
+    {
+      "en": "men",
+      "mean": "more than one man"
+    }
+  ],
+  "tip": "Make a flashcard for irregular words like child and children. Practice saying them out loud every day!",
+  "quiz": [
+    {
+      "ask": "Choose the correct plural form",
+      "en": "I have two ___ in my bag.",
+      "choices": [
+        "book",
+        "books",
+        "bookes"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct plural form",
+      "en": "The ___ are waiting for the bus.",
+      "choices": [
+        "man",
+        "mans",
+        "men"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct plural form",
+      "en": "Please clean the ___ after dinner.",
+      "choices": [
+        "dishs",
+        "dishes",
+        "dish"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct plural form",
+      "en": "I see three ___ playing outside.",
+      "choices": [
+        "childs",
+        "childes",
+        "children"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct plural form",
+      "en": "She bought four ___ at the market.",
+      "choices": [
+        "apple",
+        "apples",
+        "applese"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct plural form",
+      "en": "My ___ hurt after walking all day.",
+      "choices": [
+        "feets",
+        "foot",
+        "feet"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

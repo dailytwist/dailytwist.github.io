@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-22",
+  "signs": {
+    "aries": {
+      "overview": "Thursday is asking you to channel your inner superhero, Aries, but without the mandatory cape. You have got a brilliant spark of inspiration burning a hole in your pocket, and the universe is practically begging you to share it with the world. Whether you are spearheading a chaotic group chat debate or inventing a brand new way to make your morning coffee, your infectious enthusiasm is turning heads. Just remember to occasionally let someone else hold the microphone for five minutes. A spontaneous dance break in your living room will do wonders for your stamina this afternoon.",
+      "love": "Flirting feels like an Olympic sport today, and you are aiming for gold with your witty banter. Single or attached, bringing a touch of theatrical romance to the evening will score major points.",
+      "career": "Your bold leadership skills are saving a stalled project from total oblivion. Trust your gut reaction when a last-minute pivot is requested.",
+      "wellness": "Stretch out those shoulders and trade your third espresso for a tall glass of sparkling water with lime.",
+      "lucky_number": 7,
+      "lucky_color": "crimson",
+      "mood": "electrified"
+    },
+    "taurus": {
+      "overview": "Comfort is your love language today, Taurus, and you are officially fluent in it. As the cosmic weather shifts, you are finding immense joy in upgrading your immediate surroundings. Maybe it is lighting a ridiculously expensive vanilla candle, or perhaps it is finally organizing that drawer of miscellaneous charging cables that has been mocking you for months. Treat yourself to sensory delights that make you feel grounded and prosperous. You do not need to rush anywhere when the best view is right from your incredibly comfortable sofa.",
+      "love": "Slow-burning romance is your specialty right now, especially over a ridiculously decadent homemade meal. Shared quiet moments speak louder than grand gestures.",
+      "career": "Stubbornness is actually your superpower today, helping you finish a tedious task everyone else gave up on.",
+      "wellness": "Indulge in a luxurious ten-step skincare routine or a long, soaking bath with soothing lavender bubbles.",
+      "lucky_number": 24,
+      "lucky_color": "sage",
+      "mood": "cozy"
+    },
+    "gemini": {
+      "overview": "Your mind is moving at the speed of dial-up internet in the nineties, Gemini—lots of high-pitched buzzing and brilliant breakthroughs happening all at once. You are collecting trivia, sharing hilarious memes, and somehow managing three different conversations simultaneously without missing a beat. Channel this frantic, fun mental energy into creative brainstorming or planning an impromptu weekend road trip with your favorite chaotic friend. Try not to overthink the little hiccups; your adaptability is your ultimate safety net today.",
+      "love": "Mental stimulation is the ultimate aphrodisiac for you right now. Send your crush a ridiculously niche playlist to instantly win their heart.",
+      "career": "Multitasking is your playground, but make sure you actually hit send on those crucial emails instead of just drafting them.",
+      "wellness": "Give your eyes a break from screens by spending twenty minutes looking at actual green trees outside.",
+      "lucky_number": 11,
+      "lucky_color": "yellow",
+      "mood": "chatty"
+    },
+    "cancer": {
+      "overview": "Your intuition is practically psychic today, Cancer, so if a certain vibe feels off, trust the report from your internal radar. You are operating as the emotional anchor for your social circle, wrapping everyone in your warm, protective energy. Remember to save a little bit of that fierce tenderness for yourself, though. Cuddle up with a nostalgic movie you have seen a dozen times, or treat your inner child to your absolute favorite comfort food from childhood. Home is truly wherever your fuzzy slippers happen to be.",
+      "love": "Vulnerability is your most magnetic accessory right now. Opening up about a silly dream brings you closer to your person.",
+      "career": "Your empathetic approach helps resolve a tricky team dynamic before it turns into full-blown drama.",
+      "wellness": "Wrap yourself in the heaviest weighted blanket you own and listen to an ambient lo-fi playlist.",
+      "lucky_number": 2,
+      "lucky_color": "silver",
+      "mood": "nostalgic"
+    },
+    "leo": {
+      "overview": "The spotlight is calling your name, Leo, and honestly, you left your stage makeup on from yesterday anyway. Thursday delivers a burst of playful dramatic flair that makes you the undisputed star of any room you enter. Share your grandest ideas, show off your most flamboyant jacket, and let your infectious laugh echo down the hallway. Just remember that true royalty also knows how to generously applaud the supporting cast. Share the stage, soak up the applause, and enjoy being utterly fabulous.",
+      "love": "Romance should feel like a classic Hollywood romantic comedy today. Do not shy away from a grand, slightly cheesy gesture.",
+      "career": "Your creative pitch receives enthusiastic applause from the people who actually matter. Own your brilliance without apology.",
+      "wellness": "Strike a power pose in front of your mirror for sixty seconds to instantly boost your radiant confidence.",
+      "lucky_number": 88,
+      "lucky_color": "gold",
+      "mood": "radiant"
+    },
+    "virgo": {
+      "overview": "Organization is your form of meditation today, Virgo, and watching chaos turn into a color-coded spreadsheet brings you pure bliss. You have got a genius eye for the microscopic details that everyone else completely missed, saving the day without even breaking a sweat. Use this laser focus to tidy up your digital life—delete those thousand rogue screenshots and organize your browser tabs. Once your external world is gleaming, take a deep breath and realize you do not actually have to fix everything today.",
+      "love": "Acts of service are speaking volumes in your relationships. Bringing someone their favorite latte unasked is pure poetry to you.",
+      "career": "Your meticulous editing skills turn a messy draft into an absolute masterpiece. Expect quiet appreciation from higher-ups.",
+      "wellness": "Do a digital detox for one hour before bedtime to let your hardworking brain truly unwind.",
+      "lucky_number": 19,
+      "lucky_color": "navy",
+      "mood": "focused"
+    },
+    "libra": {
+      "overview": "Aesthetic harmony is your absolute mission today, Libra, and you are on a quest to make everything look like an inspirational Pinterest board. Whether you are rearranging your bookshelf by color gradient or curating the ultimate dinner party playlist, your charming touch elevates the mundane into art. Social interactions flow effortlessly, making you the ultimate mediator of any friendly debates. Just be careful not to spend three hours trying to pick out a single greeting card—decisiveness is your secret growth challenge today.",
+      "love": "Partnership is shining brightly for you. Plan a visually stunning date night at a cozy bistro with great ambient lighting.",
+      "career": "Your diplomatic flair is legendary, effortlessly smoothing over a disagreement between coworkers.",
+      "wellness": "Wear your absolute favorite outfit today, even if you are just staying home—looking good directly boosts your mood.",
+      "lucky_number": 33,
+      "lucky_color": "rose",
+      "mood": "harmonious"
+    },
+    "scorpio": {
+      "overview": "Your mystery level is turned all the way up to eleven today, Scorpio, and people are entirely fascinated by your enigmatic aura. You are cutting straight through small talk and getting right to the existential heart of every matter. Dive deep into a fascinating research rabbit hole or tackle a passion project that requires your legendary intensity. Let your sharp intuition guide your choices, but remember to keep your sense of humor handy so you do not take the daily plot twists too seriously.",
+      "love": "Magnetic chemistry is pulling you toward someone intriguing. A late-night heart-to-heart reveals secrets you both appreciate.",
+      "career": "Your investigative streak uncovers a clever shortcut that saves your team a massive headache.",
+      "wellness": "Dim the lights and listen to a thrilling mystery podcast to satisfy your craving for intrigue.",
+      "lucky_number": 13,
+      "lucky_color": "maroon",
+      "mood": "enigmatic"
+    },
+    "sagittarius": {
+      "overview": "Adventure is calling, Sagittarius, and even if you are stuck at a desk, your mind is currently booking a first-class ticket to somewhere with palm trees and no cell service. Your infectious optimism is turning mundane Thursday hurdles into hilarious plot points in your life's ongoing comedy. Say yes to a spontaneous invitation, try a weird new food truck for lunch, or strike up a conversation with a stranger who has an interesting dog. The world is your giant, chaotic playground today.",
+      "love": "Spontaneity is the key to your heart right now. A last-minute adventure with your favorite person will create unforgettable memories.",
+      "career": "Think big picture today and let others handle the tedious paperwork. Your visionary ideas inspire the room.",
+      "wellness": "Get outside for a brisk walk during your lunch break to let the fresh air reset your expansive mind.",
+      "lucky_number": 9,
+      "lucky_color": "purple",
+      "mood": "adventurous"
+    },
+    "capricorn": {
+      "overview": "You are building your empire one solid brick at a time, Capricorn, and Thursday brings a satisfying sense of structural progress. Your ambition is matched only by your legendary work ethic, making this an ideal time to cross off the hardest items on your master to-do list. Do not forget to schedule in a proper break, though. Reward your relentless productivity with something genuinely delightful this evening. Even CEOs need a nap and a fun snack.",
+      "love": "Reliability is your sexiest trait right now. Showing up consistently for someone proves your loyalty louder than words.",
+      "career": "A major milestone is within touching distance. Keep your head down and execute your plan with precision.",
+      "wellness": "Practice grounding exercises like standing barefoot on the grass to release accumulated workplace tension.",
+      "lucky_number": 42,
+      "lucky_color": "charcoal",
+      "mood": "ambitious"
+    },
+    "aquarius": {
+      "overview": "You are tapped into tomorrow's frequencies today, Aquarius, thinking up avant-garde solutions while everyone else is still catching up. Your eccentric brilliance is in high demand, so do not hide your weirdest, most futuristic ideas. Collaborate with quirky peers who appreciate your unorthodox perspective. Whether you are inventing a bizarre new morning routine or championing a quirky cause, your individuality is your superpower. Keep marching to the beat of your own wonderfully bizarre drum.",
+      "love": "Shared ideals and weird inside jokes form the foundation of your current romantic vibe. Find your fellow eccentric.",
+      "career": "An out-of-the-box suggestion turns a boring meeting into a brainstorming session for the history books.",
+      "wellness": "Stargaze for ten minutes before bed to reconnect with the vast, fascinating cosmos that inspires you.",
+      "lucky_number": 17,
+      "lucky_color": "electric-blue",
+      "mood": "innovative"
+    },
+    "pisces": {
+      "overview": "Your imagination is running absolute laps around reality today, Pisces, and honestly, the dream world looks much more entertaining anyway. Dive headfirst into art, music, or poetry that makes your heart swell. Your empathy is a sponge, so make sure you are filtering out other people's stress and protecting your precious energetic boundaries. A creative daydream session or sketching in a notebook will channel your cosmic downloads into something truly magical.",
+      "love": "Poetic romance and dreamy daydreams color your romantic life. A sweet text out of nowhere melts your heart.",
+      "career": "Your creative instincts are spot on, especially when dealing with artistic or conceptual projects.",
+      "wellness": "Listen to cinematic instrumental music while closing your eyes to let your imagination wander freely.",
+      "lucky_number": 3,
+      "lucky_color": "turquoise",
+      "mood": "dreamy"
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-22",
+  "title": "Desafío de Trivia Diario del 22 de octubre de 2026",
+  "questions": [
+    {
+      "category": "Geografía",
+      "question": "¿Qué país africano está completamente rodeado por Sudáfrica?",
+      "options": [
+        "Botswana",
+        "Zimbabwe",
+        "Lesoto",
+        "Namibia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Lesoto es una de las únicas tres naciones soberanas en el mundo que están completamente rodeadas por un solo país.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Ciencia",
+      "question": "¿Cuál es la sustancia natural más dura conocida en la Tierra?",
+      "options": [
+        "Topacio",
+        "Diamante",
+        "Corindón",
+        "Cuarzo"
+      ],
+      "answer_index": 1,
+      "fun_fact": "El diamante alcanza el máximo de 10 en la escala de dureza mineral de Mohs.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Historia",
+      "question": "¿Quién fue el primer emperador del Imperio romano?",
+      "options": [
+        "Nerón",
+        "Augusto",
+        "Constantino",
+        "Julio César"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Augusto, cuyo nombre original era Octavio, se convirtió en el primer emperador romano tras la caída de la República romana.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Cine y Cultura Pop",
+      "question": "¿Qué película épica de ópera espacial de 1977 presentó al mundo a personajes como Luke Skywalker y Han Solo?",
+      "options": [
+        "Blade Runner",
+        "Alien",
+        "Encuentros en la tercera fase",
+        "Star Wars"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Star Wars fue escrita y dirigida por George Lucas y se convirtió en un fenómeno cultural masivo.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Comida",
+      "question": "¿De qué país es originario el famoso queso de pasta azul Roquefort?",
+      "options": [
+        "Francia",
+        "Suiza",
+        "España",
+        "Italia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El queso Roquefort se elabora con leche de oveja y se madura en las cuevas naturales de la montaña Combalou en Francia.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Animales",
+      "question": "¿Cómo se le llama comúnmente a un grupo de cuervos?",
+      "options": [
+        "Una bandada",
+        "Un enjambre",
+        "Una jauría",
+        "Un congreso"
+      ],
+      "answer_index": 3,
+      "fun_fact": "El término para referirse a un grupo de cuervos tiene sus raíces en el folclore y en la asociación del ave con la muerte y la carroña.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Deportes",
+      "question": "En losbolos, ¿qué término se usa cuando un jugador derriba los diez pinos con el primer lanzamiento de un turno?",
+      "options": [
+        "Split",
+        "Spare",
+        "Strike",
+        "Turkey"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Conseguir doce strikes consecutivos en una sola partida da como resultado una puntuación máxima posible de 300 puntos.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Lenguaje",
+      "question": "¿Cómo se llama el estudio del origen y la evolución histórica de las palabras?",
+      "options": [
+        "Sintaxis",
+        "Etimología",
+        "Fonética",
+        "Semántica"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Los etimólogos rastrean las palabras a través del tiempo analizando sus usos más antiguos conocidos y sus cambios estructurales.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Espacio",
+      "question": "¿Qué luna de Saturno es famosa por poseer una densa atmósfera de nitrógeno y lagos de metano líquido?",
+      "options": [
+        "Encélado",
+        "Ío",
+        "Europa",
+        "Titán"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Titán es el único objeto aparte de la Tierra que se sabe que tiene cuerpos estables de líquido en su superficie.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Ciencia",
+      "question": "¿Cuál es el gas noble con número atómico 10, comúnmente utilizado en carteles publicitarios de color rojo brillante?",
+      "options": [
+        "Argón",
+        "Neón",
+        "Helio",
+        "Kriptón"
+      ],
+      "answer_index": 1,
+      "fun_fact": "El neón emite un brillo de color rojo anaranjado cuando se descarga electricidad a través de él en un tubo de vacío.",
+      "difficulty": "hard"
+    }
+  ]
+}

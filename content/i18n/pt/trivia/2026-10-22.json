@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-22",
+  "title": "Desafio de Trivia Diário de 22 de outubro de 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Qual país africano é completamente cercado pela África do Sul?",
+      "options": [
+        "Botswana",
+        "Zimbabwe",
+        "Lesoto",
+        "Namíbia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O Lesoto é um dos únicos três países soberanos do mundo a ser inteiramente cercado por um único outro país.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Ciência",
+      "question": "Qual é a substância natural mais dura conhecida na Terra?",
+      "options": [
+        "Topázio",
+        "Diamante",
+        "Coríndon",
+        "Quartzo"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O diamante atinge o nível máximo de 10 na escala de dureza mineral de Mohs.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "História",
+      "question": "Quem foi o primeiro Imperador do Império Romano?",
+      "options": [
+        "Nero",
+        "Augusto",
+        "Constantino",
+        "Júlio César"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Augusto, originalmente chamado de Otaviano, tornou-se o primeiro imperador romano após a queda da República Romana.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Filmes e Cultura Pop",
+      "question": "Qual filme épico de ópera espacial de 1977 apresentou personagens como Luke Skywalker e Han Solo ao mundo?",
+      "options": [
+        "Blade Runner",
+        "Alien",
+        "Contatos Imediatos do Terceiro Grau",
+        "Star Wars"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Star Wars foi escrito e dirigido por George Lucas e tornou-se um enorme fenômeno cultural.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Comida",
+      "question": "De qual país se origina o famoso queijo de massa azul Roquefort?",
+      "options": [
+        "França",
+        "Suíça",
+        "Espanha",
+        "Itália"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O queijo Roquefort é feito com leite de ovelha e maturado nas cavernas naturais da montanha Combalou, na França.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Animais",
+      "question": "Como é comumente chamada um grupo de corvos?",
+      "options": [
+        "Um bando",
+        "Um enxame",
+        "Uma matilha",
+        "Um assassinato"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O termo 'assassinato de corvos' tem raízes no folclore e na associação da ave com a morte e carniça.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Esportes",
+      "question": "No boliche, qual termo é usado quando um jogador derruba todos os dez pinos com a primeira bola de uma rodada?",
+      "options": [
+        "Split",
+        "Spare",
+        "Strike",
+        "Turkey"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Conseguir doze strikes consecutivos em uma única partida resulta em uma pontuação máxima possível de 300 pontos.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Idioma",
+      "question": "Como se chama o estudo da origem e do desenvolvimento histórico das palavras?",
+      "options": [
+        "Sintaxe",
+        "Etimologia",
+        "Fonética",
+        "Semântica"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Os etimologistas rastreiam as palavras ao longo do tempo analisando seus usos mais antigos e suas mudanças estruturais.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Espaço",
+      "question": "Qual lua de Saturno é famosa por possuir uma atmosfera densa de nitrogênio e lagos de metano líquido?",
+      "options": [
+        "Encélado",
+        "Io",
+        "Europa",
+        "Titã"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Titã é o único objeto além da Terra conhecido por ter corpos estáveis de líquido em sua superfície.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Ciência",
+      "question": "Qual é o gás nobre com número atômico 10, comumente usado em letreiros publicitários vermelhos brilhantes?",
+      "options": [
+        "Argônio",
+        "Neônio",
+        "Hélio",
+        "Criptônio"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O neônio emite um brilho vermelho-alaranjado quando a eletricidade é descarregada através dele em um tubo de vácuo.",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-22",
+  "slug": "articles-a-an-the",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "📚",
+  "title": "A, An, and The",
+  "summary": "Learn when to use 'a', 'an', and 'the'. These small words help you talk about people, places, and things.",
+  "sections": [
+    {
+      "h": "Using A and An",
+      "p": "We use 'a' or 'an' for one thing when we talk about it for the first time. Use 'a' before words that start with a consonant sound, like a book or a car. Use 'an' before words that start with a vowel sound, like an apple or an egg. It helps your speech sound smooth.",
+      "ex": [
+        {
+          "en": "I have a dog.",
+          "mean": "I own one dog."
+        },
+        {
+          "en": "She eats an apple every day.",
+          "mean": "She has one apple daily."
+        },
+        {
+          "en": "He wants a new phone.",
+          "mean": "He needs one new mobile."
+        }
+      ]
+    },
+    {
+      "h": "Using The",
+      "p": "We use 'the' when the listener or reader already knows which thing we mean. Maybe there is only one, or we talked about it before. For example, if there is only one sun in the sky, we say 'the sun'. If you bought a car, the first time is 'a car', but the next time is 'the car'.",
+      "ex": [
+        {
+          "en": "The sun is very hot today.",
+          "mean": "Our sun is hot now."
+        },
+        {
+          "en": "Please close the door.",
+          "mean": "Close that specific door."
+        },
+        {
+          "en": "I see a cat. The cat is black.",
+          "mean": "First mention a cat, then that specific cat."
+        }
+      ]
+    },
+    {
+      "h": "No Article",
+      "p": "Sometimes we do not use any article before a word. We do this when we talk about plural things in general, or uncountable things like water and milk in general. For example, we say 'I like cats' not 'I like the cats' when we mean all cats everywhere.",
+      "ex": [
+        {
+          "en": "I like music.",
+          "mean": "I enjoy music in general."
+        },
+        {
+          "en": "Dogs are friendly animals.",
+          "mean": "All dogs are friendly usually."
+        },
+        {
+          "en": "She drinks water every morning.",
+          "mean": "Water in general, not a specific bottle."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "a",
+      "mean": "used before consonant sounds"
+    },
+    {
+      "en": "an",
+      "mean": "used before vowel sounds"
+    },
+    {
+      "en": "the",
+      "mean": "used for specific things"
+    },
+    {
+      "en": "consonant",
+      "mean": "letters like b, c, d"
+    },
+    {
+      "en": "vowel",
+      "mean": "letters a, e, i, o, u"
+    },
+    {
+      "en": "specific",
+      "mean": "one exact thing"
+    },
+    {
+      "en": "general",
+      "mean": "talking about all things"
+    }
+  ],
+  "tip": "Remember: 'a' and 'an' are for one new thing. 'The' is for something we already know about.",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "I want ___ apple, please.",
+      "choices": [
+        "a",
+        "an",
+        "the"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "She has ___ new car.",
+      "choices": [
+        "a",
+        "an",
+        "the"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Look at ___ moon tonight!",
+      "choices": [
+        "a",
+        "an",
+        "the"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "He is reading ___ book.",
+      "choices": [
+        "an",
+        "the",
+        "a"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Pass me ___ salt, please.",
+      "choices": [
+        "the",
+        "a",
+        "an"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "She eats ___ egg for breakfast.",
+      "choices": [
+        "a",
+        "the",
+        "an"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

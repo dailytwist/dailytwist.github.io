@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-22",
+  "title": "October 22, 2026 Daily Trivia Challenge",
+  "questions": [
+    {
+      "category": "Geography",
+      "question": "Which African country is completely surrounded by South Africa?",
+      "options": [
+        "Botswana",
+        "Zimbabwe",
+        "Lesotho",
+        "Namibia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Lesotho is one of only three sovereign nations in the world to be entirely enclosed by a single other country.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Science",
+      "question": "What is the hardest natural substance known on Earth?",
+      "options": [
+        "Topaz",
+        "Diamond",
+        "Corundum",
+        "Quartz"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Diamond ranks a maximum of 10 on the Mohs scale of mineral hardness.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "History",
+      "question": "Who was the first Emperor of the Roman Empire?",
+      "options": [
+        "Nero",
+        "Augustus",
+        "Constantine",
+        "Julius Caesar"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Augustus, originally named Octavian, became the first Roman emperor after the fall of the Roman Republic.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Movies & Pop Culture",
+      "question": "Which 1977 epic space opera film introduced characters like Luke Skywalker and Han Solo to the world?",
+      "options": [
+        "Blade Runner",
+        "Alien",
+        "Close Encounters of the Third Kind",
+        "Star Wars"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Star Wars was famously written and directed by George Lucas and became a massive cultural phenomenon.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Food",
+      "question": "From which country does the famous blue-veined cheese Roquefort originate?",
+      "options": [
+        "France",
+        "Switzerland",
+        "Spain",
+        "Italy"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Roquefort cheese is made from the milk of ewes and is aged in the natural caves of the Combalou mountain in France.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Animals",
+      "question": "What is a group of crows commonly called?",
+      "options": [
+        "A flock",
+        "A swarm",
+        "A pack",
+        "A murder"
+      ],
+      "answer_index": 3,
+      "fun_fact": "The term 'murder of crows' has roots in folklore and the bird's association with death and scavenging.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Sports",
+      "question": "In ten-pin bowling, what term is used when a player knocks down all ten pins with the first roll of a frame?",
+      "options": [
+        "Split",
+        "Spare",
+        "Strike",
+        "Turkey"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Achieving twelve consecutive strikes in a single game results in a maximum possible score of 300 points.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Language",
+      "question": "What is the study of the origin and historical development of words called?",
+      "options": [
+        "Syntax",
+        "Etymology",
+        "Phonetics",
+        "Semantics"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Etymologists trace words back through time by looking at their earliest known uses and structural changes.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Space",
+      "question": "Which moon of Saturn is famous for possessing a dense nitrogen atmosphere and liquid methane lakes?",
+      "options": [
+        "Enceladus",
+        "Io",
+        "Europa",
+        "Titan"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Titan is the only object other than Earth known to have stable bodies of surface liquid.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Science",
+      "question": "What is the noble gas with the atomic number 10, commonly used in bright red advertising signs?",
+      "options": [
+        "Argon",
+        "Neon",
+        "Helium",
+        "Krypton"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Neon glows a reddish-orange color when electricity is discharged through it in a vacuum tube.",
+      "difficulty": "hard"
+    }
+  ]
+}

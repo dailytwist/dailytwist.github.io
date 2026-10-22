@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-22",
+  "slug": "numbers-1-100",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "🔢",
+  "title": "Numbers, Age, and Phone Numbers",
+  "summary": "In this fun lesson, you will learn numbers from 1 to 100. You will also learn how to say your age and your phone number.",
+  "sections": [
+    {
+      "h": "Numbers 1 to 20",
+      "p": "First, let's learn the basic numbers. Numbers one to ten are easy: one, two, three, four, five, six, seven, eight, nine, ten. Numbers eleven to twenty are special words you need to memorize, like eleven, twelve, fifteen, and twenty.",
+      "ex": [
+        {
+          "en": "I have three cats.",
+          "mean": "The number is three."
+        },
+        {
+          "en": "She is twenty years old.",
+          "mean": "The number is twenty."
+        }
+      ]
+    },
+    {
+      "h": "Tens (30 to 100)",
+      "p": "To count by tens, we add 'ty' to the end. For example: thirty, forty, fifty, sixty, seventy, eighty, ninety, and one hundred. To make numbers like 35 or 42, just say the ten first and then the small number: thirty-five, forty-two.",
+      "ex": [
+        {
+          "en": "The book costs fifty dollars.",
+          "mean": "The number is fifty."
+        },
+        {
+          "en": "My grandfather is seventy-five.",
+          "mean": "The number is seventy-five."
+        }
+      ]
+    },
+    {
+      "h": "Saying Your Age and Phone Number",
+      "p": "To say how old you are, use the verb 'to be'. Say 'I am' and then your age. To share your phone number, say each digit one by one. For example, 555-1234 is five-five-five, one-two-three-four.",
+      "ex": [
+        {
+          "en": "I am twenty-five years old.",
+          "mean": "This is how you say your age."
+        },
+        {
+          "en": "My phone number is 555-4321.",
+          "mean": "This is how you share your phone number."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "one",
+      "mean": "number 1"
+    },
+    {
+      "en": "ten",
+      "mean": "number 10"
+    },
+    {
+      "en": "twenty",
+      "mean": "number 20"
+    },
+    {
+      "en": "fifty",
+      "mean": "number 50"
+    },
+    {
+      "en": "one hundred",
+      "mean": "number 100"
+    },
+    {
+      "en": "age",
+      "mean": "how old you are"
+    },
+    {
+      "en": "phone number",
+      "mean": "digits to call someone"
+    }
+  ],
+  "tip": "Practice numbers by saying the prices of things you see when you go shopping! Also, say your phone number out loud every day to remember it.",
+  "quiz": [
+    {
+      "ask": "Choose the correct number for 30",
+      "en": "I have ___ pens.",
+      "choices": [
+        "thirteen",
+        "thirty",
+        "three",
+        "third"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct way to say age",
+      "en": "I ___ twenty years old.",
+      "choices": [
+        "have",
+        "am",
+        "do",
+        "make"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct number for 100",
+      "en": "The maximum score is ___.",
+      "choices": [
+        "ten",
+        "fifty",
+        "one hundred",
+        "one thousand"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct spelling for 15",
+      "en": "She is ___ years old.",
+      "choices": [
+        "fiveteen",
+        "fifteen",
+        "fifti",
+        "fivety"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word for phone contact",
+      "en": "What is your phone ___?",
+      "choices": [
+        "number",
+        "age",
+        "name",
+        "house"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct number for 80",
+      "en": "He is ___ years old.",
+      "choices": [
+        "eight",
+        "eighty",
+        "eighteen",
+        "Eighty-eight"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

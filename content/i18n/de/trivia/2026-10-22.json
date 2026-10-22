@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-22",
+  "title": "Tägliches Quiz-Gewinnspiel vom 22. Oktober 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches afrikanische Land ist vollständig von Südafrika umschlossen?",
+      "options": [
+        "Botswana",
+        "Simbabwe",
+        "Lesotho",
+        "Namibia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Lesotho ist einer von weltweit nur drei souveränen Staaten, die komplett von einem einzigen anderen Land umschlossen werden.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist die härteste bekannte natürliche Substanz auf der Erde?",
+      "options": [
+        "Topas",
+        "Diamant",
+        "Korund",
+        "Quarz"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Diamant erreicht auf der Mohs-Skala der Minerauhärte den Höchstwert von 10.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Geschichte",
+      "question": "Wer war der erste Kaiser des Römischen Reiches?",
+      "options": [
+        "Nero",
+        "Augustus",
+        "Konstantin",
+        "Julius Cäsar"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Augustus, der ursprünglich Octavian hieß, wurde nach dem Untergang der Römischen Republik der erste römische Kaiser.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Welcher epische Science-Fiction-Film aus dem Jahr 1977 stellte der Welt Figuren wie Luke Skywalker und Han Solo vor?",
+      "options": [
+        "Blade Runner",
+        "Alien",
+        "Unheimliche Begegnung der dritten Art",
+        "Star Wars"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Star Wars wurde bekanntermaßen von George Lucas geschrieben und inszeniert und entwickelte sich zu einem riesigen Phänomen der Popkultur.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Essen",
+      "question": "Aus welchem Land stammt der berühmte Blauschimmelkäse Roquefort?",
+      "options": [
+        "Frankreich",
+        "Schweiz",
+        "Spanien",
+        "Italien"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Roquefort-Käse wird aus Schafsmilch hergestellt und in den natürlichen Höhlen des Combalou-Berges in Frankreich gereift.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Tiere",
+      "question": "Wie wird eine Gruppe von Krähen im englischen Sprachraum häufig genannt?",
+      "options": [
+        "Ein Schwarm",
+        "Eine Meute",
+        "Eine Herde",
+        "Ein Mord"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Der Begriff „murder of crows“ hat seine Wurzeln in der Folklore und der Verbindung des Vogels mit Tod und Aasfresserei.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Sport",
+      "question": "Welcher Begriff wird beim Bowling verwendet, wenn ein Spieler mit dem ersten Wurf eines Durchgangs alle zehn Kegel umwirft?",
+      "options": [
+        "Split",
+        "Spare",
+        "Strike",
+        "Turkey"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Zwölf Strikes in Folge in einem einzigen Spiel führen zu einer maximalen Punktzahl von 300 Punkten.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie nennt man die Wissenschaft vom Ursprung und der historischen Entwicklung von Wörtern?",
+      "options": [
+        "Syntax",
+        "Etymologie",
+        "Phonetik",
+        "Semantik"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Etymologen verfolgen Wörter durch die Zeit zurück, indem sie sich ihre frühesten bekannten Verwendungen und strukturellen Veränderungen ansehen.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Mond des Saturn ist dafür bekannt, eine dichte Stickstoffatmosphäre und Seen aus flüssigem Methan zu besitzen?",
+      "options": [
+        "Enceladus",
+        "Io",
+        "Europa",
+        "Titan"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Titan ist neben der Erde das einzige bekannte Objekt im Sonnensystem mit stabilen Ansammlungen von Flüssigkeit auf der Oberfläche.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Wie heißt das Edelgas mit der Ordnungszahl 10, das häufig für hellrote Leuchtreklamen verwendet wird?",
+      "options": [
+        "Argon",
+        "Neon",
+        "Helium",
+        "Krypton"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Neon leuchtet in einer rötlich-orangen Farbe, wenn in einer Vakuumröhre eine elektrische Entladung durch es hindurchgeleitet wird.",
+      "difficulty": "hard"
+    }
+  ]
+}
