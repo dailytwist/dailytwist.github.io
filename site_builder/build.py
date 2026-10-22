@@ -243,8 +243,9 @@ HERO_ART = """<svg class="hero-art" viewBox="0 0 320 260" aria-hidden="true">
 PAGES = {}  # (lang, path) -> dict
 
 
-def add(lang, path, title, desc, body, schema=None, priority="0.6"):
-    PAGES[(lang, path)] = dict(title=title, desc=desc, body=body, schema=schema, priority=priority)
+def add(lang, path, title, desc, body, schema=None, priority="0.6", canonical=None):
+    """canonical: another path of the same language that holds the same content (keeps Google from seeing duplicates)."""
+    PAGES[(lang, path)] = dict(title=title, desc=desc, body=body, schema=schema, priority=priority, canonical=canonical)
 
 
 def lang_menu(lang, path):
@@ -272,8 +273,8 @@ try{{OneSignal.User.addTag("lang","{lang}");var s=localStorage.getItem("dt-sign"
 
 
 def render(lang, path, pg):
-    canonical = f"{URL}{P(lang)}/{path}"
-    alts = {l: f"{URL}{P(l)}/{path}" for l in LANGS if (l, path) in PAGES}
+    canonical = f"{URL}{P(lang)}/{pg.get('canonical') or path}"
+    alts = {l: f"{URL}{P(l)}/{path}" for l in LANGS if (l, path) in PAGES and not PAGES[(l, path)].get("canonical")}
     hreflang = "".join(f'<link rel="alternate" hreflang="{l}" href="{e(u)}">' for l, u in alts.items())
     if "en" in alts:
         hreflang += f'<link rel="alternate" hreflang="x-default" href="{e(alts["en"])}">'
@@ -384,7 +385,7 @@ def render(lang, path, pg):
     out.parent.mkdir(parents=True, exist_ok=True)
     doc = re.sub(r'(["\'])(/assets/[\w./-]+\.(?:css|js))\1', lambda m: f'{m.group(1)}{m.group(2)}?v={ASSET_V}{m.group(1)}', doc)
     out.write_text(doc, encoding="utf-8")
-    return canonical, pg["priority"], alts
+    return (None if pg.get("canonical") else canonical), pg["priority"], alts
 
 
 # ---------------------------------------------------------------- holidays
@@ -719,7 +720,8 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
     for t in TR:
         add(lang, f"trivia/{t['date']}/", f"{t['title']} – {fdate(lang, t['date'])}",
             T(lang, "trivia_desc", date=fdate(lang, t["date"]), n=len(t["questions"])), trivia_body(t),
-            {"@context": "https://schema.org", "@type": "Quiz", "name": t["title"], "datePublished": t["date"], "inLanguage": lang}, "0.5")
+            {"@context": "https://schema.org", "@type": "Quiz", "name": t["title"], "datePublished": t["date"], "inLanguage": lang}, "0.5",
+            canonical="trivia/" if t is TR[-1] else None)  # today's quiz is the same as /trivia/
     if TR:
         t = TR[-1]
         add(lang, "trivia/", f"{T(lang, 'daily_trivia')} – {fdate(lang, t['date'])}",
@@ -1560,6 +1562,8 @@ def main():
             f"<language>{lang}</language>{''.join(items)}</channel></rss>", encoding="utf-8")
     urls = []
     for loc, pri, alts in sitemap:
+        if not loc:  # duplicate of another page: not listed
+            continue
         links = "".join(f'<xhtml:link rel="alternate" hreflang="{l}" href="{e(u)}"/>' for l, u in alts.items()) if len(alts) > 1 else ""
         urls.append(f"<url><loc>{e(loc)}</loc><lastmod>{TODAY}</lastmod><priority>{pri}</priority>{links}</url>")
     (OUT / "sitemap.xml").write_text(
