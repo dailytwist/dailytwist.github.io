@@ -64,6 +64,9 @@ jobs:
       - name: Build website
         run: python site_builder/build.py
 
+      - name: Safety check before publishing (stops the deploy if anything is broken)
+        run: python agent/predeploy_check.py
+
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

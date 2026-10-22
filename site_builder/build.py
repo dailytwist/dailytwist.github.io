@@ -970,7 +970,7 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
   <div class="sw"><div><h3>💪 {e(T(lang, 'strengths'))}</h3><ul>{li(x['strengths'])}</ul></div><div><h3>⚠️ {e(T(lang, 'weaknesses'))}</h3><ul>{li(x['weaknesses'])}</ul></div></div>
   <h2>❤️ {e(T(lang, 'love'))}</h2><p>{e(x['love'])}</p>
   <h2>💼 {e(T(lang, 'career'))}</h2><p>{e(x['career'])}</p>
-  <h2>💞 {e(T(lang, 'best_matches'))}</h2><div class="chips">{"".join(f'<a class="mchip" href="{pre}/chinese-zodiac/{m}/">{AEMO[m]} {e(T(lang, "an_" + m))}</a>' for m in x.get('best_matches', []) if m in AEMO)}</div>
+  <h2>💞 {e(T(lang, 'best_matches'))}</h2><div class="chips">{"".join((f'<a class="mchip" href="{pre}/chinese-zodiac/{m}/">' if m in CZ else '<span class="mchip">') + f'{AEMO[m]} {e(T(lang, "an_" + m))}' + ('</a>' if m in CZ else '</span>') for m in x.get('best_matches', []) if m in AEMO)}</div>
   {f'<h2>❓ {e(T(lang, "faq_title"))}</h2>' + "".join(f"<details class='faq'><summary>{e(q['q'])}</summary><p>{e(q['ans'])}</p></details>" for q in faq) if faq else ''}
   <a class="btn" href="{pre}/chinese-zodiac/">🔍 {e(T(lang, 'chinese_finder'))}</a>
   <p class="small muted">{e(T(lang, 'entertainment_only'))}</p>
