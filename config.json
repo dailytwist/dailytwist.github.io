@@ -35,5 +35,10 @@
   },
   "english_per_run": 5,
   "names_per_run": 8,
-  "onesignal_app_id": "00f06768-9b43-4ef4-96e1-9a38e56c8844"
+  "onesignal_app_id": "00f06768-9b43-4ef4-96e1-9a38e56c8844",
+  "lang_weight": {
+    "es": 3,
+    "fr": 2,
+    "pt": 2
+  }
 }

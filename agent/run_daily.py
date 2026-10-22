@@ -292,16 +292,25 @@ Avoid subjects already covered: {json.dumps(done[-60:])}
 Format: {{"picks": ["topic", ...]}}""", max_tokens=500).get("picks", [])
     else:
         picks = []
+    if len(picks) < count:  # popular searches we picked by hand come first (spirituality, curiosities, names, English)
+        seeds = json.loads((ROOT / "site_builder" / "data" / "seed_topics.json").read_text(encoding="utf-8"))
+        used_f = CONTENT / "seeds_used.json"
+        used = json.loads(used_f.read_text(encoding="utf-8")) if used_f.exists() else []
+        fresh = [x for x in seeds if x not in used]
+        random.shuffle(fresh)
+        trending_set = set(picks)
+        take = fresh[:count - len(picks)]
+        picks += take
+        save(used_f, used + take)
+    else:
+        trending_set = set(picks)
     if len(picks) < count:
         print("- adding evergreen ideas")
         extra = ask_json(f"""Suggest {count - len(picks)} evergreen article ideas people search for every day
 (curiosities, "why do...", "how does...", fun facts, food, animals, space, history, pop culture, holidays near {day:%B %d}).
 Avoid subjects already covered: {json.dumps(done[-80:])}
 Format: {{"ideas": ["...", ...]}}""", max_tokens=500).get("ideas", [])
-        trending_set = set(picks)
         picks += extra
-    else:
-        trending_set = set(picks)
     for t in picks[:count]:
         try:
             write_article(t, day, t in trending_set)
@@ -694,7 +703,7 @@ def main() -> None:
         for lang in langs:
             if budget[0] <= 0:
                 break
-            chunk = [min(3, budget[0])]
+            chunk = [min(3 * CONFIG.get("lang_weight", {}).get(lang, 1), budget[0])]
             start = chunk[0]
             translate_content(lang, chunk, today)
             used = start - chunk[0]
