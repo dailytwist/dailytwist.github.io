@@ -296,8 +296,7 @@ Format: {{"picks": ["topic", ...]}}""", max_tokens=500).get("picks", [])
         seeds = json.loads((ROOT / "site_builder" / "data" / "seed_topics.json").read_text(encoding="utf-8"))
         used_f = CONTENT / "seeds_used.json"
         used = json.loads(used_f.read_text(encoding="utf-8")) if used_f.exists() else []
-        fresh = [x for x in seeds if x not in used]
-        random.shuffle(fresh)
+        fresh = [x for x in seeds if x not in used]  # in order: the first ones are what Search Console shows people want
         trending_set = set(picks)
         take = fresh[:count - len(picks)]
         picks += take
