@@ -1,13 +1,78 @@
 {
- "day": "2026-10-21",
- "test": {
-  "error": 401,
-  "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
-  "auth": "Basic"
- },
- "key_shape": {
-  "len": 110,
-  "starts": "os_v2_a",
-  "v2": false
- }
+ "day": "2026-10-22",
+ "created": 0,
+ "results": [
+  [
+   "en",
+   "general",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "es",
+   "general",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "fr",
+   "general",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "de",
+   "general",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "pt",
+   "general",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "it",
+   "general",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "ja",
+   "general",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "ar",
+   "general",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ]
+ ]
 }
