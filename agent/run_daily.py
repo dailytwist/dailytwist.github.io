@@ -356,6 +356,23 @@ def _merge(orig, tr):
 
 
 def translate_json(obj, lang: str, max_tokens: int = 8000, tries: int = 2):
+    try:
+        return _translate_whole(obj, lang, max_tokens, tries)
+    except QuotaDone:
+        raise
+    except Exception:
+        if not isinstance(obj, dict) or len(obj) < 2:
+            raise
+    # the model kept changing the structure (merging list items...): translate one field at a time
+    out = dict(obj)
+    for k, v in obj.items():
+        if _keep(k, obj) or not _strip({k: v}):
+            continue
+        out[k] = _translate_whole({k: v}, lang, max_tokens, tries + 1)[k]
+    return out
+
+
+def _translate_whole(obj, lang: str, max_tokens: int = 8000, tries: int = 2):
     src = _strip(obj)
     last = None
     for _ in range(tries):
