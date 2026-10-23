@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-23",
+  "title": "Test de cultura general diaria: 23 de octubre de 2026",
+  "questions": [
+    {
+      "category": "geografía",
+      "question": "¿Qué país cuenta con el mayor número de husos horarios en su territorio nacional y dependencias?",
+      "options": [
+        "Reino Unido",
+        "Francia",
+        "Estados Unidos",
+        "Rusia"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Debido a sus numerosos departamentos y territorios de ultramar repartidos por todo el globo, Francia abarca oficialmente 12 husos horarios diferentes."
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Cuál es el gas principal que se encuentra en la atmósfera de Venus?",
+      "options": [
+        "Dióxido de carbono",
+        "Hidrógeno",
+        "Oxígeno",
+        "Nitrógeno"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El dióxido de carbono constituye aproximadamente el 96,5% de la densa atmósfera de Venus, lo que genera un efecto invernadero desbocado que lo convierte en el planeta más caliente del sistema solar."
+    },
+    {
+      "category": "historia",
+      "question": "La guerra de los Siete Años, considerada a menudo el primer conflicto global, tuvo lugar principalmente durante qué siglo?",
+      "options": [
+        "Siglo XVI",
+        "Siglo XIX",
+        "Siglo XVIII",
+        "Siglo XVII"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Librada entre 1756 y 1763, la guerra de los Siete Años involucró a la mayoría de las principales potencias europeas de la época en varios continentes."
+    },
+    {
+      "category": "cine y cultura pop",
+      "question": "¿Qué thriller de Alfred Hitchcock es famoso por ser pionero en el uso de una suspicaz escena en la ducha acompañada por una icónica y estridente música de violines?",
+      "options": [
+        "Vértigo",
+        "Con la muerte en los talones",
+        "Psicosis",
+        "La ventana indiscreta"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Estrenada en 1960, Psicosis cambió radicalmente las convenciones del cine de terror y del cine comercial."
+    },
+    {
+      "category": "gastronomía",
+      "question": "El queso halloumi, que tradicionalmente se asa o se fríe sin fundirse debido a su alto punto de fusión, proviene originalmente de qué nación insular del Mediterráneo?",
+      "options": [
+        "Chipre",
+        "Malta",
+        "Sicilia",
+        "Creta"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El halloumi se elabora en la isla de Chipre desde hace siglos, tradicionalmente utilizando una mezcla de leche de cabra y de oveja."
+    },
+    {
+      "category": "animales",
+      "question": "¿Qué estructura biológica única utiliza un pulpo para saborear y tocar cosas en su entorno?",
+      "options": [
+        "Escamas de la línea lateral",
+        "Sifones",
+        "Tentáculos con ventosas",
+        "Ojos compuestos"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Las ventosas de un pulpo están cubiertas de quimiorreceptores, lo que le permite saborear todo lo que toca."
+    },
+    {
+      "category": "deportes",
+      "question": "En el tenis, ¿qué término se utiliza cuando un jugador gana un juego sin que su oponente anote un solo punto?",
+      "options": [
+        "Ace",
+        "Deuce",
+        "Juego en blanco",
+        "Bagel"
+      ],
+      "answer_index": 2,
+      "fun_fact": "En la terminología de puntuación del tenis, 'love' (cero) representa una puntuación de cero, originaria de la palabra francesa 'l'oeuf' que significa huevo, simbolizando la forma de un cero."
+    },
+    {
+      "category": "idiomas",
+      "question": "¿Qué término lingüístico describe a una palabra que se pronuncia igual que otra pero difiere en significado, origen o ortografía?",
+      "options": [
+        "Homógrafo",
+        "Acrónimo",
+        "Homófono",
+        "Sinónimo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Los homófonos suenan idénticos al hablar en voz alta, como 'baca' y 'vaca', a pesar de tener significados distintos."
+    },
+    {
+      "category": "espacio",
+      "question": "¿Qué luna planetaria de nuestro sistema solar es volcánicamente activa y presenta columnas de azufre que se elevan cientos de kilómetros de altura?",
+      "options": [
+        "Encélado",
+        "Europa",
+        "Titán",
+        "Ío"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Ío es el cuerpo más volcánicamente activo de todo el sistema solar debido al intenso calentamiento por mareas gravitacionales de Júpiter."
+    },
+    {
+      "category": "historia",
+      "question": "¿Quién fue el brillante matemático y descifrador de códigos que dirigió el equipo que descifró la máquina alemana Enigma en Bletchley Park durante la Segunda Guerra Mundial?",
+      "options": [
+        "Albert Einstein",
+        "J. Robert Oppenheimer",
+        "Alan Turing",
+        "Niels Bohr"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El trabajo pionero de Alan Turing en la informática teórica y el criptoanálisis es ampliamente reconocido por haber salvado millones de vidas durante la Segunda Guerra Mundial."
+    }
+  ]
+}

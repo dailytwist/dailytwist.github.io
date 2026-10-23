@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-23",
+  "slug": "there-is-there-are",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "🏠",
+  "title": "There is and There Are",
+  "summary": "Learn how to talk about things in a room or a place. Use these words to show that something is there.",
+  "sections": [
+    {
+      "h": "What is 'There is'?",
+      "p": "We use 'there is' for one thing. This is the singular form. We often use 'a' or 'an' after it. For example, you can talk about one apple on the table or one cat in the garden. It is very easy and very useful for daily life.",
+      "ex": [
+        {
+          "en": "There is a book on the table.",
+          "mean": "One book is on the table."
+        },
+        {
+          "en": "There is an apple in the bag.",
+          "mean": "One apple is in the bag."
+        }
+      ]
+    },
+    {
+      "h": "What is 'There are'?",
+      "p": "We use 'there are' for two or more things. This is the plural form. We add an 's' to the end of the noun. For example, we talk about two cats, three books, or many friends. Use this when you see more than one item.",
+      "ex": [
+        {
+          "en": "There are three books on the table.",
+          "mean": "More than one book is on the table."
+        },
+        {
+          "en": "There are two cats in the garden.",
+          "mean": "More than one cat is outside."
+        }
+      ]
+    },
+    {
+      "h": "Making Questions",
+      "p": "To ask if something is there, we change the order of the words. We put 'Is there' or 'Are there' at the start of the sentence. Then we can answer with 'Yes, there is' or 'No, there are not'. This helps you ask for information.",
+      "ex": [
+        {
+          "en": "Is there a pen?",
+          "mean": "Asking about one pen."
+        },
+        {
+          "en": "Are there any chairs?",
+          "mean": "Asking about more than one chair."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "there is",
+      "mean": "for one thing"
+    },
+    {
+      "en": "there are",
+      "mean": "for two or more things"
+    },
+    {
+      "en": "singular",
+      "mean": "just one"
+    },
+    {
+      "en": "plural",
+      "mean": "two or more"
+    },
+    {
+      "en": "table",
+      "mean": "furniture for eating or working"
+    },
+    {
+      "en": "apple",
+      "mean": "a round red or green fruit"
+    },
+    {
+      "en": "chair",
+      "mean": "a seat for one person"
+    }
+  ],
+  "tip": "Remember: 'is' is for one thing (like a snake, long like the letter i), and 'are' is for many things!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "___ a cat on the sofa.",
+      "choices": [
+        "There are",
+        "There is",
+        "Is there"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "___ three dogs in the park.",
+      "choices": [
+        "There are",
+        "There is",
+        "Is there"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "___ an apple in my bag?",
+      "choices": [
+        "There is",
+        "There are",
+        "Is there"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "___ five chairs in the kitchen.",
+      "choices": [
+        "There is",
+        "There are",
+        "Are there"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "___ a water bottle on the desk.",
+      "choices": [
+        "There is",
+        "There are",
+        "Are there"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "___ any students in the classroom?",
+      "choices": [
+        "There are",
+        "Is there",
+        "Are there"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

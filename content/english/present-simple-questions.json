@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-23",
+  "slug": "present-simple-questions",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "❓",
+  "title": "Making Questions and No",
+  "summary": "Learn how to make questions and negative sentences with do and does. You can talk about daily habits and routines.",
+  "sections": [
+    {
+      "h": "How to make negatives with do not and does not",
+      "p": "When you want to say no in the present simple, use do not or does not before the action word. Use do not (don't) with I, you, we, and they. Use does not (doesn't) with he, she, and it. Remember that the main action word stays simple, with no extra 's' at the end.",
+      "ex": [
+        {
+          "en": "I don't drink coffee in the morning.",
+          "mean": "Saying no about yourself"
+        },
+        {
+          "en": "She doesn't work on Sundays.",
+          "mean": "Saying no about a third person"
+        },
+        {
+          "en": "We don't live in a big city.",
+          "mean": "Saying no about a group"
+        }
+      ]
+    },
+    {
+      "h": "How to ask questions with do",
+      "p": "To ask a question about habits, put Do at the very beginning. Use Do with I, you, we, and they. Then add the subject and the action word. Keep the answer short and simple with yes or no.",
+      "ex": [
+        {
+          "en": "Do you speak English?",
+          "mean": "Asking another person"
+        },
+        {
+          "en": "Do they like pizza?",
+          "mean": "Asking about a group"
+        },
+        {
+          "en": "Do we have time?",
+          "mean": "Asking about a shared plan"
+        }
+      ]
+    },
+    {
+      "h": "How to ask questions with does",
+      "p": "Use Does when you ask questions about he, she, or it. Put Does at the start of the sentence. Just like with negatives, the main action word does not need an 's' because the word does already shows it is he, she, or it.",
+      "ex": [
+        {
+          "en": "Does he play football?",
+          "mean": "Asking about a male person"
+        },
+        {
+          "en": "Does she like cats?",
+          "mean": "Asking about a female person"
+        },
+        {
+          "en": "Does it rain a lot here?",
+          "mean": "Asking about the weather"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Do",
+      "mean": "question word for I, you, we, they"
+    },
+    {
+      "en": "Does",
+      "mean": "question word for he, she, it"
+    },
+    {
+      "en": "Don't",
+      "mean": "do not"
+    },
+    {
+      "en": "Doesn't",
+      "mean": "does not"
+    },
+    {
+      "en": "Question",
+      "mean": "sentence asking for info"
+    },
+    {
+      "en": "Negative",
+      "mean": "saying no"
+    },
+    {
+      "en": "Habit",
+      "mean": "routine action"
+    }
+  ],
+  "tip": "Remember the helper rule: 'He, she, it' always likes the letter 's'. So use Does and Doesn't for them!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "___ you like music?",
+      "choices": [
+        "Does",
+        "Do",
+        "Is"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "She ___ like tea.",
+      "choices": [
+        "don't",
+        "doesn't",
+        "isn't"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "___ he work on Mondays?",
+      "choices": [
+        "Do",
+        "Are",
+        "Does"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "We ___ eat meat.",
+      "choices": [
+        "doesn't",
+        "don't",
+        "aren't"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "___ they play tennis?",
+      "choices": [
+        "Do",
+        "Does",
+        "Are"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "He ___ live in London.",
+      "choices": [
+        "don't",
+        "doesn't",
+        "not"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-23",
+  "title": "Quiz quotidien de culture générale : 23 octobre 2026",
+  "questions": [
+    {
+      "category": "géographie",
+      "question": "Quel pays compte le plus grand nombre de fuseaux horaires sur son territoire national et ses dépendances ?",
+      "options": [
+        "Royaume-Uni",
+        "France",
+        "États-Unis",
+        "Russie"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Grâce à ses nombreux départements et territoires d'outre-mer disséminés à travers le globe, la France couvre officiellement 12 fuseaux horaires différents."
+    },
+    {
+      "category": "science",
+      "question": "Quel est le gaz principal présent dans l'atmosphère de Vénus ?",
+      "options": [
+        "Dioxyde de carbone",
+        "Hydrogène",
+        "Oxygène",
+        "Azote"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le dioxyde de carbone représente environ 96,5 % de l'atmosphère dense de Vénus, provoquant un effet de serre emballé qui en fait la planète la plus chaude du système solaire."
+    },
+    {
+      "category": "histoire",
+      "question": "La guerre de Sept Ans, souvent considérée comme le premier conflit mondial, s'est déroulée principalement au cours de quel siècle ?",
+      "options": [
+        "16e siècle",
+        "19e siècle",
+        "18e siècle",
+        "17e siècle"
+      ],
+      "answer_index": 2,
+      "fun_fact": "L1756 et 1763, la guerre de Sept Ans a impliqué la plupart des grandes puissances européennes de l'époque sur plusieurs continents."
+    },
+    {
+      "category": "films et culture pop",
+      "question": "Quel thriller d'Alfred Hitchcock est célèbre pour avoir introduit une scène de douche pleine de suspense rythmée par un violon strident emblématique ?",
+      "options": [
+        "Sueurs froides",
+        "La Mort aux trousses",
+        "Psychose",
+        "Fenêtre sur cour"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Sorti en 1960, Psychose a fondamentalement bouleversé les codes du film d'horreur et du cinéma grand public."
+    },
+    {
+      "category": "gastronomie",
+      "question": "Le halloumi, un fromage traditionnellement grillé ou frit sans fondre grâce à son point de fusion élevé, est originellement originaire de quelle île méditerranéenne ?",
+      "options": [
+        "Chypre",
+        "Malte",
+        "Sicile",
+        "Crète"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le halloumi est fabriqué sur l'île de Chypre depuis des siècles, traditionnellement à partir d'un mélange de lait de chèvre et de brebis."
+    },
+    {
+      "category": "animaux",
+      "question": "Quelle structure biologique unique permet à la pieuvre de goûter et de toucher les objets de son environnement ?",
+      "options": [
+        "Écailles de la ligne latérale",
+        "Siphons",
+        "Tentacules munis de ventouses",
+        "Yeux composés"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Les ventouses d'une pieuvre sont tapissées de chimiorécepteurs, ce qui lui permet de goûter tout ce qu'elle touche."
+    },
+    {
+      "category": "sports",
+      "question": "Au tennis, quel terme utilise-t-on lorsqu'un joueur remporte un jeu sans que son adversaire ne marque le moindre point ?",
+      "options": [
+        "Ace",
+        "Égalité",
+        "Jeu blanc",
+        "Bagel"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Dans le jargon du tennis, le terme « love » (zéro) viendrait du mot français « l'œuf », en référence à la forme du zéro."
+    },
+    {
+      "category": "langue",
+      "question": "Quel terme linguistique désigne un mot qui se prononce de la même manière qu'un autre mais diffère par son sens, son origine ou son orthographe ?",
+      "options": [
+        "Homographe",
+        "Acronyme",
+        "Homophone",
+        "Synonyme"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Les homophones se prononcent de façon identique à l'oral, comme « vert », « ver » et « vers », malgré des sens bien distincts."
+    },
+    {
+      "category": "espace",
+      "question": "Quel satellite naturel de notre système solaire est volcaniquement actif et présente des panaches de soufre s'élevant à des centaines de kilomètres de haut ?",
+      "options": [
+        "Encelade",
+        "Europe",
+        "Titan",
+        "Io"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Io est l'astre le plus volcaniquement actif de tout le système solaire en raison de l'intense chauffage par effet de marée gravitationnelle exercé par Jupiter."
+    },
+    {
+      "category": "histoire",
+      "question": "Qui était le brillant mathématicien et cryptanalyste qui a dirigé l'équipe ayant décrypté la machine Enigma allemande à Bletchley Park pendant la Seconde Guerre mondiale ?",
+      "options": [
+        "Albert Einstein",
+        "J. Robert Oppenheimer",
+        "Alan Turing",
+        "Niels Bohr"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Les travaux pionniers d'Alan Turing en informatique théorique et en cryptanalyse ont largement contribué à sauver des millions de vies pendant la Seconde Guerre mondiale."
+    }
+  ]
+}

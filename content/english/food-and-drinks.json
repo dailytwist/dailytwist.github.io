@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-23",
+  "slug": "food-and-drinks",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "🍎",
+  "title": "Food and Drinks",
+  "summary": "Learn how to name common food and drinks in English. Practice ordering what you like to eat and drink.",
+  "sections": [
+    {
+      "h": "Talking About Food",
+      "p": "We eat food every day. When we talk about food we like, we use simple words. For breakfast, lunch, or dinner, we can eat fruit, bread, or rice. Let us learn the names of some very popular foods that people eat all over the world.",
+      "ex": [
+        {
+          "en": "I eat an apple every day.",
+          "mean": "Apples are a healthy fruit that I eat daily."
+        },
+        {
+          "en": "Do you like bread?",
+          "mean": "A question asking if bread is tasty to you."
+        }
+      ]
+    },
+    {
+      "h": "Talking About Drinks",
+      "p": "When you are thirsty, you need a drink. Water is the best drink for your body. Many people also drink tea or coffee in the morning, and cold juice when the weather is hot. Let us learn how to talk about these drinks.",
+      "ex": [
+        {
+          "en": "I want a glass of water, please.",
+          "mean": "A polite way to ask for water."
+        },
+        {
+          "en": "She drinks tea with breakfast.",
+          "mean": "Tea is her favorite morning drink."
+        }
+      ]
+    },
+    {
+      "h": "Saying What You Like",
+      "p": "It is easy to talk about what you want to eat or drink. You can say 'I like' for things you enjoy, or 'I want' when you are ordering food in a shop or restaurant. Polite words like 'please' are very important.",
+      "ex": [
+        {
+          "en": "I like bananas.",
+          "mean": "Bananas are a fruit that I enjoy eating."
+        },
+        {
+          "en": "Coffee, please.",
+          "mean": "A short and polite way to order coffee."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "apple",
+      "mean": "a round red or green fruit"
+    },
+    {
+      "en": "bread",
+      "mean": "baked food made from flour"
+    },
+    {
+      "en": "water",
+      "mean": "clear liquid we drink"
+    },
+    {
+      "en": "tea",
+      "mean": "a hot drink made with leaves"
+    },
+    {
+      "en": "coffee",
+      "mean": "a hot dark morning drink"
+    },
+    {
+      "en": "rice",
+      "mean": "small white or brown grains"
+    },
+    {
+      "en": "milk",
+      "mean": "white liquid from cows"
+    },
+    {
+      "en": "banana",
+      "mean": "a long sweet yellow fruit"
+    }
+  ],
+  "tip": "Look at the food in your kitchen and say their English names out loud. It helps you remember them fast!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word for the gap",
+      "en": "I drink a glass of ___ when I am thirsty.",
+      "choices": [
+        "water",
+        "bread",
+        "apple",
+        "rice"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word for the gap",
+      "en": "An ___ is a red or green fruit.",
+      "choices": [
+        "milk",
+        "apple",
+        "coffee",
+        "tea"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word for the gap",
+      "en": "She drinks hot ___ in the morning.",
+      "choices": [
+        "water",
+        "banana",
+        "coffee",
+        "bread"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word for the gap",
+      "en": "A ___ is a long yellow fruit.",
+      "choices": [
+        "banana",
+        "apple",
+        "rice",
+        "water"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word for the gap",
+      "en": "We eat white ___ with our dinner.",
+      "choices": [
+        "tea",
+        "milk",
+        "water",
+        "rice"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Choose the correct word for the gap",
+      "en": "Cats and babies like to drink ___.",
+      "choices": [
+        "bread",
+        "milk",
+        "apple",
+        "coffee"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

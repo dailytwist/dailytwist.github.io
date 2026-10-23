@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-23",
+  "slug": "telling-the-time",
+  "cefr": "A1",
+  "cat": "phrases",
+  "emoji": "⏰",
+  "title": "What Time Is It?",
+  "summary": "Learn how to ask for the time in English. You will also learn how to say the time easily.",
+  "sections": [
+    {
+      "h": "Asking for the Time",
+      "p": "When you want to know the time, you can ask a simple question. We usually use 'What time is it?' It is very polite and useful when you are outside, at work, or talking to friends. People will understand you everywhere.",
+      "ex": [
+        {
+          "en": "Excuse me, what time is it?",
+          "mean": "A polite way to ask for the time."
+        },
+        {
+          "en": "Do you have the time?",
+          "mean": "Another common way to ask for the time."
+        }
+      ]
+    },
+    {
+      "h": "Telling the Time: O'Clock",
+      "p": "When the long hand is at the top of the clock, it is an exact hour. We use the word 'o'clock'. For example, if the small hand is on seven and the big hand is on twelve, it is seven o'clock.",
+      "ex": [
+        {
+          "en": "It is three o'clock.",
+          "mean": "The time is exactly 3:00."
+        },
+        {
+          "en": "It is ten o'clock.",
+          "mean": "The time is exactly 10:00."
+        }
+      ]
+    },
+    {
+      "h": "Morning or Afternoon?",
+      "p": "A day has 24 hours, but the clock only shows numbers up to twelve. To be clear, we can add extra words. We use 'in the morning', 'in the afternoon', or 'at night' to tell the difference.",
+      "ex": [
+        {
+          "en": "It is eight o'clock in the morning.",
+          "mean": "Time to wake up and eat breakfast."
+        },
+        {
+          "en": "It is nine o'clock at night.",
+          "mean": "Time to go to sleep."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "What time is it?",
+      "mean": "Asking for the time"
+    },
+    {
+      "en": "O'clock",
+      "mean": "Exact hour"
+    },
+    {
+      "en": "Clock",
+      "mean": "Object that shows time"
+    },
+    {
+      "en": "Morning",
+      "mean": "Early part of the day"
+    },
+    {
+      "en": "Afternoon",
+      "mean": "Middle part of the day"
+    },
+    {
+      "en": "Night",
+      "mean": "Dark part of the day"
+    },
+    {
+      "en": "Hour",
+      "mean": "Sixty minutes"
+    }
+  ],
+  "tip": "Look at your watch or phone many times today and say the time out loud in English!",
+  "quiz": [
+    {
+      "ask": "Choose the correct question to ask the time.",
+      "en": "___, what time is it?",
+      "choices": [
+        "Excuse me",
+        "Hello you",
+        "Thank you"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Complete the sentence for 5:00.",
+      "en": "It is five ___.",
+      "choices": [
+        "time",
+        "o'clock",
+        "clock"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct time phrase for the sun coming up.",
+      "en": "It is seven o'clock in the ___.",
+      "choices": [
+        "night",
+        "afternoon",
+        "morning"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct verb.",
+      "en": "What time ___ it?",
+      "choices": [
+        "are",
+        "is",
+        "am"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct time phrase for sleeping time.",
+      "en": "It is ten o'clock at ___.",
+      "choices": [
+        "night",
+        "morning",
+        "afternoon"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose another way to ask for the time.",
+      "en": "Do you ___ the time?",
+      "choices": [
+        "make",
+        "see",
+        "have"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

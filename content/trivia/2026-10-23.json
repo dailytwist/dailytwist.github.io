@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-23",
+  "title": "Daily General Knowledge Quiz: October 23, 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Which country features the highest number of time zones within its national territory and dependencies?",
+      "options": [
+        "United Kingdom",
+        "France",
+        "United States",
+        "Russia"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Due to its numerous overseas departments and territories scattered across the globe, France officially spans 12 different time zones."
+    },
+    {
+      "category": "science",
+      "question": "What is the primary gas found in the atmosphere of Venus?",
+      "options": [
+        "Carbon Dioxide",
+        "Hydrogen",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Carbon dioxide makes up about 96.5% of Venus's dense atmosphere, creating a runaway greenhouse effect that makes it the hottest planet in the solar system."
+    },
+    {
+      "category": "history",
+      "question": "The Seven Years' War, often considered the first global conflict, took place primarily during which century?",
+      "options": [
+        "16th century",
+        "19th century",
+        "18th century",
+        "17th century"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Fought between 1756 and 1763, the Seven Years' War involved most of the major European powers of the time across multiple continents."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Which Alfred Hitchcock thriller is famous for pioneering the use of a suspenseful shower scene set to an iconic screeching violin score?",
+      "options": [
+        "Vertigo",
+        "North by Northwest",
+        "Psycho",
+        "Rear Window"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Released in 1960, Psycho fundamentally changed the conventions of horror and mainstream cinema."
+    },
+    {
+      "category": "food",
+      "question": "Halloumi cheese, traditionally grilled or fried without melting due to its high melting point, originally comes from which Mediterranean island nation?",
+      "options": [
+        "Cyprus",
+        "Malta",
+        "Sicily",
+        "Crete"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Halloumi has been made on the island of Cyprus for centuries, traditionally using a mixture of goat and sheep milk."
+    },
+    {
+      "category": "animals",
+      "question": "What unique biological structure is used by an octopus to taste and touch things in its environment?",
+      "options": [
+        "Lateral line scales",
+        "Siphons",
+        "Tentacles with suction cups",
+        "Compound eyes"
+      ],
+      "answer_index": 2,
+      "fun_fact": "An octopus's suction cups are lined with chemoreceptors, allowing it to taste everything it touches."
+    },
+    {
+      "category": "sports",
+      "question": "In the sport of tennis, what term is used when a player wins a game without the opponent winning a single point?",
+      "options": [
+        "Ace",
+        "Deuce",
+        "Love game",
+        "Bagel"
+      ],
+      "answer_index": 2,
+      "fun_fact": "In tennis scoring terminology, 'love' represents a score of zero, originating from the French word 'l'oeuf' meaning egg, symbolizing the shape of a zero."
+    },
+    {
+      "category": "language",
+      "question": "What linguistic term describes a word that is pronounced the same as another word but differs in meaning, origin, or spelling?",
+      "options": [
+        "Homograph",
+        "Acronym",
+        "Homophone",
+        "Synonym"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Homophones sound identical when spoken aloud, such as 'bare' and 'bear', despite having distinct meanings."
+    },
+    {
+      "category": "space",
+      "question": "Which planetary moon in our solar system is volcanically active and features plumes of sulfur rising hundreds of kilometers high?",
+      "options": [
+        "Enceladus",
+        "Europa",
+        "Titan",
+        "Io"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Io is the most volcanically active body in the entire solar system due to intense gravitational tidal heating from Jupiter."
+    },
+    {
+      "category": "history",
+      "question": "Who was the brilliant mathematician and codebreaker who led the team that decrypted the German Enigma machine at Bletchley Park during World War II?",
+      "options": [
+        "Albert Einstein",
+        "J. Robert Oppenheimer",
+        "Alan Turing",
+        "Niels Bohr"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Alan Turing's pioneering work in theoretical computer science and cryptanalysis is widely credited with saving millions of lives during World War II."
+    }
+  ]
+}

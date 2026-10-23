@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-23",
+  "slug": "prepositions-of-place",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "📦",
+  "title": "Where Is It? Prepositions of Place",
+  "summary": "Learn how to use simple words to say where things are. You will talk about everyday objects in your home.",
+  "sections": [
+    {
+      "h": "In, On, and Under",
+      "p": "We use 'in' when something is inside a space or a box. We use 'on' when something is touching the top surface of a table or a floor. We use 'under' when something is below another object, like the floor beneath a table. These are the most common words for everyday places.",
+      "ex": [
+        {
+          "en": "The pen is in the bag.",
+          "mean": "The pen is inside the bag."
+        },
+        {
+          "en": "The book is on the table.",
+          "mean": "The book is touching the top of the table."
+        },
+        {
+          "en": "The cat is under the chair.",
+          "mean": "The cat is beneath the chair."
+        }
+      ]
+    },
+    {
+      "h": "Next To and Between",
+      "p": "We use 'next to' when something is beside another thing with no space between them. We use 'between' when something is in the middle of two other things. Look around your room to practice these positions right now.",
+      "ex": [
+        {
+          "en": "The lamp is next to the bed.",
+          "mean": "The lamp is beside the bed."
+        },
+        {
+          "en": "The phone is between the cups.",
+          "mean": "The phone is in the middle of two cups."
+        }
+      ]
+    },
+    {
+      "h": "Behind",
+      "p": "We use 'behind' when something is at the back of another object. The object in front hides part of it. This helps you describe rooms where things are hidden or placed at the back.",
+      "ex": [
+        {
+          "en": "The shoes are behind the door.",
+          "mean": "The shoes are at the back of the door."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "in",
+      "mean": "inside"
+    },
+    {
+      "en": "on",
+      "mean": "on top of"
+    },
+    {
+      "en": "under",
+      "mean": "beneath"
+    },
+    {
+      "en": "next to",
+      "mean": "beside"
+    },
+    {
+      "en": "between",
+      "mean": "in the middle"
+    },
+    {
+      "en": "behind",
+      "mean": "at the back"
+    }
+  ],
+  "tip": "Look at your desk right now. Say out loud where three things are using 'in', 'on', or 'next to'.",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "The apple is ___ the bowl.",
+      "choices": [
+        "in",
+        "on",
+        "under"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "My keys are ___ the table.",
+      "choices": [
+        "in",
+        "on",
+        "behind"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "The rug is ___ the sofa.",
+      "choices": [
+        "in",
+        "between",
+        "under"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "The chair is ___ the desk.",
+      "choices": [
+        "next to",
+        "in",
+        "on"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "The table is ___ the two chairs.",
+      "choices": [
+        "next to",
+        "between",
+        "under"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "The dog is ___ the curtain.",
+      "choices": [
+        "on",
+        "next to",
+        "behind"
+      ],
+      "answer_index": 2
+    }
+  ]
+}
