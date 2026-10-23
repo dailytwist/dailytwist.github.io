@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-23",
+  "slug": "daily-routine",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "☀️",
+  "title": "Mi rutina matutina",
+  "summary": "Aprende a hablar sobre tus mañanas. Descubre tres acciones importantes de la rutina diaria.",
+  "sections": [
+    {
+      "h": "Despertarse",
+      "p": "Usamos la frase 'wake up' cuando dejamos de dormir por la mañana. Cuando abres los ojos y sales de la cama, te despiertas. Por lo general, esto es lo primero que hacemos todos los días antes de empezar nuestra ajetreada mañana.",
+      "ex": [
+        {
+          "en": "I wake up at seven o'clock.",
+          "mean": "Mis ojos se abren a las 7:00."
+        },
+        {
+          "en": "You wake up early on Mondays.",
+          "mean": "Dejas de dormir temprano al principio de la semana."
+        }
+      ]
+    },
+    {
+      "h": "Vestirse",
+      "p": "Después de salir de la cama, necesitas ponerte la ropa. Decimos 'get dressed' para esta acción. Te quitas el pijama y te pones una camisa, unos pantalones o un vestido para el nuevo día.",
+      "ex": [
+        {
+          "en": "I get dressed in my bedroom.",
+          "mean": "Me pongo la ropa en mi habitación."
+        },
+        {
+          "en": "She gets dressed quickly.",
+          "mean": "Ella se pone la ropa rápidamente."
+        }
+      ]
+    },
+    {
+      "h": "Desayunar",
+      "p": "Por la mañana, nuestro cuerpo necesita comida y energía. La primera comida del día es el desayuno. Usamos la frase 'have breakfast' para hablar de comer esta comida matutina.",
+      "ex": [
+        {
+          "en": "We have breakfast in the kitchen.",
+          "mean": "Comemos nuestra comida de la mañana juntos."
+        },
+        {
+          "en": "Do you have breakfast every day?",
+          "mean": "¿Tienes el hábito de comer por la mañana?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "wake up",
+      "mean": "dejar de dormir"
+    },
+    {
+      "en": "get dressed",
+      "mean": "ponerse ropa"
+    },
+    {
+      "en": "have breakfast",
+      "mean": "comer la comida matutina"
+    },
+    {
+      "en": "morning",
+      "mean": "primera parte del día"
+    },
+    {
+      "en": "bed",
+      "mean": "donde duermes"
+    },
+    {
+      "en": "clothes",
+      "mean": "lo que te pones"
+    },
+    {
+      "en": "food",
+      "mean": "lo que comes"
+    }
+  ],
+  "tip": "¡Diptongo o di en voz alta tu rutina matutina todos los días. Realiza la acción y di las palabras en inglés al mismo tiempo!",
+  "quiz": [
+    {
+      "ask": "Elige la acción correcta",
+      "en": "I open my eyes and stop sleeping. I ___ at seven o'clock.",
+      "choices": [
+        "get dressed",
+        "wake up",
+        "have breakfast"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la acción correcta",
+      "en": "Now I put on my shirt and pants. I ___.",
+      "choices": [
+        "get dressed",
+        "wake up",
+        "sleep"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la acción correcta",
+      "en": "I eat bread and drink coffee in the morning. I ___.",
+      "choices": [
+        "wake up",
+        "get dressed",
+        "have breakfast"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "Breakfast is the first ___ of the day.",
+      "choices": [
+        "sleep",
+        "meal",
+        "night"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la traducción correcta",
+      "en": "What does 'wake up' mean?",
+      "choices": [
+        "stop sleeping",
+        "eat food",
+        "wear clothes"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la pregunta correcta",
+      "en": "___ do you have breakfast?",
+      "choices": [
+        "Where",
+        "What time",
+        "Who"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

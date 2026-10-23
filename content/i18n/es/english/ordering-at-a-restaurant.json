@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-23",
+  "slug": "ordering-at-a-restaurant",
+  "cefr": "A1",
+  "cat": "phrases",
+  "emoji": "☕",
+  "title": "Pedir comida y bebidas",
+  "summary": "Aprende a pedir comida y bebidas en una cafetería en inglés. Practica palabras educadas para usar cuando hables con el camarero.",
+  "sections": [
+    {
+      "h": "Saludar y conseguir una mesa",
+      "p": "Cuando vas a una cafetería o restaurante, lo primero que debes hacer es saludar al personal y decir cuántas personas son. Puedes usar 'Hello' y 'I would like' para ser muy educado. Mantén tus frases cortas y sonríe. Esto le facilita al camarero ayudarte a encontrar un buen lugar para sentarte.",
+      "ex": [
+        {
+          "en": "Hello, a table for two, please.",
+          "mean": "Pedir una mesa para dos personas"
+        },
+        {
+          "en": "Hi, I would like a coffee, please.",
+          "mean": "Pedir una bebida amablemente"
+        }
+      ]
+    },
+    {
+      "h": "Pedir el menú y ordenar",
+      "p": "A continuación, querrás ver las opciones de comida y bebida. Puedes preguntar 'Can I have the menu, please?'. Cuando sepas lo que quieres, empieza tu pedido con 'Can I have' o 'I would like'. Recuerda decir siempre 'please' y 'thank you', ya que los buenos modales son muy importantes.",
+      "ex": [
+        {
+          "en": "Can I have the menu, please?",
+          "mean": "Pedir ver la lista de comida"
+        },
+        {
+          "en": "I would like a sandwich, please.",
+          "mean": "Decir al camarero tu elección de comida"
+        },
+        {
+          "en": "Can I have a glass of water?",
+          "mean": "Pedir agua para beber"
+        }
+      ]
+    },
+    {
+      "h": "Pedir la cuenta",
+      "p": "Cuando terminas de comer y beber, es hora de irse. Tienes que preguntar cuánto dinero debes pagar. Puedes mirar al camarero y pedir la cuenta. También puedes preguntar si aceptan tarjeta de crédito o si necesitas pagar en efectivo.",
+      "ex": [
+        {
+          "en": "Can I have the bill, please?",
+          "mean": "Pedir pagar por tu comida"
+        },
+        {
+          "en": "How much is it?",
+          "mean": "Preguntar el precio total"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "menu",
+      "mean": "lista de comida"
+    },
+    {
+      "en": "table",
+      "mean": "lugar para sentarse"
+    },
+    {
+      "en": "water",
+      "mean": "bebida fría"
+    },
+    {
+      "en": "coffee",
+      "mean": "bebida marrón caliente"
+    },
+    {
+      "en": "sandwich",
+      "mean": "pan con comida dentro"
+    },
+    {
+      "en": "bill",
+      "mean": "papel con el precio total"
+    },
+    {
+      "en": "please",
+      "mean": "palabra educada"
+    },
+    {
+      "en": "thank you",
+      "mean": "palabras para mostrar agradecimiento"
+    }
+  ],
+  "tip": "¡Empieza siempre tu pedido con 'Can I have' y termina con 'please'. Es una forma de hablar muy fácil y educada!",
+  "quiz": [
+    {
+      "ask": "Elige la frase educada correcta",
+      "en": "___ a table for one, please.",
+      "choices": [
+        "Hello",
+        "Goodbye",
+        "No"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta para la lista de comida",
+      "en": "Can I have the ___, please?",
+      "choices": [
+        "pen",
+        "menu",
+        "book"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la forma correcta de pedir una bebida",
+      "en": "I ___ like a tea, please.",
+      "choices": [
+        "am",
+        "do",
+        "would"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta cuando termines de comer",
+      "en": "Can I have the ___, please?",
+      "choices": [
+        "bill",
+        "chair",
+        "door"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra educada correcta",
+      "en": "A coffee, ___.",
+      "choices": [
+        "bad",
+        "please",
+        "wrong"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la pregunta para saber el precio",
+      "en": "___ much is it?",
+      "choices": [
+        "How",
+        "What",
+        "Where"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

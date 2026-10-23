@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-23",
+  "slug": "adjectives-basics",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "🎨",
+  "title": "Describiendo cosas: Adjetivos comunes",
+  "summary": "Aprende a usar adjetivos comunes para describir a personas y cosas. Descubre cuál es su lugar correcto en una oración.",
+  "sections": [
+    {
+      "h": "¿Qué es un adjetivo?",
+      "p": "Un adjetivo es una palabra que describe a un sustantivo. Un sustantivo es una persona, lugar o cosa. Los adjetivos nos dan más información. Por ejemplo, nos hablan del tamaño, el color o cómo se siente algo. Palabras como grande, rojo y feliz son adjetivos.",
+      "ex": [
+        {
+          "en": "The car is red.",
+          "mean": "The color of the car is red."
+        },
+        {
+          "en": "She is happy.",
+          "mean": "Her feeling is happy."
+        }
+      ]
+    },
+    {
+      "h": "¿Dónde se colocan los adjetivos?",
+      "p": "En inglés, los adjetivos normalmente van antes del sustantivo. Primero dices el color o el tamaño, y luego la cosa. Por ejemplo, decimos 'a big dog' (un perro grande), no 'a dog big'. Esta es una regla muy importante que debes recordar cuando hables inglés.",
+      "ex": [
+        {
+          "en": "I have a small cat.",
+          "mean": "My cat is small in size."
+        },
+        {
+          "en": "He wears a blue shirt.",
+          "mean": "The color of his shirt is blue."
+        }
+      ]
+    },
+    {
+      "h": "Adjetivos con el verbo 'To Be'",
+      "p": "También puedes colocar adjetivos después del verbo 'to be' (am, is, are). Cuando haces esto, el adjetivo describe al sujeto al principio de la oración. Esto es genial para hablar de cómo se ven las cosas, cómo se sienten o cómo están en este momento.",
+      "ex": [
+        {
+          "en": "The food is hot.",
+          "mean": "The temperature of the food is high."
+        },
+        {
+          "en": "They are tired.",
+          "mean": "Their physical state is tired."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "big",
+      "mean": "grande en tamaño"
+    },
+    {
+      "en": "small",
+      "mean": "pequeño en tamaño"
+    },
+    {
+      "en": "happy",
+      "mean": "sentirse bien"
+    },
+    {
+      "en": "sad",
+      "mean": "sentirse infeliz"
+    },
+    {
+      "en": "hot",
+      "mean": "temperatura alta"
+    },
+    {
+      "en": "cold",
+      "mean": "temperatura baja"
+    },
+    {
+      "en": "new",
+      "mean": "hecho recientemente"
+    }
+  ],
+  "tip": "¡Dibuja objetos y escribe su color y tamaño al lado! ¡Conectar palabras con imágenes reales ayuda a que tu cerebro las recuerde más rápido!",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "The sun is ___ today.",
+      "choices": [
+        "hot",
+        "tall",
+        "old"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "I have a ___ car. It is blue.",
+      "choices": [
+        "fast",
+        "big",
+        "sad"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la oración correcta",
+      "en": "Where do adjectives usually go?",
+      "choices": [
+        "After the noun",
+        "Before the noun",
+        "At the end of the sentence"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "She is a ___ student. She smiles a lot.",
+      "choices": [
+        "cold",
+        "happy",
+        "heavy"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "My coffee is very ___.",
+      "choices": [
+        "small",
+        "hot",
+        "sad"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la oración correcta",
+      "en": "Select the correct English sentence.",
+      "choices": [
+        "The house is big.",
+        "The big is house.",
+        "Is big the house."
+      ],
+      "answer_index": 0
+    }
+  ]
+}

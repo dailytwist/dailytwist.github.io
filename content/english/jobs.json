@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-23",
+  "slug": "jobs",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "💼",
+  "title": "Jobs and Work",
+  "summary": "Learn how to talk about your job in English. You will learn useful words for different jobs.",
+  "sections": [
+    {
+      "h": "Talking About Your Job",
+      "p": "When we talk about jobs in English, we use the verb 'to be' and the word 'a' or 'an'. Use 'a' before words starting with a consonant, and 'an' before vowels (a, e, i, o, u). This is a simple and polite way to tell people what you do every day.",
+      "ex": [
+        {
+          "en": "I am a teacher.",
+          "mean": "My job is teaching people."
+        },
+        {
+          "en": "She is an engineer.",
+          "mean": "Her job is building things."
+        },
+        {
+          "en": "He is a chef.",
+          "mean": "His job is cooking food."
+        }
+      ]
+    },
+    {
+      "h": "Asking About Jobs",
+      "p": "To ask someone about their job, we use a very common question. You can ask 'What do you do?' or 'What is your job?'. Both questions are very polite and easy to use when you meet new people at work or in social places.",
+      "ex": [
+        {
+          "en": "What do you do?",
+          "mean": "Tell me your job."
+        },
+        {
+          "en": "What is your job?",
+          "mean": "What work do you do?"
+        },
+        {
+          "en": "I am a student.",
+          "mean": "I study at a school or university."
+        }
+      ]
+    },
+    {
+      "h": "Where Do You Work?",
+      "p": "You can also tell people the place where you work. We use the word 'at' or 'in' before the name of the place. This gives more details about your job and helps people understand your daily routine.",
+      "ex": [
+        {
+          "en": "I work in an office.",
+          "mean": "My workplace is an office."
+        },
+        {
+          "en": "She works in a hospital.",
+          "mean": "Her workplace is a hospital."
+        },
+        {
+          "en": "He works from home.",
+          "mean": "His house is his workplace."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Teacher",
+      "mean": "person who teaches"
+    },
+    {
+      "en": "Doctor",
+      "mean": "person who helps sick people"
+    },
+    {
+      "en": "Chef",
+      "mean": "person who cooks food"
+    },
+    {
+      "en": "Engineer",
+      "mean": "person who builds things"
+    },
+    {
+      "en": "Student",
+      "mean": "person who learns"
+    },
+    {
+      "en": "Office",
+      "mean": "place with desks and computers"
+    },
+    {
+      "en": "Hospital",
+      "mean": "place for sick people"
+    },
+    {
+      "en": "Work",
+      "mean": "doing your job"
+    }
+  ],
+  "tip": "Always put 'a' or 'an' before a singular job title. For example, say 'I am a doctor', not 'I am doctor'.",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "I ___ a teacher.",
+      "choices": [
+        "is",
+        "am",
+        "are"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "She is ___ engineer.",
+      "choices": [
+        "a",
+        "an",
+        "the"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct question",
+      "en": "___ do you do?",
+      "choices": [
+        "What",
+        "Where",
+        "Who"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "He works ___ a hospital.",
+      "choices": [
+        "on",
+        "at",
+        "to"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct sentence",
+      "en": "Select the right job sentence.",
+      "choices": [
+        "I am doctor.",
+        "I am a doctor.",
+        "I a doctor am."
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "A chef works with ___.",
+      "choices": [
+        "food",
+        "computers",
+        "cars"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

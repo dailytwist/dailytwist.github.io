@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-23",
+  "slug": "asking-for-directions",
+  "cefr": "A1",
+  "cat": "phrases",
+  "emoji": "🗺️",
+  "title": "Pedir y dar indicaciones",
+  "summary": "En esta lección aprenderás a preguntar dónde están los lugares en una ciudad. También aprenderás a indicar el camino a los demás.",
+  "sections": [
+    {
+      "h": "Preguntar dónde están los lugares",
+      "p": "Cuando estás en una ciudad nueva y quieres encontrar un sitio, necesitas pedir ayuda. Una forma educada de empezar es diciendo 'Disculpa'. Después, puedes preguntar dónde se encuentra un lugar específico. Usamos el verbo 'está' para un solo lugar. Por ejemplo, puedes preguntar por un banco, un hotel o una estación. La gente estará encantada de ayudarte si eres educado.",
+      "ex": [
+        {
+          "en": "Excuse me, where is the train station?",
+          "mean": "Preguntar educadamente para encontrar la estación."
+        },
+        {
+          "en": "Excuse me, is there a bank near here?",
+          "mean": "Preguntar si un banco está cerca de tu ubicación."
+        },
+        {
+          "en": "Where is the supermarket, please?",
+          "mean": "Una forma sencilla de preguntar por la tienda."
+        }
+      ]
+    },
+    {
+      "h": "Dar indicaciones básicas",
+      "p": "Cuando alguien te pide ayuda, debes darle instrucciones claras. Puedes decirle que siga derecho, que gire a la izquierda o que gire a la derecha. Estas tres frases sencillas son muy importantes. También puedes usar palabras como 'al lado de' o 'enfrente de' para mostrar dónde está un edificio.",
+      "ex": [
+        {
+          "en": "Go straight.",
+          "mean": "Caminar hacia adelante sin girar."
+        },
+        {
+          "en": "Turn left at the corner.",
+          "mean": "Ir hacia el lado izquierdo."
+        },
+        {
+          "en": "Turn right.",
+          "mean": "Ir hacia el lado derecho."
+        }
+      ]
+    },
+    {
+      "h": "Lugares en la ciudad",
+      "p": "Para pedir indicaciones, necesitas saber los nombres de los lugares comunes en una ciudad. Una ciudad tiene muchos edificios y zonas útiles. Conocer estas palabras te ayuda a entender las respuestas que te da la gente. Por ejemplo, es posible que necesites un hospital, un parque o una cafetería.",
+      "ex": [
+        {
+          "en": "The hotel is next to the park.",
+          "mean": "El hotel y el parque están uno al lado del otro."
+        },
+        {
+          "en": "The cafe is opposite the museum.",
+          "mean": "La cafetería está al otro lado de la calle del museo."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Excuse me",
+      "mean": "forma educada de empezar a hablar con un desconocido"
+    },
+    {
+      "en": "Where is",
+      "mean": "preguntar por una ubicación"
+    },
+    {
+      "en": "Go straight",
+      "mean": "caminar hacia adelante"
+    },
+    {
+      "en": "Turn left",
+      "mean": "ir hacia el lado izquierdo"
+    },
+    {
+      "en": "Turn right",
+      "mean": "ir hacia el lado derecho"
+    },
+    {
+      "en": "Next to",
+      "mean": "al lado de algo"
+    },
+    {
+      "en": "Opposite",
+      "mean": "enfrente de algo"
+    },
+    {
+      "en": "Station",
+      "mean": "lugar para trenes o autobuses"
+    }
+  ],
+  "tip": "Usa tus manos cuando señales a la izquierda o a la derecha para ayudar a que la gente te entienda mejor. Empieza siempre con una sonrisa y un 'Disculpa'.",
+  "quiz": [
+    {
+      "ask": "Elige la frase correcta para empezar a hacer una pregunta.",
+      "en": "___ , where is the hotel?",
+      "choices": [
+        "Excuse me",
+        "Thank you",
+        "Goodbye"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la dirección correcta para caminar hacia adelante.",
+      "en": "Go ___ down this street.",
+      "choices": [
+        "left",
+        "straight",
+        "right"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta para cambiar de dirección hacia el lado con el que escribes.",
+      "en": "Turn ___ at the traffic lights.",
+      "choices": [
+        "straight",
+        "stop",
+        "right"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la preposición correcta cuando un lugar está cruzando la calle.",
+      "en": "The shop is ___ the park.",
+      "choices": [
+        "opposite",
+        "under",
+        "in"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige el verbo correcto para preguntar por un solo lugar.",
+      "en": "Where ___ the train station?",
+      "choices": [
+        "are",
+        "is",
+        "am"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la frase correcta cuando un lugar está al lado de otro.",
+      "en": "The bank is ___ the post office.",
+      "choices": [
+        "on",
+        "next to",
+        "over"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

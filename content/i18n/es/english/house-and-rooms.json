@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-23",
+  "slug": "house-and-rooms",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "🏠",
+  "title": "Habitaciones y muebles",
+  "summary": "Aprende los nombres de las diferentes habitaciones de una casa. También aprenderás palabras comunes sobre muebles.",
+  "sections": [
+    {
+      "h": "Habitaciones de una casa",
+      "p": "Una casa tiene diferentes habitaciones. Hacemos cosas distintas en cada una. Por ejemplo, dormimos en el dormitorio y cocinamos en la cocina. Aprender estas habitaciones te ayuda a hablar de tu hogar en inglés.",
+      "ex": [
+        {
+          "en": "This is my bedroom.",
+          "mean": "Aquí duermo."
+        },
+        {
+          "en": "The kitchen is big.",
+          "mean": "La habitación para cocinar es grande."
+        },
+        {
+          "en": "We watch TV in the living room.",
+          "mean": "Nos sentamos y vemos la televisión aquí."
+        }
+      ]
+    },
+    {
+      "h": "Muebles del dormitorio",
+      "p": "Cada habitación tiene muebles. Los muebles son las cosas que ponemos dentro de una estancia para que sea útil. En el dormitorio tenemos una cama para dormir y un armario para guardar nuestra ropa de forma segura y ordenada.",
+      "ex": [
+        {
+          "en": "My bed is soft.",
+          "mean": "Mi lugar para dormir se siente genial."
+        },
+        {
+          "en": "The clothes are in the wardrobe.",
+          "mean": "Mis camisas y pantalones están dentro del armario."
+        }
+      ]
+    },
+    {
+      "h": "Muebles de la sala de estar",
+      "p": "La sala de estar es un lugar para relajarse con la familia y los amigos. Solemos tener un sofá cómodo para sentarnos y una mesita para el café o los libros. Es un espacio muy acogedor.",
+      "ex": [
+        {
+          "en": "The sofa is red.",
+          "mean": "El asiento largo es rojo."
+        },
+        {
+          "en": "There is a table in the room.",
+          "mean": "Aquí hay un mueble con cuatro patas."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "bedroom",
+      "mean": "habitación para dormir"
+    },
+    {
+      "en": "kitchen",
+      "mean": "habitación para cocinar"
+    },
+    {
+      "en": "living room",
+      "mean": "habitación para relajarse"
+    },
+    {
+      "en": "bathroom",
+      "mean": "habitación para asearse"
+    },
+    {
+      "en": "bed",
+      "mean": "mueble para dormir"
+    },
+    {
+      "en": "sofa",
+      "mean": "asiento cómodo"
+    },
+    {
+      "en": "table",
+      "mean": "mueble plano con patas"
+    },
+    {
+      "en": "wardrobe",
+      "mean": "armario para la ropa"
+    }
+  ],
+  "tip": "Camina por tu casa y toca cada mueble. Di su nombre en inglés en voz alta tres veces.",
+  "quiz": [
+    {
+      "ask": "Elige la habitación correcta",
+      "en": "We cook food in the ___.",
+      "choices": [
+        "bedroom",
+        "kitchen",
+        "bathroom"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige el mueble correcto",
+      "en": "You sleep in a ___ at night.",
+      "choices": [
+        "bed",
+        "table",
+        "sofa"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la habitación correcta",
+      "en": "We watch television in the ___ room.",
+      "choices": [
+        "bed",
+        "living",
+        "bath"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige el mueble correcto",
+      "en": "Put your clothes in the ___.",
+      "choices": [
+        "table",
+        "lamp",
+        "wardrobe"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la habitación correcta",
+      "en": "You take a shower in the ___.",
+      "choices": [
+        "kitchen",
+        "bedroom",
+        "bathroom"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige el mueble correcto",
+      "en": "Sit on the comfortable ___ and watch TV.",
+      "choices": [
+        "sofa",
+        "bed",
+        "wardrobe"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

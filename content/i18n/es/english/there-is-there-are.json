@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-23",
+  "slug": "there-is-there-are",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "🏠",
+  "title": "There is y There Are",
+  "summary": "Aprende a hablar de las cosas que hay en una habitación o lugar. Usa estas palabras para indicar que algo está presente.",
+  "sections": [
+    {
+      "h": "¿Qué es 'There is'?",
+      "p": "Usamos 'there is' para una sola cosa. Esta es la forma singular. A menudo usamos 'a' o 'an' después. Por ejemplo, puedes hablar de una manzana en la mesa o de un gato en el jardín. Es muy fácil y muy útil para el día a día.",
+      "ex": [
+        {
+          "en": "There is a book on the table.",
+          "mean": "Hay un libro en la mesa."
+        },
+        {
+          "en": "There is an apple in the bag.",
+          "mean": "Hay una manzana en la bolsa."
+        }
+      ]
+    },
+    {
+      "h": "¿Qué es 'There are'?",
+      "p": "Usamos 'there are' para dos o más cosas. Esta es la forma plural. Añadimos una 's' al final del sustantivo. Por ejemplo, hablamos de dos gatos, tres libros o muchos amigos. Úsalo cuando veas más de un objeto.",
+      "ex": [
+        {
+          "en": "There are three books on the table.",
+          "mean": "Hay más de un libro en la mesa."
+        },
+        {
+          "en": "There are two cats in the garden.",
+          "mean": "Hay más de un gato afuera."
+        }
+      ]
+    },
+    {
+      "h": "Hacer preguntas",
+      "p": "Para preguntar si algo está ahí, cambiamos el orden de las palabras. Ponemos 'Is there' o 'Are there' al principio de la frase. Luego podemos responder con 'Yes, there is' o 'No, there are not'. Esto te ayuda a pedir información.",
+      "ex": [
+        {
+          "en": "Is there a pen?",
+          "mean": "Preguntando por un bolígrafo."
+        },
+        {
+          "en": "Are there any chairs?",
+          "mean": "Preguntando por más de una silla."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "there is",
+      "mean": "para una sola cosa"
+    },
+    {
+      "en": "there are",
+      "mean": "para dos o más cosas"
+    },
+    {
+      "en": "singular",
+      "mean": "solo uno"
+    },
+    {
+      "en": "plural",
+      "mean": "dos o más"
+    },
+    {
+      "en": "table",
+      "mean": "mueble para comer o trabajar"
+    },
+    {
+      "en": "apple",
+      "mean": "fruta redonda roja o verde"
+    },
+    {
+      "en": "chair",
+      "mean": "asiento para una persona"
+    }
+  ],
+  "tip": "Recuerda: 'is' es para una sola cosa (como una serpiente, larga como la letra i), ¡y 'are' es para muchas cosas!",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "___ a cat on the sofa.",
+      "choices": [
+        "There are",
+        "There is",
+        "Is there"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "___ three dogs in the park.",
+      "choices": [
+        "There are",
+        "There is",
+        "Is there"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "___ an apple in my bag?",
+      "choices": [
+        "There is",
+        "There are",
+        "Is there"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "___ five chairs in the kitchen.",
+      "choices": [
+        "There is",
+        "There are",
+        "Are there"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "___ a water bottle on the desk.",
+      "choices": [
+        "There is",
+        "There are",
+        "Are there"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "___ any students in the classroom?",
+      "choices": [
+        "There are",
+        "Is there",
+        "Are there"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

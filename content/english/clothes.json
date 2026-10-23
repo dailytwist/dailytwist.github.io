@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-23",
+  "slug": "clothes",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "👕",
+  "title": "What Are You Wearing?",
+  "summary": "Learn how to talk about everyday clothes. You will also learn how to use the verb wear.",
+  "sections": [
+    {
+      "h": "Basic Clothes",
+      "p": "We wear different clothes every day. When it is hot, we wear a t-shirt and shorts. When it is cold, we wear a jacket and trousers. Look at your clothes right now. What do you have on? Learning these words helps you talk about your daily outfit easily with friends.",
+      "ex": [
+        {
+          "en": "I wear a blue shirt to work.",
+          "mean": "My work clothes include a blue shirt."
+        },
+        {
+          "en": "She wears a red dress today.",
+          "mean": "Her outfit right now is a red dress."
+        },
+        {
+          "en": "He wears black shoes.",
+          "mean": "His shoes are the color black."
+        }
+      ]
+    },
+    {
+      "h": "Colors and Clothes",
+      "p": "We often use colors to describe clothes. We put the color word before the clothing word. For example, we say blue jeans or a white hat. This makes your English more interesting and helps people understand exactly what you are wearing.",
+      "ex": [
+        {
+          "en": "I have a yellow jacket.",
+          "mean": "My jacket is yellow."
+        },
+        {
+          "en": "He wears green trousers.",
+          "mean": "His trousers are green."
+        },
+        {
+          "en": "She likes her pink hat.",
+          "mean": "The hat is pink and she likes it."
+        }
+      ]
+    },
+    {
+      "h": "Talking About Today",
+      "p": "To talk about what you have on right now, use the verb wear. I wear, you wear, he wears, she wears. Remember to add an 's' for he and she! This is very useful when you go shopping or talk about the weather.",
+      "ex": [
+        {
+          "en": "What do you wear in summer?",
+          "mean": "Which clothes do you put on when the weather is hot?"
+        },
+        {
+          "en": "Today I wear a warm sweater.",
+          "mean": "Right now my outfit is a warm sweater."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "shirt",
+      "mean": "top clothes with buttons"
+    },
+    {
+      "en": "t-shirt",
+      "mean": "casual short-sleeve top"
+    },
+    {
+      "en": "trousers",
+      "mean": "pants for legs"
+    },
+    {
+      "en": "jeans",
+      "mean": "blue denim pants"
+    },
+    {
+      "en": "shoes",
+      "mean": "foot covering"
+    },
+    {
+      "en": "jacket",
+      "mean": "warm coat for upper body"
+    },
+    {
+      "en": "dress",
+      "mean": "one-piece outfit for women"
+    },
+    {
+      "en": "wear",
+      "mean": "have clothes on your body"
+    }
+  ],
+  "tip": "Look at your closet every morning and say the English names of your clothes out loud!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "I put on my ___ on my feet.",
+      "choices": [
+        "shoes",
+        "shirts",
+        "jackets"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct verb",
+      "en": "She ___ a nice red dress today.",
+      "choices": [
+        "wear",
+        "wears",
+        "wearing"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct clothing item",
+      "en": "When it is very cold outside, I wear a warm ___.",
+      "choices": [
+        "t-shirt",
+        "shorts",
+        "jacket"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "My blue ___ are comfortable for walking.",
+      "choices": [
+        "dress",
+        "jeans",
+        "hat"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct question",
+      "en": "___ do you wear in the summer?",
+      "choices": [
+        "What",
+        "Who",
+        "Where"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "He wears a white ___ with buttons to work.",
+      "choices": [
+        "shorts",
+        "shoes",
+        "shirt"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

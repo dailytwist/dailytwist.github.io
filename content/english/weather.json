@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-23",
+  "slug": "weather",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "☀️",
+  "title": "Talking About the Weather",
+  "summary": "Learn how to ask about the weather and talk about sunny, rainy, or cold days. This lesson helps you start easy conversations every day.",
+  "sections": [
+    {
+      "h": "How is the weather?",
+      "p": "When you want to know what the weather is like today, you can ask a simple question. We use 'It is' to talk about the weather. For example, when you look outside and see the sun, you can say 'It is sunny'. It is very easy and people use this every day to start a friendly chat.",
+      "ex": [
+        {
+          "en": "How is the weather today?",
+          "mean": "Asking what the weather is like now."
+        },
+        {
+          "en": "It is sunny today.",
+          "mean": "There is a lot of sun outside."
+        },
+        {
+          "en": "It is raining now.",
+          "mean": "Water is falling from the sky."
+        }
+      ]
+    },
+    {
+      "h": "Hot and Cold Weather",
+      "p": "The weather changes a lot. Sometimes it is very hot in the summer, and sometimes it is very cold in the winter. We use 'It is' with these words too. You can also talk about the wind when air moves fast around you.",
+      "ex": [
+        {
+          "en": "It is very hot today.",
+          "mean": "High temperature, like in summer."
+        },
+        {
+          "en": "It is cold outside.",
+          "mean": "Low temperature, wear a jacket."
+        },
+        {
+          "en": "It is windy today.",
+          "mean": "There is a strong wind blowing."
+        }
+      ]
+    },
+    {
+      "h": "Clouds and Snow",
+      "p": "When the sky is grey and covered, we say it is cloudy. In winter countries, water turns into white snow. You can look out your window and describe what you see using these simple words.",
+      "ex": [
+        {
+          "en": "It is cloudy today.",
+          "mean": "You cannot see the sun clearly."
+        },
+        {
+          "en": "It is snowing in winter.",
+          "mean": "White snow is falling."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "weather",
+      "mean": "sun, rain, and wind"
+    },
+    {
+      "en": "sunny",
+      "mean": "with bright sun"
+    },
+    {
+      "en": "raining",
+      "mean": "water falling from sky"
+    },
+    {
+      "en": "hot",
+      "mean": "high temperature"
+    },
+    {
+      "en": "cold",
+      "mean": "low temperature"
+    },
+    {
+      "en": "windy",
+      "mean": "moving air"
+    },
+    {
+      "en": "cloudy",
+      "mean": "grey sky"
+    },
+    {
+      "en": "snowing",
+      "mean": "white ice falling"
+    }
+  ],
+  "tip": "Look out your window every morning and say the weather in English. For example, say 'It is sunny' or 'It is raining'.",
+  "quiz": [
+    {
+      "ask": "Choose the correct question",
+      "en": "___ is the weather today?",
+      "choices": [
+        "How",
+        "What",
+        "Where",
+        "Who"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word for bright sun",
+      "en": "It is ___ today.",
+      "choices": [
+        "cold",
+        "rainy",
+        "sunny",
+        "snowing"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word for high temperature",
+      "en": "It is very ___ in summer.",
+      "choices": [
+        "hot",
+        "snowy",
+        "cold",
+        "cloudy"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word for water falling",
+      "en": "Take an umbrella because it is ___.",
+      "choices": [
+        "sunny",
+        "raining",
+        "hot",
+        "windy"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word for grey sky",
+      "en": "I cannot see the sun because it is ___.",
+      "choices": [
+        "cloudy",
+        "hot",
+        "sunny",
+        "raining"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word for winter ice",
+      "en": "Put on a warm coat because it is ___.",
+      "choices": [
+        "sunny",
+        "hot",
+        "cold",
+        "windy"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

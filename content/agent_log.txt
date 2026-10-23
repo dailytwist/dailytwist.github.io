@@ -1,238 +1,235 @@
-  10 trending topics after filtering
-- choosing articles from trends for 2026-10-23
+- compatibility sagittarius + cancer
 ::warning::Gemini models available: gemini-2.5-flash, gemini-2.5-pro, gemini-2.5-flash-preview-tts, gemini-2.5-pro-preview-tts, gemma-4-26b-a4b-it, gemma-4-31b-it, gemini-flash-latest, gemini-flash-lite-latest, gemini-pro-latest, gemini-2.5-flash-lite, gemini-2.5-flash-image, gemini-3-flash-preview, gemini-3.1-pro-preview, gemini-3.1-pro-preview-customtools, gemini-3.1-flash-lite-preview, gemini-3.1-flash-lite, gemini-3-pro-image-preview, gemini-3-pro-image, nano-banana-pro-preview, gemini-3.1-flash-image-preview, gemini-3.1-flash-image, gemini-3.1-flash-lite-image, gemini-nano-banana-2.1, gemini-3.5-flash, gemini-3.5-flash-lite, gemini-omni-flash-preview, gemini-omni-1.1-flash, gemini-3.5-transcribe, gemini-3.6-flash, gemini-3.7-flash, gemini-3.8-flash, gemini-4-argon, lyria-3-clip-preview, lyria-3-pro-preview, lyria-3.5, gemini-3.1-flash-tts-preview, gemini-3.8-flash-tts, gemini-3.8-flash-lite-tts, gemini-robotics-er-2-preview, gemini-2.5-computer-use-preview-10-2025
 ::warning::using Gemini model: gemini-3.5-flash-lite
-  saved content/articles/stefanos-tsitsipas-everything-you-need-to-know.json
-- compatibility sagittarius + taurus
-  saved content/pairs/sagittarius-taurus.json
-- compatibility sagittarius + virgo
-  saved content/pairs/sagittarius-virgo.json
-- compatibility sagittarius + capricorn
-  saved content/pairs/sagittarius-capricorn.json
-- compatibility sagittarius + gemini
-  saved content/pairs/sagittarius-gemini.json
-- compatibility sagittarius + libra
-  saved content/pairs/sagittarius-libra.json
-- compatibility sagittarius + aquarius
-  saved content/pairs/sagittarius-aquarius.json
-- dream fire
-  saved content/dreams/fire.json
-- dream money
-  saved content/dreams/money.json
-- dream gold
-  saved content/dreams/gold.json
-- dream exam
-  saved content/dreams/exam.json
-- dream being late
-  saved content/dreams/being-late.json
-- dream naked in public
-  saved content/dreams/naked-in-public.json
-- guide tarot the-hanged-man
-  saved content/guides/tarot-the-hanged-man.json
-- guide tarot death
-  saved content/guides/tarot-death.json
-- guide tarot temperance
-  saved content/guides/tarot-temperance.json
-- guide tarot the-devil
-  saved content/guides/tarot-the-devil.json
-- guide angel 1234
-  saved content/guides/angel-1234.json
-- guide angel 1010
-  saved content/guides/angel-1010.json
-- guide angel 1122
-  saved content/guides/angel-1122.json
-- guide angel 1221
-  saved content/guides/angel-1221.json
-- guide birthday january-19
-  saved content/guides/birthday-january-19.json
-- guide birthday january-20
-  saved content/guides/birthday-january-20.json
-- guide birthday january-21
-  saved content/guides/birthday-january-21.json
-- guide birthday january-22
-  saved content/guides/birthday-january-22.json
-- guide birthday january-23
-  saved content/guides/birthday-january-23.json
-- guide birthday january-24
-  saved content/guides/birthday-january-24.json
-- guide birthstone july
-  saved content/guides/birthstone-july.json
-- guide birthstone august
-  saved content/guides/birthstone-august.json
-- english ordering-at-a-restaurant
-  saved content/english/ordering-at-a-restaurant.json
-- english can-and-cant
-  saved content/english/can-and-cant.json
-- english adjectives-basics
-  saved content/english/adjectives-basics.json
-- english daily-routine
-  saved content/english/daily-routine.json
-- english house-and-rooms
-  saved content/english/house-and-rooms.json
-- name Elijah
-  saved content/names/elijah.json
-- name Rayan
-  saved content/names/rayan.json
-- name James
-  saved content/names/james.json
-- name Zakaria
-  saved content/names/zakaria.json
-- name Benjamin
-  saved content/names/benjamin.json
-- name Bilal
-  saved content/names/bilal.json
-- name Henry
-  saved content/names/henry.json
-- name Ibrahim
-  saved content/names/ibrahim.json
-  saved content/i18n/es/pairs/sagittarius-virgo.json
-  saved content/i18n/es/pairs/sagittarius-aquarius.json
-  saved content/i18n/es/pairs/sagittarius-gemini.json
-  saved content/i18n/es/pairs/sagittarius-capricorn.json
-  saved content/i18n/es/pairs/sagittarius-taurus.json
-  saved content/i18n/es/pairs/sagittarius-libra.json
-  saved content/i18n/es/dreams/dog.json
-  saved content/i18n/es/dreams/cat.json
-  saved content/i18n/es/dreams/fire.json
-  saved content/i18n/fr/pairs/sagittarius-virgo.json
-  saved content/i18n/fr/pairs/leo-pisces.json
-  saved content/i18n/fr/pairs/sagittarius-aquarius.json
-  saved content/i18n/fr/pairs/sagittarius-gemini.json
-  saved content/i18n/fr/pairs/leo-libra.json
-  saved content/i18n/fr/pairs/leo-aquarius.json
-  saved content/i18n/de/horoscopes/2026-10-23.json
-  saved content/i18n/de/trivia/2026-10-23.json
-  saved content/i18n/de/pairs/sagittarius-virgo.json
-  saved content/i18n/pt/horoscopes/2026-10-23.json
-  saved content/i18n/pt/trivia/2026-10-23.json
-  saved content/i18n/pt/pairs/sagittarius-virgo.json
-  saved content/i18n/pt/pairs/leo-scorpio.json
-  saved content/i18n/pt/pairs/sagittarius-sagittarius.json
-  saved content/i18n/pt/pairs/leo-pisces.json
-  saved content/i18n/it/horoscopes/2026-10-23.json
-  saved content/i18n/it/trivia/2026-10-23.json
-  saved content/i18n/it/pairs/sagittarius-virgo.json
-  saved content/i18n/ja/horoscopes/2026-10-23.json
-  saved content/i18n/ja/trivia/2026-10-23.json
-  saved content/i18n/ja/pairs/sagittarius-virgo.json
-  saved content/i18n/ar/horoscopes/2026-10-23.json
-  saved content/i18n/ar/trivia/2026-10-23.json
-  saved content/i18n/ar/pairs/sagittarius-virgo.json
-  saved content/i18n/es/dreams/money.json
-  saved content/i18n/es/dreams/exam.json
-  saved content/i18n/es/dreams/naked-in-public.json
-  saved content/i18n/es/dreams/being-late.json
-  saved content/i18n/es/dreams/house.json
-  saved content/i18n/es/dreams/spider.json
-  saved content/i18n/es/dreams/death.json
-  saved content/i18n/es/dreams/gold.json
-  saved content/i18n/es/guides/tarot-strength.json
-  saved content/i18n/fr/pairs/leo-cancer.json
-  saved content/i18n/fr/pairs/sagittarius-capricorn.json
-  saved content/i18n/fr/pairs/sagittarius-taurus.json
-  saved content/i18n/fr/pairs/sagittarius-libra.json
-  saved content/i18n/fr/dreams/car-crash.json
-  saved content/i18n/fr/dreams/dog.json
-  saved content/i18n/de/pairs/leo-scorpio.json
-  saved content/i18n/de/pairs/sagittarius-sagittarius.json
-  saved content/i18n/de/pairs/leo-pisces.json
-  saved content/i18n/pt/pairs/sagittarius-aquarius.json
-  saved content/i18n/pt/pairs/sagittarius-gemini.json
-  saved content/i18n/pt/pairs/leo-libra.json
-  saved content/i18n/pt/pairs/leo-aquarius.json
-  saved content/i18n/pt/pairs/leo-cancer.json
-  saved content/i18n/pt/pairs/sagittarius-capricorn.json
-  saved content/i18n/it/pairs/leo-scorpio.json
-  saved content/i18n/it/pairs/sagittarius-sagittarius.json
-  saved content/i18n/it/pairs/leo-pisces.json
-  saved content/i18n/ja/pairs/leo-scorpio.json
-  saved content/i18n/ja/pairs/sagittarius-sagittarius.json
-  saved content/i18n/ja/pairs/leo-pisces.json
-  saved content/i18n/ar/pairs/leo-scorpio.json
-  saved content/i18n/ar/pairs/sagittarius-sagittarius.json
-  saved content/i18n/ar/pairs/leo-pisces.json
-  saved content/i18n/es/guides/angel-1122.json
-  saved content/i18n/es/guides/angel-999.json
-  saved content/i18n/es/guides/birthday-january-14.json
-  saved content/i18n/es/guides/birthstone-may.json
-  saved content/i18n/es/guides/angel-1212.json
-  saved content/i18n/es/guides/birthday-january-23.json
-  saved content/i18n/es/guides/angel-1221.json
-  saved content/i18n/es/guides/tarot-justice.json
-  saved content/i18n/es/guides/angel-1111.json
-  saved content/i18n/fr/dreams/cat.json
-  saved content/i18n/fr/dreams/fire.json
-  saved content/i18n/fr/dreams/money.json
-  saved content/i18n/fr/dreams/exam.json
-  saved content/i18n/fr/dreams/naked-in-public.json
-  saved content/i18n/fr/dreams/being-late.json
-  saved content/i18n/de/pairs/sagittarius-aquarius.json
-  saved content/i18n/de/pairs/sagittarius-gemini.json
-  saved content/i18n/de/pairs/leo-libra.json
-  saved content/i18n/pt/pairs/sagittarius-taurus.json
-  saved content/i18n/pt/pairs/sagittarius-libra.json
-  saved content/i18n/pt/dreams/car-crash.json
-  saved content/i18n/pt/dreams/dog.json
-  saved content/i18n/pt/dreams/cat.json
-  saved content/i18n/pt/dreams/fire.json
-  saved content/i18n/it/pairs/sagittarius-aquarius.json
-  saved content/i18n/it/pairs/sagittarius-gemini.json
-  saved content/i18n/it/pairs/leo-libra.json
-  saved content/i18n/ja/pairs/sagittarius-aquarius.json
-  saved content/i18n/ja/pairs/sagittarius-gemini.json
-  saved content/i18n/ja/pairs/leo-libra.json
-  saved content/i18n/ar/pairs/sagittarius-aquarius.json
-  saved content/i18n/ar/pairs/sagittarius-gemini.json
-  saved content/i18n/ar/pairs/leo-libra.json
-  saved content/i18n/es/guides/tarot-the-hanged-man.json
-  saved content/i18n/es/guides/tarot-wheel-of-fortune.json
-  saved content/i18n/es/guides/birthday-january-20.json
-  saved content/i18n/es/guides/tarot-temperance.json
-  saved content/i18n/es/guides/birthday-january-15.json
-  saved content/i18n/es/guides/angel-000.json
-  saved content/i18n/es/guides/birthday-january-16.json
-  saved content/i18n/es/guides/tarot-the-hermit.json
-  saved content/i18n/es/guides/birthday-january-22.json
-  saved content/i18n/fr/dreams/house.json
-  saved content/i18n/fr/dreams/spider.json
-  saved content/i18n/fr/dreams/death.json
-  saved content/i18n/fr/dreams/gold.json
-  saved content/i18n/fr/guides/tarot-strength.json
-  saved content/i18n/fr/guides/angel-1122.json
-  saved content/i18n/de/pairs/leo-aquarius.json
-  saved content/i18n/de/pairs/leo-cancer.json
-  saved content/i18n/de/pairs/sagittarius-capricorn.json
-  saved content/i18n/pt/dreams/money.json
-  saved content/i18n/pt/dreams/exam.json
-  saved content/i18n/pt/dreams/naked-in-public.json
-  saved content/i18n/pt/dreams/being-late.json
-  saved content/i18n/pt/dreams/house.json
-  saved content/i18n/pt/dreams/spider.json
-  saved content/i18n/it/pairs/leo-aquarius.json
-  saved content/i18n/it/pairs/leo-cancer.json
-  saved content/i18n/it/pairs/sagittarius-capricorn.json
-  saved content/i18n/ja/pairs/leo-aquarius.json
-  saved content/i18n/ja/pairs/leo-cancer.json
-  saved content/i18n/ja/pairs/sagittarius-capricorn.json
-  saved content/i18n/ar/pairs/leo-aquarius.json
-  saved content/i18n/ar/pairs/leo-cancer.json
-  saved content/i18n/ar/pairs/sagittarius-capricorn.json
-  saved content/i18n/es/guides/birthday-january-13.json
-  saved content/i18n/es/guides/birthstone-july.json
-  saved content/i18n/es/guides/birthstone-august.json
-  saved content/i18n/es/guides/birthday-january-19.json
-  saved content/i18n/es/guides/angel-1010.json
-  saved content/i18n/es/guides/angel-1234.json
-  saved content/i18n/es/guides/birthday-january-18.json
-  saved content/i18n/es/guides/birthday-january-24.json
-  saved content/i18n/es/guides/birthday-january-21.json
-  saved content/i18n/fr/guides/angel-999.json
-  saved content/i18n/fr/guides/birthday-january-14.json
-  saved content/i18n/fr/guides/birthstone-may.json
-  saved content/i18n/fr/guides/angel-1212.json
-  saved content/i18n/fr/guides/birthday-january-23.json
-  saved content/i18n/fr/guides/angel-1221.json
-  saved content/i18n/de/pairs/sagittarius-taurus.json
-  saved content/i18n/de/pairs/sagittarius-libra.json
-  saved content/i18n/de/dreams/car-crash.json
+  saved content/pairs/sagittarius-cancer.json
+- compatibility sagittarius + scorpio
+  saved content/pairs/sagittarius-scorpio.json
+- compatibility sagittarius + pisces
+  saved content/pairs/sagittarius-pisces.json
+- compatibility taurus + taurus
+  saved content/pairs/taurus-taurus.json
+- compatibility taurus + virgo
+  saved content/pairs/taurus-virgo.json
+- compatibility taurus + capricorn
+  saved content/pairs/taurus-capricorn.json
+- dream school
+  saved content/dreams/school.json
+- dream hair loss
+  saved content/dreams/hair-loss.json
+- dream blood
+  saved content/dreams/blood.json
+- dream rain
+  saved content/dreams/rain.json
+- dream flood
+  saved content/dreams/flood.json
+- dream storm
+  saved content/dreams/storm.json
+- guide tarot the-tower
+  saved content/guides/tarot-the-tower.json
+- guide tarot the-star
+  saved content/guides/tarot-the-star.json
+- guide tarot the-moon
+  saved content/guides/tarot-the-moon.json
+- guide tarot the-sun
+  saved content/guides/tarot-the-sun.json
+- guide angel 1313
+  saved content/guides/angel-1313.json
+- guide angel 1414
+  saved content/guides/angel-1414.json
+- guide angel 1515
+  saved content/guides/angel-1515.json
+- guide angel 2222
+  saved content/guides/angel-2222.json
+- guide birthday january-25
+  saved content/guides/birthday-january-25.json
+- guide birthday january-26
+  saved content/guides/birthday-january-26.json
+- guide birthday january-27
+  saved content/guides/birthday-january-27.json
+- guide birthday january-28
+  saved content/guides/birthday-january-28.json
+- guide birthday january-29
+  saved content/guides/birthday-january-29.json
+- guide birthday january-30
+  saved content/guides/birthday-january-30.json
+- guide birthstone september
+  saved content/guides/birthstone-september.json
+- guide birthstone october
+  saved content/guides/birthstone-october.json
+- english clothes
+  saved content/english/clothes.json
+- english weather
+  saved content/english/weather.json
+- english jobs
+  saved content/english/jobs.json
+- english body-parts
+  saved content/english/body-parts.json
+- english asking-for-directions
+  saved content/english/asking-for-directions.json
+- name Alexander
+  saved content/names/alexander.json
+- name Khalid
+  saved content/names/khalid.json
+- name Sebastian
+  saved content/names/sebastian.json
+- name Hassan
+  saved content/names/hassan.json
+- name Daniel
+  saved content/names/daniel.json
+- name Hussein
+  saved content/names/hussein.json
+- name Samuel
+  saved content/names/samuel.json
+- name Mustafa
+  saved content/names/mustafa.json
+  saved content/i18n/es/pairs/taurus-capricorn.json
+  saved content/i18n/es/pairs/sagittarius-scorpio.json
+  saved content/i18n/es/pairs/taurus-virgo.json
+  saved content/i18n/es/pairs/sagittarius-cancer.json
+  saved content/i18n/es/pairs/taurus-taurus.json
+  saved content/i18n/es/pairs/sagittarius-pisces.json
+  saved content/i18n/es/dreams/hair-loss.json
+  saved content/i18n/es/dreams/school.json
+  saved content/i18n/es/dreams/rain.json
+  saved content/i18n/fr/pairs/taurus-capricorn.json
+  saved content/i18n/fr/pairs/sagittarius-scorpio.json
+  saved content/i18n/fr/pairs/taurus-virgo.json
+  saved content/i18n/fr/pairs/sagittarius-cancer.json
+  saved content/i18n/fr/pairs/taurus-taurus.json
+  saved content/i18n/fr/pairs/sagittarius-pisces.json
+  saved content/i18n/de/pairs/taurus-capricorn.json
+  saved content/i18n/de/pairs/sagittarius-scorpio.json
+  saved content/i18n/de/pairs/taurus-virgo.json
+  saved content/i18n/pt/pairs/taurus-capricorn.json
+  saved content/i18n/pt/pairs/sagittarius-scorpio.json
+  saved content/i18n/pt/pairs/taurus-virgo.json
+  saved content/i18n/pt/pairs/sagittarius-cancer.json
+  saved content/i18n/pt/pairs/taurus-taurus.json
+  saved content/i18n/pt/pairs/sagittarius-pisces.json
+  saved content/i18n/it/pairs/taurus-capricorn.json
+  saved content/i18n/it/pairs/sagittarius-scorpio.json
+  saved content/i18n/it/pairs/taurus-virgo.json
+  saved content/i18n/ja/pairs/taurus-capricorn.json
+  saved content/i18n/ja/pairs/sagittarius-scorpio.json
+  saved content/i18n/ja/pairs/taurus-virgo.json
+  saved content/i18n/ar/pairs/taurus-capricorn.json
+  saved content/i18n/ar/pairs/sagittarius-scorpio.json
+  saved content/i18n/ar/pairs/taurus-virgo.json
+  saved content/i18n/es/dreams/flood.json
+  saved content/i18n/es/dreams/storm.json
+  saved content/i18n/es/dreams/blood.json
+  saved content/i18n/es/guides/birthday-january-29.json
+  saved content/i18n/es/guides/birthstone-september.json
+  saved content/i18n/es/guides/angel-1515.json
+  saved content/i18n/es/guides/birthstone-october.json
+  saved content/i18n/es/guides/tarot-the-sun.json
+  saved content/i18n/es/guides/angel-1414.json
+  saved content/i18n/fr/dreams/hair-loss.json
+  saved content/i18n/fr/dreams/school.json
+  saved content/i18n/fr/dreams/rain.json
+  saved content/i18n/fr/dreams/flood.json
+  saved content/i18n/fr/dreams/storm.json
+  saved content/i18n/fr/dreams/blood.json
+  saved content/i18n/de/pairs/sagittarius-cancer.json
+  saved content/i18n/de/pairs/taurus-taurus.json
+  saved content/i18n/de/pairs/sagittarius-pisces.json
+  saved content/i18n/pt/dreams/hair-loss.json
+  saved content/i18n/pt/dreams/school.json
+  saved content/i18n/pt/dreams/rain.json
+  saved content/i18n/pt/dreams/flood.json
+  saved content/i18n/pt/dreams/storm.json
+  saved content/i18n/pt/dreams/blood.json
+  saved content/i18n/it/pairs/sagittarius-cancer.json
+  saved content/i18n/it/pairs/taurus-taurus.json
+  saved content/i18n/it/pairs/sagittarius-taurus.json
+  saved content/i18n/ja/pairs/sagittarius-cancer.json
+  saved content/i18n/ja/pairs/taurus-taurus.json
+  saved content/i18n/ja/pairs/sagittarius-taurus.json
+  saved content/i18n/ar/pairs/sagittarius-cancer.json
+  saved content/i18n/ar/pairs/taurus-taurus.json
+  saved content/i18n/ar/pairs/sagittarius-taurus.json
+  saved content/i18n/es/guides/birthday-january-27.json
+  saved content/i18n/es/guides/birthday-january-28.json
+  saved content/i18n/es/guides/angel-1313.json
+  saved content/i18n/es/guides/tarot-the-tower.json
+  saved content/i18n/es/guides/angel-2222.json
+  saved content/i18n/es/guides/tarot-the-star.json
+  saved content/i18n/es/guides/tarot-the-moon.json
+  saved content/i18n/es/guides/birthday-january-25.json
+  saved content/i18n/es/guides/birthstone-june.json
+  saved content/i18n/fr/guides/birthday-january-29.json
+  saved content/i18n/fr/guides/birthstone-september.json
+  saved content/i18n/fr/guides/angel-1515.json
+  saved content/i18n/fr/guides/tarot-justice.json
+  saved content/i18n/fr/guides/birthstone-october.json
+  saved content/i18n/fr/guides/angel-1111.json
+  saved content/i18n/de/dreams/dog.json
+  saved content/i18n/de/dreams/hair-loss.json
+  saved content/i18n/de/dreams/cat.json
+  saved content/i18n/pt/dreams/death.json
+  saved content/i18n/pt/dreams/gold.json
+  saved content/i18n/pt/guides/tarot-strength.json
+  saved content/i18n/pt/guides/angel-1122.json
+  saved content/i18n/pt/guides/angel-999.json
+  saved content/i18n/pt/guides/birthday-january-29.json
+  saved content/i18n/it/pairs/sagittarius-libra.json
+  saved content/i18n/it/pairs/sagittarius-pisces.json
+  saved content/i18n/it/dreams/car-crash.json
+  saved content/i18n/ja/pairs/sagittarius-libra.json
+  saved content/i18n/ja/pairs/sagittarius-pisces.json
+  saved content/i18n/ja/dreams/car-crash.json
+  saved content/i18n/ar/pairs/sagittarius-libra.json
+  saved content/i18n/ar/pairs/sagittarius-pisces.json
+  saved content/i18n/ar/dreams/car-crash.json
+  saved content/i18n/es/guides/birthday-january-17.json
+  saved content/i18n/es/guides/birthday-january-30.json
+  saved content/i18n/es/guides/tarot-the-devil.json
+  saved content/i18n/es/guides/birthday-january-26.json
+  saved content/i18n/es/guides/tarot-death.json
+  saved content/i18n/es/english/body-parts.json
+  saved content/i18n/es/english/there-is-there-are.json
+  saved content/i18n/es/english/telling-the-time.json
+  saved content/i18n/es/english/jobs.json
+  saved content/i18n/fr/guides/tarot-the-hanged-man.json
+  saved content/i18n/fr/guides/tarot-wheel-of-fortune.json
+  saved content/i18n/fr/guides/tarot-the-sun.json
+  saved content/i18n/fr/guides/birthday-january-20.json
+  saved content/i18n/fr/guides/tarot-temperance.json
+  saved content/i18n/fr/guides/angel-1414.json
+  saved content/i18n/de/dreams/fire.json
+  saved content/i18n/de/dreams/money.json
+  saved content/i18n/de/dreams/exam.json
+  saved content/i18n/pt/guides/birthday-january-14.json
+  saved content/i18n/pt/guides/birthstone-may.json
+  saved content/i18n/pt/guides/angel-1212.json
+  saved content/i18n/pt/guides/birthday-january-23.json
+  saved content/i18n/pt/guides/birthstone-september.json
+  saved content/i18n/pt/guides/angel-1221.json
+  saved content/i18n/it/dreams/dog.json
+  saved content/i18n/it/dreams/hair-loss.json
+  saved content/i18n/it/dreams/cat.json
+  saved content/i18n/ja/dreams/dog.json
+  saved content/i18n/ja/dreams/hair-loss.json
+  saved content/i18n/ja/dreams/cat.json
+  saved content/i18n/ar/dreams/dog.json
+  saved content/i18n/ar/dreams/hair-loss.json
+  saved content/i18n/ar/dreams/cat.json
+  saved content/i18n/es/english/can-and-cant.json
+  saved content/i18n/es/english/adjectives-basics.json
+  saved content/i18n/es/english/present-simple-questions.json
+  saved content/i18n/es/english/ordering-at-a-restaurant.json
+  saved content/i18n/es/english/asking-for-directions.json
+  saved content/i18n/es/english/weather.json
+  saved content/i18n/es/english/clothes.json
+  saved content/i18n/es/english/daily-routine.json
+  saved content/i18n/es/english/house-and-rooms.json
+  saved content/i18n/fr/guides/birthday-january-27.json
+  saved content/i18n/fr/guides/birthday-january-15.json
+  saved content/i18n/fr/guides/angel-000.json
+  saved content/i18n/fr/guides/birthday-january-28.json
+  saved content/i18n/fr/guides/birthday-january-16.json
+  saved content/i18n/fr/guides/tarot-the-hermit.json
+  saved content/i18n/de/dreams/naked-in-public.json
+  saved content/i18n/de/dreams/school.json
+  saved content/i18n/de/dreams/being-late.json
 Agent finished.

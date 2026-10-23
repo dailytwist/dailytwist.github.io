@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-23",
+  "slug": "present-simple-questions",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "❓",
+  "title": "Cómo hacer preguntas y negaciones",
+  "summary": "Aprende a hacer preguntas y oraciones negativas con do y does. Podrás hablar sobre tus hábitos diarios y rutinas.",
+  "sections": [
+    {
+      "h": "Cómo hacer negaciones con do not y does not",
+      "p": "Cuando quieras decir que no en presente simple, usa do not o does not antes de la acción. Usa do not (don't) con I, you, we y they. Usa does not (doesn't) con he, she e it. Recuerda que la acción principal se queda en su forma simple, sin añadir ninguna 's' al final.",
+      "ex": [
+        {
+          "en": "I don't drink coffee in the morning.",
+          "mean": "Decir que no sobre ti mismo"
+        },
+        {
+          "en": "She doesn't work on Sundays.",
+          "mean": "Decir que no sobre otra persona"
+        },
+        {
+          "en": "We don't live in a big city.",
+          "mean": "Decir que no sobre un grupo"
+        }
+      ]
+    },
+    {
+      "h": "Cómo hacer preguntas con do",
+      "p": "Para hacer una pregunta sobre hábitos, pon Do al principio de todo. Usa Do con I, you, we y they. Luego añade el sujeto y la acción. Mantén la respuesta breve y sencilla con un sí o un no.",
+      "ex": [
+        {
+          "en": "Do you speak English?",
+          "mean": "Preguntarle a otra persona"
+        },
+        {
+          "en": "Do they like pizza?",
+          "mean": "Preguntar sobre un grupo"
+        },
+        {
+          "en": "Do we have time?",
+          "mean": "Preguntar sobre un plan compartido"
+        }
+      ]
+    },
+    {
+      "h": "Cómo hacer preguntas con does",
+      "p": "Usa Does cuando hagas preguntas sobre he, she o it. Pon Does al inicio de la oración. Al igual que en las negaciones, la acción principal no necesita una 's' porque la palabra does ya indica que se trata de he, she o it.",
+      "ex": [
+        {
+          "en": "Does he play football?",
+          "mean": "Preguntar sobre un chico"
+        },
+        {
+          "en": "Does she like cats?",
+          "mean": "Preguntar sobre una chica"
+        },
+        {
+          "en": "Does it rain a lot here?",
+          "mean": "Preguntar sobre el tiempo"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Do",
+      "mean": "palabra de pregunta para I, you, we, they"
+    },
+    {
+      "en": "Does",
+      "mean": "palabra de pregunta para he, she, it"
+    },
+    {
+      "en": "Don't",
+      "mean": "do not"
+    },
+    {
+      "en": "Doesn't",
+      "mean": "does not"
+    },
+    {
+      "en": "Question",
+      "mean": "oración que pide información"
+    },
+    {
+      "en": "Negative",
+      "mean": "decir que no"
+    },
+    {
+      "en": "Habit",
+      "mean": "acción de rutina"
+    }
+  ],
+  "tip": "¡Recuerda la regla auxiliar: a 'He, she, it' siempre le gusta la letra 's'! ¡Así que usa Does y Doesn't con ellos!",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "___ you like music?",
+      "choices": [
+        "Does",
+        "Do",
+        "Is"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "She ___ like tea.",
+      "choices": [
+        "don't",
+        "doesn't",
+        "isn't"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "___ he work on Mondays?",
+      "choices": [
+        "Do",
+        "Are",
+        "Does"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "We ___ eat meat.",
+      "choices": [
+        "doesn't",
+        "don't",
+        "aren't"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "___ they play tennis?",
+      "choices": [
+        "Do",
+        "Does",
+        "Are"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "He ___ live in London.",
+      "choices": [
+        "don't",
+        "doesn't",
+        "not"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

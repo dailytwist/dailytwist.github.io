@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-23",
+  "slug": "body-parts",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "👤",
+  "title": "Partes del cuerpo",
+  "summary": "Aprende palabras básicas sobre las partes del cuerpo humano. Podrás hablar de tu cara, brazos y piernas.",
+  "sections": [
+    {
+      "h": "La cabeza y la cara",
+      "p": "¡Empecemos desde arriba! Tienes una cabeza. En tu cara tienes dos ojos para ver y una nariz para oler. También tienes una boca para hablar y comer. Usamos estas palabras todos los días cuando hablamos de cómo nos vemos o nos sentimos.",
+      "ex": [
+        {
+          "en": "I have two blue eyes.",
+          "mean": "El color de mis dos ojos es azul."
+        },
+        {
+          "en": "Open your mouth, please.",
+          "mean": "Por favor, enseña el interior de tu boca."
+        },
+        {
+          "en": "My head hurts today.",
+          "mean": "Tengo dolor en la cabeza."
+        }
+      ]
+    },
+    {
+      "h": "Brazos y manos",
+      "p": "A continuación, veamos la parte media del cuerpo. Tienes dos brazos. Al final de cada brazo tienes una mano. En tus manos tienes dedos. ¡Usas tus manos y dedos para escribir, sostener cosas y decir hola!",
+      "ex": [
+        {
+          "en": "Wash your hands before you eat.",
+          "mean": "Lávate las manos con agua y jabón."
+        },
+        {
+          "en": "She has a ring on her finger.",
+          "mean": "Hay un anillo alrededor de uno de sus dedos."
+        }
+      ]
+    },
+    {
+      "h": "Piernas y pies",
+      "p": "Por último, tenemos las piernas y los pies. Tienes dos piernas para estar de pie, caminar y correr. En la parte inferior de cada pierna tienes un pie. Cuando tienes dos, los llamamos pies. Te pones zapatos en los pies.",
+      "ex": [
+        {
+          "en": "My legs are tired from walking.",
+          "mean": "Caminé mucho, así que mis piernas necesitan descansar."
+        },
+        {
+          "en": "Put your shoes on your feet.",
+          "mean": "Cubre tus pies con zapatos."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "head",
+      "mean": "parte superior del cuerpo"
+    },
+    {
+      "en": "eye",
+      "mean": "órgano para ver"
+    },
+    {
+      "en": "nose",
+      "mean": "órgano para oler"
+    },
+    {
+      "en": "mouth",
+      "mean": "se usa para comer y hablar"
+    },
+    {
+      "en": "arm",
+      "mean": "extremidad superior del cuerpo"
+    },
+    {
+      "en": "hand",
+      "mean": "al final del brazo"
+    },
+    {
+      "en": "finger",
+      "mean": "dígito de la mano"
+    },
+    {
+      "en": "leg",
+      "mean": "extremidad inferior del cuerpo"
+    },
+    {
+      "en": "foot",
+      "mean": "se usa para estar de pie"
+    },
+    {
+      "en": "feet",
+      "mean": "plural de pie"
+    }
+  ],
+  "tip": "¡Señala las partes de tu cuerpo mientras dices las palabras en inglés en voz alta! ¡Mover el cuerpo ayuda a tu cerebro a recordar nuevas palabras más rápido!",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta para ver.",
+      "en": "I look at the picture with my ___.",
+      "choices": [
+        "ears",
+        "eyes",
+        "nose"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta para el plural de pie.",
+      "en": "I wear shoes on my two ___.",
+      "choices": [
+        "feet",
+        "foots",
+        "hands"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la parte del cuerpo correcta.",
+      "en": "I write my name with a pen in my ___.",
+      "choices": [
+        "head",
+        "leg",
+        "hand"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta para oler comida.",
+      "en": "I smell the nice soup with my ___.",
+      "choices": [
+        "mouth",
+        "eye",
+        "nose"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la parte del cuerpo correcta.",
+      "en": "I wear a hat on my ___.",
+      "choices": [
+        "head",
+        "foot",
+        "arm"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la parte del cuerpo correcta para caminar.",
+      "en": "I use my two ___ to walk to the store.",
+      "choices": [
+        "ears",
+        "legs",
+        "eyes"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

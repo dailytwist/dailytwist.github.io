@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-23",
+  "slug": "asking-for-directions",
+  "cefr": "A1",
+  "cat": "phrases",
+  "emoji": "🗺️",
+  "title": "Asking for and Giving Directions",
+  "summary": "In this lesson, you will learn how to ask where places are in a city. You will also learn how to tell people the way.",
+  "sections": [
+    {
+      "h": "Asking Where Places Are",
+      "p": "When you are in a new city and want to find a place, you need to ask for help. A polite way to start is by saying 'Excuse me'. Then, you can ask where a specific place is. We use the verb 'is' for one place. For example, you can ask about a bank, a hotel, or a station. People will be happy to help you if you are polite.",
+      "ex": [
+        {
+          "en": "Excuse me, where is the train station?",
+          "mean": "Asking politely to find the station."
+        },
+        {
+          "en": "Excuse me, is there a bank near here?",
+          "mean": "Asking if a bank is close to your location."
+        },
+        {
+          "en": "Where is the supermarket, please?",
+          "mean": "A simple way to ask for the shop."
+        }
+      ]
+    },
+    {
+      "h": "Giving Basic Directions",
+      "p": "When someone asks you for help, you need to give them clear instructions. You can tell them to go straight, turn left, or turn right. These three simple phrases are very important. You can also use words like 'next to' or 'opposite' to show where a building is.",
+      "ex": [
+        {
+          "en": "Go straight.",
+          "mean": "Walk forward without turning."
+        },
+        {
+          "en": "Turn left at the corner.",
+          "mean": "Go to the left side."
+        },
+        {
+          "en": "Turn right.",
+          "mean": "Go to the right side."
+        }
+      ]
+    },
+    {
+      "h": "Places in the City",
+      "p": "To ask for directions, you need to know the names of common places in a city. A city has many useful buildings and areas. Knowing these words helps you understand the answers people give you. For example, you might need a hospital, a park, or a cafe.",
+      "ex": [
+        {
+          "en": "The hotel is next to the park.",
+          "mean": "The hotel and park are side by side."
+        },
+        {
+          "en": "The cafe is opposite the museum.",
+          "mean": "The cafe is on the other side of the street from the museum."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Excuse me",
+      "mean": "polite way to start talking to a stranger"
+    },
+    {
+      "en": "Where is",
+      "mean": "asking for a location"
+    },
+    {
+      "en": "Go straight",
+      "mean": "walk forward"
+    },
+    {
+      "en": "Turn left",
+      "mean": "go to the left side"
+    },
+    {
+      "en": "Turn right",
+      "mean": "go to the right side"
+    },
+    {
+      "en": "Next to",
+      "mean": "beside something"
+    },
+    {
+      "en": "Opposite",
+      "mean": "across from something"
+    },
+    {
+      "en": "Station",
+      "mean": "place for trains or buses"
+    }
+  ],
+  "tip": "Use your hands when you point left or right to help people understand you better. Always start with a smile and 'Excuse me'.",
+  "quiz": [
+    {
+      "ask": "Choose the correct phrase to start asking a question.",
+      "en": "___ , where is the hotel?",
+      "choices": [
+        "Excuse me",
+        "Thank you",
+        "Goodbye"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct direction for walking forward.",
+      "en": "Go ___ down this street.",
+      "choices": [
+        "left",
+        "straight",
+        "right"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word for changing direction to the side of your writing hand.",
+      "en": "Turn ___ at the traffic lights.",
+      "choices": [
+        "straight",
+        "stop",
+        "right"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct preposition when a place is across the street.",
+      "en": "The shop is ___ the park.",
+      "choices": [
+        "opposite",
+        "under",
+        "in"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct verb to ask about one place.",
+      "en": "Where ___ the train station?",
+      "choices": [
+        "are",
+        "is",
+        "am"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct phrase when a place is beside another.",
+      "en": "The bank is ___ the post office.",
+      "choices": [
+        "on",
+        "next to",
+        "over"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

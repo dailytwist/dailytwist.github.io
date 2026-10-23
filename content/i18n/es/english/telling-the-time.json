@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-23",
+  "slug": "telling-the-time",
+  "cefr": "A1",
+  "cat": "phrases",
+  "emoji": "⏰",
+  "title": "¿Qué hora es?",
+  "summary": "Aprende a preguntar la hora en inglés. También aprenderás a decir la hora fácilmente.",
+  "sections": [
+    {
+      "h": "Preguntar la hora",
+      "p": "Cuando quieras saber qué hora es, puedes hacer una pregunta sencilla. Solemos usar 'What time is it?'. Es muy educada y útil cuando estás en la calle, en el trabajo o hablando con amigos. La gente te entenderá en todas partes.",
+      "ex": [
+        {
+          "en": "Excuse me, what time is it?",
+          "mean": "Una forma educada de preguntar la hora."
+        },
+        {
+          "en": "Do you have the time?",
+          "mean": "Otra forma común de preguntar la hora."
+        }
+      ]
+    },
+    {
+      "h": "Decir la hora: En punto",
+      "p": "Cuando la aguja larga está arriba del todo en el reloj, es una hora exacta. Usamos la palabra 'o'clock'. Por ejemplo, si la aguja pequeña está en el siete y la grande en el doce, son las siete en punto.",
+      "ex": [
+        {
+          "en": "It is three o'clock.",
+          "mean": "Son las 3:00 en punto."
+        },
+        {
+          "en": "It is ten o'clock.",
+          "mean": "Son las 10:00 en punto."
+        }
+      ]
+    },
+    {
+      "h": "¿Mañana o tarde?",
+      "p": "Un día tiene 24 horas, pero el reloj solo muestra números hasta el doce. Para que quede claro, podemos añadir palabras adicionales. Usamos 'in the morning', 'in the afternoon' o 'at night' para diferenciarlo.",
+      "ex": [
+        {
+          "en": "It is eight o'clock in the morning.",
+          "mean": "Es hora de despertarse y desayunar."
+        },
+        {
+          "en": "It is nine o'clock at night.",
+          "mean": "Es hora de ir a dormir."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "What time is it?",
+      "mean": "Preguntar la hora"
+    },
+    {
+      "en": "O'clock",
+      "mean": "Hora exacta"
+    },
+    {
+      "en": "Clock",
+      "mean": "Objeto que muestra la hora"
+    },
+    {
+      "en": "Morning",
+      "mean": "Primera parte del día"
+    },
+    {
+      "en": "Afternoon",
+      "mean": "Parte central del día"
+    },
+    {
+      "en": "Night",
+      "mean": "Parte oscura del día"
+    },
+    {
+      "en": "Hour",
+      "mean": "Sesenta minutos"
+    }
+  ],
+  "tip": "¡Mira tu reloj o teléfono muchas veces hoy y di la hora en voz alta en inglés!",
+  "quiz": [
+    {
+      "ask": "Elige la pregunta correcta para saber la hora.",
+      "en": "___, what time is it?",
+      "choices": [
+        "Excuse me",
+        "Hello you",
+        "Thank you"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Completa la frase para las 5:00.",
+      "en": "It is five ___.",
+      "choices": [
+        "time",
+        "o'clock",
+        "clock"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la expresión de tiempo correcta para cuando sale el sol.",
+      "en": "It is seven o'clock in the ___.",
+      "choices": [
+        "night",
+        "afternoon",
+        "morning"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige el verbo correcto.",
+      "en": "What time ___ it?",
+      "choices": [
+        "are",
+        "is",
+        "am"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la expresión de tiempo correcta para la hora de dormir.",
+      "en": "It is ten o'clock at ___.",
+      "choices": [
+        "night",
+        "morning",
+        "afternoon"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige otra forma de preguntar la hora.",
+      "en": "Do you ___ the time?",
+      "choices": [
+        "make",
+        "see",
+        "have"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

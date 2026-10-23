@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-23",
+  "slug": "body-parts",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "👤",
+  "title": "Parts of the Body",
+  "summary": "Learn basic words for parts of the human body. You will be able to talk about your face, arms, and legs.",
+  "sections": [
+    {
+      "h": "Your Head and Face",
+      "p": "Let us start at the top! You have one head. On your face, you have two eyes to see and one nose to smell. You also have a mouth to speak and eat. We use these words every day when we talk about how we look or feel.",
+      "ex": [
+        {
+          "en": "I have two blue eyes.",
+          "mean": "The color of my two eyes is blue."
+        },
+        {
+          "en": "Open your mouth, please.",
+          "mean": "Please show the inside of your mouth."
+        },
+        {
+          "en": "My head hurts today.",
+          "mean": "I have pain in my head."
+        }
+      ]
+    },
+    {
+      "h": "Arms and Hands",
+      "p": "Next, let us look at the middle of your body. You have two arms. At the end of each arm, you have a hand. On your hands, you have fingers. You use your hands and fingers to write, hold things, and say hello!",
+      "ex": [
+        {
+          "en": "Wash your hands before you eat.",
+          "mean": "Clean your hands with water and soap."
+        },
+        {
+          "en": "She has a ring on her finger.",
+          "mean": "There is a ring around one of her fingers."
+        }
+      ]
+    },
+    {
+      "h": "Legs and Feet",
+      "p": "Finally, we have legs and feet. You have two legs to stand, walk, and run. At the bottom of each leg, you have a foot. When you have two of them, we call them feet. You put shoes on your feet.",
+      "ex": [
+        {
+          "en": "My legs are tired from walking.",
+          "mean": "I walked a lot, so my legs need rest."
+        },
+        {
+          "en": "Put your shoes on your feet.",
+          "mean": "Cover your feet with shoes."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "head",
+      "mean": "top part of body"
+    },
+    {
+      "en": "eye",
+      "mean": "organ for seeing"
+    },
+    {
+      "en": "nose",
+      "mean": "organ for smelling"
+    },
+    {
+      "en": "mouth",
+      "mean": "used for eating and speaking"
+    },
+    {
+      "en": "arm",
+      "mean": "upper body limb"
+    },
+    {
+      "en": "hand",
+      "mean": "at the end of arm"
+    },
+    {
+      "en": "finger",
+      "mean": "digit on hand"
+    },
+    {
+      "en": "leg",
+      "mean": "lower body limb"
+    },
+    {
+      "en": "foot",
+      "mean": "used for standing"
+    },
+    {
+      "en": "feet",
+      "mean": "plural of foot"
+    }
+  ],
+  "tip": "Point to your body parts as you say the English words out loud. Moving your body helps your brain remember new words faster!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word for seeing.",
+      "en": "I look at the picture with my ___.",
+      "choices": [
+        "ears",
+        "eyes",
+        "nose"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word for the plural of foot.",
+      "en": "I wear shoes on my two ___.",
+      "choices": [
+        "feet",
+        "foots",
+        "hands"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct body part.",
+      "en": "I write my name with a pen in my ___.",
+      "choices": [
+        "head",
+        "leg",
+        "hand"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word for smelling food.",
+      "en": "I smell the nice soup with my ___.",
+      "choices": [
+        "mouth",
+        "eye",
+        "nose"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct body part.",
+      "en": "I wear a hat on my ___.",
+      "choices": [
+        "head",
+        "foot",
+        "arm"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct body part for walking.",
+      "en": "I use my two ___ to walk to the store.",
+      "choices": [
+        "ears",
+        "legs",
+        "eyes"
+      ],
+      "answer_index": 1
+    }
+  ]
+}
