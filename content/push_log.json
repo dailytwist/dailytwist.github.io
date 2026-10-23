@@ -1,10 +1,118 @@
 {
- "day": "2026-10-22",
+ "day": "2026-10-23",
  "created": 0,
  "results": [
   [
    "en",
    "general",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "en",
+   "aries",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "en",
+   "taurus",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "en",
+   "gemini",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "en",
+   "cancer",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "en",
+   "leo",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "en",
+   "virgo",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "en",
+   "libra",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "en",
+   "scorpio",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "en",
+   "sagittarius",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "en",
+   "capricorn",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "en",
+   "aquarius",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "en",
+   "pisces",
    {
     "error": 401,
     "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
@@ -21,8 +129,224 @@
    }
   ],
   [
+   "es",
+   "aries",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "es",
+   "taurus",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "es",
+   "gemini",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "es",
+   "cancer",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "es",
+   "leo",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "es",
+   "virgo",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "es",
+   "libra",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "es",
+   "scorpio",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "es",
+   "sagittarius",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "es",
+   "capricorn",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "es",
+   "aquarius",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "es",
+   "pisces",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
    "fr",
    "general",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "fr",
+   "aries",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "fr",
+   "taurus",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "fr",
+   "gemini",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "fr",
+   "cancer",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "fr",
+   "leo",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "fr",
+   "virgo",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "fr",
+   "libra",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "fr",
+   "scorpio",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "fr",
+   "sagittarius",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "fr",
+   "capricorn",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "fr",
+   "aquarius",
+   {
+    "error": 401,
+    "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
+    "auth": "Basic"
+   }
+  ],
+  [
+   "fr",
+   "pisces",
    {
     "error": 401,
     "body": "{\"errors\": [\"Access denied.  Please include an 'Authorization: ...' header with a valid API key (https://documentation.onesignal.com/docs/en/keys-and-ids#api-keys).\"]}\n",
