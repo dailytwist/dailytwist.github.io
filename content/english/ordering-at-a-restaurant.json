@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-23",
+  "slug": "ordering-at-a-restaurant",
+  "cefr": "A1",
+  "cat": "phrases",
+  "emoji": "☕",
+  "title": "Ordering Food and Drinks",
+  "summary": "Learn how to order food and drinks at a cafe in English. Practice polite words to use when you talk to the waiter.",
+  "sections": [
+    {
+      "h": "Saying Hello and Getting a Table",
+      "p": "When you go to a cafe or a restaurant, the first thing to do is greet the staff and say how many people are with you. You can use 'Hello' and 'I would like' to be very polite. Keep your sentences short and smile. This makes it easy for the waiter to help you find a nice place to sit.",
+      "ex": [
+        {
+          "en": "Hello, a table for two, please.",
+          "mean": "Ask for a table for two people"
+        },
+        {
+          "en": "Hi, I would like a coffee, please.",
+          "mean": "Politely ask for a drink"
+        }
+      ]
+    },
+    {
+      "h": "Asking for the Menu and Ordering",
+      "p": "Next, you want to see the food and drink options. You can ask 'Can I have the menu, please?'. When you know what you want, start your order with 'Can I have' or 'I would like'. Always remember to say 'please' and 'thank you' because good manners are very important.",
+      "ex": [
+        {
+          "en": "Can I have the menu, please?",
+          "mean": "Ask to see the list of food"
+        },
+        {
+          "en": "I would like a sandwich, please.",
+          "mean": "Tell the waiter your food choice"
+        },
+        {
+          "en": "Can I have a glass of water?",
+          "mean": "Ask for water to drink"
+        }
+      ]
+    },
+    {
+      "h": "Asking for the Bill",
+      "p": "When you finish eating and drinking, it is time to leave. You need to ask how much money to pay. You can look at the waiter and ask for the check or the bill. You can also ask if they take a credit card or if you need to pay with cash.",
+      "ex": [
+        {
+          "en": "Can I have the bill, please?",
+          "mean": "Ask to pay for your food"
+        },
+        {
+          "en": "How much is it?",
+          "mean": "Ask for the total price"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "menu",
+      "mean": "list of food"
+    },
+    {
+      "en": "table",
+      "mean": "place to sit"
+    },
+    {
+      "en": "water",
+      "mean": "cold drink"
+    },
+    {
+      "en": "coffee",
+      "mean": "hot brown drink"
+    },
+    {
+      "en": "sandwich",
+      "mean": "bread with food inside"
+    },
+    {
+      "en": "bill",
+      "mean": "paper with total price"
+    },
+    {
+      "en": "please",
+      "mean": "polite word"
+    },
+    {
+      "en": "thank you",
+      "mean": "words to show thanks"
+    }
+  ],
+  "tip": "Always start your order with 'Can I have' and end with 'please'. It is a very easy and polite way to speak!",
+  "quiz": [
+    {
+      "ask": "Choose the correct polite phrase",
+      "en": "___ a table for one, please.",
+      "choices": [
+        "Hello",
+        "Goodbye",
+        "No"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word for the list of food",
+      "en": "Can I have the ___, please?",
+      "choices": [
+        "pen",
+        "menu",
+        "book"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct way to order a drink",
+      "en": "I ___ like a tea, please.",
+      "choices": [
+        "am",
+        "do",
+        "would"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word when you finish eating",
+      "en": "Can I have the ___, please?",
+      "choices": [
+        "bill",
+        "chair",
+        "door"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct polite word",
+      "en": "A coffee, ___.",
+      "choices": [
+        "bad",
+        "please",
+        "wrong"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the question to ask the price",
+      "en": "___ much is it?",
+      "choices": [
+        "How",
+        "What",
+        "Where"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

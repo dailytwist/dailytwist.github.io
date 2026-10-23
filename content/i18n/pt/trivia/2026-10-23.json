@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-23",
+  "title": "Quiz Diário de Conhecimentos Gerais: 23 de outubro de 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Qual país possui o maior número de fusos horários em seu território nacional e dependências?",
+      "options": [
+        "Reino Unido",
+        "França",
+        "Estados Unidos",
+        "Rússia"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Devido aos seus inúmeros departamentos e territórios ultramarinhos espalhados pelo globo, a França abrange oficialmente 12 fusos horários diferentes."
+    },
+    {
+      "category": "ciência",
+      "question": "Qual é o principal gás encontrado na atmosfera de Vênus?",
+      "options": [
+        "Dióxido de Carbono",
+        "Hidrogênio",
+        "Oxigênio",
+        "Nitrogênio"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O dióxido de carbono compõe cerca de 96,5% da densa atmosfera de Vênus, gerando um efeito estufa descontrolado que faz dele o planeta mais quente do sistema solar."
+    },
+    {
+      "category": "história",
+      "question": "A Guerra dos Sete Anos, frequentemente considerada o primeiro conflito global, ocorreu principalmente durante qual século?",
+      "options": [
+        "Século XVI",
+        "Século XIX",
+        "Século XVIII",
+        "Século XVII"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Travada entre 1756 e 1763, a Guerra dos Sete Anos envolveu a maioria das grandes potências europeias da época em vários continentes."
+    },
+    {
+      "category": "filmes e cultura pop",
+      "question": "Qual suspense de Alfred Hitchcock é famoso por popularizar uma cena de chuveiro cheia de suspense ao som de uma trilha sonora icônica de violinos estridentes?",
+      "options": [
+        "Um Corpo que Cai",
+        "Intriga Internacional",
+        "Psicose",
+        "Janela Indiscreta"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Lançado em 1960, Psicose mudou fundamentalmente as convenções do terror e do cinema comercial."
+    },
+    {
+      "category": "culinária",
+      "question": "O queijo halloumi, tradicionalmente grelhado ou frito sem derreter devido ao seu alto ponto de fusão, é originário de qual ilha e nação do Mediterrâneo?",
+      "options": [
+        "Chipre",
+        "Malta",
+        "Sicília",
+        "Creta"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O halloumi é produzido na ilha de Chipre há séculos, tradicionalmente utilizando uma mistura de leite de cabra e de ovelha."
+    },
+    {
+      "category": "animais",
+      "question": "Qual estrutura biológica exclusiva é usada por um polvo para saborear e tocar as coisas em seu ambiente?",
+      "options": [
+        "Escamas da linha lateral",
+        "Sifões",
+        "Tentáculos com ventosas",
+        "Olhos compostos"
+      ],
+      "answer_index": 2,
+      "fun_fact": "As ventosas de um polvo são revestidas de quimiorreceptores, permitindo que ele sinta o gosto de tudo o que toca."
+    },
+    {
+      "category": "esportes",
+      "question": "No tênis, qual termo é usado quando um jogador vence um game sem que o oponente ganhe um único ponto?",
+      "options": [
+        "Ace",
+        "Deuce",
+        "Love game",
+        "Bagel"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Na terminologia de pontuação do tênis, 'love' representa a pontuação zero, originária da palavra francesa 'l'oeuf', que significa ovo, simbolizando o formato de um zero."
+    },
+    {
+      "category": "idiomas",
+      "question": "Qual termo linguístico descreve uma palavra que é pronunciada da mesma forma que outra, mas difere em significado, origem ou grafia?",
+      "options": [
+        "Homógrafo",
+        "Acrônimo",
+        "Homófono",
+        "Sinônimo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Os homófonos têm exatamente o mesmo som quando falados em voz alta, como 'tacha' e 'taxa', apesar de terem significados distintos."
+    },
+    {
+      "category": "espaço",
+      "question": "Qual lua planetária em nosso sistema solar é vulcanicamente ativa e apresenta plumas de enxofre que sobem centenas de quilômetros de altura?",
+      "options": [
+        "Encélado",
+        "Europa",
+        "Titã",
+        "Io"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Io é o corpo mais vulcanicamente ativo em todo o sistema solar devido ao intenso aquecimento de maré gravitacional provocado por Júpiter."
+    },
+    {
+      "category": "história",
+      "question": "Quem foi o brilhante matemático e decifrador de códigos que liderou a equipe responsável por decriptografar a máquina Enigma alemã em Bletchley Park durante a Segunda Guerra Mundial?",
+      "options": [
+        "Albert Einstein",
+        "J. Robert Oppenheimer",
+        "Alan Turing",
+        "Niels Bohr"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O trabalho pioneiro de Alan Turing na ciência da computação teórica e na criptoanálise é amplamente creditado por ter salvado milhões de vidas durante a Segunda Guerra Mundial."
+    }
+  ]
+}

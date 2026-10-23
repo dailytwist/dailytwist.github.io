@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-23",
+  "slug": "can-and-cant",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "🌟",
+  "title": "Can and Can't for Ability and Permission",
+  "summary": "Learn how to talk about what you are able to do. You will also learn how to ask for and give permission.",
+  "sections": [
+    {
+      "h": "What is 'Can'?",
+      "p": "We use the word 'can' to talk about things we know how to do. This is called ability. The word 'can' is the same for all people: I can, you can, he can, she can, it can, we can, they can. After 'can', we use a simple action word like swim, cook, or speak. It is very easy to use and helps you share your skills with friends.",
+      "ex": [
+        {
+          "en": "I can speak a little English.",
+          "mean": "I know how to speak a little English."
+        },
+        {
+          "en": "She can swim very fast.",
+          "mean": "She has the ability to swim fast."
+        },
+        {
+          "en": "Can you cook dinner?",
+          "mean": "Do you know how to cook dinner?"
+        }
+      ]
+    },
+    {
+      "h": "What is 'Can't'?",
+      "p": "When we cannot do something, we use 'can't'. 'Can't' means 'cannot'. We use it for things we do not know how to do or things that are not allowed. Just like 'can', the word 'can't' stays the same for everyone. It is a great way to say no politely or explain your limits.",
+      "ex": [
+        {
+          "en": "I can't play the guitar.",
+          "mean": "I do not know how to play the guitar."
+        },
+        {
+          "en": "Cats can't fly.",
+          "mean": "It is impossible for cats to fly."
+        },
+        {
+          "en": "He can't come to the party.",
+          "mean": "He is not able to come to the party."
+        }
+      ]
+    },
+    {
+      "h": "Asking for Permission",
+      "p": "We also use 'can' to ask if we are allowed to do something. This is called permission. When you want to do something in a public place or at someone's house, start your question with 'Can I...'. People will answer with 'Yes, you can' or 'No, you can't'. This is very useful for daily life.",
+      "ex": [
+        {
+          "en": "Can I open the window, please?",
+          "mean": "Am I allowed to open the window?"
+        },
+        {
+          "en": "Yes, you can.",
+          "mean": "You have permission to do it."
+        },
+        {
+          "en": "Can I use your phone?",
+          "mean": "May I use your telephone?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "can",
+      "mean": "to have the ability"
+    },
+    {
+      "en": "can't",
+      "mean": "cannot do something"
+    },
+    {
+      "en": "ability",
+      "mean": "skill to do something"
+    },
+    {
+      "en": "permission",
+      "mean": "being allowed to"
+    },
+    {
+      "en": "swim",
+      "mean": "move in water"
+    },
+    {
+      "en": "cook",
+      "mean": "make food"
+    },
+    {
+      "en": "please",
+      "mean": "polite word"
+    }
+  ],
+  "tip": "Remember that 'can' never changes! We never add an 's' to it, so we always say 'He can', not 'He cans'.",
+  "quiz": [
+    {
+      "ask": "Choose the correct word for ability",
+      "en": "I ___ swim very well.",
+      "choices": [
+        "can",
+        "cans",
+        "to can"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct negative form",
+      "en": "Birds can fly, but fish ___ fly.",
+      "choices": [
+        "can",
+        "can't",
+        "is not"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct question for permission",
+      "en": "___ I borrow your pen, please?",
+      "choices": [
+        "Are",
+        "Do",
+        "Can"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct short answer",
+      "en": "Can she speak Spanish? Yes, she ___.",
+      "choices": [
+        "can",
+        "does",
+        "is"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "He ___ play the piano. He is a great musician.",
+      "choices": [
+        "can't",
+        "can",
+        "does"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct answer for a negative question",
+      "en": "Can I park here? No, you ___.",
+      "choices": [
+        "can",
+        "don't",
+        "can't"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

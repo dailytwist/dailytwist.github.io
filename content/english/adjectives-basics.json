@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-23",
+  "slug": "adjectives-basics",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "🎨",
+  "title": "Describing Things: Common Adjectives",
+  "summary": "Learn how to use common adjectives to describe people and things. Discover the correct place to put them in a sentence.",
+  "sections": [
+    {
+      "h": "What is an Adjective?",
+      "p": "An adjective is a word that describes a noun. A noun is a person, place, or thing. Adjectives give us more information. For example, they tell us about size, color, or how something feels. Words like big, red, and happy are all adjectives.",
+      "ex": [
+        {
+          "en": "The car is red.",
+          "mean": "The color of the car is red."
+        },
+        {
+          "en": "She is happy.",
+          "mean": "Her feeling is happy."
+        }
+      ]
+    },
+    {
+      "h": "Where Do Adjectives Go?",
+      "p": "In English, adjectives usually go before the noun. You say the color or size first, and then the thing. For example, we say 'a big dog', not 'a dog big'. This is a very important rule to remember when you speak English.",
+      "ex": [
+        {
+          "en": "I have a small cat.",
+          "mean": "My cat is small in size."
+        },
+        {
+          "en": "He wears a blue shirt.",
+          "mean": "The color of his shirt is blue."
+        }
+      ]
+    },
+    {
+      "h": "Adjectives with 'To Be'",
+      "p": "You can also put adjectives after the verb 'to be' (am, is, are). When you do this, the adjective describes the subject at the start of the sentence. This is great for talking about how things look, feel, or are right now.",
+      "ex": [
+        {
+          "en": "The food is hot.",
+          "mean": "The temperature of the food is high."
+        },
+        {
+          "en": "They are tired.",
+          "mean": "Their physical state is tired."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "big",
+      "mean": "large in size"
+    },
+    {
+      "en": "small",
+      "mean": "little in size"
+    },
+    {
+      "en": "happy",
+      "mean": "feeling good"
+    },
+    {
+      "en": "sad",
+      "mean": "feeling unhappy"
+    },
+    {
+      "en": "hot",
+      "mean": "high temperature"
+    },
+    {
+      "en": "cold",
+      "mean": "low temperature"
+    },
+    {
+      "en": "new",
+      "mean": "recently made"
+    }
+  ],
+  "tip": "Draw pictures of objects and write their color and size next to them. Connecting words to real pictures helps your brain remember them faster!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "The sun is ___ today.",
+      "choices": [
+        "hot",
+        "tall",
+        "old"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "I have a ___ car. It is blue.",
+      "choices": [
+        "fast",
+        "big",
+        "sad"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct sentence",
+      "en": "Where do adjectives usually go?",
+      "choices": [
+        "After the noun",
+        "Before the noun",
+        "At the end of the sentence"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "She is a ___ student. She smiles a lot.",
+      "choices": [
+        "cold",
+        "happy",
+        "heavy"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "My coffee is very ___.",
+      "choices": [
+        "small",
+        "hot",
+        "sad"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct sentence",
+      "en": "Select the correct English sentence.",
+      "choices": [
+        "The house is big.",
+        "The big is house.",
+        "Is big the house."
+      ],
+      "answer_index": 0
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-23",
+  "title": "Quiz di cultura generale quotidiano: 23 ottobre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Quale paese vanta il maggior numero di fusi orari all'interno del proprio territorio nazionale e dei propri dipartimenti e territori d'oltremare?",
+      "options": [
+        "Regno Unito",
+        "Francia",
+        "Stati Uniti",
+        "Russia"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Grazie ai suoi numerosi dipartimenti e territori d'oltremare sparsi per il globo, la Francia copre ufficialmente ben 12 fusi orari differenti."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è il gas principale presente nell'atmosfera di Venere?",
+      "options": [
+        "Anidride carbonica",
+        "Idrogeno",
+        "Ossigeno",
+        "Azoto"
+      ],
+      "answer_index": 0,
+      "fun_fact": "L'anidride carbonica costituisce circa il 96,5% della densa atmosfera di Venere, dando vita a un effetto serra galoppante che ne fa il pianeta più caldo del sistema solare."
+    },
+    {
+      "category": "storia",
+      "question": "La Guerra dei sette anni, considerata spesso il primo conflitto globale, si è svolta principalmente in quale secolo?",
+      "options": [
+        "XVI secolo",
+        "XIX secolo",
+        "XVIII secolo",
+        "XVII secolo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Combattuta tra il 1756 e il 1763, la Guerra dei sette anni ha visto la partecipazione della maggior parte delle grandi potenze europee dell'epoca su più continenti."
+    },
+    {
+      "category": "cinema e pop culture",
+      "question": "Quale thriller di Alfred Hitchcock è famoso per aver introdotto l'uso di una celebre e tesa scena della doccia accompagnata da una colonna sonora di violini stridenti?",
+      "options": [
+        "Vertigo",
+        "Intrigo internazionale",
+        "Psyco",
+        "La finestra sul cortile"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Uscito nel 1960, Psyco ha rivoluzionato radicalmente le convenzioni del cinema horror e mainstream."
+    },
+    {
+      "category": "cucina",
+      "question": "Il formaggio Halloumi, tradizionalmente grigliato o fritto senza sciogliersi grazie al suo alto punto di fusione, originario di quale nazione insulare del Mediterraneo?",
+      "options": [
+        "Cipro",
+        "Malta",
+        "Sicilia",
+        "Creta"
+      ],
+      "answer_index": 0,
+      "fun_fact": "L'Halloumi viene prodotto sull'isola di Cipro da secoli, tradizionalmente utilizzando un misto di latte di capra e di pecora."
+    },
+    {
+      "category": "animali",
+      "question": "Quale peculiare struttura biologica viene utilizzata da un polpo per gustare e toccare ciò che lo circonda?",
+      "options": [
+        "Scaglie della linea laterale",
+        "Sifoni",
+        "Tentacoli con ventose",
+        "Occhi composti"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le ventose del polpo sono rivestite di chemiorecettori, consentendogli di assaporare tutto ciò che tocca."
+    },
+    {
+      "category": "sport",
+      "question": "Nel tennis, quale termine si usa quando un giocatore vince un game senza che l'avversario conquisti neppure un punto?",
+      "options": [
+        "Ace",
+        "Deuce",
+        "Love game",
+        "Bagel"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Nella terminologia dei punteggi del tennis, 'love' rappresenta il punteggio zero, derivando dalla parola francese 'l'oeuf' (uovo), a simboleggiare la forma dello zero."
+    },
+    {
+      "category": "linguistica",
+      "question": "Quale termine linguistico descrive una parola che si pronuncia allo stesso modo di un'altra ma differisce per significato, origine o grafia?",
+      "options": [
+        "Omografo",
+        "Acronimo",
+        "Omofono",
+        "Sinonimo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Gli omofoni suonano identici quando vengono pronunciati ad alta voce, come 'pianta' nel senso vegetale e come voce del verbo piantare, pur avendo significati distinti."
+    },
+    {
+      "category": "spazio",
+      "question": "Quale luna del nostro sistema solare è geologicamente attiva e presenta pennacchi di zolfo che si ergono per centinaia di chilometri di altezza?",
+      "options": [
+        "Encelado",
+        "Europa",
+        "Titano",
+        "Io"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Io è il corpo celeste più vulcanicamente attivo dell'intero sistema solare a causa dell'intenso riscaldamento mareale gravitazionale esercitato da Giove."
+    },
+    {
+      "category": "storia",
+      "question": "Chi è stato il brillante matematico e crittanalista che ha guidato il team capace di decrittare la macchina Enigma tedesca a Bletchley Park durante la seconda guerra mondiale?",
+      "options": [
+        "Albert Einstein",
+        "J. Robert Oppenheimer",
+        "Alan Turing",
+        "Niels Bohr"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il lavoro pionieristico di Alan Turing nell'informatica teorica e nella crittanalisi è ampiamente considerato fondamentale per aver salvato milioni di vite durante la seconda guerra mondiale."
+    }
+  ]
+}

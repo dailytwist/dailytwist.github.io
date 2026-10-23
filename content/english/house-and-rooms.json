@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-23",
+  "slug": "house-and-rooms",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "🏠",
+  "title": "Rooms and Furniture",
+  "summary": "Learn the names of different rooms in a house. You will also learn common furniture words.",
+  "sections": [
+    {
+      "h": "Rooms in a House",
+      "p": "A house has different rooms. We do different things in each room. For example, we sleep in the bedroom and we cook in the kitchen. Learning these rooms helps you talk about your home in English.",
+      "ex": [
+        {
+          "en": "This is my bedroom.",
+          "mean": "Here I sleep."
+        },
+        {
+          "en": "The kitchen is big.",
+          "mean": "The room for cooking is large."
+        },
+        {
+          "en": "We watch TV in the living room.",
+          "mean": "We sit and watch television here."
+        }
+      ]
+    },
+    {
+      "h": "Furniture in the Bedroom",
+      "p": "Every room has furniture. Furniture is the things we put inside a room to make it useful. In the bedroom, we have a bed to sleep on and a wardrobe to keep our clothes safe and tidy.",
+      "ex": [
+        {
+          "en": "My bed is soft.",
+          "mean": "My place to sleep feels nice."
+        },
+        {
+          "en": "The clothes are in the wardrobe.",
+          "mean": "My shirts and pants are inside the closet."
+        }
+      ]
+    },
+    {
+      "h": "Furniture in the Living Room",
+      "p": "The living room is a place to relax with family and friends. We usually have a comfortable sofa to sit on and a small table for our coffee or books. It is a very cozy space.",
+      "ex": [
+        {
+          "en": "The sofa is red.",
+          "mean": "The long seat is red."
+        },
+        {
+          "en": "There is a table in the room.",
+          "mean": "A piece of furniture with four legs is here."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "bedroom",
+      "mean": "room for sleeping"
+    },
+    {
+      "en": "kitchen",
+      "mean": "room for cooking"
+    },
+    {
+      "en": "living room",
+      "mean": "room for relaxing"
+    },
+    {
+      "en": "bathroom",
+      "mean": "room for washing"
+    },
+    {
+      "en": "bed",
+      "mean": "furniture for sleeping"
+    },
+    {
+      "en": "sofa",
+      "mean": "comfortable seat"
+    },
+    {
+      "en": "table",
+      "mean": "flat furniture with legs"
+    },
+    {
+      "en": "wardrobe",
+      "mean": "closet for clothes"
+    }
+  ],
+  "tip": "Walk around your home and touch each piece of furniture. Say its English name out loud three times.",
+  "quiz": [
+    {
+      "ask": "Choose the correct room",
+      "en": "We cook food in the ___.",
+      "choices": [
+        "bedroom",
+        "kitchen",
+        "bathroom"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct furniture",
+      "en": "You sleep in a ___ at night.",
+      "choices": [
+        "bed",
+        "table",
+        "sofa"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct room",
+      "en": "We watch television in the ___ room.",
+      "choices": [
+        "bed",
+        "living",
+        "bath"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct furniture",
+      "en": "Put your clothes in the ___.",
+      "choices": [
+        "table",
+        "lamp",
+        "wardrobe"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct room",
+      "en": "You take a shower in the ___.",
+      "choices": [
+        "kitchen",
+        "bedroom",
+        "bathroom"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct furniture",
+      "en": "Sit on the comfortable ___ and watch TV.",
+      "choices": [
+        "sofa",
+        "bed",
+        "wardrobe"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

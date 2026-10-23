@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-23",
+  "slug": "daily-routine",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "☀️",
+  "title": "My Morning Routine",
+  "summary": "Learn how to talk about your morning. Discover three important daily routine actions.",
+  "sections": [
+    {
+      "h": "Wake up",
+      "p": "We use the phrase 'wake up' when we stop sleeping in the morning. When your eyes open and you leave your bed, you wake up. This is usually the very first thing we do every single day before we start our busy morning.",
+      "ex": [
+        {
+          "en": "I wake up at seven o'clock.",
+          "mean": "My eyes open at 7:00."
+        },
+        {
+          "en": "You wake up early on Mondays.",
+          "mean": "You stop sleeping early at the start of the week."
+        }
+      ]
+    },
+    {
+      "h": "Get dressed",
+      "p": "After you leave your bed, you need to put on your clothes. We say 'get dressed' for this action. You take off your pajamas and put on a shirt, pants, or a dress for the new day.",
+      "ex": [
+        {
+          "en": "I get dressed in my bedroom.",
+          "mean": "I put my clothes on in my room."
+        },
+        {
+          "en": "She gets dressed quickly.",
+          "mean": "She puts on her clothes fast."
+        }
+      ]
+    },
+    {
+      "h": "Have breakfast",
+      "p": "In the morning, our body needs food and energy. The first meal of the day is breakfast. We use the phrase 'have breakfast' to talk about eating this morning meal.",
+      "ex": [
+        {
+          "en": "We have breakfast in the kitchen.",
+          "mean": "We eat our morning food together."
+        },
+        {
+          "en": "Do you have breakfast every day?",
+          "mean": "Is it your habit to eat in the morning?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "wake up",
+      "mean": "stop sleeping"
+    },
+    {
+      "en": "get dressed",
+      "mean": "put on clothes"
+    },
+    {
+      "en": "have breakfast",
+      "mean": "eat morning meal"
+    },
+    {
+      "en": "morning",
+      "mean": "early part of day"
+    },
+    {
+      "en": "bed",
+      "mean": "where you sleep"
+    },
+    {
+      "en": "clothes",
+      "mean": "what you wear"
+    },
+    {
+      "en": "food",
+      "mean": "what you eat"
+    }
+  ],
+  "tip": "Say your morning routine out loud every day. Do the action and speak the English words at the same time!",
+  "quiz": [
+    {
+      "ask": "Choose the correct action",
+      "en": "I open my eyes and stop sleeping. I ___ at seven o'clock.",
+      "choices": [
+        "get dressed",
+        "wake up",
+        "have breakfast"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct action",
+      "en": "Now I put on my shirt and pants. I ___.",
+      "choices": [
+        "get dressed",
+        "wake up",
+        "sleep"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct action",
+      "en": "I eat bread and drink coffee in the morning. I ___.",
+      "choices": [
+        "wake up",
+        "get dressed",
+        "have breakfast"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Breakfast is the first ___ of the day.",
+      "choices": [
+        "sleep",
+        "meal",
+        "night"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct translation",
+      "en": "What does 'wake up' mean?",
+      "choices": [
+        "stop sleeping",
+        "eat food",
+        "wear clothes"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct question",
+      "en": "___ do you have breakfast?",
+      "choices": [
+        "Where",
+        "What time",
+        "Who"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

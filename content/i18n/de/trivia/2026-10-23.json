@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-23",
+  "title": "Tägliches Allgemeinwissen-Quiz: 23. Oktober 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches Land weist auf seinem Staatsgebiet und in seinen Überseegebieten die meisten Zeitzonen auf?",
+      "options": [
+        "Vereinigtes Königreich",
+        "Frankreich",
+        "Vereinigte Staaten",
+        "Russland"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Dank seiner zahlreichen überseeischen Departements und Territorien, die über den gesamten Globus verstreut sind, erstreckt sich Frankreich offiziell über 12 verschiedene Zeitzonen."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Welches Gas ist in der Atmosphäre der Venus am häufigsten vertreten?",
+      "options": [
+        "Kohlenstoffdioxid",
+        "Wasserstoff",
+        "Sauerstoff",
+        "Stickstoff"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Kohlenstoffdioxid macht etwa 96,5 % der dichten Venusatmosphäre aus und sorgt für einen extremen Treibhauseffekt, der sie zum heißesten Planeten des Sonnensystems macht."
+    },
+    {
+      "category": "Geschichte",
+      "question": "In welchem Jahrhundert fand der Siebenjährige Krieg, der oft als erster globaler Konflikt gilt, hauptsächlich statt?",
+      "options": [
+        "16. Jahrhundert",
+        "19. Jahrhundert",
+        "18. Jahrhundert",
+        "17. Jahrhundert"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Der zwischen 1756 und 1763 ausgefochtene Siebenjährige Krieg involvierte die meisten europäischen Großmächte jener Zeit auf mehreren Kontinenten."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Welcher Thriller von Alfred Hitchcock ist berühmt dafür, als Erster eine spannungsgeladene Duschszene mit einer ikonischen, kreischenden Geigenmusik gezeigt zu haben?",
+      "options": [
+        "Vertigo",
+        "Der unsichtbare Dritte",
+        "Psycho",
+        "Das Fenster zum Hof"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Der 1960 veröffentlichte Film Psycho revolutionierte die Konventionen des Horrorfilms und des Mainstream-Kinos grundlegend."
+    },
+    {
+      "category": "Essen & Trinken",
+      "question": "Von welcher mediterranen Inselrepublik stammt der Halloumi-Käse ursprünglich, der dank seines hohen Schmelzpunkts traditionell gegrillt oder gebraten werden kann, ohne zu schmelzen?",
+      "options": [
+        "Zypern",
+        "Malta",
+        "Sizilien",
+        "Kreta"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Halloumi wird bereits seit Jahrhunderten auf der Insel Zypern hergestellt, traditionell aus einer Mischung aus Ziegen- und Schafsmilch."
+    },
+    {
+      "category": "Tiere",
+      "question": "Welches einzigartige biologische Organ nutzt ein Oktopus, um Dinge in seiner Umgebung zu schmecken und zu ertasten?",
+      "options": [
+        "Seitenlinienschuppen",
+        "Siphons",
+        "Tentakeln mit Saugnäpfen",
+        "Facettenaugen"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Die Saugnäpfe eines Oktopus sind mit Chemosensoren besetzt, sodass er alles schmecken kann, was er berührt."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie wird im Tennis ein Spiel bezeichnet, das ein Spieler gewinnt, ohne dass der Gegner auch nur einen einzigen Punkt erzielt?",
+      "options": [
+        "Ace",
+        "Deuce",
+        "Zu null",
+        "Bagel"
+      ],
+      "answer_index": 2,
+      "fun_fact": "In der Tennisschreibweise steht „love“ für einen Punktestand von Null, was auf das französische Wort „l’œuf“ (Ei) zurückgeht, das die Form einer Null symbolisiert."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie nennt man in der Sprachwissenschaft ein Wort, das genauso ausgesprochen wird wie ein anderes, sich jedoch in Bedeutung, Herkunft oder Schreibweise unterscheidet?",
+      "options": [
+        "Homograf",
+        "Akronym",
+        "Homofon",
+        "Synonym"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Homofone klingen laut ausgesprochen völlig identisch – wie etwa „Maler“ und „Mahler“ –, haben jedoch völlig unterschiedliche Bedeutungen."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Mond in unserem Sonnensystem ist vulkanisch aktiv und stößt Schwefelfontänen aus, die Hunderte von Kilometern hoch in die Höhe schießen?",
+      "options": [
+        "Enceladus",
+        "Europa",
+        "Titan",
+        "Io"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Io ist aufgrund der enormen Gravitations- und Gezeitenkräfte durch den Jupiter der vulkanisch aktivste Himmelskörper im gesamten Sonnensystem."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Wer war der brillante Mathematiker und Codeknacker, der im Zweiten Weltkrieg in Bletchley Park das Team anführte, das die deutsche Enigma-Maschine entzifferte?",
+      "options": [
+        "Albert Einstein",
+        "J. Robert Oppenheimer",
+        "Alan Turing",
+        "Niels Bohr"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Alan Turings bahnbrechende Arbeit in der theoretischen Informatik und Kryptoanalyse hat schätzungsweise Millionen von Menschenleben im Zweiten Weltkrieg gerettet."
+    }
+  ]
+}
