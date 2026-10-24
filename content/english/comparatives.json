@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-24",
+  "slug": "comparatives",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "⚖️",
+  "title": "Comparative Adjectives: Bigger, More Beautiful, Better",
+  "summary": "Learn how to compare two things using short and long words. You will be able to say which thing is bigger, better, or more exciting.",
+  "sections": [
+    {
+      "h": "Short Words",
+      "p": "When a word is short, like 'big' or 'tall', we add '-er' to the end to compare two things. For example, a house is big, but a hotel is bigger. We usually use the word 'than' after the comparative adjective to connect the two things we are comparing.",
+      "ex": [
+        {
+          "en": "My car is faster than your car.",
+          "mean": "My car has more speed than yours."
+        },
+        {
+          "en": "Today is colder than yesterday.",
+          "mean": "The temperature is lower today."
+        }
+      ]
+    },
+    {
+      "h": "Long Words",
+      "p": "When a word is long, like 'beautiful' or 'expensive', we do not add '-er'. That sounds strange! Instead, we put the word 'more' before the adjective. For example, we say 'more expensive' or 'more interesting'. This makes it very easy to compare big words.",
+      "ex": [
+        {
+          "en": "This book is more interesting than that one.",
+          "mean": "This book is better to read."
+        },
+        {
+          "en": "Your city is more modern than my town.",
+          "mean": "Your city has newer buildings."
+        }
+      ]
+    },
+    {
+      "h": "Irregular Words",
+      "p": "Some common words do not follow the rules. They change completely! The word 'good' becomes 'better', and the word 'bad' becomes 'worse'. You just need to memorize these special words because you will use them all the time.",
+      "ex": [
+        {
+          "en": "Pizza is better than salad.",
+          "mean": "I like pizza more than salad."
+        },
+        {
+          "en": "My English is better now.",
+          "mean": "I speak English better than before."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "comparative",
+      "mean": "comparing two things"
+    },
+    {
+      "en": "than",
+      "mean": "used for comparison"
+    },
+    {
+      "en": "bigger",
+      "mean": "more big"
+    },
+    {
+      "en": "more beautiful",
+      "mean": "having more beauty"
+    },
+    {
+      "en": "better",
+      "mean": "more good"
+    },
+    {
+      "en": "worse",
+      "mean": "more bad"
+    },
+    {
+      "en": "short word",
+      "mean": "one or two syllables"
+    },
+    {
+      "en": "long word",
+      "mean": "three or more syllables"
+    }
+  ],
+  "tip": "Remember: short words take '-er' at the end, but long words take 'more' at the front. And watch out for 'good' turning into 'better'!",
+  "quiz": [
+    {
+      "ask": "Choose the correct comparative form for a short word.",
+      "en": "My brother is ___ than me.",
+      "choices": [
+        "taller",
+        "more tall",
+        "taller than",
+        "tall"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word for a long adjective.",
+      "en": "This phone is ___ than my old one.",
+      "choices": [
+        "expensiver",
+        "more expensive",
+        "expensive",
+        "most expensive"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct irregular comparative.",
+      "en": "Today's weather is ___ than yesterday.",
+      "choices": [
+        "gooder",
+        "more good",
+        "better",
+        "best"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Which word usually comes after a comparative adjective?",
+      "en": "Her bag is bigger ___ mine.",
+      "choices": [
+        "then",
+        "that",
+        "as",
+        "than"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Choose the correct short adjective form.",
+      "en": "A bicycle is ___ than a car.",
+      "choices": [
+        "slower",
+        "slow",
+        "more slow",
+        "slowest"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct long adjective form.",
+      "en": "Action movies are ___ than comedies.",
+      "choices": [
+        "excitinger",
+        "more exciting",
+        "exciting",
+        "most exciting"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

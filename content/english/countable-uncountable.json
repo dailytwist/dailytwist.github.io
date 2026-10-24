@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-24",
+  "slug": "countable-uncountable",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🍎",
+  "title": "Food Words: Countable and Uncountable, Some and Any",
+  "summary": "Learn how to talk about food using countable and uncountable nouns. Discover when to use 'some' and 'any' correctly.",
+  "sections": [
+    {
+      "h": "Countable Nouns",
+      "p": "Countable nouns are things we can count with numbers. We can use 'a' or 'an' before them in the singular. They also have a plural form with an 's' at the end, like apples or bananas. You can ask 'How many?' for these words.",
+      "ex": [
+        {
+          "en": "I have an apple in my bag.",
+          "mean": "One apple that you can count."
+        },
+        {
+          "en": "Do you want two bananas?",
+          "mean": "Asking about a specific number of bananas."
+        },
+        {
+          "en": "We need to buy some carrots.",
+          "mean": "More than one carrot, in a plural form."
+        }
+      ]
+    },
+    {
+      "h": "Uncountable Nouns",
+      "p": "Uncountable nouns are things we cannot count with numbers. They do not have a plural form, so we never say 's' at the end. We cannot use 'a' or 'an' with them. You can ask 'How much?' for these words, like water, milk, or rice.",
+      "ex": [
+        {
+          "en": "I drink water every day.",
+          "mean": "Water is uncountable, no plural."
+        },
+        {
+          "en": "Can I have some milk, please?",
+          "mean": "Asking for an uncountable amount of liquid."
+        },
+        {
+          "en": "There is no rice left in the kitchen.",
+          "mean": "Rice is a substance you do not count one by one."
+        }
+      ]
+    },
+    {
+      "h": "Using Some and Any",
+      "p": "We use 'some' in positive sentences for both countable and uncountable nouns when we have an amount. We use 'any' in negative sentences with 'not' and in questions. 'Any' means zero or we are asking if something exists.",
+      "ex": [
+        {
+          "en": "I have some bread for breakfast.",
+          "mean": "Positive sentence with an uncountable noun."
+        },
+        {
+          "en": "We do not have any apples.",
+          "mean": "Negative sentence using 'any'."
+        },
+        {
+          "en": "Do you have any questions?",
+          "mean": "Question using 'any'."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "countable",
+      "mean": "things you can count"
+    },
+    {
+      "en": "uncountable",
+      "mean": "things you cannot count"
+    },
+    {
+      "en": "some",
+      "mean": "an amount in positive sentences"
+    },
+    {
+      "en": "any",
+      "mean": "used in questions and negatives"
+    },
+    {
+      "en": "apple",
+      "mean": "a countable fruit"
+    },
+    {
+      "en": "water",
+      "mean": "an uncountable drink"
+    },
+    {
+      "en": "bread",
+      "mean": "an uncountable food"
+    },
+    {
+      "en": "banana",
+      "mean": "a countable fruit"
+    }
+  ],
+  "tip": "Remember: if you can put a number like 'one' or 'two' directly in front of the noun, it is countable. If it sounds strange, it is probably uncountable!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "I want to buy ___ apple.",
+      "choices": [
+        "a",
+        "an",
+        "some",
+        "any"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Do we have ___ milk in the fridge?",
+      "choices": [
+        "some",
+        "a",
+        "any",
+        "an"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "She ate ___ rice for lunch.",
+      "choices": [
+        "a",
+        "an",
+        "any",
+        "some"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "There are not ___ oranges left.",
+      "choices": [
+        "any",
+        "some",
+        "an",
+        "a"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "He bought ___ new shoes yesterday.",
+      "choices": [
+        "any",
+        "some",
+        "water",
+        "milk"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Is there ___ coffee in the cup?",
+      "choices": [
+        "a",
+        "an",
+        "some",
+        "any"
+      ],
+      "answer_index": 3
+    }
+  ]
+}

@@ -1,224 +1,119 @@
-- compatibility virgo + virgo
+- compatibility virgo + scorpio
 ::warning::Gemini models available: gemini-2.5-flash, gemini-2.5-pro, gemini-2.5-flash-preview-tts, gemini-2.5-pro-preview-tts, gemma-4-26b-a4b-it, gemma-4-31b-it, gemini-flash-latest, gemini-flash-lite-latest, gemini-pro-latest, gemini-2.5-flash-lite, gemini-2.5-flash-image, gemini-3-flash-preview, gemini-3.1-pro-preview, gemini-3.1-pro-preview-customtools, gemini-3.1-flash-lite-preview, gemini-3.1-flash-lite, gemini-3-pro-image-preview, gemini-3-pro-image, nano-banana-pro-preview, gemini-3.1-flash-image-preview, gemini-3.1-flash-image, gemini-3.1-flash-lite-image, gemini-nano-banana-2.1, gemini-3.5-flash, gemini-3.5-flash-lite, gemini-omni-flash-preview, gemini-omni-1.1-flash, gemini-3.5-transcribe, gemini-3.6-flash, gemini-3.7-flash, gemini-3.8-flash, gemini-4-argon, lyria-3-clip-preview, lyria-3-pro-preview, lyria-3.5, gemini-3.1-flash-tts-preview, gemini-3.8-flash-tts, gemini-3.8-flash-lite-tts, gemini-robotics-er-2-preview, gemini-2.5-computer-use-preview-10-2025
 ::warning::using Gemini model: gemini-3.5-flash-lite
-  saved content/pairs/virgo-virgo.json
-- compatibility virgo + capricorn
-  saved content/pairs/virgo-capricorn.json
-- compatibility virgo + gemini
-  saved content/pairs/virgo-gemini.json
-- compatibility virgo + libra
-  saved content/pairs/virgo-libra.json
-- compatibility virgo + aquarius
-  saved content/pairs/virgo-aquarius.json
-- compatibility virgo + cancer
-  saved content/pairs/virgo-cancer.json
-- dream lion
-  saved content/dreams/lion.json
-- dream wolf
-  saved content/dreams/wolf.json
-- dream bear
-  saved content/dreams/bear.json
-- dream rat
-  saved content/dreams/rat.json
-- dream mouse
-  saved content/dreams/mouse.json
-- dream cockroach
-  saved content/dreams/cockroach.json
-- guide angel 717
-  saved content/guides/angel-717.json
-- guide angel 818
-  saved content/guides/angel-818.json
-- guide angel 202
-  saved content/guides/angel-202.json
-- guide angel 303
-  saved content/guides/angel-303.json
-- guide birthday february-6
-  saved content/guides/birthday-february-6.json
-- guide birthday february-7
-  saved content/guides/birthday-february-7.json
-- guide birthday february-8
-  saved content/guides/birthday-february-8.json
-- guide birthday february-9
-  saved content/guides/birthday-february-9.json
-- guide birthday february-10
-  saved content/guides/birthday-february-10.json
-- guide birthday february-11
-  saved content/guides/birthday-february-11.json
-- english present-continuous
-  saved content/english/present-continuous.json
-- english like-love-hate-ing
-  saved content/english/like-love-hate-ing.json
-- english past-simple-regular
-  saved content/english/past-simple-regular.json
-- english past-simple-irregular
-  saved content/english/past-simple-irregular.json
-- english was-were
-  saved content/english/was-were.json
-- name Theo
-  saved content/names/theo.json
-- name Nabil
-  saved content/names/nabil.json
-- name Max
-  saved content/names/max.json
-- name Samir
-  saved content/names/samir.json
-- name Felix
-  saved content/names/felix.json
-- name Hicham
-  saved content/names/hicham.json
-- name Elias
-  saved content/names/elias.json
-- name Rachid
-  saved content/names/rachid.json
-  saved content/i18n/es/pairs/virgo-aquarius.json
-  saved content/i18n/es/pairs/virgo-cancer.json
-  saved content/i18n/es/pairs/virgo-libra.json
-  saved content/i18n/es/pairs/virgo-gemini.json
-  saved content/i18n/es/pairs/virgo-virgo.json
-  saved content/i18n/es/pairs/virgo-capricorn.json
-  saved content/i18n/es/dreams/wolf.json
-  saved content/i18n/es/dreams/rat.json
-  saved content/i18n/es/dreams/mouse.json
-  saved content/i18n/fr/pairs/virgo-aquarius.json
-  saved content/i18n/fr/pairs/virgo-cancer.json
-  saved content/i18n/fr/pairs/virgo-libra.json
-  saved content/i18n/fr/pairs/virgo-gemini.json
-  saved content/i18n/fr/pairs/virgo-virgo.json
-  saved content/i18n/fr/pairs/virgo-capricorn.json
-  saved content/i18n/de/pairs/virgo-aquarius.json
-  saved content/i18n/de/pairs/virgo-cancer.json
-  saved content/i18n/de/pairs/virgo-libra.json
-  saved content/i18n/pt/pairs/virgo-aquarius.json
-  saved content/i18n/pt/pairs/virgo-cancer.json
-  saved content/i18n/pt/pairs/virgo-libra.json
-  saved content/i18n/pt/pairs/virgo-gemini.json
-  saved content/i18n/pt/pairs/virgo-virgo.json
-  saved content/i18n/pt/pairs/virgo-capricorn.json
-  saved content/i18n/it/pairs/virgo-aquarius.json
-  saved content/i18n/it/pairs/virgo-cancer.json
-  saved content/i18n/it/pairs/virgo-libra.json
-  saved content/i18n/ja/pairs/virgo-aquarius.json
-  saved content/i18n/ja/pairs/virgo-cancer.json
-  saved content/i18n/ja/pairs/virgo-libra.json
-  saved content/i18n/ar/pairs/virgo-aquarius.json
-  saved content/i18n/ar/pairs/virgo-cancer.json
-  saved content/i18n/ar/pairs/virgo-libra.json
-  saved content/i18n/es/dreams/cockroach.json
-  saved content/i18n/es/dreams/bear.json
-  saved content/i18n/es/dreams/lion.json
-  saved content/i18n/es/guides/angel-818.json
-  saved content/i18n/es/guides/birthday-february-10.json
-  saved content/i18n/es/guides/birthday-february-5.json
-  saved content/i18n/es/guides/angel-2121.json
-  saved content/i18n/es/guides/birthday-february-2.json
-  saved content/i18n/es/guides/birthday-february-11.json
-  saved content/i18n/fr/dreams/wolf.json
-  saved content/i18n/fr/dreams/rat.json
-  saved content/i18n/fr/dreams/mouse.json
-  saved content/i18n/fr/dreams/mirror.json
-  saved content/i18n/fr/dreams/cockroach.json
-  saved content/i18n/fr/dreams/horse.json
-  saved content/i18n/de/pairs/virgo-gemini.json
-  saved content/i18n/de/pairs/taurus-gemini.json
-  saved content/i18n/de/pairs/taurus-libra.json
-  saved content/i18n/pt/dreams/wolf.json
-  saved content/i18n/pt/dreams/rat.json
-  saved content/i18n/pt/dreams/mouse.json
-  saved content/i18n/pt/dreams/mirror.json
-  saved content/i18n/pt/dreams/cockroach.json
-  saved content/i18n/pt/dreams/horse.json
-  saved content/i18n/it/pairs/virgo-gemini.json
-  saved content/i18n/it/pairs/taurus-gemini.json
-  saved content/i18n/it/pairs/taurus-libra.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/ja/pairs/taurus-scorpio.json
-  saved content/i18n/ja/pairs/virgo-gemini.json
-  saved content/i18n/ja/pairs/taurus-pisces.json
-  saved content/i18n/ar/pairs/taurus-scorpio.json
-  saved content/i18n/ar/pairs/virgo-gemini.json
-  saved content/i18n/ar/pairs/taurus-pisces.json
-  saved content/i18n/es/guides/tarot-the-world.json
-  saved content/i18n/es/guides/angel-202.json
-  saved content/i18n/es/guides/birthday-february-9.json
-  saved content/i18n/es/guides/birthday-february-7.json
-  saved content/i18n/es/guides/birthday-february-6.json
-  saved content/i18n/es/guides/angel-123.json
-  saved content/i18n/es/guides/birthday-february-8.json
-  saved content/i18n/es/guides/angel-303.json
-  saved content/i18n/es/guides/birthday-february-1.json
-  saved content/i18n/fr/dreams/bear.json
-  saved content/i18n/fr/dreams/lion.json
-  saved content/i18n/fr/guides/birthday-february-3.json
-  saved content/i18n/fr/guides/tarot-judgement.json
-  saved content/i18n/fr/guides/birthstone-december.json
-  saved content/i18n/fr/guides/angel-818.json
-  saved content/i18n/de/pairs/virgo-virgo.json
-  saved content/i18n/de/pairs/virgo-capricorn.json
-  saved content/i18n/de/dreams/wolf.json
-  saved content/i18n/pt/dreams/bear.json
-  saved content/i18n/pt/dreams/lion.json
-  saved content/i18n/pt/guides/birthday-february-3.json
-  saved content/i18n/pt/guides/tarot-judgement.json
-  saved content/i18n/pt/guides/birthstone-december.json
-  saved content/i18n/pt/guides/angel-818.json
-  saved content/i18n/it/pairs/virgo-virgo.json
-  saved content/i18n/it/pairs/virgo-capricorn.json
-  saved content/i18n/it/dreams/wolf.json
-  saved content/i18n/ja/pairs/taurus-aquarius.json
-  saved content/i18n/ja/pairs/taurus-gemini.json
-  saved content/i18n/ja/pairs/taurus-libra.json
-  saved content/i18n/ar/pairs/taurus-aquarius.json
-  saved content/i18n/ar/pairs/taurus-gemini.json
-  saved content/i18n/ar/pairs/taurus-libra.json
-  saved content/i18n/es/guides/birthstone-november.json
-  saved content/i18n/es/guides/birthday-january-31.json
-  saved content/i18n/es/guides/angel-0000.json
-  saved content/i18n/es/guides/angel-717.json
-  saved content/i18n/es/guides/angel-911.json
-  saved content/i18n/es/english/was-were.json
-  saved content/i18n/es/english/past-simple-regular.json
-  saved content/i18n/es/english/past-simple-irregular.json
-  saved content/i18n/es/english/present-continuous.json
-  saved content/i18n/fr/guides/birthday-february-4.json
-  saved content/i18n/fr/guides/birthday-february-10.json
-  saved content/i18n/fr/guides/birthday-february-5.json
-  saved content/i18n/fr/guides/angel-2121.json
-  saved content/i18n/fr/guides/birthday-february-2.json
-  saved content/i18n/fr/guides/birthday-february-11.json
-  saved content/i18n/de/dreams/rat.json
-  saved content/i18n/de/dreams/bird.json
-  saved content/i18n/de/dreams/moon.json
-  saved content/i18n/pt/guides/birthday-february-4.json
-  saved content/i18n/pt/guides/birthday-february-10.json
-  saved content/i18n/pt/guides/birthday-february-5.json
-  saved content/i18n/pt/guides/angel-2121.json
-  saved content/i18n/pt/guides/birthday-february-2.json
-  saved content/i18n/pt/guides/birthday-february-11.json
-  saved content/i18n/it/dreams/rat.json
-  saved content/i18n/it/dreams/bird.json
-  saved content/i18n/it/dreams/moon.json
-  saved content/i18n/ja/pairs/virgo-virgo.json
-  saved content/i18n/ja/pairs/virgo-capricorn.json
-  saved content/i18n/ja/dreams/wolf.json
-  saved content/i18n/ar/pairs/virgo-virgo.json
-  saved content/i18n/ar/pairs/virgo-capricorn.json
-  saved content/i18n/ar/dreams/wolf.json
-  saved content/i18n/es/english/like-love-hate-ing.json
-  saved content/i18n/es/names/rachid.json
-  saved content/i18n/es/names/samir.json
-  saved content/i18n/es/names/david.json
-  saved content/i18n/es/names/michael.json
-  saved content/i18n/es/names/max.json
-  saved content/i18n/es/names/thomas.json
-  saved content/i18n/es/names/hicham.json
-  saved content/i18n/es/names/felix.json
-  saved content/i18n/fr/guides/tarot-the-world.json
-  saved content/i18n/fr/guides/angel-202.json
-  saved content/i18n/fr/guides/birthday-february-9.json
-  saved content/i18n/fr/guides/birthday-february-7.json
-  saved content/i18n/fr/guides/birthday-february-6.json
-  saved content/i18n/fr/guides/angel-123.json
-  saved content/i18n/de/dreams/stars.json
-  saved content/i18n/de/dreams/sun.json
-  saved content/i18n/de/dreams/mouse.json
+  saved content/pairs/virgo-scorpio.json
+- compatibility virgo + pisces
+  saved content/pairs/virgo-pisces.json
+- compatibility capricorn + capricorn
+  saved content/pairs/capricorn-capricorn.json
+- compatibility capricorn + gemini
+  saved content/pairs/capricorn-gemini.json
+- compatibility capricorn + libra
+  saved content/pairs/capricorn-libra.json
+- compatibility capricorn + aquarius
+  saved content/pairs/capricorn-aquarius.json
+- dream shark
+  saved content/dreams/shark.json
+- dream crocodile
+  saved content/dreams/crocodile.json
+- dream scorpion
+  saved content/dreams/scorpion.json
+- dream bees
+  saved content/dreams/bees.json
+- dream butterfly
+  saved content/dreams/butterfly.json
+- dream flowers
+  saved content/dreams/flowers.json
+- guide angel 505
+  saved content/guides/angel-505.json
+- guide angel 707
+  saved content/guides/angel-707.json
+- guide birthday february-12
+  saved content/guides/birthday-february-12.json
+- guide birthday february-13
+  saved content/guides/birthday-february-13.json
+- guide birthday february-14
+  saved content/guides/birthday-february-14.json
+- guide birthday february-15
+  saved content/guides/birthday-february-15.json
+- guide birthday february-16
+  saved content/guides/birthday-february-16.json
+- guide birthday february-17
+  saved content/guides/birthday-february-17.json
+- english countable-uncountable
+  saved content/english/countable-uncountable.json
+- english much-many-a-lot-of
+  saved content/english/much-many-a-lot-of.json
+- english comparatives
+  saved content/english/comparatives.json
+- english superlatives
+  saved content/english/superlatives.json
+- english going-to-future
+  saved content/english/going-to-future.json
+- name Luca
+  saved content/names/luca.json
+- name Abdellah
+  saved content/names/abdellah.json
+- name Marco
+  saved content/names/marco.json
+- name Ismail
+  saved content/names/ismail.json
+- name Matteo
+  saved content/names/matteo.json
+- name Idriss
+  saved content/names/idriss.json
+- name Lorenzo
+  saved content/names/lorenzo.json
+- name Othmane
+  saved content/names/othmane.json
+  saved content/i18n/es/pairs/capricorn-gemini.json
+  saved content/i18n/es/pairs/virgo-scorpio.json
+  saved content/i18n/es/pairs/virgo-pisces.json
+  saved content/i18n/es/pairs/capricorn-libra.json
+  saved content/i18n/es/pairs/capricorn-capricorn.json
+  saved content/i18n/es/pairs/capricorn-aquarius.json
+  saved content/i18n/es/dreams/crocodile.json
+  saved content/i18n/es/dreams/flowers.json
+  saved content/i18n/es/dreams/butterfly.json
+  saved content/i18n/fr/pairs/capricorn-gemini.json
+  saved content/i18n/fr/pairs/virgo-scorpio.json
+  saved content/i18n/fr/pairs/virgo-pisces.json
+  saved content/i18n/fr/pairs/capricorn-libra.json
+  saved content/i18n/fr/pairs/capricorn-capricorn.json
+  saved content/i18n/fr/pairs/capricorn-aquarius.json
+  saved content/i18n/de/pairs/capricorn-gemini.json
+  saved content/i18n/de/pairs/virgo-scorpio.json
+  saved content/i18n/de/pairs/virgo-pisces.json
+  saved content/i18n/pt/pairs/capricorn-gemini.json
+  saved content/i18n/pt/pairs/virgo-scorpio.json
+  saved content/i18n/pt/pairs/virgo-pisces.json
+  saved content/i18n/pt/pairs/capricorn-libra.json
+  saved content/i18n/pt/pairs/capricorn-capricorn.json
+  saved content/i18n/pt/pairs/capricorn-aquarius.json
+  saved content/i18n/it/pairs/capricorn-gemini.json
+  saved content/i18n/it/pairs/virgo-scorpio.json
+  saved content/i18n/it/pairs/virgo-pisces.json
+  saved content/i18n/ja/pairs/capricorn-gemini.json
+  saved content/i18n/ja/pairs/virgo-scorpio.json
+  saved content/i18n/ja/pairs/virgo-pisces.json
+  saved content/i18n/ar/pairs/capricorn-gemini.json
+  saved content/i18n/ar/pairs/virgo-scorpio.json
+  saved content/i18n/ar/pairs/virgo-pisces.json
+  saved content/i18n/es/dreams/shark.json
+  saved content/i18n/es/dreams/bees.json
+  saved content/i18n/es/dreams/scorpion.json
+  saved content/i18n/es/guides/angel-707.json
+  saved content/i18n/es/guides/birthday-february-14.json
+  saved content/i18n/es/guides/birthday-february-16.json
+  saved content/i18n/es/guides/birthday-february-13.json
+  saved content/i18n/es/guides/birthday-february-15.json
+  saved content/i18n/es/guides/birthday-february-12.json
+  saved content/i18n/fr/dreams/crocodile.json
+  saved content/i18n/fr/dreams/flowers.json
+  saved content/i18n/fr/dreams/butterfly.json
+  saved content/i18n/fr/dreams/shark.json
+  saved content/i18n/fr/dreams/bees.json
+  saved content/i18n/fr/dreams/scorpion.json
+  saved content/i18n/de/pairs/capricorn-libra.json
+  saved content/i18n/de/pairs/capricorn-capricorn.json
 Agent finished.

@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-24",
+  "slug": "superlatives",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "⭐",
+  "title": "Superlative Adjectives: The Biggest and Best",
+  "summary": "Learn how to compare three or more things using superlative adjectives. Discover words like the biggest, the most beautiful, and the best.",
+  "sections": [
+    {
+      "h": "What is a Superlative?",
+      "p": "We use superlative adjectives to talk about one thing in a group that is number one. For example, if you have three cars, and one is very, very big, it is the biggest car. We usually add 'the' before the adjective and '-est' to the end of short words like fast, small, or tall.",
+      "ex": [
+        {
+          "en": "My house is the biggest on this street.",
+          "mean": "My house is larger than all other houses here."
+        },
+        {
+          "en": "Today is the coldest day of the year.",
+          "mean": "The temperature today is lower than any other day."
+        },
+        {
+          "en": "He is the tallest student in our class.",
+          "mean": "No other student in the class is taller than him."
+        }
+      ]
+    },
+    {
+      "h": "Long Adjectives",
+      "p": "For long adjectives with two or more syllables, we do not add '-est'. Instead, we use 'the most' before the adjective. Words like expensive, beautiful, or dangerous need 'the most' to become superlatives. The adjective itself stays exactly the same.",
+      "ex": [
+        {
+          "en": "This is the most beautiful painting in the museum.",
+          "mean": "This painting is more lovely than all the others."
+        },
+        {
+          "en": "That was the most expensive meal we ever ate.",
+          "mean": "We paid more money for this food than any other meal."
+        },
+        {
+          "en": "Mathematics is the most difficult subject for me.",
+          "mean": "Math is harder for me than any other school subject."
+        }
+      ]
+    },
+    {
+      "h": "Irregular Superlatives",
+      "p": "Some very common adjectives do not follow the normal rules. You have to memorize them! The word 'good' becomes 'the best'. The word 'bad' becomes 'the worst'. They completely change their form, so you must practice them often to remember them correctly.",
+      "ex": [
+        {
+          "en": "Pizza is the best food in the world.",
+          "mean": "Pizza is my absolute favorite food."
+        },
+        {
+          "en": "Monday is the worst day of the week for me.",
+          "mean": "Monday is my least favorite day."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "superlative",
+      "mean": "the highest quality"
+    },
+    {
+      "en": "the biggest",
+      "mean": "largest in size"
+    },
+    {
+      "en": "the most beautiful",
+      "mean": "loveliest to see"
+    },
+    {
+      "en": "the best",
+      "mean": "highest quality"
+    },
+    {
+      "en": "the worst",
+      "mean": "lowest quality"
+    },
+    {
+      "en": "expensive",
+      "mean": "costs much money"
+    },
+    {
+      "en": "tallest",
+      "mean": "highest in height"
+    }
+  ],
+  "tip": "Always remember to put the word 'the' before your superlative adjective. We say 'the biggest', not just 'biggest'.",
+  "quiz": [
+    {
+      "ask": "Choose the correct superlative form",
+      "en": "Mount Everest is ___ mountain in the world.",
+      "choices": [
+        "the higher",
+        "highest",
+        "the highest",
+        "most high"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word for a long adjective",
+      "en": "That was ___ movie I have ever seen.",
+      "choices": [
+        "the most boring",
+        "the boringest",
+        "more boring",
+        "boring"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct irregular superlative",
+      "en": "She is ___ player on the tennis team.",
+      "choices": [
+        "the goodest",
+        "the best",
+        "best",
+        "the better"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Complete the sentence with the correct form",
+      "en": "Yesterday was ___ day of my summer holiday.",
+      "choices": [
+        "the hot",
+        "hotter",
+        "the hottest",
+        "hottest"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct negative irregular form",
+      "en": "This is ___ coffee I have ever tasted.",
+      "choices": [
+        "the worst",
+        "the baddest",
+        "worst",
+        "the worse"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct long adjective superlative",
+      "en": "Chemistry is ___ subject in high school.",
+      "choices": [
+        "difficult",
+        "the most difficult",
+        "the difficulter",
+        "most difficult"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

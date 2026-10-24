@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-24",
+  "slug": "going-to-future",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🗓️",
+  "title": "Talking About the Future",
+  "summary": "Learn how to use 'be going to' to talk about your future plans. You will also learn how to make easy predictions about the weather or things you can see.",
+  "sections": [
+    {
+      "h": "Future Plans",
+      "p": "We use 'be going to' plus an action verb to talk about plans we have already made for the future. First, change the verb 'be' to 'am', 'is', or 'are' depending on your subject. Then add 'going to' and the main action. For example, if you have a plan to travel next week, you say 'I am going to travel.' This is very common for talking about weekends, holidays, and meetings.",
+      "ex": [
+        {
+          "en": "I am going to visit my grandmother this weekend.",
+          "mean": "I have a plan to see my grandmother soon."
+        },
+        {
+          "en": "We are going to buy a new car tomorrow.",
+          "mean": "We have decided and planned to get a car."
+        },
+        {
+          "en": "She is going to study English tonight.",
+          "mean": "She has a study plan for this evening."
+        }
+      ]
+    },
+    {
+      "h": "Future Predictions",
+      "p": "We also use 'be going to' when we can see or feel something happening right now that tells us about the very near future. Look at the sky! If you see dark, heavy clouds, you know what will happen next. We use 'is going to' or 'are going to' to describe these clear signs all around us.",
+      "ex": [
+        {
+          "en": "Look at those dark clouds! It is going to rain.",
+          "mean": "I see dark clouds, so rain is coming very soon."
+        },
+        {
+          "en": "Be careful! You are going to drop that glass.",
+          "mean": "I can see you are holding it badly."
+        }
+      ]
+    },
+    {
+      "h": "Negative Plans",
+      "p": "To talk about things you do not have a plan to do, just add the word 'not' right after 'am', 'is', or 'are'. This creates a negative sentence. For example, 'I am not going to work on Sunday' means you plan to stay home and rest instead of working.",
+      "ex": [
+        {
+          "en": "I am not going to cook dinner tonight.",
+          "mean": "I have no plan to cook; maybe we will order food."
+        },
+        {
+          "en": "They are not going to come to the party.",
+          "mean": "They have decided to stay home."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "be going to",
+      "mean": "future plans phrase"
+    },
+    {
+      "en": "plan",
+      "mean": "idea for the future"
+    },
+    {
+      "en": "prediction",
+      "mean": "guessing the future"
+    },
+    {
+      "en": "tomorrow",
+      "mean": "the day after today"
+    },
+    {
+      "en": "tonight",
+      "mean": "this evening"
+    },
+    {
+      "en": "weekend",
+      "mean": "Saturday and Sunday"
+    },
+    {
+      "en": "rain",
+      "mean": "water from clouds"
+    }
+  ],
+  "tip": "Always remember the order: Subject + am/is/are + going to + action verb. Never forget the 'to'!",
+  "quiz": [
+    {
+      "ask": "Choose the correct form of 'be'",
+      "en": "I ___ going to visit my friend tomorrow.",
+      "choices": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "She is going ___ buy a new dress.",
+      "choices": [
+        "to",
+        "for",
+        "at",
+        "going"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Select the correct prediction sentence",
+      "en": "Look at the grey sky! It ___ going to rain.",
+      "choices": [
+        "am",
+        "be",
+        "is",
+        "are"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct negative form",
+      "en": "We ___ going to watch TV tonight.",
+      "choices": [
+        "are not",
+        "is not",
+        "am not",
+        "not are"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct question word",
+      "en": "___ you going to cook dinner?",
+      "choices": [
+        "Am",
+        "Is",
+        "Are",
+        "Do"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Select the correct action form",
+      "en": "They are going to ___ football on Saturday.",
+      "choices": [
+        "plays",
+        "playing",
+        "played",
+        "play"
+      ],
+      "answer_index": 3
+    }
+  ]
+}
