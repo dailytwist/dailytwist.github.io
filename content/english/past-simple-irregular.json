@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-24",
+  "slug": "past-simple-irregular",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🕒",
+  "title": "Common Irregular Past Simple Verbs",
+  "summary": "Learn how to talk about the past using common irregular verbs. You will practice making sentences about yesterday and last week.",
+  "sections": [
+    {
+      "h": "What is an Irregular Verb?",
+      "p": "Normally, we add -ed to make the past simple, like play to played. But some verbs change completely! These are irregular verbs. You must learn their special past forms because we use them every day in English. They do not follow the normal rules.",
+      "ex": [
+        {
+          "en": "I went to the store yesterday.",
+          "mean": "I travelled to the shop in the past."
+        },
+        {
+          "en": "She saw a good movie last night.",
+          "mean": "She watched a film recently."
+        }
+      ]
+    },
+    {
+      "h": "Go, Have, and Do",
+      "p": "Three of the most important irregular verbs are go, have, and do. The past form of go is went. The past form of have is had. The past form of do is did. We use these verbs in almost every conversation about our daily lives.",
+      "ex": [
+        {
+          "en": "We had breakfast at eight o'clock.",
+          "mean": "We ate our morning meal earlier."
+        },
+        {
+          "en": "He did his homework after school.",
+          "mean": "He finished his schoolwork in the past."
+        }
+      ]
+    },
+    {
+      "h": "Say, Get, and Make",
+      "p": "Other very common verbs are say, get, and make. Their past forms are said, got, and made. You will hear native speakers use these verbs constantly when telling stories or talking about what happened earlier today.",
+      "ex": [
+        {
+          "en": "She said hello to me.",
+          "mean": "She spoke a greeting to me earlier."
+        },
+        {
+          "en": "They made a cake for the party.",
+          "mean": "They created a sweet food in the past."
+        }
+      ]
+    },
+    {
+      "h": "See, Come, and Take",
+      "p": "Finally, let us look at see, come, and take. The past forms are saw, came, and took. Remember that these words do not end in -ed. You need to memorize each new form because they are very different from the present tense.",
+      "ex": [
+        {
+          "en": "I saw my friend at the park.",
+          "mean": "My eyes looked at my friend earlier."
+        },
+        {
+          "en": "He took an umbrella because it rained.",
+          "mean": "He carried an umbrella with him."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "went",
+      "mean": "past of go"
+    },
+    {
+      "en": "had",
+      "mean": "past of have"
+    },
+    {
+      "en": "did",
+      "mean": "past of do"
+    },
+    {
+      "en": "said",
+      "mean": "past of say"
+    },
+    {
+      "en": "got",
+      "mean": "past of get"
+    },
+    {
+      "en": "made",
+      "mean": "past of make"
+    },
+    {
+      "en": "saw",
+      "mean": "past of see"
+    },
+    {
+      "en": "came",
+      "mean": "past of come"
+    },
+    {
+      "en": "took",
+      "mean": "past of take"
+    }
+  ],
+  "tip": "Make flashcards with the present verb on one side and the irregular past form on the other. Practice them for five minutes every day!",
+  "quiz": [
+    {
+      "ask": "Choose the correct past verb",
+      "en": "I ___ to the supermarket this morning.",
+      "choices": [
+        "go",
+        "went",
+        "goed"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct past verb",
+      "en": "She ___ a great time at the party yesterday.",
+      "choices": [
+        "had",
+        "have",
+        "has"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct past verb",
+      "en": "We ___ a delicious pizza for dinner.",
+      "choices": [
+        "maked",
+        "make",
+        "made"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct past verb",
+      "en": "He ___ his keys on the table.",
+      "choices": [
+        "taked",
+        "take",
+        "took"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct past verb",
+      "en": "They ___ a nice bird in the tree.",
+      "choices": [
+        "saw",
+        "seed",
+        "see"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct past verb",
+      "en": "My friend ___ to my house last night.",
+      "choices": [
+        "comed",
+        "came",
+        "come"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

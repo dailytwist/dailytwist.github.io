@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-24",
+  "slug": "past-simple-regular",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "⏳",
+  "title": "Hablando del pasado: verbos regulares",
+  "summary": "Aprende a hablar de cosas que pasaron ayer o el año pasado. Usarás reglas de ortografía muy sencillas para los verbos regulares.",
+  "sections": [
+    {
+      "h": "¿Qué es el pasado simple?",
+      "p": "Usamos el pasado simple para hablar de acciones terminadas en el pasado. Con los verbos regulares, formar el pasado es muy fácil. Solo añadimos '-ed' al final de la palabra de acción. Es igual para 'I', 'you', 'he', 'she', 'we' y 'they'.",
+      "ex": [
+        {
+          "en": "I walked to the store yesterday.",
+          "mean": "Fui a la tienda a pie en el pasado."
+        },
+        {
+          "en": "They played football last weekend.",
+          "mean": "Ellos jugaron un partido de fútbol en el pasado."
+        }
+      ]
+    },
+    {
+      "h": "Reglas ortográficas: verbos que terminan en 'E'",
+      "p": "Algunas palabras de acción ya terminan con la letra 'e'. Para estos verbos, no necesitas añadir '-ed'. Solo tienes que agregar una letra 'd' al final. ¡Esto hace que escribir y deletrear sea mucho más rápido y fácil para ti!",
+      "ex": [
+        {
+          "en": "She liked the new movie.",
+          "mean": "Ella disfrutó de la película en el pasado."
+        },
+        {
+          "en": "We lived in London in 2020.",
+          "mean": "Nuestro hogar estuvo en Londres durante el año 2020."
+        }
+      ]
+    },
+    {
+      "h": "Reglas ortográficas: verbos que terminan en consonante + 'Y'",
+      "p": "Cuando un verbo termina con una letra consonante y la letra 'y', cambiamos la 'y' por una 'i'. Luego, añadimos '-ed'. Por ejemplo, 'study' se convierte en 'studied'. Pero si hay una vocal antes de la 'y', como en 'play', simplemente añade '-ed'.",
+      "ex": [
+        {
+          "en": "He studied English last night.",
+          "mean": "Él aprendió inglés ayer por la tarde."
+        },
+        {
+          "en": "She cried when she was sad.",
+          "mean": "Las lágrimas brotaron de sus ojos en el pasado."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "past simple",
+      "mean": "gramática para acciones terminadas"
+    },
+    {
+      "en": "regular verb",
+      "mean": "verbo que usa -ed"
+    },
+    {
+      "en": "yesterday",
+      "mean": "el día anterior a hoy"
+    },
+    {
+      "en": "last night",
+      "mean": "la tarde anterior a hoy"
+    },
+    {
+      "en": "played",
+      "mean": "pasado de play"
+    },
+    {
+      "en": "walked",
+      "mean": "pasado de walk"
+    },
+    {
+      "en": "studied",
+      "mean": "pasado de study"
+    },
+    {
+      "en": "lived",
+      "mean": "pasado de live"
+    }
+  ],
+  "tip": "Busca palabras como 'yesterday' o 'last week'. Cuando las veas, ¡recuerda cambiar tu verbo a la forma de pasado simple!",
+  "quiz": [
+    {
+      "ask": "Elige la forma de pasado simple correcta",
+      "en": "I ___ to music yesterday.",
+      "choices": [
+        "listen",
+        "listened",
+        "listens"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la forma de pasado simple correcta",
+      "en": "She ___ her friend last weekend.",
+      "choices": [
+        "visit",
+        "visits",
+        "visited"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la ortografía correcta",
+      "en": "They ___ in that house ten years ago.",
+      "choices": [
+        "lived",
+        "liveed",
+        "livd"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la forma de pasado simple correcta",
+      "en": "He ___ hard for the test last night.",
+      "choices": [
+        "studyed",
+        "studied",
+        "study"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la oración correcta",
+      "en": "Select the correct past sentence:",
+      "choices": [
+        "We cook dinner yesterday.",
+        "We cooked dinner yesterday.",
+        "We cooking dinner yesterday."
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta para el espacio",
+      "en": "The baby ___ because he was tired.",
+      "choices": [
+        "cryed",
+        "cried",
+        "cries"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

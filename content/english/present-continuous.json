@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-24",
+  "slug": "present-continuous",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "🌟",
+  "title": "What Are You Doing Now?",
+  "summary": "Learn how to talk about actions happening right now. Use the present continuous to describe life at this exact moment.",
+  "sections": [
+    {
+      "h": "What is the Present Continuous?",
+      "p": "We use the present continuous to talk about things happening right now. We use the verb 'to be' (am, is, are) plus an action word ending in '-ing'. For example, instead of just saying 'I read', we say 'I am reading' if the book is open in front of us at this exact moment.",
+      "ex": [
+        {
+          "en": "I am eating lunch now.",
+          "mean": "food is in my mouth right this second"
+        },
+        {
+          "en": "She is listening to music.",
+          "mean": "music is playing in her ears now"
+        }
+      ]
+    },
+    {
+      "h": "Forming 'I', 'He', 'She', 'It'",
+      "p": "When talking about yourself, use 'am' plus the '-ing' verb. For one other person or thing like he, she, or it, use 'is' plus the '-ing' verb. These are great for describing what people around you are doing right this second.",
+      "ex": [
+        {
+          "en": "I am working at my desk.",
+          "mean": "I am doing my job right now"
+        },
+        {
+          "en": "He is running in the park.",
+          "mean": "his feet are moving fast outside now"
+        }
+      ]
+    },
+    {
+      "h": "Forming 'We', 'You', 'They'",
+      "p": "When talking about groups or the person you are talking to, use 'are' plus the '-ing' verb. This helps you describe group activities and things happening all around you in real time.",
+      "ex": [
+        {
+          "en": "We are learning English together.",
+          "mean": "we are studying this lesson now"
+        },
+        {
+          "en": "They are playing soccer outside.",
+          "mean": "those people are kicking a ball now"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "am",
+      "mean": "used with I"
+    },
+    {
+      "en": "is",
+      "mean": "used with he, she, it"
+    },
+    {
+      "en": "are",
+      "mean": "used with you, we, they"
+    },
+    {
+      "en": "now",
+      "mean": "at this moment"
+    },
+    {
+      "en": "eating",
+      "mean": "having food"
+    },
+    {
+      "en": "reading",
+      "mean": "looking at words"
+    },
+    {
+      "en": "sleeping",
+      "mean": "resting with eyes closed"
+    },
+    {
+      "en": "working",
+      "mean": "doing a job"
+    }
+  ],
+  "tip": "Look around your room right now and make three sentences. Say out loud what you are doing, what a friend is doing, and what you both are wearing!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "I ___ reading a very good book.",
+      "choices": [
+        "is",
+        "am",
+        "are"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "She ___ cooking dinner in the kitchen.",
+      "choices": [
+        "is",
+        "am",
+        "are"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "We ___ learning English today.",
+      "choices": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct ending",
+      "en": "They are play___ soccer outside.",
+      "choices": [
+        "ed",
+        "s",
+        "ing"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct sentence",
+      "en": "Which sentence means it is happening now?",
+      "choices": [
+        "He is sleeping.",
+        "He sleeps every day.",
+        "He slept yesterday."
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "What ___ you doing right now?",
+      "choices": [
+        "is",
+        "are",
+        "am"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

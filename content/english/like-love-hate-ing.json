@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-24",
+  "slug": "like-love-hate-ing",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "❤️",
+  "title": "Talking About What You Like",
+  "summary": "Learn how to use like, love, and hate to talk about your favorite things. You will also learn how to add -ing to action words.",
+  "sections": [
+    {
+      "h": "Show How You Feel",
+      "p": "We use the words like, love, and hate to talk about things we enjoy or do not enjoy. Love means you like something very much. Like means you think something is good. Hate means you do not like something at all. These words help you share your feelings with friends every day.",
+      "ex": [
+        {
+          "en": "I love pizza.",
+          "mean": "Pizza is my absolute favorite food."
+        },
+        {
+          "en": "I like tea.",
+          "mean": "Tea is a nice drink for me."
+        },
+        {
+          "en": "I hate cold weather.",
+          "mean": "Cold weather is not good for me."
+        }
+      ]
+    },
+    {
+      "h": "Talking About Actions with -ing",
+      "p": "When you want to talk about an action after like, love, or hate, you must add -ing to the action word. For example, read becomes reading. This is a very common way to talk about your hobbies and daily free time activities in English.",
+      "ex": [
+        {
+          "en": "I love reading books.",
+          "mean": "Reading books makes me very happy."
+        },
+        {
+          "en": "She likes cooking dinner.",
+          "mean": "Cooking dinner is fun for her."
+        },
+        {
+          "en": "They hate waiting.",
+          "mean": "Waiting makes them very unhappy."
+        }
+      ]
+    },
+    {
+      "h": "Asking Questions",
+      "p": "Do you want to know what your friend likes? You can ask a simple question using Do you like? followed by an action with -ing. This is a great way to start a conversation and find people who share your hobbies.",
+      "ex": [
+        {
+          "en": "Do you like swimming?",
+          "mean": "Is swimming an activity you enjoy?"
+        },
+        {
+          "en": "What do you love doing?",
+          "mean": "Tell me your favorite activity."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "like",
+      "mean": "find something good"
+    },
+    {
+      "en": "love",
+      "mean": "like very much"
+    },
+    {
+      "en": "hate",
+      "mean": "dislike very much"
+    },
+    {
+      "en": "reading",
+      "mean": "looking at words in books"
+    },
+    {
+      "en": "cooking",
+      "mean": "making food"
+    },
+    {
+      "en": "swimming",
+      "mean": "moving in water"
+    },
+    {
+      "en": "waiting",
+      "mean": "staying until something happens"
+    },
+    {
+      "en": "hobby",
+      "mean": "free time activity"
+    }
+  ],
+  "tip": "Always remember to add -ing to the action word when it comes after like, love, or hate. For example: I like running, not I like run.",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "I ___ pizza very much. It is my favorite food.",
+      "choices": [
+        "hate",
+        "love",
+        "run"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct form",
+      "en": "She likes ___ books in the evening.",
+      "choices": [
+        "read",
+        "reads",
+        "reading"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct answer",
+      "en": "They ___ cold weather. They stay inside all day.",
+      "choices": [
+        "hate",
+        "love",
+        "like"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct question",
+      "en": "___ you like swimming?",
+      "choices": [
+        "Are",
+        "Do",
+        "Does"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct form",
+      "en": "He loves ___ football with his friends.",
+      "choices": [
+        "play",
+        "plays",
+        "playing"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "I don't like waiting. I ___ it.",
+      "choices": [
+        "hate",
+        "love",
+        "want"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

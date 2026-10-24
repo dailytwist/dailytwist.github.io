@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-24",
+  "slug": "past-simple-regular",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "⏳",
+  "title": "Talking About the Past: Regular Verbs",
+  "summary": "Learn how to talk about things that happened yesterday or last year. You will use easy spelling rules for regular verbs.",
+  "sections": [
+    {
+      "h": "What is the Past Simple?",
+      "p": "We use the past simple to talk about finished actions in the past. For regular verbs, we make the past form very easily. We just add '-ed' to the end of the action word. It is the same for 'I', 'you', 'he', 'she', 'we', and 'they'.",
+      "ex": [
+        {
+          "en": "I walked to the store yesterday.",
+          "mean": "I went to the store on foot in the past."
+        },
+        {
+          "en": "They played football last weekend.",
+          "mean": "They played a game of football in the past."
+        }
+      ]
+    },
+    {
+      "h": "Spelling Rules: Verbs Ending in 'E'",
+      "p": "Some action words already end with the letter 'e'. For these verbs, you do not need to add '-ed'. You only need to add a letter 'd' to the end. This makes writing and spelling much faster and easier for you.",
+      "ex": [
+        {
+          "en": "She liked the new movie.",
+          "mean": "She enjoyed the movie in the past."
+        },
+        {
+          "en": "We lived in London in 2020.",
+          "mean": "Our home was in London during the year 2020."
+        }
+      ]
+    },
+    {
+      "h": "Spelling Rules: Verbs Ending in Consonant + 'Y'",
+      "p": "When a verb ends with a consonant letter and the letter 'y', we change the 'y' to 'i'. Then, we add '-ed'. For example, 'study' becomes 'studied'. But if there is a vowel before the 'y', like in 'play', just add '-ed'.",
+      "ex": [
+        {
+          "en": "He studied English last night.",
+          "mean": "He learned English yesterday evening."
+        },
+        {
+          "en": "She cried when she was sad.",
+          "mean": "Tears came from her eyes in the past."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "past simple",
+      "mean": "grammar for finished actions"
+    },
+    {
+      "en": "regular verb",
+      "mean": "verb that uses -ed"
+    },
+    {
+      "en": "yesterday",
+      "mean": "the day before today"
+    },
+    {
+      "en": "last night",
+      "mean": "the evening before today"
+    },
+    {
+      "en": "played",
+      "mean": "past of play"
+    },
+    {
+      "en": "walked",
+      "mean": "past of walk"
+    },
+    {
+      "en": "studied",
+      "mean": "past of study"
+    },
+    {
+      "en": "lived",
+      "mean": "past of live"
+    }
+  ],
+  "tip": "Look for words like 'yesterday' or 'last week'. When you see them, remember to change your verb to the past simple form!",
+  "quiz": [
+    {
+      "ask": "Choose the correct past simple form",
+      "en": "I ___ to music yesterday.",
+      "choices": [
+        "listen",
+        "listened",
+        "listens"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct past simple form",
+      "en": "She ___ her friend last weekend.",
+      "choices": [
+        "visit",
+        "visits",
+        "visited"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct spelling",
+      "en": "They ___ in that house ten years ago.",
+      "choices": [
+        "lived",
+        "liveed",
+        "livd"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct past simple form",
+      "en": "He ___ hard for the test last night.",
+      "choices": [
+        "studyed",
+        "studied",
+        "study"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct sentence",
+      "en": "Select the correct past sentence:",
+      "choices": [
+        "We cook dinner yesterday.",
+        "We cooked dinner yesterday.",
+        "We cooking dinner yesterday."
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word for the gap",
+      "en": "The baby ___ because he was tired.",
+      "choices": [
+        "cryed",
+        "cried",
+        "cries"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

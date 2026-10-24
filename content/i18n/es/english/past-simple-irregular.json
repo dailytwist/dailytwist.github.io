@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-24",
+  "slug": "past-simple-irregular",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🕒",
+  "title": "Verbos en pasado simple irregular más comunes",
+  "summary": "Aprende a hablar del pasado usando verbos irregulares comunes. Practicarás haciendo frases sobre ayer y la semana pasada.",
+  "sections": [
+    {
+      "h": "¿Qué es un verbo irregular?",
+      "p": "Normalmente, añadimos -ed para formar el pasado simple, como play que pasa a played. ¡Pero algunos verbos cambian por completo! Estos son los verbos irregulares. Debes aprender sus formas de pasado especiales porque los usamos todos los días en inglés. No siguen las reglas normales.",
+      "ex": [
+        {
+          "en": "I went to the store yesterday.",
+          "mean": "I travelled to the shop in the past."
+        },
+        {
+          "en": "She saw a good movie last night.",
+          "mean": "She watched a film recently."
+        }
+      ]
+    },
+    {
+      "h": "Go, Have y Do",
+      "p": "Tres de los verbos irregulares más importantes son go, have y do. La forma de pasado de go es went. La forma de pasado de have es had. La forma de pasado de do es did. Usamos estos verbos en casi todas las conversaciones sobre nuestra vida diaria.",
+      "ex": [
+        {
+          "en": "We had breakfast at eight o'clock.",
+          "mean": "We ate our morning meal earlier."
+        },
+        {
+          "en": "He did his homework after school.",
+          "mean": "He finished his schoolwork in the past."
+        }
+      ]
+    },
+    {
+      "h": "Say, Get y Make",
+      "p": "Otros verbos muy comunes son say, get y make. Sus formas de pasado son said, got y made. Oirás a los hablantes nativos usar estos verbos constantemente al contar historias o hablar de lo que pasó antes hoy.",
+      "ex": [
+        {
+          "en": "She said hello to me.",
+          "mean": "She spoke a greeting to me earlier."
+        },
+        {
+          "en": "They made a cake for the party.",
+          "mean": "They created a sweet food in the past."
+        }
+      ]
+    },
+    {
+      "h": "See, Come y Take",
+      "p": "Por último, veamos see, come y take. Las formas de pasado son saw, came y took. Recuerda que estas palabras no terminan en -ed. Necesitas memorizar cada nueva forma porque son muy diferentes del tiempo presente.",
+      "ex": [
+        {
+          "en": "I saw my friend at the park.",
+          "mean": "My eyes looked at my friend earlier."
+        },
+        {
+          "en": "He took an umbrella because it rained.",
+          "mean": "He carried an umbrella with him."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "went",
+      "mean": "pasado de go"
+    },
+    {
+      "en": "had",
+      "mean": "pasado de have"
+    },
+    {
+      "en": "did",
+      "mean": "pasado de do"
+    },
+    {
+      "en": "said",
+      "mean": "pasado de say"
+    },
+    {
+      "en": "got",
+      "mean": "pasado de get"
+    },
+    {
+      "en": "made",
+      "mean": "pasado de make"
+    },
+    {
+      "en": "saw",
+      "mean": "pasado de see"
+    },
+    {
+      "en": "came",
+      "mean": "pasado de come"
+    },
+    {
+      "en": "took",
+      "mean": "pasado de take"
+    }
+  ],
+  "tip": "¡Haz tarjetas de memoria con el verbo en presente en un lado y la forma de pasado irregular en el otro. Practícalas durante cinco minutos todos los días!",
+  "quiz": [
+    {
+      "ask": "Elige el verbo en pasado correcto",
+      "en": "I ___ to the supermarket this morning.",
+      "choices": [
+        "go",
+        "went",
+        "goed"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige el verbo en pasado correcto",
+      "en": "She ___ a great time at the party yesterday.",
+      "choices": [
+        "had",
+        "have",
+        "has"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige el verbo en pasado correcto",
+      "en": "We ___ a delicious pizza for dinner.",
+      "choices": [
+        "maked",
+        "make",
+        "made"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige el verbo en pasado correcto",
+      "en": "He ___ his keys on the table.",
+      "choices": [
+        "taked",
+        "take",
+        "took"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige el verbo en pasado correcto",
+      "en": "They ___ a nice bird in the tree.",
+      "choices": [
+        "saw",
+        "seed",
+        "see"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige el verbo en pasado correcto",
+      "en": "My friend ___ to my house last night.",
+      "choices": [
+        "comed",
+        "came",
+        "come"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

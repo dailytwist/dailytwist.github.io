@@ -1,400 +1,224 @@
-- name Thomas
-  saved content/names/thomas.json
-- name Yassine
-  saved content/names/yassine.json
-- name Nathan
-  saved content/names/nathan.json
-- name Walid
-  saved content/names/walid.json
-  saved content/i18n/es/horoscopes/2026-10-24.json
-  saved content/i18n/es/trivia/2026-10-24.json
-  saved content/i18n/es/pairs/taurus-cancer.json
-  saved content/i18n/es/pairs/taurus-scorpio.json
-  saved content/i18n/es/pairs/taurus-pisces.json
-  saved content/i18n/es/pairs/taurus-aquarius.json
-  saved content/i18n/es/pairs/taurus-gemini.json
-  saved content/i18n/es/pairs/taurus-libra.json
-  saved content/i18n/es/dreams/bird.json
-  saved content/i18n/fr/horoscopes/2026-10-24.json
-  saved content/i18n/fr/trivia/2026-10-24.json
-  saved content/i18n/fr/pairs/taurus-cancer.json
-  saved content/i18n/fr/pairs/taurus-scorpio.json
-  saved content/i18n/fr/pairs/taurus-pisces.json
-  saved content/i18n/fr/pairs/taurus-aquarius.json
-  saved content/i18n/de/horoscopes/2026-10-24.json
-  saved content/i18n/de/trivia/2026-10-24.json
-  saved content/i18n/de/pairs/taurus-cancer.json
-  saved content/i18n/pt/horoscopes/2026-10-24.json
-  saved content/i18n/pt/trivia/2026-10-24.json
-  saved content/i18n/pt/pairs/taurus-cancer.json
-  saved content/i18n/pt/pairs/taurus-scorpio.json
-  saved content/i18n/pt/pairs/taurus-pisces.json
-  saved content/i18n/pt/pairs/taurus-aquarius.json
-  saved content/i18n/it/horoscopes/2026-10-24.json
-  saved content/i18n/it/trivia/2026-10-24.json
-  saved content/i18n/it/pairs/taurus-cancer.json
-  saved content/i18n/ja/horoscopes/2026-10-24.json
-  saved content/i18n/ja/trivia/2026-10-24.json
-  saved content/i18n/ja/pairs/taurus-cancer.json
-  saved content/i18n/ar/horoscopes/2026-10-24.json
-  saved content/i18n/ar/trivia/2026-10-24.json
-  saved content/i18n/ar/pairs/taurus-cancer.json
-  saved content/i18n/es/dreams/moon.json
-  saved content/i18n/es/dreams/stars.json
-  saved content/i18n/es/dreams/sun.json
-  saved content/i18n/es/dreams/mirror.json
-  saved content/i18n/es/dreams/horse.json
-  saved content/i18n/es/guides/birthday-february-3.json
-  saved content/i18n/es/guides/tarot-judgement.json
-  saved content/i18n/es/guides/birthstone-december.json
-  saved content/i18n/es/guides/birthday-february-4.json
-  saved content/i18n/fr/pairs/taurus-gemini.json
-  saved content/i18n/fr/pairs/taurus-libra.json
-  saved content/i18n/fr/dreams/bird.json
-  saved content/i18n/fr/dreams/moon.json
-  saved content/i18n/fr/dreams/stars.json
-  saved content/i18n/fr/dreams/sun.json
-  saved content/i18n/de/pairs/taurus-scorpio.json
-  saved content/i18n/de/pairs/taurus-pisces.json
-  saved content/i18n/de/pairs/taurus-aquarius.json
-  saved content/i18n/pt/pairs/taurus-gemini.json
-  saved content/i18n/pt/pairs/taurus-libra.json
-  AI call failed (HTTP Error 429: Too Many Requests { "error": { "code": 429, "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for), retry 1/4 in 65s
-  saved content/i18n/pt/dreams/bird.json
-  AI call failed (HTTP Error 429: Too Many Requests { "error": { "code": 429, "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for), retry 1/4 in 65s
-  saved content/i18n/pt/dreams/moon.json
-  saved content/i18n/pt/dreams/stars.json
-  AI call failed (HTTP Error 429: Too Many Requests { "error": { "code": 429, "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for), retry 1/4 in 65s
-  saved content/i18n/pt/dreams/sun.json
-  saved content/i18n/it/pairs/taurus-scorpio.json
-  AI call failed (HTTP Error 429: Too Many Requests { "error": { "code": 429, "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for), retry 1/4 in 65s
-::warning::daily quota reached, switching to gemini-flash-lite-latest
-  saved content/i18n/it/pairs/taurus-pisces.json
-  saved content/i18n/it/pairs/taurus-aquarius.json
-  AI call failed (HTTP Error 429: Too Many Requests { "error": { "code": 429, "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for), retry 1/4 in 65s
-::warning::daily quota reached, switching to gemini-2.5-flash-lite
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-::warning::translate pairs/taurus-scorpio.json -> ja failed: AI call failed after retries: HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to us
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-::warning::translate pairs/taurus-pisces.json -> ja failed: AI call failed after retries: HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to us
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-::warning::translate pairs/taurus-aquarius.json -> ja failed: AI call failed after retries: HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to us
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-::warning::translate pairs/taurus-scorpio.json -> ar failed: AI call failed after retries: HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to us
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-::warning::translate pairs/taurus-pisces.json -> ar failed: AI call failed after retries: HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to us
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-::warning::translate pairs/taurus-aquarius.json -> ar failed: AI call failed after retries: HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to us
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-::warning::translate guides/birthday-february-5.json -> es failed: AI call failed after retries: HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to us
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-::warning::translate guides/angel-2121.json -> es failed: AI call failed after retries: HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to us
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-::warning::translate guides/birthday-february-2.json -> es failed: AI call failed after retries: HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to us
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-::warning::translate guides/tarot-the-world.json -> es failed: AI call failed after retries: HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to us
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-::warning::translate guides/angel-123.json -> es failed: AI call failed after retries: HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to us
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 1/4 in 10s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 2/4 in 20s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 3/4 in 30s
-  AI call failed (HTTP Error 404: Not Found { "error": { "code": 404, "message": "This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs), retry 4/4 in 40s
-::warning::translate guides/birthday-february-1.json -> es failed: time budget for this run is used up
-::warning::translate guides/birthstone-november.json -> es failed: time budget for this run is used up
-::warning::translate guides/birthday-january-31.json -> es failed: time budget for this run is used up
-::warning::translate guides/angel-0000.json -> es failed: time budget for this run is used up
-::warning::translate dreams/mirror.json -> fr failed: time budget for this run is used up
-::warning::translate dreams/horse.json -> fr failed: time budget for this run is used up
-::warning::translate guides/birthday-february-3.json -> fr failed: time budget for this run is used up
-::warning::translate guides/tarot-judgement.json -> fr failed: time budget for this run is used up
-::warning::translate guides/birthstone-december.json -> fr failed: time budget for this run is used up
-::warning::translate guides/birthday-february-4.json -> fr failed: time budget for this run is used up
-::warning::translate pairs/taurus-gemini.json -> de failed: time budget for this run is used up
-::warning::translate pairs/taurus-libra.json -> de failed: time budget for this run is used up
-::warning::translate dreams/bird.json -> de failed: time budget for this run is used up
-::warning::translate dreams/mirror.json -> pt failed: time budget for this run is used up
-::warning::translate dreams/horse.json -> pt failed: time budget for this run is used up
-::warning::translate guides/birthday-february-3.json -> pt failed: time budget for this run is used up
-::warning::translate guides/tarot-judgement.json -> pt failed: time budget for this run is used up
-::warning::translate guides/birthstone-december.json -> pt failed: time budget for this run is used up
-::warning::translate guides/birthday-february-4.json -> pt failed: time budget for this run is used up
-::warning::translate pairs/taurus-gemini.json -> it failed: time budget for this run is used up
-::warning::translate pairs/taurus-libra.json -> it failed: time budget for this run is used up
-::warning::translate dreams/bird.json -> it failed: time budget for this run is used up
-::warning::translate pairs/taurus-scorpio.json -> ja failed: time budget for this run is used up
-::warning::translate pairs/taurus-pisces.json -> ja failed: time budget for this run is used up
-::warning::translate pairs/taurus-aquarius.json -> ja failed: time budget for this run is used up
-::warning::translate pairs/taurus-scorpio.json -> ar failed: time budget for this run is used up
-::warning::translate pairs/taurus-pisces.json -> ar failed: time budget for this run is used up
-::warning::translate pairs/taurus-aquarius.json -> ar failed: time budget for this run is used up
-::warning::translate guides/birthday-february-5.json -> es failed: time budget for this run is used up
-::warning::translate guides/angel-2121.json -> es failed: time budget for this run is used up
-::warning::translate guides/birthday-february-2.json -> es failed: time budget for this run is used up
-::warning::translate guides/tarot-the-world.json -> es failed: time budget for this run is used up
-::warning::translate guides/angel-123.json -> es failed: time budget for this run is used up
-::warning::translate guides/birthday-february-1.json -> es failed: time budget for this run is used up
-::warning::translate guides/birthstone-november.json -> es failed: time budget for this run is used up
-::warning::translate guides/birthday-january-31.json -> es failed: time budget for this run is used up
-::warning::translate guides/angel-0000.json -> es failed: time budget for this run is used up
-::warning::translate dreams/mirror.json -> fr failed: time budget for this run is used up
-::warning::translate dreams/horse.json -> fr failed: time budget for this run is used up
-::warning::translate guides/birthday-february-3.json -> fr failed: time budget for this run is used up
-::warning::translate guides/tarot-judgement.json -> fr failed: time budget for this run is used up
-::warning::translate guides/birthstone-december.json -> fr failed: time budget for this run is used up
-::warning::translate guides/birthday-february-4.json -> fr failed: time budget for this run is used up
-::warning::translate pairs/taurus-gemini.json -> de failed: time budget for this run is used up
-::warning::translate pairs/taurus-libra.json -> de failed: time budget for this run is used up
-::warning::translate dreams/bird.json -> de failed: time budget for this run is used up
-::warning::translate dreams/mirror.json -> pt failed: time budget for this run is used up
-::warning::translate dreams/horse.json -> pt failed: time budget for this run is used up
-::warning::translate guides/birthday-february-3.json -> pt failed: time budget for this run is used up
-::warning::translate guides/tarot-judgement.json -> pt failed: time budget for this run is used up
-::warning::translate guides/birthstone-december.json -> pt failed: time budget for this run is used up
-::warning::translate guides/birthday-february-4.json -> pt failed: time budget for this run is used up
-::warning::translate pairs/taurus-gemini.json -> it failed: time budget for this run is used up
-::warning::translate pairs/taurus-libra.json -> it failed: time budget for this run is used up
-::warning::translate dreams/bird.json -> it failed: time budget for this run is used up
-::warning::translate pairs/taurus-scorpio.json -> ja failed: time budget for this run is used up
-::warning::translate pairs/taurus-pisces.json -> ja failed: time budget for this run is used up
-::warning::translate pairs/taurus-aquarius.json -> ja failed: time budget for this run is used up
-::warning::translate pairs/taurus-scorpio.json -> ar failed: time budget for this run is used up
-::warning::translate pairs/taurus-pisces.json -> ar failed: time budget for this run is used up
-::warning::translate pairs/taurus-aquarius.json -> ar failed: time budget for this run is used up
-::warning::translate guides/birthday-february-5.json -> es failed: time budget for this run is used up
-::warning::translate guides/angel-2121.json -> es failed: time budget for this run is used up
-::warning::translate guides/birthday-february-2.json -> es failed: time budget for this run is used up
-::warning::translate guides/tarot-the-world.json -> es failed: time budget for this run is used up
-::warning::translate guides/angel-123.json -> es failed: time budget for this run is used up
-::warning::translate guides/birthday-february-1.json -> es failed: time budget for this run is used up
-::warning::translate guides/birthstone-november.json -> es failed: time budget for this run is used up
-::warning::translate guides/birthday-january-31.json -> es failed: time budget for this run is used up
-::warning::translate guides/angel-0000.json -> es failed: time budget for this run is used up
-::warning::translate dreams/mirror.json -> fr failed: time budget for this run is used up
-::warning::translate dreams/horse.json -> fr failed: time budget for this run is used up
-::warning::translate guides/birthday-february-3.json -> fr failed: time budget for this run is used up
-::warning::translate guides/tarot-judgement.json -> fr failed: time budget for this run is used up
-::warning::translate guides/birthstone-december.json -> fr failed: time budget for this run is used up
-::warning::translate guides/birthday-february-4.json -> fr failed: time budget for this run is used up
-::warning::translate pairs/taurus-gemini.json -> de failed: time budget for this run is used up
-::warning::translate pairs/taurus-libra.json -> de failed: time budget for this run is used up
-::warning::translate dreams/bird.json -> de failed: time budget for this run is used up
+- compatibility virgo + virgo
+::warning::Gemini models available: gemini-2.5-flash, gemini-2.5-pro, gemini-2.5-flash-preview-tts, gemini-2.5-pro-preview-tts, gemma-4-26b-a4b-it, gemma-4-31b-it, gemini-flash-latest, gemini-flash-lite-latest, gemini-pro-latest, gemini-2.5-flash-lite, gemini-2.5-flash-image, gemini-3-flash-preview, gemini-3.1-pro-preview, gemini-3.1-pro-preview-customtools, gemini-3.1-flash-lite-preview, gemini-3.1-flash-lite, gemini-3-pro-image-preview, gemini-3-pro-image, nano-banana-pro-preview, gemini-3.1-flash-image-preview, gemini-3.1-flash-image, gemini-3.1-flash-lite-image, gemini-nano-banana-2.1, gemini-3.5-flash, gemini-3.5-flash-lite, gemini-omni-flash-preview, gemini-omni-1.1-flash, gemini-3.5-transcribe, gemini-3.6-flash, gemini-3.7-flash, gemini-3.8-flash, gemini-4-argon, lyria-3-clip-preview, lyria-3-pro-preview, lyria-3.5, gemini-3.1-flash-tts-preview, gemini-3.8-flash-tts, gemini-3.8-flash-lite-tts, gemini-robotics-er-2-preview, gemini-2.5-computer-use-preview-10-2025
+::warning::using Gemini model: gemini-3.5-flash-lite
+  saved content/pairs/virgo-virgo.json
+- compatibility virgo + capricorn
+  saved content/pairs/virgo-capricorn.json
+- compatibility virgo + gemini
+  saved content/pairs/virgo-gemini.json
+- compatibility virgo + libra
+  saved content/pairs/virgo-libra.json
+- compatibility virgo + aquarius
+  saved content/pairs/virgo-aquarius.json
+- compatibility virgo + cancer
+  saved content/pairs/virgo-cancer.json
+- dream lion
+  saved content/dreams/lion.json
+- dream wolf
+  saved content/dreams/wolf.json
+- dream bear
+  saved content/dreams/bear.json
+- dream rat
+  saved content/dreams/rat.json
+- dream mouse
+  saved content/dreams/mouse.json
+- dream cockroach
+  saved content/dreams/cockroach.json
+- guide angel 717
+  saved content/guides/angel-717.json
+- guide angel 818
+  saved content/guides/angel-818.json
+- guide angel 202
+  saved content/guides/angel-202.json
+- guide angel 303
+  saved content/guides/angel-303.json
+- guide birthday february-6
+  saved content/guides/birthday-february-6.json
+- guide birthday february-7
+  saved content/guides/birthday-february-7.json
+- guide birthday february-8
+  saved content/guides/birthday-february-8.json
+- guide birthday february-9
+  saved content/guides/birthday-february-9.json
+- guide birthday february-10
+  saved content/guides/birthday-february-10.json
+- guide birthday february-11
+  saved content/guides/birthday-february-11.json
+- english present-continuous
+  saved content/english/present-continuous.json
+- english like-love-hate-ing
+  saved content/english/like-love-hate-ing.json
+- english past-simple-regular
+  saved content/english/past-simple-regular.json
+- english past-simple-irregular
+  saved content/english/past-simple-irregular.json
+- english was-were
+  saved content/english/was-were.json
+- name Theo
+  saved content/names/theo.json
+- name Nabil
+  saved content/names/nabil.json
+- name Max
+  saved content/names/max.json
+- name Samir
+  saved content/names/samir.json
+- name Felix
+  saved content/names/felix.json
+- name Hicham
+  saved content/names/hicham.json
+- name Elias
+  saved content/names/elias.json
+- name Rachid
+  saved content/names/rachid.json
+  saved content/i18n/es/pairs/virgo-aquarius.json
+  saved content/i18n/es/pairs/virgo-cancer.json
+  saved content/i18n/es/pairs/virgo-libra.json
+  saved content/i18n/es/pairs/virgo-gemini.json
+  saved content/i18n/es/pairs/virgo-virgo.json
+  saved content/i18n/es/pairs/virgo-capricorn.json
+  saved content/i18n/es/dreams/wolf.json
+  saved content/i18n/es/dreams/rat.json
+  saved content/i18n/es/dreams/mouse.json
+  saved content/i18n/fr/pairs/virgo-aquarius.json
+  saved content/i18n/fr/pairs/virgo-cancer.json
+  saved content/i18n/fr/pairs/virgo-libra.json
+  saved content/i18n/fr/pairs/virgo-gemini.json
+  saved content/i18n/fr/pairs/virgo-virgo.json
+  saved content/i18n/fr/pairs/virgo-capricorn.json
+  saved content/i18n/de/pairs/virgo-aquarius.json
+  saved content/i18n/de/pairs/virgo-cancer.json
+  saved content/i18n/de/pairs/virgo-libra.json
+  saved content/i18n/pt/pairs/virgo-aquarius.json
+  saved content/i18n/pt/pairs/virgo-cancer.json
+  saved content/i18n/pt/pairs/virgo-libra.json
+  saved content/i18n/pt/pairs/virgo-gemini.json
+  saved content/i18n/pt/pairs/virgo-virgo.json
+  saved content/i18n/pt/pairs/virgo-capricorn.json
+  saved content/i18n/it/pairs/virgo-aquarius.json
+  saved content/i18n/it/pairs/virgo-cancer.json
+  saved content/i18n/it/pairs/virgo-libra.json
+  saved content/i18n/ja/pairs/virgo-aquarius.json
+  saved content/i18n/ja/pairs/virgo-cancer.json
+  saved content/i18n/ja/pairs/virgo-libra.json
+  saved content/i18n/ar/pairs/virgo-aquarius.json
+  saved content/i18n/ar/pairs/virgo-cancer.json
+  saved content/i18n/ar/pairs/virgo-libra.json
+  saved content/i18n/es/dreams/cockroach.json
+  saved content/i18n/es/dreams/bear.json
+  saved content/i18n/es/dreams/lion.json
+  saved content/i18n/es/guides/angel-818.json
+  saved content/i18n/es/guides/birthday-february-10.json
+  saved content/i18n/es/guides/birthday-february-5.json
+  saved content/i18n/es/guides/angel-2121.json
+  saved content/i18n/es/guides/birthday-february-2.json
+  saved content/i18n/es/guides/birthday-february-11.json
+  saved content/i18n/fr/dreams/wolf.json
+  saved content/i18n/fr/dreams/rat.json
+  saved content/i18n/fr/dreams/mouse.json
+  saved content/i18n/fr/dreams/mirror.json
+  saved content/i18n/fr/dreams/cockroach.json
+  saved content/i18n/fr/dreams/horse.json
+  saved content/i18n/de/pairs/virgo-gemini.json
+  saved content/i18n/de/pairs/taurus-gemini.json
+  saved content/i18n/de/pairs/taurus-libra.json
+  saved content/i18n/pt/dreams/wolf.json
+  saved content/i18n/pt/dreams/rat.json
+  saved content/i18n/pt/dreams/mouse.json
+  saved content/i18n/pt/dreams/mirror.json
+  saved content/i18n/pt/dreams/cockroach.json
+  saved content/i18n/pt/dreams/horse.json
+  saved content/i18n/it/pairs/virgo-gemini.json
+  saved content/i18n/it/pairs/taurus-gemini.json
+  saved content/i18n/it/pairs/taurus-libra.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/ja/pairs/taurus-scorpio.json
+  saved content/i18n/ja/pairs/virgo-gemini.json
+  saved content/i18n/ja/pairs/taurus-pisces.json
+  saved content/i18n/ar/pairs/taurus-scorpio.json
+  saved content/i18n/ar/pairs/virgo-gemini.json
+  saved content/i18n/ar/pairs/taurus-pisces.json
+  saved content/i18n/es/guides/tarot-the-world.json
+  saved content/i18n/es/guides/angel-202.json
+  saved content/i18n/es/guides/birthday-february-9.json
+  saved content/i18n/es/guides/birthday-february-7.json
+  saved content/i18n/es/guides/birthday-february-6.json
+  saved content/i18n/es/guides/angel-123.json
+  saved content/i18n/es/guides/birthday-february-8.json
+  saved content/i18n/es/guides/angel-303.json
+  saved content/i18n/es/guides/birthday-february-1.json
+  saved content/i18n/fr/dreams/bear.json
+  saved content/i18n/fr/dreams/lion.json
+  saved content/i18n/fr/guides/birthday-february-3.json
+  saved content/i18n/fr/guides/tarot-judgement.json
+  saved content/i18n/fr/guides/birthstone-december.json
+  saved content/i18n/fr/guides/angel-818.json
+  saved content/i18n/de/pairs/virgo-virgo.json
+  saved content/i18n/de/pairs/virgo-capricorn.json
+  saved content/i18n/de/dreams/wolf.json
+  saved content/i18n/pt/dreams/bear.json
+  saved content/i18n/pt/dreams/lion.json
+  saved content/i18n/pt/guides/birthday-february-3.json
+  saved content/i18n/pt/guides/tarot-judgement.json
+  saved content/i18n/pt/guides/birthstone-december.json
+  saved content/i18n/pt/guides/angel-818.json
+  saved content/i18n/it/pairs/virgo-virgo.json
+  saved content/i18n/it/pairs/virgo-capricorn.json
+  saved content/i18n/it/dreams/wolf.json
+  saved content/i18n/ja/pairs/taurus-aquarius.json
+  saved content/i18n/ja/pairs/taurus-gemini.json
+  saved content/i18n/ja/pairs/taurus-libra.json
+  saved content/i18n/ar/pairs/taurus-aquarius.json
+  saved content/i18n/ar/pairs/taurus-gemini.json
+  saved content/i18n/ar/pairs/taurus-libra.json
+  saved content/i18n/es/guides/birthstone-november.json
+  saved content/i18n/es/guides/birthday-january-31.json
+  saved content/i18n/es/guides/angel-0000.json
+  saved content/i18n/es/guides/angel-717.json
+  saved content/i18n/es/guides/angel-911.json
+  saved content/i18n/es/english/was-were.json
+  saved content/i18n/es/english/past-simple-regular.json
+  saved content/i18n/es/english/past-simple-irregular.json
+  saved content/i18n/es/english/present-continuous.json
+  saved content/i18n/fr/guides/birthday-february-4.json
+  saved content/i18n/fr/guides/birthday-february-10.json
+  saved content/i18n/fr/guides/birthday-february-5.json
+  saved content/i18n/fr/guides/angel-2121.json
+  saved content/i18n/fr/guides/birthday-february-2.json
+  saved content/i18n/fr/guides/birthday-february-11.json
+  saved content/i18n/de/dreams/rat.json
+  saved content/i18n/de/dreams/bird.json
+  saved content/i18n/de/dreams/moon.json
+  saved content/i18n/pt/guides/birthday-february-4.json
+  saved content/i18n/pt/guides/birthday-february-10.json
+  saved content/i18n/pt/guides/birthday-february-5.json
+  saved content/i18n/pt/guides/angel-2121.json
+  saved content/i18n/pt/guides/birthday-february-2.json
+  saved content/i18n/pt/guides/birthday-february-11.json
+  saved content/i18n/it/dreams/rat.json
+  saved content/i18n/it/dreams/bird.json
+  saved content/i18n/it/dreams/moon.json
+  saved content/i18n/ja/pairs/virgo-virgo.json
+  saved content/i18n/ja/pairs/virgo-capricorn.json
+  saved content/i18n/ja/dreams/wolf.json
+  saved content/i18n/ar/pairs/virgo-virgo.json
+  saved content/i18n/ar/pairs/virgo-capricorn.json
+  saved content/i18n/ar/dreams/wolf.json
+  saved content/i18n/es/english/like-love-hate-ing.json
+  saved content/i18n/es/names/rachid.json
+  saved content/i18n/es/names/samir.json
+  saved content/i18n/es/names/david.json
+  saved content/i18n/es/names/michael.json
+  saved content/i18n/es/names/max.json
+  saved content/i18n/es/names/thomas.json
+  saved content/i18n/es/names/hicham.json
+  saved content/i18n/es/names/felix.json
+  saved content/i18n/fr/guides/tarot-the-world.json
+  saved content/i18n/fr/guides/angel-202.json
+  saved content/i18n/fr/guides/birthday-february-9.json
+  saved content/i18n/fr/guides/birthday-february-7.json
+  saved content/i18n/fr/guides/birthday-february-6.json
+  saved content/i18n/fr/guides/angel-123.json
+  saved content/i18n/de/dreams/stars.json
+  saved content/i18n/de/dreams/sun.json
+  saved content/i18n/de/dreams/mouse.json
 Agent finished.

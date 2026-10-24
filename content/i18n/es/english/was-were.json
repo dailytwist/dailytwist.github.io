@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-24",
+  "slug": "was-were",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "⏳",
+  "title": "Hablando del pasado: Was y Were",
+  "summary": "Aprende a usar 'was' y 'were' para hablar del pasado. Podrás describir dónde estabas y cómo te sentías ayer.",
+  "sections": [
+    {
+      "h": "¿Qué es 'was'?",
+      "p": "'Was' es la forma en pasado de 'am' y 'is'. Usamos 'was' con palabras en singular como I, he, she e it. Usa 'was' cuando hables de una persona, un lugar o una cosa en el pasado. Por ejemplo, puedes hablar de dónde estabas ayer o cómo te sentías la semana pasada.",
+      "ex": [
+        {
+          "en": "I was at home yesterday.",
+          "mean": "En mi casa el día anterior a hoy"
+        },
+        {
+          "en": "She was happy with her gift.",
+          "mean": "Sintiéndose bien con su presente"
+        },
+        {
+          "en": "The weather was cold this morning.",
+          "mean": "Temperatura baja más temprano hoy"
+        }
+      ]
+    },
+    {
+      "h": "¿Qué es 'were'?",
+      "p": "'Were' es la forma en pasado de 'are'. Usamos 'were' con palabras en plural como we, you y they. Usa 'were' cuando hables de dos o más personas, lugares o cosas en el pasado. Recuerda usar siempre 'were' con la palabra 'you', incluso cuando hables con una sola persona.",
+      "ex": [
+        {
+          "en": "We were at the park last night.",
+          "mean": "En el espacio público al aire libre ayer por la tarde"
+        },
+        {
+          "en": "You were late for the meeting.",
+          "mean": "Llegaron después de la hora correcta"
+        },
+        {
+          "en": "They were very tired after work.",
+          "mean": "Necesitando descanso después de sus trabajos"
+        }
+      ]
+    },
+    {
+      "h": "Haciendo oraciones negativas",
+      "p": "Para hacer una oración negativa, solo añade 'not' después de 'was' o 'were'. A menudo usamos formas cortas para hablar más rápido y de manera más natural en la conversación cotidiana. Di 'wasn't' en lugar de 'was not', y di 'weren't' en lugar de 'were not'.",
+      "ex": [
+        {
+          "en": "I wasn't hungry at lunch.",
+          "mean": "No quería comer comida"
+        },
+        {
+          "en": "They weren't ready for the test.",
+          "mean": "No se preparó para el examen"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "was",
+      "mean": "pasado de am e is"
+    },
+    {
+      "en": "were",
+      "mean": "pasado de are"
+    },
+    {
+      "en": "wasn't",
+      "mean": "no era/estaba"
+    },
+    {
+      "en": "weren't",
+      "mean": "no éramos/estábamos"
+    },
+    {
+      "en": "yesterday",
+      "mean": "el día anterior a hoy"
+    },
+    {
+      "en": "last night",
+      "mean": "ayer por la tarde"
+    },
+    {
+      "en": "past",
+      "mean": "tiempo antes de ahora"
+    }
+  ],
+  "tip": "Piensa en 'I', 'he', 'she' e 'it' como amigos individuales a los que les gusta 'was'. Piensa en 'we', 'you' y 'they' como grupos a los que les gusta 'were'.",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "I ___ very tired yesterday.",
+      "choices": [
+        "were",
+        "was",
+        "is"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "They ___ at the supermarket last night.",
+      "choices": [
+        "were",
+        "was",
+        "are"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "She ___ not happy with the service.",
+      "choices": [
+        "were",
+        "are",
+        "was"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "We ___ late because of the traffic.",
+      "choices": [
+        "was",
+        "were",
+        "is"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "You ___ great at the presentation yesterday.",
+      "choices": [
+        "was",
+        "is",
+        "were"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "The weather ___ nice this morning.",
+      "choices": [
+        "was",
+        "were",
+        "are"
+      ],
+      "answer_index": 0
+    }
+  ]
+}
