@@ -20,7 +20,7 @@
     "ja",
     "ar"
   ],
-  "max_translations_per_run": 150,
+  "max_translations_per_run": 50,
   "ai_delay_seconds": 4,
   "telegram_channel": "dailytwist_daily",
   "android_package": "com.mydailytwist.app",
