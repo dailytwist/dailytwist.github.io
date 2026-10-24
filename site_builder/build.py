@@ -272,9 +272,28 @@ try{{OneSignal.User.addTag("lang","{lang}");var s=localStorage.getItem("dt-sign"
 }});</script>"""
 
 
+def body_words(lang, body):
+    t = re.sub(r"<script.*?</script>|<style.*?</style>", " ", body, flags=re.S)
+    t = html.unescape(re.sub(r"<[^>]+>", " ", t))
+    return len(re.sub(r"\s", "", t)) // 3 if lang == "ja" else len(t.split())
+
+
+THIN_MIN = 150  # detail pages with less real text are kept for visitors but hidden from Google (noindex, not in sitemap)
+
+
+def is_thin(lang, path):
+    pg = PAGES.get((lang, path))
+    if not pg or pg.get("canonical") or path.count("/") < 2 or pg.get("keep_index"):
+        return False
+    if "words" not in pg:
+        pg["words"] = body_words(lang, pg["body"])
+    return pg["words"] < THIN_MIN
+
+
 def render(lang, path, pg):
+    thin = is_thin(lang, path)
     canonical = f"{URL}{P(lang)}/{pg.get('canonical') or path}"
-    alts = {l: f"{URL}{P(l)}/{path}" for l in LANGS if (l, path) in PAGES and not PAGES[(l, path)].get("canonical")}
+    alts = {l: f"{URL}{P(l)}/{path}" for l in LANGS if (l, path) in PAGES and not PAGES[(l, path)].get("canonical") and not is_thin(l, path)}
     hreflang = "".join(f'<link rel="alternate" hreflang="{l}" href="{e(u)}">' for l, u in alts.items())
     if "en" in alts:
         hreflang += f'<link rel="alternate" hreflang="x-default" href="{e(alts["en"])}">'
@@ -304,6 +323,7 @@ def render(lang, path, pg):
 <script>try{{var t=localStorage.getItem('dt-theme');if(t)document.documentElement.dataset.theme=t}}catch(e){{}}</script>
 <meta name="p:domain_verify" content="35643b0df7034260a8368e9d58182cfd"/>
 <title>{e(title)}</title>
+{'<meta name="robots" content="noindex,follow">' if thin else ''}
 <meta name="description" content="{e(pg['desc'])}">
 <link rel="canonical" href="{e(canonical)}">
 {hreflang}
@@ -385,7 +405,7 @@ def render(lang, path, pg):
     out.parent.mkdir(parents=True, exist_ok=True)
     doc = re.sub(r'(["\'])(/assets/[\w./-]+\.(?:css|js))\1', lambda m: f'{m.group(1)}{m.group(2)}?v={ASSET_V}{m.group(1)}', doc)
     out.write_text(doc, encoding="utf-8")
-    return (None if pg.get("canonical") else canonical), pg["priority"], alts
+    return (None if (pg.get("canonical") or thin) else canonical), pg["priority"], alts
 
 
 # ---------------------------------------------------------------- holidays
@@ -1570,6 +1590,8 @@ def main():
         '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
         f'xmlns:xhtml="http://www.w3.org/1999/xhtml">{"".join(urls)}</urlset>', encoding="utf-8")
     counts = ", ".join(f"{l}: {len(DATA[l]['articles'])} articles" for l in LANGS)
+    thin_n = sum(1 for (l, p) in PAGES if is_thin(l, p))
+    print(f"Hidden from Google (thin, < {THIN_MIN} words): {thin_n}")
     print(f"Built {len(PAGES)} pages in {len(LANGS)} language(s) ({counts})")
 
 
