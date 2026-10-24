@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-24",
+  "title": "Quiz quotidien de culture générale - 24 octobre 2026",
+  "questions": [
+    {
+      "category": "géographie",
+      "question": "Quel pays possède le plus long littoral au monde ?",
+      "options": [
+        "L'Indonésie",
+        "L'Australie",
+        "Le Canada",
+        "La Russie"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Les côtes du Canada s'étendent sur plus de 202 000 kilomètres et bordent trois océans différents."
+    },
+    {
+      "category": "sciences",
+      "question": "Quel est le symbole chimique de l'élément fer ?",
+      "options": [
+        "In",
+        "Ir",
+        "I",
+        "Fe"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Le symbole Fe vient de « ferrum », le mot latin pour désigner le fer."
+    },
+    {
+      "category": "histoire",
+      "question": "En quelle année le mur de Berlin est-il tombé, marquant un tournant décisif dans la fin de la guerre froide ?",
+      "options": [
+        "1989",
+        "1993",
+        "1987",
+        "1991"
+      ],
+      "answer_index": 0,
+      "fun_fact": "La chute du mur de Berlin le 9 novembre 1989 a précédé la réunification officielle de l'Allemagne de moins d'un an."
+    },
+    {
+      "category": "cinéma & pop culture",
+      "question": "Quel film culte d'aventure et de science-fiction de 1993, réalisé par Steven Spielberg, a ramené les dinosaures à la vie sur grand écran ?",
+      "options": [
+        "Jurassic Park",
+        "Predator",
+        "Terminator 2",
+        "Le Monde perdu"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Jurassic Park a remporté trois Oscars, récompensant principalement ses effets visuels et son design sonore révolutionnaires."
+    },
+    {
+      "category": "gastronomie",
+      "question": "La baguette est un pain long et fin traditionnellement préparé à partir de quels ingrédients de base ?",
+      "options": [
+        "Farine, lait, beurre et sucre",
+        "Farine, œufs, huile et levure",
+        "Farine, eau, levure et sel",
+        "Farine, miel, bicarbonate de soude et eau"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La loi française réglemente strictement la composition des baguettes traditionnelles, interdisant l'utilisation de pâte surgelée ou de conservateurs chimiques."
+    },
+    {
+      "category": "animaux",
+      "question": "Comment appelle-t-on couramment un bébé kangourou ?",
+      "options": [
+        "Un androton",
+        "Un chiot",
+        "Un chaton",
+        "Un joey"
+      ],
+      "answer_index": 3,
+      "fun_fact": "À la naissance, un jeune joey a seulement la taille d'une cerise et doit ramper seul jusqu'à la poche de sa mère."
+    },
+    {
+      "category": "sports",
+      "question": "Combien de joueurs d'une même équipe sont présents sur la glace lors d'une phase de jeu standard au hockey sur glace ?",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Chaque équipe aligne généralement six joueurs : trois attaquants, deux défenseurs et un gardien de but."
+    },
+    {
+      "category": "langue",
+      "question": "Quel est le terme désignant un mot ou une phrase qui se lit de la même manière de gauche à droite et de droite à gauche, comme « kayak » ?",
+      "options": [
+        "Un homophone",
+        "Un acronyme",
+        "Un palindrome",
+        "Un synonyme"
+      ],
+      "answer_index": 2,
+      "fun_fact": "En français, un exemple célèbre de palindrome est « Élu par cette crapule »."
+    },
+    {
+      "category": "espace",
+      "question": "Quelle planète de notre système solaire tourne sur le côté, roulant le long de son orbite comme un tonneau ?",
+      "options": [
+        "Mercure",
+        "Neptune",
+        "Uranus",
+        "Saturn"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Uranus présente une inclinaison axiale stupéfiante de 97,77 degrés, probablement causée par une collision massive au début de son histoire."
+    },
+    {
+      "category": "histoire",
+      "question": "La pierre de Rosette, essentielle au déchiffrement des hiéroglyphes égyptiens, a été découverte lors de quelle campagne militaire ?",
+      "options": [
+        "L'annexion romaine de l'Égypte",
+        "Les croisades",
+        "L'expédition de Napoléon en Égypte",
+        "La conquête de la Perse par Alexandre le Grand"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Découverte en 1799, la pierre de Rosette présente le même décret rédigé en trois écritures différentes : les hiéroglyphes égyptiens anciens, le démotique et le grec ancien."
+    }
+  ]
+}

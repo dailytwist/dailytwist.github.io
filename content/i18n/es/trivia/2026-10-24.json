@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-24",
+  "title": "Trivia diaria de cultura general - 24 de octubre de 2026",
+  "questions": [
+    {
+      "category": "geografía",
+      "question": "¿Qué país presume de tener la línea costera más larga del mundo?",
+      "options": [
+        "Indonesia",
+        "Australia",
+        "Canadá",
+        "Rusia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La costa de Canadá se extiende por más de 202.000 kilómetros y baña tres océanos diferentes."
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Cuál es el símbolo químico del elemento hierro?",
+      "options": [
+        "In",
+        "Ir",
+        "I",
+        "Fe"
+      ],
+      "answer_index": 3,
+      "fun_fact": "El símbolo Fe proviene de «ferrum», la palabra en latín para el hierro."
+    },
+    {
+      "category": "historia",
+      "question": "¿En qué año cayó el Muro de Berlín, marcando un momento decisivo en el fin de la Guerra Fría?",
+      "options": [
+        "1989",
+        "1993",
+        "1987",
+        "1991"
+      ],
+      "answer_index": 0,
+      "fun_fact": "La caída del Muro de Berlín el 9 de noviembre de 1989 precedió a la reunificación oficial de Alemania por menos de un año."
+    },
+    {
+      "category": "cine y cultura pop",
+      "question": "¿Qué icónica película de aventuras y ciencia ficción de 1993 dirigida por Steven Spielberg trajo a los dinosaurios de vuelta a la vida en la gran pantalla?",
+      "options": [
+        "Jurassic Park",
+        "Predator",
+        "Terminator 2",
+        "The Lost World"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Jurassic Park ganó tres premios Óscar, principalmente reconociendo sus innovadores efectos visuales y diseño de sonido."
+    },
+    {
+      "category": "comida",
+      "question": "La baguette es una barra de pan francés larga y fina que tradicionalmente se elabora con qué ingredientes básicos?",
+      "options": [
+        "Harina, leche, mantequilla y azúcar",
+        "Harina, huevos, aceite y levadura",
+        "Harina, agua, levadura y sal",
+        "Harina, miel, bicarbonato de sodio y agua"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La ley francesa regula estrictamente los ingredientes de las baguettes tradicionales, prohibiendo el uso de masa congelada o conservantes químicos."
+    },
+    {
+      "category": "animales",
+      "question": "¿Cómo se le llama comúnmente a una cría de canguro?",
+      "options": [
+        "Cachorro",
+        "Cría",
+        "Minicanguro",
+        "Joey"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Al nacer, un joey recién nacido tiene más o menos el tamaño de una cereza y debe arrastrarse sin ayuda hasta la bolsa de su madre."
+    },
+    {
+      "category": "deportes",
+      "question": "¿Cuántos jugadores hay sobre el hielo por cada equipo durante el juego estándar en un partido de hockey sobre hielo?",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Cada equipo suele alinear a seis jugadores: tres delanteros, dos defensas y un portero."
+    },
+    {
+      "category": "idioma",
+      "question": "¿Cuál es el término para una palabra o frase que se lee igual de izquierda a derecha que de derecha a izquierda, como «kayak»?",
+      "options": [
+        "Homófono",
+        "Sigla",
+        "Palíndromo",
+        "Sinónimo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "En español, uno de los palíndromos de una sola palabra más conocidos es «reconocer»."
+    },
+    {
+      "category": "espacio",
+      "question": "¿Qué planeta de nuestro sistema solar gira de lado, rodando a lo largo de su órbita como un barril?",
+      "options": [
+        "Mercurio",
+        "Neptuno",
+        "Urano",
+        "Saturn"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Urano tiene una inclinación axial de unos asombrosos 97,77 grados, probablemente causada por una colisión masiva al principio de su historia."
+    },
+    {
+      "category": "historia",
+      "question": "La Piedra de Rosetta, clave para descifrar los jeroglíficos egipcios, fue descubierta durante qué campaña militar?",
+      "options": [
+        "La anexión romana de Egipto",
+        "Las Cruzadas",
+        "La invasión de Egipto por Napoleón",
+        "La conquista de Persia por Alejandro Magno"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Descubierta en 1799, la Piedra de Rosetta presenta el mismo decreto escrito en tres escrituras diferentes: jeroglíficos del antiguo Egipto, escritura demótica y griego antiguo."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-24",
+  "title": "Daily General Knowledge Trivia - October 24, 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Which country boasts the longest coastline in the world?",
+      "options": [
+        "Indonesia",
+        "Australia",
+        "Canada",
+        "Russia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Canada's coastline stretches over 202,000 kilometers, bordering three different oceans."
+    },
+    {
+      "category": "science",
+      "question": "What is the chemical symbol for the element iron?",
+      "options": [
+        "In",
+        "Ir",
+        "I",
+        "Fe"
+      ],
+      "answer_index": 3,
+      "fun_fact": "The symbol Fe comes from 'ferrum', the Latin word for iron."
+    },
+    {
+      "category": "history",
+      "question": "In what year did the Berlin Wall fall, marking a pivotal moment in the end of the Cold War?",
+      "options": [
+        "1989",
+        "1993",
+        "1987",
+        "1991"
+      ],
+      "answer_index": 0,
+      "fun_fact": "The fall of the Berlin Wall on November 9, 1989, preceded the official reunification of Germany by less than a year."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Which iconic 1993 science fiction adventure film directed by Steven Spielberg brought dinosaurs back to life on the big screen?",
+      "options": [
+        "Jurassic Park",
+        "Predator",
+        "Terminator 2",
+        "The Lost World"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Jurassic Park won three Academy Awards primarily recognizing its groundbreaking visual effects and sound design."
+    },
+    {
+      "category": "food",
+      "question": "Baguette is a long, thin loaf of French bread that is traditionally made from what basic ingredients?",
+      "options": [
+        "Flour, milk, butter, and sugar",
+        "Flour, eggs, oil, and yeast",
+        "Flour, water, yeast, and salt",
+        "Flour, honey, baking soda, and water"
+      ],
+      "answer_index": 2,
+      "fun_fact": "French law strictly regulates the ingredients of traditional baguettes, prohibiting the use of frozen dough or chemical preservatives."
+    },
+    {
+      "category": "animals",
+      "question": "What is a baby kangaroo commonly called?",
+      "options": [
+        "Cub",
+        "Pup",
+        "Kit",
+        "Joey"
+      ],
+      "answer_index": 3,
+      "fun_fact": "At birth, a newborn joey is only about the size of a cherry and must crawl unaided into its mother's pouch."
+    },
+    {
+      "category": "sports",
+      "question": "How many players are on the ice for a single team during standard play in an ice hockey game?",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Each team typically fields six players: three forwards, two defensemen, and one goaltender."
+    },
+    {
+      "category": "language",
+      "question": "What is the term for a word or phrase that reads the same backward as forward, such as 'kayak'?",
+      "options": [
+        "Homophone",
+        "Acronym",
+        "Palindrome",
+        "Synonym"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The longest single-word palindrome in standard English is usually considered to be 'rotator'."
+    },
+    {
+      "category": "space",
+      "question": "Which planet in our solar system rotates on its side, rolling along its orbital path like a barrel?",
+      "options": [
+        "Mercury",
+        "Neptune",
+        "Uranus",
+        "Saturn"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Uranus has an axial tilt of an astonishing 97.77 degrees, likely caused by a massive collision early in its history."
+    },
+    {
+      "category": "history",
+      "question": "The Rosetta Stone, crucial in deciphering Egyptian hieroglyphs, was discovered during which military campaign?",
+      "options": [
+        "The Roman annexation of Egypt",
+        "The Crusades",
+        "Napoleon's invasion of Egypt",
+        "Alexander the Great's conquest of Persia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Discovered in 1799, the Rosetta Stone features the same decree written in three different scripts: Ancient Egyptian hieroglyphs, Demotic script, and Ancient Greek."
+    }
+  ]
+}

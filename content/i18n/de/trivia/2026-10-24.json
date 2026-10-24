@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-24",
+  "title": "Tägliches Allgemeinwissen-Quiz – 24. Oktober 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches Land besitzt die längste Küstenlinie der Welt?",
+      "options": [
+        "Indonesien",
+        "Australien",
+        "Kanada",
+        "Russland"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Kanadas Küstenlinie erstreckt sich über 202.000 Kilometer und grenzt an drei verschiedene Ozeane."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist das chemische Symbol für das Element Eisen?",
+      "options": [
+        "In",
+        "Ir",
+        "I",
+        "Fe"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Das Symbol Fe leitet sich von „ferrum“ ab, dem lateinischen Wort für Eisen."
+    },
+    {
+      "category": "Geschichte",
+      "question": "In welchem Jahr fiel die Berliner Mauer und markierte damit einen Wendepunkt am Ende des Kalten Krieges?",
+      "options": [
+        "1989",
+        "1993",
+        "1987",
+        "1991"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Der Fall der Berliner Mauer am 9. November 1989 ging der offiziellen Wiedervereinigung Deutschlands um weniger als ein Jahr voraus."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Welcher kultige Science-Fiction-Abenteuerfilm aus dem Jahr 1993 unter der Regie von Steven Spielberg erweckte Dinosaurier auf der Kinoleinwand zu neuem Leben?",
+      "options": [
+        "Jurassic Park",
+        "Predator",
+        "Terminator 2",
+        "Vergessene Welt: Jurassic Park"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Jurassic Park gewann drei Oscars, die vor allem für die bahnbrechenden visuellen Effekte und das Sounddesign verliehen wurden."
+    },
+    {
+      "category": "Essen & Trinken",
+      "question": "Ein Baguette ist ein lang gestrecktes, dünnes Weißbrot aus Frankreich, das traditionell aus welchen Grundzutaten hergestellt wird?",
+      "options": [
+        "Mehl, Milch, Butter und Zucker",
+        "Mehl, Eier, Öl und Hefe",
+        "Mehl, Wasser, Hefe und Salz",
+        "Mehl, Honig, Natron und Wasser"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Das französische Gesetz regelt die Zutaten für traditionelle Baguettes streng und verbietet die Verwendung von Tiefkühlteig oder chemischen Konservierungsstoffen."
+    },
+    {
+      "category": "Tiere",
+      "question": "Wie wird ein Kängurubaby im Allgemeinen genannt?",
+      "options": [
+        "Jungtier",
+        "Welpe",
+        "Kit",
+        "Joey"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Bei der Geburt ist ein neugeborenes Joey gerade einmal so groß wie eine Kirsche und muss sich aus eigener Kraft in den Beutel der Mutter vorkämpfen."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Spieler stehen bei einem Eishockeyspiel während des regulären Spielbetriebs pro Mannschaft auf dem Eis?",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Jedes Team schickt typischerweise sechs Spieler aufs Feld: drei Stürmer, zwei Verteidiger und einen Torwart."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie nennt man ein Wort oder einen Satz, das bzw. der rückwärts genauso gelesen werden kann wie vorwärts, wie zum Beispiel „Otto“?",
+      "options": [
+        "Homophon",
+        "Akronym",
+        "Palindrom",
+        "Synonym"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Als längstes deutsches Einwort-Palindrom gilt meist „Rentner“."
+    },
+    {
+      "category": "Weltall",
+      "question": "Welcher Planet unseres Sonnensystems rotiert auf seiner Seite und rollt wie ein Fass auf seiner Umlaufbahn dahin?",
+      "options": [
+        "Merkur",
+        "Neptun",
+        "Uranus",
+        "Saturn"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Uranus hat eine axiale Neigung von erstaunlichen 97,77 Grad, die höchstwahrscheinlich durch eine heftige Kollision in seiner Frühgeschichte verursacht wurde."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Der Stein von Rosette, der für die Entzifferung der ägyptischen Hieroglyphen von entscheidender Bedeutung war, wurde während welcher Militärexpedition entdeckt?",
+      "options": [
+        "Der Annexion Ägyptens durch die Römer",
+        "Den Kreuzzügen",
+        "Napoleons Ägyptenfeldzug",
+        "Alexander des Großen Eroberung Persiens"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Der 1799 entdeckte Stein von Rosette enthält denselben Dekrettext in drei verschiedenen Schriften: altägyptischen Hieroglyphen, dem demotischen Skript und Altgriechisch."
+    }
+  ]
+}

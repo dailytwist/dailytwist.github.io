@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-24",
+  "title": "Trivia quotidiana di cultura generale - 24 ottobre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Quale paese vanta la linea costiera più lunga del mondo?",
+      "options": [
+        "Indonesia",
+        "Australia",
+        "Canada",
+        "Russia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La costa del Canada si estende per oltre 202.000 chilometri, bagnando tre oceani diversi."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è il simbolo chimico dell'elemento ferro?",
+      "options": [
+        "In",
+        "Ir",
+        "I",
+        "Fe"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Il simbolo Fe deriva da 'ferrum', la parola latina per ferro."
+    },
+    {
+      "category": "storia",
+      "question": "In quale anno è caduto il Muro di Berlino, segnando un momento cruciale nella fine della Guerra Fredda?",
+      "options": [
+        "1989",
+        "1993",
+        "1987",
+        "1991"
+      ],
+      "answer_index": 0,
+      "fun_fact": "La caduta del Muro di Berlino il 9 novembre 1989 ha preceduto la riunificazione ufficiale della Germania di meno di un anno."
+    },
+    {
+      "category": "cinema e pop culture",
+      "question": "Quale iconico film d'avventura e fantascienza del 1993 diretto da Steven Spielberg ha riportato in vita i dinosauri sul grande schermo?",
+      "options": [
+        "Jurassic Park",
+        "Predator",
+        "Terminator 2",
+        "Il mondo perduto"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Jurassic Park ha vinto tre premi Oscar, premiando principalmente i suoi straordinari effetti visivi e il sound design."
+    },
+    {
+      "category": "cucina",
+      "question": "La baguette è una pagnotta di pane francese lunga e sottile, tradizionalmente preparata con quali ingredienti di base?",
+      "options": [
+        "Farina, latte, burro e zucchero",
+        "Farina, uova, olio e lievito",
+        "Farina, acqua, lievito e sale",
+        "Farina, miele, bicarbonato e acqua"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La legge francese regola rigorosamente gli ingredienti della baguette tradizionale, vietando l'uso di impasti surgelati o conservanti chimici."
+    },
+    {
+      "category": "animali",
+      "question": "Come viene comunemente chiamato il cucciolo di canguro?",
+      "options": [
+        "Cucciolo",
+        "Nidiace",
+        "Cucciolo",
+        "Joey"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Alla nascita, un cucciolo di joey ha le dimensioni di una ciliegia e deve gattonare senza aiuto fino al marsupio della madre."
+    },
+    {
+      "category": "sport",
+      "question": "Quanti giocatori ci sono sul ghiaccio per una singola squadra durante il normale svolgimento di una partita di hockey su ghiaccio?",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Ogni squadra schiera solitamente sei giocatori: tre attaccanti, due difensori e un portiere."
+    },
+    {
+      "category": "linguistica",
+      "question": "Come si chiama una parola o una frase che si legge allo stesso modo da sinistra a destra e viceversa, come 'radar' o 'kayak'?",
+      "options": [
+        "Omofono",
+        "Acronimo",
+        "Palindromo",
+        "Sinonimo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il palindromo di una sola parola più lungo in inglese standard è solitamente considerato 'rotator'."
+    },
+    {
+      "category": "spazio",
+      "question": "Quale pianeta del nostro sistema solare ruota su un fianco, rotolando lungo la sua orbita come una botte?",
+      "options": [
+        "Mercurio",
+        "Nettuno",
+        "Urano",
+        "Saturno"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Urano ha un'inclinazione assiale sbalorditiva di 97,77 gradi, probabilmente causata da una massiccia collisione all'inizio della sua storia."
+    },
+    {
+      "category": "storia",
+      "question": "La Stele di Rosetta, fondamentale per decifrare i geroglifici egizi, fu scoperta durante quale campagna militare?",
+      "options": [
+        "L'annessione romana dell'Egitto",
+        "Le crociate",
+        "L'invasione napoleonica dell'Egitto",
+        "La conquista della Persia da parte di Alessandro Magno"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Scoperta nel 1799, la Stele di Rosetta riporta lo stesso decreto scritto in tre scritture diverse: geroglifici egizi antichi, scrittura demotica e greco antico."
+    }
+  ]
+}

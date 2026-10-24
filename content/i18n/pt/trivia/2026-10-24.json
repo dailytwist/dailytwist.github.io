@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-24",
+  "title": "Trivia Diária de Conhecimentos Gerais - 24 de Outubro de 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Qual país tem a maior costa marítima do mundo?",
+      "options": [
+        "Indonésia",
+        "Austrália",
+        "Canadá",
+        "Rússia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A costa do Canadá se estende por mais de 202.000 quilômetros, fazendo fronteira com três oceanos diferentes."
+    },
+    {
+      "category": "ciência",
+      "question": "Qual é o símbolo químico do elemento ferro?",
+      "options": [
+        "In",
+        "Ir",
+        "I",
+        "Fe"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O símbolo Fe vem de 'ferrum', a palavra em latim para ferro."
+    },
+    {
+      "category": "história",
+      "question": "Em que ano caiu o Muro de Berlim, marcando um momento crucial para o fim da Guerra Fria?",
+      "options": [
+        "1989",
+        "1993",
+        "1987",
+        "1991"
+      ],
+      "answer_index": 0,
+      "fun_fact": "A queda do Muro de Berlim em 9 de novembro de 1989 antecedeu a reunificação oficial da Alemanha em menos de um ano."
+    },
+    {
+      "category": "filmes e cultura pop",
+      "question": "Qual filme icônico de aventura e ficção científica de 1993 dirigido por Steven Spielberg trouxe os dinossauros de volta à vida nas telonas?",
+      "options": [
+        "Jurassic Park",
+        "Predador",
+        "Terminator 2",
+        "O Mundo Perdido"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Jurassic Park ganhou três prêmios da Academia, reconhecendo principalmente seus efeitos visuais e design de som revolucionários."
+    },
+    {
+      "category": "culinária",
+      "question": "A baguete é um pão francês longo e fino que tradicionalmente é feito com quais ingredientes básicos?",
+      "options": [
+        "Farinha, leite, manteiga e açúcar",
+        "Farinha, ovos, óleo e fermento",
+        "Farinha, água, fermento e sal",
+        "Farinha, mel, bicarbonato de sódio e água"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A lei francesa regulamenta rigorosamente os ingredientes das baguetes tradicionais, proibindo o uso de massa congelada ou conservantes químicos."
+    },
+    {
+      "category": "animais",
+      "question": "Como é comumente chamado o filhote de canguru?",
+      "options": [
+        "Cub",
+        "Pup",
+        "Kit",
+        "Joey"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Ao nascer, um recém-nascido joey tem o tamanho aproximado de uma cereja e precisa rastejar sozinho até a bolsa da mãe."
+    },
+    {
+      "category": "esportes",
+      "question": "Quantos jogadores ficam no gelo por uma única equipe durante uma partida padrão de hóquei no gelo?",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Cada equipe geralmente escala seis jogadores: três atacantes, dois defensores e um goleiro."
+    },
+    {
+      "category": "idioma",
+      "question": "Qual é o termo para uma palavra ou frase que se lê da mesma forma de trás para frente, como 'arara'?",
+      "options": [
+        "Homofone",
+        "Acrônimo",
+        "Palíndromo",
+        "Sinônimo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "No português, um dos palíndromos de palavra única mais conhecidos é 'arara' ou 'socorram-me, subi no ônibus em Marrocos'."
+    },
+    {
+      "category": "espaço",
+      "question": "Qual planeta do nosso sistema solar gira de lado, rolando ao longo de sua órbita como um barril?",
+      "options": [
+        "Mercúrio",
+        "Netuno",
+        "Urano",
+        "Saturno"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Urano tem uma inclinação axial impressionante de 97,77 graus, provavelmente causada por uma colisão massiva no início de sua história."
+    },
+    {
+      "category": "história",
+      "question": "A Pedra de Roseta, crucial para a decifração dos hieróglifos egípcios, foi descoberta durante qual campanha militar?",
+      "options": [
+        "A anexação romana do Egito",
+        "As Cruzadas",
+        "A invasão do Egito por Napoleão",
+        "A conquista da Pérsia por Alexandre, o Grande"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Descoberta em 1799, a Pedra de Roseta apresenta o mesmo decreto escrito em três scripts diferentes: hieróglifos do Egito Antigo, escrita demótica e grego antigo."
+    }
+  ]
+}
