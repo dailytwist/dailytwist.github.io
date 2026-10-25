@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-25",
+  "slug": "at-the-doctor",
+  "cefr": "A2",
+  "cat": "phrases",
+  "emoji": "🏥",
+  "title": "At the Doctor: Describing How You Feel",
+  "summary": "Learn how to talk about your body and health in English. Practice saying what is wrong when you go to the doctor.",
+  "sections": [
+    {
+      "h": "Saying 'I have a...'",
+      "p": "When you are sick, you can use the verb 'have' to talk about your pain or illness. We often use this with words like 'cold', 'headache', or 'stomachache'. It is very easy and useful. Listen to how people say it: 'I have a headache' means my head hurts. You can also say 'I have a fever' when your body is too hot.",
+      "ex": [
+        {
+          "en": "I have a headache today.",
+          "mean": "My head hurts today."
+        },
+        {
+          "en": "She has a bad cold.",
+          "mean": "She is sick with a cold."
+        }
+      ]
+    },
+    {
+      "h": "My [Body Part] Hurts",
+      "p": "Another great way to describe pain is to use the word 'hurt'. Just say the part of your body first, and then add 'hurts'. For example, your leg, your arm, or your back. If the pain is in two places, we say 'hurt' without the 's'. For example, 'My legs hurt.' This helps the doctor know exactly where you feel bad.",
+      "ex": [
+        {
+          "en": "My arm hurts a lot.",
+          "mean": "I have pain in my arm."
+        },
+        {
+          "en": "My eyes hurt today.",
+          "mean": "I have pain in both eyes."
+        }
+      ]
+    },
+    {
+      "h": "Talking to the Doctor",
+      "p": "When you visit a doctor, they will ask questions to help you. They might ask, 'What is the problem?' or 'How do you feel today?' You can answer simply using the phrases you learned. For example, 'I feel tired' or 'I feel sick.' The doctor will listen and then give you medicine to help you feel better.",
+      "ex": [
+        {
+          "en": "How do you feel today?",
+          "mean": "What is your health like right now?"
+        },
+        {
+          "en": "I feel very tired.",
+          "mean": "My body wants to sleep."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "headache",
+      "mean": "pain in the head"
+    },
+    {
+      "en": "stomachache",
+      "mean": "pain in the stomach"
+    },
+    {
+      "en": "cold",
+      "mean": "common sickness with a cough"
+    },
+    {
+      "en": "fever",
+      "mean": "body is too hot"
+    },
+    {
+      "en": "hurt",
+      "mean": "to feel pain"
+    },
+    {
+      "en": "doctor",
+      "mean": "person who helps you when sick"
+    },
+    {
+      "en": "medicine",
+      "mean": "pill or liquid to get well"
+    },
+    {
+      "en": "sick",
+      "mean": "not feeling healthy"
+    }
+  ],
+  "tip": "Touch the part of your body when you say the English word. This connects the word to your physical feeling and helps you remember it faster!",
+  "quiz": [
+    {
+      "ask": "Choose the correct phrase for pain in your head.",
+      "en": "I have a ___.",
+      "choices": [
+        "headache",
+        "stomach",
+        "leg"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word for body pain.",
+      "en": "My back ___ today.",
+      "choices": [
+        "hurts",
+        "hurt",
+        "pain"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Complete the question the doctor asks.",
+      "en": "How ___ you feel today?",
+      "choices": [
+        "are",
+        "do",
+        "have"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the word when your body is too hot.",
+      "en": "I have a ___.",
+      "choices": [
+        "fever",
+        "cold",
+        "doctor"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Select the correct word for feeling unwell.",
+      "en": "I feel very ___ today.",
+      "choices": [
+        "happy",
+        "sick",
+        "tall"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose what the doctor gives you to get better.",
+      "en": "Take this ___ twice a day.",
+      "choices": [
+        "food",
+        "water",
+        "medicine"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

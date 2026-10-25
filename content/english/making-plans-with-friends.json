@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-25",
+  "slug": "making-plans-with-friends",
+  "cefr": "A2",
+  "cat": "phrases",
+  "emoji": "🎉",
+  "title": "Inviting People: Yes and No",
+  "summary": "In this lesson, you will learn how to invite friends to do things. You will also practice how to say yes or no politely.",
+  "sections": [
+    {
+      "h": "How to Make an Invitation",
+      "p": "When you want to ask someone to do something with you, use 'Would you like to...' or 'Do you want to...'. These are very common and polite ways to invite a friend to a movie, dinner, or a party. Always smile and be friendly when you ask!",
+      "ex": [
+        {
+          "en": "Would you like to come to my party?",
+          "mean": "Asking someone to join your party politely"
+        },
+        {
+          "en": "Do you want to grab a coffee tomorrow?",
+          "mean": "Asking a friend to get coffee together"
+        }
+      ]
+    },
+    {
+      "h": "How to Accept Politely",
+      "p": "When someone invites you and you are free, you should accept happily. Say thank you first! You can use phrases like 'I'd love to' or 'That sounds great' to show that you are excited about their invitation.",
+      "ex": [
+        {
+          "en": "I'd love to! Thank you.",
+          "mean": "Saying yes with excitement"
+        },
+        {
+          "en": "That sounds great! What time?",
+          "mean": "Saying yes and asking for the time"
+        }
+      ]
+    },
+    {
+      "h": "How to Refuse Politely",
+      "p": "Sometimes you cannot go. When you need to say no, be very polite so you do not hurt your friend's feelings. Always start by thanking them. Then, give a simple reason, like being busy, and say sorry.",
+      "ex": [
+        {
+          "en": "I'm sorry, I'm busy that day.",
+          "mean": "Saying no because you have other plans"
+        },
+        {
+          "en": "Thank you, but I can't make it.",
+          "mean": "Polite way to refuse an invitation"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Would you like to",
+      "mean": "polite invitation"
+    },
+    {
+      "en": "Do you want to",
+      "mean": "casual invitation"
+    },
+    {
+      "en": "I'd love to",
+      "mean": "accept happily"
+    },
+    {
+      "en": "That sounds great",
+      "mean": "show excitement"
+    },
+    {
+      "en": "I'm sorry",
+      "mean": "polite apology"
+    },
+    {
+      "en": "I'm busy",
+      "mean": "have other plans"
+    },
+    {
+      "en": "Thank you",
+      "mean": "show gratitude"
+    }
+  ],
+  "tip": "Always say 'Thank you' before you accept or refuse an invitation. It shows that you appreciate your friend asking you!",
+  "quiz": [
+    {
+      "ask": "Choose the best way to invite a friend.",
+      "en": "___ you like to go to the cinema tonight?",
+      "choices": [
+        "Would",
+        "Do",
+        "Are",
+        "Can"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word to complete the phrase.",
+      "en": "I'd love ___! Thank you.",
+      "choices": [
+        "go",
+        "to",
+        "too",
+        "do"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Select the polite way to say no.",
+      "en": "I'm sorry, I'm ___ that day.",
+      "choices": [
+        "free",
+        "good",
+        "busy",
+        "nice"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct phrase to show excitement.",
+      "en": "___ sounds great!",
+      "choices": [
+        "This",
+        "It",
+        "What",
+        "That"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Complete the casual invitation.",
+      "en": "___ you want to grab lunch?",
+      "choices": [
+        "Do",
+        "Would",
+        "Are",
+        "Did"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct response to a refusal.",
+      "en": "That's okay, maybe ___ time!",
+      "choices": [
+        "next",
+        "other",
+        "future",
+        "later"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

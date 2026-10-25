@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-25",
+  "slug": "at-the-airport",
+  "cefr": "A2",
+  "cat": "phrases",
+  "emoji": "✈️",
+  "title": "At the Airport and on a Plane",
+  "summary": "Learn easy and useful English for traveling by air. You will learn how to find your gate and talk to flight attendants.",
+  "sections": [
+    {
+      "h": "Finding Your Way",
+      "p": "When you arrive at the airport, you need to find your gate. The gate is the place where you wait before you get on the plane. Look at the big screens to see your flight number and gate letter. If you cannot find it, ask airport staff for help.",
+      "ex": [
+        {
+          "en": "Where is gate number five?",
+          "mean": "Asking the location of your boarding gate"
+        },
+        {
+          "en": "My flight to Paris is at two o'clock.",
+          "mean": "Telling someone your flight time and destination"
+        }
+      ]
+    },
+    {
+      "h": "At the Check-in Desk",
+      "p": "Before you go to the plane, you must go to the check-in desk. Here, you give your passport and ticket to the worker. They will check your bags. They give you a boarding pass, which is a special paper you need to show before you enter the plane.",
+      "ex": [
+        {
+          "en": "Here is my passport and ticket.",
+          "mean": "Giving your travel documents to the worker"
+        },
+        {
+          "en": "I have one suitcase to check.",
+          "mean": "Telling the worker how many big bags you have"
+        }
+      ]
+    },
+    {
+      "h": "On the Plane",
+      "p": "When you are inside the plane, find your seat number. Put your small bag under the seat in front of you, or up high in the overhead locker. Flight attendants are the workers on the plane. They are there to help you and keep you safe.",
+      "ex": [
+        {
+          "en": "Can I have some water, please?",
+          "mean": "Asking a flight attendant for a drink"
+        },
+        {
+          "en": "Excuse me, where is seat twelve B?",
+          "mean": "Asking where your specific seat is located"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "passport",
+      "mean": "official travel ID card"
+    },
+    {
+      "en": "boarding pass",
+      "mean": "ticket to enter plane"
+    },
+    {
+      "en": "gate",
+      "mean": "door to the plane"
+    },
+    {
+      "en": "suitcase",
+      "mean": "large travel bag"
+    },
+    {
+      "en": "seat",
+      "mean": "place to sit"
+    },
+    {
+      "en": "flight attendant",
+      "mean": "worker on the plane"
+    },
+    {
+      "en": "ticket",
+      "mean": "paper for travel"
+    }
+  ],
+  "tip": "Practice these phrases out loud before your trip. Imagine you are talking to a real worker at the airport!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word for the door to the plane",
+      "en": "Please go to ___ number four.",
+      "choices": [
+        "gate",
+        "seat",
+        "bag",
+        "desk"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct document name",
+      "en": "Here is my ___ and my ticket.",
+      "choices": [
+        "water",
+        "passport",
+        "plane",
+        "flight"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct polite question",
+      "en": "___ I have some water, please?",
+      "choices": [
+        "Do",
+        "Are",
+        "Can",
+        "Is"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word for the worker on the plane",
+      "en": "The flight ___ helped me find my seat.",
+      "choices": [
+        "driver",
+        "teacher",
+        "attendant",
+        "doctor"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct paper you need to show",
+      "en": "Show your ___ before you get on the plane.",
+      "choices": [
+        "boarding pass",
+        "suitcase",
+        "passport photo",
+        "money"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct place to sit",
+      "en": "My ___ number is ten A.",
+      "choices": [
+        "gate",
+        "seat",
+        "desk",
+        "bag"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

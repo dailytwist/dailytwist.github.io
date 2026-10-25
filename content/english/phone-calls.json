@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-25",
+  "slug": "phone-calls",
+  "cefr": "A2",
+  "cat": "phrases",
+  "emoji": "📞",
+  "title": "Making and Answering Phone Calls",
+  "summary": "Learn how to say hello, ask for someone, and end a phone call in English. These easy phrases help you talk on the phone with confidence.",
+  "sections": [
+    {
+      "h": "Answering the Phone",
+      "p": "When the phone rings, you need to say hello and tell the other person who is speaking. Keep it short and friendly. At work, you can also say your company name. When speaking to friends, you can use more casual words.",
+      "ex": [
+        {
+          "en": "Hello, this is Anna.",
+          "mean": "Saying hello and giving your name"
+        },
+        {
+          "en": "Hi, it is John.",
+          "mean": "A friendly way to say who is calling"
+        },
+        {
+          "en": "Good morning, Hotel Plaza.",
+          "mean": "Answering professionally at work"
+        }
+      ]
+    },
+    {
+      "h": "Asking for Someone",
+      "p": "If you want to talk to a specific person, you must ask for them politely. We use modal verbs like 'can' or 'could' to sound polite. You can also ask to leave a message if the person is not there.",
+      "ex": [
+        {
+          "en": "Can I speak to Mr. Davis, please?",
+          "mean": "Politely asking to talk to someone"
+        },
+        {
+          "en": "Is Sarah there, please?",
+          "mean": "A simpler way to ask for a friend"
+        },
+        {
+          "en": "Could I leave a message?",
+          "mean": "Asking the person to tell them something later"
+        }
+      ]
+    },
+    {
+      "h": "Ending a Phone Call",
+      "p": "When you finish talking, you should say goodbye politely. It is nice to thank the other person for their time or help before you hang up. Then you can say goodbye.",
+      "ex": [
+        {
+          "en": "Thank you for your help. Goodbye!",
+          "mean": "Saying thank you and ending the call"
+        },
+        {
+          "en": "Talk to you soon. Bye!",
+          "mean": "A friendly way to end a chat with a friend"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "this is",
+      "mean": "saying your name"
+    },
+    {
+      "en": "speak to",
+      "mean": "talk with someone"
+    },
+    {
+      "en": "leave a message",
+      "mean": "send info for later"
+    },
+    {
+      "en": "call back",
+      "mean": "phone again later"
+    },
+    {
+      "en": "wrong number",
+      "mean": "calling the incorrect phone"
+    },
+    {
+      "en": "hold on",
+      "mean": "wait a moment"
+    },
+    {
+      "en": "hang up",
+      "mean": "end the phone call"
+    }
+  ],
+  "tip": "Practice speaking out loud into your phone in front of a mirror. Imagine you are talking to a real person to feel more relaxed.",
+  "quiz": [
+    {
+      "ask": "Choose the best way to answer a phone call at home.",
+      "en": "Hello, ___ is Maria.",
+      "choices": [
+        "this",
+        "that",
+        "here"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the missing word to ask for someone politely.",
+      "en": "___ I speak to David, please?",
+      "choices": [
+        "Do",
+        "Can",
+        "Are"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct phrase when someone asks you to wait.",
+      "en": "Please hold ___ a minute.",
+      "choices": [
+        "up",
+        "in",
+        "on"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct meaning of 'wrong number'.",
+      "en": "You called the ___ person by mistake.",
+      "choices": [
+        "wrong",
+        "right",
+        "good"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the polite way to ask to pass information.",
+      "en": "Could I leave a ___?",
+      "choices": [
+        "letter",
+        "message",
+        "paper"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the best phrase to end a friendly call.",
+      "en": "Talk to you ___! Bye!",
+      "choices": [
+        "later",
+        "soon",
+        "well"
+      ],
+      "answer_index": 1
+    }
+  ]
+}
