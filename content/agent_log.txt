@@ -1,126 +1,109 @@
-  10 trending topics after filtering
-- horoscopes 2026-10-25
+- compatibility gemini + cancer
 ::warning::Gemini models available: gemini-2.5-flash, gemini-2.5-pro, gemini-2.5-flash-preview-tts, gemini-2.5-pro-preview-tts, gemma-4-26b-a4b-it, gemma-4-31b-it, gemini-flash-latest, gemini-flash-lite-latest, gemini-pro-latest, gemini-2.5-flash-lite, gemini-2.5-flash-image, gemini-3-flash-preview, gemini-3.1-pro-preview, gemini-3.1-pro-preview-customtools, gemini-3.1-flash-lite-preview, gemini-3.1-flash-lite, gemini-3-pro-image-preview, gemini-3-pro-image, nano-banana-pro-preview, gemini-3.1-flash-image-preview, gemini-3.1-flash-image, gemini-3.1-flash-lite-image, gemini-nano-banana-2.1, gemini-3.5-flash, gemini-3.5-flash-lite, gemini-omni-flash-preview, gemini-omni-1.1-flash, gemini-3.5-transcribe, gemini-3.6-flash, gemini-3.7-flash, gemini-3.8-flash, gemini-4-argon, lyria-3-clip-preview, lyria-3-pro-preview, lyria-3.5, gemini-3.1-flash-tts-preview, gemini-3.8-flash-tts, gemini-3.8-flash-lite-tts, gemini-robotics-er-2-preview, gemini-2.5-computer-use-preview-10-2025
 ::warning::using Gemini model: gemini-3.5-flash-lite
-  saved content/horoscopes/2026-10-25.json
-- trivia 2026-10-25
-  saved content/trivia/2026-10-25.json
-- choosing articles from trends for 2026-10-25
-  saved content/seeds_used.json
-  saved content/articles/leonardo-dicaprio-career-art-and-environmentalism.json
-  saved content/articles/oracle-vs-prophet-vs-psychic-what-is-the-difference.json
-  saved content/articles/famous-oracles-in-history-and-mythology-what-to-know.json
-- compatibility capricorn + cancer
-  saved content/pairs/capricorn-cancer.json
-- compatibility capricorn + scorpio
-  saved content/pairs/capricorn-scorpio.json
-- compatibility capricorn + pisces
-  saved content/pairs/capricorn-pisces.json
-- compatibility gemini + gemini
-  saved content/pairs/gemini-gemini.json
-- compatibility gemini + libra
-  saved content/pairs/gemini-libra.json
-- compatibility gemini + aquarius
-  saved content/pairs/gemini-aquarius.json
-- dream tree
-  saved content/dreams/tree.json
-- dream garden
-  saved content/dreams/garden.json
-- dream mountain
-  saved content/dreams/mountain.json
-- dream bridge
-  saved content/dreams/bridge.json
-- dream stairs
-  saved content/dreams/stairs.json
-- dream elevator
-  saved content/dreams/elevator.json
-- guide birthday february-18
-  saved content/guides/birthday-february-18.json
-- guide birthday february-19
-  saved content/guides/birthday-february-19.json
-- guide birthday february-20
-  saved content/guides/birthday-february-20.json
-- guide birthday february-21
-  saved content/guides/birthday-february-21.json
-- guide birthday february-22
-  saved content/guides/birthday-february-22.json
-- guide birthday february-23
-  saved content/guides/birthday-february-23.json
-- english will-future
-  saved content/english/will-future.json
-- english adverbs-of-frequency
-  saved content/english/adverbs-of-frequency.json
-- english object-pronouns
-  saved content/english/object-pronouns.json
-- english possessive-s
-  saved content/english/possessive-s.json
-- english prepositions-of-time
-  saved content/english/prepositions-of-time.json
-- name Alessandro
-  saved content/names/alessandro.json
-- name Soufiane
-  saved content/names/soufiane.json
-- name Francesco
-  saved content/names/francesco.json
-- name Marwan
-  saved content/names/marwan.json
-- name Diego
-  saved content/names/diego.json
-- name Ziad
-  saved content/names/ziad.json
-- name Santiago
-  saved content/names/santiago.json
-- name Faris
-  saved content/names/faris.json
-  saved content/i18n/es/horoscopes/2026-10-25.json
-  saved content/i18n/es/trivia/2026-10-25.json
-  saved content/i18n/es/pairs/gemini-aquarius.json
-  saved content/i18n/es/pairs/capricorn-scorpio.json
-  saved content/i18n/es/pairs/capricorn-pisces.json
-  saved content/i18n/es/pairs/gemini-libra.json
-  saved content/i18n/es/pairs/capricorn-cancer.json
-  saved content/i18n/es/pairs/gemini-gemini.json
-  saved content/i18n/es/dreams/mountain.json
-  saved content/i18n/fr/horoscopes/2026-10-25.json
-  saved content/i18n/fr/trivia/2026-10-25.json
-  saved content/i18n/fr/pairs/gemini-aquarius.json
-  saved content/i18n/fr/pairs/capricorn-scorpio.json
-  saved content/i18n/fr/pairs/capricorn-pisces.json
-  saved content/i18n/fr/pairs/gemini-libra.json
-  saved content/i18n/de/horoscopes/2026-10-25.json
-  saved content/i18n/de/trivia/2026-10-25.json
-  saved content/i18n/de/pairs/gemini-aquarius.json
-  saved content/i18n/pt/horoscopes/2026-10-25.json
-  saved content/i18n/pt/trivia/2026-10-25.json
-  saved content/i18n/pt/pairs/gemini-aquarius.json
-  saved content/i18n/pt/pairs/capricorn-scorpio.json
-  saved content/i18n/pt/pairs/capricorn-pisces.json
-  saved content/i18n/pt/pairs/gemini-libra.json
-  saved content/i18n/it/horoscopes/2026-10-25.json
-  saved content/i18n/it/trivia/2026-10-25.json
-  saved content/i18n/it/pairs/gemini-aquarius.json
-  saved content/i18n/ja/horoscopes/2026-10-25.json
-  saved content/i18n/ja/trivia/2026-10-25.json
-  saved content/i18n/ja/pairs/gemini-aquarius.json
-  saved content/i18n/ar/horoscopes/2026-10-25.json
-  saved content/i18n/ar/trivia/2026-10-25.json
-  saved content/i18n/ar/pairs/gemini-aquarius.json
-  saved content/i18n/es/dreams/stairs.json
-  saved content/i18n/es/dreams/elevator.json
-  saved content/i18n/es/dreams/bridge.json
-  saved content/i18n/es/dreams/tree.json
-  saved content/i18n/es/dreams/garden.json
-  saved content/i18n/es/guides/birthday-february-21.json
-  saved content/i18n/es/guides/birthday-february-22.json
-  saved content/i18n/es/guides/birthday-february-18.json
-  saved content/i18n/es/guides/birthday-february-23.json
-  saved content/i18n/fr/pairs/capricorn-cancer.json
-  saved content/i18n/fr/pairs/gemini-gemini.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/fr/dreams/mountain.json
-  saved content/i18n/fr/dreams/stairs.json
-  saved content/i18n/fr/dreams/elevator.json
-  saved content/i18n/fr/dreams/bridge.json
-  saved content/i18n/de/pairs/capricorn-scorpio.json
-  saved content/i18n/de/pairs/capricorn-pisces.json
+  saved content/pairs/gemini-cancer.json
+- compatibility gemini + scorpio
+  saved content/pairs/gemini-scorpio.json
+- compatibility gemini + pisces
+  saved content/pairs/gemini-pisces.json
+- compatibility libra + libra
+  saved content/pairs/libra-libra.json
+- compatibility libra + aquarius
+  saved content/pairs/libra-aquarius.json
+- compatibility libra + cancer
+  saved content/pairs/libra-cancer.json
+- dream door
+  saved content/dreams/door.json
+- dream key
+  saved content/dreams/key.json
+- dream lost phone
+  saved content/dreams/lost-phone.json
+- dream shoes
+  saved content/dreams/shoes.json
+- dream clothes
+  saved content/dreams/clothes.json
+- dream dress
+  saved content/dreams/dress.json
+- guide birthday february-24
+  saved content/guides/birthday-february-24.json
+- guide birthday february-25
+  saved content/guides/birthday-february-25.json
+- guide birthday february-26
+  saved content/guides/birthday-february-26.json
+- guide birthday february-27
+  saved content/guides/birthday-february-27.json
+- guide birthday february-28
+  saved content/guides/birthday-february-28.json
+- guide birthday february-29
+  saved content/guides/birthday-february-29.json
+- english shopping
+  saved content/english/shopping.json
+- english at-the-airport
+::error::make_english failed: Expecting property name enclosed in double quotes: line 132 column 7 (char 3860)
+- name Alejandro
+  saved content/names/alejandro.json
+- name Jad
+  saved content/names/jad.json
+- name Pablo
+  saved content/names/pablo.json
+- name Sami
+  saved content/names/sami.json
+- name Javier
+  saved content/names/javier.json
+- name Imran
+  saved content/names/imran.json
+- name Carlos
+  saved content/names/carlos.json
+- name Yahya
+  saved content/names/yahya.json
+  saved content/i18n/es/pairs/gemini-pisces.json
+  saved content/i18n/es/pairs/gemini-cancer.json
+  saved content/i18n/es/pairs/libra-aquarius.json
+  saved content/i18n/es/pairs/libra-cancer.json
+  saved content/i18n/es/pairs/gemini-scorpio.json
+  saved content/i18n/es/pairs/libra-libra.json
+  saved content/i18n/es/dreams/clothes.json
+  saved content/i18n/es/dreams/dress.json
+  saved content/i18n/es/dreams/door.json
+  saved content/i18n/fr/pairs/gemini-pisces.json
+  saved content/i18n/fr/pairs/gemini-cancer.json
+  saved content/i18n/fr/pairs/libra-aquarius.json
+  saved content/i18n/fr/pairs/libra-cancer.json
+  saved content/i18n/fr/pairs/gemini-scorpio.json
+  saved content/i18n/fr/pairs/libra-libra.json
+  saved content/i18n/de/pairs/gemini-pisces.json
+  saved content/i18n/de/pairs/gemini-cancer.json
+  saved content/i18n/de/pairs/libra-aquarius.json
+  saved content/i18n/pt/pairs/gemini-pisces.json
+  saved content/i18n/pt/pairs/gemini-cancer.json
+  saved content/i18n/pt/pairs/libra-aquarius.json
+  saved content/i18n/pt/pairs/libra-cancer.json
+  saved content/i18n/pt/pairs/gemini-scorpio.json
+  saved content/i18n/pt/pairs/capricorn-cancer.json
+  saved content/i18n/it/pairs/capricorn-scorpio.json
+  saved content/i18n/it/pairs/gemini-pisces.json
+  saved content/i18n/it/pairs/capricorn-pisces.json
+  saved content/i18n/ja/pairs/capricorn-scorpio.json
+  saved content/i18n/ja/pairs/gemini-pisces.json
+  saved content/i18n/ja/pairs/capricorn-pisces.json
+  saved content/i18n/ar/pairs/capricorn-scorpio.json
+  saved content/i18n/ar/pairs/gemini-pisces.json
+  saved content/i18n/ar/pairs/capricorn-pisces.json
+  saved content/i18n/es/dreams/key.json
+  saved content/i18n/es/dreams/shoes.json
+  saved content/i18n/es/dreams/lost-phone.json
+  saved content/i18n/es/guides/birthday-february-29.json
+  saved content/i18n/es/guides/birthday-february-25.json
+  saved content/i18n/es/guides/birthday-february-28.json
+  saved content/i18n/es/guides/birthday-february-26.json
+  saved content/i18n/es/guides/birthday-february-27.json
+  saved content/i18n/es/guides/birthday-february-24.json
+  saved content/i18n/fr/dreams/clothes.json
+  saved content/i18n/fr/dreams/dress.json
+  saved content/i18n/fr/dreams/door.json
+  saved content/i18n/fr/dreams/key.json
+  saved content/i18n/fr/dreams/shoes.json
+  saved content/i18n/fr/dreams/tree.json
+  saved content/i18n/de/pairs/libra-cancer.json
+  saved content/i18n/de/pairs/gemini-scorpio.json
 Agent finished.

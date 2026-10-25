@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-25",
+  "slug": "shopping",
+  "cefr": "A2",
+  "cat": "phrases",
+  "emoji": "🛍️",
+  "title": "Shopping: Prices and Sizes",
+  "summary": "Learn how to ask about prices and choose the right clothes size. Practise useful words for going shopping.",
+  "sections": [
+    {
+      "h": "Asking About Prices",
+      "p": "When you want to know how much something costs, you can ask 'How much is this?' for one item, or 'How much are these?' for more than one item. When you pay, the cashier might tell you the total price. We use numbers and money words like pounds, dollars, or euros to talk about prices.",
+      "ex": [
+        {
+          "en": "How much is this jacket?",
+          "mean": "What is the price of this one jacket?"
+        },
+        {
+          "en": "How much are these shoes?",
+          "mean": "What is the total price of these shoes?"
+        },
+        {
+          "en": "It is twenty pounds.",
+          "mean": "The price is 20 pounds."
+        }
+      ]
+    },
+    {
+      "h": "Clothing Sizes",
+      "p": "Clothes come in different sizes. The most common sizes use letters like S for small, M for medium, and L for large. If you need a bigger size, you can ask for XL, which means extra large. Always check the label or ask a worker if you are not sure.",
+      "ex": [
+        {
+          "en": "Do you have this in a medium?",
+          "mean": "Can I get this shirt in size M?"
+        },
+        {
+          "en": "This shirt is too small for me.",
+          "mean": "I need a bigger size."
+        },
+        {
+          "en": "Where is the fitting room?",
+          "mean": "Where can I try on these clothes?"
+        }
+      ]
+    },
+    {
+      "h": "Paying for Items",
+      "p": "After you choose your items, you go to the cashier to pay. You can usually pay with cash, like paper money and coins, or with a plastic card. The cashier will ask if you want a receipt, which is the paper showing what you bought.",
+      "ex": [
+        {
+          "en": "Can I pay by card?",
+          "mean": "Can I use my bank card to pay?"
+        },
+        {
+          "en": "Here is your change.",
+          "mean": "Here is the extra money back from your cash."
+        },
+        {
+          "en": "Would you like a receipt?",
+          "mean": "Do you want the paper from the cash register?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "How much",
+      "mean": "asking for price"
+    },
+    {
+      "en": "Small",
+      "mean": "size S"
+    },
+    {
+      "en": "Medium",
+      "mean": "size M"
+    },
+    {
+      "en": "Large",
+      "mean": "size L"
+    },
+    {
+      "en": "Cash",
+      "mean": "paper money and coins"
+    },
+    {
+      "en": "Card",
+      "mean": "bank or credit card"
+    },
+    {
+      "en": "Receipt",
+      "mean": "proof of purchase paper"
+    },
+    {
+      "en": "Fitting room",
+      "mean": "place to try clothes on"
+    }
+  ],
+  "tip": "When asking for prices, point to the item and smile. Shop assistants are always happy to help you find the right size!",
+  "quiz": [
+    {
+      "ask": "Choose the correct question for one item",
+      "en": "___ is this red shirt?",
+      "choices": [
+        "How much",
+        "How many",
+        "What time",
+        "Where"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct size letter for medium",
+      "en": "I need a medium. Do you have size ___?",
+      "choices": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct place to try clothes",
+      "en": "Where is the ___ room?",
+      "choices": [
+        "bedroom",
+        "living",
+        "fitting",
+        "waiting"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct way to pay with plastic",
+      "en": "Can I pay by ___?",
+      "choices": [
+        "paper",
+        "coin",
+        "cash",
+        "card"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Choose the correct question for two or more items",
+      "en": "___ much are these shoes?",
+      "choices": [
+        "How",
+        "What",
+        "Where",
+        "Which"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word for the paper you get after paying",
+      "en": "Would you like a ___?",
+      "choices": [
+        "ticket",
+        "receipt",
+        "book",
+        "letter"
+      ],
+      "answer_index": 1
+    }
+  ]
+}
