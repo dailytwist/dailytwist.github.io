@@ -162,7 +162,19 @@ def ask_json(prompt: str, max_tokens: int = 4000):
     text = text.strip()
     text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text)
     start = min([i for i in (text.find("{"), text.find("[")) if i >= 0], default=0)
-    return json.loads(text[start:])
+    text = text[start:]
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        # common model slips: trailing commas, smart quotes, stray text after the JSON
+        fixed = re.sub(r",\s*([}\]])", r"\1", text).replace("\u201c", '"').replace("\u201d", '"')
+        try:
+            return json.JSONDecoder().raw_decode(fixed)[0]
+        except json.JSONDecodeError:
+            if prompt.endswith("(retry)"):
+                raise
+            print("  JSON was broken, asking once more")
+            return ask_json(prompt + "\n(retry)", max_tokens)
 
 
 def slugify(s: str) -> str:
