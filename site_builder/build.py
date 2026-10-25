@@ -283,6 +283,8 @@ THIN_MIN = 150  # detail pages with less real text are kept for visitors but hid
 
 def is_thin(lang, path):
     pg = PAGES.get((lang, path))
+    if path == "search/":
+        return True  # search results page has no content of its own
     if not pg or pg.get("canonical") or path.count("/") < 2 or pg.get("keep_index"):
         return False
     if "words" not in pg:
@@ -378,7 +380,7 @@ def render(lang, path, pg):
   <div class="wrap">
     <p class="brand small-brand"><span class="logo">✦</span>{e(SITE)}</p>
     <p>{e(T(lang, 'tagline'))}.</p>
-    <p class="links"><a href="{pre}/about/">{e(T(lang, 'about'))}</a><a href="{pre}/contact/">{e(T(lang, 'contact'))}</a><a href="{pre}/privacy/">{e(T(lang, 'privacy'))}</a><a href="{pre}/terms/">{e(T(lang, 'terms'))}</a><a href="{pre}/feed.xml">RSS</a>{tg}<a href="/sitemap.xml">Sitemap</a></p>
+    <p class="links"><a href="{pre}/about/">{e(T(lang, 'about'))}</a><a href="{pre}/contact/">{e(T(lang, 'contact'))}</a><a href="{pre}/editorial-policy/">{e(T(lang, 'editorial'))}</a><a href="{pre}/privacy/">{e(T(lang, 'privacy'))}</a><a href="{pre}/terms/">{e(T(lang, 'terms'))}</a><a href="{pre}/feed.xml">RSS</a>{tg}<a href="/sitemap.xml">Sitemap</a></p>
     <p class="small">{e(T(lang, 'footer_note'))} © {TODAY.year} {e(SITE)}</p>
   </div>
 </footer>
@@ -1438,12 +1440,14 @@ q.oninput=go}})();</script>""", priority="0.3")
 <script src="/assets/tarot.js" defer></script>""", priority="0.7")
 
     # legal & contact
-    fill = lambda s: s.replace("{site}", e(SITE)).replace("{url}", e(URL)).replace("{contact_url}", pre + "/contact/")
+    fill = lambda s: s.replace("{site}", e(SITE)).replace("{url}", e(URL)).replace("{contact_url}", pre + "/contact/").replace("{editorial_url}", pre + "/editorial-policy/")
     add(lang, "about/", T(lang, "about_title", site=SITE), T(lang, "tagline"),
-        f'<article class="post"><h1>{e(T(lang, "about_title", site=SITE))}</h1>{fill(T(lang, "about_html"))}</article>', priority="0.3")
+        f'<article class="post"><h1>{e(T(lang, "about_title", site=SITE))}</h1>{fill(T(lang, "about_v2_html"))}</article>', priority="0.3")
+    add(lang, "editorial-policy/", T(lang, "editorial"), f"{T(lang, 'editorial')} – {SITE}",
+        f'<article class="post"><h1>{e(T(lang, "editorial"))}</h1>{fill(T(lang, "editorial_html"))}</article>', priority="0.3")
     upd = e(T(lang, "last_updated", date=fdate(lang, TODAY)))
     add(lang, "privacy/", T(lang, "privacy"), f"{T(lang, 'privacy')} – {SITE}",
-        f'<article class="post"><h1>{e(T(lang, "privacy"))}</h1><p class="muted">{upd}</p>{fill(T(lang, "privacy_html"))}</article>', priority="0.2")
+        f'<article class="post"><h1>{e(T(lang, "privacy"))}</h1><p class="muted">{upd}</p>{fill(T(lang, "privacy_v2_html"))}</article>', priority="0.2")
     add(lang, "terms/", T(lang, "terms"), f"{T(lang, 'terms')} – {SITE}",
         f'<article class="post"><h1>{e(T(lang, "terms"))}</h1><p class="muted">{upd}</p>{fill(T(lang, "terms_html"))}</article>', priority="0.2")
     key = C.get("web3forms_key", "")
