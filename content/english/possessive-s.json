@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-25",
+  "slug": "possessive-s",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🏠",
+  "title": "Possessive 's and Whose",
+  "summary": "You will learn how to show who owns something. You will also learn how to ask questions about owners.",
+  "sections": [
+    {
+      "h": "Using Possessive 's",
+      "p": "We use an apostrophe and the letter s ('s) after a person's name or a noun to show that something belongs to them. For example, if the phone belongs to Anna, we say Anna's phone. If it belongs to my sister, we say my sister's bag. Always put the owner first, and the thing they own right after it.",
+      "ex": [
+        {
+          "en": "This is John's car.",
+          "mean": "The car belongs to John."
+        },
+        {
+          "en": "My brother's room is big.",
+          "mean": "The room belongs to my brother."
+        }
+      ]
+    },
+    {
+      "h": "Asking with Whose",
+      "p": "We use the question word 'Whose' to ask about the owner of something. When we want to know who owns a specific item, we put the noun right after 'Whose'. For example, we ask 'Whose jacket is this?' or 'Whose keys are these?' to find the owner.",
+      "ex": [
+        {
+          "en": "Whose pen is this?",
+          "mean": "Who is the owner of this pen?"
+        },
+        {
+          "en": "Whose shoes are those?",
+          "mean": "Who do those shoes belong to?"
+        }
+      ]
+    },
+    {
+      "h": "Short Answers",
+      "p": "When someone asks a 'Whose' question, we can answer in a few different ways. We can use the possessive 's with a name, or we can use possessive pronouns like 'mine', 'yours', or 'his'. Keeping your answers short and clear helps people understand you quickly in everyday conversations.",
+      "ex": [
+        {
+          "en": "It's Sarah's.",
+          "mean": "The item belongs to Sarah."
+        },
+        {
+          "en": "They are mine.",
+          "mean": "The items belong to me."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "possessive 's",
+      "mean": "shows ownership"
+    },
+    {
+      "en": "whose",
+      "mean": "asking who owns"
+    },
+    {
+      "en": "belong",
+      "mean": "be owned by"
+    },
+    {
+      "en": "owner",
+      "mean": "person who has it"
+    },
+    {
+      "en": "mine",
+      "mean": "belonging to me"
+    },
+    {
+      "en": "yours",
+      "mean": "belonging to you"
+    },
+    {
+      "en": "item",
+      "mean": "thing"
+    }
+  ],
+  "tip": "Remember: put the owner first with an 's, then the thing they own. For example, 'Tom's cat'!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "This is ___ book. (Maria)",
+      "choices": [
+        "Maria",
+        "Marias",
+        "Maria's"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "___ bag is this?",
+      "choices": [
+        "Whose",
+        "Who's",
+        "Who"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "These are my ___ keys.",
+      "choices": [
+        "father",
+        "father's",
+        "fathers"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "___ phone is ringing?",
+      "choices": [
+        "Whose",
+        "Whoses",
+        "Who"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "It is ___ laptop. (David)",
+      "choices": [
+        "Davids",
+        "David",
+        "David's"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "___ jacket is on the chair?",
+      "choices": [
+        "Who",
+        "Whose",
+        "What"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

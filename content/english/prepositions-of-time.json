@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-25",
+  "slug": "prepositions-of-time",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "⏰",
+  "title": "Prepositions of Time: In, On, At",
+  "summary": "Learn how to use 'in', 'on', and 'at' correctly with times and dates. Talk about your daily schedule and favorite days with confidence.",
+  "sections": [
+    {
+      "h": "Use AT for exact times",
+      "p": "We use the word 'at' when we talk about a specific clock time. For example, when you want to say what time you wake up, eat lunch, or start work. It helps you be very exact about your schedule during the day.",
+      "ex": [
+        {
+          "en": "I wake up at 7 o'clock.",
+          "mean": "My exact morning wake-up time."
+        },
+        {
+          "en": "The class starts at half past nine.",
+          "mean": "The exact time the lesson begins."
+        },
+        {
+          "en": "We eat dinner at night.",
+          "mean": "A specific time of day."
+        }
+      ]
+    },
+    {
+      "h": "Use ON for days and dates",
+      "p": "We use the word 'on' for days of the week, like Monday or Saturday. We also use 'on' when we talk about a specific calendar date, such as your birthday or a holiday with a date.",
+      "ex": [
+        {
+          "en": "I have a test on Monday.",
+          "mean": "A specific day of the week."
+        },
+        {
+          "en": "My birthday is on July 12th.",
+          "mean": "A specific calendar date."
+        },
+        {
+          "en": "We relax on the weekend.",
+          "mean": "Saturday and Sunday."
+        }
+      ]
+    },
+    {
+      "h": "Use IN for months, years, and long times",
+      "p": "We use the word 'in' for longer periods of time. This includes months, years, seasons, and general parts of the day like the morning or the afternoon. Think of 'in' as being inside a bigger box of time.",
+      "ex": [
+        {
+          "en": "My holiday is in June.",
+          "mean": "A specific month."
+        },
+        {
+          "en": "She was born in 2005.",
+          "mean": "A specific year."
+        },
+        {
+          "en": "I drink coffee in the morning.",
+          "mean": "A part of the day."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "at",
+      "mean": "used for exact times"
+    },
+    {
+      "en": "on",
+      "mean": "used for days and dates"
+    },
+    {
+      "en": "in",
+      "mean": "used for months and years"
+    },
+    {
+      "en": "clock time",
+      "mean": "hours and minutes"
+    },
+    {
+      "en": "weekend",
+      "mean": "Saturday and Sunday"
+    },
+    {
+      "en": "morning",
+      "mean": "early part of the day"
+    },
+    {
+      "en": "birthday",
+      "mean": "day you were born"
+    }
+  ],
+  "tip": "Think of 'at' as a tiny dot on a clock, 'on' as a page in a calendar, and 'in' as a big box of time!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "I sleep ___ 10 PM every night.",
+      "choices": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Her party is ___ Saturday.",
+      "choices": [
+        "on",
+        "at",
+        "in"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "We go to the beach ___ summer.",
+      "choices": [
+        "on",
+        "at",
+        "in"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "The shop opens ___ 8 o'clock.",
+      "choices": [
+        "in",
+        "at",
+        "on"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "His birthday is ___ October.",
+      "choices": [
+        "at",
+        "on",
+        "in"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "I play football ___ the afternoon.",
+      "choices": [
+        "in",
+        "at",
+        "on"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

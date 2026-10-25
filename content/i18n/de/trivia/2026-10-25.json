@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-25",
+  "title": "Tägliches Allgemeinwissen-Quiz: 25. Oktober 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches ist das einzige Land der Welt, das eine gemeinsame Landgrenze mit Portugal hat?",
+      "options": [
+        "Italien",
+        "Frankreich",
+        "Spanien",
+        "Marokko"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Spanien teilt sich auf der Iberischen Halbinsel die gesamte östliche und nördliche Landgrenze mit Portugal."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Wie lautet die Ordnungszahl des chemischen Elements Kohlenstoff?",
+      "options": [
+        "8",
+        "12",
+        "6",
+        "4"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Kohlenstoff hat die Ordnungszahl 6, was bedeutet, dass jedes Kohlenstoffatom sechs Protonen in seinem Kern hat."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Wer war der zweite Präsident der Vereinigten Staaten?",
+      "options": [
+        "James Madison",
+        "John Adams",
+        "Alexander Hamilton",
+        "Thomas Jefferson"
+      ],
+      "answer_index": 1,
+      "fun_fact": "John Adams amtierte von 1797 bis 1801 als zweiter US-Präsident und trat damit die Nachfolge von George Washington an."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Welcher Science-Fiction-Actionfilm aus dem Jahr 1999 machte den visuellen Effekt der „Bullet Time“ populär und zeigt Keanu Reeves in der Rolle des Neo?",
+      "options": [
+        "Blade Runner",
+        "Terminator 2: Tag der Abrechnung",
+        "The Matrix",
+        "Total Recall"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The Matrix wurde von den Wachowskis geschrieben und inszeniert und entwickelte sich zu einem riesigen Kulturphänomen."
+    },
+    {
+      "category": "Essen",
+      "question": "Gorgonzola ist ein berühmter Blauschimmelkäse, der traditionell in welchem europäischen Land hergestellt wird?",
+      "options": [
+        "Spanien",
+        "Frankreich",
+        "Italien",
+        "Griechenland"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Gorgonzola gehört zu den ältesten bekannten Blauschimmelkäsen Italiens und stammt ursprünglich aus der Stadt Gorgonzola bei Mailand."
+    },
+    {
+      "category": "Tiere",
+      "question": "Wie nennt man eine Gruppe von Flamingos?",
+      "options": [
+        "Eine Kolonie",
+        "Eine Herde",
+        "Eine Flamboyanz",
+        "Eine Schar"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Eine Gruppe von Flamingos wird treffend als Flamboyanz bezeichnet, was perfekt zu ihren leuchtend rosa Federn passt."
+    },
+    {
+      "category": "Sport",
+      "question": "Welcher Begriff wird im Golfsport für einen Schlag unter Par auf einem einzelnen Loch verwendet?",
+      "options": [
+        "Albatross",
+        "Birdie",
+        "Bogey",
+        "Eagle"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Ein Birdie bedeutet, einen Schlag unter Par zu spielen, während ein Eagle zwei Schläge unter Par entspricht."
+    },
+    {
+      "category": "Sprache",
+      "question": "Welcher sprachliche Begriff bezeichnet ein Wort, das aus den Anfangsbuchstaben anderer Wörter gebildet wird, wie zum Beispiel NASA oder Radar?",
+      "options": [
+        "Synonym",
+        "Akronym",
+        "Antonym",
+        "Homonym"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Akronymen werden wie eigenständige Wörter ausgesprochen, im Gegensatz zu Initialwörtern wie FBI, bei denen jeder Buchstabe einzeln gesprochen wird."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Planet in unserem Sonnensystem besitzt den Großen Dunklen Fleck, einen Sturm, der in seiner Größe mit Jupiters Großen Roten Fleck vergleichbar ist?",
+      "options": [
+        "Merkur",
+        "Neptun",
+        "Mars",
+        "Saturn"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Der 1989 von Voyager 2 entdeckte Große Dunkle Fleck auf dem Neptun war ein gewaltiges Sturmsystem, das später bei Beobachtungen durch das Hubble-Weltraumteleskop verschwunden war."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Die historischen Landungen am D-Day im Zweiten Weltkrieg fanden an der stark befestigten Küste welcher Region statt?",
+      "options": [
+        "Bretagne",
+        "Normandie",
+        "Flandern",
+        "Provence"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Die Operation Overlord begann am 6. Juni 1944 mit amphibischen Landungen an fünf Stränden entlang der normannischen Küste in Frankreich."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-25",
+  "title": "Test de cultura general diaria: 25 de octubre de 2026",
+  "questions": [
+    {
+      "category": "geografía",
+      "question": "¿Qué país es el único del mundo que comparte frontera terrestre con Portugal?",
+      "options": [
+        "Italia",
+        "Francia",
+        "España",
+        "Marruecos"
+      ],
+      "answer_index": 2,
+      "fun_fact": "España comparte toda la frontera terrestre oriental y norte de Portugal en la península ibérica."
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Cuál es el número atómico del elemento químico carbono?",
+      "options": [
+        "8",
+        "12",
+        "6",
+        "4"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El carbono tiene un número atómico de 6, lo que significa que cada átomo de carbono tiene seis protones en su núcleo."
+    },
+    {
+      "category": "historia",
+      "question": "¿Quién fue el segundo presidente de los Estados Unidos?",
+      "options": [
+        "James Madison",
+        "John Adams",
+        "Alexander Hamilton",
+        "Thomas Jefferson"
+      ],
+      "answer_index": 1,
+      "fun_fact": "John Adams ocupó el cargo de segundo presidente de EE. UU. de 1797 a 1801, sucediendo a George Washington."
+    },
+    {
+      "category": "cine y cultura pop",
+      "question": "¿Qué película de acción y ciencia ficción de 1999 popularizó el efecto visual del «tiempo bala» y está protagonizada por Keanu Reeves como Neo?",
+      "options": [
+        "Blade Runner",
+        "Terminator 2: Judgment Day",
+        "The Matrix",
+        "Total Recall"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The Matrix fue escrita y dirigida por las hermanas Wachowski y se convirtió en un enorme fenómeno cultural."
+    },
+    {
+      "category": "gastronomía",
+      "question": "El gorgonzola es un famoso queso de pasta azul producido tradicionalmente en qué país europeo?",
+      "options": [
+        "España",
+        "Francia",
+        "Italia",
+        "Grecia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El gorgonzola es uno de los quesos azules más antiguos de Italia y se origina en la localidad de Gorgonzola, cerca de Milán."
+    },
+    {
+      "category": "animales",
+      "question": "¿Cómo se le llama a un grupo de flamencos?",
+      "options": [
+        "Una colonia",
+        "Una manada",
+        "Una flamboyance",
+        "Un banco"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A un grupo de flamencos se le llama maravillosamente una «flamboyance» (elegancia), lo que hace honor a sus vibrantes plumas rosadas."
+    },
+    {
+      "category": "deportes",
+      "question": "En el golf, ¿qué término se utiliza para una puntuación de un golpe por debajo del par en un solo hoyo?",
+      "options": [
+        "Albatros",
+        "Birdie",
+        "Bogey",
+        "Eagle"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Un birdie significa lograr un golpe menos que el par, mientras que un eagle son dos golpes menos."
+    },
+    {
+      "category": "lenguaje",
+      "question": "¿Qué término lingüístico describe una palabra formada a partir de las letras iniciales de otras palabras, como láser o radar?",
+      "options": [
+        "Sinónimo",
+        "Acrónimo",
+        "Antónimo",
+        "Homónimo"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Los acrónimos se pronuncian como palabras independientes, a diferencia de las siglas como FBI, donde cada letra se pronuncia de forma individual."
+    },
+    {
+      "category": "espacio",
+      "question": "¿Qué planeta de nuestro sistema solar tiene la Gran Mancha Oscura, una tormenta de un tamaño comparable a la Gran Mancha Roja de Júpiter?",
+      "options": [
+        "Mercurio",
+        "Neptuno",
+        "Marte",
+        "Saturno"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Descubierta por la Voyager 2 en 1989, la Gran Mancha Oscura de Neptuno era un sistema de tormentas masivo que más tarde desapareció cuando fue observado por el telescopio espacial Hubble."
+    },
+    {
+      "category": "historia",
+      "question": "¿En la costa fuertemente fortificada de qué región tuvieron lugar los históricos desembarcos del Día D durante la Segunda Guerra Mundial?",
+      "options": [
+        "Bretaña",
+        "Normandía",
+        "Flandes",
+        "Provenza"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La Operación Overlord comenzó el 6 de junio de 1944 con desembarcos anfibios en cinco playas de la costa de Normandía, en Francia."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-25",
+  "slug": "object-pronouns",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🎁",
+  "title": "Object Pronouns: Me, You, Him, Her, It, Us, Them",
+  "summary": "Learn how to use object pronouns in English. These words replace people and things after action verbs.",
+  "sections": [
+    {
+      "h": "What are Object Pronouns?",
+      "p": "We use subject pronouns like I, he, and she before the verb. But when someone or something receives the action, we use object pronouns like me, him, and her after the verb. They make our sentences shorter and sound much more natural.",
+      "ex": [
+        {
+          "en": "I love my dog. I feed it every day.",
+          "mean": "we use 'it' to replace 'my dog' after the verb"
+        },
+        {
+          "en": "Sarah is my friend. I like her a lot.",
+          "mean": "we use 'her' to replace 'Sarah' after the verb"
+        }
+      ]
+    },
+    {
+      "h": "Singular Pronouns: Me, You, Him, Her, It",
+      "p": "Use 'me' for yourself, 'you' for the person listening, 'him' for a male, 'her' for a female, and 'it' for an animal or thing. They always come after an action verb or after prepositions like with, to, or for.",
+      "ex": [
+        {
+          "en": "Can you help me please?",
+          "mean": "asking another person to help the speaker"
+        },
+        {
+          "en": "John is nice. I work with him.",
+          "mean": "using 'him' after the preposition 'with'"
+        },
+        {
+          "en": "Where is my phone? I need it.",
+          "mean": "using 'it' to talk about the phone"
+        }
+      ]
+    },
+    {
+      "h": "Plural Pronouns: Us and Them",
+      "p": "Use 'us' when you and other people receive the action. Use 'them' when two or more people, animals, or things receive the action. Just like the singular pronouns, these always go after the verb or preposition.",
+      "ex": [
+        {
+          "en": "Our teacher gives us a lot of homework.",
+          "mean": "the teacher gives homework to the speaker and others"
+        },
+        {
+          "en": "Those shoes are cool. I want them.",
+          "mean": "using 'them' to talk about plural shoes"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "me",
+      "mean": "object pronoun for I"
+    },
+    {
+      "en": "you",
+      "mean": "object pronoun for you"
+    },
+    {
+      "en": "him",
+      "mean": "object pronoun for he"
+    },
+    {
+      "en": "her",
+      "mean": "object pronoun for she"
+    },
+    {
+      "en": "it",
+      "mean": "object pronoun for things"
+    },
+    {
+      "en": "us",
+      "mean": "object pronoun for we"
+    },
+    {
+      "en": "them",
+      "mean": "object pronoun for they"
+    }
+  ],
+  "tip": "Think of object pronouns as the receivers of the action. The subject does the action, and the object receives it!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "Mary is talking to ___.",
+      "choices": [
+        "he",
+        "him",
+        "they"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "I have a new cat. I love ___ very much.",
+      "choices": [
+        "it",
+        "her",
+        "us"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Can you help ___? I cannot carry this bag.",
+      "choices": [
+        "she",
+        "they",
+        "me"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "My parents are cooking dinner for ___.",
+      "choices": [
+        "we",
+        "us",
+        "he"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Look at those birds! Can you see ___?",
+      "choices": [
+        "them",
+        "it",
+        "him"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Tom is my best friend. I play tennis with ___ every weekend.",
+      "choices": [
+        "she",
+        "they",
+        "him"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

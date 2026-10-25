@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-25",
+  "title": "Quiz Quotidiano di Cultura Generale: 25 Ottobre 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Qual è l'unico Paese al mondo a condividere una frontiera terrestre con il Portogallo?",
+      "options": [
+        "Italy",
+        "France",
+        "Spain",
+        "Morocco"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La Spagna condivide l'intera frontiera terrestre orientale e settentrionale del Portogallo nella penisola iberica."
+    },
+    {
+      "category": "science",
+      "question": "Qual è il numero atomico dell'elemento chimico carbonio?",
+      "options": [
+        "8",
+        "12",
+        "6",
+        "4"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il carbonio ha un numero atomico pari a 6, il che significa che ogni atomo di carbonio ha sei protoni nel suo nucleo."
+    },
+    {
+      "category": "history",
+      "question": "Chi è stato il secondo Presidente degli Stati Uniti?",
+      "options": [
+        "James Madison",
+        "John Adams",
+        "Alexander Hamilton",
+        "Thomas Jefferson"
+      ],
+      "answer_index": 1,
+      "fun_fact": "John Adams è stato il secondo presidente degli Stati Uniti dal 1797 al 1801, succedendo a George Washington."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Quale film d'azione fantascientifico del 1999 ha reso celebre l'effetto visivo del 'bullet time' e vede Keanu Reeves nei panni di Neo?",
+      "options": [
+        "Blade Runner",
+        "Terminator 2: Judgment Day",
+        "The Matrix",
+        "Total Recall"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The Matrix è stato scritto e diretto dalle sorelle Wachowski ed è diventato un enorme fenomeno culturale."
+    },
+    {
+      "category": "food",
+      "question": "Il gorgonzola è un famoso formaggio erborinato tradizionalmente prodotto in quale Paese europeo?",
+      "options": [
+        "Spain",
+        "France",
+        "Italy",
+        "Greece"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il gorgonzola è uno dei formaggi erborinati più antichi d'Italia, originario della cittadina di Gorgonzola, vicino a Milano."
+    },
+    {
+      "category": "animals",
+      "question": "Come viene chiamato un gruppo di fenicotteri?",
+      "options": [
+        "A colony",
+        "A herd",
+        "A flamboyance",
+        "A pod"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un gruppo di fenicotteri viene chiamato in modo stravagante 'flamboyance', che si abbinano perfettamente alle loro piume rosa vibranti."
+    },
+    {
+      "category": "sports",
+      "question": "Nel golf, quale termine viene usato per indicare un punteggio di un colpo sotto il par in una singola buca?",
+      "options": [
+        "Albatross",
+        "Birdie",
+        "Bogey",
+        "Eagle"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Un birdie significa segnare un colpo sotto il par, mentre un eagle è due colpi sotto il par."
+    },
+    {
+      "category": "language",
+      "question": "Quale termine linguistico descrive una parola formata dalle lettere iniziali di altre parole, come NASA o scuba?",
+      "options": [
+        "Synonym",
+        "Acronym",
+        "Antonym",
+        "Homonym"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Gli acronimi si pronunciano come parole distinte, a differenza delle sigle come FBI, in cui ogni lettera viene pronunciata singolarmente."
+    },
+    {
+      "category": "space",
+      "question": "Quale pianeta del nostro sistema solare possiede la Grande Macchia Scura, una tempesta paragonabile per dimensioni alla Grande Macchia Rossa di Giove?",
+      "options": [
+        "Mercury",
+        "Neptune",
+        "Mars",
+        "Saturn"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Scoperta dalla Voyager 2 nel 1989, la Grande Macchia Scura di Nettuno era un gigantesco sistema di tempeste che in seguito è svanito quando è stato osservato dal telescopio spaziale Hubble."
+    },
+    {
+      "category": "history",
+      "question": "I celebri sbarramenti del D-Day della Seconda guerra mondiale ebbero luogo lungo la costa fortemente fortificata di quale regione?",
+      "options": [
+        "Brittany",
+        "Normandy",
+        "Flanders",
+        "Provence"
+      ],
+      "answer_index": 1,
+      "fun_fact": "L'Operazione Overlord ebbe inizio il 6 giugno 1944 con sbarchi anfibio su cinque spiagge lungo la costa normanna in Francia."
+    }
+  ]
+}

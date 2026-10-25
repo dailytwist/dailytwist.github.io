@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-25",
+  "title": "Quiz quotidien de culture générale : 25 octobre 2026",
+  "questions": [
+    {
+      "category": "géographie",
+      "question": "Quel est le seul pays au monde à partager une frontière terrestre avec le Portugal ?",
+      "options": [
+        "Italie",
+        "France",
+        "Espagne",
+        "Maroc"
+      ],
+      "answer_index": 2,
+      "fun_fact": "L'Espagne longe toute la frontière terrestre orientale et septentrionale du Portugal sur la péninsule ibérique."
+    },
+    {
+      "category": "science",
+      "question": "Quel est le numéro atomique de l'élément chimique carbone ?",
+      "options": [
+        "8",
+        "12",
+        "6",
+        "4"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le carbone a un numéro atomique de 6, ce qui signifie que chaque atome de carbone possède six protons dans son noyau."
+    },
+    {
+      "category": "histoire",
+      "question": "Qui a été le deuxième président des États-Unis ?",
+      "options": [
+        "James Madison",
+        "John Adams",
+        "Alexander Hamilton",
+        "Thomas Jefferson"
+      ],
+      "answer_index": 1,
+      "fun_fact": "John Adams a été le deuxième président des États-Unis de 1797 à 1801, succédant à George Washington."
+    },
+    {
+      "category": "films et pop culture",
+      "question": "Quel film d'action et de science-fiction de 1999 a popularisé l'effet visuel du « bullet time » et met en vedette Keanu Reeves dans le rôle de Neo ?",
+      "options": [
+        "Blade Runner",
+        "Terminator 2: Judgment Day",
+        "The Matrix",
+        "Total Recall"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The Matrix a été écrit et réalisé par les Wachowski et est devenu un immense phénomène culturel."
+    },
+    {
+      "category": "gastronomie",
+      "question": "Le gorgonzola est un célèbre fromage à pâte persillée traditionnellement produit dans quel pays européen ?",
+      "options": [
+        "Espagne",
+        "France",
+        "Italie",
+        "Grèce"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le gorgonzola est l'un des plus anciens bleu d'Italie, originaire de la ville de Gorgonzola, près de Milan."
+    },
+    {
+      "category": "animaux",
+      "question": "Comment appelle-t-on un groupe de flamants roses ?",
+      "options": [
+        "Une colonie",
+        "Un troupeau",
+        "Une flamboyance",
+        "Une isba"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un groupe de flamants roses est magnifiquement appelé une flamboyance, ce qui correspond parfaitement à la vivacité de leurs plumes roses."
+    },
+    {
+      "category": "sports",
+      "question": "Au golf, quel terme utilise-t-on pour désigner un score d'un coup sous le par sur un même trou ?",
+      "options": [
+        "Albatros",
+        "Birdie",
+        "Bogey",
+        "Eagle"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Un birdie signifie marquer un coup sous le par, tandis qu'un eagle équivaut à deux coups sous le par."
+    },
+    {
+      "category": "langue",
+      "question": "Quel terme linguistique désigne un mot formé à partir des initiales d'autres mots, tel que NASA ou OTAN ?",
+      "options": [
+        "Synonyme",
+        "Acronyme",
+        "Antonyme",
+        "Homonyme"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Les acronymes se prononcent comme des mots à part entière, contrairement aux sigles comme FBI, où chaque lettre est prononcée individuellement."
+    },
+    {
+      "category": "espace",
+      "question": "Quelle planète de notre système solaire possède la Grande Tache sombre, une tempête dont la taille est comparable à la Grande Tache rouge de Jupiter ?",
+      "options": [
+        "Mercure",
+        "Neptune",
+        "Mars",
+        "Saturne"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Découverte par Voyager 2 en 1989, la Grande Tache sombre de Neptune était un système tempétueux massif qui a ensuite disparu lorsqu'il a été observé par le télescope spatial Hubble."
+    },
+    {
+      "category": "histoire",
+      "question": "Le débarquement historique du Jour J pendant la Seconde Guerre mondiale a eu lieu le long des côtes lourdement fortifiées de quelle région ?",
+      "options": [
+        "Bretagne",
+        "Normandie",
+        "Flandre",
+        "Provence"
+      ],
+      "answer_index": 1,
+      "fun_fact": "L'opération Overlord a débuté le 6 juin 1944 par des débarquements amphibies sur cinq plages de la côte normande, en France."
+    }
+  ]
+}

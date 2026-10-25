@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-25",
+  "slug": "adverbs-of-frequency",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "⏰",
+  "title": "How Often Do You Do It?",
+  "summary": "Learn how to use words like always, usually, and never to talk about your daily habits. You will see where to put these words in a sentence.",
+  "sections": [
+    {
+      "h": "What are Adverbs of Frequency?",
+      "p": "We use adverbs of frequency to answer the question 'How often do you do something?'. These words show how many times you do an action. From 100 percent to zero percent, the words change. We put these words before most normal verbs, like play, eat, or go. They help people understand your daily routine and habits very easily in conversation.",
+      "ex": [
+        {
+          "en": "I always drink coffee in the morning.",
+          "mean": "I do this every single morning without fail."
+        },
+        {
+          "en": "She never eats meat.",
+          "mean": "She does not eat meat at any time."
+        }
+      ]
+    },
+    {
+      "h": "From Always to Never",
+      "p": "Let us look at the list from most to least. Always means one hundred percent of the time. Usually means about eighty percent. Often means around sixty percent. Sometimes means fifty percent, or half the time. Never means zero percent. Knowing this order helps you talk about your schedule and hobbies correctly.",
+      "ex": [
+        {
+          "en": "We usually watch TV after dinner.",
+          "mean": "We do this on most days, but not every day."
+        },
+        {
+          "en": "They sometimes play tennis on Saturdays.",
+          "mean": "They do this on some Saturdays, but not all."
+        }
+      ]
+    },
+    {
+      "h": "Where does the word go?",
+      "p": "In a simple sentence, put the frequency word right before the main action verb. For example, say 'I often walk to work'. But remember the verb 'to be', like am, is, or are. When you use 'to be', the frequency word goes after the verb. For example, say 'I am always happy' or 'He is never late'.",
+      "ex": [
+        {
+          "en": "You are often late for class.",
+          "mean": "You are late on many days."
+        },
+        {
+          "en": "He rarely eats fast food.",
+          "mean": "He almost never eats fast food."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "always",
+      "mean": "100 percent of the time"
+    },
+    {
+      "en": "usually",
+      "mean": "most of the time"
+    },
+    {
+      "en": "often",
+      "mean": "many times"
+    },
+    {
+      "en": "sometimes",
+      "mean": "half the time"
+    },
+    {
+      "en": "never",
+      "mean": "0 percent of the time"
+    },
+    {
+      "en": "habit",
+      "mean": "something you do often"
+    },
+    {
+      "en": "routine",
+      "mean": "your daily schedule"
+    }
+  ],
+  "tip": "Draw a small ladder in your notebook. Put 'always' at the very top and 'never' at the bottom to remember the order easily!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word for 100 percent",
+      "en": "I ___ brush my teeth before bed.",
+      "choices": [
+        "never",
+        "sometimes",
+        "always"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word for 0 percent",
+      "en": "Fish can ___ fly in the sky.",
+      "choices": [
+        "never",
+        "often",
+        "usually"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct position with the verb 'is'",
+      "en": "Maria ___ late for work.",
+      "choices": [
+        "always is",
+        "is always",
+        "sometimes is"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word for about 50 percent",
+      "en": "I ___ eat fruit for breakfast.",
+      "choices": [
+        "always",
+        "sometimes",
+        "never"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct position with a normal verb",
+      "en": "We ___ go to the park on Sundays.",
+      "choices": [
+        "often go",
+        "go often",
+        "are often"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word for about 80 percent",
+      "en": "He ___ drinks tea, but sometimes he drinks coffee.",
+      "choices": [
+        "never",
+        "always",
+        "usually"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

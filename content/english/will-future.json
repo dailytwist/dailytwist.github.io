@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-25",
+  "slug": "will-future",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🔮",
+  "title": "Talking About the Future with 'Will'",
+  "summary": "Learn how to use 'will' to make quick decisions, promises, and predictions. You will be able to talk about things that haven't happened yet easily.",
+  "sections": [
+    {
+      "h": "Instant Decisions",
+      "p": "We use 'will' when we make a choice right now, at the moment of speaking. For example, when someone asks a question and you decide your answer immediately. We often use the short form 'll after pronouns like I, you, she, and they. It helps you sound natural and friendly when speaking to friends or family.",
+      "ex": [
+        {
+          "en": "I'm hungry. I will make a sandwich.",
+          "mean": "I just decided to make food right now."
+        },
+        {
+          "en": "The phone is ringing. I'll get it!",
+          "mean": "I am deciding to answer the phone at this exact moment."
+        },
+        {
+          "en": "It's cold in here. I'll close the window.",
+          "mean": "I am making a quick choice to warm up the room."
+        }
+      ]
+    },
+    {
+      "h": "Promises",
+      "p": "We use 'will' to tell someone that we will definitely do something in the future. This is very common when you want to show you are helpful, honest, or reliable. You can promise to help a friend, call someone later, or keep a secret. The negative form is 'will not' or 'won't'.",
+      "ex": [
+        {
+          "en": "I will help you with your homework tomorrow.",
+          "mean": "I promise to be there to assist you."
+        },
+        {
+          "en": "Don't worry, I won't tell anyone your secret.",
+          "mean": "I promise to keep this information safe."
+        },
+        {
+          "en": "I will call you when I arrive home.",
+          "mean": "I promise to telephone you later."
+        }
+      ]
+    },
+    {
+      "h": "Predictions",
+      "p": "We use 'will' to say what we think, guess, or believe will happen in the future. We often start these sentences with 'I think' or 'I hope'. These are usually guesses based on our opinions or feelings, not on hard facts we can see right now.",
+      "ex": [
+        {
+          "en": "I think it will rain this afternoon.",
+          "mean": "This is my guess about the weather."
+        },
+        {
+          "en": "People will live on Mars in the future.",
+          "mean": "This is my prediction for many years from now."
+        },
+        {
+          "en": "She will love this birthday present!",
+          "mean": "I believe she will be very happy with it."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "will",
+      "mean": "future word"
+    },
+    {
+      "en": "won't",
+      "mean": "will not"
+    },
+    {
+      "en": "decision",
+      "mean": "making a choice"
+    },
+    {
+      "en": "promise",
+      "mean": "saying you will definitely do something"
+    },
+    {
+      "en": "prediction",
+      "mean": "guessing the future"
+    },
+    {
+      "en": "I think",
+      "mean": "my opinion"
+    },
+    {
+      "en": "moment",
+      "mean": "right now"
+    }
+  ],
+  "tip": "Remember that 'will' does not change for he, she, or it! It is always just 'will' for everyone.",
+  "quiz": [
+    {
+      "ask": "Choose the correct word for an instant decision",
+      "en": "The door is open. I ___ close it.",
+      "choices": [
+        "will",
+        "am",
+        "do",
+        "have"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct negative form for a promise",
+      "en": "I promise I ___ be late again.",
+      "choices": [
+        "will",
+        "won't",
+        "don't",
+        "am not"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word for a prediction",
+      "en": "I think robots ___ do all the housework one day.",
+      "choices": [
+        "are",
+        "did",
+        "will",
+        "do"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct short form",
+      "en": "It's heavy. ___ carry it for you.",
+      "choices": [
+        "I will",
+        "I'll",
+        "I am",
+        "I do"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word to complete the promise",
+      "en": "Thank you for the money. I ___ pay you back on Friday.",
+      "choices": [
+        "will",
+        "want",
+        "make",
+        "going"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct prediction phrase",
+      "en": "Look at those dark clouds! It ___ rain soon.",
+      "choices": [
+        "will",
+        "is",
+        "has",
+        "does"
+      ],
+      "answer_index": 0
+    }
+  ]
+}
