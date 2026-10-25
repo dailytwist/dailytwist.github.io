@@ -188,6 +188,7 @@ def cover_art(seed, category, cls="cover"):
 
 GAMES = {  # slug: (title key, desc key, how key, colors, emoji, js name, best-score storage key)
     "block-puzzle": ("game_blocks", "game_blocks_desc", "how_blocks", ("#7c5cff", "#ff5e7e"), "🟪", "blocks", "dt-blocks-best"),
+    "snake": ("game_snake", "game_snake_desc", "how_snake", ("#2fbf71", "#a8d86e"), "🐍", "snake", "dt-snake-best"),
     "mahjong": ("game_mj", "game_mj_desc", "how_mj", ("#2f6b4f", "#c9b98f"), "🀄", "mahjong", None),
     "word-search": ("game_ws", "game_ws_desc", "how_ws", ("#2563eb", "#22c1c3"), "🔤", "wordsearch", None),
     "solitaire": ("game_solitaire", "game_solitaire_desc", "how_solitaire", ("#1f7a4f", "#3fc1c9"), "🃏", "solitaire", None),
@@ -201,7 +202,7 @@ GAMES = {  # slug: (title key, desc key, how key, colors, emoji, js name, best-s
     "tictactoe": ("game_ttt", "game_ttt_desc", "how_ttt", ("#2f9e6e", "#c4e86b"), "⭕", "ttt", None),
 }
 WS = json.loads((HERE / "data" / "wordsearch.json").read_text(encoding="utf-8"))
-EXTERNAL_JS = ("chess", "ludo", "blocks", "solitaire", "wordsearch", "mahjong")
+EXTERNAL_JS = ("snake", "chess", "ludo", "blocks", "solitaire", "wordsearch", "mahjong")
 GAME_LABELS = ["new_game", "moves", "score", "best", "you_won", "you_lost", "draw", "your_turn", "easy", "medium", "hard",
                "time", "undo", "hint", "mistakes", "start", "play_again", "game_over", "new_record", "times_up", "combo",
                "wins", "losses", "draws", "level", "level_up", "day_streak", "too_many_mistakes", "math_intro", "watch",
