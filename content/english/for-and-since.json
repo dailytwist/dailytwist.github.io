@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-26",
+  "slug": "for-and-since",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "⏱️",
+  "title": "Using For and Since",
+  "summary": "Learn how to talk about time using the present perfect tense. You will practice using for and since correctly in daily conversations.",
+  "sections": [
+    {
+      "h": "What is the Present Perfect?",
+      "p": "We use the present perfect tense to talk about actions that started in the past and continue until now. To make this tense, we use have or has plus the third form of the verb, called the past participle. This helps us connect past events to our present moment.",
+      "ex": [
+        {
+          "en": "I have lived in this city for three years.",
+          "mean": "I moved here three years ago and I still live here now."
+        },
+        {
+          "en": "She has worked here since 2020.",
+          "mean": "She started working here in 2020 and she still works here."
+        }
+      ]
+    },
+    {
+      "h": "When to use FOR",
+      "p": "We use the word 'for' when we want to talk about the duration of time. This means a period of time, such as seconds, minutes, hours, days, weeks, months, or years. You always put a number and a time word after 'for'.",
+      "ex": [
+        {
+          "en": "They have been married for ten years.",
+          "mean": "Ten years is the total length of their marriage."
+        },
+        {
+          "en": "We have waited for the bus for twenty minutes.",
+          "mean": "Twenty minutes is the amount of time we spent waiting."
+        }
+      ]
+    },
+    {
+      "h": "When to use SINCE",
+      "p": "We use the word 'since' when we want to talk about a specific starting point in time. This is the exact moment when the action began, such as a time on the clock, a day of the week, a year, or an event in the past.",
+      "ex": [
+        {
+          "en": "I have known him since Monday.",
+          "mean": "Monday is the specific day when our friendship started."
+        },
+        {
+          "en": "He has played guitar since he was a child.",
+          "mean": "Being a child is the exact starting point of his guitar playing."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "present perfect",
+      "mean": "verb tense for past to now"
+    },
+    {
+      "en": "for",
+      "mean": "used with a time period"
+    },
+    {
+      "en": "since",
+      "mean": "used with a starting point"
+    },
+    {
+      "en": "duration",
+      "mean": "how long something lasts"
+    },
+    {
+      "en": "past participle",
+      "mean": "third form of a verb"
+    },
+    {
+      "en": "period of time",
+      "mean": "length of time"
+    },
+    {
+      "en": "starting point",
+      "mean": "when something begins"
+    }
+  ],
+  "tip": "Remember: 'For' is a duration (three years), but 'Since' is a starting point (2020). Think 'F' for 'For' and 'Figure' the length!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "I have studied English ___ two years.",
+      "choices": [
+        "since",
+        "for",
+        "at",
+        "in"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "She has lived in London ___ 2015.",
+      "choices": [
+        "since",
+        "for",
+        "during",
+        "from"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "They have been friends ___ a long time.",
+      "choices": [
+        "since",
+        "from",
+        "for",
+        "until"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "He has worked at the cafe ___ last Tuesday.",
+      "choices": [
+        "for",
+        "in",
+        "on",
+        "since"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "We have waited here ___ forty minutes.",
+      "choices": [
+        "since",
+        "for",
+        "by",
+        "until"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "My brother has played the piano ___ he was six years old.",
+      "choices": [
+        "for",
+        "since",
+        "at",
+        "during"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

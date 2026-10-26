@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-26",
+  "slug": "feelings-and-emotions",
+  "cefr": "A2",
+  "cat": "vocab",
+  "emoji": "😊",
+  "title": "¿Cómo te sientes hoy?",
+  "summary": "Aprende a hablar sobre tus sentimientos y emociones en inglés. Haz y responde preguntas sencillas sobre cómo te sientes tú y los demás.",
+  "sections": [
+    {
+      "h": "Hablando de ti mismo",
+      "p": "Para decir cómo te sientes ahora mismo, usa el verbo 'to be' (am, is, are) junto con una palabra de emoción. Por ejemplo, 'I am happy' (estoy feliz) o 'I am tired' (estoy cansado). Cuando quieras hablar del pasado, usa 'was' o 'were' en su lugar. Estas frases ayudan a tus amigos y familiares a entender tu estado de ánimo cada día.",
+      "ex": [
+        {
+          "en": "I am happy today.",
+          "mean": "Me siento bien ahora mismo."
+        },
+        {
+          "en": "She is sad because it is raining.",
+          "mean": "Ella no se siente feliz debido a la lluvia."
+        },
+        {
+          "en": "We were tired after work.",
+          "mean": "Ayer no teníamos energía después de trabajar."
+        }
+      ]
+    },
+    {
+      "h": "Preguntando sobre los sentimientos",
+      "p": "¿Quieres saber cómo se siente alguien? Solo pregunta 'How are you?' o 'How do you feel?'. Para preguntar por otra persona, usa 'How is he?' o 'How is she?'. La gente usa estas preguntas de cortesía todos los días cuando se encuentra con amigos, familiares o compañeros de trabajo.",
+      "ex": [
+        {
+          "en": "How are you today?",
+          "mean": "Cuéntame cómo te sientes ahora mismo."
+        },
+        {
+          "en": "How does he feel?",
+          "mean": "¿Cuál es su emoción?"
+        },
+        {
+          "en": "Are you okay?",
+          "mean": "¿Te sientes bien?"
+        }
+      ]
+    },
+    {
+      "h": "Palabras comunes de emociones",
+      "p": "Hay muchas palabras útiles para describir diferentes estados de ánimo. Algunas palabras son positivas, como 'happy' (feliz) y 'excited' (emocionado). Otras palabras muestran sentimientos negativos, como 'angry' (enojado) o 'sad' (triste). También puedes describir tu estado físico, como sentirte 'tired' (cansado) cuando necesitas dormir o 'thirsty' (sediento) cuando necesitas agua.",
+      "ex": [
+        {
+          "en": "He is angry with the noise.",
+          "mean": "Él está enojado por el ruido fuerte."
+        },
+        {
+          "en": "I am excited for the trip.",
+          "mean": "Me siento muy feliz por ir de vacaciones."
+        },
+        {
+          "en": "They are hungry now.",
+          "mean": "Ellos quieren comer algo."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "happy",
+      "mean": "sintiéndose bien"
+    },
+    {
+      "en": "sad",
+      "mean": "desanimado"
+    },
+    {
+      "en": "tired",
+      "mean": "necesitando dormir"
+    },
+    {
+      "en": "angry",
+      "mean": "enojado"
+    },
+    {
+      "en": "excited",
+      "mean": "muy feliz"
+    },
+    {
+      "en": "hungry",
+      "mean": "queriendo comer"
+    },
+    {
+      "en": "thirsty",
+      "mean": "queriendo agua"
+    },
+    {
+      "en": "worried",
+      "mean": "nervioso"
+    }
+  ],
+  "tip": "Dibuja caras con emojis sencillos en tu cuaderno y pon las palabras en inglés al lado. Ver imágenes ayuda a que tu cerebro recuerde las emociones más rápido.",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "I ran for one hour, so now I am ___.",
+      "choices": [
+        "happy",
+        "tired",
+        "angry"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la pregunta correcta",
+      "en": "___ are you feeling today?",
+      "choices": [
+        "How",
+        "What",
+        "Who"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "She has no food and her stomach hurts. She is ___.",
+      "choices": [
+        "thirsty",
+        "excited",
+        "hungry"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige el verbo correcto",
+      "en": "Yesterday, we ___ very happy at the party.",
+      "choices": [
+        "are",
+        "were",
+        "is"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "He got a new job and a big smile. He is ___.",
+      "choices": [
+        "sad",
+        "worried",
+        "happy"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la respuesta correcta",
+      "en": "A: How are you? B: I ___ fine, thank you.",
+      "choices": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

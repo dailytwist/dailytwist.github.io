@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-26",
+  "slug": "present-perfect-vs-past-simple",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "⏱️",
+  "title": "Presente Perfecto vs. Pasado Simple",
+  "summary": "Aprende a elegir entre el pasado simple y el presente perfecto. Podrás hablar de tus experiencias de vida y de acciones pasadas concluidas con total facilidad.",
+  "sections": [
+    {
+      "h": "Pasado Simple: Tiempo Concluido",
+      "p": "Usa el pasado simple cuando hables de una acción que ocurrió en un momento específico del pasado. El tiempo suele mencionarse, como ayer, la semana pasada o en 2010. La acción ha concluido por completo y nos importa más cuándo ocurrió que el resultado en el presente.",
+      "ex": [
+        {
+          "en": "I visited Paris last year.",
+          "mean": "El viaje ocurrió en un momento específico del pasado y ya terminó."
+        },
+        {
+          "en": "She bought a new car yesterday.",
+          "mean": "La acción ocurrió en un momento conocido del pasado."
+        }
+      ]
+    },
+    {
+      "h": "Presente Perfecto: Experiencia de Vida",
+      "p": "Usa el presente perfecto para hablar de experiencias de tu vida sin decir exactamente cuándo sucedieron. Usamos have o has más un verbo en participio pasado. El momento exacto no importa, pero la experiencia es relevante para ti ahora mismo.",
+      "ex": [
+        {
+          "en": "I have visited Paris three times.",
+          "mean": "Esta es una experiencia de vida hasta el momento actual; las fechas exactas no importan."
+        },
+        {
+          "en": "She has lost her keys.",
+          "mean": "Una acción pasada que tiene conexión con el momento presente."
+        }
+      ]
+    },
+    {
+      "h": "Palabras Clave que te Ayudarán",
+      "p": "Ciertas palabras pueden ayudarte a elegir el tiempo verbal correcto. Palabras como ayer (yesterday), hace (ago) y pasado/último (last) apuntan al pasado simple. Palabras como alguna vez (ever), nunca (never), ya (already), todavía/aún (yet), justo/acabar de (just), desde (since) y durante/por (for) suelen apuntar al presente perfecto porque conectan el pasado con el ahora.",
+      "ex": [
+        {
+          "en": "Have you ever eaten sushi?",
+          "mean": "Preguntar sobre cualquier momento de tu vida hasta el momento actual."
+        },
+        {
+          "en": "I haven't finished my homework yet.",
+          "mean": "Una acción que no está completa hasta este preciso instante."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "past simple",
+      "mean": "tiempo pasado concluido"
+    },
+    {
+      "en": "present perfect",
+      "mean": "pasado conectado con el ahora"
+    },
+    {
+      "en": "experience",
+      "mean": "algo que has hecho"
+    },
+    {
+      "en": "yesterday",
+      "mean": "el día anterior a hoy"
+    },
+    {
+      "en": "ever",
+      "mean": "en cualquier momento de la vida"
+    },
+    {
+      "en": "never",
+      "mean": "en ningún momento"
+    },
+    {
+      "en": "yet",
+      "mean": "hasta ahora"
+    },
+    {
+      "en": "already",
+      "mean": "antes de lo esperado"
+    }
+  ],
+  "tip": "Pregúntate: '¿Me importa cuándo ocurrió?' Si la respuesta es sí, usa el pasado simple. Si solo te importa que haya ocurrido en tu vida, usa el presente perfecto.",
+  "quiz": [
+    {
+      "ask": "Elige la forma verbal correcta",
+      "en": "I ___ to Spain in 2018.",
+      "choices": [
+        "have gone",
+        "went",
+        "go"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la forma verbal correcta",
+      "en": "She ___ never seen snow in her life.",
+      "choices": [
+        "has",
+        "did",
+        "was"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra de tiempo correcta",
+      "en": "Have you ___ eaten Mexican food?",
+      "choices": [
+        "yesterday",
+        "ago",
+        "ever"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la forma verbal correcta",
+      "en": "They ___ a great movie last night.",
+      "choices": [
+        "saw",
+        "have seen",
+        "see"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la oración correcta",
+      "en": "Which sentence is correct for an unfinished action up to now?",
+      "choices": [
+        "I didn't eat breakfast yet.",
+        "I haven't eaten breakfast yet.",
+        "I don't eat breakfast yet."
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la forma verbal correcta",
+      "en": "He ___ lived in this city for five years.",
+      "choices": [
+        "did",
+        "has",
+        "had"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-26",
+  "slug": "transport-and-travel",
+  "cefr": "A2",
+  "cat": "vocab",
+  "emoji": "✈️",
+  "title": "Viajes y transporte",
+  "summary": "Aprende a hablar sobre cómo desplazarte en inglés. Descubrirás nuevas palabras para vehículos y viajes.",
+  "sections": [
+    {
+      "h": "Viajar por carretera",
+      "p": "Usamos diferentes palabras cuando viajamos por carreteras. Un coche es para familias pequeñas. Un autobús es más grande y lleva a muchas personas. Un taxi es un coche por el que pagas para que te lleve a algún sitio.",
+      "ex": [
+        {
+          "en": "I go to work by bus every morning.",
+          "mean": "I use a bus to travel to my job daily."
+        },
+        {
+          "en": "Let us take a taxi to the hotel.",
+          "mean": "We should hire a car to drive us to our place to stay."
+        },
+        {
+          "en": "My father drives a red car.",
+          "mean": "He operates a small vehicle of a red color."
+        }
+      ]
+    },
+    {
+      "h": "Trenes y estaciones",
+      "p": "Los trenes se desplazan sobre vías de metal. Son fantásticos para viajar a otros pueblos y ciudades. Vas a una estación de tren para comprar un billete y esperar tu tren.",
+      "ex": [
+        {
+          "en": "The train leaves at nine o'clock.",
+          "mean": "The railway vehicle departs at 9:00."
+        },
+        {
+          "en": "We need to buy our tickets now.",
+          "mean": "We must purchase our travel passes immediately."
+        }
+      ]
+    },
+    {
+      "h": "Volar por los cielos",
+      "p": "Cuando quieres visitar otro país lejano, vas al aeropuerto. Un avión vuela por el cielo y te lleva por todo el mundo muy rápido.",
+      "ex": [
+        {
+          "en": "She works at the airport.",
+          "mean": "Her job is located where airplanes land and take off."
+        },
+        {
+          "en": "I am flying to Spain tomorrow.",
+          "mean": "I am taking an airplane to Spain on the next day."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "car",
+      "mean": "vehículo de carretera"
+    },
+    {
+      "en": "bus",
+      "mean": "vehículo grande de pasajeros"
+    },
+    {
+      "en": "taxi",
+      "mean": "coche de alquiler con chofer"
+    },
+    {
+      "en": "train",
+      "mean": "transporte ferroviario"
+    },
+    {
+      "en": "ticket",
+      "mean": "pase de viaje"
+    },
+    {
+      "en": "station",
+      "mean": "lugar para tomar trenes"
+    },
+    {
+      "en": "airport",
+      "mean": "lugar para aviones"
+    },
+    {
+      "en": "airplane",
+      "mean": "vehículo volador"
+    }
+  ],
+  "tip": "¡Dibuja pequeños dibujos al lado de tus nuevas palabras de transporte para ayudar a tu cerebro a recordarlas más rápido!",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "We wait for the train at the train ___.",
+      "choices": [
+        "station",
+        "car",
+        "airport"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "I need to buy a ___ before I get on the bus.",
+      "choices": [
+        "taxi",
+        "ticket",
+        "road"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "An ___ flies high in the sky.",
+      "choices": [
+        "car",
+        "bus",
+        "airplane"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "My family has a small blue ___ to drive to the shop.",
+      "choices": [
+        "car",
+        "station",
+        "ticket"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "We take a ___ when we need a quick ride in the city.",
+      "choices": [
+        "train",
+        "taxi",
+        "airport"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "Planes take off and land at the ___.",
+      "choices": [
+        "bus stop",
+        "station",
+        "airport"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

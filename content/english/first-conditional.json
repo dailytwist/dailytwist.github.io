@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-26",
+  "slug": "first-conditional",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🔮",
+  "title": "Talking About the Future: The First Conditional",
+  "summary": "You will learn how to talk about possible future situations and their results. This helps you make plans and promises in everyday English.",
+  "sections": [
+    {
+      "h": "What is the First Conditional?",
+      "p": "We use the first conditional to talk about a real and possible situation in the future and what will happen as a result. For example, if the weather is good tomorrow, we will go to the park. The sentence has two parts: the 'if' part with a present tense verb, and the result part with 'will' plus the base verb.",
+      "ex": [
+        {
+          "en": "If it rains, I will stay at home.",
+          "mean": "If the rain happens, my plan is to stay home."
+        },
+        {
+          "en": "If you study hard, you will pass the test.",
+          "mean": "Studying leads to passing the exam."
+        }
+      ]
+    },
+    {
+      "h": "Order of the Sentence",
+      "p": "You can change the order of the sentence without changing the meaning. When the 'if' clause comes first, you must use a comma in the middle. When the result clause comes first, you do not need a comma. Both ways are very common and natural in spoken and written English.",
+      "ex": [
+        {
+          "en": "If I wake up early, I will make coffee.",
+          "mean": "The 'if' part is first, so we use a comma."
+        },
+        {
+          "en": "I will make coffee if I wake up early.",
+          "mean": "The result part is first, so no comma is needed."
+        }
+      ]
+    },
+    {
+      "h": "Making Negatives",
+      "p": "You can also make negative sentences in the first conditional. You can make either the 'if' part negative using 'don't' or 'doesn't', or the result part negative using 'won't'. This is very useful when you want to talk about things that might not happen.",
+      "ex": [
+        {
+          "en": "If you don't hurry, we will miss the bus.",
+          "mean": "Failing to hurry results in missing the bus."
+        },
+        {
+          "en": "If I am tired tonight, I won't go to the party.",
+          "mean": "Being tired means I will stay home."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "first conditional",
+      "mean": "grammar for future results"
+    },
+    {
+      "en": "if",
+      "mean": "supposing that"
+    },
+    {
+      "en": "will",
+      "mean": "used for future results"
+    },
+    {
+      "en": "won't",
+      "mean": "will not"
+    },
+    {
+      "en": "result",
+      "mean": "what happens next"
+    },
+    {
+      "en": "present tense",
+      "mean": "verb form for now"
+    },
+    {
+      "en": "comma",
+      "mean": "punctuation mark (,)"
+    }
+  ],
+  "tip": "Remember the formula: 'If + present, will + verb'. Never put 'will' right after the word 'if'.",
+  "quiz": [
+    {
+      "ask": "Choose the correct word to complete the sentence",
+      "en": "If it ___ sunny tomorrow, we will go to the beach.",
+      "choices": [
+        "is",
+        "will be",
+        "be"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word to complete the sentence",
+      "en": "I will call you if I ___ any news.",
+      "choices": [
+        "will get",
+        "got",
+        "get"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct phrase to complete the sentence",
+      "en": "If you don't eat breakfast, you ___ hungry later.",
+      "choices": [
+        "are",
+        "will be",
+        "were"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word to complete the sentence",
+      "en": "She will buy a new phone if she ___ enough money.",
+      "choices": [
+        "saves",
+        "will save",
+        "save"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct phrase to complete the sentence",
+      "en": "If they miss the train, they ___ take a taxi.",
+      "choices": [
+        "take",
+        "took",
+        "will"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct sentence",
+      "en": "Which sentence is grammatically correct?",
+      "choices": [
+        "If I will see him, I will say hello.",
+        "If I see him, I will say hello.",
+        "If I see him, I say hello tomorrow."
+      ],
+      "answer_index": 1
+    }
+  ]
+}

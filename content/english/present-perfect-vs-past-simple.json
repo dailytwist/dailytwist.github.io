@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-26",
+  "slug": "present-perfect-vs-past-simple",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "⏱️",
+  "title": "Present Perfect vs Past Simple",
+  "summary": "Learn how to choose between the past simple and present perfect tenses. You will be able to talk about your life experiences and finished past actions easily.",
+  "sections": [
+    {
+      "h": "Past Simple: Finished Time",
+      "p": "Use the past simple when you talk about an action that happened at a specific time in the past. The time is usually mentioned, like yesterday, last week, or in 2010. The action is completely finished, and we care more about when it happened than the result today.",
+      "ex": [
+        {
+          "en": "I visited Paris last year.",
+          "mean": "The trip happened at a specific time in the past and is finished."
+        },
+        {
+          "en": "She bought a new car yesterday.",
+          "mean": "The action happened at a known time in the past."
+        }
+      ]
+    },
+    {
+      "h": "Present Perfect: Life Experience",
+      "p": "Use the present perfect to talk about experiences in your life without saying exactly when they happened. We use have or has plus a past participle verb. The exact time is not important, but the experience is important for you right now.",
+      "ex": [
+        {
+          "en": "I have visited Paris three times.",
+          "mean": "This is a life experience up to now, the exact dates do not matter."
+        },
+        {
+          "en": "She has lost her keys.",
+          "mean": "A past action that has a connection to the present moment."
+        }
+      ]
+    },
+    {
+      "h": "Time Words to Help You",
+      "p": "Certain words can help you choose the right tense. Words like yesterday, ago, and last point to the past simple. Words like ever, never, already, yet, just, since, and for usually point to the present perfect because they connect the past to now.",
+      "ex": [
+        {
+          "en": "Have you ever eaten sushi?",
+          "mean": "Asking about any time in your life up to the present moment."
+        },
+        {
+          "en": "I haven't finished my homework yet.",
+          "mean": "An action that is not complete up to this exact moment."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "past simple",
+      "mean": "finished past tense"
+    },
+    {
+      "en": "present perfect",
+      "mean": "past connected to now"
+    },
+    {
+      "en": "experience",
+      "mean": "something you have done"
+    },
+    {
+      "en": "yesterday",
+      "mean": "the day before today"
+    },
+    {
+      "en": "ever",
+      "mean": "at any time in life"
+    },
+    {
+      "en": "never",
+      "mean": "not at any time"
+    },
+    {
+      "en": "yet",
+      "mean": "until now"
+    },
+    {
+      "en": "already",
+      "mean": "sooner than expected"
+    }
+  ],
+  "tip": "Ask yourself: 'Do I care when it happened?' If yes, use past simple. If you only care that it happened in your life, use present perfect.",
+  "quiz": [
+    {
+      "ask": "Choose the correct verb form",
+      "en": "I ___ to Spain in 2018.",
+      "choices": [
+        "have gone",
+        "went",
+        "go"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct verb form",
+      "en": "She ___ never seen snow in her life.",
+      "choices": [
+        "has",
+        "did",
+        "was"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct time word",
+      "en": "Have you ___ eaten Mexican food?",
+      "choices": [
+        "yesterday",
+        "ago",
+        "ever"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct verb form",
+      "en": "They ___ a great movie last night.",
+      "choices": [
+        "saw",
+        "have seen",
+        "see"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct sentence",
+      "en": "Which sentence is correct for an unfinished action up to now?",
+      "choices": [
+        "I didn't eat breakfast yet.",
+        "I haven't eaten breakfast yet.",
+        "I don't eat breakfast yet."
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct verb form",
+      "en": "He ___ lived in this city for five years.",
+      "choices": [
+        "did",
+        "has",
+        "had"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

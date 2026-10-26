@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-26",
+  "slug": "polite-requests",
+  "cefr": "A2",
+  "cat": "phrases",
+  "emoji": "🙋",
+  "title": "Asking Politely: Could, Would, and May",
+  "summary": "Learn how to ask for things nicely in English. You will use could, would, and may in daily life.",
+  "sections": [
+    {
+      "h": "Using Could for Polite Requests",
+      "p": "We use 'could' to ask for something in a polite way. It is softer and nicer than saying 'can'. You can use this when talking to people you do not know well, or in shops and restaurants. It is very common and helpful for daily life.",
+      "ex": [
+        {
+          "en": "Could you help me, please?",
+          "mean": "Please help me."
+        },
+        {
+          "en": "Could I have the menu?",
+          "mean": "Give me the menu, please."
+        }
+      ]
+    },
+    {
+      "h": "Using Would for Offers and Wishes",
+      "p": "We use 'would' to ask polite questions about what someone wants. We often say 'Would you like...?' when we offer food, drinks, or help to a friend or a customer. It is a very polite and friendly way to speak.",
+      "ex": [
+        {
+          "en": "Would you like a cup of tea?",
+          "mean": "Do you want tea?"
+        },
+        {
+          "en": "Would you open the window?",
+          "mean": "Please open the window."
+        }
+      ]
+    },
+    {
+      "h": "Using May for Formal Permission",
+      "p": "We use 'may' when we want to ask for permission in a very polite or formal way. It is great for offices, hotels, or speaking to teachers and bosses. It sounds a little more serious than 'could', but people use it every day.",
+      "ex": [
+        {
+          "en": "May I use your phone?",
+          "mean": "Can I use your phone?"
+        },
+        {
+          "en": "May I come in?",
+          "mean": "Can I enter the room?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Could",
+      "mean": "polite past of can"
+    },
+    {
+      "en": "Would",
+      "mean": "used for polite offers"
+    },
+    {
+      "en": "May",
+      "mean": "very polite permission"
+    },
+    {
+      "en": "Please",
+      "mean": "word for politeness"
+    },
+    {
+      "en": "Permission",
+      "mean": "saying yes to do something"
+    },
+    {
+      "en": "Offer",
+      "mean": "giving help or food"
+    },
+    {
+      "en": "Formal",
+      "mean": "serious and correct"
+    }
+  ],
+  "tip": "Think of 'May' as wearing a nice suit for a special meeting, and 'Could' and 'Would' as your friendly everyday clothes!",
+  "quiz": [
+    {
+      "ask": "Choose the correct polite word",
+      "en": "___ you help me carry this heavy bag, please?",
+      "choices": [
+        "Could",
+        "Do",
+        "Are"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the best polite offer",
+      "en": "___ you like some water?",
+      "choices": [
+        "Do",
+        "Would",
+        "Can"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the formal word for asking permission",
+      "en": "___ I leave the room now?",
+      "choices": [
+        "Must",
+        "Will",
+        "May"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Complete the polite question",
+      "en": "Could I ___ the bill, please?",
+      "choices": [
+        "have",
+        "has",
+        "having"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Select the correct polite offer start",
+      "en": "Would you like ___ coffee?",
+      "choices": [
+        "an",
+        "a",
+        "some"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct polite request",
+      "en": "___ you please tell me the time?",
+      "choices": [
+        "Would",
+        "Could",
+        "Both are correct"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

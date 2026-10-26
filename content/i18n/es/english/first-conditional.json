@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-26",
+  "slug": "first-conditional",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🔮",
+  "title": "Hablando del futuro: El primer condicional",
+  "summary": "Aprenderás a hablar sobre situaciones futuras posibles y sus resultados. Esto te ayuda a hacer planes y promesas en inglés cotidiano.",
+  "sections": [
+    {
+      "h": "¿Qué es el primer condicional?",
+      "p": "Usamos el primer condicional para hablar de una situación real y posible en el futuro y de lo que sucederá como consecuencia. Por ejemplo, si mañana hace buen tiempo, iremos al parque. La oración tiene dos partes: la parte del 'if' con un verbo en presente, y la parte del resultado con 'will' más el verbo en su forma base.",
+      "ex": [
+        {
+          "en": "If it rains, I will stay at home.",
+          "mean": "Si llueve, mi plan es quedarme en casa."
+        },
+        {
+          "en": "If you study hard, you will pass the test.",
+          "mean": "Estudiar lleva a aprobar el examen."
+        }
+      ]
+    },
+    {
+      "h": "Orden de la oración",
+      "p": "Puedes cambiar el orden de la oración sin alterar el significado. Cuando la cláusula con 'if' va primero, debes usar una coma en el medio. Cuando la cláusula del resultado va primero, no necesitas coma. Ambas formas son muy comunes y naturales en el inglés hablado y escrito.",
+      "ex": [
+        {
+          "en": "If I wake up early, I will make coffee.",
+          "mean": "La parte del 'if' va primero, así que usamos una coma."
+        },
+        {
+          "en": "I will make coffee if I wake up early.",
+          "mean": "La parte del resultado va primero, por lo que no se necesita coma."
+        }
+      ]
+    },
+    {
+      "h": "Formando negativos",
+      "p": "También puedes hacer oraciones negativas en el primer condicional. Puedes hacer negativa la parte del 'if' usando 'don't' o 'doesn't', o la parte del resultado usando 'won't'. Esto es muy útil cuando quieres hablar de cosas que tal vez no sucedan.",
+      "ex": [
+        {
+          "en": "If you don't hurry, we will miss the bus.",
+          "mean": "No dar se prisa resulta en perder el autobús."
+        },
+        {
+          "en": "If I am tired tonight, I won't go to the party.",
+          "mean": "Estar cansado significa que me quedaré en casa."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "first conditional",
+      "mean": "gramática para resultados futuros"
+    },
+    {
+      "en": "if",
+      "mean": "suponiendo que"
+    },
+    {
+      "en": "will",
+      "mean": "usado para resultados futuros"
+    },
+    {
+      "en": "won't",
+      "mean": "no lo hará"
+    },
+    {
+      "en": "result",
+      "mean": "lo que pasa después"
+    },
+    {
+      "en": "present tense",
+      "mean": "forma verbal para el ahora"
+    },
+    {
+      "en": "comma",
+      "mean": "signo de puntuación (,)"
+    }
+  ],
+  "tip": "Recuerda la fórmula: 'If + presente, will + verbo'. Nunca pongas 'will' justo después de la palabra 'if'.",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta para completar la oración",
+      "en": "If it ___ sunny tomorrow, we will go to the beach.",
+      "choices": [
+        "is",
+        "will be",
+        "be"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta para completar la oración",
+      "en": "I will call you if I ___ any news.",
+      "choices": [
+        "will get",
+        "got",
+        "get"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la frase correcta para completar la oración",
+      "en": "If you don't eat breakfast, you ___ hungry later.",
+      "choices": [
+        "are",
+        "will be",
+        "were"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta para completar la oración",
+      "en": "She will buy a new phone if she ___ enough money.",
+      "choices": [
+        "saves",
+        "will save",
+        "save"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la frase correcta para completar la oración",
+      "en": "If they miss the train, they ___ take a taxi.",
+      "choices": [
+        "take",
+        "took",
+        "will"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la oración correcta",
+      "en": "Which sentence is grammatically correct?",
+      "choices": [
+        "If I will see him, I will say hello.",
+        "If I see him, I will say hello.",
+        "If I see him, I say hello tomorrow."
+      ],
+      "answer_index": 1
+    }
+  ]
+}

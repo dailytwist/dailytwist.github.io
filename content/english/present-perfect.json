@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-26",
+  "slug": "present-perfect",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "✈️",
+  "title": "Life Experiences and Recent News: Ever, Already, Yet, Just",
+  "summary": "In this lesson, you will learn how to talk about life experiences and recent actions using the present perfect. We will look at four special words: ever, already, yet, and just.",
+  "sections": [
+    {
+      "h": "Talking About Life Experiences with 'Ever'",
+      "p": "We use 'ever' in questions to ask about life experiences up to now. It means 'at any time in your life'. We put 'ever' before the main verb, right after the subject. The answer is usually in the present perfect with 'have' or 'has', and we often use 'never' to say no.",
+      "ex": [
+        {
+          "en": "Have you ever eaten sushi?",
+          "mean": "In your whole life, did you eat sushi at least once?"
+        },
+        {
+          "en": "She has never traveled to another country.",
+          "mean": "At no time in her life did she go abroad."
+        }
+      ]
+    },
+    {
+      "h": "Showing Speed with 'Already' and 'Just'",
+      "p": "We use 'already' to say something happened sooner than we expected. We use 'just' to talk about an action that finished a very short time ago. Both words usually go between 'have' and the main action verb.",
+      "ex": [
+        {
+          "en": "I have already finished my homework.",
+          "mean": "I finished it sooner than expected."
+        },
+        {
+          "en": "He has just left the office.",
+          "mean": "He left a minute or two ago."
+        }
+      ]
+    },
+    {
+      "h": "Waiting for Things with 'Yet'",
+      "p": "We use 'yet' in questions and negative sentences to talk about something we expect to happen soon, but it hasn't happened up to now. 'Yet' always goes at the very end of the sentence.",
+      "ex": [
+        {
+          "en": "Have you cooked dinner yet?",
+          "mean": "I am waiting for dinner, is it ready now?"
+        },
+        {
+          "en": "They haven't arrived yet.",
+          "mean": "They are not here now, but we expect them soon."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "ever",
+      "mean": "at any time"
+    },
+    {
+      "en": "never",
+      "mean": "at no time"
+    },
+    {
+      "en": "already",
+      "mean": "sooner than expected"
+    },
+    {
+      "en": "just",
+      "mean": "a moment ago"
+    },
+    {
+      "en": "yet",
+      "mean": "until now"
+    },
+    {
+      "en": "present perfect",
+      "mean": "have plus past verb"
+    },
+    {
+      "en": "experience",
+      "mean": "something you do"
+    }
+  ],
+  "tip": "Remember that 'yet' loves to sit at the end of negative sentences and questions, while 'just' and 'already' like to stay comfortably in the middle, right next to 'have'!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word for the gap",
+      "en": "Have you ___ seen a kangaroo?",
+      "choices": [
+        "ever",
+        "yet",
+        "just",
+        "already"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word for the gap",
+      "en": "I don't need a coffee, thanks. I have ___ had one.",
+      "choices": [
+        "yet",
+        "ever",
+        "already",
+        "never"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word for the gap",
+      "en": "Where is Mark? He has ___ stepped out of the room.",
+      "choices": [
+        "yet",
+        "ever",
+        "just",
+        "never"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word for the gap",
+      "en": "Has the bus arrived ___?",
+      "choices": [
+        "already",
+        "just",
+        "ever",
+        "yet"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Choose the correct word for the gap",
+      "en": "We haven't decided where to go on holiday ___.",
+      "choices": [
+        "yet",
+        "already",
+        "just",
+        "ever"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word for the gap",
+      "en": "She has ___ been to Paris, and she wants to go again.",
+      "choices": [
+        "yet",
+        "already",
+        "ever",
+        "just"
+      ],
+      "answer_index": 1
+    }
+  ]
+}
