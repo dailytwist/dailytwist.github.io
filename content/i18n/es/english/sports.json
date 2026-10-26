@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-26",
+  "slug": "sports",
+  "cefr": "A2",
+  "cat": "vocab",
+  "emoji": "⚽",
+  "title": "Play, Go, Do: Deportes",
+  "summary": "Aprende a usar play, go y do con diferentes deportes. Practicarás cómo formar oraciones correctas sobre pasatiempos.",
+  "sections": [
+    {
+      "h": "Cuándo usar PLAY",
+      "p": "Usamos el verbo play para deportes de equipo y juegos con pelota. Estos deportes suelen tener un ganador, una pelota y un equipo. Por ejemplo, you play football con amigos el fin de semana. También se usa con tenis, básquetbol y videojuegos.",
+      "ex": [
+        {
+          "en": "I play football on Saturdays.",
+          "mean": "Participo en un partido de fútbol todos los sábados."
+        },
+        {
+          "en": "Do you play tennis?",
+          "mean": "¿Eres jugador de tenis?"
+        }
+      ]
+    },
+    {
+      "h": "Cuándo usar GO",
+      "p": "Usamos el verbo go para actividades que terminan en -ing. Suelen ser deportes que haces al aire libre o en los que te mueves mucho, y a menudo los practicas solo o en un grupo pequeño. Por ejemplo, you go swimming, go running y go cycling.",
+      "ex": [
+        {
+          "en": "She likes to go swimming in summer.",
+          "mean": "A ella le gusta nadar cuando hace buen tiempo."
+        },
+        {
+          "en": "Let's go running this morning.",
+          "mean": "Quiero que corramos juntos hoy."
+        }
+      ]
+    },
+    {
+      "h": "Cuándo usar DO",
+      "p": "Usamos el verbo do para ejercicios individuales y artes marciales. Son actividades de acondicionamiento físico o deportes que no usan pelota y normalmente no terminan en -ing. Por ejemplo, you do yoga, do karate y do gymnastics para mantenerte fuerte y sano.",
+      "ex": [
+        {
+          "en": "I do yoga every morning.",
+          "mean": "Practico yoga todos los días para relajarme."
+        },
+        {
+          "en": "He does judo at the school club.",
+          "mean": "Él practica judo con su escuela."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "play",
+      "mean": "se usa para deportes con pelota"
+    },
+    {
+      "en": "go",
+      "mean": "se usa para actividades que terminan en -ing"
+    },
+    {
+      "en": "do",
+      "mean": "se usa para fitness y artes marciales"
+    },
+    {
+      "en": "football",
+      "mean": "deporte de equipo con una pelota redonda"
+    },
+    {
+      "en": "swimming",
+      "mean": "moverse a través del agua"
+    },
+    {
+      "en": "yoga",
+      "mean": "ejercicio de estiramiento y relajación"
+    },
+    {
+      "en": "basketball",
+      "mean": "deporte con un aro y una pelota"
+    }
+  ],
+  "tip": "Recuerda: deportes con pelota = play, palabras con -ing = go, y gimnasio/artes marciales = do. ¡Dile las reglas en voz alta tres veces!",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "I want to ___ basketball with my friends.",
+      "choices": [
+        "go",
+        "play",
+        "do"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "My brother likes to ___ swimming every weekend.",
+      "choices": [
+        "go",
+        "play",
+        "do"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "Do you ___ yoga to relax?",
+      "choices": [
+        "play",
+        "go",
+        "do"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "They ___ tennis on Tuesday evenings.",
+      "choices": [
+        "play",
+        "go",
+        "make"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "Let's ___ running in the park.",
+      "choices": [
+        "do",
+        "play",
+        "go"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "She wants to ___ karate after school.",
+      "choices": [
+        "play",
+        "do",
+        "go"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

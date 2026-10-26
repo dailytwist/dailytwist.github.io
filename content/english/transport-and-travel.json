@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-26",
+  "slug": "transport-and-travel",
+  "cefr": "A2",
+  "cat": "vocab",
+  "emoji": "✈️",
+  "title": "Travel and Transport",
+  "summary": "Learn how to talk about going places in English. You will discover new words for vehicles and travel.",
+  "sections": [
+    {
+      "h": "Going by Road",
+      "p": "We use different words when we travel on roads. A car is for small families. A bus is bigger and carries many people. A taxi is a car you pay to take you somewhere.",
+      "ex": [
+        {
+          "en": "I go to work by bus every morning.",
+          "mean": "I use a bus to travel to my job daily."
+        },
+        {
+          "en": "Let us take a taxi to the hotel.",
+          "mean": "We should hire a car to drive us to our place to stay."
+        },
+        {
+          "en": "My father drives a red car.",
+          "mean": "He operates a small vehicle of a red color."
+        }
+      ]
+    },
+    {
+      "h": "Trains and Stations",
+      "p": "Trains move on metal tracks. They are great for traveling to other towns and cities. You go to a train station to buy a ticket and wait for your train.",
+      "ex": [
+        {
+          "en": "The train leaves at nine o'clock.",
+          "mean": "The railway vehicle departs at 9:00."
+        },
+        {
+          "en": "We need to buy our tickets now.",
+          "mean": "We must purchase our travel passes immediately."
+        }
+      ]
+    },
+    {
+      "h": "Flying in the Sky",
+      "p": "When you want to visit another country far away, you go to the airport. An airplane flies in the sky and takes you across the world very fast.",
+      "ex": [
+        {
+          "en": "She works at the airport.",
+          "mean": "Her job is located where airplanes land and take off."
+        },
+        {
+          "en": "I am flying to Spain tomorrow.",
+          "mean": "I am taking an airplane to Spain on the next day."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "car",
+      "mean": "road vehicle"
+    },
+    {
+      "en": "bus",
+      "mean": "large passenger vehicle"
+    },
+    {
+      "en": "taxi",
+      "mean": "paid rental car"
+    },
+    {
+      "en": "train",
+      "mean": "railway transport"
+    },
+    {
+      "en": "ticket",
+      "mean": "travel pass"
+    },
+    {
+      "en": "station",
+      "mean": "place to catch trains"
+    },
+    {
+      "en": "airport",
+      "mean": "place for airplanes"
+    },
+    {
+      "en": "airplane",
+      "mean": "flying vehicle"
+    }
+  ],
+  "tip": "Draw small pictures next to your new transport words to help your brain remember them faster!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "We wait for the train at the train ___.",
+      "choices": [
+        "station",
+        "car",
+        "airport"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "I need to buy a ___ before I get on the bus.",
+      "choices": [
+        "taxi",
+        "ticket",
+        "road"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "An ___ flies high in the sky.",
+      "choices": [
+        "car",
+        "bus",
+        "airplane"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "My family has a small blue ___ to drive to the shop.",
+      "choices": [
+        "car",
+        "station",
+        "ticket"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "We take a ___ when we need a quick ride in the city.",
+      "choices": [
+        "train",
+        "taxi",
+        "airport"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Planes take off and land at the ___.",
+      "choices": [
+        "bus stop",
+        "station",
+        "airport"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

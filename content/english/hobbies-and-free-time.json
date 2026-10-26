@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-26",
+  "slug": "hobbies-and-free-time",
+  "cefr": "A2",
+  "cat": "vocab",
+  "emoji": "⚽",
+  "title": "Talking About Hobbies",
+  "summary": "Learn how to talk about what you like to do in your free time. You will use simple words to share your favorite activities.",
+  "sections": [
+    {
+      "h": "Using 'Like' +ing",
+      "p": "When we talk about our hobbies, we often use the verb 'like' followed by an action word ending in 'ing'. This is a great way to say what you enjoy doing on the weekend or after work. For example, if you enjoy football, you say 'I like playing football.' Remember to add 'ing' to the main action word every time.",
+      "ex": [
+        {
+          "en": "I like reading books in the evening.",
+          "mean": "I enjoy looking at and reading books at night."
+        },
+        {
+          "en": "She likes listening to music.",
+          "mean": "She enjoys hearing songs and music."
+        }
+      ]
+    },
+    {
+      "h": "Using 'Play' and 'Do'",
+      "p": "We use different action words for different hobbies. We use 'play' for team sports and games with balls, like football or tennis. We use 'do' for individual exercises or activities that do not use a ball, like yoga or karate. Knowing when to use 'play' or 'do' makes your English sound very natural.",
+      "ex": [
+        {
+          "en": "I play tennis with my friend on Saturdays.",
+          "mean": "I do the sport of tennis with a friend every Saturday."
+        },
+        {
+          "en": "He does yoga to relax after work.",
+          "mean": "He practices yoga to feel calm after his job."
+        }
+      ]
+    },
+    {
+      "h": "Asking About Hobbies",
+      "p": "To ask other people about their free time, use the question 'What do you like doing?' or 'Do you like...?'. This is a friendly way to start a conversation with someone new. You can answer with 'Yes, I do' or 'No, I don't' and then give a short detail about your hobby.",
+      "ex": [
+        {
+          "en": "What do you like doing on the weekend?",
+          "mean": "Tell me your favorite free-time activities for Saturday and Sunday."
+        },
+        {
+          "en": "Do you like cooking?",
+          "mean": "Is preparing food something you enjoy?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "hobby",
+      "mean": "free-time activity"
+    },
+    {
+      "en": "like",
+      "mean": "enjoy"
+    },
+    {
+      "en": "play",
+      "mean": "do a sport or game"
+    },
+    {
+      "en": "do",
+      "mean": "perform an activity"
+    },
+    {
+      "en": "reading",
+      "mean": "looking at books"
+    },
+    {
+      "en": "cooking",
+      "mean": "making food"
+    },
+    {
+      "en": "weekend",
+      "mean": "Saturday and Sunday"
+    },
+    {
+      "en": "music",
+      "mean": "nice sounds"
+    }
+  ],
+  "tip": "Make a list of three things you do every week. Try to say them out loud using 'I like...' before you go to sleep.",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "I like ___ tennis with my brother.",
+      "choices": [
+        "play",
+        "playing",
+        "plays"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Do you like ___ books?",
+      "choices": [
+        "read",
+        "reads",
+        "reading"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "She ___ yoga every morning.",
+      "choices": [
+        "does",
+        "plays",
+        "likes"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct question",
+      "en": "___ do you like doing in your free time?",
+      "choices": [
+        "Where",
+        "What",
+        "Who"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "We ___ football on Sunday.",
+      "choices": [
+        "do",
+        "play",
+        "go"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct answer",
+      "en": "Yes, I ___.",
+      "choices": [
+        "do",
+        "like",
+        "playing"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-26",
+  "slug": "feelings-and-emotions",
+  "cefr": "A2",
+  "cat": "vocab",
+  "emoji": "😊",
+  "title": "How Do You Feel Today?",
+  "summary": "Learn how to talk about your feelings and emotions in English. Ask and answer simple questions about how you and other people feel.",
+  "sections": [
+    {
+      "h": "Talking About Yourself",
+      "p": "To say how you feel right now, use the verb 'to be' (am, is, are) with an emotion word. For example, 'I am happy' or 'I am tired'. When you want to talk about the past, use 'was' or 'were' instead. These sentences help your friends and family understand your mood every day.",
+      "ex": [
+        {
+          "en": "I am happy today.",
+          "mean": "I feel good right now."
+        },
+        {
+          "en": "She is sad because it is raining.",
+          "mean": "She feels not happy because of the rain."
+        },
+        {
+          "en": "We were tired after work.",
+          "mean": "We felt no energy yesterday after working."
+        }
+      ]
+    },
+    {
+      "h": "Asking About Feelings",
+      "p": "Want to know how someone is feeling? Just ask 'How are you?' or 'How do you feel?'. To ask about another person, use 'How is he?' or 'How is she?'. People use these polite questions every day when they meet friends, family, or coworkers.",
+      "ex": [
+        {
+          "en": "How are you today?",
+          "mean": "Tell me your feeling right now."
+        },
+        {
+          "en": "How does he feel?",
+          "mean": "What is his emotion?"
+        },
+        {
+          "en": "Are you okay?",
+          "mean": "Do you feel well?"
+        }
+      ]
+    },
+    {
+      "h": "Common Emotion Words",
+      "p": "There are many useful words to describe different moods. Some words are positive, like 'happy' and 'excited'. Other words show negative feelings, like 'angry' or 'sad'. You can also describe your body, like feeling 'tired' when you need sleep or 'thirsty' when you need water.",
+      "ex": [
+        {
+          "en": "He is angry with the noise.",
+          "mean": "He feels mad because of the loud sound."
+        },
+        {
+          "en": "I am excited for the trip.",
+          "mean": "I feel very happy about going on holiday."
+        },
+        {
+          "en": "They are hungry now.",
+          "mean": "They want to eat food."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "happy",
+      "mean": "feeling good"
+    },
+    {
+      "en": "sad",
+      "mean": "feeling down"
+    },
+    {
+      "en": "tired",
+      "mean": "needing sleep"
+    },
+    {
+      "en": "angry",
+      "mean": "feeling mad"
+    },
+    {
+      "en": "excited",
+      "mean": "very happy"
+    },
+    {
+      "en": "hungry",
+      "mean": "wanting food"
+    },
+    {
+      "en": "thirsty",
+      "mean": "wanting water"
+    },
+    {
+      "en": "worried",
+      "mean": "feeling nervous"
+    }
+  ],
+  "tip": "Draw simple emoji faces in your notebook with the English words next to them. Looking at pictures helps your brain remember emotions faster.",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "I ran for one hour, so now I am ___.",
+      "choices": [
+        "happy",
+        "tired",
+        "angry"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct question",
+      "en": "___ are you feeling today?",
+      "choices": [
+        "How",
+        "What",
+        "Who"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "She has no food and her stomach hurts. She is ___.",
+      "choices": [
+        "thirsty",
+        "excited",
+        "hungry"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct verb",
+      "en": "Yesterday, we ___ very happy at the party.",
+      "choices": [
+        "are",
+        "were",
+        "is"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "He got a new job and a big smile. He is ___.",
+      "choices": [
+        "sad",
+        "worried",
+        "happy"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct answer",
+      "en": "A: How are you? B: I ___ fine, thank you.",
+      "choices": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

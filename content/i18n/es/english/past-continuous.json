@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-26",
+  "slug": "past-continuous",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "⏳",
+  "title": "Hablando del pasado: Pasado continuo",
+  "summary": "Aprende a hablar de acciones que estaban ocurriendo en un momento específico del pasado. Esto te ayuda a contar mejores historias sobre tu día.",
+  "sections": [
+    {
+      "h": "¿Qué es el pasado continuo?",
+      "p": "Usamos el pasado continuo para hablar de una acción que estaba en desarrollo en un momento específico del pasado. Para formar este tiempo verbal, usamos la forma en pasado del verbo 'to be' (was o were) más el verbo principal con '-ing' al final. Usa 'was' con I, he, she e it. Usa 'were' con you, we y they.",
+      "ex": [
+        {
+          "en": "I was sleeping at 10 PM last night.",
+          "mean": "A las 10 PM de anoche, mi acción de dormir estaba en curso."
+        },
+        {
+          "en": "They were watching a movie at that time.",
+          "mean": "En ese momento del pasado, ellos estaban en plena película."
+        }
+      ]
+    },
+    {
+      "h": "Hacer preguntas",
+      "p": "Para hacer una pregunta en pasado continuo, cambiamos el orden de las palabras. Ponemos 'Was' o 'Were' primero, luego el sujeto (como you o he) y después el verbo con '-ing'. Esto es muy útil cuando quieres preguntar qué estaba haciendo alguien ayer.",
+      "ex": [
+        {
+          "en": "What were you doing at 8 o'clock?",
+          "mean": "Quiero saber qué acción estabas haciendo en ese momento del pasado."
+        },
+        {
+          "en": "Was she working late yesterday?",
+          "mean": "¿Tenía ella la acción de trabajar hasta tarde ocurriendo ayer?"
+        }
+      ]
+    },
+    {
+      "h": "Hacer oraciones negativas",
+      "p": "Para decir lo que NO estabas haciendo en el pasado, solo añade 'not' después de 'was' o 'were'. También puedes usar las formas cortas 'wasn't' o 'weren't'. Esto te ayuda a corregir errores o a explicar tus acciones pasadas con claridad.",
+      "ex": [
+        {
+          "en": "I was not listening to music.",
+          "mean": "Mi acción en ese momento no incluía escuchar música."
+        },
+        {
+          "en": "They weren't paying attention.",
+          "mean": "Ellos no estaban mirando ni escuchando en ese momento."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "was",
+      "mean": "pasado de 'is' (I/he/she/it)"
+    },
+    {
+      "en": "were",
+      "mean": "pasado de 'are' (you/we/they)"
+    },
+    {
+      "en": "-ing form",
+      "mean": "terminación del verbo para el continuo"
+    },
+    {
+      "en": "in progress",
+      "mean": "ocurriendo ahora o entonces"
+    },
+    {
+      "en": "at that time",
+      "mean": "en un momento específico"
+    },
+    {
+      "en": "wasn't",
+      "mean": "no era / no estaba"
+    },
+    {
+      "en": "weren't",
+      "mean": "no éramos / no estábamos"
+    }
+  ],
+  "tip": "¡Recuerda siempre las dos partes: was/were + verbo-ing. ¡Piensa en 'was/were' como el ayudante y en '-ing' como el motor de la acción!",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "I ___ reading a book when you called.",
+      "choices": [
+        "were",
+        "was",
+        "is"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "They ___ playing football at 4 PM.",
+      "choices": [
+        "was",
+        "is",
+        "were"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "What ___ you doing last night?",
+      "choices": [
+        "were",
+        "was",
+        "did"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "She wasn't ___ TV; she was studying.",
+      "choices": [
+        "watch",
+        "watched",
+        "watching"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "___ it raining when you went outside?",
+      "choices": [
+        "Was",
+        "Were",
+        "Did"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "We ___ sleeping when the phone rang.",
+      "choices": [
+        "wasn't",
+        "weren't",
+        "aren't"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

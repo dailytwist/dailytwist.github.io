@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-26",
+  "slug": "technology-words",
+  "cefr": "A2",
+  "cat": "vocab",
+  "emoji": "📱",
+  "title": "Everyday Technology Words",
+  "summary": "Learn four common technology words we use every day. Practice how to talk about your phone, apps, charger, and password.",
+  "sections": [
+    {
+      "h": "Phone and App",
+      "p": "A phone is a device we use to call friends and send messages. An app is a small program on your phone. You can use apps to play games, listen to music, or take photos. We use phones and apps every single day to stay connected.",
+      "ex": [
+        {
+          "en": "I need to buy a new phone.",
+          "mean": "I want to get a different telephone."
+        },
+        {
+          "en": "Can you download this app?",
+          "mean": "Please put this program on your phone."
+        }
+      ]
+    },
+    {
+      "h": "Charger",
+      "p": "A charger is a cable or device that gives power to your phone. When your phone battery is low, you need a charger to make it work again. You plug it into the wall and into your phone.",
+      "ex": [
+        {
+          "en": "My phone battery is dead. Where is my charger?",
+          "mean": "My phone has no power. I need the cable to charge it."
+        },
+        {
+          "en": "Do you have an iPhone charger?",
+          "mean": "Can I borrow a cable for my Apple phone?"
+        }
+      ]
+    },
+    {
+      "h": "Password",
+      "p": "A password is a secret word or numbers. You use a password to open your phone or log into an app. It keeps your personal information safe from other people so they cannot see your messages.",
+      "ex": [
+        {
+          "en": "Type your password to unlock the screen.",
+          "mean": "Put in your secret word to see your phone."
+        },
+        {
+          "en": "I forgot my password.",
+          "mean": "I cannot remember my secret numbers."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "phone",
+      "mean": "mobile device"
+    },
+    {
+      "en": "app",
+      "mean": "phone program"
+    },
+    {
+      "en": "charger",
+      "mean": "battery power cable"
+    },
+    {
+      "en": "password",
+      "mean": "secret word"
+    },
+    {
+      "en": "battery",
+      "mean": "phone power"
+    },
+    {
+      "en": "download",
+      "mean": "get an app"
+    },
+    {
+      "en": "unlock",
+      "mean": "open the screen"
+    }
+  ],
+  "tip": "Write your tech words on sticky notes and put them on your actual phone or computer charger to remember them faster!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "I use my ___ to call my mother every Sunday.",
+      "choices": [
+        "charger",
+        "phone",
+        "password",
+        "app"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "My battery is at 2%. Where is my ___?",
+      "choices": [
+        "charger",
+        "password",
+        "app",
+        "phone"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "You need to type your ___ to open this secure app.",
+      "choices": [
+        "phone",
+        "charger",
+        "password",
+        "battery"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "I want to download a new fitness ___ to count my steps.",
+      "choices": [
+        "password",
+        "charger",
+        "phone",
+        "app"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Keep your ___ a secret so no one can open your device.",
+      "choices": [
+        "password",
+        "app",
+        "phone",
+        "charger"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "This small ___ helps me edit my photos easily.",
+      "choices": [
+        "charger",
+        "app",
+        "password",
+        "battery"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

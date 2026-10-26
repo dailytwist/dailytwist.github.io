@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-26",
+  "slug": "sports",
+  "cefr": "A2",
+  "cat": "vocab",
+  "emoji": "⚽",
+  "title": "Play, Go, Do: Sports",
+  "summary": "Learn how to use play, go, and do with different sports. You will practice making correct sentences about hobbies.",
+  "sections": [
+    {
+      "h": "When to use PLAY",
+      "p": "We use the verb play for team sports and games with a ball. These sports usually have a winner, a ball, and a team. For example, you play football with friends on the weekend. You also play tennis, basketball, and computer games.",
+      "ex": [
+        {
+          "en": "I play football on Saturdays.",
+          "mean": "I take part in a football game every Saturday."
+        },
+        {
+          "en": "Do you play tennis?",
+          "mean": "Are you a tennis player?"
+        }
+      ]
+    },
+    {
+      "h": "When to use GO",
+      "p": "We use the verb go for activities that end in -ing. These are usually sports you do outside or move around a lot in, and you often do them alone or in a small group. For example, you go swimming, go running, and go cycling.",
+      "ex": [
+        {
+          "en": "She likes to go swimming in summer.",
+          "mean": "She enjoys swimming when the weather is warm."
+        },
+        {
+          "en": "Let's go running this morning.",
+          "mean": "I want us to run together today."
+        }
+      ]
+    },
+    {
+      "h": "When to use DO",
+      "p": "We use the verb do for individual exercises and martial arts. These are fitness activities or sports that do not use a ball and usually do not end in -ing. For example, you do yoga, do karate, and do gymnastics to stay strong and healthy.",
+      "ex": [
+        {
+          "en": "I do yoga every morning.",
+          "mean": "I practice yoga daily to feel relaxed."
+        },
+        {
+          "en": "He does judo at the school club.",
+          "mean": "He practices judo with his school."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "play",
+      "mean": "used for ball sports"
+    },
+    {
+      "en": "go",
+      "mean": "used for -ing activities"
+    },
+    {
+      "en": "do",
+      "mean": "used for fitness and martial arts"
+    },
+    {
+      "en": "football",
+      "mean": "team sport with a round ball"
+    },
+    {
+      "en": "swimming",
+      "mean": "moving through water"
+    },
+    {
+      "en": "yoga",
+      "mean": "stretching and relaxation exercise"
+    },
+    {
+      "en": "basketball",
+      "mean": "sport with a hoop and ball"
+    }
+  ],
+  "tip": "Remember: ball sports = play, -ing words = go, and gym/martial arts = do. Say the rules out loud three times!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "I want to ___ basketball with my friends.",
+      "choices": [
+        "go",
+        "play",
+        "do"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "My brother likes to ___ swimming every weekend.",
+      "choices": [
+        "go",
+        "play",
+        "do"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Do you ___ yoga to relax?",
+      "choices": [
+        "play",
+        "go",
+        "do"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "They ___ tennis on Tuesday evenings.",
+      "choices": [
+        "play",
+        "go",
+        "make"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Let's ___ running in the park.",
+      "choices": [
+        "do",
+        "play",
+        "go"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "She wants to ___ karate after school.",
+      "choices": [
+        "play",
+        "do",
+        "go"
+      ],
+      "answer_index": 1
+    }
+  ]
+}
