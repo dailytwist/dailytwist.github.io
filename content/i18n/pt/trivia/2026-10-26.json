@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-26",
+  "title": "Quiz de Conhecimentos Gerais de 26 de outubro de 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Qual país sul-americano sem saída para o mar faz fronteira com o Brasil, a Argentina e a Bolívia?",
+      "options": [
+        "Chile",
+        "Uruguai",
+        "Paraguai",
+        "Suriname"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O Paraguai é um dos únicos dois países sem litoral na América do Sul; o outro é a Bolívia."
+    },
+    {
+      "category": "ciência",
+      "question": "Qual é a central energética da célula eucariótica, responsável por gerar a maior parte da energia química necessária?",
+      "options": [
+        "Retículo endoplasmático",
+        "Complexo de Golgi",
+        "Ribossomo",
+        "Mitocôndria"
+      ],
+      "answer_index": 3,
+      "fun_fact": "As mitocôndrias contêm seu próprio DNA independente, que geralmente é herdado exclusivamente da mãe."
+    },
+    {
+      "category": "história",
+      "question": "Quem foi a primeira mulher a ocupar o cargo de Primeira-Ministra do Reino Unido?",
+      "options": [
+        "Rainha Vitória",
+        "Margaret Thatcher",
+        "Indira Gandhi",
+        "Theresa May"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Margaret Thatcher atuou como Primeira-Ministra do Reino Unido de 1979 a 1990, ganhando o apelido de 'A Dama de Ferro'."
+    },
+    {
+      "category": "filmes e cultura pop",
+      "question": "Qual animação da Disney de 1994 apresenta a música 'Circle of Life' e acompanha a jornada de um jovem leão chamado Simba?",
+      "options": [
+        "Aladdin",
+        "Bambi",
+        "Tarzan",
+        "O Rei Leão"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O Rei Leão foi originalmente desenvolvido sob o título provisório de 'Rei da Selva'."
+    },
+    {
+      "category": "culinária",
+      "question": "Tradicionalmente, o molho pesto é originário de qual região italiana?",
+      "options": [
+        "Ligúria",
+        "Sicília",
+        "Toscana",
+        "Campânia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O tradicional pesto genovês é feito com alho amassado, manjericão, pinhões europeus, sal grosso, queijo Parmigiano-Reggiano e pecorino misturados com azeite de oliva."
+    },
+    {
+      "category": "animais",
+      "question": "Qual é a principal fonte de alimentação de um panda-gigante?",
+      "options": [
+        "Bambu",
+        "Peixe",
+        "Folhas de eucalipto",
+        "Insetos"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O bambu representa até 99% da dieta de um panda-gigante, e eles precisam passar até 12 horas por dia comendo para suprir suas necessidades energéticas."
+    },
+    {
+      "category": "esportes",
+      "question": "Nos Jogos Olímpicos modernos, quantos pontos são atribuídos por conquistar uma medalha de ouro na classificação geral por país?",
+      "options": [
+        "10 pontos",
+        "A contagem de medalhas é classificada primeiro pelas medalhas de ouro, independentemente do total",
+        "5 pontos",
+        "1 ponto"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O Comitê Olímpico Internacional não reconhece oficialmente um sistema de classificação global para os países, mas os veículos de mídia tradicionalmente os organizam pelo número de medalhas de ouro conquistadas."
+    },
+    {
+      "category": "idioma",
+      "question": "Qual é o termo para uma figura de linguagem que faz uma comparação implícita, subentendida ou oculta entre duas coisas não relacionadas, como 'O tempo é um ladrão'?",
+      "options": [
+        "Símile",
+        "Hipérbole",
+        "Personificação",
+        "Metáfora"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Ao contrário das comparações explícitas, as metáforas não usam palavras comparativas como 'como' ou 'igual a'."
+    },
+    {
+      "category": "espaço",
+      "question": "Qual planeta do nosso sistema solar possui o sistema de anéis planetários mais proeminente e complexo, composto principalmente de partículas de gelo?",
+      "options": [
+        "Júpiter",
+        "Urano",
+        "Netuno",
+        "Saturno"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Os anéis de Saturno são extremamente largos — estendendo-se por centenas de milhares de quilômetros —, mas são notavelmente finos, tendo geralmente apenas cerca de 10 metros de espessura na maioria dos lugares."
+    },
+    {
+      "category": "geografia",
+      "question": "Qual nação africana tem a maior população, de acordo com os registros demográficos recentes?",
+      "options": [
+        "Etiópia",
+        "Egito",
+        "África do Sul",
+        "Nigéria"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A Nigéria não é apenas o país mais populoso da África, mas também há a projeção de que seja um dos principais centros populacionais do mundo nas próximas décadas."
+    }
+  ]
+}

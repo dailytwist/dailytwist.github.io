@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-26",
+  "title": "Quiz di cultura generale del 26 ottobre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Quale stato del Sud America senza sbocco sul mare confina con Brasile, Argentina e Bolivia?",
+      "options": [
+        "Cile",
+        "Uruguay",
+        "Paraguay",
+        "Suriname"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il Paraguay è uno dei soli due paesi del Sud America a non avere sbocchi sul mare, l'altro è la Bolivia."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è la centrale energetica della cellula eucariote, responsabile della produzione della maggior parte dell'energia chimica necessaria?",
+      "options": [
+        "Reticolo endoplasmatico",
+        "Apparato di Golgi",
+        "Ribosoma",
+        "Mitocondrio"
+      ],
+      "answer_index": 3,
+      "fun_fact": "I mitocondri contengono un proprio DNA indipendente che viene solitamente ereditato esclusivamente dalla madre."
+    },
+    {
+      "category": "storia",
+      "question": "Chi è stata la prima donna Primo Ministro del Regno Unito?",
+      "options": [
+        "Regina Vittoria",
+        "Margaret Thatcher",
+        "Indira Gandhi",
+        "Theresa May"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Margaret Thatcher è stata Primo Ministro del Regno Unito dal 1979 al 1990, guadagnandosi il soprannome di 'The Iron Lady'."
+    },
+    {
+      "category": "film e cultura pop",
+      "question": "Quale film d'animazione Disney del 1994 include la canzone 'Il cerchio della vita' e segue le vicende di un giovane leone di nome Simba?",
+      "options": [
+        "Aladdin",
+        "Bambi",
+        "Tarzan",
+        "Il Re Leone"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Il Re Leone è stato originariamente sviluppato con il titolo di lavorazione 'King of the Jungle'."
+    },
+    {
+      "category": "cucina",
+      "question": "Da quale regione italiana proviene tradizionalmente la salsa pesto?",
+      "options": [
+        "Liguria",
+        "Sicilia",
+        "Toscana",
+        "Campania"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il tradizionale pesto alla genovese è fatto con aglio pestato, basilico, pinoli europei, sale grosso, Parmigiano-Reggiano e pecorino frullati con olio d'oliva."
+    },
+    {
+      "category": "animali",
+      "question": "Qual è l'alimento principale nella dieta di un panda gigante?",
+      "options": [
+        "Bambù",
+        "Pesce",
+        "Foglie di eucalipto",
+        "Insetti"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il bambù rappresenta fino al 99% della dieta di un panda gigante, che deve trascorrere fino a 12 ore al giorno a mangiare per soddisfare il suo fabbisogno energetico."
+    },
+    {
+      "category": "sport",
+      "question": "Nei moderni Giochi Olimpici, quanti punti vengono assegnati per la conquista di una medaglia d'oro ai fini della classifica generale per nazioni?",
+      "options": [
+        "10 punti",
+        "Il conteggio delle medaglie viene ordinato prima in base alle medaglie d'oro, indipendentemente dal totale",
+        "5 punti",
+        "1 punto"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Il Comitato Olimpico Internazionale non riconosce ufficialmente un sistema di classifica globale per i paesi, ma i media tradizionalmente ordinano in base al numero di medaglie d'oro vinte."
+    },
+    {
+      "category": "linguaggio",
+      "question": "Come si chiama la figura retorica che stabilisce un paragone implicito, sottinteso o nascosto tra due cose non correlate, come ad esempio 'Il tempo è un ladro'?",
+      "options": [
+        "Similitudine",
+        "Iperbole",
+        "Personificazione",
+        "Metafora"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A differenza delle similitudini, le metafore non usano parole comparative come 'come'."
+    },
+    {
+      "category": "spazio",
+      "question": "Quale pianeta del nostro sistema solare possiede il sistema di anelli planetari più evidente e complesso, composto principalmente da particelle di ghiaccio?",
+      "options": [
+        "Giove",
+        "Urano",
+        "Nettuno",
+        "Saturno"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Gli anelli di Saturno sono estremamente larghi (si estendono per centinaia di migliaia di chilometri), ma al contempo incredibilmente sottili, con uno spessore che in genere non supera i 10 metri nella maggior parte dei punti."
+    },
+    {
+      "category": "geografia",
+      "question": "Quale nazione africana ha la popolazione più numerosa secondo i dati demografici recenti?",
+      "options": [
+        "Etiopia",
+        "Egitto",
+        "Sudafrica",
+        "Nigeria"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La Nigeria non è solo il paese più popoloso dell'Africa, ma si prevede che sarà anche uno dei principali centri demografici globali nei prossimi decenni."
+    }
+  ]
+}

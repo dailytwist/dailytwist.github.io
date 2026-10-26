@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-26",
+  "title": "October 26, 2026 General Knowledge Quiz",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Which landlocked South American country is bordered by Brazil, Argentina, and Bolivia?",
+      "options": [
+        "Chile",
+        "Uruguay",
+        "Paraguay",
+        "Suriname"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Paraguay is one of only two landlocked countries in South America, the other being Bolivia."
+    },
+    {
+      "category": "science",
+      "question": "What is the powerhouse of the eukaryotic cell, responsible for generating most of the chemical energy needed?",
+      "options": [
+        "Endoplasmic reticulum",
+        "Golgi apparatus",
+        "Ribosome",
+        "Mitochondrion"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Mitochondria contain their own independent DNA that is typically inherited exclusively from the mother."
+    },
+    {
+      "category": "history",
+      "question": "Who was the first female Prime Minister of the United Kingdom?",
+      "options": [
+        "Queen Victoria",
+        "Margaret Thatcher",
+        "Indira Gandhi",
+        "Theresa May"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Margaret Thatcher served as the Prime Minister of the United Kingdom from 1979 to 1990, earning the nickname 'The Iron Lady'."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Which 1994 animated Disney film features the song 'Circle of Life' and follows the journey of a young lion named Simba?",
+      "options": [
+        "Aladdin",
+        "Bambi",
+        "Tarzan",
+        "The Lion King"
+      ],
+      "answer_index": 3,
+      "fun_fact": "The Lion King was originally developed under the working title 'King of the Jungle'."
+    },
+    {
+      "category": "food",
+      "question": "Pesto sauce traditionally originates from which Italian region?",
+      "options": [
+        "Liguria",
+        "Sicily",
+        "Tuscany",
+        "Campania"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Traditional Genovese pesto is made using crushed garlic, basil, European pine nuts, coarse salt, Parmigiano-Reggiano, and pecorino cheese blended with olive oil."
+    },
+    {
+      "category": "animals",
+      "question": "What is the primary diet of a giant panda?",
+      "options": [
+        "Bamboo",
+        "Fish",
+        "Eucalyptus leaves",
+        "Insects"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Bamboo accounts for up to 99 percent of a giant panda's diet, and they must spend up to 12 hours a day eating it to meet their energy needs."
+    },
+    {
+      "category": "sports",
+      "question": "In the modern Olympic Games, how many points are awarded for scoring a gold medal in terms of overall country standings?",
+      "options": [
+        "10 points",
+        "Medal counts are ranked by gold medals first, regardless of total counts",
+        "5 points",
+        "1 point"
+      ],
+      "answer_index": 1,
+      "fun_fact": "The International Olympic Committee does not officially recognize a global ranking system for countries, but media outlets traditionally sort by the number of gold medals won."
+    },
+    {
+      "category": "language",
+      "question": "What is the term for a figure of speech that makes an implicit, implied, or hidden comparison between two unrelated things, such as 'Time is a thief'?",
+      "options": [
+        "Simile",
+        "Hyperbole",
+        "Personification",
+        "Metaphor"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Unlike similes, metaphors do not use comparative words such as 'like' or 'as'."
+    },
+    {
+      "category": "space",
+      "question": "Which planet in our solar system has the most prominent and complex system of planetary rings made mostly of ice particles?",
+      "options": [
+        "Jupiter",
+        "Uranus",
+        "Neptune",
+        "Saturn"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Saturn's rings are extremely wide—spanning hundreds of thousands of kilometers—yet they are remarkably thin, typically only about 10 meters thick in most places."
+    },
+    {
+      "category": "geography",
+      "question": "Which African nation has the highest population as of recent demographic records?",
+      "options": [
+        "Ethiopia",
+        "Egypt",
+        "South Africa",
+        "Nigeria"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Nigeria is not only the most populous country in Africa, but it is also projected to be one of the top population centers globally in the coming decades."
+    }
+  ]
+}

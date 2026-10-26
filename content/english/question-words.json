@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-26",
+  "slug": "question-words",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "❓",
+  "title": "Asking Questions: What, Where, When, Who, Why, How",
+  "summary": "Learn how to use question words to ask for important information in English. Practice making simple questions for everyday conversations.",
+  "sections": [
+    {
+      "h": "What, Where, and When",
+      "p": "We use 'what' to ask about things. We use 'where' to ask about places. We use 'when' to ask about time or days. Put these question words at the very beginning of your sentence before the verb to get the information you need.",
+      "ex": [
+        {
+          "en": "What is your name?",
+          "mean": "Asking for a thing or fact."
+        },
+        {
+          "en": "Where do you live?",
+          "mean": "Asking about a place."
+        },
+        {
+          "en": "When is your birthday?",
+          "mean": "Asking about time."
+        }
+      ]
+    },
+    {
+      "h": "Who, Why, and How",
+      "p": "We use 'who' to ask about a person. We use 'why' to ask for a reason, and we usually answer with 'because'. We use 'how' to ask about the way something is done or about feelings and health.",
+      "ex": [
+        {
+          "en": "Who is that man?",
+          "mean": "Asking about a person."
+        },
+        {
+          "en": "Why are you happy?",
+          "mean": "Asking for a reason."
+        },
+        {
+          "en": "How are you today?",
+          "mean": "Asking about health or feelings."
+        }
+      ]
+    },
+    {
+      "h": "Making the Question",
+      "p": "Remember the correct order for your question. Start with the question word, then add the helper verb like 'do', 'does', or 'is', followed by the subject and the main action. This helps people understand you clearly.",
+      "ex": [
+        {
+          "en": "Where do you work?",
+          "mean": "Question word plus do and subject."
+        },
+        {
+          "en": "How do you make this?",
+          "mean": "Asking about the way to do something."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "What",
+      "mean": "asks about things"
+    },
+    {
+      "en": "Where",
+      "mean": "asks about places"
+    },
+    {
+      "en": "When",
+      "mean": "asks about time"
+    },
+    {
+      "en": "Who",
+      "mean": "asks about people"
+    },
+    {
+      "en": "Why",
+      "mean": "asks for reasons"
+    },
+    {
+      "en": "How",
+      "mean": "asks about manner"
+    },
+    {
+      "en": "Question word",
+      "mean": "start of a question"
+    }
+  ],
+  "tip": "Think of the 5 Ws and 1 H. Write them on a small card and look at it every morning to remember them.",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "___ is your favorite color?",
+      "choices": [
+        "What",
+        "Where",
+        "Who"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "___ do you live?",
+      "choices": [
+        "When",
+        "Where",
+        "Why"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "___ is your English teacher?",
+      "choices": [
+        "Where",
+        "What",
+        "Who"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "___ do you go to sleep?",
+      "choices": [
+        "When",
+        "Who",
+        "How"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "___ are you sad?",
+      "choices": [
+        "How",
+        "Why",
+        "What"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "___ do you spell this word?",
+      "choices": [
+        "Who",
+        "What",
+        "How"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

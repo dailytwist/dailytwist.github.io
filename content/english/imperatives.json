@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-26",
+  "slug": "imperatives",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🛑",
+  "title": "Giving Instructions: Do This!",
+  "summary": "Learn how to use imperative verbs to tell people what to do. You will practice giving simple directions and commands.",
+  "sections": [
+    {
+      "h": "What are imperatives?",
+      "p": "We use imperatives to tell someone to do something. They are very direct. You just use the base form of the verb. You do not need to add words like 'you'. For example, instead of saying 'You open the door', you just say 'Open the door'. We use imperatives for recipes, street directions, and classroom rules.",
+      "ex": [
+        {
+          "en": "Open the window, please.",
+          "mean": "ask someone to make the window open"
+        },
+        {
+          "en": "Sit down on the chair.",
+          "mean": "tell someone to take a seat"
+        },
+        {
+          "en": "Listen to the teacher.",
+          "mean": "pay attention to the person speaking"
+        }
+      ]
+    },
+    {
+      "h": "Negative imperatives",
+      "p": "To tell someone NOT to do something, we put 'Don't' before the verb. 'Don't' is short for 'Do not'. It is very useful for safety rules and warnings. You can use it at home, at work, or on the street.",
+      "ex": [
+        {
+          "en": "Don't touch that hot pan!",
+          "mean": "do not put your hands on the hot pan"
+        },
+        {
+          "en": "Don't park your car here.",
+          "mean": "leaving your car in this spot is not allowed"
+        },
+        {
+          "en": "Don't be late for class.",
+          "mean": "arrive on time"
+        }
+      ]
+    },
+    {
+      "h": "Making instructions polite",
+      "p": "Imperatives can sometimes sound a little strong. To be polite, we usually add the word 'please' at the beginning or the end of the sentence. Adding 'please' makes people happy to help you.",
+      "ex": [
+        {
+          "en": "Please help me with this bag.",
+          "mean": "asking nicely for assistance"
+        },
+        {
+          "en": "Turn off the lights, please.",
+          "mean": "a polite request to make the room dark"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "imperative",
+      "mean": "command or instruction"
+    },
+    {
+      "en": "verb",
+      "mean": "action word"
+    },
+    {
+      "en": "don't",
+      "mean": "do not"
+    },
+    {
+      "en": "please",
+      "mean": "polite word"
+    },
+    {
+      "en": "turn left",
+      "mean": "go to the left side"
+    },
+    {
+      "en": "stop",
+      "mean": "do not move"
+    },
+    {
+      "en": "open",
+      "mean": "make something unclosed"
+    },
+    {
+      "en": "listen",
+      "mean": "hear with attention"
+    }
+  ],
+  "tip": "Think of recipe books or video games. They always use short action words to tell you what to do next!",
+  "quiz": [
+    {
+      "ask": "Choose the correct instruction",
+      "en": "___ the door, it is cold outside.",
+      "choices": [
+        "Close",
+        "Closing",
+        "Closes"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct negative instruction",
+      "en": "___ run in the hospital corridor.",
+      "choices": [
+        "Not",
+        "Don't",
+        "No"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Complete the polite request",
+      "en": "Please ___ quiet during the test.",
+      "choices": [
+        "are",
+        "is",
+        "be"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct verb for a recipe",
+      "en": "___ the eggs in a bowl.",
+      "choices": [
+        "Mix",
+        "Mixes",
+        "Mixed"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct warning",
+      "en": "___ feed the animals at the zoo.",
+      "choices": [
+        "No",
+        "Not",
+        "Don't"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct instruction for driving",
+      "en": "___ at the red traffic light.",
+      "choices": [
+        "Go",
+        "Stop",
+        "Walk"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

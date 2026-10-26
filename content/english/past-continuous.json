@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-26",
+  "slug": "past-continuous",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "⏳",
+  "title": "Talking About the Past: Past Continuous",
+  "summary": "Learn how to talk about actions that were happening at a specific time in the past. This helps you tell better stories about your day.",
+  "sections": [
+    {
+      "h": "What is the Past Continuous?",
+      "p": "We use the past continuous to talk about an action that was in progress at a specific time in the past. To make this tense, we use the past form of the verb 'to be' (was or were) plus the main verb with '-ing' at the end. Use 'was' with I, he, she, and it. Use 'were' with you, we, and they.",
+      "ex": [
+        {
+          "en": "I was sleeping at 10 PM last night.",
+          "mean": "At 10 PM last night, my action of sleeping was in progress."
+        },
+        {
+          "en": "They were watching a movie at that time.",
+          "mean": "At that moment in the past, they were in the middle of watching a movie."
+        }
+      ]
+    },
+    {
+      "h": "Asking Questions",
+      "p": "To ask a question in the past continuous, we change the order of the words. We put 'Was' or 'Were' first, then the subject (like you or he), and then the verb with '-ing'. This is very useful when you want to ask what someone was doing yesterday.",
+      "ex": [
+        {
+          "en": "What were you doing at 8 o'clock?",
+          "mean": "I want to know your action at that past time."
+        },
+        {
+          "en": "Was she working late yesterday?",
+          "mean": "Did she have the action of working late happening yesterday?"
+        }
+      ]
+    },
+    {
+      "h": "Making Negatives",
+      "p": "To say what you were NOT doing in the past, just add 'not' after 'was' or 'were'. You can also use the short forms 'wasn't' or 'weren't'. This helps you correct mistakes or explain your past actions clearly.",
+      "ex": [
+        {
+          "en": "I was not listening to music.",
+          "mean": "My action at that time did not include listening to music."
+        },
+        {
+          "en": "They weren't paying attention.",
+          "mean": "They were not looking or listening at that moment."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "was",
+      "mean": "past of 'is' (I/he/she/it)"
+    },
+    {
+      "en": "were",
+      "mean": "past of 'are' (you/we/they)"
+    },
+    {
+      "en": "-ing form",
+      "mean": "verb ending for continuous"
+    },
+    {
+      "en": "in progress",
+      "mean": "happening now or then"
+    },
+    {
+      "en": "at that time",
+      "mean": "at a specific moment"
+    },
+    {
+      "en": "wasn't",
+      "mean": "was not"
+    },
+    {
+      "en": "weren't",
+      "mean": "were not"
+    }
+  ],
+  "tip": "Always remember the two parts: was/were + verb-ing. Think of 'was/were' as the helper and '-ing' as the engine of the action!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "I ___ reading a book when you called.",
+      "choices": [
+        "were",
+        "was",
+        "is"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "They ___ playing football at 4 PM.",
+      "choices": [
+        "was",
+        "is",
+        "were"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "What ___ you doing last night?",
+      "choices": [
+        "were",
+        "was",
+        "did"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "She wasn't ___ TV; she was studying.",
+      "choices": [
+        "watch",
+        "watched",
+        "watching"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "___ it raining when you went outside?",
+      "choices": [
+        "Was",
+        "Were",
+        "Did"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "We ___ sleeping when the phone rang.",
+      "choices": [
+        "wasn't",
+        "weren't",
+        "aren't"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

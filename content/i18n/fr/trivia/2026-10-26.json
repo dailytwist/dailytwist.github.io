@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-26",
+  "title": "Quiz de culture générale du 26 octobre 2026",
+  "questions": [
+    {
+      "category": "géographie",
+      "question": "Quel pays d'Amérique du Sud sans accès à la mer est frontalier du Brésil, de l'Argentine et de la Bolivie ?",
+      "options": [
+        "Chile",
+        "Uruguay",
+        "Paraguay",
+        "Suriname"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le Paraguay est l'un des deux seuls pays enclavés d'Amérique du Sud, l'autre étant la Bolivie."
+    },
+    {
+      "category": "science",
+      "question": "Quel est le centre énergétique de la cellule eucaryote, responsable de la production de la majeure partie de l'énergie chimique nécessaire ?",
+      "options": [
+        "Endoplasmic reticulum",
+        "Golgi apparatus",
+        "Ribosome",
+        "Mitochondrion"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Les mitochondries possèdent leur propre ADN indépendant, qui est généralement transmis exclusivement par la mère."
+    },
+    {
+      "category": "histoire",
+      "question": "Qui a été la première femme Première ministre du Royaume-Uni ?",
+      "options": [
+        "Queen Victoria",
+        "Margaret Thatcher",
+        "Indira Gandhi",
+        "Theresa May"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Margaret Thatcher a été Première ministre du Royaume-Uni de 1979 à 1990, ce qui lui a valu le surnom de « Dame de fer »."
+    },
+    {
+      "category": "films et culture pop",
+      "question": "Quel film d'animation de Disney de 1994 met en vedette la chanson « L'Histoire de la vie » et suit le parcours d'un jeune lion nommé Simba ?",
+      "options": [
+        "Aladdin",
+        "Bambi",
+        "Tarzan",
+        "The Lion King"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Le Roi Lion a initialement été développé sous le titre provisoire de « Le Roi de la jungle »."
+    },
+    {
+      "category": "gastronomie",
+      "question": "De quelle région italienne la sauce pesto est-elle originaire traditionnellement ?",
+      "options": [
+        "Liguria",
+        "Sicily",
+        "Tuscany",
+        "Campania"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le pesto génois traditionnel est préparé avec de l'ail écrasé, du basilic, des pignons de pin européens, du gros sel, du Parmigiano-Reggiano et du pecorino, le tout mélangé à de l'huile d'olive."
+    },
+    {
+      "category": "animaux",
+      "question": "Quel est l'aliment principal du régime alimentaire du panda géant ?",
+      "options": [
+        "Bamboo",
+        "Fish",
+        "Eucalyptus leaves",
+        "Insects"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le bambou représente jusqu'à 99 pour cent du régime alimentaire du panda géant, et celui-ci doit passer jusqu'à 12 heures par jour à s'alimenter pour couvrir ses besoins énergétiques."
+    },
+    {
+      "category": "sport",
+      "question": "Aux Jeux olympiques modernes, combien de points attribue-t-on pour l'obtention d'une médaille d'or dans le classement général par pays ?",
+      "options": [
+        "10 points",
+        "Medal counts are ranked by gold medals first, regardless of total counts",
+        "5 points",
+        "1 point"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Le Comité international olympique ne reconnaît pas officiellement de système de classement mondial pour les pays, mais les médias classent traditionnellement les nations selon le nombre de médailles d'or remportées."
+    },
+    {
+      "category": "langue",
+      "question": "Quel est le terme désignant une figure de style qui établit une comparaison implicite ou cachée entre deux choses sans rapport, comme « Le temps est un voleur » ?",
+      "options": [
+        "Simile",
+        "Hyperbole",
+        "Personification",
+        "Metaphor"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Contrairement à la comparaison, la métaphore n'utilise pas de mots comparatifs tels que « comme » ou « tel »."
+    },
+    {
+      "category": "espace",
+      "question": "Quelle planète de notre système solaire possède le système d'anneaux planétaires le plus visible et le plus complexe, composé principalement de particules de glace ?",
+      "options": [
+        "Jupiter",
+        "Uranus",
+        "Neptune",
+        "Saturn"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Les anneaux de Saturne sont extrêmement larges — s'étendant sur des centaines de milliers de kilomètres — mais ils sont remarquablement minces, ne mesurant généralement qu'une dizaine de mètres d'épaisseur par endroits."
+    },
+    {
+      "category": "géographie",
+      "question": "Quel pays africain compte la population la plus élevée selon les données démographiques récentes ?",
+      "options": [
+        "Ethiopia",
+        "Egypt",
+        "South Africa",
+        "Nigeria"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Le Nigeria n'est pas seulement le pays le plus peuplé d'Afrique, il devrait également figurer parmi les plus grands foyers de population au monde au cours des prochaines décennies."
+    }
+  ]
+}

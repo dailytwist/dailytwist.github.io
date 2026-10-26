@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-26",
+  "title": "Test de cultura general del 26 de octubre de 2026",
+  "questions": [
+    {
+      "category": "geografía",
+      "question": "¿Qué país sudamericano sin salida al mar limita con Brasil, Argentina y Bolivia?",
+      "options": [
+        "Chile",
+        "Uruguay",
+        "Paraguay",
+        "Surinam"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Paraguay es uno de los únicos dos países sin litoral en Sudamérica; el otro es Bolivia."
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Cuál es la central energética de la célula eucariota, responsable de generar la mayor parte de la energía química necesaria?",
+      "options": [
+        "Retículo endoplasmático",
+        "Aparato de Golgi",
+        "Ribosoma",
+        "Mitocondria"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Las mitocondrias contienen su propio ADN independiente, el cual suele heredarse exclusivamente de la madre."
+    },
+    {
+      "category": "historia",
+      "question": "¿Quién fue la primera mujer en ocupar el cargo de primera ministra del Reino Unido?",
+      "options": [
+        "Reina Victoria",
+        "Margaret Thatcher",
+        "Indira Gandhi",
+        "Theresa May"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Margaret Thatcher ejerció como primera ministra del Reino Unido de 1979 a 1990, ganándose el apodo de 'La Dama de Hierro'."
+    },
+    {
+      "category": "cine y cultura pop",
+      "question": "¿Qué película animada de Disney de 1994 incluye la canción 'Circle of Life' y narra la historia de un joven león llamado Simba?",
+      "options": [
+        "Aladdín",
+        "Bambi",
+        "Tarzán",
+        "El rey león"
+      ],
+      "answer_index": 3,
+      "fun_fact": "El rey león se desarrolló originalmente bajo el título provisional de 'El rey de la selva'."
+    },
+    {
+      "category": "gastronomía",
+      "question": "¿De qué región italiana es originaria tradicionalmente la salsa pesto?",
+      "options": [
+        "Liguria",
+        "Sicilia",
+        "Toscana",
+        "Campania"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El pesto genovés tradicional se elabora con ajo machacado, albahaca, piñones europeos, sal gruesa, Parmigiano-Reggiano y queso pecorino mezclados con aceite de oliva."
+    },
+    {
+      "category": "animales",
+      "question": "¿Cuál es el alimento principal en la dieta del panda gigante?",
+      "options": [
+        "Bambú",
+        "Pescado",
+        "Hojas de eucalipto",
+        "Insectos"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El bambú representa hasta el 99 por ciento de la dieta del panda gigante, y deben pasar hasta 12 horas al día comiéndolo para cubrir sus necesidades energéticas."
+    },
+    {
+      "category": "deportes",
+      "question": "En los Juegos Olímpicos modernos, ¿cuántos puntos se otorgan por conseguir una medalla de oro en la clasificación general por países?",
+      "options": [
+        "10 puntos",
+        "El recuento de medallas se ordena primero por medallas de oro, sin importar el total",
+        "5 puntos",
+        "1 punto"
+      ],
+      "answer_index": 1,
+      "fun_fact": "El Comité Olímpico Internacional no reconoce oficialmente un sistema de clasificación global para los países, pero los medios de comunicación suelen ordenarlos según el número de medallas de oro ganadas."
+    },
+    {
+      "category": "idioma",
+      "question": "¿Cómo se denomina la figura retórica que establece una comparación implícita, tácita o encubierta entre dos cosas no relacionadas, como por ejemplo 'El tiempo es un ladrón'?",
+      "options": [
+        "Símil",
+        "Hipérbole",
+        "Personificación",
+        "Metáfora"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A diferencia de los símiles, las metáforas no utilizan palabras comparativas como 'como' o 'igual que'."
+    },
+    {
+      "category": "espacio",
+      "question": "¿Qué planeta de nuestro sistema solar posee el sistema de anillos planetarios más prominente y complejo, compuesto principalmente de partículas de hielo?",
+      "options": [
+        "Júpiter",
+        "Urano",
+        "Neptuno",
+        "Saturno"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Los anillos de Saturno son extremadamente anchos —con una extensión de cientos de miles de kilómetros—, pero son sumamente delgados, ya que en la mayoría de los lugares su grosor es de apenas unos 10 metros."
+    },
+    {
+      "category": "geografía",
+      "question": "¿Qué nación africana tiene la mayor población según los registros demográficos recientes?",
+      "options": [
+        "Etiopía",
+        "Egipto",
+        "Sudáfrica",
+        "Nigeria"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Nigeria no solo es el país más poblado de África, sino que también se proyecta como uno de los principales centros demográficos a nivel mundial en las próximas décadas."
+    }
+  ]
+}

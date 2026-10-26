@@ -1,116 +1,141 @@
-- compatibility libra + scorpio
+  9 trending topics after filtering
+- UI strings -> es (7 keys)
 ::warning::Gemini models available: gemini-2.5-flash, gemini-2.5-pro, gemini-2.5-flash-preview-tts, gemini-2.5-pro-preview-tts, gemma-4-26b-a4b-it, gemma-4-31b-it, gemini-flash-latest, gemini-flash-lite-latest, gemini-pro-latest, gemini-2.5-flash-lite, gemini-2.5-flash-image, gemini-3-flash-preview, gemini-3.1-pro-preview, gemini-3.1-pro-preview-customtools, gemini-3.1-flash-lite-preview, gemini-3.1-flash-lite, gemini-3-pro-image-preview, gemini-3-pro-image, nano-banana-pro-preview, gemini-3.1-flash-image-preview, gemini-3.1-flash-image, gemini-3.1-flash-lite-image, gemini-nano-banana-2.1, gemini-3.5-flash, gemini-3.5-flash-lite, gemini-omni-flash-preview, gemini-omni-1.1-flash, gemini-3.5-transcribe, gemini-3.6-flash, gemini-3.7-flash, gemini-3.8-flash, gemini-4-argon, lyria-3-clip-preview, lyria-3-pro-preview, lyria-3.5, gemini-3.1-flash-tts-preview, gemini-3.8-flash-tts, gemini-3.8-flash-lite-tts, gemini-robotics-er-2-preview, gemini-2.5-computer-use-preview-10-2025
 ::warning::using Gemini model: gemini-3.5-flash-lite
-  saved content/pairs/libra-scorpio.json
-- compatibility libra + pisces
-  saved content/pairs/libra-pisces.json
-- compatibility aquarius + aquarius
-  saved content/pairs/aquarius-aquarius.json
-- compatibility aquarius + cancer
-  saved content/pairs/aquarius-cancer.json
-- compatibility aquarius + scorpio
-  saved content/pairs/aquarius-scorpio.json
-- compatibility aquarius + pisces
-  saved content/pairs/aquarius-pisces.json
-- dream white dress
-  saved content/dreams/white-dress.json
-- dream ring
-  saved content/dreams/ring.json
-- dream kiss
-  saved content/dreams/kiss.json
-- dream hug
-  saved content/dreams/hug.json
-- dream crying
-  saved content/dreams/crying.json
-- dream laughing
-  saved content/dreams/laughing.json
-- guide birthday march-1
-  saved content/guides/birthday-march-1.json
-- guide birthday march-2
-  saved content/guides/birthday-march-2.json
-- guide birthday march-3
-  saved content/guides/birthday-march-3.json
-- guide birthday march-4
-  saved content/guides/birthday-march-4.json
-- guide birthday march-5
-  saved content/guides/birthday-march-5.json
-- guide birthday march-6
-  saved content/guides/birthday-march-6.json
-- english at-the-airport
-  saved content/english/at-the-airport.json
-- english at-the-hotel
-  saved content/english/at-the-hotel.json
-- english at-the-doctor
-  saved content/english/at-the-doctor.json
-- english phone-calls
-  saved content/english/phone-calls.json
-- english making-plans-with-friends
-  saved content/english/making-plans-with-friends.json
-- name Miguel
-  saved content/names/miguel.json
-- name Salim
-  saved content/names/salim.json
-- name Antonio
-  saved content/names/antonio.json
-- name Nizar
-  saved content/names/nizar.json
-- name Manuel
-  saved content/names/manuel.json
-- name Badr
-  saved content/names/badr.json
-- name Joao
-  saved content/names/joao.json
-- name Taha
-  saved content/names/taha.json
-  saved content/i18n/es/pairs/libra-scorpio.json
-  saved content/i18n/es/pairs/aquarius-pisces.json
-  saved content/i18n/es/pairs/libra-pisces.json
-  saved content/i18n/es/pairs/aquarius-scorpio.json
-  saved content/i18n/es/pairs/aquarius-aquarius.json
-  saved content/i18n/es/pairs/aquarius-cancer.json
-  saved content/i18n/es/dreams/kiss.json
-  saved content/i18n/es/dreams/white-dress.json
-  saved content/i18n/es/dreams/hug.json
-  saved content/i18n/fr/pairs/libra-scorpio.json
-  saved content/i18n/fr/pairs/aquarius-pisces.json
-  saved content/i18n/fr/pairs/libra-pisces.json
-  saved content/i18n/fr/pairs/aquarius-scorpio.json
-  saved content/i18n/fr/pairs/aquarius-aquarius.json
-  saved content/i18n/fr/pairs/aquarius-cancer.json
-  saved content/i18n/de/pairs/libra-scorpio.json
-  saved content/i18n/de/pairs/aquarius-pisces.json
-  saved content/i18n/de/pairs/libra-pisces.json
-  saved content/i18n/pt/pairs/libra-scorpio.json
-  saved content/i18n/pt/pairs/aquarius-pisces.json
-  saved content/i18n/pt/pairs/libra-pisces.json
-  saved content/i18n/pt/pairs/aquarius-scorpio.json
-  saved content/i18n/pt/pairs/aquarius-aquarius.json
-  saved content/i18n/pt/pairs/aquarius-cancer.json
-  saved content/i18n/it/pairs/libra-scorpio.json
-  saved content/i18n/it/pairs/aquarius-pisces.json
-  saved content/i18n/it/pairs/libra-pisces.json
-  saved content/i18n/ja/pairs/libra-scorpio.json
-  JSON was broken, asking once more
-  saved content/i18n/ja/pairs/aquarius-pisces.json
-  saved content/i18n/ja/pairs/libra-pisces.json
-  saved content/i18n/ar/pairs/libra-scorpio.json
-  saved content/i18n/ar/pairs/aquarius-pisces.json
-  saved content/i18n/ar/pairs/libra-pisces.json
-  saved content/i18n/es/dreams/laughing.json
-  saved content/i18n/es/dreams/ring.json
-  saved content/i18n/es/dreams/crying.json
-  saved content/i18n/es/guides/birthday-march-2.json
-  saved content/i18n/es/guides/birthday-march-1.json
-  saved content/i18n/es/guides/birthday-march-4.json
-  saved content/i18n/es/guides/birthday-march-6.json
-  saved content/i18n/es/guides/birthday-march-5.json
-  saved content/i18n/es/guides/birthday-february-20.json
-  saved content/i18n/fr/dreams/kiss.json
-  saved content/i18n/fr/dreams/white-dress.json
-  saved content/i18n/fr/dreams/hug.json
-  saved content/i18n/fr/dreams/laughing.json
-  saved content/i18n/fr/dreams/ring.json
-  saved content/i18n/fr/dreams/garden.json
-  saved content/i18n/de/pairs/aquarius-scorpio.json
-  saved content/i18n/de/pairs/aquarius-aquarius.json
+  saved content/i18n/es/ui.json
+- UI strings -> fr (7 keys)
+  saved content/i18n/fr/ui.json
+- UI strings -> de (7 keys)
+  saved content/i18n/de/ui.json
+- UI strings -> pt (7 keys)
+  saved content/i18n/pt/ui.json
+- UI strings -> it (7 keys)
+  saved content/i18n/it/ui.json
+- UI strings -> ja (7 keys)
+  saved content/i18n/ja/ui.json
+- UI strings -> ar (7 keys)
+  saved content/i18n/ar/ui.json
+- horoscopes 2026-10-26
+  saved content/horoscopes/2026-10-26.json
+- trivia 2026-10-26
+  saved content/trivia/2026-10-26.json
+- choosing articles from trends for 2026-10-26
+  saved content/articles/the-science-and-style-of-optical-illusion-outfits.json
+  saved content/articles/the-magic-of-laika-studios-masters-of-stop-motion.json
+  saved content/articles/who-is-kirill-kaprizov-the-nhl-star-s-journey-facts.json
+- compatibility cancer + cancer
+  saved content/pairs/cancer-cancer.json
+- compatibility cancer + scorpio
+  saved content/pairs/cancer-scorpio.json
+- compatibility cancer + pisces
+  saved content/pairs/cancer-pisces.json
+- compatibility scorpio + scorpio
+  saved content/pairs/scorpio-scorpio.json
+- compatibility scorpio + pisces
+  saved content/pairs/scorpio-pisces.json
+- compatibility pisces + pisces
+  saved content/pairs/pisces-pisces.json
+- dream dancing
+  saved content/dreams/dancing.json
+- dream singing
+  saved content/dreams/singing.json
+- dream food
+  saved content/dreams/food.json
+- dream bread
+  saved content/dreams/bread.json
+- dream eggs
+  saved content/dreams/eggs.json
+- dream fruit
+  saved content/dreams/fruit.json
+- guide birthday march-7
+  saved content/guides/birthday-march-7.json
+- guide birthday march-8
+  saved content/guides/birthday-march-8.json
+- guide birthday march-9
+  saved content/guides/birthday-march-9.json
+- guide birthday march-10
+  saved content/guides/birthday-march-10.json
+- guide birthday march-11
+  saved content/guides/birthday-march-11.json
+- guide birthday march-12
+  saved content/guides/birthday-march-12.json
+- english question-words
+  saved content/english/question-words.json
+- english imperatives
+  saved content/english/imperatives.json
+- english should-shouldnt
+  saved content/english/should-shouldnt.json
+- english have-to-must
+  saved content/english/have-to-must.json
+- english past-continuous
+  saved content/english/past-continuous.json
+- name Pedro
+  saved content/names/pedro.json
+- name Aymane
+  saved content/names/aymane.json
+- name Rafael
+  saved content/names/rafael.json
+- name Achraf
+  saved content/names/achraf.json
+- name Enzo
+  saved content/names/enzo.json
+- name Zayd
+  saved content/names/zayd.json
+- name Haruto
+  saved content/names/haruto.json
+- name Malik
+  saved content/names/malik.json
+  saved content/i18n/es/horoscopes/2026-10-26.json
+  saved content/i18n/es/trivia/2026-10-26.json
+  saved content/i18n/es/pairs/cancer-scorpio.json
+  saved content/i18n/es/pairs/cancer-pisces.json
+  saved content/i18n/es/pairs/pisces-pisces.json
+  saved content/i18n/es/pairs/scorpio-pisces.json
+  saved content/i18n/es/pairs/cancer-cancer.json
+  saved content/i18n/es/pairs/scorpio-scorpio.json
+  saved content/i18n/es/dreams/eggs.json
+  saved content/i18n/fr/horoscopes/2026-10-26.json
+  saved content/i18n/fr/trivia/2026-10-26.json
+  saved content/i18n/fr/pairs/cancer-scorpio.json
+  saved content/i18n/fr/pairs/cancer-pisces.json
+  saved content/i18n/fr/pairs/pisces-pisces.json
+  saved content/i18n/fr/pairs/scorpio-pisces.json
+  saved content/i18n/de/horoscopes/2026-10-26.json
+  saved content/i18n/de/trivia/2026-10-26.json
+  saved content/i18n/de/pairs/cancer-scorpio.json
+  saved content/i18n/pt/horoscopes/2026-10-26.json
+  saved content/i18n/pt/trivia/2026-10-26.json
+  saved content/i18n/pt/pairs/cancer-scorpio.json
+  saved content/i18n/pt/pairs/cancer-pisces.json
+  saved content/i18n/pt/pairs/pisces-pisces.json
+  saved content/i18n/pt/pairs/scorpio-pisces.json
+  saved content/i18n/it/horoscopes/2026-10-26.json
+  saved content/i18n/it/trivia/2026-10-26.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/it/pairs/cancer-scorpio.json
+  saved content/i18n/ja/horoscopes/2026-10-26.json
+  saved content/i18n/ja/trivia/2026-10-26.json
+  saved content/i18n/ja/pairs/cancer-scorpio.json
+  saved content/i18n/ar/horoscopes/2026-10-26.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/ar/trivia/2026-10-26.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/ar/pairs/cancer-scorpio.json
+  saved content/i18n/es/dreams/bread.json
+  saved content/i18n/es/dreams/fruit.json
+  saved content/i18n/es/dreams/singing.json
+  saved content/i18n/es/dreams/food.json
+  saved content/i18n/es/dreams/dancing.json
+  saved content/i18n/es/guides/birthday-march-7.json
+  saved content/i18n/es/guides/birthday-march-10.json
+  saved content/i18n/es/guides/birthday-march-8.json
+  saved content/i18n/es/guides/birthday-march-9.json
+  saved content/i18n/fr/pairs/cancer-cancer.json
+  saved content/i18n/fr/pairs/scorpio-scorpio.json
+  saved content/i18n/fr/dreams/eggs.json
+  saved content/i18n/fr/dreams/bread.json
+  saved content/i18n/fr/dreams/fruit.json
+  saved content/i18n/fr/dreams/singing.json
+  saved content/i18n/de/pairs/cancer-pisces.json
+  saved content/i18n/de/pairs/pisces-pisces.json
 Agent finished.

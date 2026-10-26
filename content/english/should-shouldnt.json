@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-26",
+  "slug": "should-shouldnt",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "💡",
+  "title": "Giving Good Advice: Should and Shouldn't",
+  "summary": "Learn how to use should and shouldn't to give advice to your friends. You will practice making helpful suggestions in everyday situations.",
+  "sections": [
+    {
+      "h": "When to use 'should'",
+      "p": "We use 'should' when we want to tell someone that something is a good idea. It is polite and friendly. After 'should', we always use the base form of the verb without 'to'. For example, you can say 'You should sleep' or 'She should eat fruit'. It helps people make good choices.",
+      "ex": [
+        {
+          "en": "You should drink some water.",
+          "mean": "It is a good idea to drink water."
+        },
+        {
+          "en": "He should study for the test.",
+          "mean": "It is a good idea for him to study."
+        },
+        {
+          "en": "We should leave now.",
+          "mean": "It is a good time for us to go."
+        }
+      ]
+    },
+    {
+      "h": "When to use 'shouldn't'",
+      "p": "We use 'shouldn't' (which means should not) when something is a bad idea. We want to stop someone from making a mistake or getting hurt. Just like 'should', we use the base verb right after it. For example, 'You shouldn't stay up late' or 'They shouldn't eat that'.",
+      "ex": [
+        {
+          "en": "You shouldn't eat so much sugar.",
+          "mean": "Eating too much sugar is a bad idea."
+        },
+        {
+          "en": "She shouldn't drive too fast.",
+          "mean": "Driving fast is dangerous for her."
+        },
+        {
+          "en": "They shouldn't watch TV all day.",
+          "mean": "Watching TV all day is not good."
+        }
+      ]
+    },
+    {
+      "h": "Asking for advice with 'should'",
+      "p": "You can also use 'should' to ask other people for advice when you are not sure what to do. You put 'Should' at the very beginning of the sentence, followed by 'I' or 'we' or 'you'. Then you add the main action.",
+      "ex": [
+        {
+          "en": "Should I wear a jacket today?",
+          "mean": "Is it a good idea for me to wear a jacket?"
+        },
+        {
+          "en": "What should we buy for dinner?",
+          "mean": "Can you give me a good idea for dinner?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "should",
+      "mean": "it is a good idea"
+    },
+    {
+      "en": "shouldn't",
+      "mean": "it is a bad idea"
+    },
+    {
+      "en": "advice",
+      "mean": "helpful suggestions"
+    },
+    {
+      "en": "drink water",
+      "mean": "have water to drink"
+    },
+    {
+      "en": "stay up late",
+      "mean": "go to bed late"
+    },
+    {
+      "en": "wear a jacket",
+      "mean": "put on warm clothes"
+    },
+    {
+      "en": "good idea",
+      "mean": "something smart to do"
+    }
+  ],
+  "tip": "Remember that the verb after should or shouldn't never changes! Always use the simple verb, like go, eat, or sleep.",
+  "quiz": [
+    {
+      "ask": "Choose the correct word for good advice",
+      "en": "You ___ eat more vegetables because they are healthy.",
+      "choices": [
+        "should",
+        "shouldn't",
+        "are"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word for bad advice",
+      "en": "He ___ touch that hot stove!",
+      "choices": [
+        "should",
+        "shouldn't",
+        "do"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Complete the question",
+      "en": "___ I call a doctor?",
+      "choices": [
+        "Do",
+        "Are",
+        "Should"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct advice for a test",
+      "en": "They ___ study tonight for the big exam tomorrow.",
+      "choices": [
+        "shouldn't",
+        "should",
+        "does"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct advice for sleeping",
+      "en": "You ___ go to bed so late on a school night.",
+      "choices": [
+        "should",
+        "shouldn't",
+        "can"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct advice for rain",
+      "en": "It is raining. We ___ take an umbrella.",
+      "choices": [
+        "should",
+        "shouldn't",
+        "am"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

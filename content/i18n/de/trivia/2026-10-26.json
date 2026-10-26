@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-26",
+  "title": "Allgemeinwissen-Quiz vom 26. Oktober 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches südamerikanische Binnenland grenzt an Brasilien, Argentinien und Bolivien?",
+      "options": [
+        "Chile",
+        "Uruguay",
+        "Paraguay",
+        "Suriname"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Paraguay ist neben Bolivien eines von nur zwei Binnenländern in Südamerika."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Wie heißt das Kraftwerk der eukaryotischen Zelle, das für die Bereitstellung des größten Teils der chemischen Energie verantwortlich ist?",
+      "options": [
+        "Endoplasmatisches Retikulum",
+        "Golgi-Apparat",
+        "Ribosom",
+        "Mitochondrium"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Mitochondrien besitzen eine eigene, unabhängige DNA, die in der Regel ausschließlich von der Mutter vererbt wird."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Wer war die erste weibliche Premierministerin des Vereinigten Königreichs?",
+      "options": [
+        "Queen Victoria",
+        "Margaret Thatcher",
+        "Indira Gandhi",
+        "Theresa May"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Margaret Thatcher war von 1979 bis 1990 Premierministerin des Vereinigten Königreichs und erhielt den Beinamen „Die Eiserne Lady“."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "In welchem animierten Disney-Film aus dem Jahr 1994 ist der Song „Der Kreis des Lebens“ zu hören und die Geschichte des jungen Löwen Simba zu verfolgen?",
+      "options": [
+        "Aladdin",
+        "Bambi",
+        "Tarzan",
+        "Der König der Löwen"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Der König der Löwen wurde ursprünglich unter dem Arbeitstitel „König des Dschungels“ entwickelt."
+    },
+    {
+      "category": "Essen & Trinken",
+      "question": "Aus welcher italienischen Region stammt die Pesto-Soße traditionell?",
+      "options": [
+        "Ligurien",
+        "Sizilien",
+        "Toskana",
+        "Kampanien"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Traditionelles Pesto Genovese wird aus zerstoßenem Knoblauch, Basilikum, europäischen Pinienkernen, grobem Salz, Parmigiano-Reggiano und Pecorino hergestellt, vermischt mit Olivenöl."
+    },
+    {
+      "category": "Tiere",
+      "question": "Woraus besteht die Hauptnahrung eines Großen Pandas?",
+      "options": [
+        "Bambus",
+        "Fisch",
+        "Eukalyptusblätter",
+        "Insekten"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Bambus macht bis zu 99 Prozent der Nahrung eines Großen Pandas aus, und er muss täglich bis zu 12 Stunden damit verbringen, ihn zu fressen, um seinen Energiebedarf zu decken."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Punkte werden bei den modernen Olympischen Spielen für den Gewinn einer Goldmedaille im Hinblick auf den Medaillenspiegel vergeben?",
+      "options": [
+        "10 Punkte",
+        "Medaillenspiegel werden primär nach der Anzahl der Goldmedaillen sortiert, unabhängig von der Gesamtzahl",
+        "5 Punkte",
+        "1 Punkt"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Das Internationale Olympische Komitee erkennt offiziell kein globales Ranglistensystem für Länder an, aber Medien sortieren traditionell nach der Anzahl der gewonnenen Goldmedaillen."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie nennt man eine Redewendung, die einen bildhaften, impliziten oder versteckten Vergleich zwischen zwei nicht zusammenhängenden Dingen herstellt, wie etwa „Zeit ist ein Dieb“?",
+      "options": [
+        "Vergleich",
+        "Hyperbel",
+        "Personifikation",
+        "Metapher"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Im Gegensatz zu Vergleichen verwenden Metaphern keine Vergleichswörter wie „wie“."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Planet in unserem Sonnensystem besitzt das auffälligste und komplexeste System aus Planetenringen, die hauptsächlich aus Eisteilchen bestehen?",
+      "options": [
+        "Jupiter",
+        "Uranus",
+        "Neptun",
+        "Saturn"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Die Ringe des Saturn sind extrem breit – sie erstrecken sich über Hunderttausende von Kilometern –, aber sie sind bemerkenswert dünn und an den meisten Stellen oft nur etwa 10 Meter dick."
+    },
+    {
+      "category": "Geografie",
+      "question": "Welche afrikanische Nation hat nach neuesten demografischen Daten die höchste Bevölkerung?",
+      "options": [
+        "Äthiopien",
+        "Ägypten",
+        "Südafrika",
+        "Nigeria"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Nigeria ist nicht nur das bevölkerungsreichste Land Afrikas, sondern es wird prognostiziert, dass es in den kommenden Jahrzehnten auch zu den globalen Bevölkerungsschwerpunkten gehören wird."
+    }
+  ]
+}

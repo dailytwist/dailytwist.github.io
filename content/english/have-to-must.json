@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-26",
+  "slug": "have-to-must",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "📋",
+  "title": "Have To and Must for Obligation",
+  "summary": "Learn how to talk about rules and things you need to do. Discover the small difference between have to and must.",
+  "sections": [
+    {
+      "h": "Using Have To",
+      "p": "We use have to when something is a rule. Another person or a law makes this rule for you. For example, your boss or a school makes the rule. You change the form for he, she, and it to has to. In negative sentences, we use don't have to or doesn't have to.",
+      "ex": [
+        {
+          "en": "I have to work on Monday.",
+          "mean": "My job requires me to work."
+        },
+        {
+          "en": "She has to wear a uniform.",
+          "mean": "Her school requires a uniform."
+        },
+        {
+          "en": "You don't have to pay.",
+          "mean": "It is free."
+        }
+      ]
+    },
+    {
+      "h": "Using Must",
+      "p": "We use must when the speaker thinks something is very important. It often comes from your own feelings, not an outside rule. Must is the same for all pronouns like I, you, he, and she. The negative form is mustn't, which means it is very important that you do not do something.",
+      "ex": [
+        {
+          "en": "I must call my mother today.",
+          "mean": "I really want to do this."
+        },
+        {
+          "en": "You must see this movie!",
+          "mean": "I strongly recommend it."
+        },
+        {
+          "en": "We mustn't be late.",
+          "mean": "It is very important to be on time."
+        }
+      ]
+    },
+    {
+      "h": "Have To vs Must",
+      "p": "Often, native speakers use have to and must in similar ways in everyday life. However, remember that have to often shows a general rule from the outside world. Must often shows a strong personal feeling or a strict rule written on a sign.",
+      "ex": [
+        {
+          "en": "I have to clean my room.",
+          "mean": "My parents want me to do it."
+        },
+        {
+          "en": "I must clean my room.",
+          "mean": "I feel it is very dirty and I want to clean it."
+        }
+      ]
+    },
+    {
+      "h": "Questions with Have To",
+      "p": "We often make questions about rules using have to. We use do and does to ask questions in the present tense. We do not usually use must in questions for everyday rules.",
+      "ex": [
+        {
+          "en": "Do you have to work tomorrow?",
+          "mean": "Is it a work day for you?"
+        },
+        {
+          "en": "What time does she have to leave?",
+          "mean": "When is her required departure time?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "have to",
+      "mean": "external obligation"
+    },
+    {
+      "en": "has to",
+      "mean": "obligation for he/she"
+    },
+    {
+      "en": "don't have to",
+      "mean": "not necessary"
+    },
+    {
+      "en": "must",
+      "mean": "strong obligation"
+    },
+    {
+      "en": "mustn't",
+      "mean": "forbidden"
+    },
+    {
+      "en": "rule",
+      "mean": "law or instruction"
+    },
+    {
+      "en": "uniform",
+      "mean": "special work clothes"
+    }
+  ],
+  "tip": "Remember that mustn't means 'do not do it', but don't have to means 'you have a choice'.",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "I ___ finish this report today. My boss said it is urgent.",
+      "choices": [
+        "have to",
+        "has to",
+        "don't have to"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Tomorrow is Saturday, so I ___ get up early.",
+      "choices": [
+        "must",
+        "don't have to",
+        "mustn't"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "She ___ wear a coat. It is very cold outside.",
+      "choices": [
+        "have to",
+        "has to",
+        "don't have to"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "You ___ touch that wire! It is dangerous.",
+      "choices": [
+        "must",
+        "mustn't",
+        "have to"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "___ you have to work on weekends?",
+      "choices": [
+        "Does",
+        "Do",
+        "Are"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "This food is delicious. You ___ try it!",
+      "choices": [
+        "must",
+        "mustn't",
+        "has to"
+      ],
+      "answer_index": 0
+    }
+  ]
+}
