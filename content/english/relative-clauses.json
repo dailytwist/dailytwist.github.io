@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-27",
+  "slug": "relative-clauses",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🔗",
+  "title": "Connecting Ideas with Relative Clauses",
+  "summary": "In this lesson, you will learn how to connect two ideas into one smooth sentence. We will use who, which, that, and where to give more information about people, things, and places.",
+  "sections": [
+    {
+      "h": "Talking About People: Who and That",
+      "p": "When you want to talk about a person, you can use 'who' or 'that'. They replace words like he, she, or they. This helps you describe someone without starting a new sentence. For example, instead of saying 'She is a teacher. She helps me a lot,' you can say 'She is a teacher who helps me a lot.' Both 'who' and 'that' are correct for people.",
+      "ex": [
+        {
+          "en": "I have a friend who speaks four languages.",
+          "mean": "I know a person, and this person speaks four languages."
+        },
+        {
+          "en": "She is the doctor that cured my cough.",
+          "mean": "She is the specific medical person who made me better."
+        }
+      ]
+    },
+    {
+      "h": "Talking About Things: Which and That",
+      "p": "When you want to talk about objects, animals, or ideas, you use 'which' or 'that'. They tell the listener more about a thing. For example, instead of saying 'I bought a car. It is electric,' you can say 'I bought a car which is electric.' You can use 'that' for things too, which makes conversation very easy and natural.",
+      "ex": [
+        {
+          "en": "This is the phone which I bought yesterday.",
+          "mean": "Here is the mobile device I purchased recently."
+        },
+        {
+          "en": "I love books that have happy endings.",
+          "mean": "I prefer reading stories where everything turns out well."
+        }
+      ]
+    },
+    {
+      "h": "Talking About Places: Where",
+      "p": "When you want to talk about a location, you use the word 'where'. It connects the place to what happens there. For example, instead of saying 'This is the restaurant. We ate dinner there,' you can combine them: 'This is the restaurant where we ate dinner.' It saves time and makes your English sound much more natural and fluent.",
+      "ex": [
+        {
+          "en": "That is the hotel where we stayed last summer.",
+          "mean": "That building is our vacation accommodation from the past."
+        },
+        {
+          "en": "Show me the park where you play football.",
+          "mean": "Point out the outdoor area for your sports game."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "relative clause",
+      "mean": "a descriptive sentence part"
+    },
+    {
+      "en": "connect",
+      "mean": "join together"
+    },
+    {
+      "en": "describe",
+      "mean": "explain what someone is like"
+    },
+    {
+      "en": "location",
+      "mean": "a specific place"
+    },
+    {
+      "en": "smooth",
+      "mean": "natural and flowing"
+    },
+    {
+      "en": "replace",
+      "mean": "take the place of"
+    },
+    {
+      "en": "fluent",
+      "mean": "speaking easily and well"
+    }
+  ],
+  "tip": "Think of relative clauses like a bridge. They connect two short sentences into one long, beautiful sentence!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "She is the artist ___ painted this amazing picture.",
+      "choices": [
+        "which",
+        "who",
+        "where"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "I lost the keys ___ opened the front door.",
+      "choices": [
+        "that",
+        "who",
+        "where"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "This is the cafe ___ we drink coffee every morning.",
+      "choices": [
+        "who",
+        "which",
+        "where"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "He has a dog ___ can do cool tricks.",
+      "choices": [
+        "who",
+        "which",
+        "where"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Is this the town ___ you grew up as a child?",
+      "choices": [
+        "where",
+        "that",
+        "who"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "I met a man ___ works at the airport.",
+      "choices": [
+        "which",
+        "where",
+        "who"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-27",
+  "title": "Quiz de culture générale du jour : 27 octobre 2026",
+  "questions": [
+    {
+      "category": "géographie",
+      "question": "Lequel des pays suivants est entièrement entouré par l'Afrique du Sud ?",
+      "options": [
+        "Eswatini",
+        "Namibia",
+        "Lesotho",
+        "Botswana"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le Lesotho est l'oni des trois seuls pays souverains au monde à être entièrement enclavés dans un autre pays, aux côtés de la Cité du Vatican et de Saint-Marin."
+    },
+    {
+      "category": "science",
+      "question": "Quel est le minéral naturel le plus dur sur l'échelle de Mohs ?",
+      "options": [
+        "Topaz",
+        "Quartz",
+        "Diamond",
+        "Corundum"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le diamant trône au sommet absolu de l'échelle de dureté de Mohs avec une note de 10."
+    },
+    {
+      "category": "histoire",
+      "question": "Dans quel pays actuel se trouvait l'antique cité de Carthage, grande rivale de la République romaine ?",
+      "options": [
+        "Grèce",
+        "Tunisie",
+        "Turquie",
+        "Égypte"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Les ruines de Carthage sont situées juste à côté de Tunis, la capitale tunisienne moderne."
+    },
+    {
+      "category": "cinéma et pop culture",
+      "question": "Quel film d'animation met en scène la cité sous-marine fictive d'Atlantis et est sorti chez Disney en 2001 ?",
+      "options": [
+        "Finding Nemo",
+        "Sinbad: Legend of the Seven Seas",
+        "Lilo & Stitch",
+        "Atlantis: The Lost Empire"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Atlantis : L'Empire perdu se distingue par son style visuel unique inspiré par le dessinateur de bande dessinée Mike Mignola."
+    },
+    {
+      "category": "gastronomie",
+      "question": "L'umami, reconnu comme l'une des cinq saveurs de base, se traduit approximativement du japonais par quoi ?",
+      "options": [
+        "Salé profond",
+        "Amertume riche",
+        "Délicieuse saveur",
+        "Aigre-doux"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le goût umami est principalement déclenché par l'acide glutamique, qui abonde dans les aliments fermentés et affinés."
+    },
+    {
+      "category": "animaux",
+      "question": "Quelle adaptation physique unique les hiboux possèdent-ils en ce qui concerne le mouvement de leurs yeux ?",
+      "options": [
+        "Ils peuvent bouger leurs yeux indépendamment dans toutes les directions.",
+        "Ils ont des paupières transparentes pour voir sous l'eau.",
+        "Ils ne peuvent pas bouger leurs yeux dans leurs orbites et doivent tourner toute leur tête.",
+        "Ils possèdent trois paupières qui clignent verticalement."
+      ],
+      "answer_index": 2,
+      "fun_fact": "Leurs yeux étant en forme de tube plutôt que sphériques, les hiboux peuvent pivoter leur cou jusqu'à 270 degrés pour compenser."
+    },
+    {
+      "category": "sports",
+      "question": "Au football américain, combien de points vaut un safety ?",
+      "options": [
+        "6 points",
+        "1 point",
+        "2 points",
+        "3 points"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un safety est accordé lorsqu'un joueur en possession du ballon est plaqué par l'équipe adverse dans sa propre zone d'but."
+    },
+    {
+      "category": "langue",
+      "question": "Quel terme en linguistique désigne des mots qui se ressemblent dans deux langues et ont le même sens, menant souvent à de fausses pistes s'ils diffèrent par la suite ?",
+      "options": [
+        "Homonymes",
+        "Étymons",
+        "Acronymes",
+        "Cognates"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Les cognates partagent une origine étymologique commune, comme le mot anglais 'night' et le mot allemand 'Nacht'."
+    },
+    {
+      "category": "espace",
+      "question": "Quel vaisseau spatial détient le record de l'objet fabriqué par l'humain le plus éloigné de la Terre ?",
+      "options": [
+        "Voyager 2",
+        "New Horizons",
+        "Voyager 1",
+        "Pioneer 10"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Lancé en 1977, Voyager 1 est entré dans l'espace interstellaire et continue d'envoyer des données vers la Terre."
+    },
+    {
+      "category": "géographie",
+      "question": "Le lac Baïkal, le lac d'eau douce le plus profond et le plus ancien du monde, se trouve dans quel pays ?",
+      "options": [
+        "Kazakhstan",
+        "Canada",
+        "Mongolie",
+        "Russie"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Le lac Baïkal contient environ 20 pour cent de l'eau douce de surface non gelée de la planète."
+    }
+  ]
+}

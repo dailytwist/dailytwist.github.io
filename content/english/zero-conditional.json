@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-27",
+  "slug": "zero-conditional",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "☀️",
+  "title": "Talking About Facts: The Zero Conditional",
+  "summary": "In this lesson, you will learn how to talk about real facts and things that are always true. You will practice using simple grammar to connect a cause with its result.",
+  "sections": [
+    {
+      "h": "What is the Zero Conditional?",
+      "p": "We use the zero conditional to talk about general truths, scientific facts, or things that always happen when you do something. For example, if you heat ice, it melts. Both parts of the sentence use the present simple tense because the result is always true.",
+      "ex": [
+        {
+          "en": "If you mix blue and yellow, you get green.",
+          "mean": "Combining these two colors always creates green."
+        },
+        {
+          "en": "Plants die if they do not get enough water.",
+          "mean": "A lack of water always causes plants to die."
+        }
+      ]
+    },
+    {
+      "h": "How to Build the Sentence",
+      "p": "A zero conditional sentence has two parts: the 'if' clause and the main clause. You can start with 'if' or you can put the main clause first. The meaning stays the same. Notice that when 'if' is in the middle, we do not use a comma.",
+      "ex": [
+        {
+          "en": "If you touch fire, you burn your finger.",
+          "mean": "Touching fire always results in a burn."
+        },
+        {
+          "en": "You burn your finger if you touch fire.",
+          "mean": "The result comes first, but the rule is the same."
+        }
+      ]
+    },
+    {
+      "h": "Using 'When' Instead of 'If'",
+      "p": "In zero conditional sentences, you can often use the word 'when' instead of 'if'. We do this when we are 100 percent sure that the action will happen. It helps your English sound very natural when describing daily routines or natural laws.",
+      "ex": [
+        {
+          "en": "When it rains, the grass gets wet.",
+          "mean": "Every time rain falls, the grass becomes wet."
+        },
+        {
+          "en": "I feel tired when I sleep less than six hours.",
+          "mean": "Not sleeping enough always makes me feel tired."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "zero conditional",
+      "mean": "grammar for real facts"
+    },
+    {
+      "en": "general truth",
+      "mean": "something always true"
+    },
+    {
+      "en": "present simple",
+      "mean": "base verb tense"
+    },
+    {
+      "en": "result",
+      "mean": "what happens next"
+    },
+    {
+      "en": "clause",
+      "mean": "part of a sentence"
+    },
+    {
+      "en": "scientific fact",
+      "mean": "proven nature rule"
+    },
+    {
+      "en": "comma",
+      "mean": "punctuation mark ,"
+    }
+  ],
+  "tip": "Remember that both parts of the sentence use the present simple tense because you are talking about facts, not future possibilities.",
+  "quiz": [
+    {
+      "ask": "Choose the correct word to complete the fact.",
+      "en": "If you heat water to 100 degrees, it ___.",
+      "choices": [
+        "boil",
+        "boils",
+        "boiled",
+        "boiling"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct verb for this scientific truth.",
+      "en": "Ice melts if you ___ it in the sun.",
+      "choices": [
+        "put",
+        "puts",
+        "putting",
+        "will put"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Select the correct word to start this sentence.",
+      "en": "___ you mix red and white, you get pink.",
+      "choices": [
+        "When",
+        "Will",
+        "Did",
+        "Would"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Find the correct result for this condition.",
+      "en": "If my dog sees the mailman, he ___.",
+      "choices": [
+        "bark",
+        "barking",
+        "barks",
+        "barked"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct sentence structure.",
+      "en": "Dogs ___ if they are hungry.",
+      "choices": [
+        "whine",
+        "whines",
+        "whined",
+        "is whine"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Complete the natural fact.",
+      "en": "Plants grow fast if they ___ a lot of sunlight.",
+      "choices": [
+        "gets",
+        "getting",
+        "got",
+        "get"
+      ],
+      "answer_index": 3
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-27",
+  "slug": "second-conditional",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "✨",
+  "title": "Dream Big: The Second Conditional",
+  "summary": "Learn how to talk about imaginary situations in the present or future. Practice using 'if' with the past tense and 'would'.",
+  "sections": [
+    {
+      "h": "When to use it",
+      "p": "We use the second conditional to talk about things that are not real right now. They are just dreams, imaginations, or very unlikely situations. For example, you are not rich today, but you can imagine what you would do if you suddenly won a lot of money.",
+      "ex": [
+        {
+          "en": "If I had a million dollars, I would buy a big house.",
+          "mean": "I do not have a million dollars now, so this is just an imagination."
+        },
+        {
+          "en": "If I lived in Spain, I would speak Spanish every day.",
+          "mean": "I do not live in Spain right now."
+        }
+      ]
+    },
+    {
+      "h": "How to make the sentence",
+      "p": "The sentence has two parts. The first part uses 'if' plus a past tense verb (like had, lived, went). The second part uses 'would' plus the base verb (like buy, speak, go). You can put the 'if' part first or second; the meaning stays the same.",
+      "ex": [
+        {
+          "en": "If I had more time, I would learn the guitar.",
+          "mean": "Past verb 'had' in the first part, 'would learn' in the second part."
+        },
+        {
+          "en": "I would travel the world if I had a magic plane.",
+          "mean": "You can also start with 'would' and put 'if' in the middle."
+        }
+      ]
+    },
+    {
+      "h": "Asking questions",
+      "p": "To ask someone about an imaginary situation, start with 'What would you do if...?'. This is a fantastic way to start fun conversations with friends and learn more about their personality and dreams.",
+      "ex": [
+        {
+          "en": "What would you do if you saw a bear?",
+          "mean": "Asking about an imaginary dangerous situation."
+        },
+        {
+          "en": "Would you change your job if you could?",
+          "mean": "Asking if they want a different job in an imaginary situation."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "imaginary",
+      "mean": "not real"
+    },
+    {
+      "en": "unlikely",
+      "mean": "probably will not happen"
+    },
+    {
+      "en": "past tense",
+      "mean": "verb form for the past"
+    },
+    {
+      "en": "would",
+      "mean": "used for imaginary results"
+    },
+    {
+      "en": "dream",
+      "mean": "imagined wish"
+    },
+    {
+      "en": "situation",
+      "mean": "condition or state"
+    }
+  ],
+  "tip": "Think of the second conditional as your superpower for daydreaming. Always pair 'if + past verb' with 'would + base verb'.",
+  "quiz": [
+    {
+      "ask": "Choose the correct verb for the gap",
+      "en": "If I ___ a car, I would drive to work.",
+      "choices": [
+        "have",
+        "had",
+        "would have"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct verb for the gap",
+      "en": "She would travel more if she ___ more free time.",
+      "choices": [
+        "has",
+        "would have",
+        "had"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct verb for the gap",
+      "en": "What would you do if you ___ the lottery?",
+      "choices": [
+        "win",
+        "won",
+        "would win"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct words for the gap",
+      "en": "If I were you, I ___ take that job.",
+      "choices": [
+        "will",
+        "can",
+        "would"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct sentence",
+      "en": "Which sentence is correct?",
+      "choices": [
+        "If I lived in Paris, I would eat croissants.",
+        "If I live in Paris, I would eat croissants.",
+        "If I would live in Paris, I eat croissants."
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct verb for the gap",
+      "en": "If he spoke English, he ___ get a better job.",
+      "choices": [
+        "will",
+        "would",
+        "can"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

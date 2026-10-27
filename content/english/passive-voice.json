@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-27",
+  "slug": "passive-voice",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🔄",
+  "title": "Focus on the Action: Present and Past Passive",
+  "summary": "Learn how to use the passive voice in the present and past tenses. Discover how to talk about actions when the doer is not important.",
+  "sections": [
+    {
+      "h": "When to Use the Passive",
+      "p": "Sometimes, we care more about the object or the action than the person who does it. For example, if your car is stolen, you care about the car, not the thief. When we make a passive sentence, the object becomes the new subject of the sentence. We use the verb to be plus the third form of the main verb, called the past participle.",
+      "ex": [
+        {
+          "en": "Coffee is grown in Colombia.",
+          "mean": "People grow coffee in Colombia."
+        },
+        {
+          "en": "English is spoken all over the world.",
+          "mean": "People speak English everywhere."
+        }
+      ]
+    },
+    {
+      "h": "Present Passive",
+      "p": "To make the present passive, use am, is, or are plus a past participle. Use this tense to talk about general facts, habits, or things that happen regularly. Think about products you buy or rules at your workplace. The focus is always on what receives the action right now or in general.",
+      "ex": [
+        {
+          "en": "My car is washed every weekend.",
+          "mean": "Someone washes my car every weekend."
+        },
+        {
+          "en": "New employees are trained on Mondays.",
+          "mean": "The company trains new employees on Mondays."
+        }
+      ]
+    },
+    {
+      "h": "Past Passive",
+      "p": "To make the past passive, use was or were plus a past participle. Use this tense to talk about finished actions in the past when the person who did the action is unknown, obvious, or not important. This form is very common in news stories and history.",
+      "ex": [
+        {
+          "en": "The window was broken yesterday.",
+          "mean": "Someone broke the window yesterday."
+        },
+        {
+          "en": "These photos were taken in Paris.",
+          "mean": "Someone took these photos in Paris."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "passive voice",
+      "mean": "grammar form focusing on the object"
+    },
+    {
+      "en": "past participle",
+      "mean": "third form of a verb"
+    },
+    {
+      "en": "is grown",
+      "mean": "present passive for singular items"
+    },
+    {
+      "en": "are made",
+      "mean": "present passive for plural items"
+    },
+    {
+      "en": "was built",
+      "mean": "past passive for singular items"
+    },
+    {
+      "en": "were invited",
+      "mean": "past passive for plural people"
+    }
+  ],
+  "tip": "Always ask yourself: 'Who does the action?' If the answer is not important, use the passive voice with the correct form of the verb to be.",
+  "quiz": [
+    {
+      "ask": "Choose the correct present passive form",
+      "en": "This book ___ in 2020.",
+      "choices": [
+        "is written",
+        "was written",
+        "wrote"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct past passive form",
+      "en": "Many houses ___ by the storm last night.",
+      "choices": [
+        "were damaged",
+        "are damaged",
+        "damaged"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word for the gap",
+      "en": "Spanish ___ in many countries.",
+      "choices": [
+        "is spoken",
+        "speaks",
+        "spoke"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct past passive form",
+      "en": "My phone ___ from my bag at the party.",
+      "choices": [
+        "is stolen",
+        "was stolen",
+        "stole"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct present passive form",
+      "en": "Letters ___ delivered every morning.",
+      "choices": [
+        "is",
+        "was",
+        "are"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct passive sentence",
+      "en": "The cake was ___ by the chef.",
+      "choices": [
+        "bake",
+        "baking",
+        "baked"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

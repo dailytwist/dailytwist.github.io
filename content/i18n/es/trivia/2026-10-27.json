@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-27",
+  "title": "Test de cultura general diaria: 27 de octubre de 2026",
+  "questions": [
+    {
+      "category": "geografía",
+      "question": "¿Cuál de los siguientes países está completamente rodeado por Sudáfrica?",
+      "options": [
+        "Eswatini",
+        "Namibia",
+        "Lesotho",
+        "Botswana"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Lesotho es una de las tres únicas naciones soberanas del mundo en estar completamente enclaveadas por otro país, junto con la Ciudad del Vaticano y San Marino."
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Cuál es el mineral natural más duro en la escala de Mohs?",
+      "options": [
+        "Topacio",
+        "Cuarzo",
+        "Diamante",
+        "Corindón"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El diamante se encuentra en la cima absoluta de la escala de dureza de Mohs con una calificación de 10."
+    },
+    {
+      "category": "historia",
+      "question": "La antigua ciudad de Cartago, una importante rival de la República romana, ¿en qué país actual se encontraba?",
+      "options": [
+        "Grecia",
+        "Túnez",
+        "Turquía",
+        "Egipto"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Las ruinas de Cartago se encuentran justo a las afueras de la capital tunecina moderna, Túnez."
+    },
+    {
+      "category": "cine y cultura pop",
+      "question": "¿Qué película de animación presenta la ficticia ciudad submarina de Atlantis y fue estrenada por Disney en 2001?",
+      "options": [
+        "Buscando a Nemo",
+        "Simbad: La leyenda de los siete mares",
+        "Lilo & Stitch",
+        "Atlantis: El imperio perdido"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Atlantis: El imperio perdido destaca por su estilo visual único inspirado en el artista de cómics Mike Mignola."
+    },
+    {
+      "category": "gastronomía",
+      "question": "El umami, reconocido como uno de los cinco sabores básicos, ¿qué significa aproximadamente si se traduce del japonés?",
+      "options": [
+        "Salinidad profunda",
+        "Amargor intenso",
+        "Delicia sabrosa",
+        "Agriculce"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El sabor umami es desencadenado principalmente por el aminoácido glutamato, que abunda en los alimentos fermentados y curados."
+    },
+    {
+      "category": "animales",
+      "question": "¿Qué adaptación física única poseen los búhos en cuanto al movimiento de sus ojos?",
+      "options": [
+        "Pueden mover los ojos de forma independiente en todas las direcciones.",
+        "Tienen párpados transparentes para la visión subacuática.",
+        "No pueden mover los ojos en sus cuencas y deben girar toda la cabeza.",
+        "Poseen tres párpados que parpadean verticalmente."
+      ],
+      "answer_index": 2,
+      "fun_fact": "Debido a que sus ojos tienen forma de tubo en lugar de ser esféricos, los búhos pueden girar el cuello hasta 270 grados para compensarlo."
+    },
+    {
+      "category": "deportes",
+      "question": "En el fútbol americano, ¿cuántos puntos vale un 'safety' (autogol/medida de seguridad)?",
+      "options": [
+        "6 puntos",
+        "1 punto",
+        "2 puntos",
+        "3 puntos"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un 'safety' ocurre cuando el portador del balón es tacleado por el equipo contrario en su propia zona de anotación."
+    },
+    {
+      "category": "idioma",
+      "question": "¿Qué término se utiliza en lingüística para las palabras que suenan parecido en dos idiomas y tienen el mismo significado, lo que a menudo lleva a falsas suposiciones si difieren?",
+      "options": [
+        "Homónimos",
+        "Etimones",
+        "Acrónimos",
+        "Cognados"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Los cognados comparten un origen etimológico común, como la palabra en inglés 'night' y la palabra en alemán 'Nacht'."
+    },
+    {
+      "category": "espacio",
+      "question": "¿Qué nave espacial ostenta el récord de ser el objeto fabricado por el ser humano más alejado de la Tierra?",
+      "options": [
+        "Voyager 2",
+        "New Horizons",
+        "Voyager 1",
+        "Pioneer 10"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Lanzada en 1977, la Voyager 1 ha entrado en el espacio interestelar y sigue transmitiendo datos de vuelta a la Tierra."
+    },
+    {
+      "category": "geografía",
+      "question": "El lago Baikal, el lago de agua dulce más profundo y antiguo del mundo, ¿en qué país se encuentra?",
+      "options": [
+        "Kazajistán",
+        "Canadá",
+        "Mongolia",
+        "Rusia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "El lago Baikal contiene aproximadamente el 20 por ciento del agua dulce superficial no congelada del mundo."
+    }
+  ]
+}

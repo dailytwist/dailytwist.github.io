@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-27",
+  "slug": "second-conditional",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "✨",
+  "title": "Sueña en grande: El segundo condicional",
+  "summary": "Aprende a hablar de situaciones imaginarias en el presente o en el futuro. Practica el uso de 'if' (si) con el pasado y 'would'.",
+  "sections": [
+    {
+      "h": "Cuándo se usa",
+      "p": "Usamos el segundo condicional para hablar de cosas que no son reales en este momento. Son solo sueños, fantasías o situaciones muy poco probables. Por ejemplo, hoy no eres rico, pero puedes imaginar qué harías si de repente ganaras mucho dinero.",
+      "ex": [
+        {
+          "en": "If I had a million dollars, I would buy a big house.",
+          "mean": "No tengo un millón de dólares ahora, así que esto es solo una imaginación."
+        },
+        {
+          "en": "If I lived in Spain, I would speak Spanish every day.",
+          "mean": "No vivo en España ahora mismo."
+        }
+      ]
+    },
+    {
+      "h": "Cómo armar la oración",
+      "p": "La oración tiene dos partes. La primera parte usa 'if' más un verbo en pasado (como had, lived, went). La segunda parte usa 'would' más el verbo en su forma base (como buy, speak, go). Puedes poner la parte de 'if' al principio o al final; el significado es el mismo.",
+      "ex": [
+        {
+          "en": "If I had more time, I would learn the guitar.",
+          "mean": "Verbo en pasado 'had' en la primera parte, 'would learn' en la segunda parte."
+        },
+        {
+          "en": "I would travel the world if I had a magic plane.",
+          "mean": "También puedes empezar con 'would' y poner 'if' en el medio."
+        }
+      ]
+    },
+    {
+      "h": "Hacer preguntas",
+      "p": "Para preguntarle a alguien sobre una situación imaginaria, empieza con 'What would you do if...?' (¿Qué harías si...?). Esta es una forma fantástica de iniciar charlas divertidas con amigos y conocer más sobre su personalidad y sus sueños.",
+      "ex": [
+        {
+          "en": "What would you do if you saw a bear?",
+          "mean": "Preguntando sobre una situación peligrosa imaginaria."
+        },
+        {
+          "en": "Would you change your job if you could?",
+          "mean": "Preguntando si querrían un trabajo diferente en una situación imaginaria."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "imaginary",
+      "mean": "no real"
+    },
+    {
+      "en": "unlikely",
+      "mean": "probablemente no sucederá"
+    },
+    {
+      "en": "past tense",
+      "mean": "forma verbal para el pasado"
+    },
+    {
+      "en": "would",
+      "mean": "se usa para resultados imaginarios"
+    },
+    {
+      "en": "dream",
+      "mean": "deseo imaginado"
+    },
+    {
+      "en": "situation",
+      "mean": "condición o estado"
+    }
+  ],
+  "tip": "Piensa en el segundo condicional como tu superpoder para soñar despierto. Combina siempre 'if + verbo en pasado' con 'would + verbo base'.",
+  "quiz": [
+    {
+      "ask": "Elige el verbo correcto para completar el espacio",
+      "en": "If I ___ a car, I would drive to work.",
+      "choices": [
+        "have",
+        "had",
+        "would have"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige el verbo correcto para completar el espacio",
+      "en": "She would travel more if she ___ more free time.",
+      "choices": [
+        "has",
+        "would have",
+        "had"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige el verbo correcto para completar el espacio",
+      "en": "What would you do if you ___ the lottery?",
+      "choices": [
+        "win",
+        "won",
+        "would win"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige las palabras correctas para completar el espacio",
+      "en": "If I were you, I ___ take that job.",
+      "choices": [
+        "will",
+        "can",
+        "would"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la oración correcta",
+      "en": "Which sentence is correct?",
+      "choices": [
+        "If I lived in Paris, I would eat croissants.",
+        "If I live in Paris, I would eat croissants.",
+        "If I would live in Paris, I eat croissants."
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige el verbo correcto para completar el espacio",
+      "en": "If he spoke English, he ___ get a better job.",
+      "choices": [
+        "will",
+        "would",
+        "can"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-27",
+  "title": "Tägliches Allgemeinwissen-Quiz: 27. Oktober 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches der folgenden Länder ist vollständig von Südafrika umgeben?",
+      "options": [
+        "Eswatini",
+        "Namibia",
+        "Lesotho",
+        "Botswana"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Lesotho ist neben der Vatikanstadt und San Marino einer von weltweit nur drei souveränen Staaten, die vollständig als Enklave von einem einzigen anderen Land umschlossen sind."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist das härteste von Natur aus vorkommende Mineral auf der Mohs-Skala?",
+      "options": [
+        "Topas",
+        "Quarz",
+        "Diamant",
+        "Korund"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Diamant thront mit einer Bewertung von 10 an der absoluten Spitze der Mohs-Härteskala."
+    },
+    {
+      "category": "Geschichte",
+      "question": "In welchem Land liegt heute die antike Stadt Karthago, die einst eine große Rivalin der Römischen Republik war?",
+      "options": [
+        "Griechenland",
+        "Tunesien",
+        "Türkei",
+        "Ägypten"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Die Ruinen von Karthago befinden sich unweit der modernen tunesischen Hauptstadt Tunis."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "In welchem animierten Film von Disney aus dem Jahr 2001 kommt die fiktive Unterwasserstadt Atlantis vor?",
+      "options": [
+        "Findet Nemo",
+        "Sinbad: Legende der sieben Meere",
+        "Lilo & Stitch",
+        "Atlantis – Das Geheimnis der verlorenen Stadt"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Atlantis – Das Geheimnis der verlorenen Stadt ist bekannt für seinen unverwechselbaren visuellen Stil, der vom Comiczeichner Mike Mignola inspiriert wurde."
+    },
+    {
+      "category": "Essen",
+      "question": "Was bedeutet der Begriff Umami, der als einer der fünf Grundgeschmäcker anerkannt ist, aus dem Japanischen übersetzt in etwa?",
+      "options": [
+        "Tiefe Salzigkeit",
+        "Herbe Bitterkeit",
+        "Würzige Köstlichkeit",
+        "Süßsauer"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Der Geschmack von Umami wird hauptsächlich durch die Aminosäure Glutamat ausgelöst, die in fermentierten und gereiften Lebensmitteln reichlich vorhanden ist."
+    },
+    {
+      "category": "Tiere",
+      "question": "Welche einzigartige körperliche Anpassung besitzen Eulen in Bezug auf die Bewegung ihrer Augen?",
+      "options": [
+        "Sie können ihre Augen unabhängig voneinander in alle Richtungen bewegen.",
+        "Sie haben transparente Augenlider für die Sicht unter Wasser.",
+        "Sie können ihre Augen nicht in den Augenhöhlen bewegen und müssen ihren gesamten Kopf drehen.",
+        "Sie besitzen drei Augenlider, die sich vertikal schließen."
+      ],
+      "answer_index": 2,
+      "fun_fact": "Da ihre Augen röhrenförmig statt kugelförmig sind, können Eulen ihren Hals um bis zu 270 Grad drehen, um dies auszugleichen."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Punkte bringt ein Safety im American Football?",
+      "options": [
+        "6 Punkte",
+        "1 Punkt",
+        "2 Punkte",
+        "3 Punkte"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Ein Safety tritt ein, wenn der ballführende Spieler vom gegnerischen Team in der eigenen Endzone zu Boden gebracht wird."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie nennt man in der Linguistik Wörter, die in zwei Sprachen ähnlich klingen und dieselbe Bedeutung haben, was bei abweichender Nutzung oft zu falschen Annahmen führt?",
+      "options": [
+        "Homonyme",
+        "Etymons",
+        "Akronyme",
+        "Kognate"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Kognate teilen einen gemeinsamen etymologischen Ursprung, wie zum Beispiel das englische Wort 'night' und das deutsche Wort 'Nacht'."
+    },
+    {
+      "category": "Weltall",
+      "question": "Welche Raumsonde hält den Rekord als das am weitesten von der Erde entfernte von Menschen geschaffene Objekt?",
+      "options": [
+        "Voyager 2",
+        "New Horizons",
+        "Voyager 1",
+        "Pioneer 10"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Die 1977 gestartete Voyager 1 hat den interstellaren Raum erreicht und sendet weiterhin Daten zur Erde zurück."
+    },
+    {
+      "category": "Geografie",
+      "question": "In welchem Land befindet sich der Baikalsee, der tiefste und älteste Süßwassersee der Welt?",
+      "options": [
+        "Kasachstan",
+        "Kanada",
+        "Mongolei",
+        "Russland"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Der Baikalsee enthält etwa 20 Prozent des weltweit ungefrorenen Oberflächen-Süßwassers."
+    }
+  ]
+}

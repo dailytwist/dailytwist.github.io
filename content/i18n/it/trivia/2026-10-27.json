@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-27",
+  "title": "Quiz quotidiano di cultura generale: 27 ottobre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Quale dei seguenti paesi è completamente circondato dal Sudafrica?",
+      "options": [
+        "Eswatini",
+        "Namibia",
+        "Lesotho",
+        "Botswana"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il Lesotho è una delle uniche tre nazioni al mondo a essere interamente enclave all'interno di un altro paese, insieme a Città del Vaticano e San Marino."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è il minerale naturale più duro sulla scala di Mohs?",
+      "options": [
+        "Topazio",
+        "Quarzo",
+        "Diamante",
+        "Corindone"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il diamante si trova all'apice assoluto della scala di durezza di Mohs, con un valore di 10."
+    },
+    {
+      "category": "storia",
+      "question": "L'antica città di Cartagine, grande rivale della Repubblica Romana, si trovava nell'odierno territorio di quale paese?",
+      "options": [
+        "Grecia",
+        "Tunisia",
+        "Turchia",
+        "Egitto"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Le rovine di Cartagine si trovano appena fuori dalla capitale tunisina, Tunisi."
+    },
+    {
+      "category": "cinema e pop culture",
+      "question": "Quale film d'animazione presenta la fittizia città sottomarina di Atlantide ed è stato distribuito dalla Disney nel 2001?",
+      "options": [
+        "Alla ricerca di Nemo",
+        "Sinbad - La leggenda dei sette mari",
+        "Lilo & Stitch",
+        "Atlantis - L'impero perduto"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Atlantis - L'impero perduto è noto per il suo stile visivo distintivo, ispirato al fumettista Mike Mignola."
+    },
+    {
+      "category": "cucina",
+      "question": "L'umami, riconosciuto come uno dei cinque gusti fondamentali, cosa significa all'incirca se tradotto dal giapponese?",
+      "options": [
+        "Profonda salinità",
+        "Ricca amarognolosità",
+        "Delizioso sapore sapido",
+        "Agrodolce"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il gusto dell'umami è stimolato principalmente dall'amminoacido glutammato, che abbonda nei cibi fermentati e stagionati."
+    },
+    {
+      "category": "animali",
+      "question": "Quale particolare adattamento fisico possiedono i gufi riguardo al movimento dei loro occhi?",
+      "options": [
+        "Possono muovere gli occhi in modo indipendente in tutte le direzioni.",
+        "Hanno palpebre trasparenti per vedere sott'acqua.",
+        "Non possono muovere gli occhi nelle orbite e devono girare tutta la testa.",
+        "Possiedono tre palpebre che sbattono in verticale."
+      ],
+      "answer_index": 2,
+      "fun_fact": "Poiché i loro occhi sono a forma di tubo anziché sferici, i gufi possono ruotare il collo fino a 270 gradi per compensare."
+    },
+    {
+      "category": "sport",
+      "question": "Nel football americano, quanti punti vale un safety?",
+      "options": [
+        "6 punti",
+        "1 punto",
+        "2 punti",
+        "3 punti"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un safety si verifica quando il giocatore in possesso della palla viene placcato dalla squadra avversaria nella propria end zone."
+    },
+    {
+      "category": "linguistica",
+      "question": "Quale termine viene usato in linguistica per indicare parole che suonano simili in due lingue e hanno lo stesso significato, portando spesso a falsi presupposti se differiscono?",
+      "options": [
+        "Omonimi",
+        "Etimi",
+        "Acronimi",
+        "Cognati"
+      ],
+      "answer_index": 3,
+      "fun_fact": "I cognati condividono un'origine etimologica comune, come la parola inglese 'night' e la parola tedesca 'Nacht'."
+    },
+    {
+      "category": "spazio",
+      "question": "Quale sonda spaziale detiene il record di oggetto realizzato dall'uomo più lontano dalla Terra?",
+      "options": [
+        "Voyager 2",
+        "New Horizons",
+        "Voyager 1",
+        "Pioneer 10"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Lanciata nel 1977, la Voyager 1 è entrata nello spazio interstellare e continua a trasmettere dati verso la Terra."
+    },
+    {
+      "category": "geografia",
+      "question": "Il lago Baikal, il lago d'acqua dolce più profondo e antico del mondo, in quale paese si trova?",
+      "options": [
+        "Kazakistan",
+        "Canada",
+        "Mongolia",
+        "Russia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Il lago Baikal contiene circa il 20% dell'acqua dolce superficiale non congelata del pianeta."
+    }
+  ]
+}

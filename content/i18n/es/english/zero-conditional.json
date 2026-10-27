@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-27",
+  "slug": "zero-conditional",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "☀️",
+  "title": "Hablando de hechos: El condicional cero",
+  "summary": "En esta lección aprenderás a hablar de hechos reales y cosas que siempre son verdad. Practicarás el uso de una gramática sencilla para conectar una causa con su resultado.",
+  "sections": [
+    {
+      "h": "¿Qué es el condicional cero?",
+      "p": "Usamos el condicional cero para hablar de verdades generales, hechos científicos o cosas que siempre ocurren cuando haces algo. Por ejemplo, si calientas hielo, se derrite. Ambas partes de la oración usan el presente simple porque el resultado siempre es verdad.",
+      "ex": [
+        {
+          "en": "If you mix blue and yellow, you get green.",
+          "mean": "Combinar estos dos colores siempre crea verde."
+        },
+        {
+          "en": "Plants die if they do not get enough water.",
+          "mean": "La falta de agua siempre hace que las plantas mueran."
+        }
+      ]
+    },
+    {
+      "h": "Cómo construir la oración",
+      "p": "Una oración condicional cero tiene dos partes: la cláusula 'if' (si) y la cláusula principal. Puedes empezar con 'if' o puedes poner la cláusula principal primero. El significado sigue siendo el mismo. Observa que cuando 'if' está en el medio, no usamos coma.",
+      "ex": [
+        {
+          "en": "If you touch fire, you burn your finger.",
+          "mean": "Tocar el fuego siempre resulta en una quemadura."
+        },
+        {
+          "en": "You burn your finger if you touch fire.",
+          "mean": "El resultado va primero, pero la regla es la misma."
+        }
+      ]
+    },
+    {
+      "h": "Usar 'When' en lugar de 'If'",
+      "p": "En las oraciones condicionales cero, a menudo puedes usar la palabra 'when' (cuando) en lugar de 'if'. Hacemos esto cuando estamos 100 por ciento seguros de que la acción va a ocurrir. Esto ayuda a que tu inglés suene muy natural al describir rutinas diarias o leyes naturales.",
+      "ex": [
+        {
+          "en": "When it rains, the grass gets wet.",
+          "mean": "Cada vez que llueve, la hierba se moja."
+        },
+        {
+          "en": "I feel tired when I sleep less than six hours.",
+          "mean": "No dormir lo suficiente siempre me hace sentir cansado."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "zero conditional",
+      "mean": "gramática para hechos reales"
+    },
+    {
+      "en": "general truth",
+      "mean": "algo que siempre es verdad"
+    },
+    {
+      "en": "present simple",
+      "mean": "tiempo verbal base"
+    },
+    {
+      "en": "result",
+      "mean": "lo que pasa después"
+    },
+    {
+      "en": "clause",
+      "mean": "parte de una oración"
+    },
+    {
+      "en": "scientific fact",
+      "mean": "regla de la naturaleza comprobada"
+    },
+    {
+      "en": "comma",
+      "mean": "signo de puntuación ,"
+    }
+  ],
+  "tip": "Recuerda que ambas partes de la oración usan el presente simple porque estás hablando de hechos, no de posibilidades futuras.",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta para completar el hecho.",
+      "en": "If you heat water to 100 degrees, it ___.",
+      "choices": [
+        "boil",
+        "boils",
+        "boiled",
+        "boiling"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige el verbo correcto para esta verdad científica.",
+      "en": "Ice melts if you ___ it in the sun.",
+      "choices": [
+        "put",
+        "puts",
+        "putting",
+        "will put"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Selecciona la palabra correcta para empezar esta oración.",
+      "en": "___ you mix red and white, you get pink.",
+      "choices": [
+        "When",
+        "Will",
+        "Did",
+        "Would"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Encuentra el resultado correcto para esta condición.",
+      "en": "If my dog sees the mailman, he ___.",
+      "choices": [
+        "bark",
+        "barking",
+        "barks",
+        "barked"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la estructura de oración correcta.",
+      "en": "Dogs ___ if they are hungry.",
+      "choices": [
+        "whine",
+        "whines",
+        "whined",
+        "is whine"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Completa el hecho natural.",
+      "en": "Plants grow fast if they ___ a lot of sunlight.",
+      "choices": [
+        "gets",
+        "getting",
+        "got",
+        "get"
+      ],
+      "answer_index": 3
+    }
+  ]
+}

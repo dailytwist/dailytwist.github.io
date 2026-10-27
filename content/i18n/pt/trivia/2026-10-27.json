@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-27",
+  "title": "Quiz Diário de Conhecimentos Gerais: 27 de outubro de 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Qual dos seguintes países é completamente cercado pela África do Sul?",
+      "options": [
+        "Eswatini",
+        "Namíbia",
+        "Lesoto",
+        "Botswana"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O Lesoto é uma das três únicas nações soberanas do mundo a ser inteiramente enclavada por outro país, ao lado do Vaticano e de São Marino."
+    },
+    {
+      "category": "ciência",
+      "question": "Qual é o mineral natural mais duro na escala de Mohs?",
+      "options": [
+        "Topázio",
+        "Quartzo",
+        "Diamante",
+        "Coríndon"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O diamante está no topo absoluto da escala de dureza de Mohs, com nota 10."
+    },
+    {
+      "category": "história",
+      "question": "A antiga cidade de Cartago, uma grande rival da República Romana, ficava localizada no território do atual:",
+      "options": [
+        "Grécia",
+        "Tunísia",
+        "Turquia",
+        "Egito"
+      ],
+      "answer_index": 1,
+      "fun_fact": "As ruínas de Cartago estão localizadas bem perto da capital da Tunísia, Tunes."
+    },
+    {
+      "category": "filmes e cultura pop",
+      "question": "Qual animação traz a cidade submarina fictícia de Atlântida e foi lançada pela Disney em 2001?",
+      "options": [
+        "Procurando Nemo",
+        "Sinbad: A Lenda dos Sete Mares",
+        "Lilo & Stitch",
+        "Atlantis: O Reino Perdido"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Atlantis: O Reino Perdido é conhecido por seu estilo visual marcante, inspirado no artista de quadrinhos Mike Mignola."
+    },
+    {
+      "category": "culinária",
+      "question": "Umami, reconhecido como um dos cinco gostos básicos, significa aproximadamente o quê em japonês?",
+      "options": [
+        "Salgado profundo",
+        "Amargor rico",
+        "Delícia saborosa",
+        "Doce e azedo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O gosto do umami é desencadeado principalmente pelo aminoácido glutamato, que é abundante em alimentos fermentados e maturados."
+    },
+    {
+      "category": "animais",
+      "question": "Qual adaptação física única as corujas possuem em relação ao movimento de seus olhos?",
+      "options": [
+        "Elas conseguem mover os olhos de forma independente em todas as direções.",
+        "Elas têm pálpebras transparentes para visão subaquática.",
+        "Elas não conseguem mover os olhos nas órbitas e precisam virar a cabeça inteira.",
+        "Elas possuem três pálpebras que piscam na vertical."
+      ],
+      "answer_index": 2,
+      "fun_fact": "Como seus olhos têm formato de tubo em vez de esférico, as corujas conseguem girar o pescoço em até 270 graus para compensar."
+    },
+    {
+      "category": "esportes",
+      "question": "No futebol americano, quantos pontos vale um safety?",
+      "options": [
+        "6 pontos",
+        "1 ponto",
+        "2 pontos",
+        "3 pontos"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Um safety ocorre quando o jogador com a bola é derrubado pela equipe adversária na sua própria zona final (end zone)."
+    },
+    {
+      "category": "idiomas",
+      "question": "Qual termo é usado na linguística para palavras que soam parecidas em dois idiomas e têm o mesmo significado, levando muitas vezes a falsas suposições se diferirem?",
+      "options": [
+        "Homônimos",
+        "Étymons",
+        "Acrônimos",
+        "Cognatos"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Os cognatos compartilham uma origem etimológica comum, como a palavra em inglês 'night' e a palavra em alemão 'Nacht'."
+    },
+    {
+      "category": "espaço",
+      "question": "Qual espaçonave detém o recorde de ser o objeto feito pelo homem mais distante da Terra?",
+      "options": [
+        "Voyager 2",
+        "New Horizons",
+        "Voyager 1",
+        "Pioneer 10"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Lançada em 1977, a Voyager 1 entrou no espaço interestelar e continua transmitindo dados de volta para a Terra."
+    },
+    {
+      "category": "geografia",
+      "question": "O Lago Baikal, o lago de água doce mais profundo e antigo do mundo, fica localizado em qual país?",
+      "options": [
+        "Cazaquistão",
+        "Canadá",
+        "Mongólia",
+        "Rússia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O Lago Baikal contém cerca de 20 por cento da água doce superficial não congelada do mundo."
+    }
+  ]
+}

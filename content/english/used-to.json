@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-27",
+  "slug": "used-to",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🕰️",
+  "title": "Talking About the Past with Used To",
+  "summary": "Learn how to talk about things you did regularly in the past but do not do now. Practice using this grammar to share your childhood stories.",
+  "sections": [
+    {
+      "h": "What is 'used to'?",
+      "p": "We use 'used to' to talk about past habits or things that were true in the past, but have now changed. For example, if you ate chocolate every day as a child, but you never eat it now, you can say 'I used to eat chocolate.' It helps us describe life differences between then and now in a very simple way.",
+      "ex": [
+        {
+          "en": "I used to live in a small town.",
+          "mean": "I lived in a small town in the past, but I live somewhere else now."
+        },
+        {
+          "en": "She used to have long hair.",
+          "mean": "In the past, her hair was long. Now her hair is short."
+        }
+      ]
+    },
+    {
+      "h": "Making negative sentences",
+      "p": "When we want to say that something was not true in the past, we use 'didn't use to'. Notice that 'used' becomes 'use' because of the helper word 'did'. This is a common mistake, so remember: 'didn't use to', not 'didn't used to'. It is great for talking about things you never did as a kid.",
+      "ex": [
+        {
+          "en": "I didn't use to like vegetables.",
+          "mean": "In the past, I disliked vegetables."
+        },
+        {
+          "en": "He didn't use to play video games.",
+          "mean": "In the past, playing video games was not his habit."
+        }
+      ]
+    },
+    {
+      "h": "Asking questions",
+      "p": "To ask about someone's past habits, we start the question with 'Did' and use 'use to'. For example, 'Did you use to play outside?' This is a fun way to start conversations with friends about what life was like when you were both much younger.",
+      "ex": [
+        {
+          "en": "Did you use to have a bicycle?",
+          "mean": "Was it your habit to own a bicycle in the past?"
+        },
+        {
+          "en": "Where did you use to work?",
+          "mean": "What was your regular workplace in the past?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "used to",
+      "mean": "past habits now finished"
+    },
+    {
+      "en": "habit",
+      "mean": "regular routine"
+    },
+    {
+      "en": "childhood",
+      "mean": "when you were young"
+    },
+    {
+      "en": "change",
+      "mean": "become different"
+    },
+    {
+      "en": "didn't use to",
+      "mean": "past negative habit"
+    },
+    {
+      "en": "past",
+      "mean": "before now"
+    },
+    {
+      "en": "now",
+      "mean": "at the present time"
+    }
+  ],
+  "tip": "Think about one thing you did every day ten years ago but never do today. Say it out loud using 'I used to...'.",
+  "quiz": [
+    {
+      "ask": "Choose the correct form for the past habit",
+      "en": "I ___ play tennis every weekend, but I stopped.",
+      "choices": [
+        "use to",
+        "used to",
+        "using to"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct negative form",
+      "en": "She ___ drink coffee, but now she loves it.",
+      "choices": [
+        "didn't use to",
+        "didn't used to",
+        "not use to"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct question form",
+      "en": "___ you use to live in Spain?",
+      "choices": [
+        "Did",
+        "Do",
+        "Were"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word for the gap",
+      "en": "We didn't ___ to have a television.",
+      "choices": [
+        "used",
+        "use",
+        "using"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Identify the meaning of 'I used to walk to school.'",
+      "en": "What does this sentence mean?",
+      "choices": [
+        "I am walking to school right now.",
+        "I walk to school every tomorrow.",
+        "I walked to school regularly in the past."
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the best reply",
+      "en": "Did he use to have a cat? - Yes, he ___.",
+      "choices": [
+        "did",
+        "used",
+        "had"
+      ],
+      "answer_index": 0
+    }
+  ]
+}
