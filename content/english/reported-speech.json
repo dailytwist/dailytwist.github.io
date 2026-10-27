@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-27",
+  "slug": "reported-speech",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🗣️",
+  "title": "Reporting What People Said",
+  "summary": "Learn how to tell someone else what another person said. This is very useful for sharing news and stories.",
+  "sections": [
+    {
+      "h": "What is Reported Speech?",
+      "p": "Sometimes we want to tell a friend what another person said. We call this reported speech. We often use the word 'that' after the verb 'said'. For example, if Anna says 'I am tired', you can tell Mark later: 'Anna said that she is tired.' Notice how the pronouns change from 'I' to 'she' to match the person.",
+      "ex": [
+        {
+          "en": "He said that he likes pizza.",
+          "mean": "He told me earlier: 'I like pizza.'"
+        },
+        {
+          "en": "She said that she is busy today.",
+          "mean": "She told me earlier: 'I am busy today.'"
+        },
+        {
+          "en": "They said that they love this city.",
+          "mean": "They told us earlier: 'We love this city.'"
+        }
+      ]
+    },
+    {
+      "h": "Changing Pronouns",
+      "p": "When you report someone's words, you usually need to change the pronouns. If a man says 'I have a car', you say 'He said that he has a car'. If a woman says 'My dog is big', you say 'She said that her dog is big'. Always think about who is speaking and who you are talking to.",
+      "ex": [
+        {
+          "en": "John said that his phone is broken.",
+          "mean": "John's exact words were: 'My phone is broken.'"
+        },
+        {
+          "en": "Maria said that her brother is a doctor.",
+          "mean": "Maria's exact words were: 'My brother is a doctor.'"
+        }
+      ]
+    },
+    {
+      "h": "Leaving out 'That'",
+      "p": "In spoken English, we often drop the word 'that'. It is completely correct to say 'He said he was tired' without the 'that'. Both ways have the exact same meaning, but dropping 'that' makes your English sound a little more natural and fast when you are chatting with friends.",
+      "ex": [
+        {
+          "en": "She said she wanted a coffee.",
+          "mean": "Same as 'She said that she wanted a coffee.'"
+        },
+        {
+          "en": "Tom said he forgot his keys.",
+          "mean": "Same as 'Tom said that he forgot his keys.'"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "reported speech",
+      "mean": "sharing someone's words"
+    },
+    {
+      "en": "he said that",
+      "mean": "reporting a man's words"
+    },
+    {
+      "en": "she said that",
+      "mean": "reporting a woman's words"
+    },
+    {
+      "en": "pronoun",
+      "mean": "words like he, she, they"
+    },
+    {
+      "en": "exact words",
+      "mean": "what was really said"
+    },
+    {
+      "en": "drop",
+      "mean": "leave out a word"
+    },
+    {
+      "en": "natural",
+      "mean": "how native speakers talk"
+    }
+  ],
+  "tip": "When changing direct speech to reported speech, always check your pronouns. Ask yourself: 'Who is talking now?'",
+  "quiz": [
+    {
+      "ask": "Choose the correct reported speech",
+      "en": "Anna: 'I live in London.' -> Anna said ___ she lives in London.",
+      "choices": [
+        "that",
+        "what",
+        "if",
+        "to"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct pronoun",
+      "en": "Tom: 'I am hungry.' -> Tom said that ___ is hungry.",
+      "choices": [
+        "she",
+        "he",
+        "they",
+        "we"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct verb form",
+      "en": "Maria: 'I like apples.' -> Maria said that she ___ apples.",
+      "choices": [
+        "liked",
+        "like",
+        " liking",
+        "likes"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Choose the correct pronoun",
+      "en": "David: 'My car is red.' -> David said that ___ car is red.",
+      "choices": [
+        "her",
+        "my",
+        "his",
+        "your"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose if you can drop 'that'",
+      "en": "Can we say 'He said he was tired' without 'that'?",
+      "choices": [
+        "No, it is always wrong",
+        "Yes, it is very natural",
+        "Only in writing",
+        "Only with questions"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct reported sentence",
+      "en": "Sophie: 'We are happy.' -> Sophie said that ___ are happy.",
+      "choices": [
+        "he",
+        "she",
+        "they",
+        "I"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

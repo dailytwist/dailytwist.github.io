@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-27",
+  "slug": "reported-speech",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🗣️",
+  "title": "Cómo reportar lo que dijo la gente",
+  "summary": "Aprende a contarle a alguien lo que otra persona dijo. Esto es muy útil para compartir noticias e historias.",
+  "sections": [
+    {
+      "h": "¿Qué es el estilo indirecto?",
+      "p": "A veces queremos contarle a un amigo lo que otra persona dijo. A esto lo llamamos estilo indirecto (reported speech). A menudo usamos la palabra 'que' (that) después del verbo 'dijo'. Por ejemplo, si Anna dice 'Estoy cansada', después puedes decirle a Mark: 'Anna dijo que está cansada'. Fíjate en cómo cambian los pronombres de 'yo' a 'ella' para adaptarse a la persona.",
+      "ex": [
+        {
+          "en": "He said that he likes pizza.",
+          "mean": "Me dijo antes: 'Me gusta la pizza.'"
+        },
+        {
+          "en": "She said that she is busy today.",
+          "mean": "Me dijo antes: 'Estoy ocupada hoy.'"
+        },
+        {
+          "en": "They said that they love this city.",
+          "mean": "Nos dijeron antes: 'Nos encanta esta ciudad.'"
+        }
+      ]
+    },
+    {
+      "h": "Cambiar los pronombres",
+      "p": "Cuando reportas las palabras de alguien, normalmente necesitas cambiar los pronombres. Si un hombre dice 'Tengo un carro', tú dices 'Él dijo que tiene un carro'. Si una mujer dice 'Mi perro es grande', tú dices 'Ella dijo que su perro es grande'. Piensa siempre en quién está hablando y con quién estás hablando.",
+      "ex": [
+        {
+          "en": "John said that his phone is broken.",
+          "mean": "Las palabras exactas de John fueron: 'Mi teléfono está roto.'"
+        },
+        {
+          "en": "Maria said that her brother is a doctor.",
+          "mean": "Las palabras exactas de María fueron: 'Mi hermano es médico.'"
+        }
+      ]
+    },
+    {
+      "h": "Omitir la palabra 'que'",
+      "p": "En el inglés hablado, a menudo omitimos la palabra 'that'. Es totalmente correcto decir 'He said he was tired' sin el 'that'. Ambas formas tienen exactamente el mismo significado, pero omitir 'that' hace que tu inglés suene un poco más natural y fluido cuando charlas con amigos.",
+      "ex": [
+        {
+          "en": "She said she wanted a coffee.",
+          "mean": "Igual que 'She said that she wanted a coffee.'"
+        },
+        {
+          "en": "Tom said he forgot his keys.",
+          "mean": "Igual que 'Tom said that he forgot his keys.'"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "reported speech",
+      "mean": "compartir las palabras de alguien"
+    },
+    {
+      "en": "he said that",
+      "mean": "reportar las palabras de un hombre"
+    },
+    {
+      "en": "she said that",
+      "mean": "reportar las palabras de una mujer"
+    },
+    {
+      "en": "pronoun",
+      "mean": "pronombres como él, ella, ellos"
+    },
+    {
+      "en": "exact words",
+      "mean": "lo que se dijo realmente"
+    },
+    {
+      "en": "drop",
+      "mean": "omitir una palabra"
+    },
+    {
+      "en": "natural",
+      "mean": "cómo hablan los hablantes nativos"
+    }
+  ],
+  "tip": "Cuando cambies el discurso directo al estilo indirecto, revisa siempre tus pronombres. Pregúntate: '¿Quién está hablando ahora?'",
+  "quiz": [
+    {
+      "ask": "Elige el estilo indirecto correcto",
+      "en": "Anna: 'I live in London.' -> Anna said ___ she lives in London.",
+      "choices": [
+        "that",
+        "what",
+        "if",
+        "to"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige el pronombre correcto",
+      "en": "Tom: 'I am hungry.' -> Tom said that ___ is hungry.",
+      "choices": [
+        "she",
+        "he",
+        "they",
+        "we"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la forma verbal correcta",
+      "en": "Maria: 'I like apples.' -> Maria said that she ___ apples.",
+      "choices": [
+        "liked",
+        "like",
+        " liking",
+        "likes"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Elige el pronombre correcto",
+      "en": "David: 'My car is red.' -> David said that ___ car is red.",
+      "choices": [
+        "her",
+        "my",
+        "his",
+        "your"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige si puedes omitir 'that'",
+      "en": "Can we say 'He said he was tired' without 'that'?",
+      "choices": [
+        "No, it is always wrong",
+        "Yes, it is very natural",
+        "Only in writing",
+        "Only with questions"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la oración reportada correcta",
+      "en": "Sophie: 'We are happy.' -> Sophie said that ___ are happy.",
+      "choices": [
+        "he",
+        "she",
+        "they",
+        "I"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

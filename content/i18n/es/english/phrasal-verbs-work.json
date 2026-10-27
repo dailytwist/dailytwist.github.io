@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-27",
+  "slug": "phrasal-verbs-work",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "💼",
+  "title": "Phrasal verbs útiles para el trabajo",
+  "summary": "Aprende tres phrasal verbs comunes para hablar de las tareas diarias en la oficina. Amplía tu vocabulario en inglés profesional fácilmente.",
+  "sections": [
+    {
+      "h": "Set up",
+      "p": "Cuando pones en marcha algo nuevo, como una reunión, una sala o un sistema informático, lo montas o configuras (\"set up\"). Significa preparar u organizar todo para que esté listo para usar.",
+      "ex": [
+        {
+          "en": "Can you please set up the projector for the meeting?",
+          "mean": "Por favor, prepara el proyector."
+        },
+        {
+          "en": "I need to set up a new email account for our new colleague.",
+          "mean": "Necesito crear y redactar un nuevo correo electrónico."
+        }
+      ]
+    },
+    {
+      "h": "Carry out",
+      "p": "Llevar a cabo (\"carry out\") significa realizar una tarea, plan o estudio desde el principio hasta el final. A menudo lo usamos para investigaciones, pruebas o instrucciones.",
+      "ex": [
+        {
+          "en": "The team will carry out a survey to check customer happiness.",
+          "mean": "El equipo realizará una encuesta."
+        },
+        {
+          "en": "She always carries out her manager's instructions quickly.",
+          "mean": "Ella siempre hace lo que le pide su jefe."
+        }
+      ]
+    },
+    {
+      "h": "Follow up",
+      "p": "Hacer un seguimiento (\"follow up\") significa volver a contactar con alguien o realizar una acción adicional tras una primera reunión o mensaje. Demuestra que eres activo y estás interesado.",
+      "ex": []
+    }
+  ],
+  "words": [
+    {
+      "en": "set up",
+      "mean": "preparar u organizar"
+    },
+    {
+      "en": "carry out",
+      "mean": "completar una tarea"
+    },
+    {
+      "en": "follow up",
+      "mean": "contactar de nuevo"
+    },
+    {
+      "en": "projector",
+      "mean": "máquina de presentaciones"
+    },
+    {
+      "en": "survey",
+      "mean": "preguntas para investigación"
+    },
+    {
+      "en": "client",
+      "mean": "cliente comercial"
+    },
+    {
+      "en": "colleague",
+      "mean": "compañero de trabajo"
+    }
+  ],
+  "tip": "Intenta asociar cada phrasal verb con una tarea real que hagas en el trabajo cada semana. Escribir tus propias frases ayuda a que tu cerebro las recuerde más rápido.",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "We need to ___ a meeting room for our guests tomorrow morning.",
+      "choices": [
+        "carry out",
+        "set up",
+        "follow up"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "The technicians will ___ repairs on the office printer this afternoon.",
+      "choices": [
+        "carry out",
+        "set up",
+        "follow up"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "Please ___ with the supplier to see if the goods have been shipped.",
+      "choices": [
+        "set up",
+        "carry out",
+        "follow up"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "It takes twenty minutes to ___ the computer before the presentation starts.",
+      "choices": [
+        "follow up",
+        "set up",
+        "carry out"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "The researchers plan to ___ interviews with fifty different employees.",
+      "choices": [
+        "follow up",
+        "set up",
+        "carry out"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "After sending the proposal, I will ___ with a phone call next week.",
+      "choices": [
+        "follow up",
+        "carry out",
+        "set up"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

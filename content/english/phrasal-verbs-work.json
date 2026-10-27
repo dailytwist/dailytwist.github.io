@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-27",
+  "slug": "phrasal-verbs-work",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "💼",
+  "title": "Useful Phrasal Verbs for Work",
+  "summary": "Learn three common phrasal verbs to talk about daily office tasks. Boost your professional English vocabulary easily.",
+  "sections": [
+    {
+      "h": "Set up",
+      "p": "When you start something new, like a meeting, a room, or a computer system, you set it up. It means to prepare or arrange everything so it is ready to use.",
+      "ex": [
+        {
+          "en": "Can you please set up the projector for the meeting?",
+          "mean": "Please prepare the projector."
+        },
+        {
+          "en": "I need to set up a new email account for our new colleague.",
+          "mean": "I need to create and prepare a new email."
+        }
+      ]
+    },
+    {
+      "h": "Carry out",
+      "p": "To carry out means to do a task, plan, or study from the beginning to the end. We often use it for research, tests, or instructions.",
+      "ex": [
+        {
+          "en": "The team will carry out a survey to check customer happiness.",
+          "mean": "The team will do a survey."
+        },
+        {
+          "en": "She always carries out her manager's instructions quickly.",
+          "mean": "She always does what her manager asks."
+        }
+      ]
+    },
+    {
+      "h": "Follow up",
+      "p": "To follow up means to contact someone again, or to do more action after a first meeting or message. It shows you are active and interested.",
+      "ex": []
+    }
+  ],
+  "words": [
+    {
+      "en": "set up",
+      "mean": "prepare or arrange"
+    },
+    {
+      "en": "carry out",
+      "mean": "complete a task"
+    },
+    {
+      "en": "follow up",
+      "mean": "contact again"
+    },
+    {
+      "en": "projector",
+      "mean": "presentation machine"
+    },
+    {
+      "en": "survey",
+      "mean": "questions for research"
+    },
+    {
+      "en": "client",
+      "mean": "business customer"
+    },
+    {
+      "en": "colleague",
+      "mean": "work partner"
+    }
+  ],
+  "tip": "Try to link each phrasal verb to a real task you do at work every week. Writing your own sentences helps your brain remember them faster.",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "We need to ___ a meeting room for our guests tomorrow morning.",
+      "choices": [
+        "carry out",
+        "set up",
+        "follow up"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "The technicians will ___ repairs on the office printer this afternoon.",
+      "choices": [
+        "carry out",
+        "set up",
+        "follow up"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Please ___ with the supplier to see if the goods have been shipped.",
+      "choices": [
+        "set up",
+        "carry out",
+        "follow up"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "It takes twenty minutes to ___ the computer before the presentation starts.",
+      "choices": [
+        "follow up",
+        "set up",
+        "carry out"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "The researchers plan to ___ interviews with fifty different employees.",
+      "choices": [
+        "follow up",
+        "set up",
+        "carry out"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "After sending the proposal, I will ___ with a phone call next week.",
+      "choices": [
+        "follow up",
+        "carry out",
+        "set up"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

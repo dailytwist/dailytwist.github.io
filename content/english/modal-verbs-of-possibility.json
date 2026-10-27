@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-27",
+  "slug": "modal-verbs-of-possibility",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🔮",
+  "title": "Guessing and Knowing: Might, May, Could, Must, Can't",
+  "summary": "In this lesson, you will learn how to use special verbs to talk about how sure you are about something. These words help you guess if things are true now or in the future.",
+  "sections": [
+    {
+      "h": "Sure it is true: Must",
+      "p": "We use 'must' when we are almost 100 percent sure that something is true. We have a very good reason for our idea. For example, if someone walks in from the heavy rain with a wet coat, we know they got wet outside.",
+      "ex": [
+        {
+          "en": "She must be tired after working for ten hours.",
+          "mean": "I am almost sure she is tired because of her long workday."
+        },
+        {
+          "en": "Your keys must be in your bag.",
+          "mean": "I am very sure your keys are inside your bag based on where you left them."
+        }
+      ]
+    },
+    {
+      "h": "Maybe true: Might, May, Could",
+      "p": "We use 'might', 'may', and 'could' when we think something is possible, but we are not sure. It is a fifty-fifty chance. Maybe it will happen, and maybe it will not. There is no big difference between 'might' and 'may', but 'could' sometimes feels a little less sure.",
+      "ex": [
+        {
+          "en": "I might go to the party, but I haven't decided yet.",
+          "mean": "It is possible that I will go, but I am not certain."
+        },
+        {
+          "en": "Take an umbrella because it may rain later.",
+          "mean": "There is a chance of rain today."
+        },
+        {
+          "en": "We could visit Italy for our next holiday.",
+          "mean": "Visiting Italy is one possible plan for our holiday."
+        }
+      ]
+    },
+    {
+      "h": "Sure it is NOT true: Can't",
+      "p": "We use 'can't' when we are almost 100 percent sure that something is impossible. The facts do not match the idea. For example, if a person just ate a huge meal, they are not hungry now.",
+      "ex": [
+        {
+          "en": "That can't be true! You are joking.",
+          "mean": "I am almost sure that is false because it sounds impossible."
+        },
+        {
+          "en": "He can't be hungry; he just ate two big pizzas.",
+          "mean": "It is impossible for him to be hungry right now."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "possibility",
+      "mean": "something that might happen"
+    },
+    {
+      "en": "certain",
+      "mean": "completely sure"
+    },
+    {
+      "en": "impossible",
+      "mean": "cannot be true"
+    },
+    {
+      "en": "guess",
+      "mean": "an idea without full proof"
+    },
+    {
+      "en": "fact",
+      "mean": "true information"
+    },
+    {
+      "en": "sure",
+      "mean": "confident"
+    },
+    {
+      "en": "maybe",
+      "mean": "perhaps"
+    }
+  ],
+  "tip": "Think of these words like a ladder of certainty. 'Must' is at the top (sure yes), 'might', 'may', and 'could' are in the middle (maybe), and 'can't' is at the bottom (sure no).",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "Look at the dark clouds! It ___ rain this afternoon.",
+      "choices": [
+        "must",
+        "might",
+        "can't"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "He has lived in Spain for ten years. He ___ speak some Spanish.",
+      "choices": [
+        "must",
+        "can't",
+        "might not"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "That phone is only five dollars? It ___ be real, it is too cheap!",
+      "choices": [
+        "must",
+        "could",
+        "can't"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "I am not sure what to do tonight. I ___ stay at home and watch a movie.",
+      "choices": [
+        "could",
+        "must",
+        "can't"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "She isn't answering her phone. She ___ be busy at work.",
+      "choices": [
+        "can't",
+        "may",
+        "must not"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "They just ate breakfast an hour ago. They ___ be hungry again already.",
+      "choices": [
+        "must",
+        "might",
+        "can't"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-27",
+  "slug": "phrasal-verbs-everyday",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "🚀",
+  "title": "15 phrasal verbs de uso cotidiano",
+  "summary": "Aprende 15 phrasal verbs comunes que los nativos usan todos los días. Mejora tu expresión oral en inglés con ejemplos sencillos.",
+  "sections": [
+    {
+      "h": "Rutinas matutinas",
+      "p": "Los phrasal verbs combinan un verbo con una partícula como up o out. Cambian por completo el significado del verbo principal. Al empezar el día, necesitas levantarte de la cama, dejar de dormir y vestirte. Estas acciones cotidianas usan phrasal verbs sencillos que escucharás todo el tiempo en conversaciones informales.",
+      "ex": [
+        {
+          "en": "I usually get up at seven o'clock in the morning.",
+          "mean": "Salir de la cama después de dormir"
+        },
+        {
+          "en": "Please wake up, it is time for breakfast.",
+          "mean": "Dejar de dormir y abrir los ojos"
+        },
+        {
+          "en": "Hurry up and put on your jacket!",
+          "mean": "Vestirse rápidamente"
+        }
+      ]
+    },
+    {
+      "h": "Encontrar y dar",
+      "p": "Cuando pierdes algo por la casa, tienes que buscarlo hasta dar con ello. A veces las tareas son demasiado difíciles y la gente quiere tirar la toalla. Sin embargo, ¡es importante seguir adelante y no rendirse jamás! Aprender estas útiles expresiones te ayudará a hablar sobre problemas cotidianos y éxitos.",
+      "ex": [
+        {
+          "en": "I am looking for my keys in the living room.",
+          "mean": "Buscar algo que has perdido"
+        },
+        {
+          "en": "Never give up when learning a new language.",
+          "mean": "Dejar de intentar algo porque es difícil"
+        },
+        {
+          "en": "Please turn off the lights before you leave.",
+          "mean": "Apagar una máquina o una luz"
+        }
+      ]
+    },
+    {
+      "h": "Casa y amigos",
+      "p": "A menudo usamos phrasal verbs al hablar de nuestros hogares y vida social. Puede que necesites cuidar de una mascota, apuntar un número de teléfono o tirar papel viejo a la papelera. Estas expresiones naturales hacen que tu inglés suene mucho más fluido y nativo.",
+      "ex": [
+        {
+          "en": "Can you look after my cat this weekend?",
+          "mean": "Cuidar de alguien o algo"
+        },
+        {
+          "en": "Write down your new address on this paper.",
+          "mean": "Anotar información con boli"
+        },
+        {
+          "en": "Throw away that old box in the kitchen.",
+          "mean": "Tirar basura a la papelera"
+        }
+      ]
+    },
+    {
+      "h": "Encuentros y revisiones",
+      "p": "Por último, veamos los verbos para eventos sociales e información. Puede que te encuentres con un viejo amigo en el súper por sorpresa, o que rellenes un formulario con tus datos personales. Conocer estos últimos phrasal verbs completa tu vocabulario diario básico.",
+      "ex": [
+        {
+          "en": "I ran into my teacher at the shop yesterday.",
+          "mean": "Encontrarse con alguien por casualidad"
+        },
+        {
+          "en": "Please fill out this form with your name.",
+          "mean": "Completar un documento con información"
+        },
+        {
+          "en": "Turn on the TV to watch the news.",
+          "mean": "Encender una máquina o una luz"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "get up",
+      "mean": "levantarse de la cama"
+    },
+    {
+      "en": "wake up",
+      "mean": "despertarse"
+    },
+    {
+      "en": "put on",
+      "mean": "ponerse ropa"
+    },
+    {
+      "en": "look for",
+      "mean": "buscar"
+    },
+    {
+      "en": "give up",
+      "mean": "rendirse"
+    },
+    {
+      "en": "turn off",
+      "mean": "apagar un aparato"
+    },
+    {
+      "en": "look after",
+      "mean": "cuidar de"
+    },
+    {
+      "en": "write down",
+      "mean": "apuntar en papel"
+    },
+    {
+      "en": "throw away",
+      "mean": "tirar a la basura"
+    },
+    {
+      "en": "run into",
+      "mean": "encontrarse por casualidad"
+    }
+  ],
+  "tip": "No los memorices como palabras aisladas. Aprende cada phrasal verb con una frase real sobre tu propia rutina diaria.",
+  "quiz": [
+    {
+      "ask": "Elige el phrasal verb correcto",
+      "en": "I need to ___ my keys because I cannot find them anywhere.",
+      "choices": [
+        "look for",
+        "give up",
+        "get up"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige el phrasal verb correcto",
+      "en": "Please ___ your warm coat because it is very cold outside.",
+      "choices": [
+        "turn off",
+        "put on",
+        "throw away"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige el phrasal verb correcto",
+      "en": "Do not ___! You can learn English if you practice every day.",
+      "choices": [
+        "look after",
+        "wake up",
+        "give up"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige el phrasal verb correcto",
+      "en": "Can you ___ the lights when you leave the room?",
+      "choices": [
+        "turn off",
+        "run into",
+        "write down"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige el phrasal verb correcto",
+      "en": "I want to ___ my dog while I am at work.",
+      "choices": [
+        "fill out",
+        "look after",
+        "get up"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige el phrasal verb correcto",
+      "en": "Please ___ this information on a piece of paper.",
+      "choices": [
+        "throw away",
+        "put on",
+        "write down"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

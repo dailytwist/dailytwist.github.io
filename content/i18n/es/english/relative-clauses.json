@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-27",
+  "slug": "relative-clauses",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🔗",
+  "title": "Conectando ideas con oraciones de relativo",
+  "summary": "En esta lección aprenderás a unir dos ideas en una sola oración fluida. Usaremos who, which, that y where para dar más información sobre personas, cosas y lugares.",
+  "sections": [
+    {
+      "h": "Hablando de personas: Who y That",
+      "p": "Cuando quieras hablar de una persona, puedes usar 'who' o 'that'. Estas palabras reemplazan a pronombres como he, she o they. Esto te ayuda a describir a alguien sin tener que empezar una oración nueva. Por ejemplo, en vez de decir 'She is a teacher. She helps me a lot', puedes decir 'She is a teacher who helps me a lot'. Tanto 'who' como 'that' son correctos para referirse a personas.",
+      "ex": [
+        {
+          "en": "I have a friend who speaks four languages.",
+          "mean": "I know a person, and this person speaks four languages."
+        },
+        {
+          "en": "She is the doctor that cured my cough.",
+          "mean": "She is the specific medical person who made me better."
+        }
+      ]
+    },
+    {
+      "h": "Hablando de cosas: Which y That",
+      "p": "Cuando quieras hablar de objetos, animales o ideas, usas 'which' o 'that'. Estas palabras le dan al oyente más información sobre algo. Por ejemplo, en vez de decir 'I bought a car. It is electric', puedes decir 'I bought a car which is electric'. También puedes usar 'that' para las cosas, lo que hace que la conversación sea muy fácil y natural.",
+      "ex": [
+        {
+          "en": "This is the phone which I bought yesterday.",
+          "mean": "Here is the mobile device I purchased recently."
+        },
+        {
+          "en": "I love books that have happy endings.",
+          "mean": "I prefer reading stories where everything turns out well."
+        }
+      ]
+    },
+    {
+      "h": "Hablando de lugares: Where",
+      "p": "Cuando quieras hablar de una ubicación, usas la palabra 'where'. Esta conecta el lugar con lo que sucede allí. Por ejemplo, en vez de decir 'This is the restaurant. We ate dinner there', puedes combinarlas: 'This is the restaurant where we ate dinner'. Ahorra tiempo y hace que tu inglés suene mucho más natural y fluido.",
+      "ex": [
+        {
+          "en": "That is the hotel where we stayed last summer.",
+          "mean": "That building is our vacation accommodation from the past."
+        },
+        {
+          "en": "Show me the park where you play football.",
+          "mean": "Point out the outdoor area for your sports game."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "relative clause",
+      "mean": "una parte descriptiva de la oración"
+    },
+    {
+      "en": "connect",
+      "mean": "unir"
+    },
+    {
+      "en": "describe",
+      "mean": "explicar cómo es alguien"
+    },
+    {
+      "en": "location",
+      "mean": "un lugar específico"
+    },
+    {
+      "en": "smooth",
+      "mean": "natural y fluido"
+    },
+    {
+      "en": "replace",
+      "mean": "reemplazar"
+    },
+    {
+      "en": "fluent",
+      "mean": "hablar con facilidad y fluidez"
+    }
+  ],
+  "tip": "¡Piensa en las oraciones de relativo como si fueran un puente! Conectan dos oraciones cortas para formar una sola oración larga y genial.",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "She is the artist ___ painted this amazing picture.",
+      "choices": [
+        "which",
+        "who",
+        "where"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "I lost the keys ___ opened the front door.",
+      "choices": [
+        "that",
+        "who",
+        "where"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "This is the cafe ___ we drink coffee every morning.",
+      "choices": [
+        "who",
+        "which",
+        "where"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "He has a dog ___ can do cool tricks.",
+      "choices": [
+        "who",
+        "which",
+        "where"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "Is this the town ___ you grew up as a child?",
+      "choices": [
+        "where",
+        "that",
+        "who"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "I met a man ___ works at the airport.",
+      "choices": [
+        "which",
+        "where",
+        "who"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

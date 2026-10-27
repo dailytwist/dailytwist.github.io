@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-27",
+  "slug": "modal-verbs-of-possibility",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🔮",
+  "title": "Adivinar y saber: Might, May, Could, Must, Can't",
+  "summary": "En esta lección, aprenderás a usar verbos especiales para expresar qué tan seguro estás de algo. Estas palabras te ayudan a deducir si las cosas son verdad ahora o en el futuro.",
+  "sections": [
+    {
+      "h": "Seguro que es verdad: Must",
+      "p": "Usamos 'must' cuando estamos casi 100 por ciento seguros de que algo es verdad. Tenemos una razón muy sólida para pensarlo. Por ejemplo, si alguien entra bajo un aguacero con el abrigo mojado, sabemos que se mojó afuera.",
+      "ex": [
+        {
+          "en": "She must be tired after working for ten hours.",
+          "mean": "Estoy casi seguro de que ella está cansada debido a su larga jornada laboral."
+        },
+        {
+          "en": "Your keys must be in your bag.",
+          "mean": "Estoy muy seguro de que tus llaves están dentro de tu bolso basándome en dónde las dejaste."
+        }
+      ]
+    },
+    {
+      "h": "Tal vez sea verdad: Might, May, Could",
+      "p": "Usamos 'might', 'may' y 'could' cuando creemos que algo es posible, pero no estamos seguros. Hay un cincuenta por ciento de probabilidad. Tal vez suceda y tal vez no. No hay una gran diferencia entre 'might' y 'may', pero 'could' a veces transmite un poco menos de seguridad.",
+      "ex": [
+        {
+          "en": "I might go to the party, but I haven't decided yet.",
+          "mean": "Es posible que vaya, pero no estoy seguro."
+        },
+        {
+          "en": "Take an umbrella because it may rain later.",
+          "mean": "Hay posibilidad de lluvia hoy."
+        },
+        {
+          "en": "We could visit Italy for our next holiday.",
+          "mean": "Visitar Italia es un plan posible para nuestras vacaciones."
+        }
+      ]
+    },
+    {
+      "h": "Seguro que NO es verdad: Can't",
+      "p": "Usamos 'can't' cuando estamos casi 100 por ciento seguros de que algo es imposible. Los hechos no coinciden con la idea. Por ejemplo, si una persona acaba de comer muchísimo, no tiene hambre ahora.",
+      "ex": [
+        {
+          "en": "That can't be true! You are joking.",
+          "mean": "Estoy casi seguro de que eso es falso porque suena imposible."
+        },
+        {
+          "en": "He can't be hungry; he just ate two big pizzas.",
+          "mean": "Es imposible que él tenga hambre ahora mismo."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "possibility",
+      "mean": "algo que podría suceder"
+    },
+    {
+      "en": "certain",
+      "mean": "completamente seguro"
+    },
+    {
+      "en": "impossible",
+      "mean": "no puede ser verdad"
+    },
+    {
+      "en": "guess",
+      "mean": "una idea sin pruebas definitivas"
+    },
+    {
+      "en": "fact",
+      "mean": "información verdadera"
+    },
+    {
+      "en": "sure",
+      "mean": "confiado"
+    },
+    {
+      "en": "maybe",
+      "mean": "quizás"
+    }
+  ],
+  "tip": "Piensa en estas palabras como en una escalera de certeza. 'Must' está en la cima (seguro que sí), 'might', 'may' y 'could' están en el medio (tal vez), y 'can't' está en el fondo (seguro que no).",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "Look at the dark clouds! It ___ rain this afternoon.",
+      "choices": [
+        "must",
+        "might",
+        "can't"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "He has lived in Spain for ten years. He ___ speak some Spanish.",
+      "choices": [
+        "must",
+        "can't",
+        "might not"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "That phone is only five dollars? It ___ be real, it is too cheap!",
+      "choices": [
+        "must",
+        "could",
+        "can't"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "I am not sure what to do tonight. I ___ stay at home and watch a movie.",
+      "choices": [
+        "could",
+        "must",
+        "can't"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "She isn't answering her phone. She ___ be busy at work.",
+      "choices": [
+        "can't",
+        "may",
+        "must not"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "They just ate breakfast an hour ago. They ___ be hungry again already.",
+      "choices": [
+        "must",
+        "might",
+        "can't"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

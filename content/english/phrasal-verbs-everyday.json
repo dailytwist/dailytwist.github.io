@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-27",
+  "slug": "phrasal-verbs-everyday",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "🚀",
+  "title": "15 Everyday Phrasal Verbs",
+  "summary": "Learn 15 common phrasal verbs that native speakers use every day. Boost your English speaking skills with simple examples.",
+  "sections": [
+    {
+      "h": "Morning Routines",
+      "p": "Phrasal verbs combine a verb and a small word like up or out. They change the meaning of the main verb completely. When you start your day, you need to leave your bed, stop sleeping, and put on your clothes. These everyday actions use simple phrasal verbs that you will hear all the time in friendly conversations.",
+      "ex": [
+        {
+          "en": "I usually get up at seven o'clock in the morning.",
+          "mean": "Leave your bed after sleeping"
+        },
+        {
+          "en": "Please wake up, it is time for breakfast.",
+          "mean": "Stop sleeping and open your eyes"
+        },
+        {
+          "en": "Hurry up and put on your jacket!",
+          "mean": "Dress yourself quickly"
+        }
+      ]
+    },
+    {
+      "h": "Finding and Giving",
+      "p": "When you lose something around the house, you need to search for it until you locate it. Sometimes tasks are too difficult, and people want to stop trying. However, it is important to keep going and never quit! Learning these useful phrases will help you talk about everyday problems and success.",
+      "ex": [
+        {
+          "en": "I am looking for my keys in the living room.",
+          "mean": "Search for something you lost"
+        },
+        {
+          "en": "Never give up when learning a new language.",
+          "mean": "Stop trying because something is hard"
+        },
+        {
+          "en": "Please turn off the lights before you leave.",
+          "mean": "Stop a machine or light from working"
+        }
+      ]
+    },
+    {
+      "h": "Home and Friends",
+      "p": "We often use phrasal verbs when talking about our homes and social lives. You might need to take care of a pet, write down a phone number, or throw away old paper in the bin. These natural expressions make your English sound much more polite and native.",
+      "ex": [
+        {
+          "en": "Can you look after my cat this weekend?",
+          "mean": "Take care of someone or something"
+        },
+        {
+          "en": "Write down your new address on this paper.",
+          "mean": "Record information with a pen"
+        },
+        {
+          "en": "Throw away that old box in the kitchen.",
+          "mean": "Put rubbish in the bin"
+        }
+      ]
+    },
+    {
+      "h": "Meeting and Checking",
+      "p": "Finally, let us look at verbs for social events and information. You might bump into an old friend at the supermarket by surprise, or fill out a form with your personal details. Knowing these final phrasal verbs completes your basic daily vocabulary.",
+      "ex": [
+        {
+          "en": "I ran into my teacher at the shop yesterday.",
+          "mean": "Meet someone by chance"
+        },
+        {
+          "en": "Please fill out this form with your name.",
+          "mean": "Complete a document with information"
+        },
+        {
+          "en": "Turn on the TV to watch the news.",
+          "mean": "Start a machine or light"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "get up",
+      "mean": "leave bed"
+    },
+    {
+      "en": "wake up",
+      "mean": "stop sleeping"
+    },
+    {
+      "en": "put on",
+      "mean": "dress in"
+    },
+    {
+      "en": "look for",
+      "mean": "search for"
+    },
+    {
+      "en": "give up",
+      "mean": "stop trying"
+    },
+    {
+      "en": "turn off",
+      "mean": "stop a device"
+    },
+    {
+      "en": "look after",
+      "mean": "take care of"
+    },
+    {
+      "en": "write down",
+      "mean": "record on paper"
+    },
+    {
+      "en": "throw away",
+      "mean": "put in bin"
+    },
+    {
+      "en": "run into",
+      "mean": "meet by chance"
+    }
+  ],
+  "tip": "Do not memorize them as isolated words. Learn each phrasal verb with a real sentence about your own daily routine.",
+  "quiz": [
+    {
+      "ask": "Choose the correct phrasal verb",
+      "en": "I need to ___ my keys because I cannot find them anywhere.",
+      "choices": [
+        "look for",
+        "give up",
+        "get up"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct phrasal verb",
+      "en": "Please ___ your warm coat because it is very cold outside.",
+      "choices": [
+        "turn off",
+        "put on",
+        "throw away"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct phrasal verb",
+      "en": "Do not ___! You can learn English if you practice every day.",
+      "choices": [
+        "look after",
+        "wake up",
+        "give up"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct phrasal verb",
+      "en": "Can you ___ the lights when you leave the room?",
+      "choices": [
+        "turn off",
+        "run into",
+        "write down"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct phrasal verb",
+      "en": "I want to ___ my dog while I am at work.",
+      "choices": [
+        "fill out",
+        "look after",
+        "get up"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct phrasal verb",
+      "en": "Please ___ this information on a piece of paper.",
+      "choices": [
+        "throw away",
+        "put on",
+        "write down"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

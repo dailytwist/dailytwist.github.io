@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-27",
+  "slug": "gerunds-and-infinitives",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🎯",
+  "title": "Verbs with -ing or To",
+  "summary": "Learn how to use two verbs together in English. You will discover when to use the -ing form and when to use to.",
+  "sections": [
+    {
+      "h": "Verbs followed by -ing",
+      "p": "Sometimes, when you use two verbs together, the second verb needs an -ing ending. We usually do this after verbs that talk about likes, dislikes, or finishing an action. For example, you enjoy doing something or you finish doing your work. Remember that the first verb changes for the past or present, but the second verb always keeps the -ing.",
+      "ex": [
+        {
+          "en": "I enjoy cooking dinner for my family.",
+          "mean": "I like the action of cooking."
+        },
+        {
+          "en": "She finished cleaning her room.",
+          "mean": "She is done with cleaning."
+        },
+        {
+          "en": "Do you mind waiting a few minutes?",
+          "mean": "Are you okay to wait?"
+        }
+      ]
+    },
+    {
+      "h": "Verbs followed by to + infinitive",
+      "p": "Other times, the second verb needs to come after the word 'to'. We often use this pattern after verbs that talk about plans, wants, or future hopes. For example, you want to buy something or you hope to travel soon. The word 'to' connects the two verbs together naturally.",
+      "ex": [
+        {
+          "en": "I want to learn Spanish this year.",
+          "mean": "It is my goal to study Spanish."
+        },
+        {
+          "en": "We hope to visit Japan next summer.",
+          "mean": "We plan on going there."
+        },
+        {
+          "en": "He needs to buy a new phone.",
+          "mean": "It is necessary for him to get one."
+        }
+      ]
+    },
+    {
+      "h": "Verbs that can take both",
+      "p": "Good news! Some verbs can take either -ing or to with almost no change in meaning. Verbs like start, begin, and love are very friendly. You can say 'I love swimming' or 'I love to swim'. Both sentences are completely correct and mean the exact same thing.",
+      "ex": [
+        {
+          "en": "It started raining outside.",
+          "mean": "The rain began."
+        },
+        {
+          "en": "It started to rain outside.",
+          "mean": "The rain began, same meaning."
+        },
+        {
+          "en": "She likes reading books.",
+          "mean": "She enjoys books."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "enjoy",
+      "mean": "like doing something"
+    },
+    {
+      "en": "finish",
+      "mean": "complete an action"
+    },
+    {
+      "en": "want",
+      "mean": "have a desire for"
+    },
+    {
+      "en": "hope",
+      "mean": "wish for the future"
+    },
+    {
+      "en": "decide",
+      "mean": "make a choice"
+    },
+    {
+      "en": "mind",
+      "mean": "feel bothered by"
+    },
+    {
+      "en": "plan",
+      "mean": "prepare to do"
+    }
+  ],
+  "tip": "When you learn a new verb, always learn what comes after it. Make a list of verbs that take -ing and verbs that take to.",
+  "quiz": [
+    {
+      "ask": "Choose the correct form",
+      "en": "I enjoy ___ football with my friends on Saturdays.",
+      "choices": [
+        "to play",
+        "playing",
+        "play"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct form",
+      "en": "She wants ___ a new car next month.",
+      "choices": [
+        "buying",
+        "buy",
+        "to buy"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct form",
+      "en": "They hope ___ their grandparents during the holidays.",
+      "choices": [
+        "to visit",
+        "visiting",
+        "visit"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct form",
+      "en": "Please stop ___ so much noise while I am working.",
+      "choices": [
+        "to make",
+        "making",
+        "make"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct form",
+      "en": "We decided ___ at home because it was raining.",
+      "choices": [
+        "staying",
+        "stay",
+        "to stay"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct form",
+      "en": "Do you mind ___ the window, please?",
+      "choices": [
+        "closing",
+        "to close",
+        "close"
+      ],
+      "answer_index": 0
+    }
+  ]
+}
