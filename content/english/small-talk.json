@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-27",
+  "slug": "small-talk",
+  "cefr": "B1",
+  "cat": "phrases",
+  "emoji": "💬",
+  "title": "Mastering Small Talk",
+  "summary": "Learn how to start a friendly conversation with new people. Discover easy questions to keep the chat going naturally.",
+  "sections": [
+    {
+      "h": "Starting a Conversation",
+      "p": "When you want to talk to someone at a party or a bus stop, you need a good opening line. The easiest way to start is by talking about the place, the weather, or an event you are both at. Keep your voice friendly and smile! After you say your greeting, ask an open question so the other person can talk easily.",
+      "ex": [
+        {
+          "en": "Nice weather today, isn't it?",
+          "mean": "A classic and safe way to start talking when the sun is shining."
+        },
+        {
+          "en": "Is this your first time at this event?",
+          "mean": "A great question to ask someone at a party or conference."
+        }
+      ]
+    },
+    {
+      "h": "Keeping the Chat Going",
+      "p": "After the first sentence, you want to show that you are listening. Ask follow-up questions about what the person just said. Words like 'really?' or 'that's interesting!' show you care. Try to find something you both like, such as food, movies, or hobbies, to talk about for a few more minutes.",
+      "ex": [
+        {
+          "en": "What do you like to do in your free time?",
+          "mean": "An easy way to learn about someone's hobbies."
+        },
+        {
+          "en": "Have you seen any good movies lately?",
+          "mean": "A fun topic that almost everyone can talk about."
+        }
+      ]
+    },
+    {
+      "h": "Ending Politely",
+      "p": "Small talk is usually short. When it is time to go, you should finish the chat politely. Give a nice reason for leaving, like getting a drink or catching a bus. Always smile, say it was great to meet them, and wish them a wonderful rest of their day.",
+      "ex": [
+        {
+          "en": "It was really nice talking to you!",
+          "mean": "A warm and polite way to show you enjoyed the chat."
+        },
+        {
+          "en": "I need to grab a drink, but let's talk again soon.",
+          "mean": "A casual excuse to end the conversation."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Small talk",
+      "mean": "friendly, casual conversation"
+    },
+    {
+      "en": "Opening line",
+      "mean": "first sentence to start talking"
+    },
+    {
+      "en": "Weather",
+      "mean": "sun, rain, wind, temperature"
+    },
+    {
+      "en": "Follow-up",
+      "mean": "next question or action"
+    },
+    {
+      "en": "Hobbies",
+      "mean": "fun things you do"
+    },
+    {
+      "en": "Polite",
+      "mean": "having good manners"
+    },
+    {
+      "en": "Grab a drink",
+      "mean": "get something to sip"
+    }
+  ],
+  "tip": "Think of small talk like playing catch with a ball. You say something, and then you wait for the other person to throw it back by answering!",
+  "quiz": [
+    {
+      "ask": "Choose the best way to start a conversation.",
+      "en": "___ weather today, isn't it?",
+      "choices": [
+        "Bad",
+        "Nice",
+        "Angry"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the best follow-up question about hobbies.",
+      "en": "What do you like to do in your ___?",
+      "choices": [
+        "work",
+        "office",
+        "free time"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the missing word for a polite goodbye.",
+      "en": "It was really nice ___ to you!",
+      "choices": [
+        "talking",
+        "saying",
+        "speaking"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "What do you call casual chat with a stranger?",
+      "en": "We are just making ___.",
+      "choices": [
+        "big talk",
+        "small talk",
+        "loud talk"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the best reaction to good news in a chat.",
+      "en": "___ that's very interesting!",
+      "choices": [
+        "Oh,",
+        "No,",
+        "Why,"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose a good excuse to end a chat.",
+      "en": "I need to ___ a drink.",
+      "choices": [
+        "take",
+        "grab",
+        "hold"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

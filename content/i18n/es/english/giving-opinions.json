@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-27",
+  "slug": "giving-opinions",
+  "cefr": "B1",
+  "cat": "phrases",
+  "emoji": "🗣️",
+  "title": "Compartiendo tus ideas: Cómo estar de acuerdo y en desacuerdo",
+  "summary": "En esta lección, aprenderás a expresar tus opiniones personales en inglés. También practicarás cómo estar de acuerdo y en desacuerdo con otras personas de forma educada.",
+  "sections": [
+    {
+      "h": "Dando tu opinión",
+      "p": "Cuando quieras compartir lo que piensas en inglés, resulta útil usar frases especiales al principio de la oración. Esto le indica a los demás que estás compartiendo una idea personal y no un hecho indiscutible. Usar frases como 'I think' (yo creo) o 'In my opinion' (en mi opinión) hace que tu forma de hablar suene natural y educada.",
+      "ex": [
+        {
+          "en": "I think this movie is really exciting.",
+          "mean": "Mi idea personal es que esta película es buena."
+        },
+        {
+          "en": "In my opinion, we should leave early.",
+          "mean": "Creo que ir temprano es la mejor opción."
+        },
+        {
+          "en": "From my point of view, English is fun to learn.",
+          "mean": "Lo veo de esta manera: aprender inglés es divertido."
+        }
+      ]
+    },
+    {
+      "h": "Estar de acuerdo educadamente",
+      "p": "Cuando alguien comparte una opinión y piensas exactamente igual, puedes mostrar tu apoyo usando frases de acuerdo. Decir 'I totally agree' (estoy totalmente de acuerdo) es muy común. También puedes usar frases más cortas como 'That is so true' (eso es muy cierto) para demostrar que estás escuchando y compartes su mismo sentimiento.",
+      "ex": [
+        {
+          "en": "I totally agree with you.",
+          "mean": "Tengo exactamente el mismo pensamiento que tú."
+        },
+        {
+          "en": "That is so true.",
+          "mean": "Lo que acabas de decir es correcto."
+        },
+        {
+          "en": "I feel the same way.",
+          "mean": "Mis sentimientos coinciden por completo con los tuyos."
+        }
+      ]
+    },
+    {
+      "h": "Estar en desacuerdo educadamente",
+      "p": "¡Está totalmente bien tener una opinión diferente a la de tus amigos! Sin embargo, en inglés, solemos suavizar nuestro desacuerdo para no sonar groseros. En lugar de decir 'You are wrong' (estás equivocado), empezamos con frases educadas como 'I see your point, but...' (entiendo tu punto, pero...) o 'I am not sure about that' (no estoy seguro de eso).",
+      "ex": [
+        {
+          "en": "I see your point, but I prefer the blue one.",
+          "mean": "Entiendo tu idea, pero a mí me gusta la otra."
+        },
+        {
+          "en": "I am not sure I agree with that.",
+          "mean": "Probablemente yo piense de otra manera."
+        },
+        {
+          "en": "Well, actually, I think it is quite cheap.",
+          "mean": "En realidad, mi opinión es que el precio es bajo."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "In my opinion",
+      "mean": "lo que creo"
+    },
+    {
+      "en": "I think",
+      "mean": "mi idea es"
+    },
+    {
+      "en": "I totally agree",
+      "mean": "pienso lo mismo"
+    },
+    {
+      "en": "That is true",
+      "mean": "eso es correcto"
+    },
+    {
+      "en": "I see your point",
+      "mean": "te entiendo"
+    },
+    {
+      "en": "Polite",
+      "mean": "agradable y respetuoso"
+    },
+    {
+      "en": "Opinion",
+      "mean": "una creencia personal"
+    }
+  ],
+  "tip": "Cuando estés en desacuerdo, empieza siempre diciendo algo amable como 'I see your point' (entiendo tu punto). ¡Esto mantiene la conversación amigable y alegre!",
+  "quiz": [
+    {
+      "ask": "Elige la mejor frase para dar tu opinión",
+      "en": "___ this restaurant is the best in town.",
+      "choices": [
+        "I think",
+        "I disagree",
+        "True"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la frase para mostrar total acuerdo",
+      "en": "A: It is a lovely day! B: ___",
+      "choices": [
+        "I see your point, but no",
+        "I totally agree with you",
+        "I am not sure"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la forma educada de estar en desacuerdo",
+      "en": "___, but I like rainy days better.",
+      "choices": [
+        "You are totally wrong",
+        "I see your point",
+        "I hate you"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Selecciona la palabra que falta correctamente",
+      "en": "In my ___, cooking at home is better.",
+      "choices": [
+        "opinion",
+        "think",
+        "agree"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la mejor respuesta para estar de acuerdo",
+      "en": "A: English grammar is useful. B: ___",
+      "choices": [
+        "That is so true",
+        "I have no idea",
+        "No, it is bad"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la frase correcta para tener una idea diferente",
+      "en": "___ I think we need more time.",
+      "choices": [
+        "I totally agree",
+        "Well, actually",
+        "That is true"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

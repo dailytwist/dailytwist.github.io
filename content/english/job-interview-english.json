@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-27",
+  "slug": "job-interview-english",
+  "cefr": "B1",
+  "cat": "phrases",
+  "emoji": "💼",
+  "title": "Answering Common Job Interview Questions",
+  "summary": "Learn how to answer three common job interview questions. You will practice talking about your skills and goals.",
+  "sections": [
+    {
+      "h": "Tell me about yourself",
+      "p": "This is usually the first question in an interview. Interviewers want a short summary of your professional life. Talk about your current job, your past experience, and why you are here today. Keep your answer under two minutes. Focus on work, not your personal life.",
+      "ex": [
+        {
+          "en": "I have worked as a customer service agent for three years.",
+          "mean": "I have three years of experience helping customers."
+        },
+        {
+          "en": "In my last job, I managed a team of five people.",
+          "mean": "Previously, I was the boss of five workers."
+        },
+        {
+          "en": "I am looking for a new challenge in marketing.",
+          "mean": "I want a new job where I can do marketing work."
+        }
+      ]
+    },
+    {
+      "h": "What are your strengths?",
+      "p": "When interviewers ask about your strengths, they want to know what you do very well. Choose two or three positive skills that match the job. Always give a quick example to prove your strength is real.",
+      "ex": [
+        {
+          "en": "I am very organized and I never miss a deadline.",
+          "mean": "I plan my work well and always finish on time."
+        },
+        {
+          "en": "My greatest strength is problem-solving.",
+          "mean": "I am very good at finding solutions to difficult issues."
+        },
+        {
+          "en": "I communicate well with different types of people.",
+          "mean": "It is easy for me to talk and work with everyone."
+        }
+      ]
+    },
+    {
+      "h": "Why do you want this job?",
+      "p": "Companies want to hire people who actually care about their business. Research the company before the interview. Explain how your goals match the company's goals and why you are excited to work there.",
+      "ex": [
+        {
+          "en": "I love your company's focus on green technology.",
+          "mean": "I like that your business cares about the environment."
+        },
+        {
+          "en": "This role is a great match for my skills.",
+          "mean": "My abilities are perfect for this position."
+        },
+        {
+          "en": "I want to grow my career with your team.",
+          "mean": "I want to learn and get better while working here."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "strength",
+      "mean": "a good skill"
+    },
+    {
+      "en": "experience",
+      "mean": "past work knowledge"
+    },
+    {
+      "en": "deadline",
+      "mean": "final finish time"
+    },
+    {
+      "en": "role",
+      "mean": "job position"
+    },
+    {
+      "en": "goal",
+      "mean": "what you want to achieve"
+    },
+    {
+      "en": "skill",
+      "mean": "ability to do something"
+    },
+    {
+      "en": "interview",
+      "mean": "meeting for a job"
+    },
+    {
+      "en": "current",
+      "mean": "happening now"
+    }
+  ],
+  "tip": "Practice your answers out loud in front of a mirror. Recording your voice on your phone helps you speak more slowly and clearly.",
+  "quiz": [
+    {
+      "ask": "Choose the best answer for 'Tell me about yourself'",
+      "en": "I have worked as a ___ for three years.",
+      "choices": [
+        "chef",
+        "happily",
+        "yesterday"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word for a good skill",
+      "en": "My greatest ___ is problem-solving.",
+      "choices": [
+        "weak",
+        "strength",
+        "tired"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word for finish time",
+      "en": "I always finish my work before the ___.",
+      "choices": [
+        "deadline",
+        "start",
+        "lunch"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct phrase for why you want the job",
+      "en": "I want to ___ my career with your team.",
+      "choices": [
+        "stop",
+        "lose",
+        "grow"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the best way to talk about past work",
+      "en": "In my last job, I ___ a team of five.",
+      "choices": [
+        "managed",
+        "fly",
+        "eating"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word for a job position",
+      "en": "This ___ is a great match for my skills.",
+      "choices": [
+        "table",
+        "role",
+        "shoe"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-27",
+  "slug": "writing-emails",
+  "cefr": "B1",
+  "cat": "phrases",
+  "emoji": "✉️",
+  "title": "Writing Clear Formal and Informal Emails",
+  "summary": "Learn how to write great emails to friends and to people at work. You will practice using the right words for every situation.",
+  "sections": [
+    {
+      "h": "When to Use Formal and Informal",
+      "p": "In English, we change how we write depending on who is reading. Informal emails are for friends and family. You can use short sentences and friendly greetings. Formal emails are for bosses, teachers, or companies. You must be polite and use complete sentences. Choosing the right style shows respect and helps the reader understand you quickly.",
+      "ex": [
+        {
+          "en": "Dear Mr. Davis, I am writing to ask about the job.",
+          "mean": "A polite, professional start for a business email."
+        },
+        {
+          "en": "Hi Sarah, hope you are having a great week!",
+          "mean": "A friendly, warm start for a personal email."
+        }
+      ]
+    },
+    {
+      "h": "Greetings and Openings",
+      "p": "The start of your email sets the tone. For a formal email, use 'Dear' followed by the person's title and last name. If you do not know their name, use 'Dear Sir or Madam'. For an informal email, you can just say 'Hi' or 'Hello' with their first name. Always state the reason you are writing right after the greeting.",
+      "ex": [
+        {
+          "en": "Dear Dr. Smith, thank you for your message.",
+          "mean": "Formal greeting for someone with a title."
+        },
+        {
+          "en": "Hey Tom, thanks for getting back to me!",
+          "mean": "Informal greeting for a friend or close colleague."
+        }
+      ]
+    },
+    {
+      "h": "Sign-offs and Closings",
+      "p": "How you end your email is just as important as how you start it. Formal emails need a professional closing like 'Sincerely' or 'Best regards', followed by your full name. Informal emails can end with relaxed phrases like 'Best', 'Cheers', or 'Talk soon', followed by just your first name.",
+      "ex": [
+        {
+          "en": "Best regards, Maria Garcia",
+          "mean": "Professional way to end a work email."
+        },
+        {
+          "en": "See you soon, Leo",
+          "mean": "Friendly, casual way to end an email to a friend."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "formal",
+      "mean": "serious and professional"
+    },
+    {
+      "en": "informal",
+      "mean": "relaxed and friendly"
+    },
+    {
+      "en": "greeting",
+      "mean": "hello at the start"
+    },
+    {
+      "en": "sign-off",
+      "mean": "closing phrase"
+    },
+    {
+      "en": "sincerely",
+      "mean": "formal closing word"
+    },
+    {
+      "en": "cheers",
+      "mean": "casual goodbye"
+    },
+    {
+      "en": "subject line",
+      "mean": "email topic title"
+    }
+  ],
+  "tip": "Think about your reader before you write. If you would wear a suit to meet them, use a formal email!",
+  "quiz": [
+    {
+      "ask": "Choose the best greeting for a boss",
+      "en": "___ Mr. Johnson, I have a question about the schedule.",
+      "choices": [
+        "Dear",
+        "Hey",
+        "What's up"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct informal sign-off",
+      "en": "___ , Anna",
+      "choices": [
+        "Sincerely",
+        "Best regards",
+        "Cheers"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Which email type uses short and friendly sentences?",
+      "en": "Is this email formal or informal: 'Hi Mark, let's grab lunch tomorrow!'?",
+      "choices": [
+        "Informal",
+        "Formal",
+        "Academic"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the right formal closing",
+      "en": "___ , David Brown",
+      "choices": [
+        "Talk soon",
+        "Best regards",
+        "See ya"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word when you do not know the name",
+      "en": "Dear ___ or Madam,",
+      "choices": [
+        "Man",
+        "Sir",
+        "Friend"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Select the best subject line for a job application",
+      "en": "Email topic: ___",
+      "choices": [
+        "Hey look at this",
+        "Job Application - Anna Smith",
+        "Lunch today"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

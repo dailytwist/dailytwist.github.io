@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-27",
+  "slug": "small-talk",
+  "cefr": "B1",
+  "cat": "phrases",
+  "emoji": "💬",
+  "title": "Dominando el arte de la charla casual",
+  "summary": "Aprende a iniciar una conversación amistosa con gente nueva. Descubre preguntas sencillas para que la charla fluya de forma natural.",
+  "sections": [
+    {
+      "h": "Cómo iniciar una conversación",
+      "p": "Cuando quieras hablar con alguien en una fiesta o en una parada de autobús, necesitas una buena frase de apertura. La forma más fácil de empezar es hablando del lugar, del tiempo o de un evento en el que ambos estén. ¡Mantén un tono de voz amigable y sonríe! Después de saludar, haz una pregunta abierta para que la otra persona pueda explayarse fácilmente.",
+      "ex": [
+        {
+          "en": "Nice weather today, isn't it?",
+          "mean": "Una forma clásica y segura de empezar a hablar cuando el sol brilla."
+        },
+        {
+          "en": "Is this your first time at this event?",
+          "mean": "Una excelente pregunta para hacerle a alguien en una fiesta o conferencia."
+        }
+      ]
+    },
+    {
+      "h": "Cómo mantener la charla",
+      "p": "Después de la primera frase, debes demostrar que estás escuchando. Haz preguntas de seguimiento sobre lo que la persona acaba de decir. Palabras como '¿de verdad?' o '¡qué interesante!' demuestran que te importa. Intenta encontrar algo que a ambos les guste, como la comida, las películas o los pasatiempos, para hablar durante unos minutos más.",
+      "ex": [
+        {
+          "en": "What do you like to do in your free time?",
+          "mean": "Una manera fácil de conocer los pasatiempos de alguien."
+        },
+        {
+          "en": "Have you seen any good movies lately?",
+          "mean": "Un tema divertido del que casi todo el mundo puede hablar."
+        }
+      ]
+    },
+    {
+      "h": "Despedirse con educación",
+      "p": "La charla casual suele ser breve. Cuando sea hora de marcharte, debes terminar la conversación educadamente. Da una buena razón para irte, como ir por algo de tomar o tomar un autobús. Siempre sonríe, di que fue un placer conocerles y desearles un resto del día maravilloso.",
+      "ex": [
+        {
+          "en": "It was really nice talking to you!",
+          "mean": "Una forma cálida y educada de demostrar que disfrutaste la charla."
+        },
+        {
+          "en": "I need to grab a drink, but let's talk again soon.",
+          "mean": "Una excusa casual para terminar la conversación."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Small talk",
+      "mean": "conversación amistosa y casual"
+    },
+    {
+      "en": "Opening line",
+      "mean": "primera frase para empezar a hablar"
+    },
+    {
+      "en": "Weather",
+      "mean": "sol, lluvia, viento, temperatura"
+    },
+    {
+      "en": "Follow-up",
+      "mean": "siguiente pregunta o acción"
+    },
+    {
+      "en": "Hobbies",
+      "mean": "cosas divertidas que haces"
+    },
+    {
+      "en": "Polite",
+      "mean": "tener buenos modales"
+    },
+    {
+      "en": "Grab a drink",
+      "mean": "conseguir algo para beber"
+    }
+  ],
+  "tip": "Piensa en la charla casual como si jugaras a la pelota. ¡Tú dices algo y luego esperas a que la otra persona te la devuelva respondiendo!",
+  "quiz": [
+    {
+      "ask": "Elige la mejor forma de iniciar una conversación.",
+      "en": "___ weather today, isn't it?",
+      "choices": [
+        "Bad",
+        "Nice",
+        "Angry"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la mejor pregunta de seguimiento sobre pasatiempos.",
+      "en": "What do you like to do in your ___?",
+      "choices": [
+        "work",
+        "office",
+        "free time"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra que falta para una despedida educada.",
+      "en": "It was really nice ___ to you!",
+      "choices": [
+        "talking",
+        "saying",
+        "speaking"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "¿Cómo se le llama a una charla casual con un desconocido?",
+      "en": "We are just making ___.",
+      "choices": [
+        "big talk",
+        "small talk",
+        "loud talk"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la mejor reacción a una buena noticia en una charla.",
+      "en": "___ that's very interesting!",
+      "choices": [
+        "Oh,",
+        "No,",
+        "Why,"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige una buena excusa para terminar una charla.",
+      "en": "I need to ___ a drink.",
+      "choices": [
+        "take",
+        "grab",
+        "hold"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

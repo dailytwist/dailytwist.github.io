@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-27",
+  "slug": "job-interview-english",
+  "cefr": "B1",
+  "cat": "phrases",
+  "emoji": "💼",
+  "title": "Cómo responder a las preguntas más comunes en una entrevista de trabajo",
+  "summary": "Aprende a responder tres preguntas habituales en las entrevistas de trabajo. Practicarás cómo hablar sobre tus habilidades y metas.",
+  "sections": [
+    {
+      "h": "Háblame de ti",
+      "p": "Esta suele ser la primera pregunta en una entrevista. Los entrevistadores buscan un breve resumen de tu trayectoria profesional. Habla de tu empleo actual, tu experiencia previa y por qué estás aquí hoy. Procura que tu respuesta dure menos de dos minutos. Céntrate en el ámbito laboral, no en tu vida personal.",
+      "ex": [
+        {
+          "en": "I have worked as a customer service agent for three years.",
+          "mean": "Tengo tres años de experiencia ayudando a los clientes."
+        },
+        {
+          "en": "In my last job, I managed a team of five people.",
+          "mean": "Antes estuve al mando de cinco trabajadores."
+        },
+        {
+          "en": "I am looking for a new challenge in marketing.",
+          "mean": "Busco un nuevo puesto donde pueda hacer tareas de marketing."
+        }
+      ]
+    },
+    {
+      "h": "¿Cuáles son tus puntos fuertes?",
+      "p": "Cuando los entrevistadores preguntan por tus puntos fuertes, quieren saber qué se te da muy bien. Elige dos o tres habilidades positivas que encajen con el puesto. Da siempre un ejemplo rápido para demostrar que tu destreza es real.",
+      "ex": [
+        {
+          "en": "I am very organized and I never miss a deadline.",
+          "mean": "Organizo bien mi trabajo y siempre termino a tiempo."
+        },
+        {
+          "en": "My greatest strength is problem-solving.",
+          "mean": "Se me da muy bien encontrar soluciones a problemas difíciles."
+        },
+        {
+          "en": "I communicate well with different types of people.",
+          "mean": "Me resulta fácil hablar y colaborar con todo el mundo."
+        }
+      ]
+    },
+    {
+      "h": "¿Por qué quieres este puesto?",
+      "p": "Las empresas quieren contratar a personas a las que de verdad les importe su negocio. Investiga a la compañía antes de la entrevista. Explica cómo tus objetivos coinciden con los de la empresa y por qué te entusiasma trabajar allí.",
+      "ex": [
+        {
+          "en": "I love your company's focus on green technology.",
+          "mean": "Me gusta que vuestra empresa se preocupe por el medio ambiente."
+        },
+        {
+          "en": "This role is a great match for my skills.",
+          "mean": "Mis capacidades son perfectas para este puesto."
+        },
+        {
+          "en": "I want to grow my career with your team.",
+          "mean": "Quiero aprender y seguir mejorando mientras trabajo aquí."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "strength",
+      "mean": "una buena habilidad"
+    },
+    {
+      "en": "experience",
+      "mean": "conocimiento de trabajos anteriores"
+    },
+    {
+      "en": "deadline",
+      "mean": "hora límite de entrega"
+    },
+    {
+      "en": "role",
+      "mean": "puesto de trabajo"
+    },
+    {
+      "en": "goal",
+      "mean": "lo que quieres lograr"
+    },
+    {
+      "en": "skill",
+      "mean": "capacidad para hacer algo"
+    },
+    {
+      "en": "interview",
+      "mean": "reunión para un empleo"
+    },
+    {
+      "en": "current",
+      "mean": "que ocurre ahora"
+    }
+  ],
+  "tip": "Practica tus respuestas en voz alta frente al espejo. Grabarte con el teléfono te ayudará a hablar más despacio y con mayor claridad.",
+  "quiz": [
+    {
+      "ask": "Elige la mejor respuesta para 'Háblame de ti'",
+      "en": "I have worked as a ___ for three years.",
+      "choices": [
+        "chef",
+        "happily",
+        "yesterday"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta para una buena habilidad",
+      "en": "My greatest ___ is problem-solving.",
+      "choices": [
+        "weak",
+        "strength",
+        "tired"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta para la hora de finalización",
+      "en": "I always finish my work before the ___.",
+      "choices": [
+        "deadline",
+        "start",
+        "lunch"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la frase correcta para explicar por qué quieres el puesto",
+      "en": "I want to ___ my career with your team.",
+      "choices": [
+        "stop",
+        "lose",
+        "grow"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la mejor manera de hablar sobre un trabajo pasado",
+      "en": "In my last job, I ___ a team of five.",
+      "choices": [
+        "managed",
+        "fly",
+        "eating"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta para un puesto de trabajo",
+      "en": "This ___ is a great match for my skills.",
+      "choices": [
+        "table",
+        "role",
+        "shoe"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-27",
+  "slug": "giving-opinions",
+  "cefr": "B1",
+  "cat": "phrases",
+  "emoji": "🗣️",
+  "title": "Sharing Your Thoughts: How to Agree and Disagree",
+  "summary": "In this lesson, you will learn how to share your personal opinions in English. You will also practice how to agree and disagree with other people in a polite way.",
+  "sections": [
+    {
+      "h": "Giving Your Opinion",
+      "p": "When you want to share what you think in English, it is helpful to use special phrases at the beginning of your sentence. This lets other people know you are sharing your personal idea, not a hard fact. Using phrases like 'I think' or 'In my opinion' makes your speaking sound natural and polite.",
+      "ex": [
+        {
+          "en": "I think this movie is really exciting.",
+          "mean": "My personal idea is that this movie is good."
+        },
+        {
+          "en": "In my opinion, we should leave early.",
+          "mean": "I believe going early is the best choice."
+        },
+        {
+          "en": "From my point of view, English is fun to learn.",
+          "mean": "I see it this way: learning English is fun."
+        }
+      ]
+    },
+    {
+      "h": "Agreeing Politely",
+      "p": "When someone shares an opinion and you feel the exact same way, you can show your support using agreement phrases. Saying 'I totally agree' is very common. You can also use shorter phrases like 'That is so true' to show you are listening and you share their exact feeling.",
+      "ex": [
+        {
+          "en": "I totally agree with you.",
+          "mean": "I have the exact same thought as you."
+        },
+        {
+          "en": "That is so true.",
+          "mean": "What you just said is correct."
+        },
+        {
+          "en": "I feel the same way.",
+          "mean": "My feelings match yours completely."
+        }
+      ]
+    },
+    {
+      "h": "Disagreeing Politely",
+      "p": "It is totally okay to have a different opinion than your friends! However, in English, we usually soften our disagreement so we do not sound rude. Instead of saying 'You are wrong,' we start with polite phrases like 'I see your point, but...' or 'I am not sure about that.'",
+      "ex": [
+        {
+          "en": "I see your point, but I prefer the blue one.",
+          "mean": "I understand your idea, but I like the other one."
+        },
+        {
+          "en": "I am not sure I agree with that.",
+          "mean": "I probably think differently."
+        },
+        {
+          "en": "Well, actually, I think it is quite cheap.",
+          "mean": "Actually, my opinion is that the price is low."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "In my opinion",
+      "mean": "what I believe"
+    },
+    {
+      "en": "I think",
+      "mean": "my idea is"
+    },
+    {
+      "en": "I totally agree",
+      "mean": "I think the same"
+    },
+    {
+      "en": "That is true",
+      "mean": "that is correct"
+    },
+    {
+      "en": "I see your point",
+      "mean": "I understand you"
+    },
+    {
+      "en": "Polite",
+      "mean": "nice and respectful"
+    },
+    {
+      "en": "Opinion",
+      "mean": "a personal belief"
+    }
+  ],
+  "tip": "When you disagree, always start by saying something nice like 'I see your point.' This keeps the conversation friendly and happy!",
+  "quiz": [
+    {
+      "ask": "Choose the best phrase to start your opinion",
+      "en": "___ this restaurant is the best in town.",
+      "choices": [
+        "I think",
+        "I disagree",
+        "True"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the phrase to show total agreement",
+      "en": "A: It is a lovely day! B: ___",
+      "choices": [
+        "I see your point, but no",
+        "I totally agree with you",
+        "I am not sure"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the polite way to disagree",
+      "en": "___, but I like rainy days better.",
+      "choices": [
+        "You are totally wrong",
+        "I see your point",
+        "I hate you"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Select the correct missing word",
+      "en": "In my ___, cooking at home is better.",
+      "choices": [
+        "opinion",
+        "think",
+        "agree"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the best response to agree",
+      "en": "A: English grammar is useful. B: ___",
+      "choices": [
+        "That is so true",
+        "I have no idea",
+        "No, it is bad"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct phrase for having a different idea",
+      "en": "___ I think we need more time.",
+      "choices": [
+        "I totally agree",
+        "Well, actually",
+        "That is true"
+      ],
+      "answer_index": 1
+    }
+  ]
+}
