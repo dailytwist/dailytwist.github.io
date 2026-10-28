@@ -297,9 +297,11 @@ def make_articles(day: dt.date, topics: list, count: int) -> None:
     if topics:
         print(f"- choosing articles from trends for {day}")
         picks = ask_json(f"""Here are today's trending search terms: {json.dumps(topics)}
-Pick up to {count} that make a great EVERGREEN, family-friendly explainer article (celebrities' careers, movies, TV shows,
-games, products, sports teams' history, places, holidays, food, science...).
-Reject unreleased products, rumors and anything about deaths, crimes, accidents, politics, health scares, gambling, adult content, or that only makes sense as breaking news.
+Pick up to {count} that make a great EVERGREEN, family-friendly explainer article (movies, TV shows, games,
+sports teams' history, places, holidays, traditions, food, animals, science, how things work...).
+Reject biographies of living people (facts about real people are easy to get wrong), unreleased products, rumors and anything about
+deaths, crimes, accidents, politics, health scares, gambling, adult content, or that only makes sense as breaking news.
+It is fine to return fewer picks, or none.
 Avoid subjects already covered: {json.dumps(done[-60:])}
 Format: {{"picks": ["topic", ...]}}""", max_tokens=500).get("picks", [])
     else:
