@@ -536,6 +536,9 @@ def build_lang(lang):
     D = DATA[lang]
     pre = P(lang)
     H, TR, AR = D["horoscopes"], D["trivia"], D["articles"]
+    for _a in AR:  # AI sometimes names the answer key differently; keep only well-formed Q&A
+        _a["faq"] = [{"q": f["q"], "a": next(f[k] for k in ("a", "ans", "answer", "q_answer") if f.get(k))}
+                     for f in _a.get("faq", []) if isinstance(f, dict) and f.get("q") and any(f.get(k) for k in ("a", "ans", "answer", "q_answer"))]
 
     # home
     h, t = (H[-1] if H else None), (TR[-1] if TR else None)
@@ -756,7 +759,8 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
     for a in AR:
         cat = a.get("category", "Explainer")
         secs = "".join(f'<h2>{e(s["heading"])}</h2>' + "".join(f"<p>{e(p)}</p>" for p in s.get("paragraphs", [])) for s in a["sections"])
-        faq = "".join(f'<details><summary>{e(f["q"])}</summary><p>{e(f["a"])}</p></details>' for f in a.get("faq", []))
+        faq = "".join(f'<details><summary>{e(f["q"])}</summary><p>{e(fa)}</p></details>' for f in a.get("faq", [])
+                      if isinstance(f, dict) and f.get("q") and (fa := next((f[k] for k in ("a", "ans", "answer", "q_answer") if f.get(k)), "")))
         rel = [x for x in AR if x is not a and x.get("category") == cat][:3] or [x for x in AR if x is not a][:3]
         schema = [{"@context": "https://schema.org", "@type": "Article", "headline": a["title"], "description": a["description"],
                    "datePublished": a["date"], "inLanguage": lang,
