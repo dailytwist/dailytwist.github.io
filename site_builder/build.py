@@ -304,6 +304,14 @@ try{{OneSignal.User.addTag("lang","{lang}");var s=localStorage.getItem("dt-sign"
 }});</script>"""
 
 
+def stats_js():
+    """GoatCounter: cookie-free visit counts (no personal data, so no consent banner needed)."""
+    code = C.get("goatcounter")
+    if not code:
+        return ""
+    return f'<script data-goatcounter="https://{code}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>'
+
+
 def body_words(lang, body):
     t = re.sub(r"<script.*?</script>|<style.*?</style>", " ", body, flags=re.S)
     t = html.unescape(re.sub(r"<[^>]+>", " ", t))
@@ -430,6 +438,7 @@ def render(lang, path, pg):
 </div>
 <script src="/assets/app.js" defer></script>
 {push_js(lang)}
+{stats_js()}
 <script>document.querySelectorAll('.langs a').forEach(function(a){{a.addEventListener('click',function(){{try{{localStorage.setItem('dt-lang',a.dataset.l)}}catch(x){{}}}})}});</script>
 </body>
 </html>"""
@@ -1520,7 +1529,7 @@ q.oninput=go}})();</script>""", priority="0.3")
         f'<article class="post"><h1>{e(T(lang, "editorial"))}</h1>{fill(T(lang, "editorial_html"))}</article>', priority="0.3")
     upd = e(T(lang, "last_updated", date=fdate(lang, TODAY)))
     add(lang, "privacy/", T(lang, "privacy"), f"{T(lang, 'privacy')} – {SITE}",
-        f'<article class="post"><h1>{e(T(lang, "privacy"))}</h1><p class="muted">{upd}</p>{fill(T(lang, "privacy_v2_html"))}</article>', priority="0.2")
+        f'<article class="post"><h1>{e(T(lang, "privacy"))}</h1><p class="muted">{upd}</p>{fill(T(lang, "privacy_v2_html"))}{fill(T(lang, "privacy_stats_html")) if C.get("goatcounter") else ""}</article>', priority="0.2")
     add(lang, "terms/", T(lang, "terms"), f"{T(lang, 'terms')} – {SITE}",
         f'<article class="post"><h1>{e(T(lang, "terms"))}</h1><p class="muted">{upd}</p>{fill(T(lang, "terms_html"))}</article>', priority="0.2")
     key = C.get("web3forms_key", "")

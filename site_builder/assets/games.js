@@ -7,6 +7,33 @@
   function set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
   function el(tag, cls, txt) { var x = document.createElement(tag); if (cls) x.className = cls; if (txt != null) x.textContent = txt; return x; }
   function shuffle(a) { for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)); var q = a[i]; a[i] = a[j]; a[j] = q; } return a; }
+  // ---------------------------------------------------------------- anonymous play statistics (GoatCounter events, no personal data)
+  var GAME = root && root.dataset.game, played = 0, timeSent = false;
+  function track(name) {
+    var tries = 0;
+    (function go() {
+      try {
+        if (window.goatcounter && window.goatcounter.count) return window.goatcounter.count({ path: name, title: name, event: true });
+      } catch (e) { return; }
+      if (++tries < 20) setTimeout(go, 500);
+    })();
+  }
+  if (GAME) {
+    var first = function () {
+      if (played) return;
+      played = Date.now(); track('game-play-' + GAME);
+      root.removeEventListener('pointerdown', first, true); document.removeEventListener('keydown', first, true);
+    };
+    root.addEventListener('pointerdown', first, true); document.addEventListener('keydown', first, true);
+    var sendTime = function () {
+      if (!played || timeSent) return;
+      timeSent = true;
+      var m = (Date.now() - played) / 60000;
+      track('game-time-' + GAME + '-' + (m < 1 ? '0-1min' : m < 5 ? '1-5min' : m < 15 ? '5-15min' : '15min-plus'));
+    };
+    document.addEventListener('visibilitychange', function () { if (document.visibilityState === 'hidden') sendTime(); });
+    window.addEventListener('pagehide', sendTime);
+  }
   function fmt(s) { return Math.floor(s / 60) + ':' + ('0' + (s % 60)).slice(-2); }
 
   // ---------------------------------------------------------------- shared: sound, confetti, XP, streak
@@ -102,6 +129,7 @@
     o.innerHTML = '<div class="wb-card"><div class="wb-emoji">🏆</div><h2>' + title + '</h2>' + lines.map(function (l) { return '<p>' + l + '</p>'; }).join('') + '</div>';
     var b = el('button', 'btn', t('play_again')); b.onclick = function () { o.remove(); again(); };
     o.firstChild.appendChild(b); root.appendChild(o);
+    if (GAME) track('game-finish-' + GAME);
   }
   var DIFF = [['easy', t('easy')], ['medium', t('medium')], ['hard', t('hard')]];
 

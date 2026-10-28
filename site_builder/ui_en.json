@@ -710,5 +710,6 @@
  "ytopic_more": "Full {topic} forecast {year}",
  "ytopic_quarters": "Month by month",
  "ytopic_watch": "Be careful with",
- "ytopic_best_signs": "Your best matches this year"
+ "ytopic_best_signs": "Your best matches this year",
+ "privacy_stats_html": "<h2>Visit statistics</h2><p>To understand which pages and games people like, we use GoatCounter, a privacy-friendly statistics service. It does not use cookies and does not collect personal data: we only see totals such as the number of visits, the country, the type of device and how long a game was played. Nobody can be identified from these numbers.</p>"
 }
