@@ -309,7 +309,7 @@ def stats_js():
     code = C.get("goatcounter")
     if not code:
         return ""
-    return f'<script data-goatcounter="https://{code}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>'
+    return f'<script data-goatcounter="https://{code}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>'
 
 
 def body_words(lang, body):
