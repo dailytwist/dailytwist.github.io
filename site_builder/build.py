@@ -182,9 +182,39 @@ def sign_art(sign, size=64):
             f'<text x="50" y="52" text-anchor="middle" dominant-baseline="central" font-size="40" fill="#fff">{glyph}</text></svg>')
 
 
+CATEGORY_ICON = {  # 24x24 line icons, drawn in gold on the night-sky covers
+    "Entertainment": "M4 9h16v11H4z M4 9l2.5-5h3L7 9 M11 4h3l-2.5 5 M17 4h3l-2.5 5",
+    "Science": "M9 3h6 M10 3v6l-5.5 9.5A2 2 0 0 0 6.2 21h11.6a2 2 0 0 0 1.7-2.5L14 9V3 M7.5 15h9",
+    "Food": "M7 3v18 M4.5 3v5a2.5 2.5 0 0 0 5 0V3 M17 21V3c-2.5 1.5-3.5 4.5-3.5 8H17",
+    "Travel": "M21.5 2.5 10.5 13.5 M21.5 2.5 14.5 21.5l-4-8-8-4z",
+    "Sports": "M8 4h8v6a4 4 0 0 1-8 0z M8 6H5a3 3 0 0 0 3 4 M16 6h3a3 3 0 0 1-3 4 M12 14v3 M9 21h6 M10 17h4v4h-4z",
+    "Lifestyle": "M5 20c0-9.5 6-15 15-15 0 9.5-5.5 15-14.5 15z M5 20l8.5-8.5",
+    "Tech": "M7 7h10v10H7z M10 10h4v4h-4z M9.5 3v4 M14.5 3v4 M9.5 17v4 M14.5 17v4 M3 9.5h4 M3 14.5h4 M17 9.5h4 M17 14.5h4",
+    "History": "M3 21h18 M4 10h16 M12 3l8.5 5.5h-17z M6 10v8.5 M10 10v8.5 M14 10v8.5 M18 10v8.5 M4 18.5h16",
+    "Animals": "M12 12.5c-3.2 0-6 3.4-6 6 0 1.8 1.6 2.5 6 2.5s6-.7 6-2.5c0-2.6-2.8-6-6-6z M6.5 8.5a1.8 2.2 0 1 0 0 .1 M10 5a1.8 2.2 0 1 0 0 .1 M14 5a1.8 2.2 0 1 0 0 .1 M17.5 8.5a1.8 2.2 0 1 0 0 .1",
+    "Explainer": "M12 3l2.2 6.3L20.5 11l-6.3 2.2L12 19.5l-2.2-6.3L3.5 11l6.3-1.7z",
+}
+
+
 def cover_art(seed, category, cls="cover"):
-    c1, c2, emoji = CATEGORY_STYLE.get(category, CATEGORY_STYLE["Explainer"])
-    return art(seed, c1, c2, emoji, cls)
+    """Night-sky cover with a gold line icon, in the same navy-and-gold style as the home page hero."""
+    c1, c2, _ = CATEGORY_STYLE.get(category, CATEGORY_STYLE["Explainer"])
+    icon = CATEGORY_ICON.get(category, CATEGORY_ICON["Explainer"])
+    r = rng(seed)
+    gid = "c" + hashlib.md5(seed.encode()).hexdigest()[:8]
+    stars = "".join(f'<circle cx="{r.uniform(0, 400):.0f}" cy="{r.uniform(0, 200):.0f}" r="{r.choice((.6, .8, 1, 1.3, 1.8))}" '
+                    f'fill="#fff" fill-opacity="{r.uniform(.25, .85):.2f}"/>' for _ in range(42))
+    gx, gy = r.uniform(80, 320), r.uniform(40, 160)
+    return (f'<svg class="{cls}" viewBox="0 0 400 200" preserveAspectRatio="xMidYMid slice" aria-hidden="true">'
+            f'<defs><linearGradient id="{gid}" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f0d2b"/>'
+            f'<stop offset="1" stop-color="#231a52"/></linearGradient>'
+            f'<radialGradient id="{gid}g"><stop offset="0" stop-color="{c1}" stop-opacity=".55"/><stop offset="1" stop-color="{c2}" stop-opacity="0"/></radialGradient>'
+            f'<linearGradient id="{gid}o" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6dfa0"/><stop offset="1" stop-color="#c9963f"/></linearGradient></defs>'
+            f'<rect width="400" height="200" fill="url(#{gid})"/><circle cx="{gx:.0f}" cy="{gy:.0f}" r="150" fill="url(#{gid}g)"/>{stars}'
+            f'<circle cx="200" cy="100" r="54" fill="#0f0d2b" fill-opacity=".55" stroke="url(#{gid}o)" stroke-width="2"/>'
+            f'<circle cx="200" cy="100" r="62" fill="none" stroke="#f6dfa0" stroke-opacity=".25" stroke-width="1"/>'
+            f'<g transform="translate(164 64) scale(3)" fill="none" stroke="url(#{gid}o)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">'
+            f'<path d="{icon}"/></g></svg>')
 
 
 GAMES = {  # slug: (title key, desc key, how key, colors, emoji, js name, best-score storage key)
