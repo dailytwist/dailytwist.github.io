@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-28",
+  "slug": "too-and-enough",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "⚖️",
+  "title": "Uso de Too y Enough",
+  "summary": "Aprende a usar too y enough para hablar sobre cantidades y límites. Practicarás cómo describir cuándo algo es más o menos de lo que necesitas.",
+  "sections": [
+    {
+      "h": "Uso de Too",
+      "p": "Usamos la palabra 'too' antes de adjetivos y adverbios para significar 'más de lo que queremos o necesitamos'. Tiene una sensación negativa porque algo representa un problema. Por ejemplo, si el café está demasiado caliente, no puedes beberlo ahora mismo. Es excesivo y causa inconvenientes.",
+      "ex": [
+        {
+          "en": "This jacket is too small for me.",
+          "mean": "La chaqueta es más pequeña que la talla que necesito."
+        },
+        {
+          "en": "The music is too loud in this room.",
+          "mean": "Hay más ruido del que quiero escuchar."
+        },
+        {
+          "en": "He drove too fast on the wet road.",
+          "mean": "Su velocidad era mayor de lo que era seguro."
+        }
+      ]
+    },
+    {
+      "h": "Uso de Enough con Adjetivos",
+      "p": "Usamos 'enough' después de adjetivos y adverbios para significar 'tanto como necesitamos'. Por lo general, tiene una sensación positiva. Observa el orden de las palabras: primero el adjetivo y luego 'enough'. Si algo está lo suficientemente templado, está bien.",
+      "ex": [
+        {
+          "en": "Are you warm enough in that coat?",
+          "mean": "¿Tienes la cantidad adecuada de calor?"
+        },
+        {
+          "en": "This room is big enough for our meeting.",
+          "mean": "El tamaño satisface nuestras necesidades."
+        },
+        {
+          "en": "She didn't run fast enough to win the race.",
+          "mean": "Su velocidad era inferior a la cantidad requerida."
+        }
+      ]
+    },
+    {
+      "h": "Uso de Enough con Sustantivos",
+      "p": "También usamos 'enough' con sustantivos para significar la cantidad correcta. ¡Pero recuerda que el orden de las palabras es diferente aquí! 'Enough' va antes del sustantivo. Puedes decir 'enough money' o 'enough time'.",
+      "ex": [
+        {
+          "en": "I have enough money to buy lunch.",
+          "mean": "Poseo la cantidad correcta de dinero."
+        },
+        {
+          "en": "We don't have enough time for this game.",
+          "mean": "Nos falta la cantidad de tiempo requerida."
+        },
+        {
+          "en": "Do you have enough chairs for everyone?",
+          "mean": "¿Es suficiente el número de sillas?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "too",
+      "mean": "más de lo necesario"
+    },
+    {
+      "en": "enough",
+      "mean": "la cantidad correcta"
+    },
+    {
+      "en": "adjective",
+      "mean": "palabra descriptiva"
+    },
+    {
+      "en": "noun",
+      "mean": "cosa o persona"
+    },
+    {
+      "en": "loud",
+      "mean": "hacer mucho ruido"
+    },
+    {
+      "en": "safe",
+      "mean": "sin peligro"
+    },
+    {
+      "en": "possess",
+      "mean": "tener"
+    }
+  ],
+  "tip": "Recuerda: 'Too' va ANTES de los adjetivos (too hot), pero 'enough' va DESPUÉS de los adjetivos (hot enough) y ANTES de los sustantivos (enough water).",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "Put on a sweater. It is ___ cold outside today.",
+      "choices": [
+        "enough",
+        "too",
+        "to"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "I can't buy this phone. It is not cheap ___.",
+      "choices": [
+        "too",
+        "enough",
+        "many"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "We have ___ food for all our guests.",
+      "choices": [
+        "too",
+        "enough",
+        "to"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "Please turn down the TV. It is ___ loud!",
+      "choices": [
+        "enough",
+        "too",
+        "so much"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "Can we go home now? I am tired ___.",
+      "choices": [
+        "too",
+        "enough",
+        "very"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "He made mistakes because he worked ___ quickly.",
+      "choices": [
+        "enough",
+        "too",
+        "many"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

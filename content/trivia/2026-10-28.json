@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-28",
+  "title": "Daily Knowledge Blast: October 28, 2026",
+  "questions": [
+    {
+      "category": "Geography",
+      "question": "Which country features a flag with a maple leaf at its center?",
+      "options": [
+        "Australia",
+        "New Zealand",
+        "Canada",
+        "United States"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The iconic red and white Canadian flag with its stylized 11-pointed maple leaf was officially adopted in 1965."
+    },
+    {
+      "category": "Science",
+      "question": "What is the primary gas found in the Earth's atmosphere?",
+      "options": [
+        "Nitrogen",
+        "Hydrogen",
+        "Oxygen",
+        "Carbon Dioxide"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Nitrogen makes up about 78 percent of Earth's atmosphere, while oxygen accounts for roughly 21 percent."
+    },
+    {
+      "category": "Food",
+      "question": "Which country is credited with inventing the culinary dish known as sushi?",
+      "options": [
+        "South Korea",
+        "China",
+        "Thailand",
+        "Japan"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Early forms of sushi originated in Southeast Asia before evolving into the beloved rice and seafood dish popularized in Japan."
+    },
+    {
+      "category": "History",
+      "question": "Who was the first emperor of the Roman Empire?",
+      "options": [
+        "Constantine",
+        "Augustus",
+        "Julius Caesar",
+        "Nero"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Augustus, originally named Octavian, became the first Roman emperor after the fall of the Roman Republic in 27 BC."
+    },
+    {
+      "category": "Animals",
+      "question": "What is the fastest land animal in the world?",
+      "options": [
+        "Lion",
+        "Gazelle",
+        "Cheetah",
+        "Pronghorn"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A cheetah can accelerate from 0 to 60 miles per hour in just a few seconds, surpassing the speed of any other land mammal."
+    },
+    {
+      "category": "Movies & Pop Culture",
+      "question": "Which actor played the role of Jack Dawson in the 1997 epic romance film 'Titanic'?",
+      "options": [
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Tom Cruise",
+        "Matt Damon"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Leonardo DiCaprio starred alongside Kate Winslet in James Cameron's blockbuster film, which won 11 Academy Awards."
+    },
+    {
+      "category": "Sports",
+      "question": "How many players are on the field for a single soccer team during a standard match?",
+      "options": [
+        "12",
+        "10",
+        "9",
+        "11"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Each team fields 11 players, including one designated goalkeeper, during a standard association football match."
+    },
+    {
+      "category": "Language",
+      "question": "What is the term for a word that has the exact opposite meaning of another word?",
+      "options": [
+        "Homonym",
+        "Synonym",
+        "Antonym",
+        "Acronym"
+      ],
+      "answer_index": 2,
+      "fun_fact": "An antonym is a word opposite in meaning to another, such as 'hot' and 'cold' or 'happy' and 'sad'."
+    },
+    {
+      "category": "Space",
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Venus"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Mars gets its reddish hue from large amounts of iron oxide, commonly known as rust, on its dusty surface."
+    },
+    {
+      "category": "Geography",
+      "question": "The island of Madagascar is located in which major body of water?",
+      "options": [
+        "Arctic Ocean",
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Pacific Ocean"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Madagascar is the second-largest island country in the world and sits off the southeastern coast of mainland Africa in the Indian Ocean."
+    }
+  ]
+}

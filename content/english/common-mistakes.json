@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-28",
+  "slug": "common-mistakes",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "💡",
+  "title": "Stop Making These 3 Common Mistakes!",
+  "summary": "In this short lesson, you will learn how to avoid three very common English mistakes. By the end, you will speak and write more clearly.",
+  "sections": [
+    {
+      "h": "Saying 'I am agree' instead of 'I agree'",
+      "p": "Many students think 'agree' is an adjective like 'happy', so they say 'I am agree'. But 'agree' is a verb. In English, we do not use the verb 'to be' before 'agree'. Just say 'I agree' when you have the same opinion as someone else.",
+      "ex": [
+        {
+          "en": "I agree with your idea.",
+          "mean": "I have the same opinion as you."
+        },
+        {
+          "en": "Do you agree?",
+          "mean": "Is your opinion the same?"
+        }
+      ]
+    },
+    {
+      "h": "Using 'borrow' and 'lend' the wrong way",
+      "p": "These two words are very easy to mix up. When you take something from someone to use and return later, you borrow it. When you give something to someone for a short time, you lend it. Remember: borrow takes, lend gives.",
+      "ex": [
+        {
+          "en": "Can I borrow your pen?",
+          "mean": "Can I take your pen and give it back later?"
+        },
+        {
+          "en": "Can you lend me ten dollars?",
+          "mean": "Can you give me ten dollars for a short time?"
+        }
+      ]
+    },
+    {
+      "h": "Confusing 'fun' and 'funny'",
+      "p": "People often use these words for the same thing, but they are different. 'Funny' means something makes you laugh, like a good joke. 'Fun' means an activity is enjoyable and you like doing it.",
+      "ex": [
+        {
+          "en": "That comedy movie was very funny.",
+          "mean": "The movie made me laugh a lot."
+        },
+        {
+          "en": "Learning English is fun.",
+          "mean": "Learning English is an enjoyable activity."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "agree",
+      "mean": "have the same opinion"
+    },
+    {
+      "en": "borrow",
+      "mean": "take to use and return"
+    },
+    {
+      "en": "lend",
+      "mean": "give for a short time"
+    },
+    {
+      "en": "fun",
+      "mean": "enjoyable"
+    },
+    {
+      "en": "funny",
+      "mean": "making you laugh"
+    },
+    {
+      "en": "opinion",
+      "mean": "what you think"
+    },
+    {
+      "en": "mistake",
+      "mean": "something done wrong"
+    }
+  ],
+  "tip": "Make flashcards with the correct pairs on one side and your native language on the other. Review them for five minutes every day.",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "I ___ with you completely.",
+      "choices": [
+        "am agree",
+        "agree",
+        "am agreeing"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Can I ___ your umbrella today?",
+      "choices": [
+        "borrow",
+        "lend",
+        "give"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Please ___ me your jacket for the evening.",
+      "choices": [
+        "borrow",
+        "lend",
+        "take"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "The clown at the party was very ___.",
+      "choices": [
+        "fun",
+        "funny",
+        "boring"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "We had a lot of ___ at the beach yesterday.",
+      "choices": [
+        "funny",
+        "fun",
+        "laughed"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Find the mistake in this sentence: 'She am agree with the plan.'",
+      "en": "She am agree with the plan.",
+      "choices": [
+        "Change 'am' to 'is'",
+        "Remove 'am'",
+        "Change 'agree' to 'agrees'"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

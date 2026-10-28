@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-28",
+  "title": "Pillola di Sapere Quotidiana: 28 Ottobre 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Quale paese ha una bandiera con una foglia d'acero al centro?",
+      "options": [
+        "Australia",
+        "Nuova Zelanda",
+        "Canada",
+        "Stati Uniti"
+      ],
+      "answer_index": 2,
+      "fun_fact": "L'iconica bandiera canadese rossa e bianca con la sua foglia d'acero stilizzata a 11 punte è stata adottata ufficialmente nel 1965."
+    },
+    {
+      "category": "Scienza",
+      "question": "Qual è il gas principale presente nell'atmosfera terrestre?",
+      "options": [
+        "Azoto",
+        "Idrogeno",
+        "Ossigeno",
+        "Anidride Carbonica"
+      ],
+      "answer_index": 0,
+      "fun_fact": "L'azoto costituisce circa il 78% dell'atmosfera terrestre, mentre l'ossigeno rappresenta circa il 21%."
+    },
+    {
+      "category": "Cucina",
+      "question": "A quale paese viene attribuita l'invenzione del piatto noto come sushi?",
+      "options": [
+        "Corea del Sud",
+        "Cina",
+        "Tailandia",
+        "Giappone"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Le prime forme di sushi sono nate nel Sud-Est asiatico prima di evolversi nel celebre piatto di riso e pesce reso popolare in Giappone."
+    },
+    {
+      "category": "Storia",
+      "question": "Chi è stato il primo imperatore dell'Impero Romano?",
+      "options": [
+        "Costantino",
+        "Augusto",
+        "Giulio Cesare",
+        "Nerone"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Augusto, originariamente chiamato Ottaviano, è diventato il primo imperatore romano dopo la caduta della Repubblica Romana nel 27 a.C."
+    },
+    {
+      "category": "Animali",
+      "question": "Qual è l'animale terrestre più veloce del mondo?",
+      "options": [
+        "Leone",
+        "Gazzella",
+        "Ghepardo",
+        "Antilocapra"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un ghepardo può accelerare da 0 a 60 miglia orarie in pochi secondi, superando la velocità di qualsiasi altro mammifero terrestre."
+    },
+    {
+      "category": "Cinema e Pop Culture",
+      "question": "Quale attore ha interpretato il ruolo di Jack Dawson nel film drammatico epico del 1997 'Titanic'?",
+      "options": [
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Tom Cruise",
+        "Matt Damon"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Leonardo DiCaprio ha recitato al fianco di Kate Winslet nel kolossal di James Cameron, che ha vinto 11 premi Oscar."
+    },
+    {
+      "category": "Sport",
+      "question": "Quanti giocatori ci sono in campo per una singola squadra di calcio durante una partita standard?",
+      "options": [
+        "12",
+        "10",
+        "9",
+        "11"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Ogni squadra schiera 11 giocatori, incluso un portiere designato, durante una partita di calcio regolare."
+    },
+    {
+      "category": "Linguistica",
+      "question": "Come si chiama una parola che ha un significato esattamente opposto a un'altra?",
+      "options": [
+        "Omonimo",
+        "Sinonimo",
+        "Contrario",
+        "Acronimo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un antonimo è una parola di significato opposto a un'altra, come 'caldo' e 'freddo' oppure 'felice' e 'triste'."
+    },
+    {
+      "category": "Spazio",
+      "question": "Quale pianeta è noto come il Pianeta Rosso?",
+      "options": [
+        "Marte",
+        "Giove",
+        "Saturno",
+        "Venere"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Marte deve la sua tonalità rossastra alle grandi quantità di ossido di ferro, comunemente noto come ruggine, presenti sulla sua superficie polverosa."
+    },
+    {
+      "category": "Geografia",
+      "question": "L'isola del Madagascar si trova in quale grande massa d'acqua?",
+      "options": [
+        "Oceano Artico",
+        "Oceano Indiano",
+        "Oceano Atlantico",
+        "Oceano Pacifico"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Il Madagascar è il secondo stato insulare più grande del mondo e si trova al largo della costa sud-orientale dell'Africa continentale, nell'Oceano Indiano."
+    }
+  ]
+}

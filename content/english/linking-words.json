@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-28",
+  "slug": "linking-words",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🌉",
+  "title": "Connecting Your Ideas: Linking Words",
+  "summary": "In this lesson, you will learn how to connect your sentences clearly. We will look at words that show reasons and opposite ideas.",
+  "sections": [
+    {
+      "h": "Showing Reasons: Because and So",
+      "p": "We use 'because' to give a reason for something. It answers the question 'why?'. We use 'so' to talk about the result of an action. 'Because' comes before the reason, while 'so' comes before the result. These words make your speaking and writing much more natural.",
+      "ex": [
+        {
+          "en": "I stayed at home because it was raining.",
+          "mean": "The rain is the reason I stayed home."
+        },
+        {
+          "en": "It was raining, so I took an umbrella.",
+          "mean": "Taking an umbrella is the result of the rain."
+        }
+      ]
+    },
+    {
+      "h": "Contrasting Ideas: Although",
+      "p": "We use 'although' to show an unexpected contrast between two ideas. It tells us that something happened even when there was a difficult situation. It usually goes at the beginning or in the middle of the sentence.",
+      "ex": [
+        {
+          "en": "Although he was tired, he finished his homework.",
+          "mean": "He was tired, but he worked anyway."
+        },
+        {
+          "en": "She bought the shoes although they were expensive.",
+          "mean": "The price was high, but she still bought them."
+        }
+      ]
+    },
+    {
+      "h": "Formal Contrasts: However and Therefore",
+      "p": "Words like 'however' and 'therefore' are often used in writing or more formal speaking. 'However' is similar to 'although' and shows a contrast. 'Therefore' is similar to 'so' and shows a direct result. We usually put a comma after them.",
+      "ex": [
+        {
+          "en": "The train was late. However, we arrived on time.",
+          "mean": "The late train was a problem, but we still arrived early enough."
+        },
+        {
+          "en": "He studied very hard; therefore, he passed the exam.",
+          "mean": "His hard work resulted in passing the test."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "because",
+      "mean": "gives a reason"
+    },
+    {
+      "en": "so",
+      "mean": "shows a result"
+    },
+    {
+      "en": "although",
+      "mean": "shows a contrast"
+    },
+    {
+      "en": "however",
+      "mean": "nevertheless or yet"
+    },
+    {
+      "en": "therefore",
+      "mean": "for that reason"
+    },
+    {
+      "en": "result",
+      "mean": "what happens next"
+    },
+    {
+      "en": "reason",
+      "mean": "why something happens"
+    }
+  ],
+  "tip": "Try writing two true sentences about your day, then connect them using 'because' or 'so'. Practice makes perfect!",
+  "quiz": [
+    {
+      "ask": "Choose the correct linking word",
+      "en": "I wore a coat ___ it was very cold outside.",
+      "choices": [
+        "because",
+        "so",
+        "however"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct linking word",
+      "en": "She missed the bus, ___ she was late for work.",
+      "choices": [
+        "although",
+        "so",
+        "because"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct linking word",
+      "en": "___ the test was difficult, he got a good grade.",
+      "choices": [
+        "Therefore",
+        "Because",
+        "Although"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct linking word",
+      "en": "The hotel was old. ___, it was very clean and comfortable.",
+      "choices": [
+        "However",
+        "So",
+        "Because"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct linking word",
+      "en": "They practiced every day; ___, they won the match.",
+      "choices": [
+        "although",
+        "therefore",
+        "however"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct option",
+      "en": "I love cooking, ___ I don't have much free time.",
+      "choices": [
+        "because",
+        "therefore",
+        "although"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

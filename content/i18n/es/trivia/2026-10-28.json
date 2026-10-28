@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-28",
+  "title": "Explosión de conocimiento diario: 28 de octubre de 2026",
+  "questions": [
+    {
+      "category": "Geografía",
+      "question": "¿Qué país tiene una bandera con una hoja de arce en el centro?",
+      "options": [
+        "Australia",
+        "Nueva Zelanda",
+        "Canadá",
+        "Estados Unidos"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La emblemática bandera roja y blanca de Canadá, con su estilizada hoja de arce de 11 puntas, se adoptó oficialmente en 1965."
+    },
+    {
+      "category": "Ciencia",
+      "question": "¿Cuál es el gas principal que se encuentra en la atmósfera de la Tierra?",
+      "options": [
+        "Nitrógeno",
+        "Hidrógeno",
+        "Oxígeno",
+        "Dióxido de carbono"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El nitrógeno compone alrededor del 78 por ciento de la atmósfera terrestre, mientras que el oxígeno representa aproximadamente el 21 por ciento."
+    },
+    {
+      "category": "Gastronomía",
+      "question": "¿A qué país se le atribuye la invención del plato culinario conocido como sushi?",
+      "options": [
+        "Corea del Sur",
+        "China",
+        "Tailandia",
+        "Japón"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Las formas primitivas de sushi se originaron en el sudeste asiático antes de convertirse en el querido plato de arroz y marisco popularizado en Japón."
+    },
+    {
+      "category": "Historia",
+      "question": "¿Quién fue el primer emperador del Imperio romano?",
+      "options": [
+        "Constantino",
+        "Augusto",
+        "Julio César",
+        "Nerón"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Augusto, cuyo nombre original era Octavio, se convirtió en el primer emperador romano tras la caída de la República romana en el año 27 a. C."
+    },
+    {
+      "category": "Animales",
+      "question": "¿Cuál es el animal terrestre más rápido del mundo?",
+      "options": [
+        "León",
+        "Gacela",
+        "Guepardo",
+        "Berrendo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un guepardo puede acelerar de 0 a 60 millas por hora en apenas unos segundos, superando la velocidad de cualquier otro mamífero terrestre."
+    },
+    {
+      "category": "Cine y cultura pop",
+      "question": "¿Qué actor interpretó el papel de Jack Dawson en la película épica de romance de 1997 'Titanic'?",
+      "options": [
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Tom Cruise",
+        "Matt Damon"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Leonardo DiCaprio protagonizó junto a Kate Winslet la taquillera película de James Cameron, que ganó 11 premios Óscar."
+    },
+    {
+      "category": "Deportes",
+      "question": "¿Cuántos jugadores hay en el campo por cada equipo de fútbol durante un partido reglamentario?",
+      "options": [
+        "12",
+        "10",
+        "9",
+        "11"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Cada equipo alinea a 11 jugadores, incluido un guardameta designado, durante un partido de fútbol estándar."
+    },
+    {
+      "category": "Idioma",
+      "question": "¿Cómo se le llama a una palabra que tiene un significado exactamente opuesto al de otra?",
+      "options": [
+        "Homónimo",
+        "Sinónimo",
+        "Antónimo",
+        "Acrónimo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un antónimo es una palabra con un significado opuesto al de otra, como 'caliente' y 'frío' o 'feliz' y 'triste'."
+    },
+    {
+      "category": "Espacio",
+      "question": "¿Qué planeta es conocido como el Planeta Rojo?",
+      "options": [
+        "Marte",
+        "Júpiter",
+        "Saturno",
+        "Venus"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Marte adquiere su tono rojizo debido a las grandes cantidades de óxido de hierro, comúnmente conocido como óxido, presentes en su polvorienta superficie."
+    },
+    {
+      "category": "Geografía",
+      "question": "¿En qué gran masa de agua se encuentra la isla de Madagascar?",
+      "options": [
+        "Océano Ártico",
+        "Océano Índico",
+        "Océano Atlántico",
+        "Océano Pacífico"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Madagascar es la segunda isla más grande del mundo en cuanto a países insulares y se sitúa frente a la costa sudeste de la África continental, en el Océano Índico."
+    }
+  ]
+}

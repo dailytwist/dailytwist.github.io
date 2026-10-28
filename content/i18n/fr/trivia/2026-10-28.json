@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-28",
+  "title": "Coup de savoir quotidien : 28 octobre 2026",
+  "questions": [
+    {
+      "category": "Géographie",
+      "question": "Quel pays arbore un drapeau avec une feuille d'érable en son centre ?",
+      "options": [
+        "Australie",
+        "Nouvelle-Zélande",
+        "Canada",
+        "États-Unis"
+      ],
+      "answer_index": 2,
+      "fun_fact": "L'emblématique drapeau rouge et blanc du Canada, doté d'une feuille d'érable stylisée à 11 pointes, a été officiellement adopté en 1965."
+    },
+    {
+      "category": "Science",
+      "question": "Quel est le gaz principal présent dans l'atmosphère terrestre ?",
+      "options": [
+        "Azote",
+        "Hydrogène",
+        "Oxygène",
+        "Dioxyde de carbone"
+      ],
+      "answer_index": 0,
+      "fun_fact": "L'azote représente environ 78 pour cent de l'atmosphère terrestre, tandis que l'oxygène en constitue approximativement 21 pour cent."
+    },
+    {
+      "category": "Gastronomie",
+      "question": "À quel pays attribue-t-on l'invention du plat culinaire connu sous le nom de sushis ?",
+      "options": [
+        "Corée du Sud",
+        "Chine",
+        "Thaïlande",
+        "Japon"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Les premières formes de sushis sont apparues en Asie du Sud-Est avant d'évoluer pour devenir ce plat de riz et de fruits de mer tant apprécié, popularisé au Japon."
+    },
+    {
+      "category": "Histoire",
+      "question": "Qui fut le premier empereur de l'Empire romain ?",
+      "options": [
+        "Constantin",
+        "Auguste",
+        "Jules César",
+        "Néron"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Auguste, initialement nommé Octave, est devenu le premier empereur romain après la chute de la République romaine en 27 av. J.-C."
+    },
+    {
+      "category": "Animaux",
+      "question": "Quel est l'animal terrestre le plus rapide au monde ?",
+      "options": [
+        "Lion",
+        "Gazelle",
+        "Guépard",
+        "Antilope d'Amérique"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un guépard peut passer de 0 à 60 miles par heure en seulement quelques secondes, surclassant la vitesse de n'importe quel autre mammifère terrestre."
+    },
+    {
+      "category": "Cinéma & Pop Culture",
+      "question": "Quel acteur a incarné le rôle de Jack Dawson dans le film dramatique et romantique 'Titanic' sorti en 1997 ?",
+      "options": [
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Tom Cruise",
+        "Matt Damon"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Leonardo DiCaprio a partagé l'affiche avec Kate Winslet dans le film à succès de James Cameron, qui a remporté 11 Oscars."
+    },
+    {
+      "category": "Sports",
+      "question": "Combien de joueurs se trouvent sur le terrain pour une même équipe de football lors d'un match standard ?",
+      "options": [
+        "12",
+        "10",
+        "9",
+        "11"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Chaque équipe aligne 11 joueurs, dont un gardien de but attitré, lors d'un match de football association standard."
+    },
+    {
+      "category": "Langue",
+      "question": "Quel est le terme désignant un mot qui a un sens exactement opposé à celui d'un autre mot ?",
+      "options": [
+        "Homonyme",
+        "Synonyme",
+        "Antonyme",
+        "Acronyme"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un antonyme est un mot de sens opposé à un autre, comme 'chaud' et 'froid' ou 'heureux' et 'triste'."
+    },
+    {
+      "category": "Espace",
+      "question": "Quelle planète est surnommée la Planète rouge ?",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Vénus"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Mars tire sa teinte rougeâtre de grandes quantités d'oxyde de fer, communément appelé rouille, présentes sur sa surface poussiéreuse."
+    },
+    {
+      "category": "Géographie",
+      "question": "Dans quelle grande étendue d'eau se trouve l'île de Madagascar ?",
+      "options": [
+        "Océan Arctique",
+        "Océan Indien",
+        "Océan Atlantique",
+        "Océan Pacifique"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Madagascar est le deuxième plus grand pays insulaire au monde et se situe au large de la côte sud-est de l'Afrique continentale, dans l'océan Indien."
+    }
+  ]
+}

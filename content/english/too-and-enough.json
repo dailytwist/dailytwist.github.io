@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-28",
+  "slug": "too-and-enough",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "⚖️",
+  "title": "Using Too and Enough",
+  "summary": "Learn how to use too and enough to talk about amounts and limits. You will practice describing when something is more or less than you need.",
+  "sections": [
+    {
+      "h": "Using Too",
+      "p": "We use the word 'too' before adjectives and adverbs to mean 'more than we want or need'. It has a negative feeling because something is a problem. For example, if the coffee is too hot, you cannot drink it right now. It is extra and causes trouble.",
+      "ex": [
+        {
+          "en": "This jacket is too small for me.",
+          "mean": "The jacket is smaller than the size I need."
+        },
+        {
+          "en": "The music is too loud in this room.",
+          "mean": "There is more sound than I want to hear."
+        },
+        {
+          "en": "He drove too fast on the wet road.",
+          "mean": "His speed was higher than was safe."
+        }
+      ]
+    },
+    {
+      "h": "Using Enough with Adjectives",
+      "p": "We use 'enough' after adjectives and adverbs to mean 'as much as we need'. It usually has a positive feeling. Notice the word order: adjective first, then 'enough'. If something is warm enough, it is good.",
+      "ex": [
+        {
+          "en": "Are you warm enough in that coat?",
+          "mean": "Do you have the right amount of warmth?"
+        },
+        {
+          "en": "This room is big enough for our meeting.",
+          "mean": "The size meets our needs."
+        },
+        {
+          "en": "She didn't run fast enough to win the race.",
+          "mean": "Her speed was lower than the required amount."
+        }
+      ]
+    },
+    {
+      "h": "Using Enough with Nouns",
+      "p": "We also use 'enough' with nouns to mean the correct amount. But remember the word order is different here! 'Enough' comes before the noun. You can say 'enough money' or 'enough time'.",
+      "ex": [
+        {
+          "en": "I have enough money to buy lunch.",
+          "mean": "I possess the correct amount of money."
+        },
+        {
+          "en": "We don't have enough time for this game.",
+          "mean": "We lack the required amount of time."
+        },
+        {
+          "en": "Do you have enough chairs for everyone?",
+          "mean": "Is the number of chairs sufficient?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "too",
+      "mean": "more than needed"
+    },
+    {
+      "en": "enough",
+      "mean": "the correct amount"
+    },
+    {
+      "en": "adjective",
+      "mean": "describing word"
+    },
+    {
+      "en": "noun",
+      "mean": "thing or person"
+    },
+    {
+      "en": "loud",
+      "mean": "making much noise"
+    },
+    {
+      "en": "safe",
+      "mean": "without danger"
+    },
+    {
+      "en": "possess",
+      "mean": "to have"
+    }
+  ],
+  "tip": "Remember: 'Too' goes BEFORE adjectives (too hot), but 'enough' goes AFTER adjectives (hot enough) and BEFORE nouns (enough water).",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "Put on a sweater. It is ___ cold outside today.",
+      "choices": [
+        "enough",
+        "too",
+        "to"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "I can't buy this phone. It is not cheap ___.",
+      "choices": [
+        "too",
+        "enough",
+        "many"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "We have ___ food for all our guests.",
+      "choices": [
+        "too",
+        "enough",
+        "to"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Please turn down the TV. It is ___ loud!",
+      "choices": [
+        "enough",
+        "too",
+        "so much"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Can we go home now? I am tired ___.",
+      "choices": [
+        "too",
+        "enough",
+        "very"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "He made mistakes because he worked ___ quickly.",
+      "choices": [
+        "enough",
+        "too",
+        "many"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

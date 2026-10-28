@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-28",
+  "signs": {
+    "aries": {
+      "overview": "Mercoledì ti invita a incanalare quella leggendaria energia da Ariete in qualcosa di deliziosamente inaspettato! Invece di correre alla cieca sulla tua solita lista di cose da fare, concediti una deviazione creativa. Le stelle ti regalano un'ondata di spontaneo fascino che fa sembrare anche le commissioni più noiose un vero e proprio reality show. Qualcuno dal tuo passato potrebbe rispuntare con una storia divertente, o potresti finalmente capire come disporre i mobili in salotto per sfruttare al massimo la luce del mattino. Accogli i colpi di scena oggi e ricorda che non tutte le battaglie vanno vinte: alcune vanno semplicemente affrontate ballando, con un occhiolino e un sorriso.",
+      "love": "Le tue doti da civettuolo viaggiano su livelli cinematografici oggi, quindi usale per illuminare il pomeriggio del tuo partner o catturare lo sguardo di qualcuno in una stanza affollata. Un messaggio audace inviato per un capriccio potrebbe scatenare ore di battute sagaci.",
+      "career": "La tua naturale leadership risplende quando introduci un tocco di ludicità in un noioso progetto di squadra. Non aver paura di proporre l'idea più stramba nella stanza; potrebbe proprio funzionare.",
+      "wellness": "Scambia il tuo intenso allenamento mattutino con una sessione di ballo ad alta energia sulle note della tua playlist 'guilty pleasure' preferita.",
+      "lucky_number": 17,
+      "lucky_color": "cremisi",
+      "mood": "Elettrico"
+    },
+    "taurus": {
+      "overview": "Immergi gli zoccoli nei piaceri accoglienti della terra oggi, Toro. Il clima cosmico ti incoraggia a curare il tuo ambiente come la camera di un boutique hotel dedicata interamente al tuo comfort. Forse è il momento di migliorare il tuo rituale quotidiano del caffè con uno sciroppo sfizioso, o forse vuoi semplicemente avvolgerti nella coperta più morbida conosciuta dall'umanità e ignorare il mondo esterno per un'ora. Il tuo superpotere oggi è un apprezzamento incrollabile per le delizie sensoriali. Lasciati indugiare su un pasto delizioso e rifiutati di farti mettere fretta dalla tabella di marcia frenetica di chiunque altro.",
+      "love": "Il romanticismo che matura lentamente è la tua specialità in questo momento, rendendo una tranquilla serata in casa con buon cibo e una luce calda infinitamente meglio di un'uscita appariscente. La comunicazione fluisce al meglio quando condividete i vostri snack preferiti.",
+      "career": "La tua incrollabile affidabilità è l'ancora di cui i tuoi colleghi non sapevano di avere disperatamente bisogno. Fidati del tuo istinto su una scelta di design o logistica e mantieni la posizione.",
+      "wellness": "Concediti un massaggio facciale di cinque minuti con una crema idratante ricca e lenitiva prima di andare a dormire.",
+      "lucky_number": 42,
+      "lucky_color": "salvia",
+      "mood": "Accogliente"
+    },
+    "gemini": {
+      "overview": "La tua mente è un flipper di idee geniali oggi, Gemelli, e ogni singolo colpo fa un sacco di punti! Mercoledì serve un turbine di conversazioni affascinanti, chat deliziose e improvvise epifanie che ti fanno sentire intellettualmente invincibile. Potresti ritrovarti fino al collo in una ricerca infinita sulla biologia marina d'alta mare o sulla storia della moda vintage entro mezzogiorno — e onnicamente, perché no? Condividi la tua saggezza da quiz con chiunque sia disposto ad ascoltare. Assicurati solo di finire davvero almeno una delle tre conversazioni che inizi prima di saltare all'argomento eccitante successivo.",
+      "love": "La curiosità è il tuo tratto più sexy in questo momento, quindi fai alla tua cotta o al partner di lunga data una domanda strana e ipotetica per vedere dove vi porta il dibattito. Le risate sono il tuo afrodisiaco definitivo oggi.",
+      "career": "Il multitasking è praticamente una forma d'arte per te oggi, permettendoti di destreggiarti tra una dozzina di schede creative nel tuo cervello senza il minimo rallentamento. Proponi i tuoi concetti stravaganti senza esitazione.",
+      "wellness": "Concedi ai tuoi occhi una pausa dagli schermi ogni ora fissando qualcosa di verde dall'altra parte della stanza per sessanta secondi.",
+      "lucky_number": 8,
+      "lucky_color": "giallo",
+      "mood": "Spirito arguto"
+    },
+    "cancer": {
+      "overview": "La tua intuizione sta praticamente canticchiando una ninna nanna rilassante oggi, dolce Cancro. Mercoledì ti chiede di prenderti cura del tuo santuario interiore con la stessa feroce lealtà che di solito riservi a tutti gli altri. Se il tuo spazio vitale ha bisogno di una rapida rinfrescata, metti su una playlist nostalgica e spazza via i coniglietti di polvere energetica. Sei eccezionalmente empatico in questo momento, il che significa che puoi leggere facilmente la temperatura emotiva di qualsiasi stanza in cui entri. Usa questo superpotere per diffondere gentilezza come coriandoli, ma proteggi il tuo delicato guscio da chiunque porti drammi non necessari.",
+      "love": "La vulnerabilità è la tua più grande forza in amore oggi, quindi di' alla tua persona esattamente cosa ti ha fatto sorridere di lei stamattina. Le coccole racchiudono un'energia di guarigione extra in questo momento.",
+      "career": "Gli sforzi collaborativi fioriscono quando porti un atteggiamento premuroso e collaborativo nella chat di gruppo. La tua intelligenza emotiva aiuta a smussare senza sforzo un piccolo malinteso.",
+      "wellness": "Fatti un lungo e caldo bagno con i tuoi sali da bagno profumati preferiti per lavare via lo stress ambientale della giornata.",
+      "lucky_number": 23,
+      "lucky_color": "argento",
+      "mood": "Premuroso"
+    },
+    "leo": {
+      "overview": "Fai il tuo ingresso trionfale sotto i riflettori, Leone, perché l'universo sta srotolando un tappeto rosso di velluto proprio per te questo mercoledì. Il tuo carisma è impostato al massimo su livelli cinematografici, rendendoti l'indiscusso protagonista di qualsiasi raduno, virtuale o di persona. Che tu stia condividendo un aneddoto esilarante a pranzo o sfoggiando un outfit che fa girare la testa per strada, la tua naturale radiosità non può essere ignorata. Goditi gli applausi, ma ricordati anche di condividere il palcoscenico con qualcuno che ha bisogno di un piccolo boost di fiducia oggi. La generosità è il gioiello della corona della vera regalità.",
+      "love": "Il romanticismo sembra teatrale e grandioso oggi, quindi sorprendi la tua dolce metà con una dichiarazione drammatica o pianifica una serata romantica sorprendentemente glamour. Single? Aspettati un delizioso incontro all'insegna del flirt.",
+      "career": "La tua visione creativa è una miniera d'oro in questo momento, quindi non nascondere i tuoi concetti più audaci in una cartella di bozze. Presenta le tue idee con stile e guarda la stanza illuminarsi.",
+      "wellness": "Assumi una posa di potere davanti allo specchio per trenta secondi ogni mattina per aumentare istantaneamente la tua fiducia interiore.",
+      "lucky_number": 5,
+      "lucky_color": "oro",
+      "mood": "Radioso"
+    },
+    "virgo": {
+      "overview": "Ah, dolce organizzazione, la musica per la tua anima ordinata! Mercoledì ti offre un'opportunità profondamente gratificante di organizzare la tua vita a colori, snellire un processo disordinato o semplicemente curare la playlist estetica definitiva. Il tuo occhio attento ai dettagli coglie qualcosa di geniale che tutti gli altri si sono completamente persi, facendoti guadagnare grandi cenni di apprezzamento dai tuoi coetanei. Non cadere però nella trappola del perfezionismo; lascia un po' di spazio per felici incidenti e magia disordinata. A volte i momenti migliori accadono quando lasci andare il copione e vedi semplicemente cosa si sviluppa.",
+      "love": "Gli atti di servizio sono il tuo linguaggio dell'amore oggi, come lasciare un caffè a sorpresa sulla scrivania del tuo partner o mettere in ordine la sua libreria preferita. Il romanticismo si trova nei piccoli dettagli premurosi.",
+      "career": "Le tue meticolose capacità di editing e la tua abilità nel risolvere i problemi salvano la situazione in un progetto che si era inceppato. Il tuo approccio metodico spazza via la confusione in tempi record.",
+      "wellness": "Riordina anche solo una piccola superficie, come il tuo comodino o la scrivania, per portare pace immediata alla tua mente attiva.",
+      "lucky_number": 14,
+      "lucky_color": "blu navy",
+      "mood": "Concentrato"
+    },
+    "libra": {
+      "overview": "Considerati il sovrintendente diplomatico del fascino oggi, Bilancia. Mercoledì porta una deliziosa armonia nella tua sfera sociale, rendendolo il momento ideale per ospitare un ritrovo spontaneo o mediare un amichevole dibattito con la tua grazia caratteristica. Hai un occhio per la bellezza più acuto del solito, quindi concediti una visita a una galleria d'arte locale, a un negozio di piante carino o semplicemente ridecora lo sfondo del tuo telefono con una nuova splendida carta da parati. L'equilibrio è la tua forma d'arte, e oggi stai dipingendo un capolavoro di buone vibrazioni.",
+      "love": "Il tuo fascino estetico è fuori scala, rendendoti irresistibile per chiunque abbia la fortuna di condividere la tua orbita. Organizza un'uscita visivamente sbalorditiva, come un aperitivo al tramonto o un'intima cena a lume di candela.",
+      "career": "Il lavoro di squadra fa realizzare i sogni oggi, e tu sei la colla che tiene insieme il puzzle creativo. Il tuo talento per il compromesso trasforma una situazione di stallo in una strategia vincente.",
+      "wellness": "Diffondi un olio essenziale calmante come la lavanda o il bergamotto nel tuo spazio vitale per mantenere il tuo equilibrio interiore.",
+      "lucky_number": 33,
+      "lucky_color": "rosa",
+      "mood": "Armonioso"
+    },
+    "scorpio": {
+      "overview": "Il tuo magnetismo misterioso è praticamente impostato sulla mezzanotte oggi, Scorpione. Mercoledì ti incoraggia a tuffarti a capofitto in un progetto di passione o in un mistero intrigante che stuzzica la tua curiosità. Non ti interessano le chiacchiere da bar oggi; vuoi conversazioni che vadano ditte dritte all'anima, e smaschererai facilmente qualsiasi falsità. Usa la tua concentrazione laser per conquistare un compito complesso dietro le quinte. Quando emergerai dal tuo spazio di lavoro privato, avrai compiuto qualcosa di veramente straordinario che lascerà tutti a chiedersi come tu abbia fatto.",
+      "love": "L'intimità è al centro della scena oggi, invitando a conversazioni profonde, da anima ad anima, che rafforzano il vostro legame. Un segreto condiviso o una battuta interna sussurrata avvicinano te e la tua persona.",
+      "career": "I tuoi istinti investigativi sono taglienti come lame, permettendoti di scoprire un modo più intelligente ed efficiente per affrontare un blocco di lavoro persistente. Fidati del tuo istinto invece che del protocollo standard.",
+      "wellness": "Pratica un esercizio di respirazione consapevole in completo silenzio per cinque minuti per ricaricare la tua batteria energetica.",
+      "lucky_number": 9,
+      "lucky_color": "marrone scuro",
+      "mood": "Intenso"
+    },
+    "sagittarius": {
+      "overview": "Fai le valigie mentali, Sagittario, perché il sacro fuoco della voglia di viaggiare si fa sentire forte questo mercoledì! Anche se sei bloccato a una scrivania, il tuo spirito avventuroso sta pianificando la tua prossima grande fuga, che sia un viaggio con lo zaino in spalla attraverso l'Europa o semplicemente la prova di un ristorante fusion appena aperto in città. Il tuo ottimismo contagioso trasforma un ordinario mercoledì in un parco giochi assoluto. Condividi i tuoi grandi sogni e le tue folli storie di viaggio con chiunque voglia ascoltare; il tuo entusiasmo è una scintilla contagiosa che illumina l'intera stanza.",
+      "love": "La spontaneità è il tuo migliore alleato in amore in questo momento, quindi sorprendi il tuo partner con un picnic improvvisato al parco o un viaggio inaspettato in macchina. Mantieni le cose leggere, divertenti e aperte a ogni sviluppo.",
+      "career": "Il pensiero ad ampio raggio è la tua specialità oggi, permettendoti di ispirare il team con una visione che va ben oltre l'ordinario. Non preoccuparti dei piccoli refusi; concentrati sul concetto grandioso.",
+      "wellness": "Esci per una camminata a passo vivo all'aria aperta durante la pausa pranzo per soddisfare il tuo bisogno di movimento.",
+      "lucky_number": 55,
+      "lucky_color": "turchese",
+      "mood": "Avventuroso"
+    },
+    "capricorn": {
+      "overview": "Scala quella montagna un passo costante e stiloso alla volta, Capricorno! Mercoledì premia la tua leggendaria disciplina con vittorie tangibili, rendendolo una giornata fantastica per spuntare traguardi importanti sulla tua ambiziosa agenda. Ma aspetta: ricordati di guardare il panorama e celebrare quanta strada hai già fatto invece di ossessionarti immediatamente per la prossima vetta. Oggi hai una presenza silenziosa e autorevole che attira rispetto senza che tu debba nemmeno provarci. Concediti una lussuosa ricompensa post-lavoro per il tuo duro lavoro; ti sei guadagnato ogni singolo pezzetto.",
+      "love": "Le azioni parlano più forte dei grandi discorsi oggi, quindi dimostra la tua devozione attraverso un supporto costante e una presenza affidabile. Un gesto silenzioso e sincero la dice lunga per il tuo partner.",
+      "career": "La tua pianificazione strategica è un capolavoro di efficienza oggi, facendo guadagnare cenni silenziosi di approvazione dai piani alti. Tieni la testa bassa e lascia che siano i tuoi risultati stellari a parlare.",
+      "wellness": "Allunga accuratamente i muscoli posteriori della coscia e le spalle per rilasciare la tensione fisica che si accumula a causa del duro lavoro.",
+      "lucky_number": 88,
+      "lucky_color": "antracite",
+      "mood": "Ambizioso"
+    },
+    "aquarius": {
+      "overview": "Il tuo cervello futuristico sta operando nel 3026 oggi, Acquario, mentre tutti gli altri stanno ancora cercando di raggiungere il presente! Mercoledì ti regala geniali epifanie fuori dagli schemi che potrebbero rivoluzionare la tua routine quotidiana o dare il via a un fantastico progetto di comunità. Abbraccia la tua eccentrica unicità e non annacquare le tue idee più strambe per nessuno. Connettiti con anime affini che apprezzano il tuo umorismo eccentrico e la tua visione lungimirante. Potresti imbatterti in un'incredibile comunità online o in un nuovo e affascinante gadget tecnologico che fa cantare il tuo cuore.",
+      "love": "La connessione platonica può facilmente sfumare in qualcosa di meravigliosamente romantico oggi se condividi i tuoi sogni più sfrenati con una persona speciale. Abbraccia idee di appuntamenti non convenzionali che rompono gli schemi.",
+      "career": "L'innovazione è il tuo secondo nome oggi, e le tue soluzioni ingegnose lasciano il tuo team a chiedersi se hai una macchina del tempo. Proporre un'idea futuristica è fortemente incoraggiato.",
+      "wellness": "Scollegati da tutte le notifiche dei social media per qualche ora per dare al tuo brillante cervello un po' di spazio di respiro.",
+      "lucky_number": 11,
+      "lucky_color": "blu elettrico",
+      "mood": "Visionario"
+    },
+    "pisces": {
+      "overview": "Vola via su una soffice nuvola rosa di sogni ad occhi aperti oggi, Pesci, perché la tua musa artistica sta facendo gli straordinari. Mercoledì è un paese delle meraviglie assoluto per la tua immaginazione, rendendolo il momento ideale per dipingere, scrivere poesie o perdersi in una colonna sonora fenomenale mentre guardi fuori dalla finestra. La tua empatia è come una spugna, quindi assicurati di assorbire buona arte e vibrazioni edificanti piuttosto che assorbire lo stress delle altre persone. Fidati dei tuoi magici sogni ad occhi aperti: sono spesso progetti per la meravigliosa realtà che stai lentamente costruendo.",
+      "love": "Il romanticismo poetico sta chiamando il tuo nome, quindi scrivi una dolce nota manoscritta o ascolta una playlist condivisa con la tua cotta sotto le stelle della sera. La sensibilità è il tuo superpotere in amore in questo momento.",
+      "career": "Il tuo approccio fantasioso dà nuova vita a un progetto creativo stagnante, trasformando un compito noioso in un'opera d'arte. Lascia che sia la tua intuizione a guidare le tue scelte di design.",
+      "wellness": "Ascolta un paesaggio sonoro ambientale rilassante o battiti binaurali mentre ti rilassi per lenire il tuo sistema nervoso sensibile.",
+      "lucky_number": 7,
+      "lucky_color": "lavanda",
+      "mood": "Sognante"
+    }
+  }
+}

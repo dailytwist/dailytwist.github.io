@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-28",
+  "title": "Explosão de Conhecimento Diária: 28 de outubro de 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Qual país apresenta uma bandeira com uma folha de bordo no centro?",
+      "options": [
+        "Austrália",
+        "Nova Zelândia",
+        "Canadá",
+        "Estados Unidos"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A icônica bandeira vermelha e branca do Canadá, com sua folha de bordo estilizada de 11 pontas, foi adotada oficialmente em 1965."
+    },
+    {
+      "category": "Ciência",
+      "question": "Qual é o principal gás encontrado na atmosfera da Terra?",
+      "options": [
+        "Nitrogênio",
+        "Hidrogênio",
+        "Oxigênio",
+        "Dióxido de Carbono"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O nitrogênio compõe cerca de 78 por cento da atmosfera da Terra, enquanto o oxigênio responde por aproximadamente 21 por cento."
+    },
+    {
+      "category": "Comida",
+      "question": "A qual país é creditada a invenção do prato culinário conhecido como sushi?",
+      "options": [
+        "Coreia do Sul",
+        "China",
+        "Tailândia",
+        "Japão"
+      ],
+      "answer_index": 3,
+      "fun_fact": "As formas primitivas de sushi surgiram no Sudeste Asiático antes de evoluírem para o amado prato de arroz e frutos do mar popularizado no Japão."
+    },
+    {
+      "category": "História",
+      "question": "Quem foi o primeiro imperador do Império Romano?",
+      "options": [
+        "Constantino",
+        "Augusto",
+        "Júlio César",
+        "Nero"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Augusto, originalmente chamado de Otaviano, tornou-se o primeiro imperador romano após a queda da República Romana em 27 a.C."
+    },
+    {
+      "category": "Animais",
+      "question": "Qual é o animal terrestre mais rápido do mundo?",
+      "options": [
+        "Leão",
+        "Gazela",
+        "Guepardo",
+        "Antilocapra"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Um guepardo pode acelerar de 0 a 60 milhas por hora em apenas alguns segundos, superando a velocidade de qualquer outro mamífero terrestre."
+    },
+    {
+      "category": "Filmes e Cultura Pop",
+      "question": "Qual ator interpretou o papel de Jack Dawson no filme épico de romance de 1997 'Titanic'?",
+      "options": [
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Tom Cruise",
+        "Matt Damon"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Leonardo DiCaprio estrelou ao lado de Kate Winslet no filme de grande sucesso de James Cameron, que ganhou 11 prêmios da Academia."
+    },
+    {
+      "category": "Esportes",
+      "question": "Quantos jogadores estão em campo por um único time de futebol durante uma partida padrão?",
+      "options": [
+        "12",
+        "10",
+        "9",
+        "11"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Cada equipe coloca em campo 11 jogadores, incluindo um goleiro designado, durante uma partida padrão de futebol."
+    },
+    {
+      "category": "Idioma",
+      "question": "Qual é o termo para uma palavra que tem o significado exatamente oposto ao de outra palavra?",
+      "options": [
+        "Homônimo",
+        "Sinônimo",
+        "Antônimo",
+        "Acrônimo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Um antônimo é uma palavra com significado oposto a outra, como 'quente' e 'frio' ou 'feliz' e 'triste'."
+    },
+    {
+      "category": "Espaço",
+      "question": "Qual planeta é conhecido como o Planeta Vermelho?",
+      "options": [
+        "Marte",
+        "Júpiter",
+        "Saturno",
+        "Vênus"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Marte obtém sua tonalidade avermelhada devido a grandes quantidades de óxido de ferro, comumente conhecido como ferrugem, em sua superfície poeirenta."
+    },
+    {
+      "category": "Geografia",
+      "question": "A ilha de Madagascar está localizada em qual grande corpo d'água?",
+      "options": [
+        "Oceano Ártico",
+        "Oceano Índico",
+        "Oceano Atlântico",
+        "Oceano Pacífico"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Madagascar é o segundo maior país insular do mundo e fica na costa sudeste da África continental, no Oceano Índico."
+    }
+  ]
+}

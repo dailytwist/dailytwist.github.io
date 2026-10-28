@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-28",
+  "title": "Täglicher Wissensexpress: 28. Oktober 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches Land hat eine Flagge mit einem Ahornblatt in der Mitte?",
+      "options": [
+        "Australien",
+        "Neuseeland",
+        "Kanada",
+        "Vereinigte Staaten"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Die ikonische rot-weiße kanadische Flagge mit ihrem stilisierten 11-zackigen Ahornblatt wurde 1965 offiziell eingeführt."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Welches ist das Hauptgas in der Erdatmosphäre?",
+      "options": [
+        "Stickstoff",
+        "Wasserstoff",
+        "Sauerstoff",
+        "Kohlenstoffdioxid"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Stickstoff macht etwa 78 Prozent der Erdatmosphäre aus, während Sauerstoff rund 21 Prozent ausmacht."
+    },
+    {
+      "category": "Essen & Trinken",
+      "question": "Welchem Land wird die Erfindung des kulinarischen Gerichts namens Sushi zugeschrieben?",
+      "options": [
+        "Südkorea",
+        "China",
+        "Thailand",
+        "Japan"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Frühe Formen von Sushi entstanden in Südostasien, bevor sie sich zu dem beliebten Reis- und Meeresfrüchtegericht entwickelten, das in Japan populär wurde."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Wer war der erste Kaiser des Römischen Reiches?",
+      "options": [
+        "Konstantin",
+        "Augustus",
+        "Julius Cäsar",
+        "Nero"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Augustus, der ursprünglich Octavian hieß, wurde nach dem Untergang der Römischen Republik im Jahr 27 v. Chr. der erste römische Kaiser."
+    },
+    {
+      "category": "Tiere",
+      "question": "Welches ist das schnellste Landtier der Welt?",
+      "options": [
+        "Löwe",
+        "Gazelle",
+        "Gepard",
+        "Gabelbock"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Ein Gepard kann in nur wenigen Sekunden von 0 auf 100 km/h beschleunigen und übertrifft damit die Geschwindigkeit jedes anderen Säugetiers an Land."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Welcher Schauspieler spielte die Rolle des Jack Dawson in dem epischen Liebesfilm 'Titanic' aus dem Jahr 1997?",
+      "options": [
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Tom Cruise",
+        "Matt Damon"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Leonardo DiCaprio spielte an der Seite von Kate Winslet in James Camerons Blockbuster-Film, der 11 Oscars gewann."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Spieler stehen bei einem regulären Fußballspiel für eine Mannschaft auf dem Feld?",
+      "options": [
+        "12",
+        "10",
+        "9",
+        "11"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Bei einem regulären Fußballspiel stehen pro Mannschaft 11 Spieler auf dem Platz, darunter ein bestimmter Torwart."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie nennt man ein Wort, das die exakte Gegenteilbedeutung eines anderen Wortes hat?",
+      "options": [
+        "Homonym",
+        "Synonym",
+        "Antonym",
+        "Akronym"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Ein Antonym ist ein Wort mit gegensätzlicher Bedeutung zu einem anderen, wie zum Beispiel 'heiß' und 'kalt' oder 'glücklich' und 'traurig'."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Planet wird als der Rote Planet bezeichnet?",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Venus"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Der Mars verdankt seinen rötlichen Farbton großen Mengen an Eisenoxid, umgangssprachlich Rost genannt, auf seiner staubigen Oberfläche."
+    },
+    {
+      "category": "Geografie",
+      "question": "In welchem großen Gewässer liegt die Insel Madagaskar?",
+      "options": [
+        "Arktischer Ozean",
+        "Indischer Ozean",
+        "Atlantischer Ozean",
+        "Pazifischer Ozean"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Madagaskar ist der zweitgrößte Inselstaat der Welt und liegt vor der südöstlichen Küste des afrikanischen Festlands im Indischen Ozean."
+    }
+  ]
+}
