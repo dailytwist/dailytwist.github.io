@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-28",
+  "slug": "health-and-fitness",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "🏃",
+  "title": "Healthy Body, Healthy Mind",
+  "summary": "In this lesson, you will learn useful words to talk about health and fitness. You will also practice using them in everyday conversations.",
+  "sections": [
+    {
+      "h": "Talking About Exercise",
+      "p": "When we want to stay strong and healthy, we need to move our bodies. Exercise is a great way to have fun and feel good. We use words like 'work out' to mean going to the gym or doing sports. Another good habit is to 'warm up' before we start so we do not hurt our muscles. Regular movement gives us more energy for our daily lives.",
+      "ex": [
+        {
+          "en": "I like to work out at the gym three times a week.",
+          "mean": "I exercise at the gym three times a week."
+        },
+        {
+          "en": "Always warm up before you start running.",
+          "mean": "Do light stretches or movements before you run so you don't get hurt."
+        }
+      ]
+    },
+    {
+      "h": "Eating Good Food",
+      "p": "Food is the fuel for our bodies. To stay healthy, we should try to eat a 'balanced diet' with lots of fresh vegetables and fruit. Drinking enough water every day is also very important. Sometimes, we want to eat 'junk food' like burgers or chocolate, but we should only eat those things sometimes, not every day.",
+      "ex": [
+        {
+          "en": "Eating a balanced diet helps you stay strong.",
+          "mean": "Eating the right mix of healthy foods keeps you strong."
+        },
+        {
+          "en": "Try to drink plenty of water during the day.",
+          "mean": "Drink a lot of water throughout the day."
+        }
+      ]
+    },
+    {
+      "h": "Rest and Recovery",
+      "p": "Working hard is important, but rest is just as important for our health. If you feel tired, you need to 'get in shape' slowly and not push your body too hard. Getting a good night's sleep helps your muscles relax and gives your brain a break so you wake up feeling fresh and ready.",
+      "ex": [
+        {
+          "en": "You need to rest if your muscles feel sore.",
+          "mean": "You should take a break if your body hurts from exercise."
+        },
+        {
+          "en": "Sleeping eight hours a night is good for your health.",
+          "mean": "Getting eight hours of sleep helps you stay healthy."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "work out",
+      "mean": "exercise"
+    },
+    {
+      "en": "warm up",
+      "mean": "prepare muscles"
+    },
+    {
+      "en": "balanced diet",
+      "mean": "healthy mix of food"
+    },
+    {
+      "en": "junk food",
+      "mean": "unhealthy snacks"
+    },
+    {
+      "en": "sore",
+      "mean": "painful muscles"
+    },
+    {
+      "en": "fit",
+      "mean": "healthy and strong"
+    },
+    {
+      "en": "energy",
+      "mean": "power to do things"
+    },
+    {
+      "en": "relax",
+      "mean": "rest and calm down"
+    }
+  ],
+  "tip": "Try to use one new fitness word every day when talking about your routine. Writing your goals in a notebook also helps you remember them better.",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "I like to ___ at the gym after I finish my work.",
+      "choices": [
+        "sleep",
+        "work out",
+        "eat"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "You should always ___ before you start running so you don't get hurt.",
+      "choices": [
+        "warm up",
+        "sit down",
+        "give up"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Eating fruit and vegetables is part of a healthy ___.",
+      "choices": [
+        "junk food",
+        "sleep",
+        "balanced diet"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "My legs feel very ___ today because I ran a long way yesterday.",
+      "choices": [
+        "strong",
+        "sore",
+        "happy"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Burgers and chips are often called ___ food.",
+      "choices": [
+        "junk",
+        "clean",
+        "green"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Drinking enough water gives you more ___ during the day.",
+      "choices": [
+        "sleep",
+        "energy",
+        "food"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

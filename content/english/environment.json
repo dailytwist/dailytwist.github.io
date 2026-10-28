@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-28",
+  "slug": "environment",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "🌳",
+  "title": "Talking About Nature and the Environment",
+  "summary": "In this lesson, you will learn useful English words to talk about nature and our planet. You will also practice using these words in daily conversations.",
+  "sections": [
+    {
+      "h": "Protecting Nature",
+      "p": "When we talk about saving our planet, we often use words like 'protect' and 'recycle'. Protecting nature means keeping animals and plants safe from harm. Recycling means changing old things like paper or plastic into new items so we do not waste them. These actions help keep our environment clean and healthy for everyone.",
+      "ex": [
+        {
+          "en": "We must protect local wildlife in our forests.",
+          "mean": "We need to keep animals and birds safe."
+        },
+        {
+          "en": "I always recycle my glass and plastic bottles.",
+          "mean": "I put old bottles in special bins to make new ones."
+        }
+      ]
+    },
+    {
+      "h": "Energy and Waste",
+      "p": "Every day, we use energy and create waste. To help the earth, we should try to save energy by turning off lights when we leave a room. We should also try to reduce plastic waste by using reusable bags when we go shopping. Small daily changes make a big difference for our world.",
+      "ex": [
+        {
+          "en": "Please turn off the lights to save energy.",
+          "mean": "Stop using electricity when you do not need it."
+        },
+        {
+          "en": "She uses a reusable shopping bag every day.",
+          "mean": "She uses the same bag many times instead of buying new plastic ones."
+        }
+      ]
+    },
+    {
+      "h": "Clean Air and Water",
+      "p": "Clean air and water are important for all living things. Pollution from cars and factories can make the air dirty and harm our health. Planting trees helps clean the air naturally. We should also keep our rivers and oceans clean by not throwing rubbish in them.",
+      "ex": [
+        {
+          "en": "Planting trees helps to clean our air.",
+          "mean": "New trees make the air better to breathe."
+        },
+        {
+          "en": "We need to stop plastic pollution in the ocean.",
+          "mean": "We must stop putting plastic into the sea."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "environment",
+      "mean": "the natural world"
+    },
+    {
+      "en": "protect",
+      "mean": "keep safe"
+    },
+    {
+      "en": "recycle",
+      "mean": "reuse old materials"
+    },
+    {
+      "en": "pollution",
+      "mean": "dirty air or water"
+    },
+    {
+      "en": "save energy",
+      "mean": "use less electricity"
+    },
+    {
+      "en": "rubbish",
+      "mean": "waste or trash"
+    },
+    {
+      "en": "wildlife",
+      "mean": "animals and plants"
+    },
+    {
+      "en": "reusable",
+      "mean": "can be used again"
+    }
+  ],
+  "tip": "Try to label three items in your room with their English nature names using sticky notes. Seeing them every day helps you remember them faster!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "We put plastic bottles in a special bin to ___ them.",
+      "choices": [
+        "waste",
+        "recycle",
+        "pollute"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Smoke from cars and factories causes air ___.",
+      "choices": [
+        "pollution",
+        "wildlife",
+        "energy"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "It is important to ___ animals and plants in the forest.",
+      "choices": [
+        "harm",
+        "drop",
+        "protect"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Turn off the lights when you leave to ___ energy.",
+      "choices": [
+        "save",
+        "burn",
+        "waste"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Please do not drop your ___ on the ground; use the bin.",
+      "choices": [
+        "nature",
+        "rubbish",
+        "air"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Using a ___ bag helps us stop buying new plastic bags.",
+      "choices": [
+        "dirty",
+        "broken",
+        "reusable"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

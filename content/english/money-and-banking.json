@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-28",
+  "slug": "money-and-banking",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "💳",
+  "title": "Talking About Money and Banking",
+  "summary": "Learn useful words for managing your money at the bank. You will practice how to talk about saving, spending, and using accounts.",
+  "sections": [
+    {
+      "h": "Keeping Your Money Safe",
+      "p": "When you have money, you need a safe place to put it. A bank is a business that keeps your money safe. You can open a bank account, which is your personal space at the bank. Every month, you might get a bank statement. This is a piece of paper or a digital file that shows all your money coming in and going out.",
+      "ex": [
+        {
+          "en": "I need to open a new bank account today.",
+          "mean": "I want to start a new relationship with a bank to keep my money."
+        },
+        {
+          "en": "Please check your bank statement to see where your money went.",
+          "mean": "Look at the list of your recent money actions."
+        }
+      ]
+    },
+    {
+      "h": "Putting Money In and Taking Money Out",
+      "p": "When you work, your employer gives you money. You can deposit this money into your account, which means you put it in. When you need cash to buy food or clothes, you can withdraw money, which means you take it out of your account using an ATM or by talking to a cashier.",
+      "ex": [
+        {
+          "en": "I will deposit my paycheck into my savings account.",
+          "mean": "I am going to put the money I earned into the bank."
+        },
+        {
+          "en": "I need to withdraw some cash for the bus.",
+          "mean": "I must take physical money out of the bank machine."
+        }
+      ]
+    },
+    {
+      "h": "Saving for the Future",
+      "p": "It is always a good idea to put some money aside for later. This is called saving money. You can put extra money into a savings account. Sometimes, the bank gives you a little extra money as a reward for keeping your money there. This extra money is called interest.",
+      "ex": [
+        {
+          "en": "I am trying to save money for a nice holiday.",
+          "mean": "I am keeping my money instead of spending it right now."
+        },
+        {
+          "en": "This account gives me a good rate of interest.",
+          "mean": "The bank pays me a little extra money for using their account."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "bank account",
+      "mean": "personal place at a bank"
+    },
+    {
+      "en": "deposit",
+      "mean": "put money in"
+    },
+    {
+      "en": "withdraw",
+      "mean": "take money out"
+    },
+    {
+      "en": "savings account",
+      "mean": "account for saving money"
+    },
+    {
+      "en": "bank statement",
+      "mean": "list of money actions"
+    },
+    {
+      "en": "interest",
+      "mean": "extra money from bank"
+    },
+    {
+      "en": "ATM",
+      "mean": "cash machine"
+    }
+  ],
+  "tip": "Try to label the things around you with English banking words, like writing 'ATM' on a picture of a cash machine to remember it easily.",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "I need to ___ some money out of the machine to buy lunch.",
+      "choices": [
+        "deposit",
+        "withdraw",
+        "save"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "She wants to open a new ___ at the local bank.",
+      "choices": [
+        "bank account",
+        "ATM",
+        "statement"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Every month, I look at my ___ to see my spending.",
+      "choices": [
+        "interest",
+        "cash",
+        "bank statement"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "I will ___ my paycheck into the bank this afternoon.",
+      "choices": [
+        "deposit",
+        "withdraw",
+        "borrow"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "The bank pays me a little ___ on the money I keep there.",
+      "choices": [
+        "statement",
+        "interest",
+        "account"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "I need to find an ___ to get some paper money.",
+      "choices": [
+        "account",
+        "interest",
+        "ATM"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

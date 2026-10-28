@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-28",
+  "slug": "idioms-everyday",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "🎨",
+  "title": "10 expresiones idiomáticas en inglés del día a día",
+  "summary": "Aprende 10 modismos comunes en inglés que los hablantes nativos usan todos los días. Descubre lo que realmente significan para sonar más natural.",
+  "sections": [
+    {
+      "h": "Colores y estados de ánimo",
+      "p": "Los angloparlantes suelen usar los colores para hablar de cómo se sienten. Cuando estás triste, puedes sentirte 'blue'. Cuando recibes un regalo sorpresa o una buena noticia de la nada, ocurre por completo por sorpresa. Estas coloridas frases hacen que las conversaciones cotidianas sean mucho más interesantes y divertidas de escuchar.",
+      "ex": [
+        {
+          "en": "I was feeling a bit blue yesterday, so I watched my favorite comedy movie.",
+          "mean": "Ayer me sentía un poco triste, así que vi mi comedia favorita."
+        },
+        {
+          "en": "The job offer came out of the blue, and I was so happy.",
+          "mean": "La oferta de trabajo llegó inesperadamente y me puse muy feliz."
+        },
+        {
+          "en": "She passed her driving test with flying colors.",
+          "mean": "Aprobó su examen de conducir con una puntuación altísima y un gran éxito."
+        }
+      ]
+    },
+    {
+      "h": "Comida y animales",
+      "p": "La comida y los animales son muy populares en los modismos en inglés. Si estás muy nervioso antes de una gran presentación, es posible que sientas pequeños animales moviéndote en el estómago. O, si sin querer cuentas un secreto que debía mantenerse oculto, le causas un gran problema a todo el mundo.",
+      "ex": [
+        {
+          "en": "I had butterflies in my stomach before going on stage.",
+          "mean": "Me puse muy nervioso antes de subir al escenario."
+        },
+        {
+          "en": "Who spilled the beans about the surprise party?",
+          "mean": "¿Quién contó el secreto sobre la fiesta sorpresa?"
+        },
+        {
+          "en": "Let's call it a day and go home.",
+          "mean": "Dejemos de trabajar por hoy y vayámonos a casa."
+        }
+      ]
+    },
+    {
+      "h": "Acción y éxito",
+      "p": "Para hablar de empezar una tarea o enfrentarse a una situación difícil, los hablantes nativos utilizan expresiones basadas en la acción. En lugar de hablar durante mucho tiempo, alguien puede pedirte que vayas directo al grano. Cuando haces algo a la perfección, le das al blanco directamente.",
+      "ex": [
+        {
+          "en": "Stop beating around the bush and tell me what you think.",
+          "mean": "Deja de evitar el tema principal y dime qué piensas."
+        },
+        {
+          "en": "You hit the nail on the head with that guess.",
+          "mean": "Describiste la situación o la respuesta con total exactitud."
+        },
+        {
+          "en": "Under the weather, I decided to stay in bed.",
+          "mean": "Sintiéndome un poco mal, decidí quedarme en la cama."
+        },
+        {
+          "en": "Cost an arm and a leg, but the laptop is great.",
+          "mean": "Fue muy caro, pero el portátil es genial."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "feel blue",
+      "mean": "sentirse triste"
+    },
+    {
+      "en": "out of the blue",
+      "mean": "inesperadamente"
+    },
+    {
+      "en": "flying colors",
+      "mean": "gran éxito"
+    },
+    {
+      "en": "butterflies in my stomach",
+      "mean": "sentirse nervioso"
+    },
+    {
+      "en": "spill the beans",
+      "mean": "contar un secreto"
+    },
+    {
+      "en": "call it a day",
+      "mean": "dejar de trabajar"
+    },
+    {
+      "en": "beat around the bush",
+      "mean": "andar con rodeos"
+    },
+    {
+      "en": "hit the nail on the head",
+      "mean": "tener toda la razón"
+    },
+    {
+      "en": "under the weather",
+      "mean": "sentirse un poco mal"
+    },
+    {
+      "en": "cost an arm and a leg",
+      "mean": "muy caro"
+    }
+  ],
+  "tip": "No traduzcas las expresiones idiomáticas palabra por palabra a tu idioma nativo, porque no tendrán sentido. En su lugar, intenta aprender la frase completa como una sola idea.",
+  "quiz": [
+    {
+      "ask": "Elige la expresión correcta para sentirse triste.",
+      "en": "Lately, John has been feeling ___ because his best friend moved away.",
+      "choices": [
+        "red",
+        "blue",
+        "green"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la expresión correcta para dejar de trabajar.",
+      "en": "We have worked for eight hours. Let's ___ and go home.",
+      "choices": [
+        "call it a day",
+        "spill the beans",
+        "hit the nail"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la expresión correcta para revelar un secreto.",
+      "en": "Mark accidentally ___ about the holiday destination.",
+      "choices": [
+        "ate the cake",
+        "spilled the beans",
+        "beat the bush"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la expresión correcta para algo muy caro.",
+      "en": "That new sports car must ___!",
+      "choices": [
+        "be very cheap",
+        "cost an arm and a leg",
+        "fly with colors"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la expresión correcta para estar nervioso.",
+      "en": "I always get ___ before a job interview.",
+      "choices": [
+        "blue skies",
+        "flying colors",
+        "butterflies in my stomach"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la expresión correcta para tener la razón.",
+      "en": "Your explanation of the problem really ___.",
+      "choices": [
+        "hit the nail on the head",
+        "spilled the beans",
+        "felt blue"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

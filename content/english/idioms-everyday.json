@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-28",
+  "slug": "idioms-everyday",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "🎨",
+  "title": "10 Everyday English Idioms",
+  "summary": "Learn 10 common English idioms that native speakers use every day. Discover what they really mean so you can sound more natural.",
+  "sections": [
+    {
+      "h": "Colors and Moods",
+      "p": "English speakers often use colors to talk about how they feel. When you are sad, you might feel blue. When you receive a surprise gift or good news out of nowhere, it happens completely by surprise. These colorful phrases make daily conversations much more interesting and fun to listen to.",
+      "ex": [
+        {
+          "en": "I was feeling a bit blue yesterday, so I watched my favorite comedy movie.",
+          "mean": "I was feeling a bit sad yesterday, so I watched my favorite comedy movie."
+        },
+        {
+          "en": "The job offer came out of the blue, and I was so happy.",
+          "mean": "The job offer happened unexpectedly, and I was so happy."
+        },
+        {
+          "en": "She passed her driving test with flying colors.",
+          "mean": "She passed her driving test with a very high score and great success."
+        }
+      ]
+    },
+    {
+      "h": "Food and Animals",
+      "p": "Food and animals are very popular in English idioms. If you are very nervous before a big presentation, you might feel little creatures moving inside your stomach. Or, if you accidentally tell a secret that was supposed to stay hidden, you cause a big problem for everyone.",
+      "ex": [
+        {
+          "en": "I had butterflies in my stomach before going on stage.",
+          "mean": "I felt very nervous before going on stage."
+        },
+        {
+          "en": "Who spilled the beans about the surprise party?",
+          "mean": "Who told the secret about the surprise party?"
+        },
+        {
+          "en": "Let's call it a day and go home.",
+          "mean": "Let's stop working for today and go home."
+        }
+      ]
+    },
+    {
+      "h": "Action and Success",
+      "p": "To talk about starting a task or facing a difficult situation, native speakers use action-based expressions. Instead of speaking for a long time, someone might ask you to get straight to the main point. When you do something perfectly, you hit the target directly.",
+      "ex": [
+        {
+          "en": "Stop beating around the bush and tell me what you think.",
+          "mean": "Stop avoiding the main topic and tell me what you think."
+        },
+        {
+          "en": "You hit the nail on the head with that guess.",
+          "mean": "You described the situation or answer completely correctly."
+        },
+        {
+          "en": "Under the weather, I decided to stay in bed.",
+          "mean": "Feeling slightly sick, I decided to stay in bed."
+        },
+        {
+          "en": "Cost an arm and a leg, but the laptop is great.",
+          "mean": "Was very expensive, but the laptop is great."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "feel blue",
+      "mean": "feel sad"
+    },
+    {
+      "en": "out of the blue",
+      "mean": "unexpectedly"
+    },
+    {
+      "en": "flying colors",
+      "mean": "great success"
+    },
+    {
+      "en": "butterflies in my stomach",
+      "mean": "feeling nervous"
+    },
+    {
+      "en": "spill the beans",
+      "mean": "tell a secret"
+    },
+    {
+      "en": "call it a day",
+      "mean": "stop working"
+    },
+    {
+      "en": "beat around the bush",
+      "mean": "avoid the main point"
+    },
+    {
+      "en": "hit the nail on the head",
+      "mean": "be totally right"
+    },
+    {
+      "en": "under the weather",
+      "mean": "feeling slightly sick"
+    },
+    {
+      "en": "cost an arm and a leg",
+      "mean": "very expensive"
+    }
+  ],
+  "tip": "Do not translate idioms word-for-word into your native language, because they will not make sense. Instead, try to learn the whole phrase as one single idea.",
+  "quiz": [
+    {
+      "ask": "Choose the correct idiom for feeling sad.",
+      "en": "Lately, John has been feeling ___ because his best friend moved away.",
+      "choices": [
+        "red",
+        "blue",
+        "green"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct idiom for stopping work.",
+      "en": "We have worked for eight hours. Let's ___ and go home.",
+      "choices": [
+        "call it a day",
+        "spill the beans",
+        "hit the nail"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct idiom for revealing a secret.",
+      "en": "Mark accidentally ___ about the holiday destination.",
+      "choices": [
+        "ate the cake",
+        "spilled the beans",
+        "beat the bush"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct idiom for something very expensive.",
+      "en": "That new sports car must ___!",
+      "choices": [
+        "be very cheap",
+        "cost an arm and a leg",
+        "fly with colors"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct idiom for being nervous.",
+      "en": "I always get ___ before a job interview.",
+      "choices": [
+        "blue skies",
+        "flying colors",
+        "butterflies in my stomach"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct idiom for being right.",
+      "en": "Your explanation of the problem really ___.",
+      "choices": [
+        "hit the nail on the head",
+        "spilled the beans",
+        "felt blue"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

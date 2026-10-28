@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-28",
+  "slug": "social-media-english",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "📱",
+  "title": "Talking About Social Media",
+  "summary": "Learn four common words to talk about your online life. Practice how to post, share, follow, and find trending topics.",
+  "sections": [
+    {
+      "h": "Post and Share",
+      "p": "When you put a new photo or message on the internet for people to see, you post it. If you like something a friend put online and want your friends to see it too, you share it. These two actions are the most common ways to talk to people on social media every day.",
+      "ex": [
+        {
+          "en": "I want to post a picture of my cat.",
+          "mean": "I want to put a new cat photo online."
+        },
+        {
+          "en": "Please share my message with your friends.",
+          "mean": "Please let your friends see my message too."
+        }
+      ]
+    },
+    {
+      "h": "Follow",
+      "p": "When you follow someone on social media, you choose to see their new posts every day. You can follow your friends, your favorite musicians, or funny accounts. Their updates will always appear on your main screen.",
+      "ex": [
+        {
+          "en": "I follow a lot of great travel bloggers.",
+          "mean": "I get regular updates from many travel accounts."
+        },
+        {
+          "en": "Do you follow me on Instagram?",
+          "mean": "Do you look at my profile and updates?"
+        }
+      ]
+    },
+    {
+      "h": "Trending",
+      "p": "When a topic or a video is trending, it means many people are talking about it or watching it right now. It is very popular on the internet today. You can check the trending list to see what is new and exciting.",
+      "ex": [
+        {
+          "en": "That funny video is trending today.",
+          "mean": "Everyone is watching that funny video right now."
+        },
+        {
+          "en": "What topics are trending in your country?",
+          "mean": "What are people talking about the most online?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "post",
+      "mean": "put content online"
+    },
+    {
+      "en": "share",
+      "mean": "send to others"
+    },
+    {
+      "en": "follow",
+      "mean": "subscribe to updates"
+    },
+    {
+      "en": "trending",
+      "mean": "very popular now"
+    },
+    {
+      "en": "social media",
+      "mean": "online networks"
+    },
+    {
+      "en": "profile",
+      "mean": "personal page"
+    }
+  ],
+  "tip": "Think of a real app you use every day. Try to name three things you want to post or share there today.",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "I want to ___ a nice photo of my dinner on my profile.",
+      "choices": [
+        "follow",
+        "post",
+        "trending"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "If you like my article, please ___ it on your page.",
+      "choices": [
+        "share",
+        "follow",
+        "post"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "I ___ my favorite singer to see all her new photos.",
+      "choices": [
+        "trending",
+        "share",
+        "follow"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Look at the news! This topic is ___ all over the world.",
+      "choices": [
+        "trending",
+        "post",
+        "follow"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct meaning",
+      "en": "What does it mean when a video is trending?",
+      "choices": [
+        "It is very old.",
+        "Many people are watching it now.",
+        "It is hard to find."
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct meaning",
+      "en": "What do you do when you follow someone?",
+      "choices": [
+        "You block their account.",
+        "You see their new posts.",
+        "You delete their messages."
+      ],
+      "answer_index": 1
+    }
+  ]
+}

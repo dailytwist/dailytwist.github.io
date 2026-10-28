@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-28",
+  "slug": "linking-words",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🌉",
+  "title": "Conectando tus ideas: Palabras de enlace",
+  "summary": "En esta lección, aprenderás a conectar tus frases con claridad. Veremos palabras que muestran razones e ideas opuestas.",
+  "sections": [
+    {
+      "h": "Mostrando razones: Because y So",
+      "p": "Usamos 'because' para dar la razón de algo. Responde a la pregunta '¿por qué?'. Usamos 'so' para hablar del resultado de una acción. 'Because' va antes de la razón, mientras que 'so' va antes del resultado. Estas palabras hacen que tu expresión oral y escrita suene mucho más natural.",
+      "ex": [
+        {
+          "en": "I stayed at home because it was raining.",
+          "mean": "La lluvia es la razón por la que me quedé en casa."
+        },
+        {
+          "en": "It was raining, so I took an umbrella.",
+          "mean": "Llevar un paraguas es el resultado de la lluvia."
+        }
+      ]
+    },
+    {
+      "h": "Contrastando ideas: Although",
+      "p": "Usamos 'although' para mostrar un contraste inesperado entre dos ideas. Nos indica que algo sucedió a pesar de haber una situación difícil. Por lo general, se coloca al principio o en medio de la frase.",
+      "ex": [
+        {
+          "en": "Although he was tired, he finished his homework.",
+          "mean": "Estaba cansado, pero trabajó de todos modos."
+        },
+        {
+          "en": "She bought the shoes although they were expensive.",
+          "mean": "El precio era alto, pero aun así se los compró."
+        }
+      ]
+    },
+    {
+      "h": "Contrastes formales: However y Therefore",
+      "p": "Palabras como 'however' y 'therefore' se suelen usar al escribir o en contextos más formales. 'However' es similar a 'although' y muestra un contraste. 'Therefore' es similar a 'so' y muestra un resultado directo. Normalmente ponemos una coma después de ellas.",
+      "ex": [
+        {
+          "en": "The train was late. However, we arrived on time.",
+          "mean": "El tren tarde fue un problema, pero aun así llegamos con suficiente tiempo."
+        },
+        {
+          "en": "He studied very hard; therefore, he passed the exam.",
+          "mean": "Su gran esfuerzo dio como resultado aprobar el examen."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "because",
+      "mean": "da una razón"
+    },
+    {
+      "en": "so",
+      "mean": "muestra un resultado"
+    },
+    {
+      "en": "although",
+      "mean": "muestra un contraste"
+    },
+    {
+      "en": "however",
+      "mean": "sin embargo o no obstante"
+    },
+    {
+      "en": "therefore",
+      "mean": "por esa razón"
+    },
+    {
+      "en": "result",
+      "mean": "lo que sucede después"
+    },
+    {
+      "en": "reason",
+      "mean": "por qué ocurre algo"
+    }
+  ],
+  "tip": "Intenta escribir dos frases reales sobre tu día y luego conéctalas usando 'because' o 'so'. ¡La práctica hace al maestro!",
+  "quiz": [
+    {
+      "ask": "Elige la palabra de enlace correcta",
+      "en": "I wore a coat ___ it was very cold outside.",
+      "choices": [
+        "because",
+        "so",
+        "however"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra de enlace correcta",
+      "en": "She missed the bus, ___ she was late for work.",
+      "choices": [
+        "although",
+        "so",
+        "because"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra de enlace correcta",
+      "en": "___ the test was difficult, he got a good grade.",
+      "choices": [
+        "Therefore",
+        "Because",
+        "Although"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra de enlace correcta",
+      "en": "The hotel was old. ___, it was very clean and comfortable.",
+      "choices": [
+        "However",
+        "So",
+        "Because"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra de enlace correcta",
+      "en": "They practiced every day; ___, they won the match.",
+      "choices": [
+        "although",
+        "therefore",
+        "however"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la opción correcta",
+      "en": "I love cooking, ___ I don't have much free time.",
+      "choices": [
+        "because",
+        "therefore",
+        "although"
+      ],
+      "answer_index": 2
+    }
+  ]
+}
