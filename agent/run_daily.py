@@ -497,6 +497,58 @@ Format: {{"title": "{s.title()} Horoscope {year}: Love, Career, Money & Luck", "
             save(CONTENT / "yearly" / f"{year}-{s}.json", {"date": str(day), "year": year, "sign": s, **{k: data[k] for k in need}})
 
 
+TOPIC_NAMES = {"it": {"love": "Amore", "career": "Lavoro", "money": "Soldi"},
+               "fr": {"love": "Amour", "career": "Travail", "money": "Argent"},
+               "de": {"love": "Liebe", "career": "Beruf", "money": "Finanzen"},
+               "es": {"love": "Amor", "career": "Trabajo", "money": "Dinero"},
+               "en": {"love": "Love", "career": "Career", "money": "Money"}}
+
+
+def make_yearly_topics(day: dt.date, count: int) -> None:
+    """Deep 'Scorpio 2027: Love' style pages, written natively in each chosen language (not translated),
+    because people search '<sign> 2027 amore / lavoro'. Only languages listed in config yearly_topic_langs."""
+    year = day.year + 1 if day.month >= 10 else day.year
+    langs = CONFIG.get("yearly_topic_langs", [])
+    todo = []
+    for lang in langs:
+        base = CONTENT if lang == "en" else I18N / lang
+        for s in SIGNS:
+            for t in ("love", "career", "money"):
+                if not (base / "yearly_topics" / f"{year}-{s}-{t}.json").exists():
+                    todo.append((lang, s, t, base))
+    for lang, s, t, base in todo[:count]:
+        print(f"- yearly topic {year} {s} {t} [{lang}]")
+        tn = TOPIC_NAMES.get(lang, TOPIC_NAMES["en"])[t]
+        focus = {"love": "love life: singles and couples, communication, the best moments to meet someone or deepen a bond, the signs they get on best with this year",
+                 "career": "work and career: projects, colleagues, job changes, studies, the best moments to ask for more or start something new",
+                 "money": "money habits only: budgeting mindset, spending temptations, saving motivation, the best months to organise finances. NEVER give investment, trading, loan or gambling advice"}[t]
+        data = ask_json(f"""Write a {year} {t} horoscope page for {s.title()} for an entertainment astrology website.
+Write it DIRECTLY in {LANG_NAMES.get(lang, lang)} as a native writer would (natural, not translated), second person, warm and specific.
+Topic: {focus}. Use classic astrology ideas (ruling planet, element, traits of {s.title()}) loosely. Make it clearly different from other signs.
+No medical, legal or financial-product advice. No guarantees; it is entertainment.
+Format (all text in {LANG_NAMES.get(lang, lang)}):
+{{"title": "SEO title like '{s.title()} {year}: {tn}' in that language, max 60 chars",
+"summary": "meta description, 140-160 characters",
+"intro": "90-120 words",
+"quarters": [{{"months": "January – March (in that language)", "text": "80-110 words"}}, 3 more for Apr–Jun, Jul–Sep, Oct–Dec],
+"best_months": ["2-3 month names"], "watch_out": ["2 short things to be careful about"],
+"best_signs": ["2 zodiac sign keys in English lowercase from: {', '.join(SIGNS)}"],
+"tips": ["5 practical tips, one sentence each"],
+"faq": [{{"q": "a question people really search", "a": "40-60 words"}}, 2 more]}}""", max_tokens=3500)
+        ok = (isinstance(data, dict) and all(data.get(k) for k in ("title", "summary", "intro", "quarters", "tips", "faq"))
+              and isinstance(data["quarters"], list) and len(data["quarters"]) == 4
+              and all(isinstance(q, dict) and q.get("text") for q in data["quarters"]))
+        if not ok:
+            print("  skipped: incomplete answer")
+            continue
+        faq = [{"q": f.get("q"), "a": f.get("a") or f.get("ans") or f.get("answer")} for f in data["faq"] if isinstance(f, dict)]
+        data["faq"] = [f for f in faq if f["q"] and f["a"]][:3]
+        data["best_signs"] = [x for x in data.get("best_signs", []) if x in SIGNS][:2]
+        save(base / "yearly_topics" / f"{year}-{s}-{t}.json",
+             {"date": str(day), "year": year, "sign": s, "topic": t,
+              **{k: data.get(k, []) for k in ("title", "summary", "intro", "quarters", "best_months", "watch_out", "best_signs", "tips", "faq")}})
+
+
 CHINESE = ["rat", "ox", "tiger", "rabbit", "dragon", "snake", "horse", "goat", "monkey", "rooster", "dog", "pig"]
 
 
@@ -696,7 +748,7 @@ def main() -> None:
     jobs += [(make_horoscopes, (today,)), (make_trivia, (today,)),
              (make_articles, (today, trending_topics(CONFIG["trends_geo"]) if articles_today() < CONFIG["articles_per_day"] else [], CONFIG["articles_per_day"])),
              (make_pairs, (today, CONFIG.get("pairs_per_day", 6))),
-             (make_yearly, (today, 6)), (make_chinese, (today, 6)),
+             (make_yearly, (today, 6)), (make_yearly_topics, (today, CONFIG.get("yearly_topics_per_run", 8))), (make_chinese, (today, 6)),
              (make_dreams, (today, CONFIG.get("dreams_per_day", 6))),
              (make_guides, (today, CONFIG.get("guides_per_run", {"tarot": 4, "angel": 4, "birthday": 6, "birthstone": 2}))),
              (make_english, (today, CONFIG.get("english_per_run", 5))),

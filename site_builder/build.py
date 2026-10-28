@@ -81,6 +81,7 @@ def lang_data(lang):
         "guides": {g["sign"]: g for g in load(base / "signs") if g.get("sign") in SIGN_KEYS},
         "pairs": {x["slug"]: x for x in load(base / "pairs") if x.get("slug")},
         "yearly": {(x["year"], x["sign"]): x for x in load(base / "yearly") if x.get("sign") in SIGN_KEYS},
+        "ytopics": {(int(x["year"]), x["sign"], x["topic"]): x for x in load(base / "yearly_topics") if x.get("sign") in SIGN_KEYS and x.get("topic") in ("love", "career", "money")},
         "chinese": {x["animal"]: x for x in load(base / "chinese") if x.get("animal")},
         "numerology": {int(x["number"]): x for x in load(base / "numerology") if x.get("number")},
         "dreams": {x["symbol"]: x for x in load(base / "dreams") if x.get("symbol")},
@@ -934,9 +935,15 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
         add(lang, f"horoscope-{year}/", T(lang, "yearly_title", year=year), T(lang, "yearly_desc", year=year),
             f'<section class="zhub"><p class="kicker">🎆 {year}</p><h1>{e(T(lang, "yearly_title", year=year))}</h1>'
             f'<p class="lead">{e(T(lang, "yearly_desc", year=year))}</p><div class="zgrid">{cards}</div></section>', priority="0.9")
+        YT = D["ytopics"]
+        TEMO = {"love": "❤️", "career": "💼", "money": "💰"}
         for s in have:
             x = Y[(year, s)]
             li = "".join(f"<li>{e(t)}</li>" for t in x.get("tips", []))
+            def more(t, s=s, year=year):
+                if (year, s, t) not in YT:
+                    return ""
+                return f'<p><a class="btn small" href="{pre}/horoscope-{year}/{s}/{t}/">{TEMO[t]} {e(T(lang, "ytopic_more", topic=T(lang, t), year=year))} →</a></p>'
             body = f"""
 <article class="guide">
   <img class="sign-hero" src="/assets/signs/{s}-tall.webp" width="512" height="768" alt="{e(sign_name(lang, s))}">
@@ -945,15 +952,46 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
   <p class="lead">{e(x['summary'])}</p>
   <div class="facts"><div><span>✨</span><small>{e(T(lang, 'theme_year'))}</small><b>{e(x['theme'])}</b></div>
   <div><span>🍀</span><small>{e(T(lang, 'best_months'))}</small><b>{e(', '.join(map(str, x['best_months'])))}</b></div></div>
-  <h2>❤️ {e(T(lang, 'love'))}</h2><p>{e(x['love'])}</p>
-  <h2>💼 {e(T(lang, 'career'))}</h2><p>{e(x['career'])}</p>
-  <h2>💰 {e(T(lang, 'money'))}</h2><p>{e(x['money'])}</p>
+  <h2>❤️ {e(T(lang, 'love'))}</h2><p>{e(x['love'])}</p>{more('love')}
+  <h2>💼 {e(T(lang, 'career'))}</h2><p>{e(x['career'])}</p>{more('career')}
+  <h2>💰 {e(T(lang, 'money'))}</h2><p>{e(x['money'])}</p>{more('money')}
   <h2>🌿 {e(T(lang, 'wellness'))}</h2><p>{e(x['wellness'])}</p>
   <h2>💡 {e(T(lang, 'yearly_tips'))}</h2><ul>{li}</ul>
   <p class="small muted">{e(T(lang, 'entertainment_only'))}</p>
   <div class="chips">{"".join(f'<a class="mchip" href="{pre}/horoscope-{year}/{o}/">{sign_art(o, 28)} {e(sign_name(lang, o))}</a>' for o in have if o != s)}</div>
 </article>"""
             add(lang, f"horoscope-{year}/{s}/", x["title"], x["summary"], body, priority="0.8")
+        for (yy, s, t), z in sorted(YT.items()):
+            if yy != year or (year, s) not in Y:
+                continue
+            qs = "".join(f'<h3>{e(q.get("months", ""))}</h3><p>{e(q["text"])}</p>' for q in z["quarters"])
+            tips = "".join(f"<li>{e(t2)}</li>" for t2 in z.get("tips", []))
+            watch = "".join(f"<li>{e(w)}</li>" for w in z.get("watch_out", []))
+            faq = "".join(f'<details><summary>{e(f["q"])}</summary><p>{e(f["a"])}</p></details>' for f in z.get("faq", []))
+            matches = "".join(f'<a class="mchip" href="{pre}/compatibility/{pair_slug(s, o)}/">{sign_art(o, 28)} {e(sign_name(lang, s))} + {e(sign_name(lang, o))}</a>'
+                              for o in z.get("best_signs", []) if o != s)
+            others = "".join(f'<a class="mchip" href="{pre}/horoscope-{year}/{s}/{o}/">{TEMO[o]} {e(T(lang, o))}</a>' for o in TEMO if o != t and (year, s, o) in YT)
+            others += f'<a class="mchip" href="{pre}/horoscope-{year}/{s}/">{SIGNS[s][0]} {e(T(lang, "yearly_title", year=year))} · {e(sign_name(lang, s))}</a>'
+            body = f"""
+<article class="guide">
+  <img class="sign-hero" src="/assets/signs/{s}-tall.webp" width="512" height="768" alt="{e(sign_name(lang, s))}">
+  <p class="kicker">{TEMO[t]} {year} · {SIGNS[s][0]} {e(sign_name(lang, s))}</p>
+  <h1>{e(z['title'])}</h1>
+  <p class="lead">{e(z['intro'])}</p>
+  <div class="facts"><div><span>🍀</span><small>{e(T(lang, 'best_months'))}</small><b>{e(', '.join(map(str, z.get('best_months', []))))}</b></div></div>
+  <h2>📅 {e(T(lang, 'ytopic_quarters'))}</h2>{qs}
+  {f'<h2>⚠️ {e(T(lang, "ytopic_watch"))}</h2><ul>{watch}</ul>' if watch else ''}
+  {f'<h2>💞 {e(T(lang, "ytopic_best_signs"))}</h2><div class="chips">{matches}</div>' if matches else ''}
+  <h2>💡 {e(T(lang, 'yearly_tips'))}</h2><ul>{tips}</ul>
+  {f'<h2>{e(T(lang, "faq"))}</h2><div class="faq">{faq}</div>' if faq else ''}
+  <p class="small muted">{e(T(lang, 'entertainment_only'))}</p>
+  <div class="chips">{others}</div>
+</article>"""
+            schema = [{"@context": "https://schema.org", "@type": "Article", "headline": z["title"], "datePublished": z["date"], "inLanguage": lang}]
+            if z.get("faq"):
+                schema.append({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+                    {"@type": "Question", "name": f["q"], "acceptedAnswer": {"@type": "Answer", "text": f["a"]}} for f in z["faq"]]})
+            add(lang, f"horoscope-{year}/{s}/{t}/", z["title"], z["summary"], body, schema, priority="0.8")
 
     # chinese zodiac
     CZ = D["chinese"]

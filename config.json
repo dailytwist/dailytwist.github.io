@@ -26,6 +26,8 @@
   "android_package": "com.mydailytwist.app",
   "android_sha256": [],
   "pairs_per_day": 6,
+  "yearly_topic_langs": ["it"],
+  "yearly_topics_per_run": 8,
   "dreams_per_day": 6,
   "guides_per_run": {
     "tarot": 4,
