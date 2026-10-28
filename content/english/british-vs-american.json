@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-28",
+  "slug": "british-vs-american",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "🌍",
+  "title": "British vs American English Words",
+  "summary": "Discover everyday words that are different in British and American English. Learn how to use both correctly in conversation.",
+  "sections": [
+    {
+      "h": "Traveling and Cars",
+      "p": "When you talk about travel and cars, British and American English use very different words. For example, the area where you put your bags in a car is a boot in the UK, but it is called a trunk in the US. Knowing these differences helps you understand people from both countries easily.",
+      "ex": [
+        {
+          "en": "Put your heavy bags in the boot of the car.",
+          "mean": "Place your bags in the back storage area."
+        },
+        {
+          "en": "I need to fill my car with gas before our long trip.",
+          "mean": "I need to put fuel in my vehicle."
+        }
+      ]
+    },
+    {
+      "h": "Around the House",
+      "p": "Inside and outside the home, people use different names for common items. If you want to go to the higher floor in a British building, you take the lift. In America, people call the exact same machine an elevator. The flat ground right outside your front door might be a garden in the UK, but Americans usually call it a yard.",
+      "ex": [
+        {
+          "en": "My apartment is on the fifth floor, so I always take the lift.",
+          "mean": "I use the moving room to go up to my home."
+        },
+        {
+          "en": "We like to sit outside in the garden when the weather is warm.",
+          "mean": "We relax on the grass near our house."
+        }
+      ]
+    },
+    {
+      "h": "Shopping and Clothing",
+      "p": "Buying clothes is another fun way to see how English changes across the ocean. When the weather gets cold, British people put on a jumper. Americans wear the same warm clothing item, but they call it a sweater. Also, the money you spend goes into your wallet or purse, which you might keep in your pocket.",
+      "ex": [
+        {
+          "en": "It is cold outside today, so wear your favourite jumper.",
+          "mean": "Put on your warm woolen top because of the cold."
+        },
+        {
+          "en": "I love wearing comfortable sneakers when I walk to work.",
+          "mean": "I like wearing soft sports shoes for walking."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "boot",
+      "mean": "car trunk"
+    },
+    {
+      "en": "lift",
+      "mean": "elevator"
+    },
+    {
+      "en": "flat",
+      "mean": "apartment"
+    },
+    {
+      "en": "jumper",
+      "mean": "sweater"
+    },
+    {
+      "en": "trainer",
+      "mean": "sneaker"
+    },
+    {
+      "en": "garden",
+      "mean": "yard"
+    },
+    {
+      "en": "holiday",
+      "mean": "vacation"
+    },
+    {
+      "en": "chips",
+      "mean": "french fries"
+    }
+  ],
+  "tip": "Watch popular movies and TV shows from both the UK and the US. Notice the words the characters use for everyday objects to remember them better.",
+  "quiz": [
+    {
+      "ask": "Choose the correct British word for 'elevator'",
+      "en": "My apartment is on the top floor, so I will take the ___.",
+      "choices": [
+        "lift",
+        "elevator",
+        "escalator"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the American word for 'jumper'",
+      "en": "It is cold outside, so please put on a warm ___.",
+      "choices": [
+        "jacket",
+        "sweater",
+        "shirt"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct British word for 'apartment'",
+      "en": "She lives in a small ___ near the city centre.",
+      "choices": [
+        "house",
+        "flat",
+        "room"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the American word for 'trainer' (shoe)",
+      "en": "I need to buy a new pair of comfortable ___ for running.",
+      "choices": [
+        "boots",
+        "sandals",
+        "sneakers"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct British word for 'car trunk'",
+      "en": "Please put your suitcases in the ___ of the car.",
+      "choices": [
+        "boot",
+        "trunk",
+        "box"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the American word for 'holiday'",
+      "en": "We are planning a wonderful summer ___ to the beach.",
+      "choices": [
+        "break",
+        "vacation",
+        "trip"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

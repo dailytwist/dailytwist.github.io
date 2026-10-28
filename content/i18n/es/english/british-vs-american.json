@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-28",
+  "slug": "british-vs-american",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "🌍",
+  "title": "Palabras del inglés británico vs. americano",
+  "summary": "Descubre palabras cotidianas que son diferentes en el inglés británico y americano. Aprende a usar ambas correctamente en una conversación.",
+  "sections": [
+    {
+      "h": "Viajes y coches",
+      "p": "Cuando hablas de viajes y coches, el inglés británico y el americano usan palabras muy distintas. Por ejemplo, la zona donde guardas las maletas en un coche se llama \"boot\" en el Reino Unido, pero se le llama \"trunk\" en EE. UU. Conocer estas diferencias te ayuda a entender fácilmente a personas de ambos países.",
+      "ex": [
+        {
+          "en": "Put your heavy bags in the boot of the car.",
+          "mean": "Coloca tus maletas en el compartimento trasero."
+        },
+        {
+          "en": "I need to fill my car with gas before our long trip.",
+          "mean": "Necesito poner combustible en mi vehículo."
+        }
+      ]
+    },
+    {
+      "h": "Por la casa",
+      "p": "Dentro y fuera de casa, la gente usa nombres diferentes para objetos comunes. Si quieres ir a un piso más alto en un edificio británico, coges el \"lift\". En Estados Unidos, la gente llama exactamente a la misma máquina \"elevator\". El terreno llano justo al lado de tu puerta principal puede ser un \"garden\" en el Reino Unido, pero los estadounidenses suelen llamarlo \"yard\".",
+      "ex": [
+        {
+          "en": "My apartment is on the fifth floor, so I always take the lift.",
+          "mean": "Uso el habitáculo móvil para subir a mi casa."
+        },
+        {
+          "en": "We like to sit outside in the garden when the weather is warm.",
+          "mean": "Nos relajamos en el césped cerca de nuestra casa."
+        }
+      ]
+    },
+    {
+      "h": "Compras y ropa",
+      "p": "Comprar ropa es otra forma divertida de ver cómo cambia el inglés al otro lado del océano. Cuando hace frío, los británicos se ponen un \"jumper\". Los estadounidenses llevan esa misma prenda de abrigo, pero la llaman \"sweater\". Además, el dinero que gastas va en tu cartera o monedero, que quizás lleves en el bolsillo.",
+      "ex": [
+        {
+          "en": "It is cold outside today, so wear your favourite jumper.",
+          "mean": "Ponte tu abrigo de lana calentito debido al frío."
+        },
+        {
+          "en": "I love wearing comfortable sneakers when I walk to work.",
+          "mean": "Me gusta llevar zapatillas deportivas suaves para caminar."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "boot",
+      "mean": "maletero del coche"
+    },
+    {
+      "en": "lift",
+      "mean": "ascensor"
+    },
+    {
+      "en": "flat",
+      "mean": "apartamento"
+    },
+    {
+      "en": "jumper",
+      "mean": "jersey"
+    },
+    {
+      "en": "trainer",
+      "mean": "zapatilla deportiva"
+    },
+    {
+      "en": "garden",
+      "mean": "patio"
+    },
+    {
+      "en": "holiday",
+      "mean": "vacaciones"
+    },
+    {
+      "en": "chips",
+      "mean": "patatas fritas"
+    }
+  ],
+  "tip": "Mira películas y series populares tanto del Reino Unido como de EE. UU. Presta atención a las palabras que usan los personajes para objetos cotidianos y así recordarlas mejor.",
+  "quiz": [
+    {
+      "ask": "Elige la palabra británica correcta para \"elevator\"",
+      "en": "My apartment is on the top floor, so I will take the ___.",
+      "choices": [
+        "lift",
+        "elevator",
+        "escalator"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra americana para \"jumper\"",
+      "en": "It is cold outside, so please put on a warm ___.",
+      "choices": [
+        "jacket",
+        "sweater",
+        "shirt"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra británica correcta para \"apartment\"",
+      "en": "She lives in a small ___ near the city centre.",
+      "choices": [
+        "house",
+        "flat",
+        "room"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra americana para \"trainer\" (zapato)",
+      "en": "I need to buy a new pair of comfortable ___ for running.",
+      "choices": [
+        "boots",
+        "sandals",
+        "sneakers"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra británica correcta para \"car trunk\"",
+      "en": "Please put your suitcases in the ___ of the car.",
+      "choices": [
+        "boot",
+        "trunk",
+        "box"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra americana para \"holiday\"",
+      "en": "We are planning a wonderful summer ___ to the beach.",
+      "choices": [
+        "break",
+        "vacation",
+        "trip"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

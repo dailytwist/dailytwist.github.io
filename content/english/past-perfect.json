@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-28",
+  "slug": "past-perfect",
+  "cefr": "B2",
+  "cat": "grammar",
+  "emoji": "⏳",
+  "title": "Talking About the Past: The Past Perfect",
+  "summary": "In this lesson, you will learn how to talk about an action that happened before another action in the past. It helps you show the exact order of past events.",
+  "sections": [
+    {
+      "h": "What is the Past Perfect?",
+      "p": "We use the past perfect when we are talking about the past, and we want to look back even further. It is formed with 'had' plus the past participle of the main verb. For regular verbs, this ends in -ed. For irregular verbs, it is a special form like 'gone', 'seen', or ' eaten'. This tense helps listeners understand which past action happened first.",
+      "ex": [
+        {
+          "en": "When I arrived at the station, the train had already left.",
+          "mean": "The train left first. I arrived second."
+        },
+        {
+          "en": "She was tired because she had worked all day.",
+          "mean": "She worked first, then she felt tired."
+        }
+      ]
+    },
+    {
+      "h": "How to Form Sentences",
+      "p": "To make a positive sentence, use 'had' with the third form of the verb for all subjects. For negative sentences, add 'not' after 'had' to make 'hadn't'. To ask questions, put 'had' at the beginning of the sentence before the subject. The main verb always stays in its past participle form in all of these sentence types.",
+      "ex": [
+        {
+          "en": "We hadn't eaten lunch yet, so we ordered a pizza.",
+          "mean": "We did not eat before we ordered food."
+        },
+        {
+          "en": "Had you visited Paris before your trip last year?",
+          "mean": "Did you go to Paris at an earlier time?"
+        }
+      ]
+    },
+    {
+      "h": "Using Past Simple and Past Perfect Together",
+      "p": "We often use the past simple and the past perfect in the same sentence. The past simple is for the more recent action, and the past perfect is for the older action. Words like 'when', 'before', and 'after' help us connect these two events smoothly so our listener understands the timeline clearly.",
+      "ex": [
+        {
+          "en": "After I had finished my homework, I went outside to play.",
+          "mean": "Homework finished first, then playing started."
+        },
+        {
+          "en": "He didn't recognize her because she had changed her hair.",
+          "mean": "Her hair changed first, so he didn't know her later."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "had",
+      "mean": "past auxiliary verb"
+    },
+    {
+      "en": "past participle",
+      "mean": "third verb form"
+    },
+    {
+      "en": "earlier",
+      "mean": "before in time"
+    },
+    {
+      "en": "timeline",
+      "mean": "order of events"
+    },
+    {
+      "en": "hadn't",
+      "mean": "had not"
+    },
+    {
+      "en": "already",
+      "mean": "before now"
+    },
+    {
+      "en": "yet",
+      "mean": "until now"
+    }
+  ],
+  "tip": "Think of the past perfect as a time machine that takes you one step further back into the past. Always ask yourself: 'Which of these two things happened first?'",
+  "quiz": [
+    {
+      "ask": "Choose the correct verb form",
+      "en": "By the time we got to the cinema, the movie ___ started.",
+      "choices": [
+        "had",
+        "has",
+        "have",
+        "was"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct negative form",
+      "en": "She was hungry because she ___ eaten anything all day.",
+      "choices": [
+        "had",
+        "hadn't",
+        "hasn't",
+        "didn't"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct question word",
+      "en": "___ you locked the door before you left the house?",
+      "choices": [
+        "Did",
+        "Have",
+        "Had",
+        "Were"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct past participle",
+      "en": "They ___ never seen snow before they moved to Canada.",
+      "choices": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word for the timeline",
+      "en": "I knew the city well because I ___ lived there for five years.",
+      "choices": [
+        "had",
+        "have",
+        "did",
+        "was"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct sentence completion",
+      "en": "When the teacher walked in, the students ___ stopped talking.",
+      "choices": [
+        "have",
+        "did",
+        "had",
+        "are"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

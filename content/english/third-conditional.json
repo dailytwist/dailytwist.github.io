@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-28",
+  "slug": "third-conditional",
+  "cefr": "B2",
+  "cat": "grammar",
+  "emoji": "🕰️",
+  "title": "Talking About Regrets",
+  "summary": "Learn how to use the third conditional to talk about past mistakes and missed chances. Discover how to imagine a different past in English.",
+  "sections": [
+    {
+      "h": "What is the Third Conditional?",
+      "p": "We use the third conditional to talk about things in the past that did not happen. We imagine a different past and think about the result. Because the past cannot change, we often use this grammar to express regret. We make this sentence structure using 'if' plus the past perfect tense, followed by 'would have' and a past participle verb.",
+      "ex": [
+        {
+          "en": "If I had studied harder, I would have passed the test.",
+          "mean": "I was lazy, so I failed the test and now I am sad about it."
+        },
+        {
+          "en": "If we had left earlier, we would have caught the train.",
+          "mean": "We were late, so we missed the train."
+        }
+      ]
+    },
+    {
+      "h": "How to Form the Sentences",
+      "p": "The sentence has two parts. The 'if' part uses 'had' plus a third-form verb. The result part uses 'would have' plus a third-form verb. You can change the order of the two parts without changing the meaning. Just remember that we do not use a comma when the 'if' part comes in the middle of the sentence.",
+      "ex": [
+        {
+          "en": "She would have bought the car if she had saved enough money.",
+          "mean": "She did not save enough money, so she did not buy the car."
+        },
+        {
+          "en": "If you had called me, I would have helped you.",
+          "mean": "You did not call me, so I did not help you."
+        }
+      ]
+    },
+    {
+      "h": "Expressing Regrets",
+      "p": "When we look back at our lives, we often wish we made different choices. The third conditional is the perfect tool for this. It helps us explain what went wrong and how the outcome could have been totally different. It is very useful for deep conversations with friends or family about life choices.",
+      "ex": [
+        {
+          "en": "If I had known about the job, I would have applied.",
+          "mean": "I regret missing the chance because I did not know the news."
+        },
+        {
+          "en": "I would not have said those words if I had thought carefully.",
+          "mean": "I regret speaking without thinking first."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "third conditional",
+      "mean": "grammar for past regrets"
+    },
+    {
+      "en": "regret",
+      "mean": "sadness about past choices"
+    },
+    {
+      "en": "past perfect",
+      "mean": "had plus past verb"
+    },
+    {
+      "en": "past participle",
+      "mean": "the third verb form"
+    },
+    {
+      "en": "outcome",
+      "mean": "the final result"
+    },
+    {
+      "en": "missed chance",
+      "mean": "lost opportunity"
+    }
+  ],
+  "tip": "Think of a real mistake you made last week. Make a third conditional sentence about it to connect the grammar to your own life.",
+  "quiz": [
+    {
+      "ask": "Choose the correct form for the past part",
+      "en": "If I ___ the map, we would not have gotten lost.",
+      "choices": [
+        "had brought",
+        "brought",
+        "have brought"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct result phrase",
+      "en": "If she had seen the sign, she ___ stopped.",
+      "choices": [
+        "will have",
+        "would have",
+        "had"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct verb form",
+      "en": "If they had practiced, they would have ___ the game.",
+      "choices": [
+        "win",
+        "won",
+        "winning"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word for the gap",
+      "en": "I would have gone to the party if you ___ invited me.",
+      "choices": [
+        "have",
+        "did",
+        "had"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct meaning",
+      "en": "What does 'If I had studied, I would have passed' mean?",
+      "choices": [
+        "I studied and passed",
+        "I did not study and failed",
+        "I am studying right now"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct sentence",
+      "en": "Which sentence is grammatically correct?",
+      "choices": [
+        "If it had rained, we would stayed home.",
+        "If it had rained, we would have stayed home.",
+        "If it rained, we would have stayed home."
+      ],
+      "answer_index": 1
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-28",
+  "slug": "wish-and-if-only",
+  "cefr": "B2",
+  "cat": "grammar",
+  "emoji": "💭",
+  "title": "Talking About Regrets: Wish and If Only",
+  "summary": "Learn how to use wish and if only to talk about things you want to change. Master expressing regrets about the present and the past.",
+  "sections": [
+    {
+      "h": "Wishes for the Present",
+      "p": "We use wish or if only with the past simple tense to talk about things we want to change now, but cannot. Even though we use a past tense verb, we are talking about the present moment. This is very useful for expressing a strong desire for a different reality today.",
+      "ex": [
+        {
+          "en": "I wish I had more free time.",
+          "mean": "I do not have enough free time right now, and I am sad about it."
+        },
+        {
+          "en": "If only I lived closer to the beach.",
+          "mean": "I live far from the beach now, but I really want to live near it."
+        },
+        {
+          "en": "She wishes she could speak French.",
+          "mean": "She cannot speak French right now, but she wants to be able to."
+        }
+      ]
+    },
+    {
+      "h": "Regrets About the Past",
+      "p": "When we want to talk about mistakes we made in the past, we use wish or if only with the past perfect tense (had + past participle). This structure helps us look back at yesterday or last year and imagine a different result, even though we cannot change history.",
+      "ex": [
+        {
+          "en": "I wish I had studied harder for the exam.",
+          "mean": "I did not study hard before, and now I regret my bad grade."
+        },
+        {
+          "en": "If only we had left the house earlier.",
+          "mean": "We left late, and because of that, we missed our train."
+        }
+      ]
+    },
+    {
+      "h": "Annoying Habits with Could and Would",
+      "p": "We also use wish or if only with would to complain about someone else's annoying habits or to wish that a situation would change. To talk about our own ability to change something in the future, we use could.",
+      "ex": [
+        {
+          "en": "I wish you would stop making that loud noise.",
+          "mean": "You are making a loud noise now, and I want you to stop."
+        },
+        {
+          "en": "If only it would stop raining.",
+          "mean": "It is raining now, and I want the rain to finish soon."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "wish",
+      "mean": "want something different"
+    },
+    {
+      "en": "if only",
+      "mean": "stronger way to say wish"
+    },
+    {
+      "en": "regret",
+      "mean": "sad about past actions"
+    },
+    {
+      "en": "past simple",
+      "mean": "verb tense for present wishes"
+    },
+    {
+      "en": "past perfect",
+      "mean": "had plus past participle"
+    },
+    {
+      "en": "annoying habit",
+      "mean": "irritating repeated behavior"
+    },
+    {
+      "en": "reality",
+      "mean": "how things really are"
+    }
+  ],
+  "tip": "Remember that for present wishes, you must step one tense back into the past. Think of it as wishing for an alternate reality!",
+  "quiz": [
+    {
+      "ask": "Choose the correct form for a present wish",
+      "en": "I wish I ___ a bigger apartment.",
+      "choices": [
+        "have",
+        "had",
+        "will have",
+        "having"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct form for a past regret",
+      "en": "If only I ___ my phone at home yesterday.",
+      "choices": [
+        "didn't leave",
+        "hadn't left",
+        "haven't left",
+        "wouldn't leave"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Select the best option to complete the sentence",
+      "en": "She wishes she ___ drive a car, but she is too young.",
+      "choices": [
+        "can",
+        "could",
+        "will",
+        "would"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct phrase for a complaint about behavior",
+      "en": "I wish you ___ leave your muddy shoes by the door.",
+      "choices": [
+        "won't",
+        "don't",
+        "wouldn't",
+        "haven't"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Select the correct option",
+      "en": "If only the weather ___ nicer tomorrow.",
+      "choices": [
+        "is",
+        "were",
+        "has been",
+        "will be"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Complete the past regret sentence",
+      "en": "He wishes he ___ the truth to his parents.",
+      "choices": [
+        "told",
+        "had told",
+        "tells",
+        "would tell"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

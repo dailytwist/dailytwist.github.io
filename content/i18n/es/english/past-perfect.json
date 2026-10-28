@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-28",
+  "slug": "past-perfect",
+  "cefr": "B2",
+  "cat": "grammar",
+  "emoji": "⏳",
+  "title": "Hablando del pasado: El pasado perfecto",
+  "summary": "En esta lección aprenderás a hablar de una acción que ocurrió antes de otra en el pasado. Te ayuda a mostrar el orden exacto de los eventos pasados.",
+  "sections": [
+    {
+      "h": "¿Qué es el pasado perfecto?",
+      "p": "Usamos el pasado perfecto cuando hablamos del pasado y queremos mirar aún más atrás. Se forma con 'had' más el participio pasado del verbo principal. Para los verbos regulares, esto termina en -ed. Para los verbos irregulares, es una forma especial como 'gone', 'seen' o 'eaten'. Este tiempo ayuda a los oyentes a entender qué acción pasada ocurrió primero.",
+      "ex": [
+        {
+          "en": "When I arrived at the station, the train had already left.",
+          "mean": "El tren salió primero. Yo llegué segundo."
+        },
+        {
+          "en": "She was tired because she had worked all day.",
+          "mean": "Ella trabajó primero, luego se sintió cansada."
+        }
+      ]
+    },
+    {
+      "h": "Cómo formar oraciones",
+      "p": "Para hacer una oración afirmativa, usa 'had' con la tercera forma del verbo para todos los sujetos. Para las oraciones negativas, añade 'not' después de 'had' para formar 'hadn't'. Para hacer preguntas, coloca 'had' al principio de la oración antes del sujeto. El verbo principal siempre se mantiene en su forma de participio pasado en todos estos tipos de oraciones.",
+      "ex": [
+        {
+          "en": "We hadn't eaten lunch yet, so we ordered a pizza.",
+          "mean": "No comimos antes de pedir comida."
+        },
+        {
+          "en": "Had you visited Paris before your trip last year?",
+          "mean": "¿Fuiste a París en un momento anterior?"
+        }
+      ]
+    },
+    {
+      "h": "Usar el pasado simple y el pasado perfecto juntos",
+      "p": "A menudo usamos el pasado simple y el pasado perfecto en la misma oración. El pasado simple es para la acción más reciente, y el pasado perfecto es para la acción más antigua. Palabras como 'when', 'before' y 'after' nos ayudan a conectar estos dos eventos sin problemas para que quien nos escucha entienda claramente la línea de tiempo.",
+      "ex": [
+        {
+          "en": "After I had finished my homework, I went outside to play.",
+          "mean": "La tarea terminó primero, luego comenzó el juego."
+        },
+        {
+          "en": "He didn't recognize her because she had changed her hair.",
+          "mean": "Su cabello cambió primero, así que él no la reconoció después."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "had",
+      "mean": "verbo auxiliar en pasado"
+    },
+    {
+      "en": "past participle",
+      "mean": "tercera forma verbal"
+    },
+    {
+      "en": "earlier",
+      "mean": "antes en el tiempo"
+    },
+    {
+      "en": "timeline",
+      "mean": "orden de los acontecimientos"
+    },
+    {
+      "en": "hadn't",
+      "mean": "no había"
+    },
+    {
+      "en": "already",
+      "mean": "antes de ahora"
+    },
+    {
+      "en": "yet",
+      "mean": "hasta ahora"
+    }
+  ],
+  "tip": "Piensa en el pasado perfecto como una máquina del tiempo que te lleva un paso más atrás en el pasado. Pregúntate siempre: '¿Cuál de estas dos cosas ocurrió primero?'",
+  "quiz": [
+    {
+      "ask": "Elige la forma verbal correcta",
+      "en": "By the time we got to the cinema, the movie ___ started.",
+      "choices": [
+        "had",
+        "has",
+        "have",
+        "was"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la forma negativa correcta",
+      "en": "She was hungry because she ___ eaten anything all day.",
+      "choices": [
+        "had",
+        "hadn't",
+        "hasn't",
+        "didn't"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra interrogativa correcta",
+      "en": "___ you locked the door before you left the house?",
+      "choices": [
+        "Did",
+        "Have",
+        "Had",
+        "Were"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige el participio pasado correcto",
+      "en": "They ___ never seen snow before they moved to Canada.",
+      "choices": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta para la línea de tiempo",
+      "en": "I knew the city well because I ___ lived there for five years.",
+      "choices": [
+        "had",
+        "have",
+        "did",
+        "was"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la oración completada correctamente",
+      "en": "When the teacher walked in, the students ___ stopped talking.",
+      "choices": [
+        "have",
+        "did",
+        "had",
+        "are"
+      ],
+      "answer_index": 2
+    }
+  ]
+}
