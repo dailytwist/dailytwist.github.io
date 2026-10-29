@@ -57,6 +57,7 @@ SUSPICIOUS = re.compile(
 )
 KNOWN_EMAILS = {
     "sosomalika95@gmail.com",
+    "noreply@anthropic.com",  # changes made by Claude for the owner
     "dailytwist@users.noreply.github.com",
     "bot@users.noreply.github.com",
     "noreply@github.com",
