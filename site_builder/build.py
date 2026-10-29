@@ -1008,7 +1008,7 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
             watch = "".join(f"<li>{e(w)}</li>" for w in z.get("watch_out", []))
             faq = "".join(f'<details><summary>{e(f["q"])}</summary><p>{e(f["a"])}</p></details>' for f in z.get("faq", []))
             matches = "".join(f'<a class="mchip" href="{pre}/compatibility/{pair_slug(s, o)}/">{sign_art(o, 28)} {e(sign_name(lang, s))} + {e(sign_name(lang, o))}</a>'
-                              for o in z.get("best_signs", []) if o != s)
+                              for o in z.get("best_signs", []) if o != s and pair_slug(s, o) in D["pairs"])
             others = "".join(f'<a class="mchip" href="{pre}/horoscope-{year}/{s}/{o}/">{TEMO[o]} {e(T(lang, o))}</a>' for o in TEMO if o != t and (year, s, o) in YT)
             others += f'<a class="mchip" href="{pre}/horoscope-{year}/{s}/">{SIGNS[s][0]} {e(T(lang, "yearly_title", year=year))} · {e(sign_name(lang, s))}</a>'
             body = f"""
