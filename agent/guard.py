@@ -73,6 +73,7 @@ notes: list[str] = []
 def bad(msg):
     problems.append(msg)
     print("❌", msg)
+    print("::error::" + str(msg)[:900].replace("\n", " "))  # shows up as a run annotation
 
 
 def ok(msg):
