@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-29",
+  "slug": "silent-letters",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "🤫",
+  "title": "Letras mudas: palabras que escribimos pero no pronunciamos",
+  "summary": "Descubre por qué algunas palabras en inglés tienen letras ocultas que nunca pronunciamos. Aprende a identificar y decir correctamente estas palabras tan difíciles.",
+  "sections": [
+    {
+      "h": "La 'K' y la 'W' mudas",
+      "p": "En inglés, algunas letras se esconden dentro de las palabras y no emiten ningún sonido. Una regla muy común ocurre cuando la 'k' o la 'w' van justo antes de la letra 'n' al principio de una palabra. Las escribes en el papel, pero tu boca se queda callada al leerlas. Solo recuerda saltarte estas letras e ir directo al siguiente sonido.",
+      "ex": [
+        {
+          "en": "I need to know the answer by tomorrow.",
+          "mean": "Necesito entender la respuesta pronto."
+        },
+        {
+          "en": "Please write your name on this paper.",
+          "mean": "Pon tu nombre por escrito aquí."
+        },
+        {
+          "en": "Close the door because it is cold outside.",
+          "mean": "Cierra la puerta debido a la baja temperatura."
+        }
+      ]
+    },
+    {
+      "h": "La 'B' y la 'L' mudas",
+      "p": "Otras letras sigilosas como la 'b' y la 'l' también disfrutan escondiéndose. Cuando la 'b' aparece al final de una palabra justo después de la 'm', normalmente no la decimos. De igual manera, a menudo olvidamos pronunciar la letra 'l' cuando se sitúa entre ciertas vocales y consonantes en palabras cotidianas comunes. Escucha con atención a los hablantes nativos para pillarlas al vuelo.",
+      "ex": [
+        {
+          "en": "Can I please have a glass of water?",
+          "mean": "¿Puedo beber un poco de agua?"
+        },
+        {
+          "en": "My little brother loves to climb trees.",
+          "mean": "A mi hermano menor le gusta subirse a los árboles."
+        },
+        {
+          "en": "Walk slowly because the floor is wet.",
+          "mean": "Ve a pie con cuidado."
+        }
+      ]
+    },
+    {
+      "h": "La 'H' muda",
+      "p": "La letra 'h' es muy tímida en inglés. Cuando aparece después de la 'w' en palabras interrogativas, a menudo no la escuchamos. También se esconde en silencio después de la 'r' al principio de algunas palabras. No dejes que estas letras silenciosas te confundan cuando hables con amigos o compañeros.",
+      "ex": [
+        {
+          "en": "What time should we meet for lunch?",
+          "mean": "¿A qué hora comeremos juntos?"
+        },
+        {
+          "en": "My favorite season is autumn.",
+          "mean": "La estación del año que más me gusta es el otoño."
+        },
+        {
+          "en": "Where did you put my keys?",
+          "mean": "¿En qué lugar están mis llaves?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "know",
+      "mean": "tener información"
+    },
+    {
+      "en": "write",
+      "mean": "poner palabras en papel"
+    },
+    {
+      "en": "comb",
+      "mean": "herramienta para el cabello"
+    },
+    {
+      "en": "talk",
+      "mean": "hablar"
+    },
+    {
+      "en": "half",
+      "mean": "cincuenta por ciento"
+    },
+    {
+      "en": "what",
+      "mean": "palabra interrogativa para cosas"
+    },
+    {
+      "en": "climb",
+      "mean": "subir"
+    },
+    {
+      "en": "answer",
+      "mean": "respuesta a una pregunta"
+    }
+  ],
+  "tip": "Cuando aprendas una palabra nueva en inglés, consulta el diccionario para ver si tiene una letra muda. Tacha con una pequeña cruz la letra silenciosa en tu cuaderno para recordar no pronunciarla.",
+  "quiz": [
+    {
+      "ask": "Elige la ortografía correcta de la acción que haces con un bolígrafo.",
+      "en": "I need to ___ a letter to my friend.",
+      "choices": [
+        "rite",
+        "write",
+        "writte"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra que falta correcta para esta pregunta.",
+      "en": "Do you ___ where the station is?",
+      "choices": [
+        "know",
+        "now",
+        "gno"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Selecciona la palabra que contiene una 'b' muda.",
+      "en": "He likes to ___ tall mountains.",
+      "choices": [
+        "walk",
+        "climb",
+        "run"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "¿Qué letra es muda en la palabra 'talk'?",
+      "en": "What is the silent letter in 'talk'?",
+      "choices": [
+        "t",
+        "a",
+        "l"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra interrogativa correcta.",
+      "en": "___ is your name?",
+      "choices": [
+        "Wat",
+        "Hwat",
+        "What"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Selecciona la ortografía correcta para la herramienta que se usa en el cabello.",
+      "en": "She uses a ___ for her hair.",
+      "choices": [
+        "comb",
+        "com",
+        "cove"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

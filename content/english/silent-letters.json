@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-29",
+  "slug": "silent-letters",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "🤫",
+  "title": "Silent Letters: Words We Write But Do Not Say",
+  "summary": "Discover why some English words have hidden letters that we never pronounce. Learn how to identify and say these tricky words correctly.",
+  "sections": [
+    {
+      "h": "The Silent 'K' and 'W'",
+      "p": "In English, some letters hide inside words and make no sound at all. A very common rule happens when 'k' or 'w' comes right before the letter 'n' at the start of a word. You write them down on the paper, but your mouth stays quiet when you read them. Just remember to skip these letters and jump straight to the next sound.",
+      "ex": [
+        {
+          "en": "I need to know the answer by tomorrow.",
+          "mean": "I need to understand the answer soon."
+        },
+        {
+          "en": "Please write your name on this paper.",
+          "mean": "Put your name in writing here."
+        },
+        {
+          "en": "Close the door because it is cold outside.",
+          "mean": "Shut the door due to low temperature."
+        }
+      ]
+    },
+    {
+      "h": "The Silent 'B' and 'L'",
+      "p": "Other sneaky letters like 'b' and 'l' also like to hide. When 'b' comes at the very end of a word right after 'm', we usually do not say it. Similarly, we often forget to pronounce the letter 'l' when it sits between certain vowels and consonants in common everyday words. Listen carefully to native speakers to catch them.",
+      "ex": [
+        {
+          "en": "Can I please have a glass of water?",
+          "mean": "May I drink some water?"
+        },
+        {
+          "en": "My little brother loves to climb trees.",
+          "mean": "My young brother enjoys going up trees."
+        },
+        {
+          "en": "Walk slowly because the floor is wet.",
+          "mean": "Go by foot with care."
+        }
+      ]
+    },
+    {
+      "h": "The Silent 'H'",
+      "p": "The letter 'h' is very shy in English. When it appears after 'w' in question words, we often do not hear it. It also hides silently after 'r' at the start of some words. Do not let these quiet letters confuse you when you are speaking with friends or colleagues.",
+      "ex": [
+        {
+          "en": "What time should we meet for lunch?",
+          "mean": "At what hour shall we eat together?"
+        },
+        {
+          "en": "My favorite season is autumn.",
+          "mean": "The season I like most is autumn."
+        },
+        {
+          "en": "Where did you put my keys?",
+          "mean": "At what place are my keys?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "know",
+      "mean": "to have information"
+    },
+    {
+      "en": "write",
+      "mean": "to put words on paper"
+    },
+    {
+      "en": "comb",
+      "mean": "tool for hair"
+    },
+    {
+      "en": "talk",
+      "mean": "to speak"
+    },
+    {
+      "en": "half",
+      "mean": "fifty percent"
+    },
+    {
+      "en": "what",
+      "mean": "question word for things"
+    },
+    {
+      "en": "climb",
+      "mean": "to go up"
+    },
+    {
+      "en": "answer",
+      "mean": "reply to a question"
+    }
+  ],
+  "tip": "When you learn a new English word, check a dictionary to see if it has a silent letter. Draw a small cross over the quiet letter in your notebook so you remember not to say it.",
+  "quiz": [
+    {
+      "ask": "Choose the correct spelling of the action you do with a pen.",
+      "en": "I need to ___ a letter to my friend.",
+      "choices": [
+        "rite",
+        "write",
+        "writte"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct missing word for this question.",
+      "en": "Do you ___ where the station is?",
+      "choices": [
+        "know",
+        "now",
+        "gno"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Select the word that contains a silent 'b'.",
+      "en": "He likes to ___ tall mountains.",
+      "choices": [
+        "walk",
+        "climb",
+        "run"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Which letter is silent in the word 'talk'?",
+      "en": "What is the silent letter in 'talk'?",
+      "choices": [
+        "t",
+        "a",
+        "l"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct question word.",
+      "en": "___ is your name?",
+      "choices": [
+        "Wat",
+        "Hwat",
+        "What"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Select the correct spelling for the tool used on hair.",
+      "en": "She uses a ___ for her hair.",
+      "choices": [
+        "comb",
+        "com",
+        "cove"
+      ],
+      "answer_index": 0
+    }
+  ]
+}
