@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-29",
+  "slug": "negotiating",
+  "cefr": "B2",
+  "cat": "phrases",
+  "emoji": "🤝",
+  "title": "Cómo hacer ofertas y negociar",
+  "summary": "Aprende a hacer ofertas de manera educada y a llegar a un acuerdo en inglés. Practicarás frases útiles para el trabajo o cuando vayas de compras.",
+  "sections": [
+    {
+      "h": "Hacer una primera oferta",
+      "p": "Cuando quieres empezar una negociación, debes sonar educado y seguro de ti mismo. En lugar de decirle a la otra persona qué hacer, usa frases suaves para proponer tu idea. Esto hace que se sientan cómodos y mantiene la conversación abierta. Palabras como 'proponer' o 'sugerir' son muy útiles aquí.",
+      "ex": [
+        {
+          "en": "We can offer you a ten percent discount if you buy today.",
+          "mean": "Estamos dispuestos a bajar el precio un diez por ciento para una venta rápida."
+        },
+        {
+          "en": "I would like to propose a different solution to this problem.",
+          "mean": "Permíteme sugerir otra forma de solucionar este problema."
+        }
+      ]
+    },
+    {
+      "h": "Llegar a compromisos y ceder",
+      "p": "Negociar se trata de dar y recibir. Si quieres que la otra persona acepte tus condiciones, normalmente tienes que ofrecer algo a cambio. Usa frases condicionales para mostrar qué pasará si aceptan tu idea. Esto demuestra que eres flexible y estás dispuesto a cooperar.",
+      "ex": [
+        {
+          "en": "If you agree to sign the contract today, we will include free delivery.",
+          "mean": "Te ofrecemos envío gratuito a condición de que firmes ahora mismo."
+        },
+        {
+          "en": "We can meet you halfway on the price.",
+          "mean": "Pongámonos de acuerdo en un precio justo en medio de nuestras dos ofertas."
+        }
+      ]
+    },
+    {
+      "h": "Rechazos educados",
+      "p": "A veces, una oferta no es lo suficientemente buena y necesitas decir que no. En inglés, los rechazos directos pueden sonar groseros. En su lugar, explica por qué la oferta no te sirve y sugiere una alternativa. Mantén siempre un tono tranquilo y profesional.",
+      "ex": [
+        {
+          "en": "That sounds fair, but our budget is a bit too tight for that amount.",
+          "mean": "Lo entiendo, pero no tenemos suficiente dinero para pagar tanto."
+        },
+        {
+          "en": "Unfortunately, those terms do not work for us.",
+          "mean": "Lamentablemente, no podemos aceptar estas condiciones."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "propose",
+      "mean": "sugerir una idea"
+    },
+    {
+      "en": "discount",
+      "mean": "bajar el precio"
+    },
+    {
+      "en": "compromise",
+      "mean": "llegar a un acuerdo"
+    },
+    {
+      "en": "meet you halfway",
+      "mean": "aceptar un precio intermedio"
+    },
+    {
+      "en": "terms",
+      "mean": "condiciones de un trato"
+    },
+    {
+      "en": "budget",
+      "mean": "dinero disponible"
+    },
+    {
+      "en": "counteroffer",
+      "mean": "una contraoferta"
+    }
+  ],
+  "tip": "Piensa en la negociación como en un baile. Cada vez que tu pareja da un paso, tú respondes con un movimiento equilibrado para mantener el ritmo.",
+  "quiz": [
+    {
+      "ask": "Elige la mejor frase para iniciar una oferta",
+      "en": "We ___ you a ten percent discount if you buy today.",
+      "choices": [
+        "can offer",
+        "must give",
+        "will demand",
+        "should take"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Selecciona la palabra correcta para un acuerdo de precio medio",
+      "en": "Let's ___ you halfway on this deal.",
+      "choices": [
+        "meet",
+        "find",
+        "bring",
+        "see"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la forma educada de decir no a unas condiciones",
+      "en": "Unfortunately, those conditions do not ___ for us.",
+      "choices": [
+        "run",
+        "work",
+        "walk",
+        "move"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Selecciona la palabra que significa dinero disponible",
+      "en": "Our ___ is too small to pay that high price.",
+      "choices": [
+        "wallet",
+        "bank",
+        "budget",
+        "pocket"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige el verbo correcto para proponer un plan",
+      "en": "I would like to ___ a different solution.",
+      "choices": [
+        "say",
+        "propose",
+        "tell",
+        "speak"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Selecciona el significado de 'terms'",
+      "en": "The ___ of the contract are very clear.",
+      "choices": [
+        "conditions",
+        "pages",
+        "words",
+        "colors"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

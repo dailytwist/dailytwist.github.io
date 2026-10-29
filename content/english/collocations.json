@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-29",
+  "slug": "collocations",
+  "cefr": "B2",
+  "cat": "vocab",
+  "emoji": "🌧️",
+  "title": "Mastering Strong Collocations",
+  "summary": "Learn how certain English words naturally go together to sound more fluent. You will study useful combinations with rain, decisions, and risks.",
+  "sections": [
+    {
+      "h": "What are Collocations?",
+      "p": "In English, some words love to hang out together. We call these strong collocations. If you use the wrong word, native speakers will understand you, but it will sound a little strange. For example, we do not say 'big rain' or 'do a decision'. Learning these fixed pairs helps your speaking and writing sound much more natural and confident at a B2 level.",
+      "ex": [
+        {
+          "en": "We use certain words together because it sounds natural.",
+          "mean": "Some words are partners in English."
+        },
+        {
+          "en": "Using correct collocations helps you sound like a native speaker.",
+          "mean": "Right word partnerships make you sound fluent."
+        }
+      ]
+    },
+    {
+      "h": "Weather and Choices",
+      "p": "Let us look at weather and choices. When it is raining a lot, we never say 'strong rain'. The natural collocation is 'heavy rain'. Also, when you need to choose something important, the correct verb is not 'do', it is 'make'. You 'make a decision'. Try to memorize these phrases as whole chunks instead of learning the words separately.",
+      "ex": [
+        {
+          "en": "We had to stay inside because of the heavy rain.",
+          "mean": "We stayed indoors due to the very bad rain."
+        },
+        {
+          "en": "Take your time to make a decision about the job offer.",
+          "mean": "Think carefully before you choose."
+        }
+      ]
+    },
+    {
+      "h": "Action and Risk",
+      "p": "Finally, let us talk about doing brave things. In English, we do not 'make a risk' or 'do a risk'. We always 'take a risk'. Business owners and athletes often have to take risks to succeed. Learning these verbs with their correct noun partners will stop you from translating directly from your native language.",
+      "ex": [
+        {
+          "en": "Sometimes you need to take a risk to achieve your goals.",
+          "mean": "You must do something risky to succeed."
+        },
+        {
+          "en": "She was afraid to take a risk, so she stayed in her safe job.",
+          "mean": "She avoided danger and kept her safe job."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "heavy rain",
+      "mean": "lots of falling water"
+    },
+    {
+      "en": "make a decision",
+      "mean": "to choose something"
+    },
+    {
+      "en": "take a risk",
+      "mean": "do something dangerous"
+    },
+    {
+      "en": "collocation",
+      "mean": "words that fit together"
+    },
+    {
+      "en": "fluent",
+      "mean": "smooth and natural"
+    },
+    {
+      "en": "native speaker",
+      "mean": "person born speaking English"
+    },
+    {
+      "en": "memorize",
+      "mean": "learn by heart"
+    }
+  ],
+  "tip": "Do not learn words alone. Always write down the full phrase, like 'take a risk', so your brain remembers them as a team.",
+  "quiz": [
+    {
+      "ask": "Choose the correct collocation for bad weather.",
+      "en": "We got completely wet in the ___ rain.",
+      "choices": [
+        "strong",
+        "heavy",
+        "big"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct verb for a choice.",
+      "en": "It is hard to ___ a decision when you have too many options.",
+      "choices": [
+        "make",
+        "do",
+        "take"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct phrase for doing something brave.",
+      "en": "Starting a new business means you have to ___.",
+      "choices": [
+        "make a risk",
+        "do a risk",
+        "take a risk"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Select the natural English phrase.",
+      "en": "Please don't forget to ___ before Friday.",
+      "choices": [
+        "make a decision",
+        "do a decision",
+        "have a decision"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Which adjective goes with 'rain' in English?",
+      "en": "The match was cancelled because of ___ rain.",
+      "choices": [
+        "hard",
+        "heavy",
+        "strong"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct verb for this phrase.",
+      "en": "Are you willing to ___ a risk to win the competition?",
+      "choices": [
+        "make",
+        "give",
+        "take"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

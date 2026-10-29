@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-29",
+  "slug": "negotiating",
+  "cefr": "B2",
+  "cat": "phrases",
+  "emoji": "🤝",
+  "title": "Making Offers and Negotiating",
+  "summary": "Learn how to make polite offers and reach an agreement in English. You will practice useful phrases to use at work or when shopping.",
+  "sections": [
+    {
+      "h": "Making a First Offer",
+      "p": "When you want to start a negotiation, you need to sound polite and confident. Instead of telling the other person what to do, use soft phrases to suggest your idea. This makes them feel comfortable and keeps the conversation open. Words like 'propose' or 'suggest' are very helpful here.",
+      "ex": [
+        {
+          "en": "We can offer you a ten percent discount if you buy today.",
+          "mean": "We are willing to lower the price by ten percent for a quick sale."
+        },
+        {
+          "en": "I would like to propose a different solution to this problem.",
+          "mean": "Let me suggest another way to fix this issue."
+        }
+      ]
+    },
+    {
+      "h": "Compromising and Trading",
+      "p": "Negotiating is all about give and take. If you want the other person to agree to your terms, you usually have to offer something in return. Use conditional phrases to show what will happen if they accept your idea. This shows you are flexible and ready to cooperate.",
+      "ex": [
+        {
+          "en": "If you agree to sign the contract today, we will include free delivery.",
+          "mean": "We give you free shipping on the condition that you sign right now."
+        },
+        {
+          "en": "We can meet you halfway on the price.",
+          "mean": "Let's agree on a price right in the middle of our two offers."
+        }
+      ]
+    },
+    {
+      "h": "Polite Refusals",
+      "p": "Sometimes an offer is not good enough, and you need to say no. In English, direct refusals can sound rude. Instead, explain why the offer does not work for you and suggest an alternative. Always keep your tone calm and professional.",
+      "ex": [
+        {
+          "en": "That sounds fair, but our budget is a bit too tight for that amount.",
+          "mean": "I understand, but we do not have enough money to pay that much."
+        },
+        {
+          "en": "Unfortunately, those terms do not work for us.",
+          "mean": "Sadly, we cannot accept these conditions."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "propose",
+      "mean": "suggest an idea"
+    },
+    {
+      "en": "discount",
+      "mean": "lower price"
+    },
+    {
+      "en": "compromise",
+      "mean": "reach an agreement"
+    },
+    {
+      "en": "meet you halfway",
+      "mean": "accept a middle price"
+    },
+    {
+      "en": "terms",
+      "mean": "conditions of a deal"
+    },
+    {
+      "en": "budget",
+      "mean": "available money"
+    },
+    {
+      "en": "counteroffer",
+      "mean": "a return offer"
+    }
+  ],
+  "tip": "Think of negotiation like a dance. Every time your partner takes a step, you respond with a balanced move to keep the rhythm going.",
+  "quiz": [
+    {
+      "ask": "Choose the best phrase to start an offer",
+      "en": "We ___ you a ten percent discount if you buy today.",
+      "choices": [
+        "can offer",
+        "must give",
+        "will demand",
+        "should take"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Select the correct word for a middle price agreement",
+      "en": "Let's ___ you halfway on this deal.",
+      "choices": [
+        "meet",
+        "find",
+        "bring",
+        "see"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the polite way to say no to terms",
+      "en": "Unfortunately, those conditions do not ___ for us.",
+      "choices": [
+        "run",
+        "work",
+        "walk",
+        "move"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Select the word meaning available money",
+      "en": "Our ___ is too small to pay that high price.",
+      "choices": [
+        "wallet",
+        "bank",
+        "budget",
+        "pocket"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct verb to suggest a plan",
+      "en": "I would like to ___ a different solution.",
+      "choices": [
+        "say",
+        "propose",
+        "tell",
+        "speak"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Select the meaning of 'terms'",
+      "en": "The ___ of the contract are very clear.",
+      "choices": [
+        "conditions",
+        "pages",
+        "words",
+        "colors"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

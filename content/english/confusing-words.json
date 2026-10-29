@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-29",
+  "slug": "confusing-words",
+  "cefr": "B2",
+  "cat": "vocab",
+  "emoji": "✏️",
+  "title": "Confusing Words: Affect vs. Effect, Borrow vs. Lend, Rise vs. Raise",
+  "summary": "Master three pairs of commonly confused English words. Improve your accuracy in writing and speaking.",
+  "sections": [
+    {
+      "h": "Affect vs. Effect",
+      "p": "These two words sound very similar, but they have different grammatical roles. 'Affect' is usually a verb that means to influence something or cause a change. 'Effect' is usually a noun that means the result of that change. Remember that 'affect' is an action word, while 'effect' is the final result.",
+      "ex": [
+        {
+          "en": "Lack of sleep can affect your focus at work.",
+          "mean": "Not sleeping enough changes your ability to concentrate."
+        },
+        {
+          "en": "The new law had a positive effect on the city.",
+          "mean": "The new rule created a good result in the town."
+        }
+      ]
+    },
+    {
+      "h": "Borrow vs. Lend",
+      "p": "Both of these words are about giving and taking items temporarily, but the direction is opposite. You 'borrow' something when you take it from someone else to use and return later. You 'lend' something when you give your item to someone else for a short time.",
+      "ex": [
+        {
+          "en": "Can I borrow your umbrella for today?",
+          "mean": "May I take your umbrella and give it back later?"
+        },
+        {
+          "en": "Could you lend me ten dollars until tomorrow?",
+          "mean": "Will you give me ten dollars now that I will return tomorrow?"
+        }
+      ]
+    },
+    {
+      "h": "Rise vs. Raise",
+      "p": "The main difference between these two verbs is whether they need an object. 'Rise' happens by itself without an outside force; something goes up on its own. 'Raise' requires a person or force to push or lift something else upward.",
+      "ex": [
+        {
+          "en": "Sunlight makes the temperature rise in the afternoon.",
+          "mean": "The temperature goes up naturally because of the sun."
+        },
+        {
+          "en": "Please raise your hand if you have a question.",
+          "mean": "Move your hand up into the air."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "affect",
+      "mean": "to influence"
+    },
+    {
+      "en": "effect",
+      "mean": "a result"
+    },
+    {
+      "en": "borrow",
+      "mean": "to take temporarily"
+    },
+    {
+      "en": "lend",
+      "mean": "to give temporarily"
+    },
+    {
+      "en": "rise",
+      "mean": "to go up alone"
+    },
+    {
+      "en": "raise",
+      "mean": "to lift something up"
+    }
+  ],
+  "tip": "Think of the alphabetical order: A comes before E, so the Action (Affect) usually happens before the End result (Effect). For borrow and lend, remember that you bring things back when you borrow.",
+  "quiz": [
+    {
+      "ask": "Choose the correct word",
+      "en": "The bad weather will ___ our travel plans.",
+      "choices": [
+        "effect",
+        "affect",
+        "borrow",
+        "lend"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Eating healthy food has a great ___ on your energy.",
+      "choices": [
+        "effect",
+        "affect",
+        "rise",
+        "raise"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "May I ___ your pen to sign this form?",
+      "choices": [
+        "lend",
+        "raise",
+        "borrow",
+        "effect"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "Could you please ___ me your car for the weekend?",
+      "choices": [
+        "borrow",
+        "lend",
+        "affect",
+        "rise"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "House prices continue to ___ every single year.",
+      "choices": [
+        "raise",
+        "affect",
+        "lend",
+        "rise"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Choose the correct word",
+      "en": "The company decided to ___ salaries for all workers.",
+      "choices": [
+        "rise",
+        "raise",
+        "borrow",
+        "effect"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

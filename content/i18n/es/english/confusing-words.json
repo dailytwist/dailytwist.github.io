@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-29",
+  "slug": "confusing-words",
+  "cefr": "B2",
+  "cat": "vocab",
+  "emoji": "✏️",
+  "title": "Palabras confusas: Affect vs. Effect, Borrow vs. Lend, Rise vs. Raise",
+  "summary": "Domina tres pares de palabras en inglés que suelen confundirse. Mejora tu precisión al escribir y hablar.",
+  "sections": [
+    {
+      "h": "Affect vs. Effect",
+      "p": "Estas dos palabras suenan muy parecido, pero tienen funciones gramaticales distintas. 'Affect' suele ser un verbo que significa influir en algo o provocar un cambio. 'Effect' suele ser un sustantivo que significa el resultado de ese cambio. Recuerda que 'affect' es una palabra de acción, mientras que 'effect' es el resultado final.",
+      "ex": [
+        {
+          "en": "Lack of sleep can affect your focus at work.",
+          "mean": "Dormir poco afecta tu capacidad de concentración."
+        },
+        {
+          "en": "The new law had a positive effect on the city.",
+          "mean": "La nueva regla generó un buen resultado en el pueblo."
+        }
+      ]
+    },
+    {
+      "h": "Borrow vs. Lend",
+      "p": "Ambas palabras tratan sobre dar y recibir cosas temporalmente, pero la dirección es opuesta. Tú 'borrow' algo cuando se lo pides prestado a otra persona para usarlo y devolverlo después. Tú 'lend' algo cuando le prestas tu objeto a otra persona por un corto tiempo.",
+      "ex": [
+        {
+          "en": "Can I borrow your umbrella for today?",
+          "mean": "¿Me prestas tu paraguas y te lo devuelvo más tarde?"
+        },
+        {
+          "en": "Could you lend me ten dollars until tomorrow?",
+          "mean": "¿Me das diez dólares ahora que te devolveré mañana?"
+        }
+      ]
+    },
+    {
+      "h": "Rise vs. Raise",
+      "p": "La principal diferencia entre estos dos verbos es si necesitan o no un objeto. 'Rise' ocurre por sí solo, sin una fuerza externa; algo sube por cuenta propia. 'Raise' requiere que una persona o fuerza empuje o levante otra cosa hacia arriba.",
+      "ex": [
+        {
+          "en": "Sunlight makes the temperature rise in the afternoon.",
+          "mean": "La temperatura sube de forma natural debido al sol."
+        },
+        {
+          "en": "Please raise your hand if you have a question.",
+          "mean": "Levanta tu mano hacia el aire."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "affect",
+      "mean": "influir"
+    },
+    {
+      "en": "effect",
+      "mean": "un resultado"
+    },
+    {
+      "en": "borrow",
+      "mean": "pedir prestado temporalmente"
+    },
+    {
+      "en": "lend",
+      "mean": "prestar temporalmente"
+    },
+    {
+      "en": "rise",
+      "mean": "subir solo"
+    },
+    {
+      "en": "raise",
+      "mean": "levantar algo"
+    }
+  ],
+  "tip": "Piensa en el orden alfabético: la A va antes que la E, así que la Acción (Affect) suele ocurrir antes del resultado Final (Effect). En cuanto a borrow y lend, recuerda que traes las cosas de vuelta cuando pides prestado.",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "The bad weather will ___ our travel plans.",
+      "choices": [
+        "effect",
+        "affect",
+        "borrow",
+        "lend"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "Eating healthy food has a great ___ on your energy.",
+      "choices": [
+        "effect",
+        "affect",
+        "rise",
+        "raise"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "May I ___ your pen to sign this form?",
+      "choices": [
+        "lend",
+        "raise",
+        "borrow",
+        "effect"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "Could you please ___ me your car for the weekend?",
+      "choices": [
+        "borrow",
+        "lend",
+        "affect",
+        "rise"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "House prices continue to ___ every single year.",
+      "choices": [
+        "raise",
+        "affect",
+        "lend",
+        "rise"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "The company decided to ___ salaries for all workers.",
+      "choices": [
+        "rise",
+        "raise",
+        "borrow",
+        "effect"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

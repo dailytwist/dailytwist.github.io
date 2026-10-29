@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-29",
+  "slug": "pronunciation-th-sound",
+  "cefr": "A2",
+  "cat": "vocab",
+  "emoji": "👅",
+  "title": "Cómo pronunciar el sonido 'TH'",
+  "summary": "En esta lección aprenderás a hacer el sonido 'th' en inglés. También practicarás palabras que suenan casi igual para mejorar tu expresión oral.",
+  "sections": [
+    {
+      "h": "Cómo hacer el sonido 'TH'",
+      "p": "Para hacer el sonido 'th', coloca la punta de la lengua entre los dientes superiores y e inferiores. Ahora, sopla aire suavemente por la boca. No uses las cuerdas vocales para palabras como 'think'. Deja que el aire sisee suavemente como un gato feliz. Procura mantener la lengua relajada y deja que se asome un poquito.",
+      "ex": [
+        {
+          "en": "I think this is a good idea.",
+          "mean": "Creo que este es un buen plan."
+        },
+        {
+          "en": "Thank you for your help.",
+          "mean": "Agradezco mucho tu ayuda."
+        },
+        {
+          "en": "My birthday is in three days.",
+          "mean": "Cumplo años dentro de 72 horas."
+        }
+      ]
+    },
+    {
+      "h": "El sonido 'TH' sonoro",
+      "p": "A veces el sonido 'th' utiliza tu voz. Mantén la lengua entre los dientes, pero haz un zumbido en la garganta, como una abeja. Puedes notar cómo vibra tu garganta si pones la mano en ella. Palabras como 'this', 'that' y 'they' usan este sonido sonoro.",
+      "ex": [
+        {
+          "en": "This is my favorite book.",
+          "mean": "Aquí tienes el libro que más me gusta."
+        },
+        {
+          "en": "They are going to the store.",
+          "mean": "Esas personas van caminando a la tienda."
+        },
+        {
+          "en": "Brother, can you help me?",
+          "mean": "Hermano, por favor ayúdame."
+        }
+      ]
+    },
+    {
+      "h": "Qué son los pares mínimos",
+      "p": "Los pares mínimos son dos palabras que suenan casi igual, pero un pequeño sonido las hace completamente diferentes. Por ejemplo, 'think' y 'sink' suenan muy parecido. Si no sacas la lengua para 'think', la gente podría pensar que estás diciendo 'sink'. Practicar estos pares te ayuda a hablar con más claridad.",
+      "ex": [
+        {
+          "en": "I need to think about it.",
+          "mean": "Necesito reflexionar sobre la situación."
+        },
+        {
+          "en": "The boat will sink in the water.",
+          "mean": "El barco se irá al fondo."
+        },
+        {
+          "en": "I want a thin slice of pizza.",
+          "mean": "Quiero una porción de pizza muy fina."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "tongue",
+      "mean": "músculo en la boca"
+    },
+    {
+      "en": "teeth",
+      "mean": "huesos duros y blancos"
+    },
+    {
+      "en": "breath",
+      "mean": "aire que inspiras"
+    },
+    {
+      "en": "voice",
+      "mean": "sonido de la garganta"
+    },
+    {
+      "en": "minimal pair",
+      "mean": "palabras similares"
+    },
+    {
+      "en": "practice",
+      "mean": "hazlo otra vez"
+    },
+    {
+      "en": "clear",
+      "mean": "fácil de entender"
+    }
+  ],
+  "tip": "Coloca un espejo pequeño delante de ti cuando practiques. ¡Asegúrate de ver tu lengua entre los dientes cada vez que digas una palabra con 'th'!",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta para completar el espacio",
+      "en": "I need to ___ about my new job.",
+      "choices": [
+        "sink",
+        "think",
+        "wink"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta para completar el espacio",
+      "en": "Can you give me ___ pen over there?",
+      "choices": [
+        "that",
+        "fat",
+        "cat"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta para completar el espacio",
+      "en": "My brother has a very ___ pencil.",
+      "choices": [
+        "sin",
+        "tin",
+        "thin"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta para completar el espacio",
+      "en": "___ are my best friends.",
+      "choices": [
+        "Day",
+        "They",
+        "Say"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta para completar el espacio",
+      "en": "Today is my ___ birthday.",
+      "choices": [
+        "third",
+        "bird",
+        "word"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta para completar el espacio",
+      "en": "Please put your tongue between your ___.",
+      "choices": [
+        "feet",
+        "hands",
+        "teeth"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

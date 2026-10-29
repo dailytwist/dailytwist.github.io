@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-29",
+  "slug": "idioms-business",
+  "cefr": "B2",
+  "cat": "vocab",
+  "emoji": "💼",
+  "title": "Modismos empresariales inteligentes",
+  "summary": "Aprende dos expresiones comerciales comunes para hablar de acuerdos y estimaciones. Estas frases te ayudarán a sonar natural en las reuniones.",
+  "sections": [
+    {
+      "h": "Estar en la misma página",
+      "p": "Cuando las personas están en la misma página, comparten el mismo entendimiento o los mismos objetivos sobre un proyecto. Significa que todos están de acuerdo y saben qué hacer a continuación. A menudo usamos esta frase en las reuniones para comprobar si el equipo tiene la misma idea antes de empezar a trabajar.",
+      "ex": [
+        {
+          "en": "Let's review the schedule so we are all on the same page.",
+          "mean": "Repasemos el plan para que todos estemos de acuerdo."
+        },
+        {
+          "en": "Before we start the project, I want to make sure we are on the same page.",
+          "mean": "Quiero asegurarnos de que compartimos el mismo plan."
+        }
+      ]
+    },
+    {
+      "h": "Cálculo aproximado",
+      "p": "Un cálculo aproximado (o \"ballpark figure\") es una estimación general o una cifra estimada. Se usa cuando aún no tienes los detalles exactos, pero quieres dar una idea general de un costo o tiempo. Un cálculo aproximado ayuda a que la gente entienda la magnitud de algo rápidamente.",
+      "ex": [
+        {
+          "en": "Can you give me a ballpark figure for the new website design?",
+          "mean": "¿Puedes darme una estimación aproximada del costo?"
+        },
+        {
+          "en": "I do not have the final numbers, but a ballpark figure is five thousand dollars.",
+          "mean": "Tengo un cálculo aproximado de cinco mil dólares."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "on the same page",
+      "mean": "compartir el mismo entendimiento"
+    },
+    {
+      "en": "ballpark figure",
+      "mean": "una estimación de costo aproximada"
+    },
+    {
+      "en": "review",
+      "mean": "revisar de nuevo"
+    },
+    {
+      "en": "schedule",
+      "mean": "cronograma de tareas"
+    },
+    {
+      "en": "estimate",
+      "mean": "cantidad estimada"
+    },
+    {
+      "en": "project",
+      "mean": "pieza de trabajo planificada"
+    },
+    {
+      "en": "cost",
+      "mean": "precio a pagar"
+    }
+  ],
+  "tip": "¡Imagina estar en un estadio de béisbol intentando adivinar el marcador, o leyendo exactamente la misma página de un libro juntos para recordar estos modismos!",
+  "quiz": [
+    {
+      "ask": "Elige la frase correcta",
+      "en": "We need to talk before the meeting to ensure we are on the ___.",
+      "choices": [
+        "same page",
+        "right book",
+        "good table"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la frase correcta",
+      "en": "Could you give me a ___ for how much this repair will cost?",
+      "choices": [
+        "soccer stadium number",
+        "ballpark figure",
+        "tiny calculation"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "¿Qué significa 'estar en la misma página'?",
+      "en": "To be on the same page means to...",
+      "choices": [
+        "read the same book",
+        "share the same understanding",
+        "write on identical paper"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "¿Qué es un 'cálculo aproximado'?",
+      "en": "A ballpark figure is...",
+      "choices": [
+        "an exact mathematical proof",
+        "a rough estimate",
+        "a ticket price"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la oración correcta",
+      "en": "Which sentence uses the idioms correctly?",
+      "choices": [
+        "I gave my boss a ballpark figure because I did not know the exact price.",
+        "We are on the same page of the restaurant menu.",
+        "She wrote a ballpark figure on the whiteboard to read a story."
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Completa la palabra que falta",
+      "en": "Let's have a quick call to make sure everyone is on the same ___.",
+      "choices": [
+        "line",
+        "chapter",
+        "page"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

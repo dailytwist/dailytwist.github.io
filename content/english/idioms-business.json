@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-29",
+  "slug": "idioms-business",
+  "cefr": "B2",
+  "cat": "vocab",
+  "emoji": "💼",
+  "title": "Smart Business Idioms",
+  "summary": "Learn two common business expressions to talk about agreement and estimates. These phrases will help you sound natural in meetings.",
+  "sections": [
+    {
+      "h": "On the same page",
+      "p": "When people are on the same page, they share the same understanding or goals about a project. It means everyone agrees and knows what to do next. We often use this phrase in meetings to check if the team has the same idea before starting work.",
+      "ex": [
+        {
+          "en": "Let's review the schedule so we are all on the same page.",
+          "mean": "Let's check the plan so we all agree."
+        },
+        {
+          "en": "Before we start the project, I want to make sure we are on the same page.",
+          "mean": "I want to be sure we share the same plan."
+        }
+      ]
+    },
+    {
+      "h": "Ballpark figure",
+      "p": "A ballpark figure is a rough, general estimate or a guessed number. You use it when you do not have the exact details yet, but you want to give a general idea of a cost or time. A ballpark figure helps people understand the scale of something quickly.",
+      "ex": [
+        {
+          "en": "Can you give me a ballpark figure for the new website design?",
+          "mean": "Can you give me a rough cost estimate?"
+        },
+        {
+          "en": "I do not have the final numbers, but a ballpark figure is five thousand dollars.",
+          "mean": "I have a rough guess of five thousand dollars."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "on the same page",
+      "mean": "sharing the same understanding"
+    },
+    {
+      "en": "ballpark figure",
+      "mean": "a rough cost estimate"
+    },
+    {
+      "en": "review",
+      "mean": "look over again"
+    },
+    {
+      "en": "schedule",
+      "mean": "timeline of tasks"
+    },
+    {
+      "en": "estimate",
+      "mean": "guessed amount"
+    },
+    {
+      "en": "project",
+      "mean": "planned piece of work"
+    },
+    {
+      "en": "cost",
+      "mean": "price to pay"
+    }
+  ],
+  "tip": "Imagine standing in a baseball stadium (a ballpark) trying to guess the score, or all reading the exact same page in a book together to remember these idioms!",
+  "quiz": [
+    {
+      "ask": "Choose the correct phrase",
+      "en": "We need to talk before the meeting to ensure we are on the ___.",
+      "choices": [
+        "same page",
+        "right book",
+        "good table"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct phrase",
+      "en": "Could you give me a ___ for how much this repair will cost?",
+      "choices": [
+        "soccer stadium number",
+        "ballpark figure",
+        "tiny calculation"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "What does 'on the same page' mean?",
+      "en": "To be on the same page means to...",
+      "choices": [
+        "read the same book",
+        "share the same understanding",
+        "write on identical paper"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "What is a 'ballpark figure'?",
+      "en": "A ballpark figure is...",
+      "choices": [
+        "an exact mathematical proof",
+        "a rough estimate",
+        "a ticket price"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct sentence",
+      "en": "Which sentence uses the idioms correctly?",
+      "choices": [
+        "I gave my boss a ballpark figure because I did not know the exact price.",
+        "We are on the same page of the restaurant menu.",
+        "She wrote a ballpark figure on the whiteboard to read a story."
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Fill in the missing word",
+      "en": "Let's have a quick call to make sure everyone is on the same ___.",
+      "choices": [
+        "line",
+        "chapter",
+        "page"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

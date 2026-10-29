@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-29",
+  "slug": "pronunciation-th-sound",
+  "cefr": "A2",
+  "cat": "vocab",
+  "emoji": "👅",
+  "title": "Pronouncing the 'TH' Sound",
+  "summary": "In this lesson, you will learn how to make the English 'th' sound. You will also practice words that sound almost the same to improve your speaking.",
+  "sections": [
+    {
+      "h": "How to make the 'TH' sound",
+      "p": "To make the 'th' sound, put the tip of your tongue between your top and bottom teeth. Now, blow air gently out of your mouth. Do not use your voice box for words like 'think'. Just let the air hiss softly like a happy cat. Try to keep your tongue relaxed and let a little bit of it show.",
+      "ex": [
+        {
+          "en": "I think this is a good idea.",
+          "mean": "I believe this is a good plan."
+        },
+        {
+          "en": "Thank you for your help.",
+          "mean": "I am grateful for your assistance."
+        },
+        {
+          "en": "My birthday is in three days.",
+          "mean": "I turn a year older in 72 hours."
+        }
+      ]
+    },
+    {
+      "h": "Voiced 'TH' sound",
+      "p": "Sometimes the 'th' sound uses your voice. Keep your tongue between your teeth, but make a buzzing sound in your throat, like a bee. You can feel your throat vibrate if you put your hand on it. Words like 'this', 'that', and 'they' use this voiced sound.",
+      "ex": [
+        {
+          "en": "This is my favorite book.",
+          "mean": "Here is the book I like best."
+        },
+        {
+          "en": "They are going to the store.",
+          "mean": "Those people are walking to the shop."
+        },
+        {
+          "en": "Brother, can you help me?",
+          "mean": "Male sibling, please assist me."
+        }
+      ]
+    },
+    {
+      "h": "What are minimal pairs?",
+      "p": "Minimal pairs are two words that sound almost the same, but one small sound makes them completely different. For example, 'think' and 'sink' sound very similar. If you do not put your tongue out for 'think', people might think you are saying 'sink'. Practicing these pairs helps you speak more clearly.",
+      "ex": [
+        {
+          "en": "I need to think about it.",
+          "mean": "I need to consider the situation."
+        },
+        {
+          "en": "The boat will sink in the water.",
+          "mean": "The boat will go down to the bottom."
+        },
+        {
+          "en": "I want a thin slice of pizza.",
+          "mean": "I want a very narrow piece of pizza."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "tongue",
+      "mean": "muscle in mouth"
+    },
+    {
+      "en": "teeth",
+      "mean": "hard white bones"
+    },
+    {
+      "en": "breath",
+      "mean": "air you take in"
+    },
+    {
+      "en": "voice",
+      "mean": "sound from throat"
+    },
+    {
+      "en": "minimal pair",
+      "mean": "similar words"
+    },
+    {
+      "en": "practice",
+      "mean": "do it again"
+    },
+    {
+      "en": "clear",
+      "mean": "easy to understand"
+    }
+  ],
+  "tip": "Put a small mirror in front of you when you practice. Make sure you can see your tongue between your teeth every time you say a 'th' word!",
+  "quiz": [
+    {
+      "ask": "Choose the correct word for the gap",
+      "en": "I need to ___ about my new job.",
+      "choices": [
+        "sink",
+        "think",
+        "wink"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word for the gap",
+      "en": "Can you give me ___ pen over there?",
+      "choices": [
+        "that",
+        "fat",
+        "cat"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word for the gap",
+      "en": "My brother has a very ___ pencil.",
+      "choices": [
+        "sin",
+        "tin",
+        "thin"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word for the gap",
+      "en": "___ are my best friends.",
+      "choices": [
+        "Day",
+        "They",
+        "Say"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct word for the gap",
+      "en": "Today is my ___ birthday.",
+      "choices": [
+        "third",
+        "bird",
+        "word"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct word for the gap",
+      "en": "Please put your tongue between your ___.",
+      "choices": [
+        "feet",
+        "hands",
+        "teeth"
+      ],
+      "answer_index": 2
+    }
+  ]
+}
