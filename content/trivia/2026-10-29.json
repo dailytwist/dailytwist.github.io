@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-29",
+  "title": "Daily General Knowledge Trivia - October 29, 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Which of these countries has the longest coastline in the world?",
+      "options": [
+        "Australia",
+        "Indonesia",
+        "Canada",
+        "Russia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Canada is bordered by three different oceans and has tens of thousands of islands, giving it the world's most extensive coastline.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "science",
+      "question": "What is the chemical symbol for the element gold?",
+      "options": [
+        "Gd",
+        "Au",
+        "Ag",
+        "Go"
+      ],
+      "answer_index": 1,
+      "fun_fact": "The symbol Au comes from 'aurum', the Latin word for gold, which translates to 'shining dawn'.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "history",
+      "question": "The construction of the Great Pyramid of Giza was commissioned by which ancient Egyptian pharaoh?",
+      "options": [
+        "Ramses II",
+        "Tutankhamun",
+        "Khufu",
+        "Akhenaten"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Khufu, also known as Cheops, ruled during Egypt's Fourth Dynasty and built the oldest and largest of the three pyramids in the Giza pyramid complex.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Which 1993 Steven Spielberg film features a theme park populated by resurrected dinosaurs?",
+      "options": [
+        "Close Encounters of the Third Kind",
+        "Jaws",
+        "Jurassic Park",
+        "ET the Extra-Terrestrial"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Jurassic Park was a massive box office hit and revolutionized CGI and animatronic special effects in cinema.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "food",
+      "question": "Camembert cheese is a soft, creamy cow's milk cheese that originates from which country?",
+      "options": [
+        "Italy",
+        "Spain",
+        "France",
+        "Switzerland"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Camembert was supposedly created in Normandy, France, by a local farmer named Marie Harel in the late 18th century.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "animals",
+      "question": "What is a group of crows commonly referred to as?",
+      "options": [
+        "A colony",
+        "A pack",
+        "A troop",
+        "A murder"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A group of crows is called a 'murder' because of old folklore and their dark, scavenger-like nature associated with death and battlefields.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "sports",
+      "question": "How many players are on the ice for a single ice hockey team during a standard regulation play?",
+      "options": [
+        "5",
+        "4",
+        "7",
+        "6"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Each standard ice hockey team fields six players at a time: three forwards, two defensemen, and one goaltender.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "language",
+      "question": "What term is used in grammar for a word that modifies a verb, an adjective, or another adverb?",
+      "options": [
+        "Adverb",
+        "Preposition",
+        "Noun",
+        "Conjunction"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Adverbs often answer questions such as how, when, where, or to what extent, frequently ending in the suffix '-ly'.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "space",
+      "question": "Which moon is the largest natural satellite of Saturn?",
+      "options": [
+        "Io",
+        "Titan",
+        "Europa",
+        "Ganymede"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Titan is the only known object in space outside of Earth with stable bodies of surface liquid, specifically methane and ethane lakes.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "history",
+      "question": "The Magna Carta, a foundational document limiting the power of the monarch, was signed by King John of England in what year?",
+      "options": [
+        "1776",
+        "1492",
+        "1066",
+        "1215"
+      ],
+      "answer_index": 3,
+      "fun_fact": "The Magna Carta was agreed upon at Runnymede, near Windsor, to make peace between the unpopular King John and a group of rebel barons.",
+      "difficulty": "hard"
+    }
+  ]
+}

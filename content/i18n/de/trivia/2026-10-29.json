@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-29",
+  "title": "Tägliches Allgemeinwissen-Quiz – 29. Oktober 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches dieser Länder hat die längste Küstenlinie der Welt?",
+      "options": [
+        "Australien",
+        "Indonesien",
+        "Kanada",
+        "Russland"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Kanada grenzt an drei verschiedene Ozeane und hat Zehntausende von Inseln, wodurch es über die ausgedehnteste Küstenlinie der Welt verfügt.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Wie lautet das chemische Symbol für das Element Gold?",
+      "options": [
+        "Gd",
+        "Au",
+        "Ag",
+        "Go"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Das Symbol Au leitet sich von „aurum“ ab, dem lateinischen Wort für Gold, was übersetzt „morgenrotes Glänzen“ bedeutet.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Geschichte",
+      "question": "Von welchem altägyptischen Pharao wurde der Bau der Großen Pyramide von Gizeh in Auftrag gegeben?",
+      "options": [
+        "Ramses II.",
+        "Tutanchamun",
+        "Cheops",
+        "Echnaton"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Cheops, auch als Khufu bekannt, regierte während der 4. Dynastie Ägyptens und baute die älteste und größte der drei Pyramiden im Gizeh-Pyramidenkomplex.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "In welchem Steven-Spielberg-Film aus dem Jahr 1993 gibt es einen Freizeitpark voller wiederbelebter Dinosaurier?",
+      "options": [
+        "Unheimliche Begegnung der dritten Art",
+        "Der weiße Hai",
+        "Jurassic Park",
+        "E.T. – Der Außerirdische"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Jurassic Park war ein riesiger Kinohit und revolutionierte die computergenerierten und animatronischen Spezialeffekte im Film.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Essen",
+      "question": "Camembert ist ein weicher, cremiger Kuhmilchkäse, der aus welchem Land stammt?",
+      "options": [
+        "Italien",
+        "Spanien",
+        "Frankreich",
+        "Schweiz"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Camembert wurde angeblich im späten 18. Jahrhundert in der Normandie in Frankreich von einer Bäuerin namens Marie Harel kreiert.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Tiere",
+      "question": "Wie wird eine Gruppe von Krähen im englischen Sprachraum (und gelegentlich auch im Jargon) häufig genannt?",
+      "options": [
+        "Eine Kolonie",
+        "Ein Rudel",
+        "Eine Truppe",
+        "Ein Mord (murder)"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Eine Gruppe von Krähen wird im Englischen als „murder“ (Mord) bezeichnet, was auf alten Volksglauben sowie ihre dunkle, Aasfresser-ähnliche Natur zurückgeht, die oft mit Tod und Schlachtfeldern assoziiert wurde.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Spieler stehen bei einem regulären Eishockeyspiel pro Team gleichzeitig auf dem Eis?",
+      "options": [
+        "5",
+        "4",
+        "7",
+        "6"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Jedes normale Eishockeyteam schickt sechs Spieler gleichzeitig aufs Eis: drei Stürmer, zwei Verteidiger und einen Torwart.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Sprache",
+      "question": "Welcher Begriff wird in der Grammatik für ein Wort verwendet, das ein Verb, ein Adjektiv oder ein anderes Adverb näher bestimmt?",
+      "options": [
+        "Adverb",
+        "Präposition",
+        "Nomen",
+        "Konjunktion"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Adverbs often answer questions such as how, when, where, or to what extent, frequently ending in the suffix '-ly'.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Mond ist der größte natürliche Satellit des Saturn?",
+      "options": [
+        "Io",
+        "Titan",
+        "Europa",
+        "Ganymed"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Titan ist das einzige bekannte Objekt im Weltraum außerhalb der Erde, das stabile Ansammlungen von Flüssigkeit an der Oberfläche aufweist, konkret Seen aus Methan und Ethan.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Geschichte",
+      "question": "Die Magna Charta, ein grundlegendes Dokument zur Beschränkung der Macht des Monarchen, wurde in welchem Jahr von König Johann (John) von England unterzeichnet?",
+      "options": [
+        "1776",
+        "1492",
+        "1066",
+        "1215"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Die Magna Charta wurde in Runnymede bei Windsor beschlossen, um Frieden zwischen dem ungeliebten König Johann und einer Gruppe rebellischer Barone zu stiften.",
+      "difficulty": "hard"
+    }
+  ]
+}

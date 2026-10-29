@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-29",
+  "slug": "presentations",
+  "cefr": "B2",
+  "cat": "phrases",
+  "emoji": "📊",
+  "title": "Mastering English Presentations",
+  "summary": "Learn how to start, structure, and finish an English presentation like a professional. You will discover practical phrases to guide your audience smoothly from beginning to end.",
+  "sections": [
+    {
+      "h": "Welcoming Your Audience",
+      "p": "When you start a presentation, it is important to greet your listeners clearly and tell them what you are going to talk about. A strong opening helps you feel confident and grabs everyone's attention right away. Always begin with a warm welcome, introduce your topic clearly, and briefly explain the main goals of your talk so people know what to expect.",
+      "ex": [
+        {
+          "en": "Good morning, everyone, and welcome to my presentation.",
+          "mean": "A polite way to greet everyone at the start."
+        },
+        {
+          "en": "Today, I am going to talk about our new marketing strategy.",
+          "mean": "Explaining the main topic of your talk."
+        },
+        {
+          "en": "By the end of this session, you will understand our new plan.",
+          "mean": "Telling the audience what they will learn."
+        }
+      ]
+    },
+    {
+      "h": "Moving to a New Point",
+      "p": "As you speak, you need to guide your listeners from one idea to the next. Transition phrases act like road signs, helping people follow your thoughts without getting lost. Use these phrases whenever you finish one section and want to introduce the next main point, keeping your speech organized and easy to understand.",
+      "ex": [
+        {
+          "en": "Now let us move on to the next slide.",
+          "mean": "A phrase to change the topic smoothly."
+        },
+        {
+          "en": "This brings me to my next point about our budget.",
+          "mean": "Connecting the current idea to the upcoming one."
+        },
+        {
+          "en": "Let us look at the numbers in more detail.",
+          "mean": "Inviting the audience to examine a specific detail."
+        }
+      ]
+    },
+    {
+      "h": "Ending and Taking Questions",
+      "p": "A great conclusion leaves a lasting impression on your audience. You should summarize your main message clearly and then open the floor so people can ask questions. Always thank your listeners for their time and attention before you officially finish your presentation.",
+      "ex": [
+        {
+          "en": "To sum up, our main goal this year is to increase sales.",
+          "mean": "Quickly repeating the main idea."
+        },
+        {
+          "en": "Thank you all for listening. Are there any questions?",
+          "mean": "Ending the talk and asking for questions."
+        },
+        {
+          "en": "I would be happy to answer any questions you might have.",
+          "mean": "A polite offer to help with audience questions."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "welcome",
+      "mean": "greet politely"
+    },
+    {
+      "en": "presentation",
+      "mean": "formal talk"
+    },
+    {
+      "en": "topic",
+      "mean": "subject of talk"
+    },
+    {
+      "en": "move on",
+      "mean": "change subject"
+    },
+    {
+      "en": "point",
+      "mean": "main idea"
+    },
+    {
+      "en": "sum up",
+      "mean": "conclude briefly"
+    },
+    {
+      "en": "session",
+      "mean": "meeting or class"
+    },
+    {
+      "en": "audience",
+      "mean": "people listening"
+    }
+  ],
+  "tip": "Practice your presentation out loud while recording your voice on your phone. Listen back to check if your transition phrases sound natural and clear.",
+  "quiz": [
+    {
+      "ask": "Choose the best phrase to start your talk",
+      "en": "Good morning, everyone, and ___ to my presentation.",
+      "choices": [
+        "welcome",
+        "hello",
+        "goodbye"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct verb for changing topics",
+      "en": "Now let us ___ on to the next slide.",
+      "choices": [
+        "go",
+        "move",
+        "walk"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the right word for summarizing",
+      "en": "To ___, our main goal is to increase sales.",
+      "choices": [
+        "finish",
+        "sum up",
+        "talk"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct phrase to ask for questions",
+      "en": "Thank you for listening. Are there any ___?",
+      "choices": [
+        "answers",
+        "problems",
+        "questions"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct word for the main subject",
+      "en": "Today, I am going to talk about our main ___.",
+      "choices": [
+        "topic",
+        "story",
+        "joke"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the best transition phrase",
+      "en": "This ___ me to my next point.",
+      "choices": [
+        "takes",
+        "brings",
+        "carries"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

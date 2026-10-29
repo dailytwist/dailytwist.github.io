@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-29",
+  "slug": "inversion-for-emphasis",
+  "cefr": "B2",
+  "cat": "grammar",
+  "emoji": "🔥",
+  "title": "Haz que tu inglés sea más potente con la inversión",
+  "summary": "Descubre cómo empezar las oraciones con palabras negativas para sonar más dramático y emocional. Aprenderás formas naturales de enfatizar lo que dices usando estructuras como 'Never have I' y 'Not only'.",
+  "sections": [
+    {
+      "h": "¿Por qué usar la inversión?",
+      "p": "Normalmente, las oraciones en inglés siguen un orden estándar: primero el sujeto y luego el verbo. Pero cuando queremos que nuestro mensaje suene más contundente, más formal o muy sorprendente, podemos poner una palabra negativa justo al principio. Al hacer esto, cambiamos el orden del sujeto y del verbo auxiliar, exactamente igual que al hacer una pregunta. Es una herramienta fantástica para discursos, redacción y conversaciones expresivas.",
+      "ex": [
+        {
+          "en": "Never have I seen such a beautiful sunset.",
+          "mean": "I have truly never seen a sunset this amazing before."
+        },
+        {
+          "en": "Rarely do we get a day off work.",
+          "mean": "We almost never get a day off."
+        }
+      ]
+    },
+    {
+      "h": "Cómo usar 'Never have I'",
+      "p": "La frase 'Never have I' es una forma muy potente de hablar de tus experiencias vitales. En vez de decir 'I have never felt so happy', pones 'Never' al principio, seguido de 'have I' y luego el verbo principal en participio. Esto crea un impacto emocional inmediato y capta la atención de quien te escucha al instante.",
+      "ex": [
+        {
+          "en": "Never have I tasted food so delicious.",
+          "mean": "This is the best food I have ever eaten."
+        },
+        {
+          "en": "Never have I heard such terrible news.",
+          "mean": "I am deeply shocked by this very bad news."
+        }
+      ]
+    },
+    {
+      "h": "Añadiendo ideas con 'Not only'",
+      "p": "Cuando quieras dar dos puntos fuertes, puedes empezar con 'Not only'. Esta estructura te ayuda a conectar ideas con fluidez a la vez que añades un extra de emoción. Recuerda invertir el sujeto y el verbo auxiliar en la primera parte de la oración, y usa 'but also' en la segunda parte para introducir la información final.",
+      "ex": [
+        {
+          "en": "Not only is she smart, but she is also very kind.",
+          "mean": "She has both great intelligence and a kind heart."
+        },
+        {
+          "en": "Not only did we miss the train, but we also lost our umbrellas.",
+          "mean": "We had two bad things happen to us at once."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Inversion",
+      "mean": "cambiar el orden normal de las palabras"
+    },
+    {
+      "en": "Emphasis",
+      "mean": "hacer que algo destaque"
+    },
+    {
+      "en": "Auxiliary verb",
+      "mean": "verbo auxiliar como have o do"
+    },
+    {
+      "en": "Never have I",
+      "mean": "una forma contundente de decir que no he hecho algo"
+    },
+    {
+      "en": "Not only",
+      "mean": "introducir un doble argumento"
+    },
+    {
+      "en": "Rarely",
+      "mean": "casi nunca"
+    },
+    {
+      "en": "Formal",
+      "mean": "estilo serio y educado"
+    }
+  ],
+  "tip": "¡Piensa en la inversión como si te pusieras de pie en medio de una multitud para hacer un anuncio importante! Empieza con la palabra negativa, invierte el verbo y el sujeto, ¡y habla con seguridad!",
+  "quiz": [
+    {
+      "ask": "Elige la oración invertida correcta",
+      "en": "___ seen such a busy city before.",
+      "choices": [
+        "Never have I",
+        "I have never",
+        "Never I have"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Selecciona la forma verbal adecuada",
+      "en": "Not only ___ he late, but he also forgot his keys.",
+      "choices": [
+        "he was",
+        "did he",
+        "was"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Completa la frase para darle énfasis",
+      "en": "___ do we visit our grandparents.",
+      "choices": [
+        "Often",
+        "Rarely",
+        "Always"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige el orden de pregunta correcto para dar énfasis",
+      "en": "Never ___ such an amazing movie.",
+      "choices": [
+        "I have watched",
+        "watched I",
+        "have I watched"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Selecciona el conector correcto para 'not only'",
+      "en": "Not only is the food cheap, ___ it is delicious.",
+      "choices": [
+        "but also",
+        "and also",
+        "plus"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Identifica la inversión correcta",
+      "en": "Seldom ___ such rude behavior.",
+      "choices": [
+        "I have seen",
+        "have I seen",
+        "did I saw"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

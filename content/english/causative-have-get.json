@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-29",
+  "slug": "causative-have-get",
+  "cefr": "B2",
+  "cat": "grammar",
+  "emoji": "🛠️",
+  "title": "Have and Get Something Done",
+  "summary": "Learn how to use 'have' and 'get something done' when we pay other people to do work for us. You will be able to talk about haircuts, repairs, and professional services easily.",
+  "sections": [
+    {
+      "h": "When to use this grammar",
+      "p": "We use 'have something done' or 'get something done' when we do not do something ourselves. Instead, we pay or ask another person, like a professional, to do it for us. The structure is: subject + have/get + object + past participle (V3). For example, you do not cut your own hair; you let a hairdresser do it.",
+      "ex": [
+        {
+          "en": "I had my hair cut yesterday.",
+          "mean": "A hairdresser cut my hair for me."
+        },
+        {
+          "en": "She is getting her car repaired tomorrow.",
+          "mean": "A mechanic will fix her car."
+        }
+      ]
+    },
+    {
+      "h": "Have vs. Get",
+      "p": "Both 'have something done' and 'get something done' mean the exact same thing. However, 'get something done' is usually a little more informal and is very common in everyday spoken English. 'Have something done' can sound slightly more formal or traditional, but native speakers use both all the time.",
+      "ex": [
+        {
+          "en": "We need to have our roof fixed before winter.",
+          "mean": "We need workers to repair our roof."
+        },
+        {
+          "en": "I need to get my passport renewed soon.",
+          "mean": "I need official people to give me a new passport."
+        }
+      ]
+    },
+    {
+      "h": "Using different tenses",
+      "p": "You can change the verb 'have' or 'get' into any tense you need. You can use it in the past, the future, with modal verbs, or in the present continuous. Remember that the main action at the end always stays in the past participle form (V3).",
+      "ex": [
+        {
+          "en": "He has his groceries delivered every week.",
+          "mean": "A delivery person brings his food weekly."
+        },
+        {
+          "en": "They will have their house painted next month.",
+          "mean": "Painters are going to paint their house."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "have something done",
+      "mean": "arrange for service"
+    },
+    {
+      "en": "get something done",
+      "mean": "pay someone to work"
+    },
+    {
+      "en": "past participle",
+      "mean": "third verb form"
+    },
+    {
+      "en": "professional",
+      "mean": "trained worker"
+    },
+    {
+      "en": "mechanic",
+      "mean": "car repairer"
+    },
+    {
+      "en": "hairdresser",
+      "mean": "hair cutter"
+    },
+    {
+      "en": "deliver",
+      "mean": "bring goods"
+    }
+  ],
+  "tip": "Think of a service you pay for every month, like a haircut or a dental check-up. Make a real sentence about it using 'I have my...' to remember the pattern.",
+  "quiz": [
+    {
+      "ask": "Choose the correct form to complete the sentence",
+      "en": "I usually ___ my hair cut at the new salon downtown.",
+      "choices": [
+        "have",
+        "make",
+        "do",
+        "take"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the correct past participle",
+      "en": "She is getting her laptop ___ right now because it broke.",
+      "choices": [
+        "repair",
+        "repairing",
+        "repaired",
+        "repairs"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Select the correct sentence for this situation: A painter painted our house yesterday.",
+      "en": "We had our house ___ yesterday.",
+      "choices": [
+        "paint",
+        "painting",
+        "to paint",
+        "painted"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Choose the correct modal sentence",
+      "en": "You should ___ your eyes tested this week.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Identify the correct meaning",
+      "en": "What does 'I am having my car washed' mean?",
+      "choices": [
+        "I am washing my car by myself.",
+        "I am paying someone to wash my car.",
+        "I want to buy a new car.",
+        "My car is very clean."
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Complete the future plan",
+      "en": "They will ___ their photos printed tomorrow.",
+      "choices": [
+        "get",
+        "getting",
+        "got",
+        "gets"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

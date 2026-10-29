@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-29",
+  "slug": "present-perfect-continuous",
+  "cefr": "B2",
+  "cat": "grammar",
+  "emoji": "⏳",
+  "title": "Talking About Ongoing Actions with Present Perfect Continuous",
+  "summary": "You will learn how to use the present perfect continuous tense. This helps you talk about actions that started in the past and are still happening now.",
+  "sections": [
+    {
+      "h": "How to Make It",
+      "p": "To form the present perfect continuous, use 'have' or 'has' plus 'been' and the main verb with '-ing'. Use 'have been' with I, you, we, and they. Use 'has been' with he, she, and it. This structure connects a past action directly to the present moment.",
+      "ex": [
+        {
+          "en": "I have been waiting for the bus for twenty minutes.",
+          "mean": "I started waiting in the past and I am still waiting now."
+        },
+        {
+          "en": "She has been studying English all morning.",
+          "mean": "Her studying started earlier today and continues now."
+        },
+        {
+          "en": "We have been living in this city for five years.",
+          "mean": "Our living here started five years ago and is still happening."
+        }
+      ]
+    },
+    {
+      "h": "Using For and Since",
+      "p": "We often use 'for' and 'since' with this tense. Use 'for' to talk about a duration of time, like 'for two hours' or 'for a long time'. Use 'since' to show the exact starting point of the action, such as 'since Monday' or 'since 2010'.",
+      "ex": [
+        {
+          "en": "He has been working here for six months.",
+          "mean": "Six months is the total length of time."
+        },
+        {
+          "en": "They have been playing tennis since three o'clock.",
+          "mean": "Three o'clock is the exact time the game started."
+        }
+      ]
+    },
+    {
+      "h": "Focus on the Activity",
+      "p": "We use the present perfect continuous when we want to show that an activity is important, ongoing, or maybe even a little tiring. Sometimes you can see the physical result of the action in the present, like being tired or having wet clothes from rain.",
+      "ex": [
+        {
+          "en": "You look tired. Have you been working hard?",
+          "mean": "I see you are tired and I think you worked for a long time."
+        },
+        {
+          "en": "It has been raining all day.",
+          "mean": "The rain started earlier and is still falling right now."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "have been",
+      "mean": "auxiliary verb for plural subjects"
+    },
+    {
+      "en": "has been",
+      "mean": "auxiliary verb for singular subjects"
+    },
+    {
+      "en": "-ing form",
+      "mean": "verb ending for continuous action"
+    },
+    {
+      "en": "for",
+      "mean": "used with a time period"
+    },
+    {
+      "en": "since",
+      "mean": "used with a starting point"
+    },
+    {
+      "en": "ongoing",
+      "mean": "still happening now"
+    },
+    {
+      "en": "duration",
+      "mean": "how long something lasts"
+    }
+  ],
+  "tip": "Remember the formula: subject + have/has + been + verb-ing. Think of it as a bridge connecting past time to the present moment.",
+  "quiz": [
+    {
+      "ask": "Choose the correct verb form",
+      "en": "I ___ waiting for you for an hour!",
+      "choices": [
+        "have been",
+        "has been",
+        "am being",
+        "was"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Select the correct word for the time period",
+      "en": "She has been reading this book ___ three days.",
+      "choices": [
+        "since",
+        "during",
+        "for",
+        "from"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct helper verb",
+      "en": "He ___ working at the company since 2019.",
+      "choices": [
+        "have been",
+        "has been",
+        "is",
+        "was been"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Select the correct word for the starting point",
+      "en": "They have been living here ___ last January.",
+      "choices": [
+        "for",
+        "in",
+        "since",
+        "from"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choose the correct sentence",
+      "en": "What ___ you doing all afternoon?",
+      "choices": [
+        "have",
+        "have been",
+        "has been",
+        "are"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Select the correct form to complete the question",
+      "en": "How long ___ it been raining?",
+      "choices": [
+        "do",
+        "has",
+        "have",
+        "is"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

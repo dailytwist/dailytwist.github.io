@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-29",
+  "title": "Trivia Diária de Conhecimentos Gerais - 29 de outubro de 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Qual destes países tem a maior costa marítima do mundo?",
+      "options": [
+        "Austrália",
+        "Indonésia",
+        "Canadá",
+        "Rússia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O Canadá é banhado por três oceanos diferentes e possui dezenas de milhares de ilhas, o que lhe confere a costa mais extensa do mundo.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "ciência",
+      "question": "Qual é o símbolo químico do elemento ouro?",
+      "options": [
+        "Gd",
+        "Au",
+        "Ag",
+        "Go"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O símbolo Au vem de 'aurum', a palavra em latim para ouro, que significa 'amanhecer brilhante'.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "história",
+      "question": "A construção da Grande Pirâmide de Gizé foi encomendada por qual faraó do Egito Antigo?",
+      "options": [
+        "Ramsés II",
+        "Tutancâmon",
+        "Khufu",
+        "Aquenáton"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Khufu, também conhecido como Quéops, reinou durante a Quarta Dinastia do Egito e construiu a mais antiga e maior das três pirâmides do complexo de Gizé.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "filmes e cultura pop",
+      "question": "Qual filme de Steven Spielberg de 1993 apresenta um parque temático povoado por dinossauros ressuscitados?",
+      "options": [
+        "Contatos Imediatos do Terceiro Grau",
+        "Tubarão",
+        "Jurassic Park",
+        "E.T. O Extraterrestre"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Jurassic Park foi um enorme sucesso de bilheteria e revolucionou os efeitos especiais de computação gráfica e animatrônicos no cinema.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "culinária",
+      "question": "O queijo camembert é um queijo de leite de vaca macio e cremoso originário de qual país?",
+      "options": [
+        "Itália",
+        "Espanha",
+        "França",
+        "Suíça"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Acredita-se que o camembert tenha sido criado na Normandia, na França, por uma camponesa chamada Marie Harel no final do século XVIII.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "animais",
+      "question": "Como é comumente chamado um grupo de corvos?",
+      "options": [
+        "Uma colônia",
+        "Uma matilha",
+        "Uma tropa",
+        "Um assassinato"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Um grupo de corvos é chamado de 'murder' (assassinato em inglês) devido a antigas lendas e à sua natureza sombria de animal carniceiro, associada à morte e a campos de batalha.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "esportes",
+      "question": "Quantos jogadores estão no gelo por uma única equipe de hóquei no gelo durante uma partida regulamentar padrão?",
+      "options": [
+        "5",
+        "4",
+        "7",
+        "6"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Cada equipe padrão de hóquei no gelo coloca seis jogadores em campo por vez: três atacantes, dois defensores e um goleiro.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "idioma",
+      "question": "Qual termo é usado na gramática para uma palavra que modifica um verbo, um adjetivo ou outro advérbio?",
+      "options": [
+        "Advérbio",
+        "Preposição",
+        "Substantivo",
+        "Conjunção"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Os advérbios costumam responder a perguntas como como, quando, onde ou até que ponto, frequentemente terminando com o sufixo '-mente'.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "espaço",
+      "question": "Qual lua é o maior satélite natural de Saturno?",
+      "options": [
+        "Io",
+        "Titã",
+        "Europa",
+        "Ganimedes"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Titã é o único objeto conhecido no espaço fora da Terra com corpos estáveis de líquido em sua superfície, especificamente lagos de metano e etano.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "história",
+      "question": "A Magna Carta, documento fundamental que limitou o poder do monarca, foi assinada pelo rei João da Inglaterra em que ano?",
+      "options": [
+        "1776",
+        "1492",
+        "1066",
+        "1215"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A Magna Carta foi acordada em Runnymede, perto de Windsor, para fazer as pazes entre o impopular rei João e um grupo de barões rebeldes.",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-29",
+  "title": "Quiz di Cultura Generale Quotidiano - 29 ottobre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Quale di questi Paesi ha la costa più lunga del mondo?",
+      "options": [
+        "Australia",
+        "Indonesia",
+        "Canada",
+        "Russia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il Canada è bagnato da tre oceani diversi e ha decine di migliaia di isole, il che gli conferisce la linea costiera più estesa del mondo.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è il simbolo chimico dell'elemento oro?",
+      "options": [
+        "Gd",
+        "Au",
+        "Ag",
+        "Go"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Il simbolo Au deriva da 'aurum', la parola latina per oro, che si traduce in 'alba lucente'.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "storia",
+      "question": "La costruzione della Grande Piramide di Giza fu commissionata da quale antico faraone egizio?",
+      "options": [
+        "Ramses II",
+        "Tutankhamun",
+        "Cheope",
+        "Akhenaton"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Cheope, noto anche come Khufu, regnò durante la Quarta Dinastia egizia e fece costruire la più antica e grande delle tre piramidi del complesso di Giza.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "film e pop culture",
+      "question": "In quale film del 1993 di Steven Spielberg compare un parco divertimenti popolato da dinosauri riportati in vita?",
+      "options": [
+        "Incontri ravvicinati del terzo tipo",
+        "Lo squalo",
+        "Jurassic Park",
+        "E.T. l'extra-terrestre"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Jurassic Park è stato un enorme successo al botteghino e ha rivoluzionato la CGI e gli effetti speciali animatronici nel cinema.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "cibo",
+      "question": "Il formaggio Camembert è un formaggio a pasta molle e cremosa di latte vaccino originario di quale Paese?",
+      "options": [
+        "Italia",
+        "Spagna",
+        "Francia",
+        "Svizzera"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il Camembert sarebbe stato creato in Normandia, in Francia, da una contadina locale di nome Marie Harel alla fine del XVIII secolo.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "animali",
+      "question": "Come viene comunemente definito un gruppo di corvi?",
+      "options": [
+        "Una colonia",
+        "Un branco",
+        "Una truppa",
+        "Un omicidio"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Un gruppo di corvi viene chiamato 'murder' (omicidio) a causa di vecchie leggende e della loro natura oscura e necrofora associata alla morte e ai campi di battaglia.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "sport",
+      "question": "Quanti giocatori ci sono sul ghiaccio per una singola squadra di hockey su ghiaccio durante un'azione di gioco regolamentare standard?",
+      "options": [
+        "5",
+        "4",
+        "7",
+        "6"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Ogni squadra standard di hockey su ghiaccio schiera sei giocatori alla volta: tre attaccanti, due difensori e un portiere.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "lingua",
+      "question": "Quale termine si usa in grammatica per una parola che modifica un verbo, un aggettivo o un altro avverbio?",
+      "options": [
+        "Avverbio",
+        "Preposizione",
+        "Nome",
+        "Congiunzione"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Gli avverbi spesso rispondono a domande come il come, il quando, il dove o in che misura, e in inglese terminano frequentemente con il suffisso '-ly'.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "spazio",
+      "question": "Quale luna è il più grande satellite naturale di Saturno?",
+      "options": [
+        "Io",
+        "Titano",
+        "Europa",
+        "Ganimede"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Titano è l'unico corpo conosciuto nello spazio oltre alla Terra a possedere corpi stabili di liquido in superficie, nello specifico laghi di metano ed etano.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "storia",
+      "question": "La Magna Carta, un documento fondamentale che limitava il potere del monarca, fu firmata da Re Giovanni d'Inghilterra in quale anno?",
+      "options": [
+        "1776",
+        "1492",
+        "1066",
+        "1215"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La Magna Carta fu concordata a Runnymede, vicino a Windsor, per fare pace tra l'impopolare Re Giovanni e un gruppo di baroni ribelli.",
+      "difficulty": "hard"
+    }
+  ]
+}

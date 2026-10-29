@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-29",
+  "title": "Trivia quotidienne de culture générale - 29 octobre 2026",
+  "questions": [
+    {
+      "category": "géographie",
+      "question": "Lequel de ces pays possède le plus long littoral au monde ?",
+      "options": [
+        "Australie",
+        "Indonésie",
+        "Canada",
+        "Russie"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le Canada est bordé par trois océans différents et compte des dizaines de milliers d'îles, ce qui lui confère le littoral le plus étendu de la planète.",
+      "difficulty": "moyen"
+    },
+    {
+      "category": "science",
+      "question": "Quel est le symbole chimique de l'or ?",
+      "options": [
+        "Gd",
+        "Au",
+        "Ag",
+        "Go"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Le symbole Au vient d'« aurum », le mot latin pour l'or, qui se traduit par « aube brillante ».",
+      "difficulty": "facile"
+    },
+    {
+      "category": "histoire",
+      "question": "La construction de la Grande Pyramide de Gizeh a été commandée par quel pharaon de l'Égypte antique ?",
+      "options": [
+        "Ramsès II",
+        "Toutânkhamon",
+        "Khéops",
+        "Akhénaton"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Khéops, également connu sous le nom de Cheops, a régné pendant la IVe dynastie égyptienne et a fait bâtir la plus ancienne et la plus grande des trois pyramides du complexe de Gizeh.",
+      "difficulty": "moyen"
+    },
+    {
+      "category": "films et pop culture",
+      "question": "Quel film de Steven Spielberg sorti en 1993 met en scène un parc d'attractions peuplé de dinosaures ressuscités ?",
+      "options": [
+        "Rencontres du troisième type",
+        "Les Dents de la mer",
+        "Jurassic Park",
+        "E.T. l'extra-terrestre"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Jurassic Park a été un immense succès au box-office et a révolutionné les effets spéciaux numériques et animatroniques au cinéma.",
+      "difficulty": "facile"
+    },
+    {
+      "category": "gastronomie",
+      "question": "Le camembert est un fromage au lait de vache à pâte molle et crémeuse originaire de quel pays ?",
+      "options": [
+        "Italie",
+        "Espagne",
+        "France",
+        "Suisse"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le camembert aurait été créé en Normandie, en France, par une fermière locale du nom de Marie Harel à la fin du XVIIIe siècle.",
+      "difficulty": "moyen"
+    },
+    {
+      "category": "animaux",
+      "question": "Comment appelle-t-on communément un groupe de corbeaux ?",
+      "options": [
+        "Une colonie",
+        "Une meute",
+        "Une troupe",
+        "Un meurtre"
+      ],
+      "answer_index": 3,
+      "fun_fact": "On appelle un groupe de corbeaux un « meurtre » (« a murder » en anglais) en raison de vieilles légendes et de leur nature sombre de charognards associée à la mort et aux champs de bataille.",
+      "difficulty": "moyen"
+    },
+    {
+      "category": "sport",
+      "question": "Combien de joueurs se trouvent sur la glace pour une seule équipe de hockey sur glace lors d'une phase de jeu réglementaire standard ?",
+      "options": [
+        "5",
+        "4",
+        "7",
+        "6"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Chaque équipe de hockey sur glace aligne six joueurs en même temps : trois attaquants, deux défenseurs et un gardien.",
+      "difficulty": "facile"
+    },
+    {
+      "category": "langue",
+      "question": "Quel terme grammatical désigne un mot qui modifie un verbe, un adjectif ou un autre adverbe ?",
+      "options": [
+        "Adverbe",
+        "Préposition",
+        "Nom",
+        "Conjonction"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Les adverbes répondent souvent à des questions telles que comment, quand, où ou dans quelle mesure, et se terminent fréquemment par le suffixe « -ment ».",
+      "difficulty": "difficile"
+    },
+    {
+      "category": "espace",
+      "question": "Quelle lune est le plus grand satellite naturel de Saturne ?",
+      "options": [
+        "Io",
+        "Titan",
+        "Europe",
+        "Ganymède"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Titan est le seul objet connu dans l'espace en dehors de la Terre à abriter des plans de liquide stables à sa surface, plus précisément des lacs de méthane et d'éthane.",
+      "difficulty": "difficile"
+    },
+    {
+      "category": "histoire",
+      "question": "La Magna Carta, document fondamental limitant le pouvoir du monarque, a été signée par le roi Jean d'Angleterre en quelle année ?",
+      "options": [
+        "1776",
+        "1492",
+        "1066",
+        "1215"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La Magna Carta a été conclue à Runnymede, près de Windsor, pour faire la paix entre le roi Jean, impopulaire, et un groupe de barons rebelles.",
+      "difficulty": "difficile"
+    }
+  ]
+}

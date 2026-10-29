@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-29",
+  "slug": "inversion-for-emphasis",
+  "cefr": "B2",
+  "cat": "grammar",
+  "emoji": "🔥",
+  "title": "Making Your English Stronger with Inversion",
+  "summary": "Discover how to start sentences with negative words to sound more dramatic and emotional. You will learn natural ways to emphasize your point using structures like 'Never have I' and 'Not only'.",
+  "sections": [
+    {
+      "h": "Why use inversion?",
+      "p": "Normally, English sentences follow a standard order: subject first, then the verb. But when we want to make our message sound stronger, more formal, or very surprising, we can put a negative word at the very front. When we do this, we change the order of the subject and the auxiliary verb, just like making a question. It is a great tool for speeches, writing, and expressive conversations.",
+      "ex": [
+        {
+          "en": "Never have I seen such a beautiful sunset.",
+          "mean": "I have truly never seen a sunset this amazing before."
+        },
+        {
+          "en": "Rarely do we get a day off work.",
+          "mean": "We almost never get a day off."
+        }
+      ]
+    },
+    {
+      "h": "Using Never Have I",
+      "p": "The phrase 'Never have I' is a powerful way to talk about your life experiences. Instead of saying 'I have never felt so happy,' you put 'Never' first, followed by 'have I' and then the main verb in the past participle form. This creates an immediate emotional impact and grabs the listener's attention right away.",
+      "ex": [
+        {
+          "en": "Never have I tasted food so delicious.",
+          "mean": "This is the best food I have ever eaten."
+        },
+        {
+          "en": "Never have I heard such terrible news.",
+          "mean": "I am deeply shocked by this very bad news."
+        }
+      ]
+    },
+    {
+      "h": "Adding Ideas with Not Only",
+      "p": "When you want to give two strong points, you can start with 'Not only'. This structure helps you connect ideas smoothly while adding extra excitement. Remember to invert the subject and auxiliary verb in the first part of the sentence, and use 'but also' in the second part to introduce the final piece of information.",
+      "ex": [
+        {
+          "en": "Not only is she smart, but she is also very kind.",
+          "mean": "She has both great intelligence and a kind heart."
+        },
+        {
+          "en": "Not only did we miss the train, but we also lost our umbrellas.",
+          "mean": "We had two bad things happen to us at once."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Inversion",
+      "mean": "changing normal word order"
+    },
+    {
+      "en": "Emphasis",
+      "mean": "making something stand out"
+    },
+    {
+      "en": "Auxiliary verb",
+      "mean": "helper verb like have or do"
+    },
+    {
+      "en": "Never have I",
+      "mean": "strong way to say I haven't"
+    },
+    {
+      "en": "Not only",
+      "mean": "introducing a double point"
+    },
+    {
+      "en": "Rarely",
+      "mean": "almost never"
+    },
+    {
+      "en": "Formal",
+      "mean": "serious and polite style"
+    }
+  ],
+  "tip": "Think of inversion like standing up in a crowd to make an important announcement. Start with the negative word, flip the verb and subject, and speak with confidence!",
+  "quiz": [
+    {
+      "ask": "Choose the correct inverted sentence",
+      "en": "___ seen such a busy city before.",
+      "choices": [
+        "Never have I",
+        "I have never",
+        "Never I have"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Select the right verb form",
+      "en": "Not only ___ he late, but he also forgot his keys.",
+      "choices": [
+        "he was",
+        "did he",
+        "was"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Complete the phrase for emphasis",
+      "en": "___ do we visit our grandparents.",
+      "choices": [
+        "Often",
+        "Rarely",
+        "Always"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct question order for emphasis",
+      "en": "Never ___ such an amazing movie.",
+      "choices": [
+        "I have watched",
+        "watched I",
+        "have I watched"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Select the correct connector for 'not only'",
+      "en": "Not only is the food cheap, ___ it is delicious.",
+      "choices": [
+        "but also",
+        "and also",
+        "plus"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Identify the correct inversion",
+      "en": "Seldom ___ such rude behavior.",
+      "choices": [
+        "I have seen",
+        "have I seen",
+        "did I saw"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

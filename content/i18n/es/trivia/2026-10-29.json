@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-29",
+  "title": "Trivia diaria de cultura general - 29 de octubre de 2026",
+  "questions": [
+    {
+      "category": "geografía",
+      "question": "Cuál de estos países tiene la línea costera más larga del mundo?",
+      "options": [
+        "Australia",
+        "Indonesia",
+        "Canadá",
+        "Rusia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Canadá está bañado por tres océanos diferentes y cuenta con decenas de miles de islas, lo que le otorga la costa más extensa del planeta.",
+      "difficulty": "media"
+    },
+    {
+      "category": "ciencia",
+      "question": "Cuál es el símbolo químico del oro?",
+      "options": [
+        "Gd",
+        "Au",
+        "Ag",
+        "Go"
+      ],
+      "answer_index": 1,
+      "fun_fact": "El símbolo Au proviene de 'aurum', la palabra en latín para el oro, que se traduce como 'aurora brillante'.",
+      "difficulty": "fácil"
+    },
+    {
+      "category": "historia",
+      "question": "Qué faraón del antiguo Egipto mandó construir la Gran Pirámide de Guiza?",
+      "options": [
+        "Ramsés II",
+        "Tutankamón",
+        "Keops",
+        "Akenatón"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Keops, también conocido como Khufu, gobernó durante la cuarta dinastía de Egipto y construyó la más antigua y grande de las tres pirámides del complejo de Guiza.",
+      "difficulty": "media"
+    },
+    {
+      "category": "cine y cultura pop",
+      "question": "Qué película de Steven Spielberg de 1993 presenta un parque de atracciones poblado por dinosaurios resucitados?",
+      "options": [
+        "Encuentros en la tercera fase",
+        "Tiburón",
+        "Jurassic Park",
+        "E.T., el extraterrestre"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Jurassic Park fue un éxito rotundo de taquilla y revolucionó los efectos especiales de animación por computadora y animatronics en el cine.",
+      "difficulty": "fácil"
+    },
+    {
+      "category": "gastronomía",
+      "question": "El queso camembert es un queso de leche de vaca blando y cremoso originario de qué país?",
+      "options": [
+        "Italia",
+        "España",
+        "Francia",
+        "Suiza"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Se dice que el camembert fue creado en Normandía, Francia, por una agricultora local llamada Marie Harel a finales del siglo XVIII.",
+      "difficulty": "media"
+    },
+    {
+      "category": "animales",
+      "question": "Cómo se le llama comúnmente a un grupo de cuervos?",
+      "options": [
+        "Una colonia",
+        "Una manada",
+        "Una tropa",
+        "Un asesinato"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A un grupo de cuervos se le llama 'asesinato' debido a antiguas leyendas y a su naturaleza oscura y carroñera asociada con la muerte y los campos de batalla.",
+      "difficulty": "media"
+    },
+    {
+      "category": "deportes",
+      "question": "Cuántos jugadores hay sobre el hielo por un solo equipo de hockey durante un partido reglamentario estándar?",
+      "options": [
+        "5",
+        "4",
+        "7",
+        "6"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Cada equipo estándar de hockey sobre hielo coloca a seis jugadores a la vez: tres delanteros, dos defensas y un guardameta.",
+      "difficulty": "fácil"
+    },
+    {
+      "category": "lengua",
+      "question": "Qué término gramatical se usa para referirse a una palabra que modifica a un verbo, a un adjetivo o a otro adverbio?",
+      "options": [
+        "Adverbio",
+        "Preposición",
+        "Sustantivo",
+        "Conjunción"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Los adverbios a menudo responden a preguntas como cómo, cuándo, dónde o hasta qué punto, y en inglés suelen terminar con el sufijo '-ly'.",
+      "difficulty": "difícil"
+    },
+    {
+      "category": "espacio",
+      "question": "Qué luna es el satélite natural más grande de Saturno?",
+      "options": [
+        "Ío",
+        "Titán",
+        "Europa",
+        "Ganímedes"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Titán es el único objeto conocido en el espacio, aparte de la Tierra, que cuenta con masas estables de líquido en su superficie, específicamente lagos de metano y etano.",
+      "difficulty": "difícil"
+    },
+    {
+      "category": "historia",
+      "question": "En qué año firmó el rey Juan de Inglaterra la Carta Magna, el documento fundamental que limitó el poder del monarca?",
+      "options": [
+        "1776",
+        "1492",
+        "1066",
+        "1215"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La Carta Magna se acordó en Runnymede, cerca de Windsor, para sellar la paz entre el impopular rey Juan y un grupo de barones rebeldes.",
+      "difficulty": "difícil"
+    }
+  ]
+}

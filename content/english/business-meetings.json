@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-29",
+  "slug": "business-meetings",
+  "cefr": "B2",
+  "cat": "phrases",
+  "emoji": "💼",
+  "title": "Business Meetings: Speaking Up",
+  "summary": "In this lesson, you will learn how to share your ideas and interrupt politely in English meetings. These useful phrases will help you sound confident and professional.",
+  "sections": [
+    {
+      "h": "Starting to Speak",
+      "p": "When you want to give your opinion in a meeting, it is important to start politely. You can use simple phrases to show that you are going to share your thoughts. This helps you get attention without sounding rude to your coworkers.",
+      "ex": [
+        {
+          "en": "I'd like to add something here.",
+          "mean": "I want to say more about this topic."
+        },
+        {
+          "en": "From my perspective, we should focus on quality.",
+          "mean": "In my opinion, quality is the most important thing."
+        },
+        {
+          "en": "If I could jump in, I think this plan works well.",
+          "mean": "Let me speak now, I like this plan."
+        }
+      ]
+    },
+    {
+      "h": "Interrupting Politely",
+      "p": "Sometimes other people are talking and you need to speak. You should never just shout over them. Instead, use polite phrases to interrupt gently. This keeps the meeting friendly and lets you share your ideas.",
+      "ex": [
+        {
+          "en": "Sorry to cut in, but do we have the budget for this?",
+          "mean": "Excuse me for interrupting, I have a question about money."
+        },
+        {
+          "en": "Can I just say something quickly?",
+          "mean": "Please let me speak for a moment."
+        }
+      ]
+    },
+    {
+      "h": "Asking for Opinions",
+      "p": "Good meetings include everyone. When you lead a meeting, or want a quiet coworker to speak, you should ask for their thoughts. This makes the team work better together and brings in new ideas.",
+      "ex": [
+        {
+          "en": "What are your thoughts on this, Sarah?",
+          "mean": "Sarah, tell me what you think about this."
+        },
+        {
+          "en": "How do you feel about this proposal?",
+          "mean": "Do you like this new idea or not?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "jump in",
+      "mean": "join a conversation"
+    },
+    {
+      "en": "perspective",
+      "mean": "personal viewpoint"
+    },
+    {
+      "en": "cut in",
+      "mean": "interrupt someone speaking"
+    },
+    {
+      "en": "proposal",
+      "mean": "suggested plan"
+    },
+    {
+      "en": "budget",
+      "mean": "available money"
+    },
+    {
+      "en": "opinion",
+      "mean": "what you think"
+    }
+  ],
+  "tip": "Practice saying these phrases out loud before your meeting. When you know them by heart, you will feel much less nervous.",
+  "quiz": [
+    {
+      "ask": "Choose the best phrase to interrupt politely",
+      "en": "___, but I have a quick question about the schedule.",
+      "choices": [
+        "Sorry to cut in",
+        "Shut up",
+        "Listen to me",
+        "Stop talking"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the best phrase to give your opinion",
+      "en": "___, we need to hire more staff.",
+      "choices": [
+        "I don't know",
+        "From my perspective",
+        "Whatever",
+        "Who cares"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct phrase to ask what someone thinks",
+      "en": "What are your ___ on this new project?",
+      "choices": [
+        "shoes",
+        "thoughts",
+        "colors",
+        "windows"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct verb for joining a conversation",
+      "en": "If I could ___ in, I have an idea.",
+      "choices": [
+        "walk",
+        "jump",
+        "run",
+        "fly"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the best word for a suggested business plan",
+      "en": "The manager liked my ___ for the new website.",
+      "choices": [
+        "proposal",
+        "problem",
+        "mistake",
+        "trouble"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the best word for the money available for a project",
+      "en": "We do not have enough ___ to finish this task.",
+      "choices": [
+        "weather",
+        "budget",
+        "paper",
+        "lunch"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

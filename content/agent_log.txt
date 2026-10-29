@@ -1,103 +1,145 @@
-- dream rainbow
+  10 trending topics after filtering
+- UI strings -> es (5 keys)
 ::warning::Gemini models available: gemini-2.5-flash, gemini-2.5-pro, gemini-2.5-flash-preview-tts, gemini-2.5-pro-preview-tts, gemma-4-26b-a4b-it, gemma-4-31b-it, gemini-flash-latest, gemini-flash-lite-latest, gemini-pro-latest, gemini-2.5-flash-lite, gemini-2.5-flash-image, gemini-3-flash-preview, gemini-3.1-pro-preview, gemini-3.1-pro-preview-customtools, gemini-3.1-flash-lite-preview, gemini-3.1-flash-lite, gemini-3-pro-image-preview, gemini-3-pro-image, nano-banana-pro-preview, gemini-3.1-flash-image-preview, gemini-3.1-flash-image, gemini-3.1-flash-lite-image, gemini-nano-banana-2.1, gemini-3.5-flash, gemini-3.5-flash-lite, gemini-omni-flash-preview, gemini-omni-1.1-flash, gemini-3.5-transcribe, gemini-3.6-flash, gemini-3.7-flash, gemini-3.8-flash, gemini-4-argon, lyria-3-clip-preview, lyria-3-pro-preview, lyria-3.5, gemini-3.1-flash-tts-preview, gemini-3.8-flash-tts, gemini-3.8-flash-lite-tts, gemini-robotics-er-2-preview, gemini-2.5-computer-use-preview-10-2025
 ::warning::using Gemini model: gemini-3.5-flash-lite
-  saved content/dreams/rainbow.json
-- dream lightning
-  saved content/dreams/lightning.json
-- dream earthquake
-  saved content/dreams/earthquake.json
-- dream snow
-  saved content/dreams/snow.json
-- dream desert
-  saved content/dreams/desert.json
-- dream river
-  saved content/dreams/river.json
-- guide birthday april-24
-  saved content/guides/birthday-april-24.json
-- guide birthday april-25
-  saved content/guides/birthday-april-25.json
-- guide birthday april-26
-  saved content/guides/birthday-april-26.json
-- guide birthday april-27
-  saved content/guides/birthday-april-27.json
-- guide birthday april-28
-  saved content/guides/birthday-april-28.json
-- guide birthday april-29
-  saved content/guides/birthday-april-29.json
-- english british-vs-american
-  saved content/english/british-vs-american.json
-- english third-conditional
-  saved content/english/third-conditional.json
-- english wish-and-if-only
-  saved content/english/wish-and-if-only.json
-- english past-perfect
-  saved content/english/past-perfect.json
-- english future-continuous-and-perfect
-  saved content/english/future-continuous-and-perfect.json
-- name Chaimae
-  saved content/names/chaimae.json
-- name Takumi
-  saved content/names/takumi.json
-- name Oumaima
-  saved content/names/oumaima.json
-- name Olivia
-  saved content/names/olivia.json
-- name Ikram
-  saved content/names/ikram.json
-- name Emma
-  saved content/names/emma.json
-- name Aya
-  saved content/names/aya.json
-- name Charlotte
-  saved content/names/charlotte.json
-  saved content/i18n/es/dreams/rainbow.json
-  saved content/i18n/es/dreams/snow.json
-  saved content/i18n/es/dreams/desert.json
-  saved content/i18n/es/dreams/earthquake.json
-  saved content/i18n/es/dreams/river.json
-  saved content/i18n/es/dreams/lightning.json
-  saved content/i18n/es/guides/birthday-april-25.json
-  saved content/i18n/es/guides/birthday-april-29.json
-  saved content/i18n/es/guides/birthday-april-28.json
-  saved content/i18n/fr/dreams/rainbow.json
-  saved content/i18n/fr/dreams/snow.json
-  saved content/i18n/fr/dreams/desert.json
-  saved content/i18n/fr/dreams/earthquake.json
-  saved content/i18n/fr/dreams/river.json
-  saved content/i18n/fr/dreams/lightning.json
-  saved content/i18n/de/dreams/doctor.json
-  saved content/i18n/de/dreams/rainbow.json
-  saved content/i18n/de/dreams/gun.json
-  saved content/i18n/pt/dreams/rainbow.json
-  saved content/i18n/pt/dreams/snow.json
-  saved content/i18n/pt/dreams/desert.json
-  saved content/i18n/pt/dreams/toilet.json
-  saved content/i18n/pt/dreams/earthquake.json
-  saved content/i18n/pt/dreams/river.json
-  saved content/i18n/it/dreams/doctor.json
-  saved content/i18n/it/dreams/rainbow.json
-  saved content/i18n/it/dreams/gun.json
-  saved content/i18n/ja/dreams/doctor.json
-  saved content/i18n/ja/dreams/rainbow.json
-  saved content/i18n/ja/dreams/gun.json
-  saved content/i18n/ar/dreams/doctor.json
-  saved content/i18n/ar/dreams/rainbow.json
-  saved content/i18n/ar/dreams/gun.json
-  saved content/i18n/es/guides/birthday-april-26.json
-  saved content/i18n/es/guides/birthday-april-24.json
-  saved content/i18n/es/guides/birthday-april-27.json
-  saved content/i18n/es/english/wish-and-if-only.json
-  saved content/i18n/es/english/british-vs-american.json
-  saved content/i18n/es/english/future-continuous-and-perfect.json
-  saved content/i18n/es/english/past-perfect.json
-  saved content/i18n/es/english/third-conditional.json
-  saved content/i18n/es/names/soukaina.json
-  saved content/i18n/fr/guides/birthday-april-25.json
-  saved content/i18n/fr/guides/birthday-april-29.json
-  saved content/i18n/fr/guides/birthday-april-28.json
-  saved content/i18n/fr/guides/birthday-april-20.json
-  saved content/i18n/fr/guides/birthday-april-14.json
-  saved content/i18n/fr/guides/birthday-april-26.json
-  saved content/i18n/de/dreams/snow.json
-  saved content/i18n/de/dreams/desert.json
+  saved content/i18n/es/ui.json
+- UI strings -> fr (5 keys)
+  saved content/i18n/fr/ui.json
+- UI strings -> de (5 keys)
+  saved content/i18n/de/ui.json
+- UI strings -> pt (5 keys)
+  saved content/i18n/pt/ui.json
+- UI strings -> it (1 keys)
+  saved content/i18n/it/ui.json
+- UI strings -> ja (5 keys)
+  saved content/i18n/ja/ui.json
+- UI strings -> ar (5 keys)
+  saved content/i18n/ar/ui.json
+- horoscopes 2026-10-29
+  saved content/horoscopes/2026-10-29.json
+- trivia 2026-10-29
+  saved content/trivia/2026-10-29.json
+- choosing articles from trends for 2026-10-29
+  saved content/seeds_used.json
+  saved content/articles/what-is-the-dc-universe-a-guide-to-the-iconic-franchise.json
+  saved content/articles/a-guide-to-ai-games-on-steam-how-artificial-intelligence-works.json
+  saved content/articles/sagittarius-personality-strengths-weaknesses-explained.json
+- yearly topic 2027 aries love [it]
+  saved content/i18n/it/yearly_topics/2027-aries-love.json
+- yearly topic 2027 aries career [it]
+  saved content/i18n/it/yearly_topics/2027-aries-career.json
+- yearly topic 2027 aries money [it]
+  saved content/i18n/it/yearly_topics/2027-aries-money.json
+- yearly topic 2027 taurus love [it]
+  saved content/i18n/it/yearly_topics/2027-taurus-love.json
+- yearly topic 2027 taurus career [it]
+  saved content/i18n/it/yearly_topics/2027-taurus-career.json
+- yearly topic 2027 taurus money [it]
+  saved content/i18n/it/yearly_topics/2027-taurus-money.json
+- yearly topic 2027 gemini love [it]
+  saved content/i18n/it/yearly_topics/2027-gemini-love.json
+- yearly topic 2027 gemini career [it]
+  saved content/i18n/it/yearly_topics/2027-gemini-career.json
+- dream well
+  saved content/dreams/well.json
+- dream green grass
+  saved content/dreams/green-grass.json
+- dream camel
+  saved content/dreams/camel.json
+- dream sheep
+  saved content/dreams/sheep.json
+- dream cow
+  saved content/dreams/cow.json
+- dream goat
+  saved content/dreams/goat.json
+- guide birthday april-30
+  saved content/guides/birthday-april-30.json
+- guide birthday may-1
+  saved content/guides/birthday-may-1.json
+- guide birthday may-2
+  saved content/guides/birthday-may-2.json
+- guide birthday may-3
+  saved content/guides/birthday-may-3.json
+- guide birthday may-4
+  saved content/guides/birthday-may-4.json
+- guide birthday may-5
+  saved content/guides/birthday-may-5.json
+- english present-perfect-continuous
+  saved content/english/present-perfect-continuous.json
+- english causative-have-get
+  JSON was broken, asking once more
+  saved content/english/causative-have-get.json
+- english inversion-for-emphasis
+  saved content/english/inversion-for-emphasis.json
+- english business-meetings
+  saved content/english/business-meetings.json
+- english presentations
+  saved content/english/presentations.json
+- name Jana
+  saved content/names/jana.json
+- name Amelia
+  saved content/names/amelia.json
+- name Hanae
+  saved content/names/hanae.json
+- name Sophia
+  saved content/names/sophia.json
+- name Basma
+  saved content/names/basma.json
+- name Mia
+  saved content/names/mia.json
+- name Rim
+  saved content/names/rim.json
+- name Isabella
+  saved content/names/isabella.json
+  saved content/i18n/es/horoscopes/2026-10-29.json
+  saved content/i18n/es/trivia/2026-10-29.json
+  saved content/i18n/es/dreams/cow.json
+  saved content/i18n/es/dreams/camel.json
+  saved content/i18n/es/dreams/well.json
+  saved content/i18n/es/dreams/goat.json
+  saved content/i18n/es/dreams/sheep.json
+  saved content/i18n/es/dreams/green-grass.json
+  saved content/i18n/es/guides/birthday-april-30.json
+  saved content/i18n/fr/horoscopes/2026-10-29.json
+  saved content/i18n/fr/trivia/2026-10-29.json
+  saved content/i18n/fr/dreams/cow.json
+  saved content/i18n/fr/dreams/camel.json
+  saved content/i18n/fr/dreams/well.json
+  saved content/i18n/fr/dreams/goat.json
+  saved content/i18n/de/horoscopes/2026-10-29.json
+  saved content/i18n/de/trivia/2026-10-29.json
+  saved content/i18n/de/dreams/cow.json
+  saved content/i18n/pt/horoscopes/2026-10-29.json
+  saved content/i18n/pt/trivia/2026-10-29.json
+  saved content/i18n/pt/dreams/cow.json
+  saved content/i18n/pt/dreams/camel.json
+  saved content/i18n/pt/dreams/well.json
+  saved content/i18n/pt/dreams/goat.json
+  saved content/i18n/it/horoscopes/2026-10-29.json
+  saved content/i18n/it/trivia/2026-10-29.json
+  saved content/i18n/it/dreams/cow.json
+  JSON was broken, asking once more
+  saved content/i18n/ja/horoscopes/2026-10-29.json
+  saved content/i18n/ja/trivia/2026-10-29.json
+  saved content/i18n/ja/dreams/cow.json
+  saved content/i18n/ar/horoscopes/2026-10-29.json
+  saved content/i18n/ar/trivia/2026-10-29.json
+  saved content/i18n/ar/dreams/cow.json
+  saved content/i18n/es/guides/birthday-may-4.json
+  saved content/i18n/es/guides/birthday-may-5.json
+  saved content/i18n/es/guides/birthday-may-2.json
+  saved content/i18n/es/guides/birthday-may-1.json
+  saved content/i18n/es/guides/birthday-may-3.json
+  saved content/i18n/es/english/inversion-for-emphasis.json
+  saved content/i18n/es/english/presentations.json
+  saved content/i18n/es/english/business-meetings.json
+  saved content/i18n/es/english/present-perfect-continuous.json
+  saved content/i18n/fr/dreams/sheep.json
+  saved content/i18n/fr/dreams/green-grass.json
+  saved content/i18n/fr/guides/birthday-april-30.json
+  saved content/i18n/fr/guides/birthday-may-4.json
+  saved content/i18n/fr/guides/birthday-may-5.json
+  saved content/i18n/fr/guides/birthday-may-2.json
+  saved content/i18n/de/dreams/camel.json
+  saved content/i18n/de/dreams/well.json
 Agent finished.

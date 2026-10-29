@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-29",
+  "slug": "business-meetings",
+  "cefr": "B2",
+  "cat": "phrases",
+  "emoji": "💼",
+  "title": "Reuniones de negocios: Cómo intervenir",
+  "summary": "En esta lección, aprenderás a compartir tus ideas y a interrumpir de forma educada en las reuniones en inglés. Estas útiles expresiones te ayudarán a sonar seguro y profesional.",
+  "sections": [
+    {
+      "h": "Tomar la palabra",
+      "p": "Cuando quieras dar tu opinión en una reunión, es importante empezar con educación. Puedes usar frases sencillas para indicar que vas a compartir tus impresiones. Esto te ayuda a captar la atención sin sonar maleducado con tus compañeros de trabajo.",
+      "ex": [
+        {
+          "en": "I'd like to add something here.",
+          "mean": "I want to say more about this topic."
+        },
+        {
+          "en": "From my perspective, we should focus on quality.",
+          "mean": "In my opinion, quality is the most important thing."
+        },
+        {
+          "en": "If I could jump in, I think this plan works well.",
+          "mean": "Let me speak now, I like this plan."
+        }
+      ]
+    },
+    {
+      "h": "Interrumpir con educación",
+      "p": "A veces otras personas están hablando y necesitas intervenir. Nunca debes ponerte a gritar por encima de ellos. En su lugar, usa frases educadas para interrumpir con suavidad. Así la reunión se mantiene cordial y puedes compartir tus ideas.",
+      "ex": [
+        {
+          "en": "Sorry to cut in, but do we have the budget for this?",
+          "mean": "Excuse me for interrupting, I have a question about money."
+        },
+        {
+          "en": "Can I just say something quickly?",
+          "mean": "Please let me speak for a moment."
+        }
+      ]
+    },
+    {
+      "h": "Pedir opiniones",
+      "p": "Las buenas reuniones cuentan con la participación de todos. Cuando diriges una reunión, o quieres que un compañero callado hable, debes pedirle su opinión. Esto hace que el equipo trabaje mejor en conjunto y aporta nuevas ideas.",
+      "ex": [
+        {
+          "en": "What are your thoughts on this, Sarah?",
+          "mean": "Sarah, tell me what you think about this."
+        },
+        {
+          "en": "How do you feel about this proposal?",
+          "mean": "Do you like this new idea or not?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "jump in",
+      "mean": "join a conversation"
+    },
+    {
+      "en": "perspective",
+      "mean": "personal viewpoint"
+    },
+    {
+      "en": "cut in",
+      "mean": "interrupt someone speaking"
+    },
+    {
+      "en": "proposal",
+      "mean": "suggested plan"
+    },
+    {
+      "en": "budget",
+      "mean": "available money"
+    },
+    {
+      "en": "opinion",
+      "mean": "what you think"
+    }
+  ],
+  "tip": "Practica estas frases en voz alta antes de tu reunión. Cuando te las sepas de memoria, te sentirás mucho menos nervioso.",
+  "quiz": [
+    {
+      "ask": "Choose the best phrase to interrupt politely",
+      "en": "___, but I have a quick question about the schedule.",
+      "choices": [
+        "Sorry to cut in",
+        "Shut up",
+        "Listen to me",
+        "Stop talking"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the best phrase to give your opinion",
+      "en": "___, we need to hire more staff.",
+      "choices": [
+        "I don't know",
+        "From my perspective",
+        "Whatever",
+        "Who cares"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct phrase to ask what someone thinks",
+      "en": "What are your ___ on this new project?",
+      "choices": [
+        "shoes",
+        "thoughts",
+        "colors",
+        "windows"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the correct verb for joining a conversation",
+      "en": "If I could ___ in, I have an idea.",
+      "choices": [
+        "walk",
+        "jump",
+        "run",
+        "fly"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choose the best word for a suggested business plan",
+      "en": "The manager liked my ___ for the new website.",
+      "choices": [
+        "proposal",
+        "problem",
+        "mistake",
+        "trouble"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choose the best word for the money available for a project",
+      "en": "We do not have enough ___ to finish this task.",
+      "choices": [
+        "weather",
+        "budget",
+        "paper",
+        "lunch"
+      ],
+      "answer_index": 1
+    }
+  ]
+}
