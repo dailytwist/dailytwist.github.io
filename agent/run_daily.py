@@ -503,6 +503,7 @@ TOPIC_NAMES = {"it": {"love": "Amore", "career": "Lavoro", "money": "Soldi"},
                "fr": {"love": "Amour", "career": "Travail", "money": "Argent"},
                "de": {"love": "Liebe", "career": "Beruf", "money": "Finanzen"},
                "es": {"love": "Amor", "career": "Trabajo", "money": "Dinero"},
+               "ja": {"love": "恋愛運", "career": "仕事運", "money": "金運"},
                "en": {"love": "Love", "career": "Career", "money": "Money"}}
 
 
