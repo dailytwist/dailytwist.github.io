@@ -23,6 +23,14 @@ SITE = C["site_name"]
 URL = C["site_url"].rstrip("/")
 BASE = "/" + URL.split("://", 1)[-1].split("/", 1)[1] if "/" in URL.split("://", 1)[-1] else ""
 TODAY = dt.datetime.now(dt.timezone.utc).date()
+def good_wod(w):
+    """Word of the day: real everyday words only, not grammar labels like 'long word'."""
+    en, mean = str(w.get("en", "")).strip(), str(w.get("mean", "")).lower()
+    bad = ("word", "syllable", "verb", "noun", "adjective", "sentence", "tense", "pronoun", "phrase")
+    return bool(en) and len(en.split()) <= 2 and len(en) <= 18 and all(c.isalpha() or c in " '-" for c in en) \
+        and not any(b in en.lower() for b in bad) and "syllable" not in mean
+
+
 UI_EN = json.loads((HERE / "ui_en.json").read_text(encoding="utf-8"))
 RTL = {"ar", "he", "fa", "ur"}
 NATIVE = {"en": "English", "es": "Español", "fr": "Français", "de": "Deutsch", "pt": "Português", "it": "Italiano",
@@ -642,7 +650,7 @@ def build_lang(lang):
     tiles_html = "".join(rail(*c) for c in CATS)
     # "your day" panel: personal and different every day, so visitors come back
     tdy = {"signs": {sg: [SIGNS[sg][0], sign_name(lang, sg), (h["signs"][sg]["overview"].split(". ")[0] + ".") if h else ""] for sg in SIGNS},
-           "words": [[w["en"], w["mean"]] for x in D["english"].values() for w in x.get("words", [])][:200],
+           "words": [[w["en"], w["mean"]] for x in D["english"].values() for w in x.get("words", []) if good_wod(w)][:200],
            "locale": {"ar": "ar-MA", "pt": "pt-BR"}.get(lang, lang), "pre": pre,
            "l": {k: T(lang, "td_" + k) for k in ("pick", "streak", "streak1", "change", "word")}}
     today_box = f"""<section class="today">
