@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-30",
+  "title": "Test de trivia diaria del 30 de octubre de 2026",
+  "questions": [
+    {
+      "category": "geografía",
+      "question": "¿Qué famosa ciudad europea está construida sobre más de 100 pequeñas islas en una laguna?",
+      "options": [
+        "Estocolmo",
+        "Ámsterdam",
+        "Venecia",
+        "Copenhague"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Venecia depende de una vasta red de canales en lugar de las tradicionales calles pavimentadas para su transporte público."
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Cuál es el elemento químico cuyo símbolo es 'Na'?",
+      "options": [
+        "Sodio",
+        "Neón",
+        "Níquel",
+        "Nitrógeno"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El símbolo 'Na' proviene de 'natrium', la palabra neolatina para el carbonato de sodio."
+    },
+    {
+      "category": "historia",
+      "question": "¿En qué país actual tuvo lugar la famosa batalla de Waterloo, que marcó la derrota definitiva de Napoleón Bonaparte?",
+      "options": [
+        "Alemania",
+        "Reino Unido",
+        "Bélgica",
+        "Francia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El pueblo de Waterloo se encuentra justo al sur de Bruselas, en la actual Bélgica."
+    },
+    {
+      "category": "cine y cultura pop",
+      "question": "¿Qué clásico drama romántico de 1942 está protagonizado por Humphrey Bogart e Ingrid Bergman y cuenta con la famosa frase 'Here's looking at you, kid'?",
+      "options": [
+        "Lo que el viento se llevó",
+        "Casablanca",
+        "Ciudadano Kane",
+        "El halcón maltés"
+      ],
+      "answer_index": 1,
+      "fun_fact": "A pesar de su estatus perdurable como obra maestra, Casablanca se rodó en los estudios de Warner Bros. en lugar de en los escenarios reales de Marruecos."
+    },
+    {
+      "category": "comida",
+      "question": "¿De qué país es originaria la paella, un plato de arroz tradicional?",
+      "options": [
+        "Grecia",
+        "Portugal",
+        "España",
+        "Italia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La paella es originaria de la región de Valencia, donde históricamente era cocinada a fuego abierto por agricultores y jornaleros."
+    },
+    {
+      "category": "animales",
+      "question": "¿Cuál es la principal fuente de alimento de un oso hormiguero?",
+      "options": [
+        "Insectos acuáticos",
+        "Pequeños roedores",
+        "Hormigas y termitas",
+        "Hojas y corteza"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un oso hormiguero gigante adulto puede consumir hasta 30 000 hormigas y termitas en un solo día usando su lengua larga y pegajosa."
+    },
+    {
+      "category": "deportes",
+      "question": "En el golf, ¿qué término se utiliza cuando un jugador logra un golpe por debajo del par en un solo hoyo?",
+      "options": [
+        "Bogey",
+        "Eagle",
+        "Albatros",
+        "Birdie"
+      ],
+      "answer_index": 3,
+      "fun_fact": "El término 'birdie' se originó en Estados Unidos a finales del siglo XIX, donde la expresión 'bird of a mark' significaba algo excelente."
+    },
+    {
+      "category": "idioma",
+      "question": "¿Cómo se llama la palabra que se forma con las iniciales de una serie de palabras más larga, como por ejemplo NASA?",
+      "options": [
+        "Palabra maleta",
+        "Sinónimo",
+        "Homónimo",
+        "Acrónimo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Aunque todos los acrónimos son abreviaturas, un acrónimo forma específicamente una nueva palabra pronunciable."
+    },
+    {
+      "category": "espacio",
+      "question": "¿Qué planeta de nuestro sistema solar gira completamente de lado, rodando a lo largo de su órbita?",
+      "options": [
+        "Saturno",
+        "Marte",
+        "Urano",
+        "Neptuno"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Urano tiene una inclinación axial de aproximadamente 98 grados, probablemente causada por una colisión masiva con un objeto del tamaño de la Tierra hace mucho tiempo."
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Qué partícula subatómica tiene carga eléctrica negativa?",
+      "options": [
+        "Electrón",
+        "Positrón",
+        "Protón",
+        "Neutrón"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Los electrones fueron las primeras partículas subatómicas en ser descubiertas, identificadas por J.J. Thomson en 1897."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-30",
+  "title": "Quiz a premi giornaliero del 30 ottobre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Quale famosa città europea è costruita su più di 100 piccole isole all'interno di una laguna?",
+      "options": [
+        "Stoccolma",
+        "Amsterdam",
+        "Venezia",
+        "Copenhagen"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Venezia si affida a una vasta rete di canali anziché alle tradizionali strade asfaltate per il trasporto pubblico."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è l'elemento chimico con il simbolo 'Na'?",
+      "options": [
+        "Sodio",
+        "Neon",
+        "Nichel",
+        "Azoto"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il simbolo 'Na' deriva da 'natrium', la parola neolatina per carbonato di sodio."
+    },
+    {
+      "category": "storia",
+      "question": "La famosa battaglia di Waterloo, che segnò la definitiva sconfitta di Napoleone Bonaparte, ebbe luogo in quale odierno Paese?",
+      "options": [
+        "Germania",
+        "Regno Unito",
+        "Belgio",
+        "Francia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La cittadina di Waterloo si trova appena a sud di Bruxelles, nell'odierno Belgio."
+    },
+    {
+      "category": "cinema e pop culture",
+      "question": "Quale classico film drammatico e romantico del 1942 ha come protagonisti Humphrey Bogart e Ingrid Bergman e include la celebre frase 'Su molta fortuna, piccoletta'?",
+      "options": [
+        "Via col vento",
+        "Casablanca",
+        "Quarto potere",
+        "Il mistero del falco"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Nonostante il suo status imperituro di capolavoro, Casablanca è stato girato negli studi della Warner Bros. anziché sul posto in Marocco."
+    },
+    {
+      "category": "cucina",
+      "question": "La paella è un piatto di riso tradizionale originario di quale Paese?",
+      "options": [
+        "Grecia",
+        "Portogallo",
+        "Spagna",
+        "Italia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La paella è originaria della regione di Valencia, dove storicamente veniva cucinata su un fuoco a viva voce da agricoltori e braccianti."
+    },
+    {
+      "category": "animali",
+      "question": "Qual è la principale fonte di cibo per un formichiere?",
+      "options": [
+        "Insetti acquatici",
+        "Piccoli roditori",
+        "Formiche e termiti",
+        "Foglie e corteccia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un formichiere gigante adulto può consumare fino a 30.000 formiche e termiti in un solo giorno usando la sua lingua lunga e appiccicosa."
+    },
+    {
+      "category": "sport",
+      "question": "Nel golf, quale termine viene usato quando un giocatore segna un colpo sotto il par in una singola buca?",
+      "options": [
+        "Bogey",
+        "Eagle",
+        "Albatros",
+        "Birdie"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Il termine 'birdie' è nato negli Stati Uniti alla fine del XIX secolo, dove indicare qualcosa come 'bird of a mark' significava che era eccellente."
+    },
+    {
+      "category": "linguaggio",
+      "question": "Come si chiama una parola formata dalle lettere iniziali di una serie più lunga di parole, come ad esempio NASA?",
+      "options": [
+        "Parola macedonia",
+        "Sinonimo",
+        "Omonimo",
+        "Acronimo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Sebbene tutti gli acronimi siano abbreviazioni, un acronimo forma specificamente una nuova parola pronunciabile."
+    },
+    {
+      "category": "spazio",
+      "question": "Quale pianeta del nostro sistema solare ruota completamente su un fianco, rotolando lungo la sua orbita?",
+      "options": [
+        "Saturno",
+        "Marte",
+        "Urano",
+        "Nettuno"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Urano ha un'inclinazione assiale di circa 98 gradi, probabilmente causata da una massiccia collisione con un oggetto delle dimensioni della Terra molto tempo fa."
+    },
+    {
+      "category": "scienza",
+      "question": "Quale particella subatomica trasporta una carica elettrica negativa?",
+      "options": [
+        "Elettrone",
+        "Positrone",
+        "Protone",
+        "Neutrone"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Gli elettroni sono state le prime particelle subatomiche a essere scoperte, identificate da J.J. Thomson nel 1897."
+    }
+  ]
+}

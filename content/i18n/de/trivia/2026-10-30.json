@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-30",
+  "title": "Tägliches Quiz vom 30. Oktober 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Auf welcher berühmten europäischen Stadt, die auf über 100 kleinen Inseln in einer Lagune erbaut wurde, basiert diese Frage?",
+      "options": [
+        "Stockholm",
+        "Amsterdam",
+        "Venedig",
+        "Kopenhagen"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Venedig setzt für den öffentlichen Nahverkehr auf ein riesiges Netz aus Kanälen statt auf traditionelle asphaltierte Straßen."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Welches chemische Element hat das Symbol 'Na'?",
+      "options": [
+        "Natrium",
+        "Neon",
+        "Nickel",
+        "Stickstoff"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Das Symbol 'Na' leitet sich von 'natrium' ab, dem neulateinischen Wort für Natriumkarbonat."
+    },
+    {
+      "category": "Geschichte",
+      "question": "In welchem heutigen Land fand die berühmte Schlacht bei Waterloo statt, die die endgültige Niederlage von Napoleon Bonaparte besiegelte?",
+      "options": [
+        "Deutschland",
+        "Vereinigtes Königreich",
+        "Belgien",
+        "Frankreich"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Die Stadt Waterloo liegt südlich von Brüssel im heutigen Belgien."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "In welchem klassischen romantischen Drama aus dem Jahr 1942 spielen Humphrey Bogart und Ingrid Bergman die Hauptrollen und fällt der berühmte Satz 'Ich sehe dir in die Augen, Kleines'?",
+      "options": [
+        "Vom Winde verweht",
+        "Casablanca",
+        "Citizen Kane",
+        "Die Spur des Falken"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Trotz seines anhaltenden Status als Meisterwerk wurde Casablanca nicht vor Ort in Marokko, sondern auf einem Studiogelände von Warner Bros. gedreht."
+    },
+    {
+      "category": "Essen",
+      "question": "Aus welchem Land stammt das traditionelle Reisgericht Paella?",
+      "options": [
+        "Griechenland",
+        "Portugal",
+        "Spanien",
+        "Italien"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Paella stammt aus der Region Valencia, wo sie historisch gesehen von Bauern und Landarbeitern über einem offenen Feuer zubereitet wurde."
+    },
+    {
+      "category": "Tiere",
+      "question": "Was ist die Hauptnahrungsquelle eines Ameisenbären?",
+      "options": [
+        "Wassertiere",
+        "Kleine Nagetiere",
+        "Ameisen und Termiten",
+        "Blätter und Rinde"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Ein ausgewachsener Riesenameisenbär kann mit seiner langen, klebrigen Zunge an einem einzigen Tag bis zu 30.000 Ameisen und Termiten verzehren."
+    },
+    {
+      "category": "Sport",
+      "question": "Welchen Begriff verwendet man im Golfsport, wenn ein Spieler auf einem einzelnen Loch einen Schlag unter Par erzielt?",
+      "options": [
+        "Bogey",
+        "Eagle",
+        "Albatros",
+        "Birdie"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Der Begriff 'Birdie' entstand Ende des 19. Jahrhunderts in den Vereinigten Staaten, wo 'bird of a mark' so viel wie 'hervorragend' bedeutete."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie nennt man ein Wort, das aus den Anfangsbuchstaben einer längeren Wortreihe gebildet wird, wie zum Beispiel NASA?",
+      "options": [
+        "Kofferwort",
+        "Synonym",
+        "Homonym",
+        "Akronym"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Während alle Akronyme Abkürzungen sind, bildet ein Akronym speziell ein neues, aussprechbares Wort."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Planet in unserem Sonnensystem rotiert komplett auf der Seite und rollt sozusagen auf seiner Umlaufbahn dahin?",
+      "options": [
+        "Saturn",
+        "Mars",
+        "Uranus",
+        "Neptun"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Uranus hat eine Achsenneigung von rund 98 Grad, was höchstwahrscheinlich auf eine heftige Kollision mit einem erdgroßen Objekt vor langer Zeit zurückzuführen ist."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Welches subatomare Teilchen trägt eine negative elektrische Ladung?",
+      "options": [
+        "Elektron",
+        "Positron",
+        "Proton",
+        "Neutron"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Elektronen waren die ersten subatomaren Teilchen, die entdeckt wurden; sie wurden 1897 von J.J. Thomson identifiziert."
+    }
+  ]
+}

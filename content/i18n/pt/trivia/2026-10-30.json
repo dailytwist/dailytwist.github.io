@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-30",
+  "title": "Quiz de Conhecimentos Gerais Diário de 30 de Outubro de 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Qual cidade europeia é famosa por ser construída sobre mais de 100 pequenas ilhas em uma lagoa?",
+      "options": [
+        "Estocolmo",
+        "Amsterdã",
+        "Veneza",
+        "Copenhague"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Veneza depende de uma vasta rede de canais em vez de ruas pavimentadas tradicionais para o transporte público."
+    },
+    {
+      "category": "ciência",
+      "question": "Qual é o elemento químico com o símbolo 'Na'?",
+      "options": [
+        "Sódio",
+        "Neônio",
+        "Níquel",
+        "Nitrogênio"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O símbolo 'Na' vem de 'natrium', a palavra neolatina para carbonato de sódio."
+    },
+    {
+      "category": "história",
+      "question": "A famosa Batalha de Waterloo, que marcou a derrota final de Napoleão Bonaparte, ocorreu em qual país atual?",
+      "options": [
+        "Alemanha",
+        "Reino Unido",
+        "Bélgica",
+        "França"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A cidade de Waterloo fica localizada logo ao sul de Bruxelas, na atual Bélgica."
+    },
+    {
+      "category": "filmes e cultura pop",
+      "question": "Qual clássico filme de drama romântico de 1942 é estrelado por Humphrey Bogart e Ingrid Bergman e apresenta a famosa frase 'Here's looking at you, kid'?",
+      "options": [
+        "E o Vento Levou",
+        "Casablanca",
+        "Cidadão Kane",
+        "Relíquia Macabra"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Apesar de seu status duradouro como obra-prima, Casablanca foi filmado em um lote de estúdio da Warner Bros. em vez de ser gravado no local em Marrocos."
+    },
+    {
+      "category": "comida",
+      "question": "A paella é um prato tradicional de arroz originário de qual país?",
+      "options": [
+        "Grécia",
+        "Portugal",
+        "Espanha",
+        "Itália"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A paella se originou na região de Valência, onde historicamente era cozida em fogo aberto por agricultores e trabalhadores rurais."
+    },
+    {
+      "category": "animais",
+      "question": "Qual é a principal fonte de alimentação de um tamanduá?",
+      "options": [
+        "Insetos aquáticos",
+        "Pequenos roedores",
+        "Formigas e cupins",
+        "Folhas e cascas"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Um tamanduá-gigante adulto pode consumir até 30.000 formigas e cupins em um único dia usando sua língua longa e pegajosa."
+    },
+    {
+      "category": "esportes",
+      "question": "No golfe, qual termo é usado quando um jogador faz uma tacada abaixo do par em um único buraco?",
+      "options": [
+        "Bogey",
+        "Eagle",
+        "Albatroz",
+        "Birdie"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O termo 'birdie' originou-se nos Estados Unidos no final do século XIX, onde 'bird of a mark' significava algo excelente."
+    },
+    {
+      "category": "idioma",
+      "question": "Qual é o termo para uma palavra formada a partir das letras iniciais de uma série mais longa de palavras, como NASA?",
+      "options": [
+        "Portmanteau",
+        "Sinônimo",
+        "Homônimo",
+        "Acrônimo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Embora todos os acrônimos sejam abreviações, um acrônimo forma especificamente uma nova palavra pronunciavél."
+    },
+    {
+      "category": "espaço",
+      "question": "Qual planeta do nosso sistema solar gira completamente de lado, rolando ao longo de sua trajetória orbital?",
+      "options": [
+        "Saturno",
+        "Marte",
+        "Urano",
+        "Netuno"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Urano tem uma inclinação axial de aproximadamente 98 graus, provavelmente causada por uma colisão massiva com um objeto do tamanho da Terra há muito tempo."
+    },
+    {
+      "category": "ciência",
+      "question": "Qual partícula subatômica carrega uma carga elétrica negativa?",
+      "options": [
+        "Elétron",
+        "Pósitron",
+        "Próton",
+        "Nêutron"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Os elétrons foram as primeiras partículas subatômicas a serem descobertas, identificadas por J.J. Thomson em 1897."
+    }
+  ]
+}

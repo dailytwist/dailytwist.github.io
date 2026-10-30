@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-30",
+  "title": "October 30, 2026 Daily Trivia Quiz",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Which European city is famously built on more than 100 small islands in a lagoon?",
+      "options": [
+        "Stockholm",
+        "Amsterdam",
+        "Venice",
+        "Copenhagen"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Venice relies on a vast network of canals instead of traditional paved roads for public transportation."
+    },
+    {
+      "category": "science",
+      "question": "What is the chemical element with the symbol 'Na'?",
+      "options": [
+        "Sodium",
+        "Neon",
+        "Nickel",
+        "Nitrogen"
+      ],
+      "answer_index": 0,
+      "fun_fact": "The symbol 'Na' comes from 'natrium', the Neo-Latin word for sodium carbonate."
+    },
+    {
+      "category": "history",
+      "question": "The famous battle of Waterloo, which marked the final defeat of Napoleon Bonaparte, took place in which present-day country?",
+      "options": [
+        "Germany",
+        "United Kingdom",
+        "Belgium",
+        "France"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The town of Waterloo is located just south of Brussels in modern-day Belgium."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Which classic 1942 romantic drama film stars Humphrey Bogart and Ingrid Bergman and features the famous line 'Here's looking at you, kid'?",
+      "options": [
+        "Gone with the Wind",
+        "Casablanca",
+        "Citizen Kane",
+        "The Maltese Falcon"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Despite its enduring status as a masterpiece, Casablanca was shot on a Warner Bros. studio backlot rather than on location in Morocco."
+    },
+    {
+      "category": "food",
+      "question": "Paella is a traditional rice dish that originated from which country?",
+      "options": [
+        "Greece",
+        "Portugal",
+        "Spain",
+        "Italy"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Paella originated in the region of Valencia, where it was historically cooked over an open fire by farmers and farm laborers."
+    },
+    {
+      "category": "animals",
+      "question": "What is the primary food source for an anteater?",
+      "options": [
+        "Aquatic insects",
+        "Small rodents",
+        "Ants and termites",
+        "Leaves and bark"
+      ],
+      "answer_index": 2,
+      "fun_fact": "An adult giant anteater can consume up to 30,000 ants and termites in a single day using its long, sticky tongue."
+    },
+    {
+      "category": "sports",
+      "question": "In golf, what term is used when a player scores one stroke under par on a single hole?",
+      "options": [
+        "Bogey",
+        "Eagle",
+        "Albatross",
+        "Birdie"
+      ],
+      "answer_index": 3,
+      "fun_fact": "The term 'birdie' originated in the United States in the late 19th century, where a 'bird of a mark' meant something excellent."
+    },
+    {
+      "category": "language",
+      "question": "What is the term for a word that is formed from the initial letters of a longer series of words, such as NASA?",
+      "options": [
+        "Portmanteau",
+        "Synonym",
+        "Homonym",
+        "Acronym"
+      ],
+      "answer_index": 3,
+      "fun_fact": "While all acronyms are abbreviations, an acronym specifically forms a new pronounceable word."
+    },
+    {
+      "category": "space",
+      "question": "Which planet in our solar system rotates completely on its side, rolling along its orbital path?",
+      "options": [
+        "Saturn",
+        "Mars",
+        "Uranus",
+        "Neptune"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Uranus has an axial tilt of roughly 98 degrees, likely caused by a massive collision with an Earth-sized object long ago."
+    },
+    {
+      "category": "science",
+      "question": "What subatomic particle carries a negative electrical charge?",
+      "options": [
+        "Electron",
+        "Positron",
+        "Proton",
+        "Neutron"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Electrons were the first subatomic particles to be discovered, identified by J.J. Thomson in 1897."
+    }
+  ]
+}
