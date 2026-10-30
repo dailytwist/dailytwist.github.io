@@ -1,120 +1,111 @@
-  9 trending topics after filtering
-- horoscopes 2026-10-30
+- yearly topic 2027 aquarius money [it]
 ::warning::Gemini models available: gemini-2.5-flash, gemini-2.5-pro, gemini-2.5-flash-preview-tts, gemini-2.5-pro-preview-tts, gemma-4-26b-a4b-it, gemma-4-31b-it, gemini-flash-latest, gemini-flash-lite-latest, gemini-pro-latest, gemini-2.5-flash-lite, gemini-2.5-flash-image, gemini-3-flash-preview, gemini-3.1-pro-preview, gemini-3.1-pro-preview-customtools, gemini-3.1-flash-lite-preview, gemini-3.1-flash-lite, gemini-3-pro-image-preview, gemini-3-pro-image, nano-banana-pro-preview, gemini-3.1-flash-image-preview, gemini-3.1-flash-image, gemini-3.1-flash-lite-image, gemini-nano-banana-2.1, gemini-3.5-flash, gemini-3.5-flash-lite, gemini-omni-flash-preview, gemini-omni-1.1-flash, gemini-3.5-transcribe, gemini-3.6-flash, gemini-3.7-flash, gemini-3.8-flash, gemini-4-argon, lyria-3-clip-preview, lyria-3-pro-preview, lyria-3.5, gemini-3.1-flash-tts-preview, gemini-3.8-flash-tts, gemini-3.8-flash-lite-tts, gemini-robotics-er-2-preview, gemini-2.5-computer-use-preview-10-2025
 ::warning::using Gemini model: gemini-3.5-flash-lite
-  saved content/horoscopes/2026-10-30.json
-- trivia 2026-10-30
-  saved content/trivia/2026-10-30.json
-- choosing articles from trends for 2026-10-30
-  saved content/seeds_used.json
-  saved content/articles/what-is-black-friday-history-origins-fun-facts.json
+  saved content/i18n/it/yearly_topics/2027-aquarius-money.json
+- yearly topic 2027 pisces love [it]
+  saved content/i18n/it/yearly_topics/2027-pisces-love.json
+- yearly topic 2027 pisces career [it]
+  saved content/i18n/it/yearly_topics/2027-pisces-career.json
+- yearly topic 2027 pisces money [it]
   JSON was broken, asking once more
-  saved content/articles/pisces-personality-traits-strengths-and-weaknesses.json
-  saved content/articles/virgo-personality-strengths-weaknesses-traits.json
-- yearly topic 2027 sagittarius love [it]
-  saved content/i18n/it/yearly_topics/2027-sagittarius-love.json
-- yearly topic 2027 sagittarius career [it]
-  saved content/i18n/it/yearly_topics/2027-sagittarius-career.json
-- yearly topic 2027 sagittarius money [it]
-  saved content/i18n/it/yearly_topics/2027-sagittarius-money.json
-- yearly topic 2027 capricorn love [it]
-  saved content/i18n/it/yearly_topics/2027-capricorn-love.json
-- yearly topic 2027 capricorn career [it]
-  saved content/i18n/it/yearly_topics/2027-capricorn-career.json
-- yearly topic 2027 capricorn money [it]
-  saved content/i18n/it/yearly_topics/2027-capricorn-money.json
-- yearly topic 2027 aquarius love [it]
-  saved content/i18n/it/yearly_topics/2027-aquarius-love.json
-- yearly topic 2027 aquarius career [it]
-  saved content/i18n/it/yearly_topics/2027-aquarius-career.json
-- dream moving house
-  saved content/dreams/moving-house.json
-- dream new house
-  saved content/dreams/new-house.json
-- dream old house
-  saved content/dreams/old-house.json
-- dream buying a car
-  saved content/dreams/buying-a-car.json
-- dream shopping
-  saved content/dreams/shopping.json
-- dream lottery
-  saved content/dreams/lottery.json
-- guide birthday may-18
-  saved content/guides/birthday-may-18.json
-- guide birthday may-19
-  saved content/guides/birthday-may-19.json
-- guide birthday may-20
-  saved content/guides/birthday-may-20.json
-- guide birthday may-21
-  saved content/guides/birthday-may-21.json
-- guide birthday may-22
-  saved content/guides/birthday-may-22.json
-- guide birthday may-23
-  saved content/guides/birthday-may-23.json
-- name Rajae
-  saved content/names/rajae.json
-- name Julia
-  saved content/names/julia.json
-- name Hind
-  saved content/names/hind.json
-- name Laura
-  saved content/names/laura.json
-- name Najat
-  saved content/names/najat.json
-- name Elena
-  saved content/names/elena.json
-- name Hafsa
-  saved content/names/hafsa.json
-- name Zahra
-  saved content/names/zahra.json
-  saved content/i18n/es/horoscopes/2026-10-30.json
-  saved content/i18n/es/trivia/2026-10-30.json
-  saved content/i18n/es/dreams/shopping.json
-  saved content/i18n/es/dreams/moving-house.json
-  saved content/i18n/es/dreams/buying-a-car.json
-  saved content/i18n/es/dreams/lottery.json
-  saved content/i18n/es/dreams/old-house.json
-  saved content/i18n/es/dreams/new-house.json
-  saved content/i18n/es/guides/birthday-may-23.json
-  saved content/i18n/fr/horoscopes/2026-10-30.json
-  saved content/i18n/fr/trivia/2026-10-30.json
-  saved content/i18n/fr/dreams/shopping.json
-  saved content/i18n/fr/dreams/moving-house.json
-  saved content/i18n/fr/dreams/buying-a-car.json
-  saved content/i18n/fr/dreams/lottery.json
-  saved content/i18n/de/horoscopes/2026-10-30.json
-  saved content/i18n/de/trivia/2026-10-30.json
-  saved content/i18n/de/dreams/shopping.json
-  saved content/i18n/pt/horoscopes/2026-10-30.json
-  saved content/i18n/pt/trivia/2026-10-30.json
-  saved content/i18n/pt/dreams/shopping.json
-  saved content/i18n/pt/dreams/moving-house.json
-  saved content/i18n/pt/dreams/buying-a-car.json
-  saved content/i18n/pt/dreams/lottery.json
-  saved content/i18n/it/horoscopes/2026-10-30.json
-  saved content/i18n/it/trivia/2026-10-30.json
-  saved content/i18n/it/dreams/shopping.json
-  saved content/i18n/ja/horoscopes/2026-10-30.json
-  saved content/i18n/ja/trivia/2026-10-30.json
-  saved content/i18n/ja/dreams/shopping.json
-  saved content/i18n/ar/horoscopes/2026-10-30.json
-  saved content/i18n/ar/trivia/2026-10-30.json
-  saved content/i18n/ar/dreams/shopping.json
-  saved content/i18n/es/guides/birthday-may-22.json
-  saved content/i18n/es/guides/birthday-may-19.json
-  saved content/i18n/es/guides/birthday-may-21.json
-  saved content/i18n/es/guides/birthday-may-18.json
-  saved content/i18n/es/guides/birthday-may-20.json
-  saved content/i18n/es/names/laura.json
-  saved content/i18n/es/names/zahra.json
-  saved content/i18n/es/names/rajae.json
-  saved content/i18n/es/names/julia.json
-  saved content/i18n/fr/dreams/old-house.json
-  saved content/i18n/fr/dreams/new-house.json
-  saved content/i18n/fr/guides/birthday-may-23.json
-  saved content/i18n/fr/guides/birthday-may-22.json
-  saved content/i18n/fr/guides/birthday-may-19.json
-  saved content/i18n/fr/guides/birthday-may-21.json
-  saved content/i18n/de/dreams/moving-house.json
-  saved content/i18n/de/dreams/buying-a-car.json
+  saved content/i18n/it/yearly_topics/2027-pisces-money.json
+- yearly topic 2027 aries love [ja]
+  saved content/i18n/ja/yearly_topics/2027-aries-love.json
+- yearly topic 2027 aries career [ja]
+  JSON was broken, asking once more
+  saved content/i18n/ja/yearly_topics/2027-aries-career.json
+- yearly topic 2027 aries money [ja]
+  saved content/i18n/ja/yearly_topics/2027-aries-money.json
+- yearly topic 2027 taurus love [ja]
+  saved content/i18n/ja/yearly_topics/2027-taurus-love.json
+- dream losing money
+  saved content/dreams/losing-money.json
+- dream finding money
+  saved content/dreams/finding-money.json
+- dream cheating
+  saved content/dreams/cheating.json
+- dream breakup
+  saved content/dreams/breakup.json
+- dream proposal
+  saved content/dreams/proposal.json
+- dream twins
+  saved content/dreams/twins.json
+- guide birthday may-24
+  saved content/guides/birthday-may-24.json
+- guide birthday may-25
+  saved content/guides/birthday-may-25.json
+- guide birthday may-26
+  saved content/guides/birthday-may-26.json
+- guide birthday may-27
+  saved content/guides/birthday-may-27.json
+- guide birthday may-28
+  saved content/guides/birthday-may-28.json
+- guide birthday may-29
+  saved content/guides/birthday-may-29.json
+- name Valentina
+  saved content/names/valentina.json
+- name Jamila
+  saved content/names/jamila.json
+- name Camila
+  saved content/names/camila.json
+- name Latifa
+  saved content/names/latifa.json
+- name Lucia
+  saved content/names/lucia.json
+- name Ilham
+  saved content/names/ilham.json
+- name Martina
+  saved content/names/martina.json
+- name Paula
+  saved content/names/paula.json
+  saved content/i18n/es/dreams/cheating.json
+  saved content/i18n/es/dreams/proposal.json
+  saved content/i18n/es/dreams/finding-money.json
+  saved content/i18n/es/dreams/twins.json
+  saved content/i18n/es/dreams/breakup.json
+  saved content/i18n/es/dreams/losing-money.json
+  saved content/i18n/es/guides/birthday-may-25.json
+  saved content/i18n/es/guides/birthday-may-26.json
+  saved content/i18n/es/guides/birthday-may-27.json
+  saved content/i18n/fr/dreams/cheating.json
+  saved content/i18n/fr/dreams/proposal.json
+  saved content/i18n/fr/dreams/finding-money.json
+  saved content/i18n/fr/dreams/twins.json
+  saved content/i18n/fr/dreams/breakup.json
+  saved content/i18n/fr/dreams/losing-money.json
+  saved content/i18n/de/dreams/cheating.json
+  saved content/i18n/de/dreams/lottery.json
+  saved content/i18n/de/dreams/old-house.json
+  saved content/i18n/pt/dreams/cheating.json
+  saved content/i18n/pt/dreams/old-house.json
+  saved content/i18n/pt/dreams/proposal.json
+  saved content/i18n/pt/dreams/finding-money.json
+  saved content/i18n/pt/dreams/twins.json
+  saved content/i18n/pt/dreams/new-house.json
+  saved content/i18n/it/dreams/cheating.json
+  saved content/i18n/it/dreams/moving-house.json
+  saved content/i18n/it/dreams/buying-a-car.json
+  saved content/i18n/ja/dreams/cheating.json
+  saved content/i18n/ja/dreams/moving-house.json
+  saved content/i18n/ja/dreams/buying-a-car.json
+  saved content/i18n/ar/dreams/cheating.json
+  saved content/i18n/ar/dreams/moving-house.json
+  saved content/i18n/ar/dreams/buying-a-car.json
+  saved content/i18n/es/guides/birthday-may-24.json
+  saved content/i18n/es/guides/birthday-may-28.json
+  saved content/i18n/es/guides/birthday-may-29.json
+  saved content/i18n/es/names/ilham.json
+  saved content/i18n/es/names/martina.json
+  saved content/i18n/es/names/valentina.json
+  saved content/i18n/es/names/paula.json
+  saved content/i18n/es/names/jamila.json
+  saved content/i18n/es/names/hafsa.json
+  saved content/i18n/fr/guides/birthday-may-25.json
+  saved content/i18n/fr/guides/birthday-may-26.json
+  saved content/i18n/fr/guides/birthday-may-27.json
+  saved content/i18n/fr/guides/birthday-may-24.json
+  saved content/i18n/fr/guides/birthday-may-28.json
+  saved content/i18n/fr/guides/birthday-may-18.json
+  saved content/i18n/de/dreams/proposal.json
+  saved content/i18n/de/dreams/finding-money.json
 Agent finished.
