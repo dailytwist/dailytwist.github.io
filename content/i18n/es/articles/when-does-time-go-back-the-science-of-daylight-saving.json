@@ -1,0 +1,53 @@
+{
+  "title": "¿Cuándo se atrasa el reloj? La ciencia del horario de verano",
+  "description": "Descubre cuándo se atrasa el reloj, la historia del horario de verano y la fascinante ciencia detrás de cómo ajustamos nuestros relojes dos veces al año.",
+  "category": "Science",
+  "sections": [
+    {
+      "heading": "Entendiendo el retraso del reloj",
+      "paragraphs": [
+        "Cuando la gente pregunta \"cuándo se atrasa el reloj\", casi siempre se refiere al fin del horario de verano. En las regiones que lo observan, los relojes se atrasan una hora durante los meses de otoño. Esta transición devuelve efectivamente la hora estándar a la región, regalando a las personas una hora extra de sueño la noche en que ocurre el cambio.",
+        "La fecha exacta varía según el país y la jurisdicción. En Estados Unidos y Canadá, este cambio ocurre el primer domingo de noviembre a las 2:00 a. m. hora local. En la Unión Europea y el Reino Unido, el cambio se produce el último domingo de octubre. Como la modificación ocurre en plena noche, la mayoría de los dispositivos digitales modernos gestionan el ajuste automáticamente, mientras que los relojes manuales deben cambiarse antes de dormir o a la mañana siguiente."
+      ]
+    },
+    {
+      "heading": "La historia detrás del cambio de hora",
+      "paragraphs": [
+        "El concepto de manipular el tiempo para aprovechar mejor la luz solar tiene una historia sorprendentemente larga. Aunque civilizaciones antiguas como los romanos ajustaban sus horarios diarios según las horas de luz en lugar de horas de duración fija, el horario de verano moderno se propuso formalmente a finales del siglo XIX y principios del XX.",
+        "El entomólogo George Hudson propuso un adelanto de dos horas de luz en Nueva Zelanda en 1895 para tener más horas libres después del trabajo para recolectar insectos. Una década después, el constructor británico William Willett propuso de forma independiente un sistema similar para evitar el desperdicio de luz diurna durante los meses de verano. El sistema fue implementado por primera vez a nivel nacional por Alemania y sus aliados durante la Primera Guerra Mundial en 1916 como una forma de conservar carbón para el esfuerzo bélico. Muchas otras naciones, incluidos Estados Unidos y el Reino Unido, hicieron lo propio poco después."
+      ]
+    },
+    {
+      "heading": "Por qué seguimos atrasando el reloj",
+      "paragraphs": [
+        "El principal argumento original a favor del horario de verano era la conservación de energía. Al adelantar los relojes en primavera, la sociedad podía aprovechar mejor la luz natural del atardecer, reduciendo así la necesidad de iluminación artificial en interiores. Cuando se atrasa el reloj en otoño, el ciclo se reinicia para los meses de invierno.",
+        "Sin embargo, los estudios modernos sobre los beneficios de ahorro energético del horario de verano han arrojado resultados mixtos. Aunque el consumo de energía para iluminación puede disminuir, las demandas de calefacción y refrigeración a veces pueden aumentar según la ubicación geográfica y el clima. Más allá de la energía, los defensores suelen argumentar que las horas de luz vespertina más prolongadas durante los meses más cálidos benefician la recreación al aire libre, el turismo y los comercios minoristas por la tarde."
+      ]
+    },
+    {
+      "heading": "Datos curiosos sobre los cambios de hora",
+      "paragraphs": [
+        "No todas las regiones participan en el cambio de hora otoñal. Cerca del ecuador de la Tierra, la duración del día se mantiene relativamente constante durante todo el año, lo que hace que el horario de verano sea prácticamente innecesario. Como resultado, lugares como Hawái y la mayor parte de Arizona en Estados Unidos no observan el horario de verano, manteniendo sus relojes en la hora estándar todo el año.",
+        "Además, cambiar los relojes dos veces al año tiene un impacto logístico en la infraestructura global. Las aerolíneas, las redes ferroviarias y los mercados financieros internacionales deben coordinar cuidadosamente sus horarios en torno a las fechas de transición para evitar conexiones perdidas y errores de sincronización. Esta complejidad ha desencadenado debates continuos en varios parlamentos de todo el mundo sobre si se debería abolir la práctica por completo y permanecer en un único huso horario de forma permanente."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Cuándo atrasamos los relojes en Norteamérica?",
+      "a": "In the United States and Canada, clocks go back one hour on the first Sunday of November at 2:00 AM local time."
+    },
+    {
+      "q": "¿Cambian todos los estados y provincias sus relojes?",
+      "a": "No. In the US, Hawaii and most of Arizona do not observe Daylight Saving Time, meaning they do not change their clocks in autumn or spring."
+    },
+    {
+      "q": "¿Por qué atrasamos el reloj en lugar de quedarnos en horario de verano para siempre?",
+      "a": "Falling back returns regions to standard time, aligning solar noon more closely with clock noon and providing daylight during early morning hours in the darker winter months."
+    }
+  ],
+  "slug": "when-does-time-go-back-the-science-of-daylight-saving",
+  "date": "2026-10-31",
+  "topic": "when does time go back",
+  "trending": true
+}
