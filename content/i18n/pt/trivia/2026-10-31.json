@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-31",
+  "title": "Trivia Diária de 31 de Outubro de 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Qual é o maior deserto quente do mundo?",
+      "options": [
+        "Deserto de Gobi",
+        "Deserto do Saara",
+        "Deserto de Mojave",
+        "Deserto do Kalahari"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Embora a Antártida seja tecnicamente o maior deserto em geral devido à sua baixa precipitação, o Saara é o maior deserto quente."
+    },
+    {
+      "category": "science",
+      "question": "Qual é considerada a central energética da célula?",
+      "options": [
+        "Retículo Endoplasmático",
+        "Mitocôndria",
+        "Ribossomo",
+        "Núcleo"
+      ],
+      "answer_index": 1,
+      "fun_fact": "As mitocôndrias geram a maior parte da energia química necessária para alimentar as reações bioquímicas da célula."
+    },
+    {
+      "category": "history",
+      "question": "Quem foi o segundo Presidente dos Estados Unidos?",
+      "options": [
+        "James Madison",
+        "John Adams",
+        "Alexander Hamilton",
+        "Thomas Jefferson"
+      ],
+      "answer_index": 1,
+      "fun_fact": "John Adams atuou como o segundo presidente da nação de 1797 a 1801, após servir como o primeiro vice-presidente sob o comando de George Washington."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Qual filme de ficção científica de 1999 popularizou o efeito visual 'bullet time' e traz Keanu Reeves como o protagonista Neo?",
+      "options": [
+        "Blade Runner",
+        "O Vingador do Futuro",
+        "The Matrix",
+        "O Exterminador do Futuro"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The Matrix foi escrito e dirigido pelas irmãs Wachowski e ganhou quatro Prêmios da Academia."
+    },
+    {
+      "category": "food",
+      "question": "O queijo Roquefort, conhecido por seus veios azuis marcantes e sabor forte, é feito principalmente com o leite de qual animal?",
+      "options": [
+        "Cabra",
+        "Ovelha",
+        "Búfalo",
+        "Vaca"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O verdadeiro Roquefort é maturado nas cavernas naturais de Combalou, em Roquefort-sur-Soulzon, na França, utilizando leite de ovelha."
+    },
+    {
+      "category": "animals",
+      "question": "Como é comumente chamado um filhote de canguru?",
+      "options": [
+        "Filhote",
+        "Cursa",
+        "Joey",
+        "Bezerro"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Um joey recém-nascido é incrivelmente pequeno, do tamanho de uma abelha ou de uma uva, quando escala para dentro da bolsa da mãe."
+    },
+    {
+      "category": "sports",
+      "question": "No boliche, qual termo é usado para descrever a pontuação de três strikes consecutivos?",
+      "options": [
+        "Águia",
+        "Hat-trick",
+        "Strikeout",
+        "Peru"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O termo 'peru' (turkey) no boliche remonta à década de 1920, quando os organizadores davam um peru vivo de presente para qualquer jogador que conseguisse três strikes seguidos perto do Dia de Ação de Graças."
+    },
+    {
+      "category": "language",
+      "question": "Qual é o termo para uma palavra que se escreve da mesma forma de trás para frente, como 'arara'?",
+      "options": [
+        "Palíndromo",
+        "Sinônimo",
+        "Homônimo",
+        "Acrônimo"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O maior palíndromo de uma única palavra em inglês padrão é frequentemente considerado como 'tattarrattat', cunhado por James Joyce em Ulysses."
+    },
+    {
+      "category": "space",
+      "question": "Qual planeta do nosso sistema solar possui o sistema de anéis mais proeminente e complexo visível da Terra?",
+      "options": [
+        "Saturno",
+        "Urano",
+        "Netuno",
+        "Júpiter"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Os anéis de Saturno são compostos principalmente de pedaços de gelo de água com quantidades menores de detritos rochosos e poeira."
+    },
+    {
+      "category": "geography",
+      "question": "Ulaanbaatar é a capital de qual nação soberana?",
+      "options": [
+        "Mongólia",
+        "Uzbequistão",
+        "Cazaquistão",
+        "Quirguistão"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Ulaanbaatar é conhecida como a capital nacional mais fria do mundo devido à sua alta altitude e clima subártico."
+    }
+  ]
+}

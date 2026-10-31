@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-31",
+  "title": "Tages-Trivia vom 31. Oktober 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welche Wüste ist die größte heiße Wüste der Welt?",
+      "options": [
+        "Wüste Gobi",
+        "Sahara",
+        "Mojave-Wüste",
+        "Kalahari-Wüste"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Während die Antarktis aufgrund ihrer geringen Niederschläge technisch gesehen die größte Wüste überhaupt ist, ist die Sahara die größte heiße Wüste."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist das Kraftwerk der Zelle?",
+      "options": [
+        "Endoplasmatisches Retikulum",
+        "Mitochondrien",
+        "Ribosom",
+        "Zellkern"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Mitochondrien erzeugen den Großteil der chemischen Energie, die für die biochemischen Reaktionen der Zelle benötigt wird."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Wer war der zweite Präsident der Vereinigten Staaten?",
+      "options": [
+        "James Madison",
+        "John Adams",
+        "Alexander Hamilton",
+        "Thomas Jefferson"
+      ],
+      "answer_index": 1,
+      "fun_fact": "John Adams war von 1797 bis 1801 der zweite Präsident der Nation, nachdem er zuvor der erste Vizepräsident unter George Washington gewesen war."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Welcher Science-Fiction-Film aus dem Jahr 1999 machte den visuellen Effekt der „Bullet Time“ populär und hat Keanu Reeves in der Rolle des Neo?",
+      "options": [
+        "Blade Runner",
+        "Total Recall",
+        "The Matrix",
+        "Terminator"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The Matrix wurde von den Wachowskis geschrieben und bei Regie geführt und gewann vier Oscars."
+    },
+    {
+      "category": "Essen",
+      "question": "Roquefort-Käse, bekannt für seine markanten blauen Adern und den kräftigen Geschmack, wird hauptsächlich aus der Milch welches Tiers hergestellt?",
+      "options": [
+        "Ziege",
+        "Schaf",
+        "Wasserbüffel",
+        "Kuh"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Echter Roquefort reift in den natürlichen Höhlen von Combalou in Roquefort-sur-Soulzon, Frankreich, aus Schafsmilch."
+    },
+    {
+      "category": "Tiere",
+      "question": "Wie wird ein Känguru-Baby im Allgemeinen genannt?",
+      "options": [
+        "Welpe",
+        "Junges",
+        "Joey",
+        "Kalb"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Ein neugeborenes Joey ist unglaublich winzig, etwa so groß wie eine Honigbiene oder eine Weintraube, wenn es in den Beutel seiner Mutter klettert."
+    },
+    {
+      "category": "Sport",
+      "question": "Welcher Begriff wird beim Bowling verwendet, um drei aufeinanderfolgende Strikes zu beschreiben?",
+      "options": [
+        "Eagle",
+        "Hattrick",
+        "Strikeout",
+        "Turkey"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Der Begriff „Turkey“ beim Bowling stammt aus den 1920er Jahren, als Sponsoren jedem Bowler, der um Thanksgiving herum drei Strikes in Folge warf, einen echten Truthahn schenkten."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie nennt man ein Wort, das vorwärts und rückwärts gleich buchstabiert wird, wie zum Beispiel „Rennauto“?",
+      "options": [
+        "Palindrom",
+        "Synonym",
+        "Homonym",
+        "Akronym"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Das längste Einwort-Palindrom im Standard-Englisch gilt oft als „tattarrattat“, geprägt von James Joyce in Ulysses."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Planet in unserem Sonnensystem hat das auffälligste und komplexeste von der Erde aus sichtbare Ringsystem?",
+      "options": [
+        "Saturn",
+        "Uranus",
+        "Neptun",
+        "Jupiter"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Die Ringe des Saturn bestehen hauptsächlich aus Wassereisbrocken sowie geringeren Mengen an Gesteinstrümmern und Staub."
+    },
+    {
+      "category": "Geografie",
+      "question": "Ulaanbaatar ist die Hauptstadt welches souveränen Staates?",
+      "options": [
+        "Mongolei",
+        "Usbekistan",
+        "Kasachstan",
+        "Kirgisistan"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Ulaanbaatar gilt aufgrund seiner Höhenlage und des subarktischen Klimas als die kälteste nationale Hauptstadt der Welt."
+    }
+  ]
+}

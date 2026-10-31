@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-31",
+  "title": "Trivia del giorno: 31 ottobre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Qual è il deserto caldo più grande del mondo?",
+      "options": [
+        "Deserto del Gobi",
+        "Deserto del Sahara",
+        "Deserto del Mojave",
+        "Deserto del Kalahari"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Nonostante l'Antartide sia tecnicamente il deserto più grande in assoluto a causa delle sue scarse precipitazioni, il Sahara è il deserto caldo più vasto."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è la centrale energetica della cellula?",
+      "options": [
+        "Reticolo endoplasmatico",
+        "Mitocondrio",
+        "Ribosoma",
+        "Nucleo"
+      ],
+      "answer_index": 1,
+      "fun_fact": "I mitocondri generano la maggior parte dell'energia chimica necessaria per alimentare le reazioni biochimiche della cellula."
+    },
+    {
+      "category": "storia",
+      "question": "Chi è stato il secondo Presidente degli Stati Uniti?",
+      "options": [
+        "James Madison",
+        "John Adams",
+        "Alexander Hamilton",
+        "Thomas Jefferson"
+      ],
+      "answer_index": 1,
+      "fun_fact": "John Adams è stato il secondo presidente della nazione dal 1797 al 1801, dopo aver ricoperto la carica di primo vicepresidente sotto George Washington."
+    },
+    {
+      "category": "cinema e pop culture",
+      "question": "Quale film di fantascienza del 1999 ha reso celebre l'effetto visivo del 'bullet time' e vede Keanu Reeves nei panni di Neo?",
+      "options": [
+        "Blade Runner",
+        "Total Recall",
+        "The Matrix",
+        "The Terminator"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The Matrix è stato scritto e diretto dalle sorelle Wachowski e ha vinto quattro Premi Oscar."
+    },
+    {
+      "category": "cucina",
+      "question": "Il formaggio Roquefort, noto per le sue tipiche venature blu e il sapore deciso, è fatto principalmente con il latte di quale animale?",
+      "options": [
+        "Capra",
+        "Pecora",
+        "Bufala",
+        "Vacca"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Il vero Roquefort viene stagionato nelle grotte naturali di Combalou a Roquefort-sur-Soulzon, in Francia, utilizzando latte di pecora."
+    },
+    {
+      "category": "animali",
+      "question": "Come viene comunemente chiamato un cucciolo di canguro?",
+      "options": [
+        "Cucciolo",
+        "Orsetto",
+        "Joey",
+        "Vitello"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un joey appena nato è incredibilmente piccolo, grande circa quanto un'ape o un chicco d'uva, quando si arrampica nel marsupio della madre."
+    },
+    {
+      "category": "sport",
+      "question": "Nel bowling, quale termine viene usato per indicare tre strike consecutivi?",
+      "options": [
+        "Aquila",
+        "Hat-trick",
+        "Strikeout",
+        "Turkey"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Il termine 'turkey' (tacchino) nel bowling risale agli anni '20, quando gli organizzatori regalavano un tacchino vivo a qualsiasi giocatore che riuscisse a fare tre strike di fila vicino al Giorno del Ringraziamento."
+    },
+    {
+      "category": "lingua",
+      "question": "Come si chiama una parola che si legge allo stesso modo da sinistra a destra e viceversa, come 'radar'?",
+      "options": [
+        "Palindromo",
+        "Sinonimo",
+        "Omonimo",
+        "Acronimo"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il palindromo di una sola parola più lungo in inglese standard è spesso considerato 'tattarrattat', coniato da James Joyce nell'Ulisse."
+    },
+    {
+      "category": "spazio",
+      "question": "Quale pianeta del nostro sistema solare possiede il sistema di anelli più evidente e complesso visibile dalla Terra?",
+      "options": [
+        "Saturno",
+        "Urano",
+        "Nettuno",
+        "Giove"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Gli anelli di Saturno sono composti principalmente da pezzi di ghiaccio d'acqua con minori quantità di detriti rocciosi e polvere."
+    },
+    {
+      "category": "geografia",
+      "question": "Ulan Bator è la capitale di quale nazione indipendente?",
+      "options": [
+        "Mongolia",
+        "Uzbekistan",
+        "Kazakistan",
+        "Kirghizistan"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Ulan Bator è nota come la capitale nazionale più fredda del mondo a causa della sua altitudine elevata e del clima subartico."
+    }
+  ]
+}

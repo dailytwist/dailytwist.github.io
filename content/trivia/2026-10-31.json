@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-31",
+  "title": "October 31, 2026 Daily Trivia",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Which desert is the largest hot desert in the world?",
+      "options": [
+        "Gobi Desert",
+        "Sahara Desert",
+        "Mojave Desert",
+        "Kalahari Desert"
+      ],
+      "answer_index": 1,
+      "fun_fact": "While Antarctica is technically the largest desert overall due to its low precipitation, the Sahara is the largest hot desert."
+    },
+    {
+      "category": "science",
+      "question": "What is the powerhouse of the cell?",
+      "options": [
+        "Endoplasmic Reticulum",
+        "Mitochondria",
+        "Ribosome",
+        "Nucleus"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Mitochondria generate most of the chemical energy needed to power the cell's biochemical reactions."
+    },
+    {
+      "category": "history",
+      "question": "Who was the second President of the United States?",
+      "options": [
+        "James Madison",
+        "John Adams",
+        "Alexander Hamilton",
+        "Thomas Jefferson"
+      ],
+      "answer_index": 1,
+      "fun_fact": "John Adams served as the nation's second president from 1797 to 1801 after serving as the first vice president under George Washington."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Which 1999 science fiction film popularized the 'bullet time' visual effect and stars Keanu Reeves as Neo?",
+      "options": [
+        "Blade Runner",
+        "Total Recall",
+        "The Matrix",
+        "The Terminator"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The Matrix was written and directed by the Wachowskis and won four Academy Awards."
+    },
+    {
+      "category": "food",
+      "question": "Roquefort cheese, known for its distinct blue veins and sharp flavor, is made primarily from the milk of which animal?",
+      "options": [
+        "Goat",
+        "Sheep",
+        "Water Buffalo",
+        "Cow"
+      ],
+      "answer_index": 1,
+      "fun_fact": "True Roquefort is aged in the natural caves of Combalou in Roquefort-sur-Soulzon, France, using ewes' milk."
+    },
+    {
+      "category": "animals",
+      "question": "What is a baby kangaroo commonly called?",
+      "options": [
+        "Pup",
+        "Cub",
+        "Joey",
+        "Calf"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A newborn joey is remarkably tiny, about the size of a honeybee or a grape, when it climbs into its mother's pouch."
+    },
+    {
+      "category": "sports",
+      "question": "In bowling, what term is used to describe scoring three consecutive strikes?",
+      "options": [
+        "Eagle",
+        "Hat-trick",
+        "Strikeout",
+        "Turkey"
+      ],
+      "answer_index": 3,
+      "fun_fact": "The term 'turkey' in bowling dates back to the 1920s when promoters would award a live turkey to any bowler who rolled three strikes in a row near Thanksgiving."
+    },
+    {
+      "category": "language",
+      "question": "What is the term for a word that is spelled the same forwards and backwards, such as 'racecar'?",
+      "options": [
+        "Palindrom",
+        "Synonym",
+        "Homonym",
+        "Acronym"
+      ],
+      "answer_index": 0,
+      "fun_fact": "The longest single-word palindrome in standard English is often considered to be 'tattarrattat', coined by James Joyce in Ulysses."
+    },
+    {
+      "category": "space",
+      "question": "Which planet in our solar system has the most prominent and complex ring system visible from Earth?",
+      "options": [
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Jupiter"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Saturn's rings are composed mostly of chunks of water ice with lesser amounts of rocky debris and dust."
+    },
+    {
+      "category": "geography",
+      "question": "Ulaanbaatar is the capital city of which sovereign nation?",
+      "options": [
+        "Mongolia",
+        "Uzbekistan",
+        "Kazakhstan",
+        "Kyrgyzstan"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Ulaanbaatar is known as the world's coldest national capital due to its high elevation and sub-arctic climate."
+    }
+  ]
+}

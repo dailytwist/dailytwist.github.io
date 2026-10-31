@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-31",
+  "title": "Trivia du jour du 31 octobre 2026",
+  "questions": [
+    {
+      "category": "géographie",
+      "question": "Quel désert est le plus grand désert chaud du monde ?",
+      "options": [
+        "Désert de Gobi",
+        "Désert du Sahara",
+        "Désert de Mojave",
+        "Désert du Kalahari"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Bien que l'Antarctique soit techniquement le plus grand désert de tous en raison de ses faibles précipitations, le Sahara reste le plus grand désert chaud."
+    },
+    {
+      "category": "science",
+      "question": "Quelle est la centrale énergétique de la cellule ?",
+      "options": [
+        "Réticulum endoplasmique",
+        "Mitochondrie",
+        "Ribosome",
+        "Noyau"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Les mitochondries produisent la majeure partie de l'énergie chimique nécessaire pour alimenter les réactions biochimiques de la cellule."
+    },
+    {
+      "category": "histoire",
+      "question": "Qui a été le deuxième président des États-Unis ?",
+      "options": [
+        "James Madison",
+        "John Adams",
+        "Alexander Hamilton",
+        "Thomas Jefferson"
+      ],
+      "answer_index": 1,
+      "fun_fact": "John Adams a été le deuxième président du pays de 1797 à 1801, après avoir exercé les fonctions de premier vice-président sous George Washington."
+    },
+    {
+      "category": "films et pop culture",
+      "question": "Quel film de science-fiction de 1999 a popularisé l'effet visuel du « bullet time » et met en vedette Keanu Reeves dans le rôle de Neo ?",
+      "options": [
+        "Blade Runner",
+        "Total Recall",
+        "The Matrix",
+        "The Terminator"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The Matrix a été écrit et réalisé par les Wachowski et a remporté quatre Oscars."
+    },
+    {
+      "category": "nourriture",
+      "question": "Le roquefort, connu pour ses persillages caractéristiques et son goût prononcé, est principalement fabriqué à partir du lait de quel animal ?",
+      "options": [
+        "Chèvre",
+        "Brebis",
+        "Buffle d'eau",
+        "Vache"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Le véritable roquefort est affiné dans les caves naturelles du Combalou à Roquefort-sur-Soulzon, en France, à partir de lait de brebis."
+    },
+    {
+      "category": "animaux",
+      "question": "Comment appelle-t-on communément un bébé kangourou ?",
+      "options": [
+        "Chiot",
+        "Ourson",
+        "Joey",
+        "Veau"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un nouveau-né joey est remarquablement minuscule, de la taille d'une abeille ou d'un raisin, lorsqu'il grimpe dans la poche de sa mère."
+    },
+    {
+      "category": "sports",
+      "question": "Au bowling, quel terme utilise-t-on pour désigner trois strikes consécutifs ?",
+      "options": [
+        "Eagle",
+        "Hat-trick",
+        "Strikeout",
+        "Turkey"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Le terme « turkey » (dinde) au bowling remonte aux années 1920, époque où les organisateurs offraient une vraie dinde à tout joueur qui réussissait trois strikes d'affilée près de Thanksgiving."
+    },
+    {
+      "category": "langue",
+      "question": "Quel est le terme désignant un mot qui se lit de la même manière de gauche à droite et de droite à gauche, comme « kayak » ?",
+      "options": [
+        "Palindrome",
+        "Synonyme",
+        "Homonyme",
+        "Acronyme"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le plus long palindrome en un seul mot en anglais standard est souvent considéré comme « tattarrattat », inventé par James Joyce dans Ulysses."
+    },
+    {
+      "category": "espace",
+      "question": "Quelle planète de notre système solaire possède le système d'anneaux le plus vaste et le plus complexe visible depuis la Terre ?",
+      "options": [
+        "Saturne",
+        "Uranus",
+        "Neptune",
+        "Jupiter"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Les anneaux de Saturne sont principalement composés de blocs de glace d'eau, avec de plus petites quantités de débris rocheux et de poussière."
+    },
+    {
+      "category": "géographie",
+      "question": "Oulan-Bator est la capitale de quel pays souverain ?",
+      "options": [
+        "Mongolie",
+        "Ouzbékistan",
+        "Kazakhstan",
+        "Kirghizistan"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Oulan-Bator est reconnue comme la capitale nationale la plus froide du monde en raison de son altitude élevée et de son climat subarctique."
+    }
+  ]
+}

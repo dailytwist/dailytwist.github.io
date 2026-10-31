@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-31",
+  "signs": {
+    "aries": {
+      "overview": "La stagione dei fantasmi raggiunge l'apice oggi, Ariete, e il tuo fuoco interiore brucia più luminoso di una zucca di Halloween tirata a lucido. Ti stai prendendo la scena di Halloween con un carisma ineguagliabile, pronto a guidare la carica in qualsiasi festa in maschera o avventurosa scorribanda diurna. Non aver paura di assecondare i tuoi impulsi più drammatici: oggi la giornata premia gli audaci, i teatrali e chi non ha paura di farsi notare. Mentre altri potrebbero esitare di fronte alle vibrazioni soprannaturali nell'aria, tu ti lanci dritto oltre il velo con un sorriso. Abbraccia questo caos giocoso, raduna la tua ciurma preferita e assicurati di essere il protagonista di ogni singolo scatto catturato stasera.",
+      "love": "Le scintille volano più veloci di una scopa a mezzanotte, quindi preparati a un batticuore assicurato, che tu sia single o impegnato. Un flirt spontaneo potrebbe trasformarsi in un vero e proprio colpo di scena entro la fine della serata.",
+      "career": "Il tuo cervello da weekend potrebbe essere già in modalità off, ma un'improvvisa ondata di ispirazione creativa potrebbe risolvere un fastidioso rompicapo lavorativo. Annota quell'idea folle prima che svanisca.",
+      "wellness": "Canalizza quell'energia inesauribile in una sfrenata sessione di danza nel tuo salotto.",
+      "lucky_number": 42,
+      "lucky_color": "Cremisi",
+      "mood": "Elettrico"
+    },
+    "taurus": {
+      "overview": "Affonda gli artigli negli aspetti più accoglienti in assoluto della giornata, Toro. Mentre il resto del mondo corre in giro a caccia di zuccheri e carri di fieno stregati, tu sai che la vera magia risiede in una morbida coperta di velluto, in una tazza fumante di sidro speziato e in una maratona di film horror coi fiocchi. È il momento di coccolare i tuoi sensi con una serata di supremo comfort e sfizi artigianali. Lascia che il brivido autunnale faccia tintinnare i vetri mentre costruisci una fortezza di cuscini sul divano. Non hai bisogno di sfidare le strade affollate per vivere una notte memorabile; il tuo santuario su misura è il rifugio perfetto per le vibrazioni migliori.",
+      "love": "Un'energia sensuale e costante avvolge la tua vita sentimentale, rendendo questa la serata ideale per un tête-à-tête accogliente con una persona speciale. La comodità è il tuo accessorio più sexy in questo momento.",
+      "career": "Staccati completamente dalla casella di posta e lascia riposare il tuo subconscio, così da poter tornare la settimana prossima con una prospettiva fresca e radicata.",
+      "wellness": "Concediti un peccato di gola a base di cioccolato fondente di qualità per soddisfare la tua voglia di dolce senza troppi fronzoli.",
+      "lucky_number": 17,
+      "lucky_color": "Ambra",
+      "mood": "Accogliente"
+    },
+    "gemini": {
+      "overview": "La tua natura duplice è il tuo superpotere stasera, Gemelli, mentre rimbalzi tra tre diverse feste di Halloween e riesci comunque a scambiare due chiacchiere con chiunque nella stanza. Sei il camaleonte sociale per eccellenza, pronto a scambiare battute sagaci e pettegolezzi favolosi sotto la luce fioca dei portici autunnali. La tua curiosità viene stimolata da ogni costume ingegnoso e da ogni bizzarra decorazione di quartiere in cui ti imbatti. Tieni la tua agenda flessibile perché inviti improvvisamente spontanei spunteranno fuori dal nulla. Tuffati a capofitto nelle chiacchiere, ridi fino a farti male alla pancia e goditi il ruolo dell'ospite più divertente di tutto il vicordo.",
+      "love": "Battute giocose e frecciatine brillanti attireranno ammiratori nella tua orbita come falene sulla luce. Mantieni la conversazione leggera, misteriosa e irresistibilmente affascinante.",
+      "career": "Una brillante sessione di brainstorming potrebbe avvenire per puro caso mentre chiacchieri con un amico di argomenti che non c'entrano nulla con il lavoro.",
+      "wellness": "Fai riposare le tue corde vocali prima di mezzanotte concedendoti una tranquilla pausa tech di cinque minuti.",
+      "lucky_number": 23,
+      "lucky_color": "Viola",
+      "mood": "Chiacchierino"
+    },
+    "cancer": {
+      "overview": "L'intuizione sta praticamente sussurrandoti segreti direttamente all'orecchio oggi, Cancro, quindi fidati di quel sesto senso su dove la notte dovrebbe portarti. Ti senti profondamente nostalgico, forse ripensando alle avventure d'infanzia passate a fare 'dolcetto o scherzetto' o a intagliare zucche con la famiglia. Canalizza quel calore sentimentale per creare uno spazio accogliente per le persone a te più care. Che tu stia organizzando un intimo raduno tra spiriti e ghoul o che tu ti stia nascondendo con un libro di storie nostalgiche, il tuo radar emotivo è sintonizzato sul massimo comfort. Avvolgiti nel calore, ascolta la tua playlist nostalgica preferita e lascia risplendere la tua dolce magia.",
+      "love": "Conversazioni profonde e significative sotto la luna d'autunno ti avvicineranno a qualcuno che comprende davvero il tuo cuore tenero. La vulnerabilità è il tuo fascino più grande.",
+      "career": "Lascia che la tua immaginazione vaghi libera oggi; allontanarti dalla logica ti aiuterà a trovare una soluzione profondamente intuitiva a un blocco creativo.",
+      "wellness": "Sorseggia una camomilla rilassante per placare le tue emozioni in tumulto.",
+      "lucky_number": 7,
+      "lucky_color": "Argento",
+      "mood": "Sognante"
+    },
+    "leo": {
+      "overview": "Facciamoci un favore, Leone: hai passato mesi a pianificare il tuo costume, e oggi è il tuo momento per spaccare letteralmente la passerella. Tutti gli occhi sono puntati su di te mentre sfileggi tra i festeggiamenti del fine settimana con un flair maestoso e un'innegabile energia da star. Irradii un calore teatrale, trasformando anche una semplice spesa al supermercato in un evento da red carpet. Asseconda il lato drammatico, goditi i complimenti e non aver paura di pretendere il posto migliore della casa. La tua energia radiosa è contagiosa, spingendo chi ti circonda a tirare fuori la superstar che ha dentro e a unirsi alla tua corte reale.",
+      "love": "Il romanticismo prende il centro della scena con grandi gesti e un flirt giocoso che lascia i tuoi ammiratori completamente stregati. Sii fiero del tuo magnetismo e goditi gli applausi.",
+      "career": "La tua leadership creativa sta brillando intensamente, anche nel weekend: usa questa sicurezza per pianificare i tuoi prossimi progetti personali del cuore.",
+      "wellness": "Mettiti in una posa di potere davanti allo specchio per dare una spinta immediata al tuo umore già favoloso.",
+      "lucky_number": 88,
+      "lucky_color": "Oro",
+      "mood": "Radioso"
+    },
+    "virgo": {
+      "overview": "Dietro le tue decorazioni autunnali perfettamente organizzate si nasconde una mente geniale che ha anticipato ogni singolo intoppo della festa di oggi, Vergine. Hai con te spille di sicurezza extra, snack di riserva e una tabella di marcia a colori per i festeggiamenti di stasera. Mentre gli altri corrono in giro nel panico, tu stai eseguendo con calma il tuo piano perfetto e con precisione millimetrica. Non dimenticare però di goderti i frutti del tuo meticoloso lavoro, invece di cercare di ripulire ogni singolo granello di glitter fuori posto. Fai un respiro profondo, cedi gli appunti e lasciati piacevolmente travolgere dalla brezza autunnale.",
+      "love": "I piccoli gesti premurosi parlano più forte delle grandi dichiarazioni stasera, dimostrando a una persona speciale quanto ci tieni. I dettagli contano, e la tua dolce metà lo noterà.",
+      "career": "Un'improvvisa urgenza di riorganizzare il tuo spazio di lavoro personale di sabato potrebbe rivelarsi stranamente terapeutica.",
+      "wellness": "Fai stretching alle spalle e ai polsi per rilasciare tutta la tensione accumulata con la pianificazione certosina.",
+      "lucky_number": 5,
+      "lucky_color": "Verde bosco",
+      "mood": "Organizzato"
+    },
+    "libra": {
+      "overview": "La perfezione estetica è la tua missione suprema oggi, Bilancia, e stai curando il sabato autunnale più pittoresco che si possa immaginare. Dall'angolazione delle zucche sul portico alla playlist vintage che esce dalle tue casse, tutto ciò che tocchi si trasforma in un'opera d'arte. Stai fluttuando nella scena sociale come un membro della famiglia reale, affascinando tutti con la tua grazia diplomatica e il tuo stile stagionale pazzesco. Se dovesse sorgere un conflitto di orari tra due inviti a feste favolose, il tuo fascino naturale troverà il modo di rendere tutti felici. Goditi il bellissimo equilibrio tra brividi spettrali e compagnia elegante.",
+      "love": "La complicità è messa in primo piano nel modo più romantico possibile, rendendo questa una serata magica per costumi di coppia coordinati o profonde chiacchierate a cuore aperto. L'armonia ti dona da morire.",
+      "career": "Il tuo occhio artistico è particolarmente affilato in questo momento: usalo per rinnovare la tua vision board digitale per il resto dell'anno.",
+      "wellness": "Vaporizza un po' di spray per ambienti alla lavanda per creare un'atmosfera immediatamente bilanciata.",
+      "lucky_number": 33,
+      "lucky_color": "Rosa",
+      "mood": "Grazioso"
+    },
+    "scorpio": {
+      "overview": "Buon compleanno, Scorpione! Il velo tra i mondi è sottile come un foglio di carta oggi, e tu sei completamente nel tuo elemento in qualità di mistico ufficiale dello zodiaco. Mentre tutti gli altri giocano a fare i finti spettrali, tu incali un'intensità autentica e magnetica che attira le persone nella tua orbita misteriosa. Abbraccia le tue doti naturali da investigatore e scopri i ritrovi nascosti più fighi che animano la serata. La tua intuizione è affilata come un rasoio e il tuo sguardo penetrante riesce a vedere attraverso qualsiasi maschera superficiale. Rivendica il tuo potere, lasciati avvolgere dalle ombre e passa un Halloween indimenticabile e ipnotico.",
+      "love": "Il tuo magnetismo intenso stasera è pura poesia attrattiva, capace di risucchiare una persona speciale direttamente nella tua orbita gravitazionale. Il mistero è la tua arma di seduzione più potente.",
+      "career": "Fidati del tuo istinto riguardo a un progetto dietro le quinte: la tua spiccata percezione sta cogliendo dettagli che gli altri si stanno completamente perdendo.",
+      "wellness": "Concediti un momento di tranquillità per meditare a luci soffuse e ricaricare la tua batteria spirituale.",
+      "lucky_number": 13,
+      "lucky_color": "Ossidiana",
+      "mood": "Magnetico"
+    },
+    "sagittarius": {
+      "overview": "L'avventura sta chiamando il tuo nome più forte di un ululato in lontananza a mezzanotte, Sagittario! Hai una gran voglia di liberarti dalla routine e di esplorare un quartiere nuovo di zecca, una festa o una gita all'aperto oggi. Il tuo ottimismo contagioso trasforma anche un piccolo imprevisto di viaggio in una storia esilarante da raccontare per anni. Porta la tua proverbiale ironia filosofica in ogni conversazione e tieni a portata di mano il tuo passaporto per il divertimento. L'universo è il tuo parco giochi gigante, e l'energia festosa di oggi si sposa alla perfezione con il tuo spirito selvaggio. Infila in valigia il tuo senso dell'umorismo e vai a caccia di emozioni forti.",
+      "love": "Avventure spontanee e risate a crepapelle approfondiranno una connessione romantica o faranno scattare una nuova e travolgente cotta. Tieni il cuore aperto a deviazioni inaspettate.",
+      "career": "Metti completamente da parte lo stress lavorativo; le tue intuizioni migliori in questo momento arrivano esplorando la natura aperta.",
+      "wellness": "Fatti una camminata veloce e tonificante nell'aria frizzante d'autunno per nutrire il tuo amore per il movimento.",
+      "lucky_number": 99,
+      "lucky_color": "Topazio",
+      "mood": "Avventuroso"
+    },
+    "capricorn": {
+      "overview": "Anche in una festa stravagante come quella di oggi, Capricorno, il tuo CEO interiore sta trovando il modo di orchestrare la celebrazione autunnale più efficiente e impressionante mai vista. Apprezzi la tradizione, la qualità e un tema eseguito alla perfezione, il che ti rende il punto di riferimento della tua comitiva stasera. Le persone si rivolgono naturalmente a te per mantenere la festa sui giusti binari e assicurarsi che tutti tornino a casa sani e salvi. Ma ricorda, anche i caproni di montagna più ambiziosi hanno bisogno di lasciarsi andare ogni tanto. Metti via il manuale della logistica per qualche ora, indossa un cappello buffo e permettiti di giocare sul serio.",
+      "love": "Un romanticismo solido e affidabile riceve una spinta giocosa quando finalmente abbassi la guardia e ti fai una bella risata con il tuo partner. L'affidabilità è incredibilmente attraente.",
+      "career": "Allontanati dalle tue liste di strategie a lungo termine oggi; dare al tuo cervello una vera vacanza aumenterà concretamente la tua produttività la prossima settimana.",
+      "wellness": "Goditi una corroborante tazza di tisana per facilitare la transizione dalla modalità lavoro alla modalità relax.",
+      "lucky_number": 8,
+      "lucky_color": "Carbone",
+      "mood": "Con i piedi per terra"
+    },
+    "aquarius": {
+      "overview": "Stai marciando al ritmo di un tamburo molto strambo e meraviglioso oggi, Acquario. Mentre tutti gli altri indossano costumi prevedibili, tu probabilmente ti presenterai vestito da oscuro concetto di fisica quantistica o da botanico alieno, e spaccherai di brutto. La tua prospettiva eccentrica e proiettata al futuro porta una sferzata di elettricità rinfrescante in qualsiasi ritrovo. Adori scuotere le tradizioni e intavolare conversazioni affascinanti e bizzarre sul futuro dell'universo. Sii fiero del tuo spirito stravagante, perché il tuo genio eccentrico è il pezzo forte assoluto della stanza stasera.",
+      "love": "La connessione intellettuale è il tuo linguaggio dell'amore oggi, quindi cerca qualcuno che sappia apprezzare le tue idee folli e le tue teorie futuristiche. C'è una chimica stravagante nell'aria.",
+      "career": "Un'idea anticonvenzionale su un progetto futuro ti balzerà in mente dal nulla: scrivila prima di farti distrarre dai festeggiamenti.",
+      "wellness": "Fai un rapido digital detox per un paio d'ore per liberare la tua mente brillante e iperattiva.",
+      "lucky_number": 11,
+      "lucky_color": "Turchese",
+      "mood": "Eccentrico"
+    },
+    "pisces": {
+      "overview": "Il mondo dei sogni e la realtà si stanno praticamente fondendo per te oggi, Pesci, creando una tela di pura immaginazione. Stai assorbendo tutta l'energia mistica e artistica che fluttua nell'aria, trasformandola in visioni creative sbalorditive o in connessioni profondamente empatiche. Che tu stia confezionando un elaborato costume fantasy o che ti stia perdendo in un capolavoro cinematografico, la tua immaginazione non conosce confini oggi. Lascia che sia il tuo intuito a guidarti tra i festeggiamenti della serata e non stupirti se sentirai un profondo senso di magia nell'aria autunnale. Fluttua attraverso la giornata con un cuore aperto e incantato.",
+      "love": "Un romanticismo poetico e sguardi pieni d'anima ti faranno sentire come se stessi vivendo dentro a una fiaba magica. Condividi i tuoi sogni a occhi aperti con qualcuno che sappia custodirli.",
+      "career": "attingi al tuo inesauribile flusso artistico oggi; fare schizzi a mano libera o scrivere ti darà una grandissima soddisfazione.",
+      "wellness": "Concediti un lungo e rilassante bagno caldo con sale marino per lavare via le energie pesanti della giornata.",
+      "lucky_number": 55,
+      "lucky_color": "Verde acqua",
+      "mood": "Incantato"
+    }
+  }
+}
