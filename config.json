@@ -27,7 +27,13 @@
   "android_sha256": [],
   "pairs_per_day": 6,
   "goatcounter": "dailytwist",
-  "yearly_topic_langs": ["it", "ja", "fr", "de", "es"],
+  "yearly_topic_langs": [
+    "it",
+    "ja",
+    "fr",
+    "de",
+    "es"
+  ],
   "yearly_topics_per_run": 8,
   "dreams_per_day": 6,
   "guides_per_run": {
@@ -43,5 +49,8 @@
     "es": 3,
     "fr": 2,
     "pt": 2
+  },
+  "redirects": {
+    "articles/columbia-football-ivy-league-tradition-history": "articles/columbia-football-history-ivy-league-pride-culture"
   }
 }

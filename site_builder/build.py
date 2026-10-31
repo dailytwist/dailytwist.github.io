@@ -1628,6 +1628,15 @@ def main():
         shutil.copytree(HERE / "root", OUT, dirs_exist_ok=True)
     home = (OUT / "index.html").read_text(encoding="utf-8")
     (OUT / "404.html").write_text(home.replace('<p class="kicker">', f'<p class="kicker">{e(UI_EN["not_found"])} · ', 1), encoding="utf-8")
+    # merged duplicates: old URL -> kept page (static redirect, hidden from Google)
+    for old, new in C.get("redirects", {}).items():
+        for l in LANGS:
+            dst = OUT / P(l).lstrip("/") / old.strip("/") / "index.html"
+            if dst.exists():
+                continue
+            to = f"{URL}{P(l)}/{new.strip('/')}/"
+            dst.parent.mkdir(parents=True, exist_ok=True)
+            dst.write_text(f'<!doctype html><html lang="{l}"><head><meta charset="utf-8"><title>DailyTwist</title><meta name="robots" content="noindex"><link rel="canonical" href="{to}"><meta http-equiv="refresh" content="0;url={to}"></head><body><a href="{to}">{to}</a></body></html>', encoding="utf-8")
     (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {URL}/sitemap.xml\n", encoding="utf-8")
     if C.get("adsense_client"):
         (OUT / "ads.txt").write_text(f"google.com, {C['adsense_client'].replace('ca-', '')}, DIRECT, f08c47fec0942fa0\n", encoding="utf-8")
