@@ -306,6 +306,21 @@ Avoid subjects already covered: {json.dumps(done[-60:])}
 Format: {{"picks": ["topic", ...]}}""", max_tokens=500).get("picks", [])
     else:
         picks = []
+    # seasonal: write about each holiday 10-35 days BEFORE it, so Google has time to show the page when people search
+    try:
+        cal = json.loads((ROOT / "site_builder" / "data" / "seasonal.json").read_text(encoding="utf-8"))
+        s_used_f = CONTENT / "seasonal_used.json"
+        s_used = json.loads(s_used_f.read_text(encoding="utf-8")) if s_used_f.exists() else []
+        soon = [t for ev in cal for t in ev["topics"]
+                if 10 <= (dt.date.fromisoformat(ev["date"]) - day).days <= 35 and t not in s_used]
+        if soon and len(picks) >= count:
+            picks = picks[:count - 1]
+        if soon:
+            print(f"- seasonal topic: {soon[0]}")
+            picks = [soon[0]] + picks
+            save(s_used_f, s_used + [soon[0]])
+    except Exception as e:
+        print(f"  seasonal skipped: {e}")
     if len(picks) < count:  # popular searches we picked by hand come first (spirituality, curiosities, names, English)
         seeds = json.loads((ROOT / "site_builder" / "data" / "seed_topics.json").read_text(encoding="utf-8"))
         used_f = CONTENT / "seeds_used.json"
