@@ -711,5 +711,6 @@
   "ytopic_quarters": "Mese per mese",
   "ytopic_watch": "Attenzione a",
   "ytopic_best_signs": "I segni più affini quest'anno",
-  "privacy_stats_html": "<h2>Statistiche delle visite</h2><p>Per capire quali pagine e giochi piacciono di più, usiamo GoatCounter, un servizio di statistiche rispettoso della privacy. Non utilizza cookie e non raccoglie dati personali: vediamo solo dati aggregati come il numero di visite, il Paese, il tipo di dispositivo e la durata delle sessioni di gioco. Nessuno può essere identificato tramite questi numeri.</p>"
+  "privacy_stats_html": "<h2>Statistiche delle visite</h2><p>Per capire quali pagine e giochi piacciono di più, usiamo GoatCounter, un servizio di statistiche rispettoso della privacy. Non utilizza cookie e non raccoglie dati personali: vediamo solo dati aggregati come il numero di visite, il Paese, il tipo di dispositivo e la durata delle sessioni di gioco. Nessuno può essere identificato tramite questi numeri.</p>",
+  "pt_qibla": "Direzione della Qibla da {city}: {deg}° da nord, a circa {km} km da La Mecca."
 }
