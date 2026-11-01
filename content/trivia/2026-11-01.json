@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-01",
+  "title": "Daily General Knowledge Quiz: November 1, 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Which of these countries is landlocked?",
+      "options": [
+        "Thailand",
+        "Bolivia",
+        "Vietnam",
+        "Portugal"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Bolivia is one of two landlocked countries in South America, alongside Paraguay."
+    },
+    {
+      "category": "science",
+      "question": "What is the hardest naturally occurring mineral on the Mohs scale?",
+      "options": [
+        "Corundum",
+        "Quartz",
+        "Topaz",
+        "Diamond"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Diamond rates a 10 on the Mohs scale of mineral hardness, making it able to scratch all other natural minerals."
+    },
+    {
+      "category": "history",
+      "question": "The ancient city of Carthage was located in North Africa in the territory of what modern-day country?",
+      "options": [
+        "Libya",
+        "Morocco",
+        "Egypt",
+        "Tunisia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "The ruins of Carthage are located just outside the modern city of Tunis, Tunisia."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Which animated film features a young girl named Chihiro who wanders into a mysterious world of spirits?",
+      "options": [
+        "Ponyo",
+        "My Neighbor Totoro",
+        "Spirited Away",
+        "Princess Mononoke"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Spirited Away, directed by Hayao Miyazaki, won the Academy Award for Best Animated Feature in 2003."
+    },
+    {
+      "category": "food",
+      "question": "Gorgonzola is a famous Italian cheese belonging to which broad classification?",
+      "options": [
+        "Blue cheese",
+        "Fresh mozzarella",
+        "Hard parmesan",
+        "Soft-ripened brie"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Gorgonzola is made from unskimmed cow's milk and is marbled with distinctive greenish-blue veins of Penicillium mold."
+    },
+    {
+      "category": "animals",
+      "question": "What is the primary diet of a giant panda?",
+      "options": [
+        "Insects",
+        "Fish",
+        "Bamboo",
+        "Small mammals"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Bamboo accounts for up to 99 percent of a giant panda's diet, and they can spend up to 12 hours a day eating it."
+    },
+    {
+      "category": "sports",
+      "question": "In the sport of curling, what is the primary purpose of the team members sweeping the ice ahead of the moving stone?",
+      "options": [
+        "To clean away debris and slow the stone down",
+        "To create loud noises to distract the opposing team",
+        "To melt the ice and make the stone go faster and straighter",
+        "To cool the ice surface and increase friction"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Sweeping creates friction that slightly melts the pebble on the ice, reducing friction and allowing the stone to travel farther and curl less."
+    },
+    {
+      "category": "language",
+      "question": "What is the linguistic term for words in different languages that share a similar origin, such as 'mother' in English and 'mutter' in German?",
+      "options": [
+        "Synonyms",
+        "Acronyms",
+        "Cognates",
+        "Homonyms"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Cognates often look and sound similar across related languages because they derive from a common ancestral root."
+    },
+    {
+      "category": "space",
+      "question": "Which of Saturn's moons is the second-largest in the solar system and features a dense nitrogen-rich atmosphere?",
+      "options": [
+        "Enceladus",
+        "Iapetus",
+        "Mimas",
+        "Titan"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Titan is the only known moon in the solar system with a dense atmosphere and stable bodies of surface liquid, though those liquids are methane and ethane rather than water."
+    },
+    {
+      "category": "history",
+      "question": "Who was the primary author of the United States Declaration of Independence?",
+      "options": [
+        "George Washington",
+        "Alexander Hamilton",
+        "Benjamin Franklin",
+        "Thomas Jefferson"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Thomas Jefferson drafted the foundational text of the Declaration at age 33 while staying in a rented room in Philadelphia."
+    }
+  ]
+}

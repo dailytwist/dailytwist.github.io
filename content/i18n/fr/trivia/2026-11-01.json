@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-01",
+  "title": "Quiz quotidien de culture générale : 1er novembre 2026",
+  "questions": [
+    {
+      "category": "géographie",
+      "question": "Lequel de ces pays est enclavé ?",
+      "options": [
+        "Thaïlande",
+        "Bolivie",
+        "Vietnam",
+        "Portugal"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La Bolivie est l'un des deux pays enclavés d'Amérique du Sud, aux côtés du Paraguay."
+    },
+    {
+      "category": "science",
+      "question": "Quel est le minéral naturel le plus dur sur l'échelle de Mohs ?",
+      "options": [
+        "Corindon",
+        "Quartz",
+        "Topaze",
+        "Diamant"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Le diamant obtient la note de 10 sur l'échelle de Mohs de la dureté des minéraux, ce qui lui permet de rayer tous les autres minéraux naturels."
+    },
+    {
+      "category": "histoire",
+      "question": "L'ancienne cité de Carthage était située en Afrique du Nord sur le territoire de quel pays actuel ?",
+      "options": [
+        "Libye",
+        "Maroc",
+        "Égypte",
+        "Tunisie"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Les ruines de Carthage sont situées juste à l'extérieur de la ville moderne de Tunis, en Tunisie."
+    },
+    {
+      "category": "films et pop culture",
+      "question": "Quel film d'animation met en scène une jeune fille nommée Chihiro qui s'aventure dans un monde mystérieux d'esprits ?",
+      "options": [
+        "Ponyo sur la falaise",
+        "Mon voisin Totoro",
+        "Le Voyage de Chihiro",
+        "Princesse Mononoké"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le Voyage de Chihiro, réalisé par Hayao Miyazaki, a remporté l'Oscar du meilleur film d'animation en 2003."
+    },
+    {
+      "category": "gastronomie",
+      "question": "Le gorgonzola est un célèbre fromage italien qui appartient à quelle grande famille ?",
+      "options": [
+        "Fromage à pâte bleue",
+        "Mozzarella fraîche",
+        "Parmesan à pâte dure",
+        "Brie à croûte fleuries"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le gorgonzola est préparé à partir de lait de vache entier et présente des marbrures caractéristiques de moisissures bleu-vert de Penicillium."
+    },
+    {
+      "category": "animaux",
+      "question": "Quel est l'aliment principal du régime alimentaire du panda géant ?",
+      "options": [
+        "Insectes",
+        "Poissons",
+        "Bambou",
+        "Petits mammifères"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le bambou représente jusqu'à 99 pour cent du régime alimentaire d'un panda géant, et il peut passer jusqu'à 12 heures par jour à s'en nourrir."
+    },
+    {
+      "category": "sports",
+      "question": "Au curling, quel est le principal objectif des membres de l'équipe qui balayent la glace devant la pierre en mouvement ?",
+      "options": [
+        "Nettoyer les débris et ralentir la pierre",
+        "Faire du bruit pour perturber l'équipe adverse",
+        "Faire fondre la glace pour que la pierre aille plus vite et plus droit",
+        "Refroidir la surface de la glace et augmenter la friction"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le balayage crée une friction qui fait légèrement fondre le givre de la glace, ce qui réduit les frottements et permet à la pierre d'aller plus loin et de moins dévier."
+    },
+    {
+      "category": "langue",
+      "question": "Quel est le terme linguistique désignant des mots de langues différentes qui partagent une origine commune, comme 'mother' en anglais et 'mutter' en allemand ?",
+      "options": [
+        "Synonymes",
+        "Acronymes",
+        "Mots apparentés (cognates)",
+        "Homonymes"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Les mots apparentés se ressemblent souvent beaucoup à l'éckrit et à l'oral dans les langues cousines parce qu'ils dérivent d'une racine ancestrale commune."
+    },
+    {
+      "category": "espace",
+      "question": "Lequel des satellites de Saturne est le deuxième plus grand du système solaire et possède une atmosphère dense et riche en azote ?",
+      "options": [
+        "Encelade",
+        "Japet",
+        "Mimas",
+        "Titan"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Titan est la seule lune connue du système solaire dotée d'une atmosphère dense et de mers stables de surface, bien que ces liquides soient du méthane et de l'éthane plutôt que de l'eau."
+    },
+    {
+      "category": "histoire",
+      "question": "Qui a été le principal rédacteur de la Déclaration d'indépendance des États-Unis ?",
+      "options": [
+        "George Washington",
+        "Alexander Hamilton",
+        "Benjamin Franklin",
+        "Thomas Jefferson"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Thomas Jefferson a rédigé le texte fondateur de la Déclaration à l'âge de 33 ans alors qu'il logeait dans une chambre louée à Philadelphie."
+    }
+  ]
+}

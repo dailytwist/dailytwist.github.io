@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-01",
+  "signs": {
+    "aries": {
+      "overview": "Der Sonntag beginnt mit einer Welle feuriger Energie, die dich förmlich dazu auffordert, den Pyjama auszuziehen und dich auf ein spontanes Abenteuer einzulassen, Widder. Vielleicht verspürst du plötzlich den Drang, dein gesamtes Wohnzimmer umzugestalten oder einen Roadtrip in die nächste Stadt zu machen, nur um ein handgemachtes Gebäck zu holen. Zerdenke diese plötzlichen Impulse nicht; dein impulsiver Funke ist heute deine größte Superkraft. Nutze diesen unbändigen Tatendrang für etwas, das dich von einem Ohr zum anderen grinsen lässt. Wenn der Nachmittag anbricht, denke daran, deinen Enthusiasmus mit jemandem zu teilen, der es vielleicht etwas ruhiger angeht als dein rasanter Tempo.",
+      "love": "Dein verspieltes Necken entfacht ein brillantes Feuer in deiner Beziehung und lässt einen entspannten Sonntagsspaziergang wie das Set einer romantischen Komödie wirken. Single? Ein witziger Schlagabtausch in einem Café um die Ecke könnte dich auf sehr charmante Weise überraschen.",
+      "career": "Während das Büro geschlossen ist, brütet dein Gehirn bereits über genialen Plänen für die Triumphe am Montagmorgen. Notiere dir diese flüchtigen Ideen, bevor sie sich in Luft auflösen.",
+      "wellness": "Trinke ein großes Glas eiskaltes Wasser mit frischer Zitrone, um deine Sinne sofort wachzurütteln.",
+      "lucky_number": 7,
+      "lucky_color": "Karmesinrot",
+      "mood": "Lebendig"
+    },
+    "taurus": {
+      "overview": "Genuss wird heute großgeschrieben, Stier. Du hast es dir redlich verdient, dich in deine weichste Decke zu kuscheln, einen Topf edlen Losen-Tee aufzubrühen und all die lästigen Pflichten genüsslich zu ignorieren, die nicht direkt zu deinem inneren Frieden beitragen. Der Kosmos lädt dich ein, greifbaren Komfort zu schätzen – sei es beim Backen einer Ladung klebriger Zimtschnecken oder beim Versinken in einer Playlist mit entspannten Lo-Fi-Beats. Widersteh dem Drang, deine Entspannung zu überstürzen; nimm dir alle Zeit der Welt, um jede einzelne Minute dieses ruhigen Luxus zu kosten.",
+      "love": "Sinnesfrohes Kuscheln und ein selbstgekochtes Essen sagen heute mehr als jede noch so große romantische Geste. Wenn du ungebunden bist, gönn dir dein Lieblingsdessert vom Bäcker und genieße deine eigene großartige Gesellschaft.",
+      "career": "Gönn deinem hart arbeitenden Kopf heute eine komplette Auszeit, damit du morgen wieder ganz erholt zu deinen kreativen Projekten zurückkehren kannst.",
+      "wellness": "Dehne deine Schultern und deinen Nacken langsam, um jede noch so kleine körperliche Anspannung der Woche loszulassen.",
+      "lucky_number": 14,
+      "lucky_color": "Salbeigrün",
+      "mood": "Gemütlich"
+    },
+    "gemini": {
+      "overview": "Dein Kopf ist heute wie ein genialer Flipperautomat, Zwillinge, der rasant von einem faszinierenden Gedanken zum nächsten springt. Du bist der absolute Mittelpunkt in jedem Gespräch, egal ob du dich online mit Fremden über die besten Sci-Fi-Filmuniversen streitest oder dir ein skurriles neues Hobby überlegst. Gib deiner endlosen Neugier nach und verirre dich in welchem Internet-Kaninchenbau auch immer, der am unterhaltsamsten aussieht. Achte nur darauf, hin und wieder Luft zu holen und dir die Beine zu vertreten. Eine spontane Nachricht an einen alten Freund entfacht sofort ein urkomisches Gespräch, das stundenlang dauert.",
+      "love": "Flirtendes Geplänkel ist heute deine Liebessprache, und dein schneller Witz wirkt einfach unwiderstehlich auf deinen Schwarm. Singles blühen in geschwätzigen sozialen Runden auf, in denen funkelnde Gespräche ganz mühelos fließen.",
+      "career": "Halte einen Notizblock griffbereit, denn deine genialen Brainstorming-Sitzungen an einem faulen Sonntag liefern puren Goldstaub für deine zukünftigen Projekte.",
+      "wellness": "Gönn deinen Augen eine dringend benötigte Pause von Bildschirmen, indem du zwanzig Minuten lang ins grüne Freie blickst.",
+      "lucky_number": 23,
+      "lucky_color": "Gelb",
+      "mood": "Neugierig"
+    },
+    "cancer": {
+      "overview": "Deine Intuition vibriert heute förmlich, Krebs, und leitet dich genau dorthin, wo sich deine sensible Seele rundum sicher und geborgen fühlt. Es ist ein wunderbarer Tag, um es dir zu Hause gemütlich zu machen, vielleicht deine liebste Vanillekerze anzuzünden oder etwas Seelenwärmendes zu backen, das die Räume mit wohliger Atmosphäre erfüllt. Erlaube dir, all die kuscheligen Gefühle ganz ohne Selbstkritik zuzulassen. Wenn sich ein enger Freund für ein tiefgründiges Gespräch meldet, bietet deine natürliche Empathie genau den Trost, den er jetzt braucht. Hülle dich in emotionale Sicherheit.",
+      "love": "Tiefe, seelenvolle Gespräche in einer Deckenhöhle bringen dich und deinen Partner einander näher als je zuvor. Single? Ein sanftes, aufrichtiges Kompliment aus unerwarteter Quelle wird dein Herz zum Schmelzen bringen.",
+      "career": "Visualisiere deine kommende Woche mit stiller Zuversicht und setze dir lieber sanfte Absichten statt starrer, stressiger Ziele.",
+      "wellness": "Nimm ein langes, warmes Bad mit beruhigendem Lavandelsalz, um deine emotionale Energie komplett herunterzufahren.",
+      "lucky_number": 2,
+      "lucky_color": "Silber",
+      "mood": "Fürsorglich"
+    },
+    "leo": {
+      "overview": "Das Rampenlicht folgt dir heute auf Schritt und Tritt, Löwe, selbst wenn du nur in deiner Lieblings-Statement-Sonnenbrille im Haus herumlungerst. Deine natürliche Ausstrahlung läuft auf Hochtouren, was diesen Tag absolut perfekt macht, um dein kreatives Flair zur Schau zu stellen oder ein fabelhaftes Selfie zu posten, das das Internet sprengt. Hab keine Angst davor, Raum einzunehmen und deine eigene Fabulousness zu feiern. Spaß hat jetzt oberste Priorität: Such nach Aktivitäten, die dein inneres Kind vor Freude kichern lassen und dich daran erinnern, wie viel Spaß das Leben macht.",
+      "love": "Große, theatralische Liebesbekundungen lassen deine Romanze heute wie ein episches Meisterwerk der Kinokunst wirken. Wenn du Single bist, zieht dein strahlendes Selbstbewusstsein im Raum mühelos alle Blicke auf dich.",
+      "career": "Lass deiner Fantasie freien Lauf mit mutigen, kreativen Konzepten, bei denen deine einzigartige künstlerische Persönlichkeit hell erstrahlt.",
+      "wellness": "Nimm eine kraftvolle Pose vor dem Spiegel ein und halte sie eine ganze Minute lang, um dein strahlendes Selbstbewusstsein sofort zu pushen.",
+      "lucky_number": 19,
+      "lucky_color": "Gold",
+      "mood": "Strahlend"
+    },
+    "virgo": {
+      "overview": "Deine organisatorischen Superkräfte bekommen heute ein herrlich spaßiges Upgrade, Jungfrau. Du wirst eine seltsame, meditative Freude daran finden, dein Bücherregal nach Farben zu sortieren, deine digitalen Fotoalben zu kuratieren oder eine Ladung Meal-Prep-Behälter für die kommende Woche vorzubereiten. Genieße diesen ordentlichen Schwung, aber lass dir von deinem Perfektionismus nicht die Nachmittagslaune verderben. Sobald dein Zuhause blitzblank ist, belohnst du dich mit einem guilty-pleasure-Filme-Marathon. Die Balance zwischen Produktivität und purer Entspannung ist dein heutiges Meisterwerk.",
+      "love": "Hilfsbereitschaft ist deine Superkraft – wie zum Beispiel deinem Partner eine heiße Tasse Kaffee genau so zu bringen, wie er sie mag. Singles schätzen jemanden, der ihre Zeit respektiert und zu ihrem aufgeräumten Lebensstil passt.",
+      "career": "Ein heute ausgetüfteltes, genial effizientes System wird dir wertvolle Stunden sparen, sobald die Arbeitswoche beginnt.",
+      "wellness": "Räume eine kleine Fläche in deinem Zimmer auf, um sofort den mentalen Ballast loszuwerden und ruhige Energie einzuladen.",
+      "lucky_number": 5,
+      "lucky_color": "Marineblau",
+      "mood": "Methodisch"
+    },
+    "libra": {
+      "overview": "Ästhetische Harmonie ist heute deine Hauptmission, Waage. Du bist auf der Suche danach, alles um dich herum wie eine redaktionelle Fotostrecke aussehen zu lassen – sei es beim Gestalten des perfekten Brunch-Tisches oder bei der Auswahl eines Outfits, das auf dem Wochenmarkt alle Blicke auf sich zieht. Deine angeborene Diplomatie macht dich zum Friedensstifter in jedem Gruppenchat-Drama und hilft Freunden dabei, kleinere Streitereien mit Bravour zu schlichten. Gib deiner Liebe für Schönheit, Kunst und gute Gesellschaft nach, ohne deine ästhetischen Entscheidungen zu hinterfragen.",
+      "love": "Romantische Ästhetik ruft nach dir, also plane ein Kerzenlicht-Dinner oder einen Sonnenuntergangsspaziergang in einem malerischen Park. Single? Eine charmante Begegnung in einer Kunstgalerie oder einer schicken Boutique könnte Funken sprühen lassen.",
+      "career": "Dein diplomatischer Ansatz bei der Problemlösung hilft dir dabei, eventuell noch schwelende kreative Differenzen mühelos zu glätten.",
+      "wellness": "Übe tiefe, ausgleichende Atemzüge, während du deine absolute Lieblings-Akustik-Playlist hörst.",
+      "lucky_number": 6,
+      "lucky_color": "Zartrosa",
+      "mood": "Harmonisch"
+    },
+    "scorpio": {
+      "overview": "Deine geheimnisvolle Aura wirkt heute magisch, Skorpion, und zieht faszinierende Menschen sowie spannende Rätsel direkt in deinen Orbit. Du bist in der Stimmung, tief in einen packenden Psychothriller einzutauchen, eine skurrile Obsession zu erforschen oder ein Gespräch zu führen, das Smalltalk komplett umgeht. Gib deinem Verlangen nach Tiefe und Authentizität nach. Erlaube dir, hinter die Kulissen des Alltags zu blicken und etwas Verborgenes, Wunderbares zu entdecken. Deine Intuition ist rasiermesserscharf, vertraue also blind auf deinen Bauchgefühl.",
+      "love": "Intensität und Leidenschaft kochen hoch und verwandeln einen ganz gewöhnlichen Sonntagnachmittag in eine tief magische Verbindung. Ungebunden? Dein geheimnisvoller Reiz hinterlässt bei einer ganz besonderen Person einen bleibenden Eindruck.",
+      "career": "Vertraue auf deine strategischen Instinkte bezüglich eines Hintergrundprojekts, das du insgeheim für die Zukunft planst.",
+      "wellness": "Dimme das Licht und verbringe zehn Minuten in stiller Meditation, um deine intensive innere Batterie wieder aufzuladen.",
+      "lucky_number": 13,
+      "lucky_color": "Bordeauxrot",
+      "mood": "Rätselhaft"
+    },
+    "sagittarius": {
+      "overview": "Das Fernweh klopft heute laut an deine Tür, Schütze! Selbst wenn du in diesem Moment keinen internationalen Flug buchen kannst, lässt sich ein brandneues Viertel erkunden, ein Restaurant mit einer noch nie probierten Küche auszuprobieren oder ein Buch über Philosophie aufschlagen. Dein ansteckender Optimismus verwandelt selbst den Gang zum Supermarkt in eine große Expedition. Halte deinen Zeitplan flexibel, denn der Zufall hält einige herrlich lustige und spannende Überraschungen genau für dich bereit.",
+      "love": "Spontane Abenteuer und gemeinsames Lachen halten deine Beziehung frisch, unbeschwert und wahnsinnig spaßig. Single? Dein abenteuerlustiger Geist zieht ganz leicht jemanden an, der es liebt, die Welt zu erkunden.",
+      "career": "Großes Big-Picture-Brainstorming fühlt sich heute mühelos und aufregend an, also lass deine größten Ambitionen hoch hinausfliegen.",
+      "wellness": "Geh nach draußen für einen zügigen Spaziergang an der frischen Luft, um dein unruhiges Verlangen nach weiten Landschaften zu stillen.",
+      "lucky_number": 9,
+      "lucky_color": "Türkis",
+      "mood": "Abenteuerlustig"
+    },
+    "capricorn": {
+      "overview": "Selbst an einem Sonntag tickt dein legendärer Ehrgeiz im Hintergrund leise vor sich hin, Steinbock. Anstatt gegen diesen Drang anzukämpfen, nutze ihn lieber, um bei einer außergewöhnlichen Tasse Dark Roast Coffee ein paar inspirierende Langzeitziele zu entwerfen. Sobald dein Vision Board aktualisiert ist, versprich dir selbst, für den Rest des Tages den Stecker komplett zu ziehen. Behandle deine wohlverdiente Freizeit mit demselben Respekt und derselben Disziplin, die du deinen beruflichen Projekten entgegenbringst. Du hast einen entspannten Abend voller purem Komfort verdient.",
+      "love": "Loyalität und beständige, verlässliche Zuneigung geben deinem Partner das Gefühl, den Jackpot geknackt zu haben. Single? Du ziehst jemanden an, der deinen Tatendrang, deine Reife und deine Stabilität tief bewundert.",
+      "career": "Ein Moment der ruhigen Selbstreflexion hilft dir heute dabei, deine ultimative berufliche Ausrichtung für die kommende Saison zu klären.",
+      "wellness": "Schalte für den Abend alle Benachrichtigungen von der Arbeit stumm, um deinem disziplinierten Geist einen echten Urlaub zu gönnen.",
+      "lucky_number": 8,
+      "lucky_color": "Anthrazit",
+      "mood": "Bodenständig"
+    },
+    "aquarius": {
+      "overview": "Dein Verstand ist heute auf futuristische Frequenzen eingestellt, Wassermann. Du sprudelst nur so vor exzentrischen Ideen, Sci-Fi-Konzepten und cleveren Lösungen für Probleme, von denen sonst niemand geahnt hat, dass sie existieren. Verbinde dich mit Gleichgesinnten, die deine wunderbar schräge Art von Humor und deine unkonventionelle Weltsicht zu schätzen wissen. Egal, ob du in deiner Garage an einem skurrilen DIY-Projekt bastelst oder dich in die Tiefen futuristischer Technologie stürzt – deine geniale Originalität strahlt heute hell für die ganze Welt.",
+      "love": "Intellektuelle Wellenlänge ist heute dein größtes Aphrodisiakum und führt zu faszinierenden Debatten beim Abendessen. Wenn du Single bist, könnte sich ein skurriler Online-Kontakt schnell zu einem mentalen Volltreffer entwickeln.",
+      "career": "Dein innovatives, unkonventionelles Denken wird ein komplexes Rätsel lösen, an dem sich alle anderen die Zähne ausgebissen haben.",
+      "wellness": "Trinke ein Glas Sprudelwasser mit frischer Minze, um dein summendes Nervensystem zu erfrischen.",
+      "lucky_number": 11,
+      "lucky_color": "Elektroblau",
+      "mood": "Innovativ"
+    },
+    "pisces": {
+      "overview": "Der Schleier zwischen Realität und purer Magie fühlt sich heute für dich herrlich dünn an, Fische. Deine Fantasie ist ein Kaleidoskop aus verträumten Visionen, poetischen Gedanken und künstlerischer Inspiration. Schnapp dir einen Pinsel, schreib ein paar Songtexte oder driftet einfach auf einer Wolke aus Tagträumen davon, während du ätherische Musik hörst. Dein mitfühlender Geist ist ein wohltuender Balsam für jeden, der das Glück hat, deinen Weg zu kreuzen. Lass dich sanft durch den Tag treiben, ganz ohne starre Zeitpläne oder Forderungen.",
+      "love": "Romantische Tagträume und poetische Süße verwandeln deine Beziehung in eine märchenhafte Romanze. Single? Vielleicht kreuzen sich deine Blicke mit jemandem, der sich wie eine alte Seele aus einem früheren Leben anfühlt.",
+      "career": "Schöpfe aus deinem unerschöpflichen kreativen Reservoir, um fantasievolle Konzepte für deine kommenden Kunstprojekte zu entwerfen.",
+      "wellness": "Lausche sphärischen Meeresklängen oder sanfter klassischer Musik, um deine fantasievolle Seele zu beruhigen.",
+      "lucky_number": 12,
+      "lucky_color": "Lavendel",
+      "mood": "Verschmust"
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-01",
+  "title": "Test de Cultura General Diario: 1 de noviembre de 2026",
+  "questions": [
+    {
+      "category": "geografía",
+      "question": "¿Cuál de estos países no tiene salida al mar?",
+      "options": [
+        "Tailandia",
+        "Bolivia",
+        "Vietnam",
+        "Portugal"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Bolivia es uno de los dos países sin salida al mar en Sudamérica, junto con Paraguay."
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Cuál es el mineral natural más duro según la escala de Mohs?",
+      "options": [
+        "Corindón",
+        "Cuarzo",
+        "Topacio",
+        "Diamante"
+      ],
+      "answer_index": 3,
+      "fun_fact": "El diamante tiene una puntuación de 10 en la escala de dureza de Mohs, lo que le permite rayar a cualquier otro mineral natural."
+    },
+    {
+      "category": "historia",
+      "question": "¿En el territorio de qué país actual se encontraba la antigua ciudad de Cartago, en el norte de África?",
+      "options": [
+        "Libia",
+        "Marruecos",
+        "Egipto",
+        "Túnez"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Las ruinas de Cartago se encuentran a las afueras de la actual ciudad de Túnez, en Túnez."
+    },
+    {
+      "category": "cine y cultura pop",
+      "question": "¿Qué película de animación cuenta la historia de una joven llamada Chihiro que se adentra en un misterioso mundo de espíritus?",
+      "options": [
+        "Ponyo",
+        "Mi vecino Totoro",
+        "El viaje de Chihiro",
+        "La princesa Mononoke"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El viaje de Chihiro, dirigida por Hayao Miyazaki, ganó el Óscar a la mejor película de animación en 2003."
+    },
+    {
+      "category": "gastronomía",
+      "question": "¿A qué gran clasificación pertenece el Gorgonzola, un famoso queso italiano?",
+      "options": [
+        "Queso azul",
+        "Mozzarella fresca",
+        "Parmesano duro",
+        "Brie de corteza blanda"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El Gorgonzola se elabora con leche de vaca entera y presenta unas características vetas azul verdosas de moho Penicillium."
+    },
+    {
+      "category": "animales",
+      "question": "¿Cuál es la base de la alimentación de un panda gigante?",
+      "options": [
+        "Insectos",
+        "Pescado",
+        "Bambú",
+        "Pequeños mamíferos"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El bambú representa hasta el 99 por ciento de la dieta del panda gigante, y pueden pasar hasta 12 horas al día comiéndolo."
+    },
+    {
+      "category": "deportes",
+      "question": "En el curling, ¿cuál es el objetivo principal de los miembros del equipo al barrer el hielo frente a la piedra en movimiento?",
+      "options": [
+        "Limpiar los restos y frenar la piedra",
+        "Hacer ruido para distraer al equipo contrario",
+        "Derretir el hielo para que la piedra vaya más rápido y recta",
+        "Enfriar la superficie del hielo y aumentar la fricción"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El barrido genera fricción que derrite ligeramente las gotas de hielo, reduciendo la fricción y permitiendo que la piedra llegue más lejos y se desvíe menos."
+    },
+    {
+      "category": "lenguaje",
+      "question": "¿Cómo se denominan en lingüística las palabras de diferentes idiomas que comparten un origen similar, como 'mother' en inglés y 'mutter' en alemán?",
+      "options": [
+        "Sinónimos",
+        "Acrónimos",
+        "Cognados",
+        "Homónimos"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Los cognados suelen parecerse y sonar similar en lenguas emparentadas porque provienen de una raíz ancestral común."
+    },
+    {
+      "category": "espacio",
+      "question": "¿Cuál de las lunas de Saturno es la segunda más grande del sistema solar y cuenta con una densa atmósfera rica en nitrógeno?",
+      "options": [
+        "Encélado",
+        "Jápeto",
+        "Mimas",
+        "Titán"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Titán es la única luna conocida del sistema solar con una atmósfera densa y lagos estables de líquido en su superficie, aunque dichos líquidos son metano y etano en lugar de agua."
+    },
+    {
+      "category": "historia",
+      "question": "¿Quién fue el autor principal de la Declaración de Independencia de los Estados Unidos?",
+      "options": [
+        "George Washington",
+        "Alexander Hamilton",
+        "Benjamin Franklin",
+        "Thomas Jefferson"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Thomas Jefferson redactó el texto fundamental de la Declaración a los 33 años mientras se alojaba en una habitación alquilada en Filadelfia."
+    }
+  ]
+}

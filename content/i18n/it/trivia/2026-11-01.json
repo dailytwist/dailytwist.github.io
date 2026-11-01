@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-01",
+  "title": "Quiz di cultura generale quotidiano: 1 novembre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Quale di questi paesi non ha uno sbocco sul mare?",
+      "options": [
+        "Thailandia",
+        "Bolivia",
+        "Vietnam",
+        "Portogallo"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La Bolivia è uno dei due paesi senza sbocco sul mare in Sud America, insieme al Paraguay."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è il minerale naturale più duro sulla scala di Mohs?",
+      "options": [
+        "Corindone",
+        "Quarzo",
+        "Topazio",
+        "Diamante"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Il diamante ottiene un punteggio di 10 sulla scala di durezza di Mohs, il che gli permette di scalfire tutti gli altri minerali naturali."
+    },
+    {
+      "category": "storia",
+      "question": "L'antica città di Cartagine si trovava nel Nord Africa, nel territorio di quale odierno paese?",
+      "options": [
+        "Libia",
+        "Marocco",
+        "Egitto",
+        "Tunisia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Le rovine di Cartagine si trovano appena fuori dalla moderna città di Tunisi, in Tunisia."
+    },
+    {
+      "category": "cinema e pop culture",
+      "question": "Quale film d'animazione ha come protagonista una bambina di nome Chihiro che si ritrova in un misterioso mondo di spiriti?",
+      "options": [
+        "Ponyo",
+        "Il mio vicino Totoro",
+        "La città incantata",
+        "Princess Mononoke"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La città incantata, diretto da Hayao Miyazaki, ha vinto l'Oscar come miglior film d'animazione nel 2003."
+    },
+    {
+      "category": "cibo",
+      "question": "Il gorgonzola è un famoso formaggio italiano che appartiene a quale grande categoria?",
+      "options": [
+        "Formaggio erborinato",
+        "Mozzarella fresca",
+        "Parmigiano stagionato",
+        "Brie a crosta fiorita"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il gorgonzola è fatto con latte vaccino intero ed è caratterizzato da tipiche venature blu-verde dovute alle muffe del genere Penicillium."
+    },
+    {
+      "category": "animali",
+      "question": "Qual è la principale fonte di alimentazione di un panda gigante?",
+      "options": [
+        "Insetti",
+        "Pesce",
+        "Bambù",
+        "Piccoli mammiferi"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il bambù costituisce fino al 99% della dieta di un panda gigante, che può passare fino a 12 ore al giorno a masticarlo."
+    },
+    {
+      "category": "sport",
+      "question": "Nel curling, qual è lo scopo principale dei membri della squadra che spazzano il ghiaccio davanti alla pietra in movimento?",
+      "options": [
+        "Pulire via i detriti e rallentare la pietra",
+        "Fare rumore per distrarre la squadra avversaria",
+        "Sciogliere il ghiaccio per far andare la pietra più veloce e dritta",
+        "Raffreddare la superficie del ghiaccio e aumentare l'attrito"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Lo spazzamento crea attrito che scioglie leggermente le incrostazioni di ghiaccio, riducendo l'attrito e permettendo alla pietra di viaggiare più lontano e curvare meno."
+    },
+    {
+      "category": "lingua",
+      "question": "Qual è il termine linguistico per indicare parole di lingue diverse che condividono un'origine simile, come 'mother' in inglese e 'mutter' in tedesco?",
+      "options": [
+        "Sinonimi",
+        "Acronimi",
+        "Cognati",
+        "Omonimi"
+      ],
+      "answer_index": 2,
+      "fun_fact": "I cognati spesso hanno un aspetto e un suono simili nelle lingue imparentate perché derivano da una radice ancestrale comune."
+    },
+    {
+      "category": "spazio",
+      "question": "Quale luna di Saturno è la seconda più grande del sistema solare e possiede una densa atmosfera ricca di azoto?",
+      "options": [
+        "Encelado",
+        "Giapeto",
+        "Mimas",
+        "Titano"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Titano è l'unica luna conosciuta nel sistema solare ad avere una densa atmosfera e riserve stabili di liquidi in superficie, sebbene tali liquidi siano metano ed etano anziché acqua."
+    },
+    {
+      "category": "storia",
+      "question": "Chi è stato il principale autore della Dichiarazione d'indipendenza degli Stati Uniti?",
+      "options": [
+        "George Washington",
+        "Alexander Hamilton",
+        "Benjamin Franklin",
+        "Thomas Jefferson"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Thomas Jefferson ha redatto il testo fondamentale della Dichiarazione all'età di 33 anni mentre soggiornava in una stanza in affitto a Filadelfia."
+    }
+  ]
+}
