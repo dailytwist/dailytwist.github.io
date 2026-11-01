@@ -711,5 +711,6 @@
   "ytopic_quarters": "Mois par mois",
   "ytopic_watch": "Méfiez-vous de",
   "ytopic_best_signs": "Vos meilleurs affinités cette année",
-  "privacy_stats_html": "<h2>Statistiques de visite</h2><p>Pour comprendre quelles pages et quels jeux plaisent à notre public, nous utilisons GoatCounter, un service de statistiques respectueux de la vie privée. Il n'utilise pas de cookies et ne collecte aucune donnée personnelle : nous voyons uniquement des totaux tels que le nombre de visites, le pays, le type d'appareil et la durée d'une partie. Personne ne peut être identifié à partir de ces chiffres.</p>"
+  "privacy_stats_html": "<h2>Statistiques de visite</h2><p>Pour comprendre quelles pages et quels jeux plaisent à notre public, nous utilisons GoatCounter, un service de statistiques respectueux de la vie privée. Il n'utilise pas de cookies et ne collecte aucune donnée personnelle : nous voyons uniquement des totaux tels que le nombre de visites, le pays, le type d'appareil et la durée d'une partie. Personne ne peut être identifié à partir de ces chiffres.</p>",
+  "pt_qibla": "Direction de la Qibla depuis {city} : {deg}° par rapport au nord, à environ {km} km de La Mecque."
 }

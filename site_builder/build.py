@@ -320,6 +320,17 @@ def stats_js():
     return f'<script data-goatcounter="https://{code}.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>'
 
 
+def qibla(lat, lng):
+    """Great-circle bearing (degrees from north) and distance (km) to the Kaaba."""
+    import math
+    k_lat, k_lng = math.radians(21.4225), math.radians(39.8262)
+    la, lo = math.radians(lat), math.radians(lng)
+    d = k_lng - lo
+    brg = (math.degrees(math.atan2(math.sin(d) * math.cos(k_lat), math.cos(la) * math.sin(k_lat) - math.sin(la) * math.cos(k_lat) * math.cos(d))) + 360) % 360
+    km = 6371 * math.acos(min(1, math.sin(la) * math.sin(k_lat) + math.cos(la) * math.cos(k_lat) * math.cos(d)))
+    return round(brg), int(round(km, -1))
+
+
 def body_words(lang, body):
     t = re.sub(r"<script.*?</script>|<style.*?</style>", " ", body, flags=re.S)
     t = html.unescape(re.sub(r"<[^>]+>", " ", t))
@@ -1339,10 +1350,13 @@ q.oninput=go}})();</script>""", priority="0.3")
   <p class="kicker">🕌 <a href="{pre}/prayer-times/">{e(T(lang, 'pt_title'))}</a></p><h1>{flag(c[5])} {e(T(lang, 'pt_city_title', city=name))}</h1>
   <p class="lead">{e(T(lang, 'pt_city_desc', city=name))}</p>
   {pt_widget({"name": name, "lat": c[6], "lng": c[7], "tz": c[8], "m": c[9]}, c[0])}
+  <p class="pt-qibla">🕋 {e(T(lang, 'pt_qibla', city=name, deg=qibla(c[6], c[7])[0], km=f"{qibla(c[6], c[7])[1]:,}"))}</p>
   <p class="small muted">ℹ️ {e(T(lang, 'pt_note'))}</p>
   <h2>🏙️ {e(T(lang, 'pt_other'))}</h2><div class="chips">{"".join(f'<a class="mchip ptchip" href="{pre}/prayer-times/{o[0]}/">{flag(o[5])} {e(o[ci])}</a>' for o in others)}</div>
   <a class="btn light" href="{pre}/hijri-calendar/">🌙 {e(T(lang, 'hj_title'))}</a>
 </article>""", priority="0.8")
+        if lang in ("ar", "fr"):
+            PAGES[(lang, f"prayer-times/{c[0]}/")]["keep_index"] = True  # live tool page (times + month table); real search demand in Arabic/French
 
     # Hijri calendar: today's date and converter (computed in the browser)
     hol = DATA[lang]["ui"].get("holidays", {})
