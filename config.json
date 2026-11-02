@@ -24,7 +24,9 @@
   "ai_delay_seconds": 4,
   "telegram_channel": "dailytwist_daily",
   "android_package": "com.mydailytwist.app",
-  "android_sha256": [],
+  "android_sha256": [
+    "99:1B:F7:44:2E:8C:13:A5:07:3D:6A:46:A6:48:01:44:43:C7:59:D3:A7:67:18:8C:6B:B9:EA:7C:3C:0B:D4:E1"
+  ],
   "pairs_per_day": 6,
   "goatcounter": "dailytwist",
   "yearly_topic_langs": [
