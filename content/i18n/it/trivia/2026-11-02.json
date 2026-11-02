@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-02",
+  "title": "Quiz di cultura generale del giorno: 2 novembre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Quale paese africano ha il maggior numero di lingue ufficiali, riconoscendone attualmente ben sedici distinte?",
+      "options": [
+        "Etiopia",
+        "Zimbabwe",
+        "Nigeria",
+        "Sudafrica"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Lo Zimbabwe riconosce ufficialmente sedici lingue nella sua costituzione, tra cui inglese, shona e ndebele."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è l'osso più duro del corpo umano?",
+      "options": [
+        "Mandibola",
+        "Osso temporale",
+        "Femore",
+        "Tibia"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La porzione petrosa dell'osso temporale, situata alla base del cranio, è l'osso più denso e duro di tutto il corpo umano."
+    },
+    {
+      "category": "storia",
+      "question": "La guerra dei sette anni, combattuta nel XVIII secolo, ha visto contrapposti principalmente due grandi imperi coloniali rivali. Quali?",
+      "options": [
+        "Gran Bretagna e Francia",
+        "Francia e Spagna",
+        "Spagna e Portogallo",
+        "Paesi Bassi e Gran Bretagna"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Winston Churchill definì celebremente la guerra dei sette anni come la prima vera \"guerra mondiale\" a causa del suo teatro di combattimento globale."
+    },
+    {
+      "category": "cinema e pop culture",
+      "question": "Quale film thriller psicologico del 1974 diretto da Francis Ford Coppola vede Gene Hackman nei panni di un solitario esperto di sorveglianza?",
+      "options": [
+        "Perché un assassinio",
+        "Blow Out",
+        "Una squillo per l'ispettore Klute",
+        "La conversazione"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Francis Ford Coppola scrisse la sceneggiatura de La conversazione alla fine degli anni Sessanta, traendo forte ispirazione dal classico film Blow-Up."
+    },
+    {
+      "category": "cibo",
+      "question": "Il formaggio Halloumi, tradizionalmente noto per il suo alto punto di fusione e l'idoneità alla cottura alla griglia, da quale isola del Mediterraneo proviene?",
+      "options": [
+        "Sardegna",
+        "Cipro",
+        "Sicilia",
+        "Creta"
+      ],
+      "answer_index": 1,
+      "fun_fact": "L'Halloumi viene prodotto sull'isola di Cipro da secoli, tradizionalmente utilizzando un misto di latte di capra e di pecora."
+    },
+    {
+      "category": "animali",
+      "question": "Qual è il nome collettivo unico usato per descrivere un gruppo di rinoceronti?",
+      "options": [
+        "Branco (Sounder)",
+        "Mandria",
+        "Crash",
+        "Gruppo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un gruppo di rinoceronti viene chiamato in inglese crash (schianto), un termine che descrive alla perfezione i loro movimenti potenti e talvolta sorprendentemente veloci."
+    },
+    {
+      "category": "sport",
+      "question": "Nel rugby a 15 internazionale, quanti punti vengono assegnati per un calcio di punizione riuscito?",
+      "options": [
+        "5",
+        "3",
+        "7",
+        "2"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Un calcio di punizione nel rugby a 15 vale 3 punti, lo stesso valore di un drop goal standard effettuato durante l'azione di gioco."
+    },
+    {
+      "category": "linguistica",
+      "question": "Qual è il termine linguistico per una parola che si pronuncia come un'altra ma ha significato e ortografia diversi?",
+      "options": [
+        "Omografo",
+        "Eteronimo",
+        "Omonimo",
+        "Omofono"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Parole come 'lago' e 'largo' o simili in inglese come 'bare' e 'bear' sono esempi classici di omofoni perché suonano identici pur avendo ortografie diverse."
+    },
+    {
+      "category": "spazio",
+      "question": "Quale pianeta del nostro sistema solare possiede il campo magnetico più forte in relazione alle sue dimensioni?",
+      "options": [
+        "Giove",
+        "Mercurio",
+        "Terra",
+        "Saturno"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Sebbene Giove possieda il campo magnetico più forte in assoluto, quello della Terra è sorprendentemente il più forte tra i pianeti rocciosi e terrestri."
+    },
+    {
+      "category": "geografia",
+      "question": "Circa quale percentuale dell'acqua dolce superficiale non congelata del mondo è contenuta nel lago Baikal, in Siberia?",
+      "options": [
+        "50%",
+        "20%",
+        "1%",
+        "5%"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Nonostante contenga circa il 20% dell'acqua dolce superficiale del mondo, il lago Baikal custodisce all'incirca lo stesso volume d'acqua di tutti e cinque i Grandi Laghi nordamericani messi insieme."
+    }
+  ]
+}

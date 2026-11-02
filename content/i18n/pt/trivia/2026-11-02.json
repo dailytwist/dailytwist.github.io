@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-02",
+  "title": "Quiz Diário de Conhecimentos Gerais: 2 de novembro de 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Qual país africano possui o maior número de idiomas oficiais, reconhecendo atualmente dezesseis línguas distintas?",
+      "options": [
+        "Etiópia",
+        "Zimbábue",
+        "Nigéria",
+        "África do Sul"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O Zimbábue reconhece oficialmente dezesseis idiomas em sua constituição, incluindo o inglês, o chona e o ndebele."
+    },
+    {
+      "category": "ciência",
+      "question": "Qual é o osso mais duro do corpo humano?",
+      "options": [
+        "Mandíbula",
+        "Osso temporal",
+        "Fêmur",
+        "Tíbia"
+      ],
+      "answer_index": 1,
+      "fun_fact": "A porção petrosa do osso temporal, localizada na base do crânio, é o osso mais denso e duro do corpo humano."
+    },
+    {
+      "category": "história",
+      "question": "A Guerra dos Sete Anos, travada no século XVIII, envolveu principalmente um conflito global entre quais dois grandes impérios coloniais rivais?",
+      "options": [
+        "Grã-Bretanha e França",
+        "França e Espanha",
+        "Espanha e Portugal",
+        "Holanda e Grã-Bretanha"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Winston Churchill ficou famoso por chamar a Guerra dos Sete Anos de primeira 'guerra mundial' devido ao seu teatro de combate global."
+    },
+    {
+      "category": "filmes e cultura pop",
+      "question": "Qual filme de suspense psicológico de 1974 dirigido por Francis Ford Coppola traz Gene Hackman no papel de um especialista solitário em vigilância?",
+      "options": [
+        "A Trama",
+        "Um Tiro no Escuro",
+        "Klute: O Passado Não Perdoa",
+        "A Conversação"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Francis Ford Coppola escreveu o roteiro de A Conversação no final da década de 1960, fortemente inspirado pelo clássico filme Blow-Up."
+    },
+    {
+      "category": "culinária",
+      "question": "O queijo halloumi, tradicionalmente conhecido por seu alto ponto de fusão e por ser ideal para grelhar, é originário de qual ilha mediterrânea?",
+      "options": [
+        "Sardenha",
+        "Chipre",
+        "Sicília",
+        "Creta"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O halloumi é produzido na ilha de Chipre há séculos, tradicionalmente usando uma mistura de leite de cabra e de ovelha."
+    },
+    {
+      "category": "animais",
+      "question": "Qual é o substantivo coletivo exclusivo usado para descrever um grupo de rinocerontes?",
+      "options": [
+        "Alcatéia",
+        "Rebanho",
+        "Crash (bando/tropel)",
+        "Manada"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Um grupo de rinocerontes é chamado de crash em inglês, o que descreve perfeitamente seus movimentos potentes e, às vezes, surpreendentemente rápidos."
+    },
+    {
+      "category": "esportes",
+      "question": "No rugby union internacional, quantos pontos são concedidos por um chute penal bem-sucedido?",
+      "options": [
+        "5",
+        "3",
+        "7",
+        "2"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Um chute penal no rugby union vale 3 pontos, o mesmo valor de um drop goal padrão durante a partida aberta."
+    },
+    {
+      "category": "idioma",
+      "question": "Qual é o termo linguístico para uma palavra que tem a mesma pronúncia que outra, mas significado e grafia diferentes?",
+      "options": [
+        "Homógrafo",
+        "Heterônimo",
+        "Homônimo",
+        "Homófono"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Palavras como 'acento' e 'assento' são exemplos clássicos de homófonos (ou homófonas) porque soam de forma idêntica, apesar de terem grafias diferentes."
+    },
+    {
+      "category": "espaço",
+      "question": "Qual planeta do nosso sistema solar possui o campo magnético mais forte em relação ao seu tamanho?",
+      "options": [
+        "Júpiter",
+        "Mercúrio",
+        "Terra",
+        "Saturno"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Embora Júpiter tenha o campo magnético geral mais forte, o campo magnético da Terra é surpreendentemente o mais forte entre os planetas rochosos terrestres."
+    },
+    {
+      "category": "geografia",
+      "question": "O Lago Baikal, na Sibéria, detém aproximadamente qual porcentagem da água doce superficial não congelada do mundo?",
+      "options": [
+        "50%",
+        "20%",
+        "1%",
+        "5%"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Apesar de conter cerca de 20% da água doce superficial do mundo, o Lago Baikal possui aproximadamente o mesmo volume de água que todos os cinco Grandes Lagos da América do Norte juntos."
+    }
+  ]
+}

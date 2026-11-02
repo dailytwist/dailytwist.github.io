@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-02",
+  "title": "Tägliches Allgemeinwissen-Quiz: 2. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches afrikanische Land hat die meisten Amtssprachen und erkennt derzeit sechzehn verschiedene Sprachen an?",
+      "options": [
+        "Äthiopien",
+        "Simbabwe",
+        "Nigeria",
+        "Südafrika"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Simbabwe erkennt in seiner Verfassung offiziell sechzehn Sprachen an, darunter Englisch, Shona und Ndebele."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist der härteste Knochen im menschlichen Körper?",
+      "options": [
+        "Unterkiefer",
+        "Schläfenbein",
+        "Oberschenkelknochen",
+        "Schienbein"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Der Felsenbeinteil des Schläfenbeins an der Schädelbasis ist der dichteste und härteste Knochen des menschlichen Körpers."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Welche beiden kolonialen Hauptrivalen standen sich im 18. Jahrhundert im Siebenjährigen Krieg in einem weltweiten Konflikt gegenüber?",
+      "options": [
+        "Großbritannien und Frankreich",
+        "Frankreich und Spanien",
+        "Spanien und Portugal",
+        "Niederlande und Großbritannien"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Winston Churchill bezeichnete den Siebenjährigen Krieg wegen seiner weltweiten Kriegsschauplätze berühmt als den ersten „Weltkrieg“."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "In welchem psychologischen Thriller von Regisseur Francis Ford Coppola aus dem Jahr 1974 spielt Gene Hackman einen einsamen Überwachungsexperten?",
+      "options": [
+        "Zeuge einer Verschwörung",
+        "Blow Out",
+        "Klute",
+        "Der Dialog"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Francis Ford Coppola schrieb das Drehbuch zu Der Dialog in den späten 1960er Jahren und ließ sich dabei stark von dem Filmklassiker Blow-Up inspirieren."
+    },
+    {
+      "category": "Essen",
+      "question": "Von welcher Mittelmeerinsel stammt der Halloumi-Käse, der traditionell für seinen hohen Schmelzpunkt und seine Eignung zum Grillen bekannt ist?",
+      "options": [
+        "Sardinien",
+        "Zypern",
+        "Sizilien",
+        "Kreta"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Halloumi wird seit Jahrhunderten auf der Insel Zypern hergestellt, traditionell aus einer Mischung aus Ziegen- und Schafsmilch."
+    },
+    {
+      "category": "Tiere",
+      "question": "Wie lautet die spezielle Gruppenbezeichnung für eine Gruppe von Nashörnern?",
+      "options": [
+        "Rotte",
+        "Schar",
+        "Crash",
+        "Herde"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Eine Gruppe von Nashörnern wird auf Englisch als „crash“ (Crash) bezeichnet, was ihre wuchtigen und bisweilen überraschend schnellen Bewegungen treffend beschreibt."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Punkte gibt es im internationalen Rugby Union für einen erfolgreichen Straftritt?",
+      "options": [
+        "5",
+        "3",
+        "7",
+        "2"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Ein Straftritt im Rugby Union bringt 3 Punkte, genau wie ein Standard-Dropgoal aus dem laufenden Spiel heraus."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie lautet der sprachwissenschaftliche Begriff für ein Wort, das genauso klingt wie ein anderes Wort, aber eine andere Bedeutung und Schreibweise hat?",
+      "options": [
+        "Homograf",
+        "Heteronym",
+        "Homonym",
+        "Homophon"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Wörter wie das englische ‚bare‘ und ‚bear‘ sind klassische Beispiele für Homophone, da sie trotz unterschiedlicher Schreibweise identisch klingen."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Planet in unserem Sonnensystem hat bezogen auf seine Größe das stärkste Magnetfeld?",
+      "options": [
+        "Jupiter",
+        "Merkur",
+        "Erde",
+        "Saturn"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Während Jupiter das insgesamt stärkste Magnetfeld besitzt, ist das der Erde überraschenderweise das stärkste unter den Gesteinsplaneten."
+    },
+    {
+      "category": "Geografie",
+      "question": "Etwa wie viel Prozent des ungefrorenen Oberflächen-Süßwassers der Erde enthält der Baikalsee in Sibirien?",
+      "options": [
+        "50%",
+        "20%",
+        "1%",
+        "5%"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Obwohl der Baikalsee etwa 20 Prozent des weltweiten Oberflächen-Süßwassers enthält, hat er in etwa dasselbe Wasservolumen wie alle fünf nordamerikanischen Großen Seen zusammen."
+    }
+  ]
+}
