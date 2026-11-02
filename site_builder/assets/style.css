@@ -764,3 +764,4 @@ p{color:color-mix(in srgb,var(--ink) 92%,var(--bg))}
 .td-pick{margin-top:12px}.td-pick p{margin:0 0 6px;font-weight:600}
 .td-signs .mchip{cursor:pointer;font:600 .9rem var(--text);padding:6px 12px}
 @media (max-width:520px){.td-sign{grid-column:auto}.td-grid{grid-template-columns:1fr 1fr}.td-sign,.td-word{grid-column:1/-1}}
+.flagi{display:inline-block;width:auto;height:1em;vertical-align:-.12em;border-radius:2px}

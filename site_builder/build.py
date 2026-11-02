@@ -1317,7 +1317,7 @@ q.oninput=go}})();</script>""", priority="0.3")
 
     # prayer times: calculated in the browser for each city
     ci = {"en": 1, "ar": 2, "fr": 3, "es": 4}.get(lang, 1)
-    flag = lambda cc: "".join(chr(0x1F1E6 + ord(c) - 65) for c in cc)
+    flag = lambda cc: f'<img class="flagi" src="/assets/flags/{cc.lower()}.png" alt="{cc}" width="22" height="16" loading="lazy">'  # images: Windows shows emoji flags as letters
     pnames = {n: T(lang, "pt_" + n) for n in ("fajr", "sunrise", "dhuhr", "asr", "maghrib", "isha")}
     ptl = {**pnames, "next": T(lang, "pt_next"), "here": T(lang, "pt_here")}
     icons = {"fajr": "🌄", "sunrise": "🌅", "dhuhr": "☀️", "asr": "🌤️", "maghrib": "🌇", "isha": "🌙"}
