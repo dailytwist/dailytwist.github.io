@@ -1697,6 +1697,13 @@ def main():
             '<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel>'
             f"<title>{e(SITE)}</title><link>{e(URL)}{P(lang)}/</link><description>{e(T(lang, 'tagline'))}</description>"
             f"<language>{lang}</language>{''.join(items)}</channel></rss>", encoding="utf-8")
+    try:
+        import sys as _sys
+        _sys.path.insert(0, str(HERE))
+        import pins
+        print(f"Pinterest pins: {pins.build(DATA['en']['articles'], OUT, URL, SITE)}")
+    except Exception as ex:  # never let Pinterest images break the site build
+        print("pins: skipped:", ex)
     urls = []
     for loc, pri, alts in sitemap:
         if not loc:  # duplicate of another page: not listed

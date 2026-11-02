@@ -40,6 +40,10 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install Pillow (Pinterest images)
+        continue-on-error: true
+        run: pip install --quiet pillow
+
       - name: AI agent writes today's content
         if: github.event_name != 'push'
         timeout-minutes: 140
