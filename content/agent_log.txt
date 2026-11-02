@@ -1,83 +1,81 @@
-- yearly topic 2027 aquarius career [fr]
+- yearly topic 2027 taurus love [de]
 ::warning::Gemini models available: gemini-2.5-flash, gemini-2.5-pro, gemini-2.5-flash-preview-tts, gemini-2.5-pro-preview-tts, gemma-4-26b-a4b-it, gemma-4-31b-it, gemini-flash-latest, gemini-flash-lite-latest, gemini-pro-latest, gemini-2.5-flash-lite, gemini-2.5-flash-image, gemini-3-flash-preview, gemini-3.1-pro-preview, gemini-3.1-pro-preview-customtools, gemini-3.1-flash-lite-preview, gemini-3.1-flash-lite, gemini-3-pro-image-preview, gemini-3-pro-image, nano-banana-pro-preview, gemini-3.1-flash-image-preview, gemini-3.1-flash-image, gemini-3.1-flash-lite-image, gemini-nano-banana-2.1, gemini-3.5-flash, gemini-3.5-flash-lite, gemini-omni-flash-preview, gemini-omni-1.1-flash, gemini-3.5-transcribe, gemini-3.6-flash, gemini-3.7-flash, gemini-3.8-flash, gemini-4-argon, lyria-3-clip-preview, lyria-3-pro-preview, lyria-3.5, gemini-3.1-flash-tts-preview, gemini-3.8-flash-tts, gemini-3.8-flash-lite-tts, gemini-robotics-er-2-preview, gemini-2.5-computer-use-preview-10-2025
 ::warning::using Gemini model: gemini-3.5-flash-lite
-  saved content/i18n/fr/yearly_topics/2027-aquarius-career.json
-- yearly topic 2027 aquarius money [fr]
-  saved content/i18n/fr/yearly_topics/2027-aquarius-money.json
-- yearly topic 2027 pisces love [fr]
-  saved content/i18n/fr/yearly_topics/2027-pisces-love.json
-- yearly topic 2027 pisces career [fr]
-  saved content/i18n/fr/yearly_topics/2027-pisces-career.json
-- yearly topic 2027 pisces money [fr]
-  saved content/i18n/fr/yearly_topics/2027-pisces-money.json
-- yearly topic 2027 aries love [de]
-  saved content/i18n/de/yearly_topics/2027-aries-love.json
-- yearly topic 2027 aries career [de]
-  saved content/i18n/de/yearly_topics/2027-aries-career.json
-- yearly topic 2027 aries money [de]
-  saved content/i18n/de/yearly_topics/2027-aries-money.json
-- guide birthday july-17
-  saved content/guides/birthday-july-17.json
-- guide birthday july-18
-  saved content/guides/birthday-july-18.json
-- guide birthday july-19
-  saved content/guides/birthday-july-19.json
-- guide birthday july-20
-  saved content/guides/birthday-july-20.json
-- guide birthday july-21
-  saved content/guides/birthday-july-21.json
-- guide birthday july-22
-  saved content/guides/birthday-july-22.json
-  saved content/i18n/es/guides/birthday-july-22.json
-  saved content/i18n/es/guides/birthday-july-17.json
-  saved content/i18n/es/guides/birthday-july-21.json
-  saved content/i18n/es/guides/birthday-july-18.json
-  saved content/i18n/es/guides/birthday-july-19.json
-  saved content/i18n/es/guides/birthday-july-20.json
-  saved content/i18n/es/names/farah.json
-  saved content/i18n/es/names/basma.json
-  saved content/i18n/es/names/nisrine.json
-  saved content/i18n/fr/guides/birthday-july-22.json
-  saved content/i18n/fr/guides/birthday-july-17.json
-  saved content/i18n/fr/guides/birthday-july-21.json
-  saved content/i18n/fr/guides/birthday-july-18.json
-  saved content/i18n/fr/guides/birthday-july-19.json
-  saved content/i18n/fr/guides/birthday-july-20.json
-  saved content/i18n/de/guides/birthday-july-22.json
-  saved content/i18n/de/guides/birthday-july-17.json
-  saved content/i18n/de/guides/birthday-july-21.json
-  saved content/i18n/pt/guides/birthday-july-22.json
-  saved content/i18n/pt/guides/birthday-july-17.json
-  saved content/i18n/pt/guides/birthday-july-21.json
-  saved content/i18n/pt/guides/birthday-july-18.json
-  saved content/i18n/pt/guides/birthday-july-19.json
-  saved content/i18n/pt/guides/birthday-july-13.json
-  saved content/i18n/it/guides/birthday-july-22.json
-  saved content/i18n/it/guides/birthday-july-17.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  saved content/i18n/it/guides/birthday-july-21.json
-  saved content/i18n/ja/guides/birthday-july-22.json
-  saved content/i18n/ja/guides/birthday-july-17.json
-  saved content/i18n/ja/guides/birthday-july-21.json
-  saved content/i18n/ar/guides/birthday-july-22.json
-  saved content/i18n/ar/guides/birthday-july-17.json
-  saved content/i18n/ar/guides/birthday-july-21.json
-  saved content/i18n/es/names/chloe.json
-  saved content/i18n/es/names/isabella.json
-  saved content/i18n/es/names/amelia.json
-  saved content/i18n/es/names/safae.json
-  saved content/i18n/es/names/luna.json
-  saved content/i18n/es/names/camille.json
-  saved content/i18n/es/articles/sagittarius-personality-strengths-weaknesses-explained.json
-  saved content/i18n/es/articles/what-is-the-dc-universe-a-guide-to-the-iconic-franchise.json
-  saved content/i18n/es/articles/a-guide-to-ai-games-on-steam-how-artificial-intelligence-works.json
-  saved content/i18n/fr/names/ida.json
-  saved content/i18n/fr/articles/who-is-the-longest-serving-member-of-the-grand-ole-opry.json
-  saved content/i18n/fr/articles/why-does-your-right-eye-twitch-the-science-explained.json
-  saved content/i18n/fr/articles/global-thanksgiving-traditions-and-their-fascinating-history.json
-  saved content/i18n/fr/names/larissa.json
-  saved content/i18n/fr/names/louise.json
-  saved content/i18n/de/guides/birthday-july-18.json
-  saved content/i18n/de/guides/birthday-july-14.json
+  saved content/i18n/de/yearly_topics/2027-taurus-love.json
+- yearly topic 2027 taurus career [de]
+  saved content/i18n/de/yearly_topics/2027-taurus-career.json
+- yearly topic 2027 taurus money [de]
+  saved content/i18n/de/yearly_topics/2027-taurus-money.json
+- yearly topic 2027 gemini love [de]
+  saved content/i18n/de/yearly_topics/2027-gemini-love.json
+- yearly topic 2027 gemini career [de]
+  saved content/i18n/de/yearly_topics/2027-gemini-career.json
+- yearly topic 2027 gemini money [de]
+  saved content/i18n/de/yearly_topics/2027-gemini-money.json
+- yearly topic 2027 cancer love [de]
+  saved content/i18n/de/yearly_topics/2027-cancer-love.json
+- yearly topic 2027 cancer career [de]
+  saved content/i18n/de/yearly_topics/2027-cancer-career.json
+- guide birthday july-23
+  saved content/guides/birthday-july-23.json
+- guide birthday july-24
+  saved content/guides/birthday-july-24.json
+- guide birthday july-25
+  saved content/guides/birthday-july-25.json
+- guide birthday july-26
+  saved content/guides/birthday-july-26.json
+- guide birthday july-27
+  saved content/guides/birthday-july-27.json
+- guide birthday july-28
+  saved content/guides/birthday-july-28.json
+  saved content/i18n/es/guides/birthday-july-28.json
+  saved content/i18n/es/guides/birthday-july-24.json
+  saved content/i18n/es/guides/birthday-july-27.json
+  saved content/i18n/es/guides/birthday-july-26.json
+  saved content/i18n/es/guides/birthday-july-25.json
+  saved content/i18n/es/guides/birthday-july-23.json
+  saved content/i18n/es/names/charlotte.json
+  saved content/i18n/es/names/jonas.json
+  saved content/i18n/es/names/oumaima.json
+  saved content/i18n/fr/guides/birthday-july-28.json
+  saved content/i18n/fr/guides/birthday-july-24.json
+  saved content/i18n/fr/guides/birthday-july-27.json
+  saved content/i18n/fr/guides/birthday-july-26.json
+  saved content/i18n/fr/guides/birthday-july-25.json
+  saved content/i18n/fr/guides/birthday-july-23.json
+  saved content/i18n/de/guides/birthday-july-28.json
+  saved content/i18n/de/guides/birthday-july-24.json
+  saved content/i18n/de/guides/birthday-july-27.json
+  saved content/i18n/pt/guides/birthday-july-28.json
+  saved content/i18n/pt/guides/birthday-july-24.json
+  saved content/i18n/pt/guides/birthday-july-27.json
+  saved content/i18n/pt/guides/birthday-july-26.json
+  saved content/i18n/pt/guides/birthday-july-25.json
+  saved content/i18n/pt/guides/birthday-july-23.json
+  saved content/i18n/it/guides/birthday-july-28.json
+  saved content/i18n/it/guides/birthday-july-24.json
+  saved content/i18n/it/guides/birthday-july-27.json
+  saved content/i18n/ja/guides/birthday-july-28.json
+  saved content/i18n/ja/guides/birthday-july-24.json
+  saved content/i18n/ja/guides/birthday-july-27.json
+  saved content/i18n/ar/guides/birthday-july-28.json
+  saved content/i18n/ar/guides/birthday-july-24.json
+  saved content/i18n/ar/guides/birthday-july-27.json
+  saved content/i18n/es/names/hiroshi.json
+  saved content/i18n/es/names/ikram.json
+  saved content/i18n/es/names/finn.json
+  saved content/i18n/es/names/kenji.json
+  saved content/i18n/es/names/milan.json
+  saved content/i18n/es/names/anton.json
+  saved content/i18n/es/names/dounia.json
+  saved content/i18n/es/names/takumi.json
+  saved content/i18n/es/names/leon.json
+  saved content/i18n/fr/names/lena.json
+  saved content/i18n/fr/names/valeria.json
+  saved content/i18n/fr/names/renata.json
+  saved content/i18n/fr/names/rose.json
+  saved content/i18n/fr/names/frieda.json
+  saved content/i18n/fr/names/matilde.json
+  saved content/i18n/de/guides/birthday-july-26.json
+  saved content/i18n/de/guides/birthday-july-25.json
 Agent finished.
