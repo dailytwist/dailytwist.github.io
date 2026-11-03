@@ -1,0 +1,53 @@
+{
+  "title": "La ciencia y la maravilla de la nevada explicadas",
+  "description": "Descubre cómo se forma la nieve, por qué cada copo es único y datos fascinantes sobre el fenómeno meteorológico más hipnotizante del invierno.",
+  "category": "Science",
+  "sections": [
+    {
+      "heading": "¿Qué es exactamente una nevada?",
+      "paragraphs": [
+        "Una nevada es una forma de precipitación compuesta por cristales de hielo que caen de la atmósfera. A diferencia de la lluvia, que comienza como cristales de hielo en lo alto de las nubes pero se convierte en agua líquida al atravesar capas de aire más templadas, la nieve se mantiene congelada durante todo su trayecto hacia el suelo. Esto ocurre cuando la temperatura de la atmósfera, desde las nubes hasta la superficie terrestre, está en el punto de congelación o por debajo de este (0 grados Celsius o 32 grados Fahrenheit).",
+        "El viaje de un copo de nieve comienza en lo alto de las nubes, donde el vapor de agua se condensa directamente en hielo alrededor de partículas microscópicas, como el polen o el polvo. Estos pequeños cristales de hielo crecen a medida que más vapor de agua se congela sobre ellos, hasta que finalmente adquieren el peso suficiente para caer hacia la tierra."
+      ]
+    },
+    {
+      "heading": "El mito del copo de nieve idéntico",
+      "paragraphs": [
+        "Uno de los datos invernales más conocidos es que no hay dos copos de nieve iguales. Aunque matemáticamente es posible que dos cristales de hielo sencillos experimenten exactamente las mismas condiciones atmosféricas y adopten formas idénticas, las probabilidades son astronómicamente bajas.",
+        "A medida que cae un copo de nieve, atraviesa zonas de temperatura y humedad en constante cambio. Debido a que estos microentornos varían de un segundo a otro, cada uno de los seis brazos del copo experimenta ritmos y patrones de crecimiento ligeramente diferentes. Este viaje complejo y caótico garantiza que los intrincados patrones hexagonales que vemos bajo el microscopio sean maravillosamente únicos."
+      ]
+    },
+    {
+      "heading": "Por qué la nieve suena silenciosa",
+      "paragraphs": [
+        "¿Alguna vez has notado lo inusualmente silencioso que se siente el mundo justo después de una fuerte nevada? Este fenómeno acústico no es solo una ilusión; la nieve fresca absorbe genuinamente el sonido. Cuando la nieve se acumula, crea una capa porosa y acolchada sobre el suelo, los árboles y los tejados.",
+        "Esta estructura suelta de cristales de hielo crea innumerables bolsas de aire diminutas que atrapan las ondas sonoras en lugar de dejar que reboten en superficies duras. Como resultado, la energía del sonido se disipa, creando una quietud apacible y amortiguada en todo el paisaje hasta que la nieve comienza a derretirse y volverse a congelar formando una costra dura que refleja el sonido."
+      ]
+    },
+    {
+      "heading": "Impactos culturales y ecológicos fascinantes",
+      "paragraphs": [
+        "Más allá de su belleza estética, la nieve desempeña un papel fundamental en los ecosistemas globales. En muchas regiones, las capas de nieve invernales actúan como reservas de agua naturales. A medida que las temperaturas suben en primavera y verano, la nieve acumulada se derrite de forma gradual, alimentando ríos, lagos y acuíferos que abastecen de agua potable y para la agricultura a millones de personas.",
+        "A nivel cultural, la nieve ha inspirado a generaciones de artistas, escritores y entusiastas del ocio. Desde los deportes de invierno como el esquí y el snowboard hasta las tradiciones infantiles de construir muñecos de nieve y atrapar copos con la lengua, la nieve transforma los paisajes cotidianos en áreas de juego y auténticos escenarios de cuento invernal."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Por qué la nieve es blanca si está hecha de hielo?",
+      "a": "Although individual ice crystals are transparent, snow appears white because of the way light interacts with its complex structure. Light passing through the countless facets of ice crystals is scattered in all directions. Because no single wavelength of light is absorbed more than others, all the colors combine to look white to the human eye."
+    },
+    {
+      "q": "¿Puede hacer tanto frío que no nieve?",
+      "a": "Technically, no, but heavy snowfall becomes very rare at extremely low temperatures. Cold air holds much less moisture than warm air. When temperatures drop far below freezing, the atmosphere lacks sufficient water vapor to form large amounts of snow, resulting in only very light, fine diamond dust crystals."
+    },
+    {
+      "q": "¿Cuánta agua contiene realmente un pie de nieve?",
+      "a": "The water content of snow varies greatly depending on the temperature at which it falls. On average, 10 inches of fresh snow equals about 1 inch of rain (a 10-to-1 ratio). However, very cold, dry snow might require 20 or 30 inches to equal an inch of water, while heavy, wet snow may have a ratio as low as 4-to-1."
+    }
+  ],
+  "slug": "the-science-and-wonder-of-snowfall-explained",
+  "date": "2026-10-28",
+  "topic": "snowfall",
+  "trending": true
+}
