@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-03",
+  "title": "Quiz Quotidiano di Cultura Generale: 3 Novembre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Quale paese vanta la costa più lunga del mondo?",
+      "options": [
+        "Russia",
+        "Canada",
+        "Indonesia",
+        "Australia"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Il Canada è bagnato da tre oceani diversi e ha oltre 200.000 chilometri di coste."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è il simbolo chimico dell'oro?",
+      "options": [
+        "Ag",
+        "Gd",
+        "Au",
+        "Go"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il simbolo 'Au' deriva dalla parola latina 'aurum', che significa 'alba splendente'."
+    },
+    {
+      "category": "storia",
+      "question": "Chi è stato il primo imperatore dell'Impero Romano?",
+      "options": [
+        "Costantino il Grande",
+        "Giulio Cesare",
+        "Nerone",
+        "Augusto"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Augusto, originariamente chiamato Ottaviano, prese il potere dopo il crollo della Repubblica Romana in seguito all'assassinio di Giulio Cesare."
+    },
+    {
+      "category": "cinema e pop culture",
+      "question": "Quale film poliziesco del 1994 diretto da Quentin Tarantino intreccia le storie di gangster di Los Angeles e piccoli criminali?",
+      "options": [
+        "Heat",
+        "Pulp Fiction",
+        "Reservoir Dogs",
+        "Goodfellas"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Pulp Fiction ha rilanciato la carriera di John Travolta ed è diventato famoso per la sua narrazione non lineare e i suoi dialoghi iconici."
+    },
+    {
+      "category": "cucina",
+      "question": "Il formaggio feta è tradizionalmente fatto con latte di pecora o un misto di pecora e quale altro animale?",
+      "options": [
+        "Bufala",
+        "Mucca",
+        "Cammello",
+        "Capra"
+      ],
+      "answer_index": 3,
+      "fun_fact": "L'autentica Feta greca deve contenere almeno il 70 percento di latte di pecora, mentre la parte restante è latte di capra."
+    },
+    {
+      "category": "animali",
+      "question": "Qual è l'unico mammifero in grado di compiere un volo attivo e prolungato?",
+      "options": [
+        "Pipistrello",
+        "Colugo",
+        "Scoiattolo volante",
+        "Petauro dello zucchero"
+      ],
+      "answer_index": 0,
+      "fun_fact": "I pipistrelli appartengono all'ordine dei Chirotteri, che significa 'mano-ala', riflettendo la struttura ossea allungata delle loro ali."
+    },
+    {
+      "category": "sport",
+      "question": "Nel football americano, quanti punti vale un touchdown prima di qualsiasi tentativo di punto extra?",
+      "options": [
+        "3",
+        "7",
+        "6",
+        "4"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un touchdown vale 6 punti dal 1912, sebbene i valori dei punti per i calci e i punti extra siano cambiati nel corso dell'inizio del XX secolo."
+    },
+    {
+      "category": "linguistica",
+      "question": "Come si chiama lo studio dell'origine e dello sviluppo storico delle parole?",
+      "options": [
+        "Etimologia",
+        "Semantica",
+        "Sintassi",
+        "Fonetica"
+      ],
+      "answer_index": 0,
+      "fun_fact": "L'etimologia rintraccia le parole fino alle loro radici più antiche conosciute e spiega come i loro significati si siano evoluti nel corso dei secoli."
+    },
+    {
+      "category": "spazio",
+      "question": "Quale luna di Giove è il corpo celeste più geologicamente attivo del nostro sistema solare?",
+      "options": [
+        "Callisto",
+        "Ganimede",
+        "Europa",
+        "Io"
+      ],
+      "answer_index": 3,
+      "fun_fact": "L'intensa attività vulcanica di Io è alimentata dal riscaldamento mareale derivante dalle sue interazioni gravitazionali con Giove e altre grandi lune."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è il gas principale presente nell'atmosfera di Venere?",
+      "options": [
+        "Azoto",
+        "Metano",
+        "Ossigeno",
+        "Anidride Carbonica"
+      ],
+      "answer_index": 3,
+      "fun_fact": "L'anidride carbonica costituisce circa il 96,5 percento dell'atmosfera di Venere, creando un effetto serra galoppante che lo rende il pianeta più caldo."
+    }
+  ]
+}

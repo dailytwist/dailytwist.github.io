@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-03",
+  "title": "Daily General Knowledge Quiz: November 03, 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Which country features the longest coastline in the world?",
+      "options": [
+        "Russia",
+        "Canada",
+        "Indonesia",
+        "Australia"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Canada is bordered by three different oceans and has over 200,000 kilometers of coastline."
+    },
+    {
+      "category": "science",
+      "question": "What is the chemical symbol for gold?",
+      "options": [
+        "Ag",
+        "Gd",
+        "Au",
+        "Go"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The symbol 'Au' is derived from the Latin word 'aurum', meaning 'shining dawn'."
+    },
+    {
+      "category": "history",
+      "question": "Who was the first Emperor of the Roman Empire?",
+      "options": [
+        "Constantine the Great",
+        "Julius Caesar",
+        "Nero",
+        "Augustus"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Augustus, originally named Octavian, took power after the collapse of the Roman Republic following Julius Caesar's assassination."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Which 1994 crime film directed by Quentin Tarantino features intersecting stories of Los Angeles mobsters and petty criminals?",
+      "options": [
+        "Heat",
+        "Pulp Fiction",
+        "Reservoir Dogs",
+        "Goodfellas"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Pulp Fiction revitalized John Travolta's career and became famous for its nonlinear storytelling and iconic dialogue."
+    },
+    {
+      "category": "food",
+      "question": "Feta cheese is traditionally made from the milk of sheep or a mixture of sheep and which other animal?",
+      "options": [
+        "Water Buffalo",
+        "Cow",
+        "Camel",
+        "Goat"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Authentic Greek Feta must contain at least 70 percent sheep's milk, with the remainder being goat's milk."
+    },
+    {
+      "category": "animals",
+      "question": "What is the only mammal capable of sustained powered flight?",
+      "options": [
+        "Bat",
+        "Colugo",
+        "Flying Squirrel",
+        "Sugar Glider"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Bats are members of the order Chiroptera, meaning 'hand-wing', reflecting the elongated bone structure of their wings."
+    },
+    {
+      "category": "sports",
+      "question": "In American football, how many points is a touchdown worth before any extra point attempt?",
+      "options": [
+        "3",
+        "7",
+        "6",
+        "4"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A touchdown has been worth 6 points since 1912, though point values for kicks and extra points shifted over the early 20th century."
+    },
+    {
+      "category": "language",
+      "question": "What is the study of the origin and historical development of words called?",
+      "options": [
+        "Etymology",
+        "Semantics",
+        "Syntax",
+        "Phonetics"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Etymology traces words back to their earliest known roots and how their meanings evolved over centuries."
+    },
+    {
+      "category": "space",
+      "question": "Which moon of Jupiter is the most volcanically active body in our solar system?",
+      "options": [
+        "Callisto",
+        "Ganymede",
+        "Europa",
+        "Io"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Io's extreme volcanic activity is driven by tidal heating resulting from its gravitational interactions with Jupiter and other large moons."
+    },
+    {
+      "category": "science",
+      "question": "What is the primary gas found in the atmosphere of Venus?",
+      "options": [
+        "Nitrogen",
+        "Methane",
+        "Oxygen",
+        "Carbon Dioxide"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Carbon dioxide makes up about 96.5 percent of Venus's atmosphere, creating a runaway greenhouse effect that makes it the hottest planet."
+    }
+  ]
+}

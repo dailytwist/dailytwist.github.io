@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-03",
+  "title": "Test de Cultura General Diario: 03 de noviembre de 2026",
+  "questions": [
+    {
+      "category": "geografía",
+      "question": "¿Qué país cuenta con la costa más larga del mundo?",
+      "options": [
+        "Rusia",
+        "Canadá",
+        "Indonesia",
+        "Australia"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Canadá está bañado por tres océanos diferentes y tiene más de 200 000 kilómetros de costa."
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Cuál es el símbolo químico del oro?",
+      "options": [
+        "Ag",
+        "Gd",
+        "Au",
+        "Go"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El símbolo 'Au' proviene de la palabra en latín 'aurum', que significa 'amanecer brillante'."
+    },
+    {
+      "category": "historia",
+      "question": "¿Quién fue el primer emperador del Imperio romano?",
+      "options": [
+        "Constantino el Grande",
+        "Julio César",
+        "Nerón",
+        "Augusto"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Augusto, cuyo nombre original era Octavio, asumió el poder tras el colapso de la República romana a raíz del asesinato de Julio César."
+    },
+    {
+      "category": "cine y cultura pop",
+      "question": "¿Qué película policíaca de 1994 dirigida por Quentin Tarantino presenta historias entrelazadas de mafiosos de Los Ángeles y delincuentes de poca monta?",
+      "options": [
+        "Heat",
+        "Pulp Fiction",
+        "Reservoir Dogs",
+        "Uno de los nuestros"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Pulp Fiction revitalizó la carrera de John Travolta y se hizo famosa por su estructura narrativa no lineal y sus diálogos icónicos."
+    },
+    {
+      "category": "gastronomía",
+      "question": "El queso feta se elabora tradicionalmente con leche de oveja o con una mezcla de leche de oveja y de qué otro animal?",
+      "options": [
+        "Búfalo de agua",
+        "Vaca",
+        "Camello",
+        "Cabra"
+      ],
+      "answer_index": 3,
+      "fun_fact": "El auténtico queso feta griego debe contener al menos un 70 por ciento de leche de oveja, siendo el resto leche de cabra."
+    },
+    {
+      "category": "animales",
+      "question": "¿Cuál es el único mamífero capaz de volar por sus propios medios de forma sostenida?",
+      "options": [
+        "Murciélago",
+        "Colugo",
+        "Ardilla voladora",
+        "Petauro del azúcar"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Los murciélagos pertenecen al orden de los quirópteros, que significa 'mano-ala', reflejando la estructura ósea alargada de sus alas."
+    },
+    {
+      "category": "deportes",
+      "question": "En el fútbol americano, ¿cuántos puntos vale un touchdown antes de cualquier intento de punto extra?",
+      "options": [
+        "3",
+        "7",
+        "6",
+        "4"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un touchdown vale 6 puntos desde 1912, aunque el valor en puntos de las patadas y los puntos extra cambió a principios del siglo XX."
+    },
+    {
+      "category": "lengua",
+      "question": "¿Cómo se llama el estudio del origen y el desarrollo histórico de las palabras?",
+      "options": [
+        "Etimología",
+        "Semántica",
+        "Sintaxis",
+        "Fonética"
+      ],
+      "answer_index": 0,
+      "fun_fact": "La etimología rastrea las palabras hasta sus raíces más antiguas conocidas y cómo evolucionaron sus significados a lo largo de los siglos."
+    },
+    {
+      "category": "espacio",
+      "question": "¿Qué luna de Júpiter es el cuerpo celeste con mayor actividad volcánica de nuestro sistema solar?",
+      "options": [
+        "Calisto",
+        "Ganímedes",
+        "Europa",
+        "Ío"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La intensa actividad volcánica de Ío es impulsada por el calentamiento de marea resultante de sus interacciones gravitatorias con Júpiter y otras grandes lunas."
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Cuál es el gas principal que se encuentra en la atmósfera de Venus?",
+      "options": [
+        "Nitrógeno",
+        "Metano",
+        "Oxígeno",
+        "Dióxido de carbono"
+      ],
+      "answer_index": 3,
+      "fun_fact": "El dióxido de carbono constituye aproximadamente el 96,5 por ciento de la atmósfera de Venus, lo que genera un efecto invernadero desbocado que lo convierte en el planeta más caliente."
+    }
+  ]
+}

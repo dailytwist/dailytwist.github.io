@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-03",
+  "title": "Quiz quotidien de culture générale : 3 novembre 2026",
+  "questions": [
+    {
+      "category": "géographie",
+      "question": "Quel pays possède le plus long littoral au monde ?",
+      "options": [
+        "Russie",
+        "Canada",
+        "Indonésie",
+        "Australie"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Le Canada est bordé par trois océans différents et possède plus de 200 000 kilomètres de côtes."
+    },
+    {
+      "category": "science",
+      "question": "Quel est le symbole chimique de l'or ?",
+      "options": [
+        "Ag",
+        "Gd",
+        "Au",
+        "Go"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le symbole « Au » vient du mot latin « aurum », qui signifie « aube brillante »."
+    },
+    {
+      "category": "histoire",
+      "question": "Qui a été le premier empereur de l'Empire romain ?",
+      "options": [
+        "Constantin le Grand",
+        "Jules César",
+        "Néron",
+        "Auguste"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Auguste, initialement nommé Octave, a pris le pouvoir après l'effondrement de la République romaine suite à l'assassinat de Jules César."
+    },
+    {
+      "category": "cinéma et pop culture",
+      "question": "Quel film policier de 1994 réalisé par Quentin Tarantino met en scène les histoires croisées de mafieux et de petits criminels de Los Angeles ?",
+      "options": [
+        "Heat",
+        "Pulp Fiction",
+        "Reservoir Dogs",
+        "Les Affranchis"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Pulp Fiction a relancé la carrière de John Travolta et est devenu célèbre pour sa narration non linéaire et ses dialogues cultes."
+    },
+    {
+      "category": "gastronomie",
+      "question": "Le fromage feta est traditionnellement fabriqué à partir de lait de brebis ou d'un mélange de brebis et de quel autre animal ?",
+      "options": [
+        "Buffle d'eau",
+        "Vache",
+        "Chameau",
+        "Chèvre"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La véritable feta grecque doit contenir au moins 70 pour cent de lait de brebis, le reste étant du lait de chèvre."
+    },
+    {
+      "category": "animaux",
+      "question": "Quel est le seul mammifère capable d'un vol actif et soutenu ?",
+      "options": [
+        "Chauve-souris",
+        "Cynocéphale",
+        "Écureuil volant",
+        "Petauriste"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Les chauves-souris appartiennent à l'ordre des Chiroptères, ce qui signifie « main-aile », en référence à la structure allongée des os de leurs ailes."
+    },
+    {
+      "category": "sports",
+      "question": "Au football américain, combien de points vaut un touchdown avant toute tentative de transformation ?",
+      "options": [
+        "3",
+        "7",
+        "6",
+        "4"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un touchdown vaut 6 points depuis 1912, bien que la valeur en points des coups de pied et des transformations ait évolué au début du XXe siècle."
+    },
+    {
+      "category": "langue",
+      "question": "Comment appelle-t-on l'étude de l'origine et de l'évolution historique des mots ?",
+      "options": [
+        "Étymologie",
+        "Sémantique",
+        "Syntaxe",
+        "Phonétique"
+      ],
+      "answer_index": 0,
+      "fun_fact": "L'étymologie remonte aux racines les plus anciennes des mots pour comprendre comment leur sens a évolué au fil des siècles."
+    },
+    {
+      "category": "espace",
+      "question": "Quel satellite de Jupiter est l'astre le plus volcaniquement actif de notre système solaire ?",
+      "options": [
+        "Callisto",
+        "Ganymède",
+        "Europe",
+        "Io"
+      ],
+      "answer_index": 3,
+      "fun_fact": "L'activité volcanique extrême d'Io est provoquée par un échauffement par effet de marée résultant de ses interactions gravitationnelles avec Jupiter et d'autres grandes lunes."
+    },
+    {
+      "category": "science",
+      "question": "Quel est le gaz principal présent dans l'atmosphère de Vénus ?",
+      "options": [
+        "Azote",
+        "Méthane",
+        "Oxygène",
+        "Dioxyde de carbone"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Le dioxyde de carbone représente environ 96,5 pour cent de l'atmosphère de Vénus, ce qui engendre un effet de serre emballé qui en fait la planète la plus chaude."
+    }
+  ]
+}

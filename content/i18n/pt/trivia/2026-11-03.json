@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-03",
+  "title": "Quiz Diário de Conhecimentos Gerais: 03 de novembro de 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Qual país possui a maior costa do mundo?",
+      "options": [
+        "Rússia",
+        "Canadá",
+        "Indonésia",
+        "Austrália"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O Canadá é banhado por três oceanos diferentes e possui mais de 200.000 quilômetros de litoral."
+    },
+    {
+      "category": "ciência",
+      "question": "Qual é o símbolo químico do ouro?",
+      "options": [
+        "Ag",
+        "Gd",
+        "Au",
+        "Go"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O símbolo 'Au' vem da palavra em latim 'aurum', que significa 'amanhecer brilhante'."
+    },
+    {
+      "category": "história",
+      "question": "Quem foi o primeiro Imperador do Império Romano?",
+      "options": [
+        "Constantino, o Grande",
+        "Júlio César",
+        "Nero",
+        "Augusto"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Augusto, originalmente chamado de Otaviano, assumiu o poder após o colapso da República Romana na sequência do assassinato de Júlio César."
+    },
+    {
+      "category": "filmes & cultura pop",
+      "question": "Qual filme policial de 1994 dirigido por Quentin Tarantino apresenta histórias cruzadas de mafiosos de Los Angeles e criminosos pés-de-chinelo?",
+      "options": [
+        "Fogo Contra Fogo",
+        "Pulp Fiction",
+        "Cães de Aluguel",
+        "Os Bons Companheiros"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Pulp Fiction revitalizou a carreira de John Travolta e ficou famoso por sua narrativa não linear e diálogos marcantes."
+    },
+    {
+      "category": "gastronomia",
+      "question": "O queijo feta é tradicionalmente feito com leite de ovelha ou uma mistura de ovelha e qual outro animal?",
+      "options": [
+        "Búfala",
+        "Vaca",
+        "Camelo",
+        "Cabra"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O autêntico feta grego deve conter pelo menos 70% de leite de ovelha, sendo o restante leite de cabra."
+    },
+    {
+      "category": "animais",
+      "question": "Qual é o único mamífero capaz de voar ativamente de forma sustentada?",
+      "options": [
+        "Morcego",
+        "Colugo",
+        "Esquilo-volante",
+        "Sugar Glider"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Os morcegos pertencem à ordem Chiroptera, que significa 'asa-mão', refletindo a estrutura óssea alongada de suas asas."
+    },
+    {
+      "category": "esportes",
+      "question": "No futebol americano, quantos pontos vale um touchdown antes de qualquer tentativa de ponto extra?",
+      "options": [
+        "3",
+        "7",
+        "6",
+        "4"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Um touchdown vale 6 pontos desde 1912, embora os valores dos pontos para chutes e pontos extras tenham mudado no início do século XX."
+    },
+    {
+      "category": "idioma",
+      "question": "Como se chama o estudo da origem e do desenvolvimento histórico das palavras?",
+      "options": [
+        "Etimologia",
+        "Semântica",
+        "Sintaxe",
+        "Fonética"
+      ],
+      "answer_index": 0,
+      "fun_fact": "A etimologia rastreia as palavras até suas raízes mais antigas conhecidas e como seus significados evoluíram ao longo dos séculos."
+    },
+    {
+      "category": "espaço",
+      "question": "Qual lua de Júpiter é o corpo celeste mais vulcanicamente ativo do nosso sistema solar?",
+      "options": [
+        "Calisto",
+        "Ganimedes",
+        "Europa",
+        "Io"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A atividade vulcânica extrema de Io é impulsionada pelo aquecimento de maré resultante de suas interações gravitacionais com Júpiter e outras grandes luas."
+    },
+    {
+      "category": "ciência",
+      "question": "Qual é o principal gás encontrado na atmosfera de Vênus?",
+      "options": [
+        "Nitrogênio",
+        "Metano",
+        "Oxigênio",
+        "Dióxido de Carbono"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O dióxido de carbono compõe cerca de 96,5% da atmosfera de Vênus, gerando um efeito estufa descontrolado que o torna o planeta mais quente."
+    }
+  ]
+}

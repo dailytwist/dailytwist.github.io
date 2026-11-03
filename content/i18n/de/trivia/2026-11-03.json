@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-03",
+  "title": "Tägliches Allgemeinwissen-Quiz: 03. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches Land hat die längste Küstenlinie der Welt?",
+      "options": [
+        "Russland",
+        "Kanada",
+        "Indonesien",
+        "Australien"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Kanada grenzt an drei verschiedene Ozeane und hat eine Küstenlinie von über 200.000 Kilometern."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Wie lautet das chemische Symbol für Gold?",
+      "options": [
+        "Ag",
+        "Gd",
+        "Au",
+        "Go"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Das Symbol ‚Au‘ leitet sich vom lateinischen Wort ‚aurum‘ ab, was ‚glänzende Morgenröte‘ bedeutet."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Wer war der erste Kaiser des Römischen Reiches?",
+      "options": [
+        "Konstantin der Große",
+        "Julius Cäsar",
+        "Nero",
+        "Augustus"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Augustus, der ursprünglich Octavian hieß, übernahm nach dem Zusammenbruch der Römischen Republik infolge der Ermordung von Julius Cäsar die Macht."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Welcher 1994 erschienene Kriminalfilm unter der Regie von Quentin Tarantino erzählt die miteinander verknüpften Geschichten von Gangstern und Kleinkriminellen in Los Angeles?",
+      "options": [
+        "Heat",
+        "Pulp Fiction",
+        "Reservoir Dogs",
+        "Goodfellas"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Pulp Fiction brachte John Travoltas Karriere wieder in Schwung und wurde berühmt für seine nicht-lineare Erzählweise und seine kultigen Dialoge."
+    },
+    {
+      "category": "Essen",
+      "question": "Feta-Käse wird traditionell aus Schafsmilch oder einer Mischung aus Schafsmilch und welcher anderen Tierart hergestellt?",
+      "options": [
+        "Wasserbüffel",
+        "Kuh",
+        "Kamel",
+        "Ziege"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Echter griechischer Feta muss mindestens 70 Prozent Schafsmilch enthalten, der Rest ist Ziegenmilch."
+    },
+    {
+      "category": "Tiere",
+      "question": "Welches ist das einzige Säugetier, das zu einem echten, aus eigener Kraft angetriebenen Flug fähig ist?",
+      "options": [
+        "Fledermaus",
+        "Gleitflieger",
+        "Gleithörnchen",
+        "Beutelgleiter"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Fledermäuse gehören zur Ordnung der Chiroptera, was ‚Handflügler‘ bedeutet und die verlängerte Knochenstruktur ihrer Flügel widerspiegelt."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Punkte ist ein Touchdown beim American Football vor jedem Extrapunktversuch wert?",
+      "options": [
+        "3",
+        "7",
+        "6",
+        "4"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Ein Touchdown ist seit 1912 6 Punkte wert, auch wenn sich die Punktewerte für Kicks und Extrapunkte im frühen 20. Jahrhundert noch verschoben."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie nennt man die Wissenschaft vom Ursprung und der historischen Entwicklung von Wörtern?",
+      "options": [
+        "Etymologie",
+        "Semantik",
+        "Syntax",
+        "Phonetik"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Die Etymologie spürt Wörtern bis zu ihren frühesten bekannten Wurzeln nach und untersucht, wie sich ihre Bedeutungen über Jahrhunderte hinweg entwickelt haben."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Mond des Jupiters ist der vulkanisch aktivste Himmelskörper in unserem Sonnensystem?",
+      "options": [
+        "Kallisto",
+        "Ganymed",
+        "Europa",
+        "Io"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Ios extreme vulkanische Aktivität wird durch Gezeitenkräfte angetrieben, die aus den Gravitationswechselwirkungen mit Jupiter und anderen großen Monden resultieren."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Welches ist das Hauptgas in der Atmosphäre der Venus?",
+      "options": [
+        "Stickstoff",
+        "Methan",
+        "Sauerstoff",
+        "Kohlenstoffdioxid"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Kohlenstoffdioxid macht etwa 96,5 Prozent der Venusatmosphäre aus, was zu einem unkontrollierten Treibhauseffekt führt, der sie zum heißesten Planeten macht."
+    }
+  ]
+}
