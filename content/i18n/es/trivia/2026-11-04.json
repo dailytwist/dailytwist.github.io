@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-04",
+  "title": "Desafío de Trivia Diario: 4 de noviembre de 2026",
+  "questions": [
+    {
+      "category": "geografía",
+      "question": "¿Qué país está completamente rodeado por Sudáfrica?",
+      "options": [
+        "Eswatini",
+        "Lesoto",
+        "Namibia",
+        "Botsuana"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Lesoto es una de las únicas tres naciones soberanas del mundo que están completamente enclavadas dentro de un solo país."
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Cuál es el símbolo químico del elemento plata?",
+      "options": [
+        "Ag",
+        "As",
+        "Si",
+        "Sr"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El símbolo Ag proviene de la palabra en latín para la plata, 'argentum'."
+    },
+    {
+      "category": "historia",
+      "question": "¿Quién era el principal líder de la Unión Soviética durante la crisis de los misiles en Cuba en 1962?",
+      "options": [
+        "Nikita Jrushchov",
+        "Vladímir Lenin",
+        "Iósif Stalin",
+        "Leonid Brézhnev"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Nikita Jrushchov protagonizó un tenso enfrentamiento diplomático de trece días con el presidente de los Estados Unidos, John F. Kennedy."
+    },
+    {
+      "category": "cine y cultura pop",
+      "question": "¿Qué película fantástica de 2001 presenta a un joven mago llamado Frodo Bolsón que tiene la misión de destruir el Anillo Único?",
+      "options": [
+        "Stardust",
+        "Harry Potter y la piedra filosofal",
+        "Las Crónicas de Narnia: El león, la bruja y el ropero",
+        "El Señor de los Anillos: La Comunidad del Anillo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Dirigida por Peter Jackson, la película se rodó en gran parte en su país natal, Nueva Zelanda."
+    },
+    {
+      "category": "gastronomía",
+      "question": "¿De qué región de Italia proviene principalmente el queso Parmigiano-Reggiano?",
+      "options": [
+        "Lombardía",
+        "Campania",
+        "Emilia-Romaña",
+        "Toscana"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El verdadero Parmigiano-Reggiano solo se puede producir legalmente en provincias específicas dentro de Emilia-Romaña y Mantua."
+    },
+    {
+      "category": "animales",
+      "question": "¿Cuál es el animal terrestre más rápido del mundo?",
+      "options": [
+        "Caballo cuarto de milla",
+        "Guepardo",
+        "Berrendo",
+        "León"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Un guepardo puede acelerar de 0 a 60 mph en tan solo tres segundos, rivalizando con los coches deportivos modernos."
+    },
+    {
+      "category": "deportes",
+      "question": "En el tenis, ¿qué término se utiliza para describir una puntuación de cero?",
+      "options": [
+        "Zero",
+        "Love",
+        "Duck",
+        "Nil"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Se cree ampliamente que el origen del término 'love' en el tenis proviene de la palabra francesa 'l'oeuf', que significa 'huevo', debido a su forma ovalada."
+    },
+    {
+      "category": "idiomas",
+      "question": "¿Cuál es el término lingüístico para las palabras que se escriben igual pero tienen significados diferentes según el contexto, como 'vela' (de cera) y 'vela' (de barco)?",
+      "options": [
+        "Homófono",
+        "Sinónimo",
+        "Antónimo",
+        "Homónimo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Los homónimos comparten tanto la misma ortografía como la pronunciación, lo que hace que el contexto sea fundamental para determinar su significado."
+    },
+    {
+      "category": "espacio",
+      "question": "¿Qué planeta de nuestro sistema solar gira de lado, teniendo una inclinación axial de unos 98 grados?",
+      "options": [
+        "Mercurio",
+        "Urano",
+        "Saturno",
+        "Neptuno"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Se cree que la extrema inclinación de Urano fue causada por una colisión masiva con un objeto del tamaño de la Tierra hace mucho tiempo."
+    },
+    {
+      "category": "geografía",
+      "question": "¿Con qué mar conecta el estrecho de Gibraltar el océano Atlántico?",
+      "options": [
+        "Mar Mediterráneo",
+        "Mar Rojo",
+        "Mar Negro",
+        "Mar Caspio"
+      ],
+      "answer_index": 0,
+      "fun_fact": "En su punto más estrecho, el estrecho de Gibraltar tiene solo unos 14 kilómetros (8.9 millas) de ancho, separando Europa de África."
+    }
+  ]
+}

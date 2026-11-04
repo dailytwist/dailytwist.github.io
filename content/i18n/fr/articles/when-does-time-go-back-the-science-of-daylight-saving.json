@@ -1,0 +1,53 @@
+{
+  "title": "Quand change-t-on d'heure ? La science derrière le passage à l'heure d'hiver",
+  "description": "Découvrez quand les montres reculent, l'histoire du changement d'heure et la science fascinante qui se cache derrière la gestion de nos horloges deux fois par an.",
+  "category": "Science",
+  "sections": [
+    {
+      "heading": "Comprendre le recul des horloges",
+      "paragraphs": [
+        "Quand on se demande « quand est-ce qu'on recule d'une heure », on fait presque toujours référence à la fin de l'heure d'été. Dans les régions qui appliquent ce système, les montres sont retardées d'une heure pendant les mois d'automne. Cette transition rétablit l'heure normale, offrant aux gens une heure de sommeil supplémentaire la nuit où le changement s'opère.",
+        "La date exacte varie selon les pays et les juridictions. Aux États-Unis et au Canada, ce changement a lieu le premier dimanche de novembre à 2h00 du matin, heure locale. Dans l'Union européenne et au Royaume-Uni, il intervient le dernier dimanche d'octobre. Comme la modification se produit au milieu de la nuit, la plupart des appareils numériques modernes gèrent la transition automatiquement, tandis que les horloges manuelles doivent être réglées avant d'aller se coucher ou le lendemain matin."
+      ]
+    },
+    {
+      "heading": "L'histoire cachée du changement d'heure",
+      "paragraphs": [
+        "L'idée de manipuler le temps pour mieux profiter de la lumière du jour possède une histoire étonnamment longue. Si des civilisations antiques comme les Romains modifiaient leurs journées en fonction de l'ensoleillement plutôt que d'heures fixes, l'heure d'été moderne a été officiellement proposée à la fin du XIXe siècle et au début du XXe.",
+        "L'entomologiste George Hudson a suggéré un décalage de deux heures en Nouvelle-Zélande en 1895 afin d'avoir plus de temps après le travail pour chasser les insectes. Dix ans plus tard, le constructeur britannique William Willett a, de son côté, défendu un système similaire pour éviter de gaspiller la lumière du jour en été. Ce dispositif a été adopté pour la première fois à l'échelle nationale par l'Allemagne et ses alliés en 1916, pendant la Première Guerre mondiale, afin d'économiser du charbon pour l'effort de guerre. De nombreuses autres nations, dont les États-Unis et le Royaume-Uni, ont rapidement emboîté le pas."
+      ]
+    },
+    {
+      "heading": "Pourquoi reculons-nous encore nos montres ?",
+      "paragraphs": [
+        "À l'origine, le principal argument en faveur du changement d'heure était les économies d'énergie. En avançant les pendules au printemps, la société pouvait profiter davantage de la lumière naturelle du soir, réduisant ainsi le besoin d'éclairage artificiel à l'intérieur. Lorsque l'on recule d'une heure en automne, le cycle se réinitialise pour la saison hivernale.",
+        "Cependant, les études modernes sur les bienfaits énergétiques du changement d'heure donnent des résultats mitigés. Si la consommation d'énergie liée à l'éclairage diminue, les besoins en chauffage et en climatisation peuvent parfois augmenter selon la zone géographique et le climat. Au-delà de l'énergie, les partisans soulignent souvent que des soirées plus longues pendant les mois les plus chauds profitent aux loisirs en plein air, au tourisme et aux commerces de soirée."
+      ]
+    },
+    {
+      "heading": "Faits insolites sur le changement d'heure",
+      "paragraphs": [
+        "Toutes les régions ne participent pas au changement d'heure d'automne. Près de l'équateur terrestre, la durée du jour reste relativement constante toute l'année, ce qui rend le changement d'heure largement inutile. Par conséquent, des endroits comme Hawaï et une grande partie de l'Arizona aux États-Unis n'adoptent pas ces modifications et restent à l'heure normale toute l'année.",
+        "De plus, changer les horloges deux fois par an a des répercussions logistiques sur les infrastructures mondiales. Les compagnies aériennes, les réseaux ferroviaires et les marchés financiers internationaux doivent coordonner leurs horaires avec soin autour des dates de transition pour éviter les correspondances ratées et les erreurs de synchronisation. Cette complexité suscite des débats réguliers dans divers parlements à travers le monde sur l'opportunité d'abolir totalement cette pratique et de conserver un seul fuseau horaire toute l'année."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Quand remet-on les montres à l'heure en Amérique du Nord ?",
+      "a": "In the United States and Canada, clocks go back one hour on the first Sunday of November at 2:00 AM local time."
+    },
+    {
+      "q": "Est-ce que tous les états et provinces changent d'heure ?",
+      "a": "No. In the US, Hawaii and most of Arizona do not observe Daylight Saving Time, meaning they do not change their clocks in autumn or spring."
+    },
+    {
+      "q": "Pourquoi reculons-nous nos montres au lieu de rester à l'heure d'été toute l'année ?",
+      "a": "Falling back returns regions to standard time, aligning solar noon more closely with clock noon and providing daylight during early morning hours in the darker winter months."
+    }
+  ],
+  "slug": "when-does-time-go-back-the-science-of-daylight-saving",
+  "date": "2026-10-31",
+  "topic": "when does time go back",
+  "trending": true
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-04",
+  "title": "Sfida Trivia Quotidiana: 4 Novembre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Quale Paese è completamente circondato dal Sudafrica?",
+      "options": [
+        "Eswatini",
+        "Lesotho",
+        "Namibia",
+        "Botswana"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Il Lesotho è una delle uniche tre nazioni sovrane al mondo a essere interamente enclavate in un unico altro Paese."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è il simbolo chimico dell'argento?",
+      "options": [
+        "Ag",
+        "As",
+        "Si",
+        "Sr"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il simbolo Ag deriva dalla parola latina per argento, 'argentum'."
+    },
+    {
+      "category": "storia",
+      "question": "Chi era il principale leader dell'Unione Sovietica durante la crisi missilistica di Cuba nel 1962?",
+      "options": [
+        "Nikita Chruščëv",
+        "Vladimir Lenin",
+        "Josif Stalin",
+        "Leonid Brežnev"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Nikita Chruščëv fu protagonista di un teso braccio di ferro diplomatico durato tredici giorni con il presidente degli Stati Uniti John F. Kennedy."
+    },
+    {
+      "category": "cinema e pop culture",
+      "question": "In quale film fantastico del 2001 un giovane mago di nome Frodo Baggins ha il compito di distruggere l'Unico Anello?",
+      "options": [
+        "Stardust",
+        "Harry Potter e la pietra filosofale",
+        "Le cronache di Narnia: Il leone, la strega e l'armadio",
+        "Il Signore degli Anelli: La Compagnia dell'Anello"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Diretto da Peter Jackson, il film è stato girato in gran parte nel suo Paese natale, la Nuova Zelanda."
+    },
+    {
+      "category": "cucina",
+      "question": "Il Parmigiano-Reggiano è originario principalmente di quale regione italiana?",
+      "options": [
+        "Lombardia",
+        "Campania",
+        "Emilia-Romagna",
+        "Toscana"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il vero Parmigiano-Reggiano può essere prodotto legalmente solo in alcune province specifiche dell'Emilia-Romagna e di Mantova."
+    },
+    {
+      "category": "animali",
+      "question": "Qual è l'animale terrestre più veloce del mondo?",
+      "options": [
+        "Quarter Horse",
+        "Ghepardo",
+        "Antilocapra",
+        "Leone"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Un ghepardo può accelerare da 0 a 100 km/h in soli tre secondi, rivaleggiando con le moderne auto sportive."
+    },
+    {
+      "category": "sport",
+      "question": "Nel tennis, quale termine viene usato per indicare un punteggio pari a zero?",
+      "options": [
+        "Zero",
+        "Love",
+        "Duck",
+        "Nil"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Si ritiene comunemente che l'origine del termine 'love' nel tennis derivi dalla parola francese 'l'oeuf', che significa 'uovo', a causa della sua forma ovale."
+    },
+    {
+      "category": "lingua",
+      "question": "Qual è il termine linguistico per le parole che si scrivono e si pronunciano allo stesso modo ma hanno significati diversi a seconda del contesto, come 'riso' (il cereale) e 'riso' (l'atto di ridere)?",
+      "options": [
+        "Omofono",
+        "Sinonimo",
+        "Contrario",
+        "Omonimo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Gli omonimi condividono sia la stessa grafia che la stessa pronuncia, rendendo il contesto essenziale per determinarne il significato."
+    },
+    {
+      "category": "spazio",
+      "question": "Quale pianeta del nostro sistema solare ruota su un fianco, avendo un'inclinazione assiale di circa 98 gradi?",
+      "options": [
+        "Mercurio",
+        "Urano",
+        "Saturno",
+        "Nettuno"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Si pensa che l'estrema inclinazione di Urano sia stata causata da una massiccia collisione con un oggetto delle dimensioni della Terra avvenuta molto tempo fa."
+    },
+    {
+      "category": "geografia",
+      "question": "Lo stretto di Gibilterra collega l'Oceano Atlantico a quale mare?",
+      "options": [
+        "Mar Mediterraneo",
+        "Mar Rosso",
+        "Mar Nero",
+        "Mar Caspio"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Nel suo punto più stretto, lo stretto di Gibilterra è largo solo circa 14 chilometri e separa l'Europa dall'Africa."
+    }
+  ]
+}

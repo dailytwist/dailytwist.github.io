@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-04",
+  "title": "Daily Trivia Challenge: November 4, 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Which country is completely surrounded by South Africa?",
+      "options": [
+        "Eswatini",
+        "Lesotho",
+        "Namibia",
+        "Botswana"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Lesotho is one of only three sovereign nations in the world to be entirely enclaved by a single other country."
+    },
+    {
+      "category": "science",
+      "question": "What is the chemical symbol for the element silver?",
+      "options": [
+        "Ag",
+        "As",
+        "Si",
+        "Sr"
+      ],
+      "answer_index": 0,
+      "fun_fact": "The symbol Ag comes from the Latin word for silver, 'argentum'."
+    },
+    {
+      "category": "history",
+      "question": "Who was the primary leader of the Soviet Union during the Cuban Missile Crisis in 1962?",
+      "options": [
+        "Nikita Khrushchev",
+        "Vladimir Lenin",
+        "Joseph Stalin",
+        "Leonid Brezhnev"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Nikita Khrushchev famously engaged in a tense thirteen-day diplomatic standoff with U.S. President John F. Kennedy."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Which 2001 fantasy film features a young wizard named Frodo Baggins tasked with destroying the One Ring?",
+      "options": [
+        "Stardust",
+        "Harry Potter and the Sorcerer's Stone",
+        "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "The Lord of the Rings: The Fellowship of the Ring"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Directed by Peter Jackson, the film was largely shot in his home country of New Zealand."
+    },
+    {
+      "category": "food",
+      "question": "Parmigiano-Reggiano cheese originates primarily from which region of Italy?",
+      "options": [
+        "Lombardy",
+        "Campania",
+        "Emilia-Romagna",
+        "Tuscany"
+      ],
+      "answer_index": 2,
+      "fun_fact": "True Parmigiano-Reggiano can only legally be produced in specific provinces within Emilia-Romagna and Mantua."
+    },
+    {
+      "category": "animals",
+      "question": "What is the fastest land animal in the world?",
+      "options": [
+        "Quarter Horse",
+        "Cheetah",
+        "Pronghorn",
+        "Lion"
+      ],
+      "answer_index": 1,
+      "fun_fact": "A cheetah can accelerate from 0 to 60 mph in just three seconds, rivaling modern sports cars."
+    },
+    {
+      "category": "sports",
+      "question": "In the game of tennis, what term is used to describe a score of zero?",
+      "options": [
+        "Zero",
+        "Love",
+        "Duck",
+        "Nil"
+      ],
+      "answer_index": 1,
+      "fun_fact": "The origin of the term 'love' in tennis is widely believed to come from the French word 'l'oeuf', meaning 'egg', due to its oval shape."
+    },
+    {
+      "category": "language",
+      "question": "What is the linguistic term for words that sound the same as they are spelled, but have different meanings depending on context, such as 'bat' (the animal) and 'bat' (sports equipment)?",
+      "options": [
+        "Homophone",
+        "Synonym",
+        "Antonym",
+        "Homonym"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Homonyms share both the same spelling and pronunciation, making context essential for determining their meaning."
+    },
+    {
+      "category": "space",
+      "question": "Which planet in our solar system rotates on its side, having an axial tilt of about 98 degrees?",
+      "options": [
+        "Mercury",
+        "Uranus",
+        "Saturn",
+        "Neptune"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Uranus's extreme tilt is thought to have been caused by a massive collision with an Earth-sized object long ago."
+    },
+    {
+      "category": "geography",
+      "question": "The Strait of Gibraltar connects the Atlantic Ocean to which sea?",
+      "options": [
+        "Mediterranean Sea",
+        "Red Sea",
+        "Black Sea",
+        "Caspian Sea"
+      ],
+      "answer_index": 0,
+      "fun_fact": "At its narrowest point, the Strait of Gibraltar is only about 14 kilometers (8.9 miles) wide, separating Europe from Africa."
+    }
+  ]
+}

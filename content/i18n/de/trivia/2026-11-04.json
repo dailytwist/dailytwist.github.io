@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-04",
+  "title": "Tägliches Quiz-Duell: 4. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches Land ist vollständig von Südafrika umgeben?",
+      "options": [
+        "Eswatini",
+        "Lesotho",
+        "Namibia",
+        "Botswana"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Lesotho ist einer von weltweit nur drei souveränen Staaten, die vollständig von einem einzigen anderen Land umschlossen sind."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Wie lautet das chemische Symbol für das Element Silber?",
+      "options": [
+        "Ag",
+        "As",
+        "Si",
+        "Sr"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Das Symbol Ag leitet sich vom lateinischen Wort für Silber, „argentum“, ab."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Wer war während der Kubakrise 1962 der Hauptführer der Sowjetunion?",
+      "options": [
+        "Nikita Chruschow",
+        "Wladimir Lenin",
+        "Josef Stalin",
+        "Leonid Breschnew"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Nikita Chruschow lieferte sich bekanntermaßen ein dreitägiges, nervenaufreibendes diplomatisches Duell mit US-Präsident John F. Kennedy."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "In welchem Fantasyfilm aus dem Jahr 2001 macht sich ein junger Zauberer namens Frodo Beutlin auf, den Einen Ring zu zerstören?",
+      "options": [
+        "Der Sternenwanderer",
+        "Harry Potter und der Stein der Weisen",
+        "Die Chroniken von Narnia: Der König von Narnia",
+        "Der Herr der Ringe: Die Gefährten"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Unter der Regie von Peter Jackson wurde der Film größtenteils in dessen Heimatland Neuseeland gedreht."
+    },
+    {
+      "category": "Essen & Trinken",
+      "question": "Aus welcher Region Italiens stammt der Parmigiano-Reggiano (Parmesan) hauptsächlich?",
+      "options": [
+        "Lombardei",
+        "Kampanien",
+        "Emilia-Romagna",
+        "Toskana"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Echter Parmigiano-Reggiano darf laut Gesetz nur in bestimmten Provinzen der Emilia-Romagna und Mantua hergestellt werden."
+    },
+    {
+      "category": "Tiere",
+      "question": "Welches ist das schnellste Landtier der Welt?",
+      "options": [
+        "Quarter Horse",
+        "Gepard",
+        "Gabelbock",
+        "Löwe"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Ein Gepard kann in nur drei Sekunden von 0 auf 100 km/h beschleunigen und nimmt es damit mit modernen Sportwagen auf."
+    },
+    {
+      "category": "Sport",
+      "question": "Welcher Begriff wird beim Tennis verwendet, um einen Punktestand von Null zu beschreiben?",
+      "options": [
+        "Zero",
+        "Love",
+        "Duck",
+        "Nil"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Der Ursprung des Begriffs „love“ im Tennis geht vermutlich auf das französische Wort „l'oeuf“ (Ei) zurück, was wegen seiner ovalen Form so genannt wurde."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie lautet der sprachwissenschaftliche Begriff für Wörter, die gleich geschrieben werden und gleich klingen, aber je nach Kontext eine andere Bedeutung haben – wie zum Beispiel „Tau“ (Seil) und „Tau“ (Niederschlag)?",
+      "options": [
+        "Homophon",
+        "Synonym",
+        "Antonym",
+        "Homonym"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Homonyme haben sowohl dieselbe Schreibweise als auch Aussprache, weshalb der Kontext entscheidend ist, um ihre Bedeutung zu bestimmen."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Planet in unserem Sonnensystem rotiert quasi auf der Seite und hat eine Achsenneigung von etwa 98 Grad?",
+      "options": [
+        "Merkur",
+        "Uranus",
+        "Saturn",
+        "Neptun"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Man geht davon aus, dass die extreme Neigung des Uranus durch eine gewaltige Kollision mit einem erdgroßen Objekt vor langer Zeit verursacht wurde."
+    },
+    {
+      "category": "Geografie",
+      "question": "Die Straße von Gibraltar verbindet den Atlantischen Ozean mit welchem Meer?",
+      "options": [
+        "Mittelmeer",
+        "Rotes Meer",
+        "Schwarzes Meer",
+        "Kaspisches Meer"
+      ],
+      "answer_index": 0,
+      "fun_fact": "An ihrer schmalsten Stelle ist die Straße von Gibraltar nur etwa 14 Kilometer (8,9 Meilen) breit und trennt Europa von Afrika."
+    }
+  ]
+}

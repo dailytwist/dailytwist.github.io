@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-04",
+  "title": "Défi Trivia Quotidien : 4 novembre 2026",
+  "questions": [
+    {
+      "category": "géographie",
+      "question": "Quel pays est entièrement entouré par l'Afrique du Sud ?",
+      "options": [
+        "Eswatini",
+        "Lesotho",
+        "Namibie",
+        "Botswana"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Le Lesotho est l'un des trois seuls pays souverains au monde à être entièrement enclavés à l'intérieur d'un seul et unique autre pays."
+    },
+    {
+      "category": "sciences",
+      "question": "Quel est le symbole chimique de l'élément argent ?",
+      "options": [
+        "Ag",
+        "As",
+        "Si",
+        "Sr"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le symbole Ag vient du mot latin désignant l'argent, 'argentum'."
+    },
+    {
+      "category": "histoire",
+      "question": "Qui était le principal dirigeant de l'Union soviétique lors de la crise des missiles de Cuba en 1962 ?",
+      "options": [
+        "Nikita Khrouchtchev",
+        "Vladimir Lénine",
+        "Joseph Staline",
+        "Léonid Brejnev"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Nikita Khrouchtchev s'est livré à un bras de fer diplomatique tendu de treize jours avec le président américain John F. Kennedy."
+    },
+    {
+      "category": "films et culture pop",
+      "question": "Quel film fantastique de 2001 met en scène un jeune sorcier nommé Frodon Sacquet chargé de détruire l'Anneau Unique ?",
+      "options": [
+        "Stardust",
+        "Harry Potter à l'école des sorciers",
+        "Le Monde de Narnia : Le Lion, la Sorcière blanche et l'Armoire magique",
+        "Le Seigneur des anneaux : La Communauté de l'anneau"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Réalisé par Peter Jackson, le film a été en grande partie tourné dans son pays natal, la Nouvelle-Zélande."
+    },
+    {
+      "category": "gastronomie",
+      "question": "De quelle région d'Italie le parmesan (Parmigiano-Reggiano) est-il principalement originaire ?",
+      "options": [
+        "Lombardie",
+        "Campanie",
+        "Émilie-Romagne",
+        "Toscane"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le véritable Parmigiano-Reggiano ne peut légalement être produit que dans des provinces spécifiques de l'Émilie-Romagne et de Mantoue."
+    },
+    {
+      "category": "animaux",
+      "question": "Quel est l'animal terrestre le plus rapide au monde ?",
+      "options": [
+        "Quarter Horse",
+        "Guépard",
+        "Pronghorn",
+        "Lion"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Un guépard peut passer de 0 à 100 km/h en seulement trois secondes, rivalisant avec les voitures de sport modernes."
+    },
+    {
+      "category": "sports",
+      "question": "Au tennis, quel terme utilise-t-on pour désigner un score de zéro ?",
+      "options": [
+        "Zéro",
+        "Love",
+        "Canard",
+        "Nil"
+      ],
+      "answer_index": 1,
+      "fun_fact": "L'origine du terme 'love' au tennis proviendrait du mot français 'l'œuf', en raison de sa forme ovale."
+    },
+    {
+      "category": "langue",
+      "question": "Quel est le terme linguistique désignant des mots qui s'écrivent et se prononcent de la même manière, mais ont des sens différents selon le contexte, comme 'batterie' (l'instrument) et 'batterie' (accumulateur électrique) ?",
+      "options": [
+        "Homophone",
+        "Synonyme",
+        "Antonyme",
+        "Homonyme"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Les homonymes partagent à la fois la même orthographe et la même prononciation, ce qui rend le contexte essentiel pour déterminer leur sens."
+    },
+    {
+      "category": "espace",
+      "question": "Quelle planète de notre système solaire tourne sur le côté, avec une inclinaison axiale d'environ 98 degrés ?",
+      "options": [
+        "Mercure",
+        "Uranus",
+        "Saturne",
+        "Neptune"
+      ],
+      "answer_index": 1,
+      "fun_fact": "L'inclinaison extrême d'Uranus aurait été provoquée par une collision massive avec un objet de la taille de la Terre par le passé."
+    },
+    {
+      "category": "géographie",
+      "question": "Le détroit de Gibraltar relie l'océan Atlantique à quelle mer ?",
+      "options": [
+        "Mer Méditerranée",
+        "Mer Rouge",
+        "Mer Noire",
+        "Mer Caspienne"
+      ],
+      "answer_index": 0,
+      "fun_fact": "À son point le plus étroit, le détroit de Gibraltar ne mesure qu'environ 14 kilomètres (8,9 miles) de large, séparant l'Europe de l'Afrique."
+    }
+  ]
+}

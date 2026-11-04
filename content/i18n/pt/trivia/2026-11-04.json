@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-04",
+  "title": "Desafio de Trivia Diário: 4 de novembro de 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Qual país é completamente cercado pela África do Sul?",
+      "options": [
+        "Eswatini",
+        "Lesoto",
+        "Namíbia",
+        "Botswana"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O Lesoto é uma das únicas três nações soberanas no mundo a ser inteiramente enclavada por um único outro país."
+    },
+    {
+      "category": "science",
+      "question": "Qual é o símbolo químico para o elemento prata?",
+      "options": [
+        "Ag",
+        "As",
+        "Si",
+        "Sr"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O símbolo Ag vem da palavra em latim para prata, 'argentum'."
+    },
+    {
+      "category": "history",
+      "question": "Quem era o principal líder da União Soviética durante a Crise dos Mísseis de Cuba em 1962?",
+      "options": [
+        "Nikita Khrushchev",
+        "Vladimir Lenin",
+        "Joseph Stalin",
+        "Leonid Brezhnev"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Nikita Khrushchev travou um tenso impasse diplomático de treze dias com o presidente dos EUA, John F. Kennedy."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Qual filme de fantasia de 2001 apresenta um jovem bruxo chamado Frodo Baggins encarregado de destruir o Um Anel?",
+      "options": [
+        "Stardust",
+        "Harry Potter and the Sorcerer's Stone",
+        "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "The Lord of the Rings: The Fellowship of the Ring"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Dirigido por Peter Jackson, o filme foi amplamente gravado em seu país natal, a Nova Zelândia."
+    },
+    {
+      "category": "food",
+      "question": "O queijo Parmigiano-Reggiano origina-se principalmente de qual região da Itália?",
+      "options": [
+        "Lombardia",
+        "Campânia",
+        "Emília-Romanha",
+        "Toscana"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O verdadeiro Parmigiano-Reggiano só pode ser legalmente produzido em províncias específicas dentro da Emília-Romanha e Mântua."
+    },
+    {
+      "category": "animals",
+      "question": "Qual é o animal terrestre mais rápido do mundo?",
+      "options": [
+        "Quarto de Milha",
+        "Guepardo",
+        "Antilocapra",
+        "Leão"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Um guepardo pode acelerar de 0 a 96 km/h em apenas três segundos, rivalizando com carros esportivos modernos."
+    },
+    {
+      "category": "sports",
+      "question": "No jogo de tênis, qual termo é usado para descrever uma pontuação de zero?",
+      "options": [
+        "Zero",
+        "Love",
+        "Duck",
+        "Nil"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Acredita-se amplamente que a origem do termo 'love' no tênis venha da palavra francesa 'l'oeuf', que significa 'ovo', devido à sua forma oval."
+    },
+    {
+      "category": "language",
+      "question": "Qual é o termo linguístico para palavras que soam da mesma forma que são escritas, mas têm significados diferentes dependendo do contexto, como 'manga' (a fruta) e 'manga' (de uma camisa)?",
+      "options": [
+        "Homofone",
+        "Sinônimo",
+        "Antônimo",
+        "Homônimo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Os homônimos compartilham a mesma grafia e pronúncia, tornando o contexto essencial para determinar seu significado."
+    },
+    {
+      "category": "space",
+      "question": "Qual planeta do nosso sistema solar gira de lado, tendo uma inclinação axial de cerca de 98 graus?",
+      "options": [
+        "Mercúrio",
+        "Urano",
+        "Saturno",
+        "Netuno"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Acredita-se que a inclinação extrema de Urano tenha sido causada por uma colisão massiva com um objeto do tamanho da Terra há muito tempo."
+    },
+    {
+      "category": "geography",
+      "question": "O Estreito de Gibraltar conecta o Oceano Atlântico a qual mar?",
+      "options": [
+        "Mar Mediterrâneo",
+        "Mar Vermelho",
+        "Mar Negro",
+        "Mar Cáspio"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Em seu ponto mais estreito, o Estreito de Gibraltar tem apenas cerca de 14 quilômetros (8,9 milhas) de largura, separando a Europa da África."
+    }
+  ]
+}
