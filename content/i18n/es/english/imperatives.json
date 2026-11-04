@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-26",
+  "slug": "imperatives",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🛑",
+  "title": "Dar instrucciones: ¡Haz esto!",
+  "summary": "Aprende a usar los verbos en imperativo para decirle a la gente qué hacer. Practicarás cómo dar indicaciones y órdenes sencillas.",
+  "sections": [
+    {
+      "h": "¿Qué son los imperativos?",
+      "p": "Usamos los imperativos para decirle a alguien que haga algo. Son muy directos. Solo usas la forma base del verbo. No necesitas añadir palabras como 'tú'. Por ejemplo, en vez de decir 'Tú abres la puerta', simplemente dices 'Abre la puerta'. Usamos los imperativos para recetas, indicaciones en la calle y normas de clase.",
+      "ex": [
+        {
+          "en": "Open the window, please.",
+          "mean": "pedirle a alguien que abra la ventana"
+        },
+        {
+          "en": "Sit down on the chair.",
+          "mean": "decirle a alguien que tome asiento"
+        },
+        {
+          "en": "Listen to the teacher.",
+          "mean": "prestar atención a la persona que habla"
+        }
+      ]
+    },
+    {
+      "h": "Imperativos negativos",
+      "p": "Para decirle a alguien que NO haga algo, ponemos 'Don't' antes del verbo. 'Don't' es la abreviatura de 'Do not'. Es muy útil para normas de seguridad y advertencias. Puedes usarlo en casa, en el trabajo o en la calle.",
+      "ex": [
+        {
+          "en": "Don't touch that hot pan!",
+          "mean": "no pongas las manos en la sartén caliente"
+        },
+        {
+          "en": "Don't park your car here.",
+          "mean": "dejar tu coche en este lugar no está permitido"
+        },
+        {
+          "en": "Don't be late for class.",
+          "mean": "llegar a tiempo"
+        }
+      ]
+    },
+    {
+      "h": "Hacer que las instrucciones sean educadas",
+      "p": "Los imperativos a veces pueden sonar un poco bruscos. Para ser educados, normalmente añadimos la palabra 'please' al principio o al final de la frase. Añadir 'please' hace que la gente esté encantada de ayudarte.",
+      "ex": [
+        {
+          "en": "Please help me with this bag.",
+          "mean": "pedir ayuda amablemente"
+        },
+        {
+          "en": "Turn off the lights, please.",
+          "mean": "una petición educada para oscurecer la habitación"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "imperative",
+      "mean": "orden o instrucción"
+    },
+    {
+      "en": "verb",
+      "mean": "palabra de acción"
+    },
+    {
+      "en": "don't",
+      "mean": "no hagas"
+    },
+    {
+      "en": "please",
+      "mean": "palabra de cortesía"
+    },
+    {
+      "en": "turn left",
+      "mean": "ve hacia el lado izquierdo"
+    },
+    {
+      "en": "stop",
+      "mean": "no te muevas"
+    },
+    {
+      "en": "open",
+      "mean": "abrir algo"
+    },
+    {
+      "en": "listen",
+      "mean": "escuchar con atención"
+    }
+  ],
+  "tip": "¡Piensa en los libros de recetas o en los videojuegos! ¡Siempre usan palabras de acción cortas para decirte qué hacer a continuación!",
+  "quiz": [
+    {
+      "ask": "Elige la instrucción correcta",
+      "en": "___ the door, it is cold outside.",
+      "choices": [
+        "Close",
+        "Closing",
+        "Closes"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la instrucción negativa correcta",
+      "en": "___ run in the hospital corridor.",
+      "choices": [
+        "Not",
+        "Don't",
+        "No"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Completa la petición educada",
+      "en": "Please ___ quiet during the test.",
+      "choices": [
+        "are",
+        "is",
+        "be"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige el verbo correcto para una receta",
+      "en": "___ the eggs in a bowl.",
+      "choices": [
+        "Mix",
+        "Mixes",
+        "Mixed"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la advertencia correcta",
+      "en": "___ feed the animals at the zoo.",
+      "choices": [
+        "No",
+        "Not",
+        "Don't"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la instrucción correcta para conducir",
+      "en": "___ at the red traffic light.",
+      "choices": [
+        "Go",
+        "Stop",
+        "Walk"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

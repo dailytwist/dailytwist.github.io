@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-26",
+  "slug": "polite-requests",
+  "cefr": "A2",
+  "cat": "phrases",
+  "emoji": "🙋",
+  "title": "Pedir por favor: Could, Would y May",
+  "summary": "Aprende a pedir las cosas amablemente en inglés. Usarás could, would y may en tu día a día.",
+  "sections": [
+    {
+      "h": "Usa Could para peticiones corteses",
+      "p": "Usamos 'could' para pedir algo de manera educada. Suena más suave y amable que decir 'can'. Puedes usarlo al hablar con personas que no conoces muy bien, o en tiendas y restaurantes. Es muy común y útil para la vida diaria.",
+      "ex": [
+        {
+          "en": "Could you help me, please?",
+          "mean": "Por favor, ayúdame."
+        },
+        {
+          "en": "Could I have the menu?",
+          "mean": "Dame el menú, por favor."
+        }
+      ]
+    },
+    {
+      "h": "Usa Would para ofrecimientos y deseos",
+      "p": "Usamos 'would' para hacer preguntas educadas sobre lo que alguien quiere. A menudo decimos 'Would you like...?' (¿Te gustaría...?) cuando ofrecemos comida, bebida o ayuda a un amigo o cliente. Es una forma de hablar muy educada y amistosa.",
+      "ex": [
+        {
+          "en": "Would you like a cup of tea?",
+          "mean": "¿Quieres té?"
+        },
+        {
+          "en": "Would you open the window?",
+          "mean": "Por favor, abre la ventana."
+        }
+      ]
+    },
+    {
+      "h": "Usa May para pedir permiso formalmente",
+      "p": "Usamos 'may' cuando queremos pedir permiso de una forma muy educada o formal. Es ideal para oficinas, hoteles o para hablar con profesores y jefes. Suena un poco más serio que 'could', pero la gente lo usa todos los días.",
+      "ex": [
+        {
+          "en": "May I use your phone?",
+          "mean": "¿Puedo usar tu teléfono?"
+        },
+        {
+          "en": "May I come in?",
+          "mean": "¿Puedo entrar a la habitación?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Could",
+      "mean": "pasado educado de can"
+    },
+    {
+      "en": "Would",
+      "mean": "usado para ofrecimientos educados"
+    },
+    {
+      "en": "May",
+      "mean": "permiso muy educado"
+    },
+    {
+      "en": "Please",
+      "mean": "palabra para la educación o cortesía"
+    },
+    {
+      "en": "Permission",
+      "mean": "decir que sí para hacer algo"
+    },
+    {
+      "en": "Offer",
+      "mean": "dar ayuda o comida"
+    },
+    {
+      "en": "Formal",
+      "mean": "serio y correcto"
+    }
+  ],
+  "tip": "¡Imagina que 'May' viste un traje elegante para una reunión especial, y que 'Could' y 'Would' son tu ropa cómoda y amistosa de todos los días!",
+  "quiz": [
+    {
+      "ask": "Elige la palabra de cortesía correcta",
+      "en": "___ you help me carry this heavy bag, please?",
+      "choices": [
+        "Could",
+        "Do",
+        "Are"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige el mejor ofrecimiento educado",
+      "en": "___ you like some water?",
+      "choices": [
+        "Do",
+        "Would",
+        "Can"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra formal para pedir permiso",
+      "en": "___ I leave the room now?",
+      "choices": [
+        "Must",
+        "Will",
+        "May"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Completa la pregunta educada",
+      "en": "Could I ___ the bill, please?",
+      "choices": [
+        "have",
+        "has",
+        "having"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Selecciona el inicio correcto para un ofrecimiento educado",
+      "en": "Would you like ___ coffee?",
+      "choices": [
+        "an",
+        "a",
+        "some"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la petición educada correcta",
+      "en": "___ you please tell me the time?",
+      "choices": [
+        "Would",
+        "Could",
+        "Both are correct"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

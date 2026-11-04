@@ -1,93 +1,82 @@
-  8 trending topics after filtering
-- horoscopes 2026-11-04
+- yearly topic 2027 gemini career [es]
 ::warning::Gemini models available: gemini-2.5-flash, gemini-2.5-pro, gemini-2.5-flash-preview-tts, gemini-2.5-pro-preview-tts, gemma-4-26b-a4b-it, gemma-4-31b-it, gemini-flash-latest, gemini-flash-lite-latest, gemini-pro-latest, gemini-2.5-flash-lite, gemini-2.5-flash-image, gemini-3-flash-preview, gemini-3.1-pro-preview, gemini-3.1-pro-preview-customtools, gemini-3.1-flash-lite-preview, gemini-3.1-flash-lite, gemini-3-pro-image-preview, gemini-3-pro-image, nano-banana-pro-preview, gemini-3.1-flash-image-preview, gemini-3.1-flash-image, gemini-3.1-flash-lite-image, gemini-nano-banana-2.1, gemini-3.5-flash, gemini-3.5-flash-lite, gemini-omni-flash-preview, gemini-omni-1.1-flash, gemini-3.5-transcribe, gemini-3.6-flash, gemini-3.7-flash, gemini-3.8-flash, gemini-4-argon, lyria-3-clip-preview, lyria-3-pro-preview, lyria-3.5, gemini-3.1-flash-tts-preview, gemini-3.8-flash-tts, gemini-3.8-flash-lite-tts, gemini-robotics-er-2-preview, gemini-2.5-computer-use-preview-10-2025
 ::warning::using Gemini model: gemini-3.5-flash-lite
-  saved content/horoscopes/2026-11-04.json
-- trivia 2026-11-04
-  saved content/trivia/2026-11-04.json
-- choosing articles from trends for 2026-11-04
-  saved content/seeds_used.json
-  saved content/articles/tasseography-101-a-beginner-s-guide-to-reading-tea-leaves.json
-  saved content/articles/palm-reading-guide-heart-head-and-life-lines-explained.json
-  saved content/articles/what-your-aura-color-means-a-fun-guide-to-energy-fields.json
-- yearly topic 2027 pisces money [de]
-  saved content/i18n/de/yearly_topics/2027-pisces-money.json
-- yearly topic 2027 aries love [es]
-  saved content/i18n/es/yearly_topics/2027-aries-love.json
-- yearly topic 2027 aries career [es]
-  saved content/i18n/es/yearly_topics/2027-aries-career.json
-- yearly topic 2027 aries money [es]
+  saved content/i18n/es/yearly_topics/2027-gemini-career.json
+- yearly topic 2027 gemini money [es]
+  saved content/i18n/es/yearly_topics/2027-gemini-money.json
+- yearly topic 2027 cancer love [es]
+  saved content/i18n/es/yearly_topics/2027-cancer-love.json
+- yearly topic 2027 cancer career [es]
+  saved content/i18n/es/yearly_topics/2027-cancer-career.json
+- yearly topic 2027 cancer money [es]
+  saved content/i18n/es/yearly_topics/2027-cancer-money.json
+- yearly topic 2027 leo love [es]
+  saved content/i18n/es/yearly_topics/2027-leo-love.json
+- yearly topic 2027 leo career [es]
+  saved content/i18n/es/yearly_topics/2027-leo-career.json
+- yearly topic 2027 leo money [es]
+  saved content/i18n/es/yearly_topics/2027-leo-money.json
+- guide birthday august-22
+  saved content/guides/birthday-august-22.json
+- guide birthday august-23
+  saved content/guides/birthday-august-23.json
+- guide birthday august-24
   JSON was broken, asking once more
-  saved content/i18n/es/yearly_topics/2027-aries-money.json
-- yearly topic 2027 taurus love [es]
-  saved content/i18n/es/yearly_topics/2027-taurus-love.json
-- yearly topic 2027 taurus career [es]
-  saved content/i18n/es/yearly_topics/2027-taurus-career.json
-- yearly topic 2027 taurus money [es]
-  saved content/i18n/es/yearly_topics/2027-taurus-money.json
-- yearly topic 2027 gemini love [es]
-  saved content/i18n/es/yearly_topics/2027-gemini-love.json
-- guide birthday august-16
-  saved content/guides/birthday-august-16.json
-- guide birthday august-17
-  saved content/guides/birthday-august-17.json
-- guide birthday august-18
-  saved content/guides/birthday-august-18.json
-- guide birthday august-19
-  saved content/guides/birthday-august-19.json
-- guide birthday august-20
-  saved content/guides/birthday-august-20.json
-- guide birthday august-21
-  saved content/guides/birthday-august-21.json
-  JSON was broken, asking once more
-  saved content/i18n/es/horoscopes/2026-11-04.json
-  saved content/i18n/es/trivia/2026-11-04.json
-  saved content/i18n/es/guides/birthday-august-19.json
-  saved content/i18n/es/guides/birthday-august-16.json
-  saved content/i18n/es/guides/birthday-august-21.json
-  saved content/i18n/es/guides/birthday-august-20.json
-  saved content/i18n/es/guides/birthday-august-17.json
-  saved content/i18n/es/guides/birthday-august-18.json
-  saved content/i18n/es/articles/what-your-aura-color-means-a-fun-guide-to-energy-fields.json
-  saved content/i18n/fr/horoscopes/2026-11-04.json
-  saved content/i18n/fr/trivia/2026-11-04.json
-  saved content/i18n/fr/guides/birthday-august-19.json
-  saved content/i18n/fr/guides/birthday-august-16.json
-  saved content/i18n/fr/guides/birthday-august-21.json
-  saved content/i18n/fr/guides/birthday-august-20.json
-  saved content/i18n/de/horoscopes/2026-11-04.json
-  saved content/i18n/de/trivia/2026-11-04.json
-  saved content/i18n/de/guides/birthday-august-19.json
-  saved content/i18n/pt/horoscopes/2026-11-04.json
-  saved content/i18n/pt/trivia/2026-11-04.json
-  saved content/i18n/pt/guides/birthday-august-19.json
-  saved content/i18n/pt/guides/birthday-august-16.json
-  saved content/i18n/pt/guides/birthday-august-21.json
-  saved content/i18n/pt/guides/birthday-august-20.json
-  saved content/i18n/it/horoscopes/2026-11-04.json
-  saved content/i18n/it/trivia/2026-11-04.json
-  saved content/i18n/it/guides/birthday-august-19.json
-  saved content/i18n/ja/horoscopes/2026-11-04.json
-  saved content/i18n/ja/trivia/2026-11-04.json
-  saved content/i18n/ja/guides/birthday-august-19.json
-  saved content/i18n/ar/horoscopes/2026-11-04.json
-  saved content/i18n/ar/trivia/2026-11-04.json
-  saved content/i18n/ar/guides/birthday-august-19.json
-  saved content/i18n/es/articles/tasseography-101-a-beginner-s-guide-to-reading-tea-leaves.json
-  saved content/i18n/es/articles/palm-reading-guide-heart-head-and-life-lines-explained.json
-  saved content/i18n/es/names/hiba.json
-  saved content/i18n/es/names/imane.json
-  saved content/i18n/es/names/nicolas.json
-  saved content/i18n/es/names/lina.json
-  saved content/i18n/es/names/heitor.json
-  saved content/i18n/es/names/emil.json
-  saved content/i18n/es/articles/liev-schreiber-career-background-and-iconic-roles.json
-  saved content/i18n/fr/guides/birthday-august-17.json
-  saved content/i18n/fr/guides/birthday-august-18.json
-  saved content/i18n/fr/articles/what-your-aura-color-means-a-fun-guide-to-energy-fields.json
-  saved content/i18n/fr/articles/tasseography-101-a-beginner-s-guide-to-reading-tea-leaves.json
-  saved content/i18n/fr/articles/palm-reading-guide-heart-head-and-life-lines-explained.json
-  saved content/i18n/fr/articles/when-does-time-go-back-the-science-of-daylight-saving.json
-  saved content/i18n/de/guides/birthday-august-16.json
-  saved content/i18n/de/guides/birthday-august-21.json
+  saved content/guides/birthday-august-24.json
+- guide birthday august-25
+  saved content/guides/birthday-august-25.json
+- guide birthday august-26
+  saved content/guides/birthday-august-26.json
+- guide birthday august-27
+  saved content/guides/birthday-august-27.json
+  saved content/i18n/es/guides/birthday-august-25.json
+  saved content/i18n/es/guides/birthday-august-23.json
+  saved content/i18n/es/guides/birthday-august-24.json
+  saved content/i18n/es/guides/birthday-august-27.json
+  saved content/i18n/es/guides/birthday-august-26.json
+  saved content/i18n/es/guides/birthday-august-22.json
+  saved content/i18n/es/articles/friday-night-lights-the-cultural-phenomenon-explained.json
+  saved content/i18n/es/articles/aaron-sorkin-the-mind-behind-the-walk-and-talk.json
+  saved content/i18n/es/english/have-to-must.json
+  saved content/i18n/fr/guides/birthday-august-25.json
+  saved content/i18n/fr/guides/birthday-august-23.json
+  saved content/i18n/fr/guides/birthday-august-24.json
+  saved content/i18n/fr/guides/birthday-august-27.json
+  saved content/i18n/fr/guides/birthday-august-26.json
+  saved content/i18n/fr/guides/birthday-august-22.json
+  saved content/i18n/de/guides/birthday-august-18.json
+  saved content/i18n/de/guides/birthday-august-25.json
+  saved content/i18n/de/guides/birthday-august-20.json
+  saved content/i18n/pt/guides/birthday-august-18.json
+  saved content/i18n/pt/guides/birthday-august-25.json
+  saved content/i18n/pt/guides/birthday-august-23.json
+  saved content/i18n/pt/guides/birthday-august-17.json
+  saved content/i18n/pt/guides/birthday-august-24.json
+  saved content/i18n/pt/guides/birthday-august-27.json
+  saved content/i18n/it/guides/birthday-august-18.json
+  saved content/i18n/it/guides/birthday-august-25.json
+  saved content/i18n/it/guides/birthday-august-20.json
+  saved content/i18n/ja/guides/birthday-august-18.json
+  saved content/i18n/ja/guides/birthday-august-25.json
+  saved content/i18n/ja/guides/birthday-august-20.json
+  saved content/i18n/ar/guides/birthday-august-18.json
+  saved content/i18n/ar/guides/birthday-august-25.json
+  saved content/i18n/ar/guides/birthday-august-20.json
+  saved content/i18n/es/english/polite-requests.json
+  saved content/i18n/es/english/present-perfect.json
+  saved content/i18n/es/english/should-shouldnt.json
+  saved content/i18n/es/english/imperatives.json
+  saved content/i18n/es/names/jack.json
+  saved content/i18n/es/names/aicha.json
+  saved content/i18n/es/names/enzo.json
+  saved content/i18n/es/names/oscar.json
+  saved content/i18n/es/names/hamid.json
+  saved content/i18n/fr/names/zahra.json
+  saved content/i18n/fr/names/valentina.json
+  saved content/i18n/fr/names/paula.json
+  saved content/i18n/fr/names/jamila.json
+  saved content/i18n/fr/names/giulia.json
+  saved content/i18n/fr/names/isabel.json
+  saved content/i18n/de/guides/birthday-august-23.json
+  saved content/i18n/de/guides/birthday-august-17.json
 Agent finished.

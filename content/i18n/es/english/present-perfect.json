@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-26",
+  "slug": "present-perfect",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "✈️",
+  "title": "Experiencias de vida y noticias recientes: Ever, Already, Yet, Just",
+  "summary": "En esta lección aprenderás a hablar sobre experiencias de vida y acciones recientes usando el presente perfecto. Veremos cuatro palabras especiales: ever, already, yet y just.",
+  "sections": [
+    {
+      "h": "Hablando de experiencias de vida con 'Ever'",
+      "p": "Usamos 'ever' en preguntas para indagar sobre experiencias de vida hasta el momento. Significa 'alguna vez en la vida'. Colocamos 'ever' antes del verbo principal, justo después del sujeto. La respuesta suele darse en presente perfecto con 'have' o 'has', y a menudo usamos 'never' para decir que no.",
+      "ex": [
+        {
+          "en": "Have you ever eaten sushi?",
+          "mean": "¿En toda tu vida has comido sushi al menos una vez?"
+        },
+        {
+          "en": "She has never traveled to another country.",
+          "mean": "En ningún momento de su vida ha estado en el extranjero."
+        }
+      ]
+    },
+    {
+      "h": "Expresando rapidez con 'Already' y 'Just'",
+      "p": "Usamos 'already' para indicar que algo ocurrió antes de lo esperado. Usamos 'just' para hablar de una acción que terminó hace muy poco tiempo. Ambas palabras suelen colocarse entre 'have' y el verbo principal de la acción.",
+      "ex": [
+        {
+          "en": "I have already finished my homework.",
+          "mean": "Lo terminé antes de lo esperado."
+        },
+        {
+          "en": "He has just left the office.",
+          "mean": "Él se fue hace uno o dos minutos."
+        }
+      ]
+    },
+    {
+      "h": "Esperando cosas con 'Yet'",
+      "p": "Usamos 'yet' en preguntas y oraciones negativas para hablar de algo que esperamos que suceda pronto, pero que aún no ha ocurrido. 'Yet' siempre se coloca al final de la oración.",
+      "ex": [
+        {
+          "en": "Have you cooked dinner yet?",
+          "mean": "Estoy esperando la cena, ¿está lista ya?"
+        },
+        {
+          "en": "They haven't arrived yet.",
+          "mean": "Ellos no están aquí ahora, pero los esperamos pronto."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "ever",
+      "mean": "alguna vez"
+    },
+    {
+      "en": "never",
+      "mean": "nunca"
+    },
+    {
+      "en": "already",
+      "mean": "antes de lo esperado"
+    },
+    {
+      "en": "just",
+      "mean": "hace un momento"
+    },
+    {
+      "en": "yet",
+      "mean": "hasta ahora"
+    },
+    {
+      "en": "present perfect",
+      "mean": "have más verbo en pasado"
+    },
+    {
+      "en": "experience",
+      "mean": "algo que haces"
+    }
+  ],
+  "tip": "¡Recuerda que a 'yet' le encanta sentarse al final de las oraciones negativas y preguntas, mientras que a 'just' y 'already' les gusta quedarse cómodamente en el medio, justo al lado de 'have'!",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta para el espacio",
+      "en": "Have you ___ seen a kangaroo?",
+      "choices": [
+        "ever",
+        "yet",
+        "just",
+        "already"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta para el espacio",
+      "en": "I don't need a coffee, thanks. I have ___ had one.",
+      "choices": [
+        "yet",
+        "ever",
+        "already",
+        "never"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta para el espacio",
+      "en": "Where is Mark? He has ___ stepped out of the room.",
+      "choices": [
+        "yet",
+        "ever",
+        "just",
+        "never"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta para el espacio",
+      "en": "Has the bus arrived ___?",
+      "choices": [
+        "already",
+        "just",
+        "ever",
+        "yet"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Elige la palabra correcta para el espacio",
+      "en": "We haven't decided where to go on holiday ___.",
+      "choices": [
+        "yet",
+        "already",
+        "just",
+        "ever"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta para el espacio",
+      "en": "She has ___ been to Paris, and she wants to go again.",
+      "choices": [
+        "yet",
+        "already",
+        "ever",
+        "just"
+      ],
+      "answer_index": 1
+    }
+  ]
+}
