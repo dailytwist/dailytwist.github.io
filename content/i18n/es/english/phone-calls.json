@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-25",
+  "slug": "phone-calls",
+  "cefr": "A2",
+  "cat": "phrases",
+  "emoji": "📞",
+  "title": "Cómo hacer y contestar llamadas telefónicas",
+  "summary": "Aprende a saludar, preguntar por alguien y terminar una llamada telefónica en inglés. Estas frases sencillas te ayudarán a hablar por teléfono con total confianza.",
+  "sections": [
+    {
+      "h": "Contestar el teléfono",
+      "p": "Cuando suena el teléfono, debes saludar y decirle a la otra persona quién habla. Sé breve y amable. En el trabajo, también puedes decir el nombre de tu empresa. Al hablar con amigos, puedes usar expresiones más informales.",
+      "ex": [
+        {
+          "en": "Hello, this is Anna.",
+          "mean": "Saludar y decir tu nombre"
+        },
+        {
+          "en": "Hi, it is John.",
+          "mean": "Una forma amable de decir quién llama"
+        },
+        {
+          "en": "Good morning, Hotel Plaza.",
+          "mean": "Contestar de forma profesional en el trabajo"
+        }
+      ]
+    },
+    {
+      "h": "Preguntar por alguien",
+      "p": "Si quieres hablar con una persona en concreto, debes pedir por ella educadamente. Usamos verbos modales como 'can' o 'could' para sonar corteses. También puedes pedir dejar un mensaje si la persona no está.",
+      "ex": [
+        {
+          "en": "Can I speak to Mr. Davis, please?",
+          "mean": "Pedir hablar con alguien amablemente"
+        },
+        {
+          "en": "Is Sarah there, please?",
+          "mean": "Una forma más sencilla de preguntar por un amigo"
+        },
+        {
+          "en": "Could I leave a message?",
+          "mean": "Pedirle a la persona que le transmita algo más tarde"
+        }
+      ]
+    },
+    {
+      "h": "Terminar una llamada telefónica",
+      "p": "Cuando termines de hablar, debes despedirte con educación. Es un detalle agradable agradecer a la otra persona su tiempo o ayuda antes de colgar. Después ya puedes decir adiós.",
+      "ex": [
+        {
+          "en": "Thank you for your help. Goodbye!",
+          "mean": "Dar las gracias y terminar la llamada"
+        },
+        {
+          "en": "Talk to you soon. Bye!",
+          "mean": "Una forma amistosa de terminar una charla con un amigo"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "this is",
+      "mean": "decir tu nombre"
+    },
+    {
+      "en": "speak to",
+      "mean": "hablar con alguien"
+    },
+    {
+      "en": "leave a message",
+      "mean": "enviar información para más tarde"
+    },
+    {
+      "en": "call back",
+      "mean": "llamar por teléfono más tarde otra vez"
+    },
+    {
+      "en": "wrong number",
+      "mean": "llamar al teléfono incorrecto"
+    },
+    {
+      "en": "hold on",
+      "mean": "esperar un momento"
+    },
+    {
+      "en": "hang up",
+      "mean": "terminar la llamada telefónica"
+    }
+  ],
+  "tip": "Practica hablando en voz alta con tu teléfono frente a un espejo. Imagina que estás hablando con una persona real para relajarte más.",
+  "quiz": [
+    {
+      "ask": "Elige la mejor manera de contestar a una llamada telefónica en casa.",
+      "en": "Hello, ___ is Maria.",
+      "choices": [
+        "this",
+        "that",
+        "here"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra que falta para preguntar por alguien educadamente.",
+      "en": "___ I speak to David, please?",
+      "choices": [
+        "Do",
+        "Can",
+        "Are"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la frase correcta cuando alguien te pide que esperes.",
+      "en": "Please hold ___ a minute.",
+      "choices": [
+        "up",
+        "in",
+        "on"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige el significado correcto de 'wrong number'.",
+      "en": "You called the ___ person by mistake.",
+      "choices": [
+        "wrong",
+        "right",
+        "good"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la forma educada de pedir que se transmita información.",
+      "en": "Could I leave a ___?",
+      "choices": [
+        "letter",
+        "message",
+        "paper"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la mejor frase para terminar una llamada entre amigos.",
+      "en": "Talk to you ___! Bye!",
+      "choices": [
+        "later",
+        "soon",
+        "well"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-25",
+  "slug": "adverbs-of-frequency",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "⏰",
+  "title": "¿Con qué frecuencia lo haces?",
+  "summary": "Aprende a usar palabras como siempre, normalmente y nunca para hablar de tus hábitos diarios. Verás dónde colocar estas palabras en una oración.",
+  "sections": [
+    {
+      "h": "¿Qué son los adverbios de frecuencia?",
+      "p": "Usamos los adverbios de frecuencia para responder a la pregunta \"¿Con qué frecuencia haces algo?\". Estas palabras muestran cuántas veces realizas una acción. Del 100 por ciento al cero por ciento, las palabras cambian. Colocamos estas palabras antes de la mayoría de los verbos normales, como jugar, comer o ir. Ayudan a que la gente entienda tu rutina diaria y tus hábitos muy fácilmente en una conversación.",
+      "ex": [
+        {
+          "en": "I always drink coffee in the morning.",
+          "mean": "Hago esto todas las mañanas sin falta."
+        },
+        {
+          "en": "She never eats meat.",
+          "mean": "Ella no come carne bajo ningún concepto."
+        }
+      ]
+    },
+    {
+      "h": "De siempre a nunca",
+      "p": "Veamos la lista de mayor a menor. Siempre significa el cien por cien de las veces. Normalmente significa alrededor del ochenta por ciento. A menudo significa en torno al sesenta por ciento. A veces significa el cincuenta por ciento, o la mitad de las veces. Nunca significa cero por ciento. Conocer este orden te ayuda a hablar de tu horario y aficiones correctamente.",
+      "ex": [
+        {
+          "en": "We usually watch TV after dinner.",
+          "mean": "Hacemos esto la mayoría de los días, pero no todos."
+        },
+        {
+          "en": "They sometimes play tennis on Saturdays.",
+          "mean": "Ellos hacen esto algunos sábados, pero no todos."
+        }
+      ]
+    },
+    {
+      "h": "¿Dónde se coloca la palabra?",
+      "p": "En una oración sencilla, coloca la palabra de frecuencia justo antes del verbo de acción principal. Por ejemplo, di \"I often walk to work\". Pero recuerda el verbo \"to be\", como am, is o are. Cuando usas \"to be\", la palabra de frecuencia va después del verbo. Por ejemplo, di \"I am always happy\" o \"He is never late\".",
+      "ex": [
+        {
+          "en": "You are often late for class.",
+          "mean": "Llegas tarde muchos días."
+        },
+        {
+          "en": "He rarely eats fast food.",
+          "mean": "Él casi nunca come comida rápida."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "always",
+      "mean": "el 100 por ciento de las veces"
+    },
+    {
+      "en": "usually",
+      "mean": "la mayor parte del tiempo"
+    },
+    {
+      "en": "often",
+      "mean": "muchas veces"
+    },
+    {
+      "en": "sometimes",
+      "mean": "la mitad de las veces"
+    },
+    {
+      "en": "never",
+      "mean": "el 0 por ciento de las veces"
+    },
+    {
+      "en": "habit",
+      "mean": "algo que haces seguido"
+    },
+    {
+      "en": "routine",
+      "mean": "tu rutina diaria"
+    }
+  ],
+  "tip": "¡Dibuja una pequeña escalera en tu cuaderno. Pon \"always\" en la parte más alta y \"never\" en el fondo para recordar el orden fácilmente!",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta para el 100 por ciento",
+      "en": "I ___ brush my teeth before bed.",
+      "choices": [
+        "never",
+        "sometimes",
+        "always"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta para el 0 por ciento",
+      "en": "Fish can ___ fly in the sky.",
+      "choices": [
+        "never",
+        "often",
+        "usually"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la posición correcta con el verbo \"is\"",
+      "en": "Maria ___ late for work.",
+      "choices": [
+        "always is",
+        "is always",
+        "sometimes is"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta para aproximadamente el 50 por ciento",
+      "en": "I ___ eat fruit for breakfast.",
+      "choices": [
+        "always",
+        "sometimes",
+        "never"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la posición correcta con un verbo normal",
+      "en": "We ___ go to the park on Sundays.",
+      "choices": [
+        "often go",
+        "go often",
+        "are often"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta para aproximadamente el 80 por ciento",
+      "en": "He ___ drinks tea, but sometimes he drinks coffee.",
+      "choices": [
+        "never",
+        "always",
+        "usually"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

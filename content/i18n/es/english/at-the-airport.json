@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-25",
+  "slug": "at-the-airport",
+  "cefr": "A2",
+  "cat": "phrases",
+  "emoji": "✈️",
+  "title": "En el aeropuerto y en el avión",
+  "summary": "Aprende inglés fácil y útil para viajar en avión. Aprenderás a encontrar tu puerta de embarque y a hablar con los auxiliares de vuelo.",
+  "sections": [
+    {
+      "h": "Encontrando tu camino",
+      "p": "Cuando llegas al aeropuerto, necesitas encontrar tu puerta de embarque. La puerta es el lugar donde esperas antes de subir al avión. Mira las pantallas grandes para ver tu número de vuelo y la letra de la puerta. Si no la encuentras, pide ayuda al personal del aeropuerto.",
+      "ex": [
+        {
+          "en": "Where is gate number five?",
+          "mean": "Preguntar la ubicación de tu puerta de embarque"
+        },
+        {
+          "en": "My flight to Paris is at two o'clock.",
+          "mean": "Decirle a alguien la hora de tu vuelo y tu destino"
+        }
+      ]
+    },
+    {
+      "h": "En el mostrador de facturación",
+      "p": "Antes de ir al avión, debes pasar por el mostrador de facturación. Aquí le entregas tu pasaporte y billete al empleado. Ellos revisarán tus maletas. Te darán una tarjeta de embarque, que es un papel especial que debes mostrar antes de entrar al avión.",
+      "ex": [
+        {
+          "en": "Here is my passport and ticket.",
+          "mean": "Entregar tus documentos de viaje al empleado"
+        },
+        {
+          "en": "I have one suitcase to check.",
+          "mean": "Decirle al empleado cuántas maletas grandes tienes"
+        }
+      ]
+    },
+    {
+      "h": "En el avión",
+      "p": "Cuando estés dentro del avión, busca el número de tu asiento. Coloca tu bolso pequeño debajo del asiento de en frente o arriba, en el compartimento superior. Los auxiliares de vuelo son los trabajadores del avión. Están ahí para ayudarte y mantenerte seguro.",
+      "ex": [
+        {
+          "en": "Can I have some water, please?",
+          "mean": "Pedir una bebida a un auxiliar de vuelo"
+        },
+        {
+          "en": "Excuse me, where is seat twelve B?",
+          "mean": "Preguntar dónde se encuentra tu asiento específico"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "passport",
+      "mean": "tarjeta de identidad oficial de viaje"
+    },
+    {
+      "en": "boarding pass",
+      "mean": "billete para entrar al avión"
+    },
+    {
+      "en": "gate",
+      "mean": "puerta hacia el avión"
+    },
+    {
+      "en": "suitcase",
+      "mean": "bolso de viaje grande"
+    },
+    {
+      "en": "seat",
+      "mean": "lugar para sentarse"
+    },
+    {
+      "en": "flight attendant",
+      "mean": "trabajador en el avión"
+    },
+    {
+      "en": "ticket",
+      "mean": "papel para viajar"
+    }
+  ],
+  "tip": "¡Practica estas frases en voz alta antes de tu viaje. Imagina que estás hablando con un empleado real en el aeropuerto!",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta para la puerta hacia el avión",
+      "en": "Please go to ___ number four.",
+      "choices": [
+        "gate",
+        "seat",
+        "bag",
+        "desk"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige el nombre de documento correcto",
+      "en": "Here is my ___ and my ticket.",
+      "choices": [
+        "water",
+        "passport",
+        "plane",
+        "flight"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la pregunta de cortesía correcta",
+      "en": "___ I have some water, please?",
+      "choices": [
+        "Do",
+        "Are",
+        "Can",
+        "Is"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta para el trabajador en el avión",
+      "en": "The flight ___ helped me find my seat.",
+      "choices": [
+        "driver",
+        "teacher",
+        "attendant",
+        "doctor"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige el papel correcto que necesitas mostrar",
+      "en": "Show your ___ before you get on the plane.",
+      "choices": [
+        "boarding pass",
+        "suitcase",
+        "passport photo",
+        "money"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige el lugar correcto para sentarte",
+      "en": "My ___ number is ten A.",
+      "choices": [
+        "gate",
+        "seat",
+        "desk",
+        "bag"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

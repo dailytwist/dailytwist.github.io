@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-25",
+  "slug": "making-plans-with-friends",
+  "cefr": "A2",
+  "cat": "phrases",
+  "emoji": "🎉",
+  "title": "Invitar a gente: Sí y No",
+  "summary": "En esta lección aprenderás a invitar a tus amigos a hacer planes. También practicarás cómo decir que sí o que no de forma educada.",
+  "sections": [
+    {
+      "h": "Cómo hacer una invitación",
+      "p": "Cuando quieras pedirle a alguien que haga algo contigo, usa 'Would you like to...' o 'Do you want to...'. Son formas muy comunes y educadas de invitar a un amigo al cine, a cenar o a una fiesta. ¡Sonríe siempre y sé amable cuando lo pidas!",
+      "ex": [
+        {
+          "en": "Would you like to come to my party?",
+          "mean": "Invitar a alguien a tu fiesta educadamente"
+        },
+        {
+          "en": "Do you want to grab a coffee tomorrow?",
+          "mean": "Invitar a un amigo a tomar un café juntos"
+        }
+      ]
+    },
+    {
+      "h": "Cómo aceptar educadamente",
+      "p": "Cuando alguien te invite y estés libre, debes aceptar con alegría. ¡Da las gracias primero! Puedes usar expresiones como 'I'd love to' o 'That sounds great' para mostrar que te hace ilusión su invitación.",
+      "ex": [
+        {
+          "en": "I'd love to! Thank you.",
+          "mean": "Decir que sí con entusiasmo"
+        },
+        {
+          "en": "That sounds great! What time?",
+          "mean": "Decir que sí y preguntar la hora"
+        }
+      ]
+    },
+    {
+      "h": "Cómo rechazar educadamente",
+      "p": "A veces no puedes ir. Cuando necesites decir que no, sé muy educado para no herir los sentimientos de tu amigo. Empieza siempre dando las gracias. Luego, da un motivo sencillo, como estar ocupado, y discúlpate.",
+      "ex": [
+        {
+          "en": "I'm sorry, I'm busy that day.",
+          "mean": "Decir que no porque tienes otros planes"
+        },
+        {
+          "en": "Thank you, but I can't make it.",
+          "mean": "Forma educada de rechazar una invitación"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Would you like to",
+      "mean": "invitación educada"
+    },
+    {
+      "en": "Do you want to",
+      "mean": "invitación informal"
+    },
+    {
+      "en": "I'd love to",
+      "mean": "aceptar alegremente"
+    },
+    {
+      "en": "That sounds great",
+      "mean": "mostrar entusiasmo"
+    },
+    {
+      "en": "I'm sorry",
+      "mean": "disculpa educada"
+    },
+    {
+      "en": "I'm busy",
+      "mean": "tener otros planes"
+    },
+    {
+      "en": "Thank you",
+      "mean": "mostrar agradecimiento"
+    }
+  ],
+  "tip": "¡Di siempre 'Thank you' antes de aceptar o rechazar una invitación! ¡Demuestra que valoras que tu amigo te lo haya pedido!",
+  "quiz": [
+    {
+      "ask": "Elige la mejor forma de invitar a un amigo.",
+      "en": "___ you like to go to the cinema tonight?",
+      "choices": [
+        "Would",
+        "Do",
+        "Are",
+        "Can"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta para completar la frase.",
+      "en": "I'd love ___! Thank you.",
+      "choices": [
+        "go",
+        "to",
+        "too",
+        "do"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Selecciona la forma educada de decir que no.",
+      "en": "I'm sorry, I'm ___ that day.",
+      "choices": [
+        "free",
+        "good",
+        "busy",
+        "nice"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la frase correcta para mostrar entusiasmo.",
+      "en": "___ sounds great!",
+      "choices": [
+        "This",
+        "It",
+        "What",
+        "That"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Completa la invitación informal.",
+      "en": "___ you want to grab lunch?",
+      "choices": [
+        "Do",
+        "Would",
+        "Are",
+        "Did"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la respuesta correcta ante un rechazo.",
+      "en": "That's okay, maybe ___ time!",
+      "choices": [
+        "next",
+        "other",
+        "future",
+        "later"
+      ],
+      "answer_index": 0
+    }
+  ]
+}
