@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-29",
+  "slug": "presentations",
+  "cefr": "B2",
+  "cat": "phrases",
+  "emoji": "📊",
+  "title": "Maîtriser les présentations en anglais",
+  "summary": "Apprenez à commencer, structurer et conclure une présentation en anglais comme un pro. Vous découvrirez des expressions pratiques pour guider votre public en toute fluidité du début à la fin.",
+  "sections": [
+    {
+      "h": "Accueillir votre public",
+      "p": "Lorsque vous commencez une présentation, il est important de saluer clairement vos auditeurs et de leur dire de quoi vous allez parler. Une introduction percutante vous aide à vous sentir en confiance et capte l'attention de tout le monde immédiatement. Commencez toujours par un accueil chaleureux, présentez clairement votre sujet et expliquez brièvement les principaux objectifs de votre intervention pour que les gens sachent à quoi s'attendre.",
+      "ex": [
+        {
+          "en": "Good morning, everyone, and welcome to my presentation.",
+          "mean": "Une façon polie de saluer tout le monde au début."
+        },
+        {
+          "en": "Today, I am going to talk about our new marketing strategy.",
+          "mean": "Expliquer le sujet principal de votre intervention."
+        },
+        {
+          "en": "By the end of this session, you will understand our new plan.",
+          "mean": "Dire au public ce qu'il va apprendre."
+        }
+      ]
+    },
+    {
+      "h": "Passer à un nouveau point",
+      "p": "Au fil de votre allocution, vous devez guider vos auditeurs d'une idée à l'autre. Les expressions de transition agissent comme des panneaux routiers, aidant les gens à suivre vos pensées sans se perdre. Utilisez ces expressions chaque fois que vous terminez une partie et souhaitez introduire le point principal suivant, afin de garder un discours structuré et facile à comprendre.",
+      "ex": [
+        {
+          "en": "Now let us move on to the next slide.",
+          "mean": "Une expression pour changer de sujet en douceur."
+        },
+        {
+          "en": "This brings me to my next point about our budget.",
+          "mean": "Relier l'idée actuelle à la suivante."
+        },
+        {
+          "en": "Let us look at the numbers in more detail.",
+          "mean": "Inviter le public à examiner un détail précis."
+        }
+      ]
+    },
+    {
+      "h": "Conclure et prendre les questions",
+      "p": "Une excellente conclusion laisse une impression durable sur votre public. Vous devez résumer clairement votre message principal, puis ouvrir le bal pour que les gens puissent poser des questions. Remerciez toujours vos auditeurs pour leur temps et leur attention avant de terminer officiellement votre présentation.",
+      "ex": [
+        {
+          "en": "To sum up, our main goal this year is to increase sales.",
+          "mean": "Répéter rapidement l'idée principale."
+        },
+        {
+          "en": "Thank you all for listening. Are there any questions?",
+          "mean": "Terminer l'exposé et inviter aux questions."
+        },
+        {
+          "en": "I would be happy to answer any questions you might have.",
+          "mean": "Une offre polie d'aide pour les questions du public."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "welcome",
+      "mean": "saluer poliment"
+    },
+    {
+      "en": "presentation",
+      "mean": "exposé formel"
+    },
+    {
+      "en": "topic",
+      "mean": "sujet de l'exposé"
+    },
+    {
+      "en": "move on",
+      "mean": "changer de sujet"
+    },
+    {
+      "en": "point",
+      "mean": "idée principale"
+    },
+    {
+      "en": "sum up",
+      "mean": "conclure brièvement"
+    },
+    {
+      "en": "session",
+      "mean": "réunion ou cours"
+    },
+    {
+      "en": "audience",
+      "mean": "personnes à l'écoute"
+    }
+  ],
+  "tip": "Répétez votre présentation à voix haute tout en vous enregistrant avec votre téléphone. Réécoutez l'enregistrement pour vérifier si vos expressions de transition sonnent de façon naturelle et claire.",
+  "quiz": [
+    {
+      "ask": "Choisissez la meilleure expression pour commencer votre exposé",
+      "en": "Good morning, everyone, and ___ to my presentation.",
+      "choices": [
+        "welcome",
+        "hello",
+        "goodbye"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le verbe correct pour changer de sujet",
+      "en": "Now let us ___ on to the next slide.",
+      "choices": [
+        "go",
+        "move",
+        "walk"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot adéquat pour résumer",
+      "en": "To ___, our main goal is to increase sales.",
+      "choices": [
+        "finish",
+        "sum up",
+        "talk"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne expression pour appeler aux questions",
+      "en": "Thank you for listening. Are there any ___?",
+      "choices": [
+        "answers",
+        "problems",
+        "questions"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct pour le sujet principal",
+      "en": "Today, I am going to talk about our main ___.",
+      "choices": [
+        "topic",
+        "story",
+        "joke"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la meilleure expression de transition",
+      "en": "This ___ me to my next point.",
+      "choices": [
+        "takes",
+        "brings",
+        "carries"
+      ],
+      "answer_index": 1
+    }
+  ]
+}
