@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-05",
+  "title": "Tägliches Allgemeinwissen-Quiz: 5. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welcher Fluss fließt durch die Stadt Paris?",
+      "options": [
+        "Donau",
+        "Themse",
+        "Rhein",
+        "Seine"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Die Seine ist etwa 777 Kilometer lang, schlängelt sich durch das Herz von Paris und teilt die Stadt in das Rrechte und Linke Ufer."
+    },
+    {
+      "category": "Tiere",
+      "question": "Wie wird ein Kängurubaby im Allgemeinen genannt?",
+      "options": [
+        "Welpe",
+        "Jungtier",
+        "Kalb",
+        "Joey"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Ein neugeborenes Joey ist gerade einmal so groß wie eine Honigbiene oder eine Jellybean, wenn es in den Beutel seiner Mutter klettert."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Wie wird das Zentrum eines Atoms genannt, das Protonen und Neutronen enthält?",
+      "options": [
+        "Elektronenwolke",
+        "Molekül",
+        "Quark",
+        "Atomkern"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Obwohl er fast die gesamte Masse des Atoms ausmacht, nimmt der Atomkern nur einen Bruchteil des gesamten Atomvolumens ein."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Wer war der zweite Präsident der Vereinigten Staaten?",
+      "options": [
+        "Alexander Hamilton",
+        "John Adams",
+        "Thomas Jefferson",
+        "James Madison"
+      ],
+      "answer_index": 1,
+      "fun_fact": "John Adams und Thomas Jefferson, einst erbitterte politische Rivalen, starben beide am exakt selben Tag: dem 4. Juli 1826."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "In welchem Science-Fiction-Film aus dem Jahr 1999 ist der berühmte visuelle Effekt des „Bullet Time“ zu sehen?",
+      "options": [
+        "Blade Runner",
+        "The Matrix",
+        "Total Recall",
+        "The Fifth Element"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Der „Bullet Time“-Effekt in The Matrix wurde erzielt, indem Dutzende Standbildkameras in einem Kreis angeordnet wurden, um Action gleichzeitig aus mehreren Winkeln einzufangen."
+    },
+    {
+      "category": "Essen & Trinken",
+      "question": "Kombucha ist ein fermentiertes Getränk, das typischerweise aus gesüßtem Tee und welcher Starterkultur hergestellt wird?",
+      "options": [
+        "Miso",
+        "Sauerteigstarter",
+        "Kefirknollen",
+        "SCOBY"
+      ],
+      "answer_index": 3,
+      "fun_fact": "SCOBY steht für „Symbiotic Culture Of Bacteria and Yeast“ (Symbiotische Kultur aus Bakterien und Hefen), die während der Gärung eine gummiartige, pfannkuchenförmige Matte bildet."
+    },
+    {
+      "category": "Sport",
+      "question": "Welcher Begriff wird im Golfsport verwendet, um einen Score von einem Schlag unter Par auf einem einzelnen Loch zu beschreiben?",
+      "options": [
+        "Birdie",
+        "Bogey",
+        "Albatross",
+        "Eagle"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Der Begriff „Birdie“ entstand Ende des 19. Jahrhunderts in den Vereinigten Staaten, als ein Golfer einen hervorragenden Schlag landete und ihn als „a bird of a shot“ bezeichnete."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie lautet der sprachwissenschaftliche Begriff für ein Wort, das aus den Anfangsbuchstaben anderer Wörter gebildet wird, wie zum Beispiel „NASA“?",
+      "options": [
+        "Kofferwort",
+        "Homonym",
+        "Akronym",
+        "Palindrom"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Im Gegensatz zu Initialwörtern, die Buchstabe für Buchstabe ausgesprochen werden (wie FBI), werden Akronyme als eigenständige Wörter ausgesprochen."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Mond des Saturns besitzt eine dichte Stickstoffatmosphäre und Seen aus flüssigem Methan?",
+      "options": [
+        "Europa",
+        "Enceladus",
+        "Ganymed",
+        "Titan"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Titan ist der einzige Mond im Sonnensystem, von dem bekannt ist, dass er eine dichte Atmosphäre und stabile Ansammlungen von Flüssigkeit auf der Oberfläche besitzt."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Aus welcher antiken Zivilisation stammt der Kodex Hammurapi, einer der ältesten entzifferten längeren Gesetzestexte der Welt?",
+      "options": [
+        "Altes Ägypten",
+        "Industal",
+        "Babylon",
+        "Antikes Griechenland"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Eingemeißelt in eine massive Diorit-Stele, begründete der Kodex Hammurapi bekanntermaßen den Grundsatz „Auge um Auge, Zahn um Zahn“."
+    }
+  ]
+}

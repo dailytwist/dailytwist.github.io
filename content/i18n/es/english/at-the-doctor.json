@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-25",
+  "slug": "at-the-doctor",
+  "cefr": "A2",
+  "cat": "phrases",
+  "emoji": "🏥",
+  "title": "En el médico: Describe cómo te sientes",
+  "summary": "Aprende a hablar sobre tu cuerpo y tu salud en inglés. Practica cómo decir qué te pasa cuando vas al médico.",
+  "sections": [
+    {
+      "h": "Decir 'I have a...'",
+      "p": "Cuando estás enfermo, puedes usar el verbo 'have' para hablar de tu dolor o enfermedad. A menudo lo usamos con palabras como 'cold', 'headache' o 'stomachache'. Es muy fácil y útil. Escucha cómo lo dice la gente: 'I have a headache' significa que me duele la cabeza. También puedes decir 'I have a fever' cuando tu cuerpo está demasiado caliente.",
+      "ex": [
+        {
+          "en": "I have a headache today.",
+          "mean": "Me duele la cabeza hoy."
+        },
+        {
+          "en": "She has a bad cold.",
+          "mean": "Ella está enferma con un resfriado."
+        }
+      ]
+    },
+    {
+      "h": "My [Body Part] Hurts",
+      "p": "Otra forma estupenda de describir el dolor es usar la palabra 'hurt'. Solo di primero la parte de tu cuerpo y luego añade 'hurts'. Por ejemplo, tu pierna, tu brazo o tu espalda. Si el dolor está en dos sitios, decimos 'hurt' sin la 's'. Por ejemplo: 'My legs hurt.' Esto ayuda al doctor a saber exactamente dónde te sientes mal.",
+      "ex": [
+        {
+          "en": "My arm hurts a lot.",
+          "mean": "Tengo dolor en el brazo."
+        },
+        {
+          "en": "My eyes hurt today.",
+          "mean": "Tengo dolor en ambos ojos."
+        }
+      ]
+    },
+    {
+      "h": "Hablando con el médico",
+      "p": "Cuando visitas a un médico, te hará preguntas para ayudarte. Puede que te pregunte: 'What is the problem?' o 'How do you feel today?' Puedes responder de forma sencilla usando las frases que has aprendido. Por ejemplo: 'I feel tired' o 'I feel sick'. El médico te escuchará y luego te dará medicina para ayudarte a sentirte mejor.",
+      "ex": [
+        {
+          "en": "How do you feel today?",
+          "mean": "¿Cómo está tu salud ahora mismo?"
+        },
+        {
+          "en": "I feel very tired.",
+          "mean": "Mi cuerpo quiere dormir."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "headache",
+      "mean": "dolor de cabeza"
+    },
+    {
+      "en": "stomachache",
+      "mean": "dolor de estómago"
+    },
+    {
+      "en": "cold",
+      "mean": "enfermedad común con tos"
+    },
+    {
+      "en": "fever",
+      "mean": "el cuerpo está demasiado caliente"
+    },
+    {
+      "en": "hurt",
+      "mean": "sentir dolor"
+    },
+    {
+      "en": "doctor",
+      "mean": "persona que te ayuda cuando estás enfermo"
+    },
+    {
+      "en": "medicine",
+      "mean": "pastilla o líquido para sanar"
+    },
+    {
+      "en": "sick",
+      "mean": "no sentirse con buena salud"
+    }
+  ],
+  "tip": "¡Tócate la parte del cuerpo cuando digas la palabra en inglés! ¡Esto conecta la palabra con tu sensación física y te ayuda a recordarla más rápido!",
+  "quiz": [
+    {
+      "ask": "Elige la frase correcta para el dolor de cabeza.",
+      "en": "I have a ___.",
+      "choices": [
+        "headache",
+        "stomach",
+        "leg"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta para el dolor corporal.",
+      "en": "My back ___ today.",
+      "choices": [
+        "hurts",
+        "hurt",
+        "pain"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Completa la pregunta que hace el médico.",
+      "en": "How ___ you feel today?",
+      "choices": [
+        "are",
+        "do",
+        "have"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra para cuando tu cuerpo está demasiado caliente.",
+      "en": "I have a ___.",
+      "choices": [
+        "fever",
+        "cold",
+        "doctor"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Selecciona la palabra correcta para sentirse mal.",
+      "en": "I feel very ___ today.",
+      "choices": [
+        "happy",
+        "sick",
+        "tall"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige lo que te da el médico para mejorar.",
+      "en": "Take this ___ twice a day.",
+      "choices": [
+        "food",
+        "water",
+        "medicine"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-05",
+  "title": "Daily General Knowledge Quiz: November 5, 2026",
+  "questions": [
+    {
+      "category": "Geography",
+      "question": "Which river flows through the city of Paris?",
+      "options": [
+        "Danube",
+        "Thames",
+        "Rhine",
+        "Seine"
+      ],
+      "answer_index": 3,
+      "fun_fact": "The Seine River is approximately 777 kilometers long and snakes through the heart of Paris, dividing the city into the Right Bank and Left Bank."
+    },
+    {
+      "category": "Animals",
+      "question": "What is a baby kangaroo commonly called?",
+      "options": [
+        "Pup",
+        "Cub",
+        "Calf",
+        "Joey"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A newborn joey is only about the size of a honeybee or a jellybean when it crawls into its mother's pouch."
+    },
+    {
+      "category": "Science",
+      "question": "What is the center of an atom called, containing protons and neutrons?",
+      "options": [
+        "Electron cloud",
+        "Molecule",
+        "Quark",
+        "Nucleus"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Despite containing nearly all of the atom's mass, the nucleus takes up only a tiny fraction of the atom's total volume."
+    },
+    {
+      "category": "History",
+      "question": "Who was the second President of the United States?",
+      "options": [
+        "Alexander Hamilton",
+        "John Adams",
+        "Thomas Jefferson",
+        "James Madison"
+      ],
+      "answer_index": 1,
+      "fun_fact": "John Adams and Thomas Jefferson, once fierce political rivals, both died on the exact same day: July 4, 1826."
+    },
+    {
+      "category": "Movies & Pop Culture",
+      "question": "Which 1999 science fiction film features the famous 'bullet time' visual effect?",
+      "options": [
+        "Blade Runner",
+        "The Matrix",
+        "Total Recall",
+        "The Fifth Element"
+      ],
+      "answer_index": 1,
+      "fun_fact": "The 'bullet time' effect in The Matrix was achieved by arranging dozens of still cameras in a ring to capture action from multiple angles simultaneously."
+    },
+    {
+      "category": "Food",
+      "question": "Kombucha is a fermented drink typically made from sweetened tea and what starter culture?",
+      "options": [
+        "Miso",
+        "Sourdough starter",
+        "Kefir grains",
+        "SCOBY"
+      ],
+      "answer_index": 3,
+      "fun_fact": "SCOBY stands for 'Symbiotic Culture Of Bacteria and Yeast,' which forms a rubbery, pancake-like mat during fermentation."
+    },
+    {
+      "category": "Sports",
+      "question": "In the game of golf, what term is used to describe a score of one stroke under par on a single hole?",
+      "options": [
+        "Birdie",
+        "Bogey",
+        "Albatross",
+        "Eagle"
+      ],
+      "answer_index": 0,
+      "fun_fact": "The term 'birdie' originated in the United States in the late 19th century when a golfer hit a great shot and called it 'a bird of a shot'."
+    },
+    {
+      "category": "Language",
+      "question": "What is the linguistic term for a word formed from the initial letters of other words, such as 'NASA'?",
+      "options": [
+        "Portmanteau",
+        "Homonym",
+        "Acronym",
+        "Palindrome"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Unlike initialisms, which are spelled out letter by letter (like FBI), acronyms are pronounced as distinct words."
+    },
+    {
+      "category": "Space",
+      "question": "Which of Saturn's moons has a dense nitrogen atmosphere and liquid methane lakes?",
+      "options": [
+        "Europa",
+        "Enceladus",
+        "Ganymede",
+        "Titan"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Titan is the only moon in the solar system known to have a dense atmosphere and stable bodies of surface liquid."
+    },
+    {
+      "category": "History",
+      "question": "The Code of Hammurabi, one of the oldest deciphered writings of significant length in the world, originated from which ancient civilization?",
+      "options": [
+        "Ancient Egypt",
+        "The Indus Valley",
+        "Babylonia",
+        "Ancient Greece"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Inscribed on a massive diorite stele, the Code of Hammurabi famously established the principle of 'an eye for an eye, a tooth for a tooth'."
+    }
+  ]
+}

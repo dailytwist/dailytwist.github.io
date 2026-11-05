@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-05",
+  "title": "Quiz Diário de Conhecimentos Gerais: 5 de novembro de 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Qual rio passa pela cidade de Paris?",
+      "options": [
+        "Danúbio",
+        "Tâmisa",
+        "Reno",
+        "Sena"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O rio Sena tem aproximadamente 777 quilômetros de extensão e serpenteia pelo coração de Paris, dividindo a cidade entre a Margem Direita e a Margem Esquerda."
+    },
+    {
+      "category": "Animais",
+      "question": "Como é comumente chamado o filhote de canguru?",
+      "options": [
+        "Filhote",
+        "Cursa",
+        "Bezerro",
+        "Joey"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Um recém-nascido joey tem o tamanho aproximado de uma abelha ou de uma jujuba quando rasteja para dentro da bolsa da mãe."
+    },
+    {
+      "category": "Ciência",
+      "question": "Como se chama o centro de um átomo, que contém prótons e nêutrons?",
+      "options": [
+        "Nuvem de elétrons",
+        "Molécula",
+        "Quark",
+        "Núcleo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Apesar de conter quase toda a massa do átomo, o núcleo ocupa apenas uma fração minúscula do volume total do átomo."
+    },
+    {
+      "category": "História",
+      "question": "Quem foi o segundo Presidente dos Estados Unidos?",
+      "options": [
+        "Alexander Hamilton",
+        "John Adams",
+        "Thomas Jefferson",
+        "James Madison"
+      ],
+      "answer_index": 1,
+      "fun_fact": "John Adams e Thomas Jefferson, que já foram rivais políticos ferozes, morreram exatamente no mesmo dia: 4 de julho de 1826."
+    },
+    {
+      "category": "Filmes e Cultura Pop",
+      "question": "Qual filme de ficção científica de 1999 apresenta o famoso efeito visual de câmera lenta conhecido como 'bullet time'?",
+      "options": [
+        "Blade Runner",
+        "The Matrix",
+        "O Vingador do Futuro",
+        "O Quinto Elemento"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O efeito 'bullet time' em The Matrix foi alcançado organizando dezenas de câmeras fotográficas em um anel para capturar a ação de vários ângulos simultaneamente."
+    },
+    {
+      "category": "Comida",
+      "question": "A kombucha é uma bebida fermentada feita tipicamente de chá adoçado e qual cultura de arranque?",
+      "options": [
+        "Miso",
+        "Massa leveda",
+        "Grãos de kefir",
+        "SCOBY"
+      ],
+      "answer_index": 3,
+      "fun_fact": "SCOBY significa 'Cultura Simbiótica de Bactérias e Leveduras' (Symbiotic Culture Of Bacteria and Yeast), que forma uma camada emborrachada semelhante a uma panqueca durante a fermentação."
+    },
+    {
+      "category": "Esportes",
+      "question": "No golfe, qual termo é usado para descrever uma pontuação de uma tacada abaixo do par em um único buraco?",
+      "options": [
+        "Birdie",
+        "Bogey",
+        "Albatroz",
+        "Eagle"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O termo 'birdie' originou-se nos Estados Unidos no final do século XIX, quando um golfista deu uma tacada excelente e a chamou de 'uma tacada para pássaros'."
+    },
+    {
+      "category": "Idioma",
+      "question": "Qual é o termo linguístico para uma palavra formada pelas letras iniciais de outras palavras, como 'NASA'?",
+      "options": [
+        "Aglutinação",
+        "Homônimo",
+        "Acrônimo",
+        "Palíndromo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Ao contrário das siglas soletraveis, que são pronunciadas letra por letra (como FBI), os acrônimos são pronunciados como palavras distintas."
+    },
+    {
+      "category": "Espaço",
+      "question": "Qual das luas de Saturno possui uma atmosfera densa de nitrogênio e lagos de metano líquido?",
+      "options": [
+        "Europa",
+        "Encélado",
+        "Ganimedes",
+        "Titã"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Titã é a única lua do sistema solar conhecida por ter uma atmosfera densa e corpos estáveis de líquido em sua superfície."
+    },
+    {
+      "category": "História",
+      "question": "O Código de Hamurabi, um dos escritos decifrados mais antigos e de maior extensão do mundo, originou-se de qual civilização antiga?",
+      "options": [
+        "Antigo Egito",
+        "Vale do Indo",
+        "Babilônia",
+        "Antiga Grécia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Inscrito em uma imensa estela de diorito, o Código de Hamurabi estabeleceu famosamente o princípio de 'olho por olho, dente por dente'."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-05",
+  "title": "Quiz di Cultura Generale del Giorno: 5 Novembre 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Quale fiume attraversa la città di Parigi?",
+      "options": [
+        "Danubio",
+        "Tamigi",
+        "Reno",
+        "Senna"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Il fiume Senna è lungo circa 777 chilometri e serpeggia nel cuore di Parigi, dividendo la città tra la Rive Droite e la Rive Gauche."
+    },
+    {
+      "category": "Animali",
+      "question": "Come viene comunemente chiamato un cucciolo di canguro?",
+      "options": [
+        "Cucciolo",
+        "Orsetto",
+        "Vitello",
+        "Joey"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Un joey appena nato ha le dimensioni di un'ape o di una caramella gommosa quando si arrampica nel marsupio della madre."
+    },
+    {
+      "category": "Scienza",
+      "question": "Come si chiama il centro di un atomo, che contiene protoni e neutroni?",
+      "options": [
+        "Nube elettronica",
+        "Molecola",
+        "Quark",
+        "Nucleo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Nonostante contenga quasi tutta la massa dell'atomo, il nucleo occupa solo una minuscola frazione del volume totale dell'atomo."
+    },
+    {
+      "category": "Storia",
+      "question": "Chi è stato il secondo Presidente degli Stati Uniti?",
+      "options": [
+        "Alexander Hamilton",
+        "John Adams",
+        "Thomas Jefferson",
+        "James Madison"
+      ],
+      "answer_index": 1,
+      "fun_fact": "John Adams e Thomas Jefferson, un tempo acerrimi rivali politici, morirono entrambi esattamente lo stesso giorno: il 4 luglio 1826."
+    },
+    {
+      "category": "Film e Pop Culture",
+      "question": "In quale film di fantascienza del 1999 compare il famoso effetto visivo del 'bullet time'?",
+      "options": [
+        "Blade Runner",
+        "The Matrix",
+        "Atto di forza",
+        "Il quinto elemento"
+      ],
+      "answer_index": 1,
+      "fun_fact": "L'effetto 'bullet time' in The Matrix è stato realizzato disponendo decine di macchine fotografiche in cerchio per catturare l'azione da più angolazioni contemporaneamente."
+    },
+    {
+      "category": "Cucina",
+      "question": "Il kombucha è una bevanda fermentata preparata solitamente con tè zuccherato e quale coltura madre?",
+      "options": [
+        "Miso",
+        "Pasta madre",
+        "Grani di kefir",
+        "SCOBY"
+      ],
+      "answer_index": 3,
+      "fun_fact": "SCOBY sta per 'Symbiotic Culture Of Bacteria and Yeast' (coltura simbiotica di batteri e lieviti), che durante la fermentazione forma uno strato gommoso simile a un pancake."
+    },
+    {
+      "category": "Sport",
+      "question": "Nel gioco del golf, quale termine viene usato per indicare un punteggio di un colpo sotto il par in una singola buca?",
+      "options": [
+        "Birdie",
+        "Bogey",
+        "Albatross",
+        "Eagle"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il termine 'birdie' è nato negli Stati Uniti alla fine del XIX secolo, quando un golfista fece un tiro eccezionale e lo definì 'a bird of a shot' (un tiro da uccellino)."
+    },
+    {
+      "category": "Linguistica",
+      "question": "Qual è il termine linguistico per una parola formata dalle lettere iniziali di altre parole, come 'NASA'?",
+      "options": [
+        "Portmanteau",
+        "Omonimo",
+        "Acronimo",
+        "Palindromo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A differenza delle sigle che si leggono lettera per lettera (come FBI), gli acronimi si pronunciano come parole distinte."
+    },
+    {
+      "category": "Spazio",
+      "question": "Quale delle lune di Saturno ha una densa atmosfera di azoto e laghi di metano liquido?",
+      "options": [
+        "Europa",
+        "Encelado",
+        "Ganimede",
+        "Titano"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Titano è l'unica luna del sistema solare nota per avere una densa atmosfera e corpi stabili di liquido in superficie."
+    },
+    {
+      "category": "Storia",
+      "question": "Il Codice di Hammurabi, uno dei testi scritti di una certa lunghezza più antichi decifrati al mondo, quale civiltà antica ha visto le sue origini?",
+      "options": [
+        "Antico Egitto",
+        "Valle dell'Indo",
+        "Babilonesi",
+        "Antica Grecia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Inscritto su una massiccia stele di diorite, il Codice di Hammurabi ha stabilito notoriamente il principio del 'occhio per occhio, dente per dente'."
+    }
+  ]
+}

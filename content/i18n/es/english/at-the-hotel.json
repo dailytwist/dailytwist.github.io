@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-25",
+  "slug": "at-the-hotel",
+  "cefr": "A2",
+  "cat": "phrases",
+  "emoji": "🏨",
+  "title": "En el hotel: El registro de entrada",
+  "summary": "En esta lección aprenderás a registrarte en un hotel y a pedir ayuda en la recepción. Estas sencillas frases harán que tu viaje sea fácil y cómodo.",
+  "sections": [
+    {
+      "h": "Llegada al hotel",
+      "p": "Cuando llegas a un hotel, debes hablar con la persona de la recepción. Le das tu nombre y tu pasaporte. Puedes usar frases de cortesía como «Tengo una reserva» para indicarle que reservaste una habitación antes de venir.",
+      "ex": [
+        {
+          "en": "I have a reservation for two nights.",
+          "mean": "Reservé una habitación aquí por dos días."
+        },
+        {
+          "en": "Here is my passport.",
+          "mean": "Por favor, mire mi identificación."
+        },
+        {
+          "en": "Can I check in, please?",
+          "mean": "Estoy aquí para recoger la llave de mi habitación."
+        }
+      ]
+    },
+    {
+      "h": "Preguntar sobre tu habitación",
+      "p": "Después de registrarte, es posible que quieras saber detalles importantes sobre tu estancia. Puedes preguntar por la hora del desayuno y la contraseña del Wi-Fi. Usa «A qué hora» para los horarios y «¿El desayuno» para comprobar si la comida está incluida.",
+      "ex": [
+        {
+          "en": "What time is breakfast?",
+          "mean": "¿Cuándo puedo tomar el desayuno?"
+        },
+        {
+          "en": "Is breakfast included?",
+          "mean": "¿Tengo que pagar un extra por la comida?"
+        },
+        {
+          "en": "What is the Wi-Fi password?",
+          "mean": "¿Cómo me conecto a internet?"
+        }
+      ]
+    },
+    {
+      "h": "Pedir ayuda",
+      "p": "A veces necesitas cosas adicionales en tu habitación, como una toalla o un espacio más silencioso. Puedes usar la frase de cortesía «¿Podría darme» para pedir ayuda al personal. ¡Recuerda decir siempre «Gracias»!",
+      "ex": [
+        {
+          "en": "Could I have an extra towel, please?",
+          "mean": "Por favor, deme otra toalla."
+        },
+        {
+          "en": "Where is the lift?",
+          "mean": "¿Cómo encuentro el ascensor?"
+        },
+        {
+          "en": "Can you help me with my bags?",
+          "mean": "Por favor, ayúdeme a llevar mi equipaje."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "reservation",
+      "mean": "una habitación que reservaste"
+    },
+    {
+      "en": "front desk",
+      "mean": "donde hablas con el personal"
+    },
+    {
+      "en": "passport",
+      "mean": "tu identificación de viaje"
+    },
+    {
+      "en": "check in",
+      "mean": "llegar y conseguir tu llave"
+    },
+    {
+      "en": "breakfast",
+      "mean": "comida de la mañana"
+    },
+    {
+      "en": "included",
+      "mean": "gratis con la habitación"
+    },
+    {
+      "en": "password",
+      "mean": "palabra secreta para el Wi-Fi"
+    },
+    {
+      "en": "lift",
+      "mean": "máquina para subir pisos"
+    }
+  ],
+  "tip": "¡Practica estas frases en voz alta antes de tu viaje. Imagina que estás hablando con el empleado del hotel para sentirte preparado y relajado!",
+  "quiz": [
+    {
+      "ask": "Elige la frase correcta para empezar.",
+      "en": "I ___ a reservation under the name Smith.",
+      "choices": [
+        "have",
+        "make",
+        "do",
+        "take"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra que falta.",
+      "en": "Here is my ___.",
+      "choices": [
+        "bag",
+        "passport",
+        "key",
+        "money"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Selecciona la pregunta correcta para el horario.",
+      "en": "___ time is breakfast?",
+      "choices": [
+        "Where",
+        "How",
+        "What",
+        "Who"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la forma educada de pedir algo.",
+      "en": "___ I have an extra towel, please?",
+      "choices": [
+        "Do",
+        "Are",
+        "Will",
+        "Could"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Elige la palabra correcta para internet.",
+      "en": "What is the Wi-Fi ___?",
+      "choices": [
+        "password",
+        "door",
+        "bed",
+        "key"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Selecciona el lugar correcto en un hotel.",
+      "en": "Go to the ___ desk to talk to the staff.",
+      "choices": [
+        "back",
+        "front",
+        "side",
+        "up"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-05",
+  "title": "Test de cultura general diario: 5 de noviembre de 2026",
+  "questions": [
+    {
+      "category": "Geografía",
+      "question": "¿Qué río atraviesa la ciudad de París?",
+      "options": [
+        "Danubio",
+        "Támesis",
+        "Rin",
+        "Sena"
+      ],
+      "answer_index": 3,
+      "fun_fact": "El río Sena tiene aproximadamente 777 kilómetros de longitud y serpentea por el corazón de París, dividiendo la ciudad en la margen derecha y la margen izquierda."
+    },
+    {
+      "category": "Animales",
+      "question": "¿Cómo se le llama comúnmente a una cría de canguro?",
+      "options": [
+        "Cachorro",
+        "Cría",
+        "Ternero",
+        "Cangurito"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Un cangurito recién nacido tiene más o menos el tamaño de una abeja o una gominola cuando se arrastra hacia la bolsa de su madre."
+    },
+    {
+      "category": "Ciencia",
+      "question": "¿Cómo se llama el centro de un átomo que contiene protones y neutrones?",
+      "options": [
+        "Nube de electrones",
+        "Molécula",
+        "Quark",
+        "Núcleo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A pesar de contener casi toda la masa del átomo, el núcleo ocupa solo una pequeña fracción del volumen total del átomo."
+    },
+    {
+      "category": "Historia",
+      "question": "¿Quién fue el segundo presidente de los Estados Unidos?",
+      "options": [
+        "Alexander Hamilton",
+        "John Adams",
+        "Thomas Jefferson",
+        "James Madison"
+      ],
+      "answer_index": 1,
+      "fun_fact": "John Adams y Thomas Jefferson, que en su día fueron feroces rivales políticos, murieron exactamente el mismo día: el 4 de julio de 1826."
+    },
+    {
+      "category": "Películas y cultura pop",
+      "question": "¿Qué película de ciencia ficción de 1999 incluye el famoso efecto visual de 'tiempo bala'?",
+      "options": [
+        "Blade Runner",
+        "The Matrix",
+        "Desafío total",
+        "El quinto elemento"
+      ],
+      "answer_index": 1,
+      "fun_fact": "El efecto de 'tiempo bala' en The Matrix se logró colocando docenas de cámaras fotográficas en círculo para capturar la acción desde múltiples ángulos simultáneamente."
+    },
+    {
+      "category": "Comida",
+      "question": "La kombucha es una bebida fermentada que normalmente se hace a partir de té endulzado y ¿qué cultivo de inicio?",
+      "options": [
+        "Miso",
+        "Masa madre",
+        "Nódulos de kéfir",
+        "SCOBY"
+      ],
+      "answer_index": 3,
+      "fun_fact": "SCOBY son las siglas en inglés de 'Cultivo Simbiótico de Bacterias y Levaduras', que forma una capa gomosa similar a un panqueque durante la fermentación."
+    },
+    {
+      "category": "Deportes",
+      "question": "En el golf, ¿qué término se usa para describir una puntuación de un golpe por debajo del par en un solo hoyo?",
+      "options": [
+        "Birdie",
+        "Bogey",
+        "Albatros",
+        "Eagle"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El término 'birdie' se originó en los Estados Unidos a finales del siglo XIX cuando un golfista dio un gran golpe y lo llamó 'un golpe de pájaro'."
+    },
+    {
+      "category": "Lenguaje",
+      "question": "¿Cuál es el término lingüístico para una palabra formada a partir de las letras iniciales de otras palabras, como 'NASA'?",
+      "options": [
+        "Palabra maleta",
+        "Homónimo",
+        "Acrónimo",
+        "Palíndromo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A diferencia de las siglas, que se leen letra por letra (como FBI), los acrónimos se pronuncian como palabras independientes."
+    },
+    {
+      "category": "Espacio",
+      "question": "¿Cuál de las lunas de Saturno tiene una densa atmósfera de nitrógeno y lagos de metano líquido?",
+      "options": [
+        "Europa",
+        "Encélado",
+        "Ganímedes",
+        "Titán"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Titán es la única luna del sistema solar que se sabe que tiene una atmósfera densa y cuerpos estables de líquido en su superficie."
+    },
+    {
+      "category": "Historia",
+      "question": "¿De qué antigua civilización surgió el Código de Hammurabi, uno de los escritos decifrados más antiguos de gran longitud del mundo?",
+      "options": [
+        "Antiguo Egipto",
+        "El valle del Indo",
+        "Babilonia",
+        "Antigua Grecia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Inscrito en una enorme estela de diorita, el Código de Hammurabi estableció el famoso principio de 'ojo por ojo, diente por diente'."
+    }
+  ]
+}

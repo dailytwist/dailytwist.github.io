@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-05",
+  "title": "Quiz de culture générale du jour : 5 novembre 2026",
+  "questions": [
+    {
+      "category": "Géographie",
+      "question": "Quel fleuve traverse la ville de Paris ?",
+      "options": [
+        "Le Danube",
+        "La Tamise",
+        "Le Rhin",
+        "La Seine"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La Seine mesure environ 777 kilomètres de long et serpente au cœur de Paris, divisant la ville entre la Rive Droite et la Rive Gauche."
+    },
+    {
+      "category": "Animaux",
+      "question": "Comment appelle-t-on communément un bébé kangourou ?",
+      "options": [
+        "Un chiot",
+        "Un louveteau",
+        "Un veau",
+        "Un joey"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Un nouveau-né joey a à peu près la taille d'une abeille ou d'un bonbon gélifié lorsqu'il grimpe dans la poche de sa mère."
+    },
+    {
+      "category": "Science",
+      "question": "Comment appelle-t-on le centre d'un atome, qui contient les protons et les neutrons ?",
+      "options": [
+        "Nuage électronique",
+        "Molécule",
+        "Quark",
+        "Noyau"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Bien qu'il contienne la quasi-totalité de la masse de l'atome, le noyau n'occupe qu'une minuscule fraction de son volume total."
+    },
+    {
+      "category": "Histoire",
+      "question": "Qui fut le deuxième président des États-Unis ?",
+      "options": [
+        "Alexander Hamilton",
+        "John Adams",
+        "Thomas Jefferson",
+        "James Madison"
+      ],
+      "answer_index": 1,
+      "fun_fact": "John Adams et Thomas Jefferson, autrefois féroces rivaux politiques, sont tous deux décédés exactement le même jour : le 4 juillet 1826."
+    },
+    {
+      "category": "Cinéma & Pop Culture",
+      "question": "Quel film de science-fiction de 1999 met en scène le célèbre effet visuel du « bullet time » ?",
+      "options": [
+        "Blade Runner",
+        "The Matrix",
+        "Total Recall",
+        "Le Cinquième Élément"
+      ],
+      "answer_index": 1,
+      "fun_fact": "L'effet « bullet time » dans The Matrix a été réalisé en disposant des dizaines d'appareils photo en cercle pour capturer l'action sous plusieurs angles simultanément."
+    },
+    {
+      "category": "Gastronomie",
+      "question": "Le kombucha est une boisson fermentée généralement préparée à partir de thé sucré et de quel ferment ?",
+      "options": [
+        "Du miso",
+        "Un levain",
+        "Des grains de kéfir",
+        "Un SCOBY"
+      ],
+      "answer_index": 3,
+      "fun_fact": "SCOBY signifie « Symbiotic Culture Of Bacteria and Yeast » (culture symbiotique de bactéries et de levures), qui forme une pellicule caoutchouteuse semblable à une crêpe pendant la fermentation."
+    },
+    {
+      "category": "Sports",
+      "question": "Au golf, quel terme utilise-t-on pour décrire un score d'un coup sous le par sur un même trou ?",
+      "options": [
+        "Birdie",
+        "Bogey",
+        "Albatros",
+        "Eagle"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le terme « birdie » est né aux États-Unis à la fin du XIXe siècle lorsqu'un golfeur a réussi un coup fantastique et l'a qualifié de « bird of a shot » (un coup d'oiseau)."
+    },
+    {
+      "category": "Langue",
+      "question": "Quel est le terme linguistique désignant un mot formé à partir des initiales d'autres mots, comme « NASA » ?",
+      "options": [
+        "Un mot-valise",
+        "Un homonyme",
+        "Un acronyme",
+        "Un palindrome"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Contrairement aux sigles qui se prononcent lettre par lettre (comme FBI), les acronymes se prononcent comme des mots à part entière."
+    },
+    {
+      "category": "Espace",
+      "question": "Lequel des satellites de Saturne possède une atmosphère dense d'azote et des lacs de méthane liquide ?",
+      "options": [
+        "Europe",
+        "Encelade",
+        "Ganymède",
+        "Titan"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Titan est la seule lune du système solaire connue pour posséder une atmosphère dense et des étendues stables de liquide à sa surface."
+    },
+    {
+      "category": "Histoire",
+      "question": "Le Code de Hammurabi, l'un des plus anciens écrits déchiffrés d'une longueur significative au monde, provient de quelle civilisation antique ?",
+      "options": [
+        "L'Égypte ancienne",
+        "La vallée de l'Indus",
+        "La Babylonie",
+        "La Grèce antique"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Inscrit sur une stèle massive en diorite, le Code de Hammurabi a immortalisé le principe célèbre de « œil pour œil, dent pour dent »."
+    }
+  ]
+}
