@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-06",
+  "title": "Daily General Knowledge Quiz: November 6, 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Which country is the only landlocked nation in Southeast Asia?",
+      "options": [
+        "Vietnam",
+        "Laos",
+        "Thailand",
+        "Cambodia"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Laos is entirely surrounded by land, bordered by Myanmar, China, Vietnam, Cambodia, and Thailand."
+    },
+    {
+      "category": "science",
+      "question": "What is the primary active ingredient that gives chili peppers their spicy heat?",
+      "options": [
+        "Curcumin",
+        "Capsaicin",
+        "Piperine",
+        "Allicin"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Capsaicin is a chemical compound that binds to pain receptors in the mouth, tricking the brain into sensing heat."
+    },
+    {
+      "category": "history",
+      "question": "Who was the famous Carthaginian general who famously crossed the Alps with war elephants to attack the Roman Republic?",
+      "options": [
+        "Scipio Africanus",
+        "Pyrrhus",
+        "Hamilcar",
+        "Hannibal"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Hannibal Barca led his army, including African elephants, through the snowy Alps during the Second Punic War in 218 BCE."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Which 1982 science fiction film directed by Ridley Scott stars Harrison Ford as a 'blade runner' hunting rogue replicants?",
+      "options": [
+        "The Terminator",
+        "Alien",
+        "Blade Runner",
+        "Total Recall"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Blade Runner is loosely based on Philip K. Dick's 1968 novel 'Do Androids Dream of Electric Sheep?'."
+    },
+    {
+      "category": "food",
+      "question": "Gouda cheese originates from which European country?",
+      "options": [
+        "Netherlands",
+        "Switzerland",
+        "France",
+        "Denmark"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Gouda is named after the Dutch city of Gouda, though it is produced throughout the entire Netherlands."
+    },
+    {
+      "category": "animals",
+      "question": "What is the unique collective noun used to describe a group of crows?",
+      "options": [
+        "A kindle",
+        "A parliament",
+        "An exaltation",
+        "A murder"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A group of crows is famously called a 'murder' due to old folklore associating the birds with death and ominous omens."
+    },
+    {
+      "category": "sports",
+      "question": "In the sport of curling, what is the object that players slide across the ice called?",
+      "options": [
+        "A weight",
+        "A ball",
+        "A puck",
+        "A stone"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Curling stones are made exclusively of a rare, dense granite quarried from Ailsa Craig, an island off the coast of Scotland."
+    },
+    {
+      "category": "language",
+      "question": "What is the linguistic term for words that are spelled the same forwards and backwards, such as 'radar' or 'kayak'?",
+      "options": [
+        "Homophones",
+        "Antonyms",
+        "Palindromes",
+        "Acronyms"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The word 'palindrome' comes from Greek roots meaning 'running back again'."
+    },
+    {
+      "category": "space",
+      "question": "Which planet in our solar system has the highest mountain, Olympus Mons?",
+      "options": [
+        "Earth",
+        "Mars",
+        "Mercury",
+        "Venus"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Olympus Mons is a shield volcano on Mars that is roughly three times the height of Mount Everest."
+    },
+    {
+      "category": "geography",
+      "question": "The Atacama Desert, known as one of the driest places on Earth, is primarily located in which country?",
+      "options": [
+        "Bolivia",
+        "Chile",
+        "Argentina",
+        "Peru"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Some weather stations in the Atacama Desert have never recorded a single drop of rainfall in recorded history."
+    }
+  ]
+}
