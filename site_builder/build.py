@@ -406,7 +406,7 @@ def render(lang, path, pg):
         ads = (f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={e(C["adsense_client"])}" '
                'crossorigin="anonymous"></script>')
     ld = f'<script type="application/ld+json">{json.dumps(pg["schema"], ensure_ascii=False)}</script>' if pg["schema"] else ""
-    title = pg["title"] if SITE in pg["title"] else f'{pg["title"]} | {SITE}'
+    title = pg["title"] if SITE in pg["title"] or len(pg["title"]) > 52 else f'{pg["title"]} | {SITE}'  # long titles: keep the keywords, drop the brand so Google doesn't cut them
     extra_font = {"ar": "&family=Noto+Kufi+Arabic:wght@400;600;800", "ja": "&family=Noto+Sans+JP:wght@400;700"}.get(lang, "")
     menu = "".join(lang_menu(lang, path))
     auto = (f"<script>(function(){{try{{if(/bot|crawl|spider|slurp|lighthouse|inspection/i.test(navigator.userAgent))return;"
