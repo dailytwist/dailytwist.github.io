@@ -132,6 +132,48 @@ LANGS = ["en"] + [l for l in C.get("languages", []) if l != "en" and (CONTENT / 
 DATA = {l: lang_data(l) for l in LANGS}
 
 
+# ---- prayer times computed at build time too, so search engines see the real timetable (same maths as assets/prayer.js)
+import math as _m
+from datetime import datetime as _dt, timezone as _tzu, timedelta as _td
+from zoneinfo import ZoneInfo as _Z
+def _pt_times(y, mo, d, lat, lng, M):
+    r = _m.pi / 180
+    sn = lambda x: _m.sin(x * r); cs = lambda x: _m.cos(x * r); tn = lambda x: _m.tan(x * r)
+    asn = lambda x: _m.asin(x) / r; acs = lambda x: _m.acos(max(-1, min(1, x))) / r; at2 = lambda a, b: _m.atan2(a, b) / r
+    fx = lambda a, b: a - b * _m.floor(a / b)
+    def sun(jd):
+        dd = jd - 2451545.0; g = fx(357.529 + 0.98560028 * dd, 360); q = fx(280.459 + 0.98564736 * dd, 360)
+        L = fx(q + 1.915 * sn(g) + 0.020 * sn(2 * g), 360); ee = 23.439 - 0.00000036 * dd
+        RA = at2(cs(ee) * sn(L), cs(L)) / 15
+        return asn(sn(ee) * sn(L)), q / 15 - fx(RA, 24)
+    Y, Mo = (y - 1, mo + 12) if mo <= 2 else (y, mo)
+    A = Y // 100; B = 2 - A + A // 4
+    jd = _m.floor(365.25 * (Y + 4716)) + _m.floor(30.6001 * (Mo + 1)) + d + B - 1524.5 - lng / 360
+    def noon(t): return 12 - sun(jd + t / 24)[1] - lng / 15
+    def at(angle, t, ccw):
+        dec = sun(jd + t / 24)[0]; n = noon(t)
+        v = acs((-sn(angle) - sn(dec) * sn(lat)) / (cs(dec) * cs(lat))) / 15
+        return n - v if ccw else n + v
+    dh = noon(12); sr = at(0.833, 6, True); ss = at(0.833, 18, False); fa = at(M["f"], 5, True)
+    dec = sun(jd + 13 / 24)[0]; a = _m.atan(1 / ((M.get("asr") or 1) + tn(abs(lat - dec)))) / r
+    asr = noon(13) + acs((sn(a) - sn(dec) * sn(lat)) / (cs(dec) * cs(lat))) / 15
+    mg = ss + (M.get("mg") or 0) / 60
+    isa = at(M["i"], 18, False) if isinstance(M["i"], (int, float)) else mg + float(M["i"]) / 60
+    night = 24 - (ss - sr)
+    if sr - fa > M["f"] / 60 * night: fa = sr - M["f"] / 60 * night
+    if isinstance(M["i"], (int, float)) and isa - ss > M["i"] / 60 * night: isa = ss + M["i"] / 60 * night
+    return {"fajr": fa, "sunrise": sr, "dhuhr": dh + 1 / 60, "asr": asr, "maghrib": mg, "isha": isa}
+def pt_static(city, days=None):
+    """today's times and this month's table for a city, as HH:MM strings in its own time zone"""
+    tz = _Z(city["tz"]); now = _dt.now(tz); y, mo = now.year, now.month
+    nd = ((_dt(y + (mo == 12), mo % 12 + 1, 1) - _dt(y, mo, 1)).days)
+    out = []
+    for d in range(1, nd + 1):
+        t = _pt_times(y, mo, d, city["lat"], city["lng"], PRAYER_METHODS[city["m"]]); base = _dt(y, mo, d, tzinfo=_tzu.utc)
+        out.append({k: (base + _td(hours=v)).astimezone(tz).strftime("%H:%M") for k, v in t.items()})
+    return now.day, out
+
+
 # ---------------------------------------------------------------- helpers
 def P(lang):
     return "" if lang == "en" else f"/{lang}"
@@ -1325,11 +1367,12 @@ q.oninput=go}})();</script>""", priority="0.3")
     citylist = "".join(f'<a class="mchip ptchip" href="{pre}/prayer-times/{c[0]}/">{flag(c[5])} {e(c[ci])}</a>' for c in CITIES)
     def pt_widget(city, slug):
         d = {"city": city, "methods": PRAYER_METHODS, "l": ptl, "icons": icons, "locale": loc}
+        _day, _month = pt_static(city); _today = _month[_day - 1]
         return f"""<div id="prayer" class="prayer">
     <div class="pt-head"><b class="pt-city">{e(city.get("name", ""))}</b><small class="pt-date"></small></div>
-    <p class="pt-next"></p><div class="pt-grid"></div>
+    <p class="pt-next"></p><div class="pt-grid">{"".join(f'<div class="pt{" rise" if n == "sunrise" else ""}"><span>{icons[n]}</span><small>{e(pnames[n])}</small><b>{_today[n]}</b></div>' for n in pnames)}</div>
     {'' if slug else f'<button class="btn small pt-locate" type="button">📍 {e(T(lang, "pt_locate"))}</button>'}
-    <h2>📅 {e(T(lang, 'pt_month'))}</h2><div class="pt-scroll"><table class="pt-month"></table></div>
+    <h2>📅 {e(T(lang, 'pt_month'))}</h2><div class="pt-scroll"><table class="pt-month"><thead><tr><th>#</th>{"".join(f"<th>{e(pnames[n])}</th>" for n in pnames)}</tr></thead><tbody>{"".join(f'<tr{" class=on" if i + 1 == _day else ""}><td>{i + 1}</td>' + "".join(f"<td>{r[n]}</td>" for n in pnames) + "</tr>" for i, r in enumerate(_month))}</tbody></table></div>
   </div>
 <script type="application/json" id="prayer-data">{json.dumps(d, ensure_ascii=False)}</script>
 <script src="/assets/prayer.js" defer></script>"""

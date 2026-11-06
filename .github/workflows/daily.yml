@@ -44,6 +44,10 @@ jobs:
         continue-on-error: true
         run: pip install --quiet pillow
 
+      - name: Update time-zone data (Morocco is on GMT since 20 Sep 2026)
+        continue-on-error: true
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq tzdata && python -c "from zoneinfo import ZoneInfo;from datetime import datetime;print('Casablanca offset', datetime.now(ZoneInfo('Africa/Casablanca')).utcoffset())"
+
       - name: AI agent writes today's content
         if: github.event_name != 'push'
         timeout-minutes: 140
