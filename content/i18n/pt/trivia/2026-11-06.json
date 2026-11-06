@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-06",
+  "title": "Quiz Diário de Conhecimentos Gerais: 6 de Novembro de 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Qual país é a única nação sem litoral do Sudeste Asiático?",
+      "options": [
+        "Vietnã",
+        "Laos",
+        "Tailândia",
+        "Camboja"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O Laos é totalmente cercado por terra, fazendo fronteira com Mianmar, China, Vietnã, Camboja e Tailândia."
+    },
+    {
+      "category": "ciência",
+      "question": "Qual é o principal ingrediente ativo que dá às pimentas o seu ardor picante?",
+      "options": [
+        "Curcumina",
+        "Capsaicina",
+        "Piperina",
+        "Alicina"
+      ],
+      "answer_index": 1,
+      "fun_fact": "A capsaicina é um composto químico que se liga aos receptores de dor na boca, enganando o cérebro para que sinta calor."
+    },
+    {
+      "category": "história",
+      "question": "Quem foi o famoso general cartaginês que cruzou os Alpes com elefantes de guerra para atacar a República Romana?",
+      "options": [
+        "Cipião, o Africano",
+        "Pirro",
+        "Amílcar",
+        "Aníbal"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Aníbal Barca liderou seu exército, incluindo elefantes africanos, pelos Alpes nevados durante a Segunda Guerra Púnica em 218 a.C."
+    },
+    {
+      "category": "filmes & cultura pop",
+      "question": "Qual filme de ficção científica de 1982 dirigido por Ridley Scott é estrelado por Harrison Ford como um 'blade runner' que caça replicantes rebeldes?",
+      "options": [
+        "O Exterminador do Futuro",
+        "Alien",
+        "Blade Runner",
+        "O Vingador do Futuro"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Blade Runner é vagamente baseado no romance de Philip K. Dick de 1968 'Andróides Sonham com Ovelhas Elétricas?'."
+    },
+    {
+      "category": "culinária",
+      "question": "O queijo gouda é originário de qual país europeu?",
+      "options": [
+        "Holanda",
+        "Suíça",
+        "França",
+        "Dinamarca"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O gouda recebeu o nome da cidade holandesa de Gouda, embora seja produzido em toda a Holanda."
+    },
+    {
+      "category": "animais",
+      "question": "Qual é o termo coletivo único usado para descrever um bando de corvos?",
+      "options": [
+        "Uma ninhada",
+        "Um parlamento",
+        "Uma exaltação",
+        "Um assassinato"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Um grupo de corvos é famoso por ser chamado de 'murder' (assassinato) devido ao antigo folclore que associava as aves à morte e a presságios sinistros."
+    },
+    {
+      "category": "esportes",
+      "question": "No esporte de curling, como se chama o objeto que os jogadores deslizam pelo gelo?",
+      "options": [
+        "Um peso",
+        "Uma bola",
+        "Um disco",
+        "Uma pedra"
+      ],
+      "answer_index": 3,
+      "fun_fact": "As pedras de curling são feitas exclusivamente de um granito raro e denso extraído em Ailsa Craig, uma ilha na costa da Escócia."
+    },
+    {
+      "category": "idioma",
+      "question": "Qual é o termo linguístico para palavras que se soletram da mesma forma de frente para trás e de trás para frente, como 'arara' ou 'radar'?",
+      "options": [
+        "Homófonos",
+        "Antônimos",
+        "Palíndromos",
+        "Acrônimos"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A palavra 'palíndromo' vem de raízes gregas que significam 'correr de volta para trás'."
+    },
+    {
+      "category": "espaço",
+      "question": "Qual planeta do nosso sistema solar possui a montanha mais alta, o Monte Olimpo?",
+      "options": [
+        "Terra",
+        "Marte",
+        "Mercúrio",
+        "Vênus"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O Monte Olimpo é um vulcão em escudo em Marte que tem aproximadamente três vezes a altura do Monte Everest."
+    },
+    {
+      "category": "geografia",
+      "question": "O Deserto do Atacama, conhecido como um dos lugares mais secos da Terra, está localizado principalmente em qual país?",
+      "options": [
+        "Bolívia",
+        "Chile",
+        "Argentina",
+        "Peru"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Algumas estações meteorológicas no Deserto do Atacama nunca registraram uma única gota de chuva na história registrada."
+    }
+  ]
+}

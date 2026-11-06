@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-06",
+  "title": "Quiz di cultura generale del giorno: 6 novembre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Qual è l'unico paese senza sbocco al mare nel Sud-est asiatico?",
+      "options": [
+        "Vietnam",
+        "Laos",
+        "Thailandia",
+        "Cambogia"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Il Laos è completamente circondato dalla terraferma e confina con Myanmar, Cina, Vietnam, Cambogia e Thailandia."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è il principale principio attivo che conferisce ai peperoncini il loro sapore piccante?",
+      "options": [
+        "Curcumina",
+        "Capsaicina",
+        "Piperina",
+        "Allicina"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La capsaicina è un composto chimico che si lega ai recettori del dolore nella bocca, ingannando il cervello e facendogli percepire il calore."
+    },
+    {
+      "category": "storia",
+      "question": "Chi fu il famoso generale cartaginese che attraversò le Alpi con elefanti da guerra per attaccare la Repubblica Romana?",
+      "options": [
+        "Scipione l'Africano",
+        "Pirro",
+        "Amilcare",
+        "Annibale"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Annibale Barca guidò il suo esercito, compresi gli elefanti africani, attraverso le Alpi innevate durante la Seconda guerra punica nel 218 a.C."
+    },
+    {
+      "category": "cinema e pop culture",
+      "question": "Quale film di fantascienza del 1982 diretto da Ridley Scott vede Harrison Ford nei panni di un 'blade runner' a caccia di replicanti ribelli?",
+      "options": [
+        "The Terminator",
+        "Alien",
+        "Blade Runner",
+        "Atto di forza"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Blade Runner è liberamente ispirato al romanzo del 1968 di Philip K. Dick 'Il cacciatore di androidi'."
+    },
+    {
+      "category": "cucina",
+      "question": "Il formaggio Gouda è originario di quale paese europeo?",
+      "options": [
+        "Paesi Bassi",
+        "Svizzera",
+        "Francia",
+        "Danimarca"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il Gouda prende il nome dalla città olandese di Gouda, sebbene sia prodotto in tutti i Paesi Bassi."
+    },
+    {
+      "category": "animali",
+      "question": "Qual è il termine collettivo unico usato per descrivere un gruppo di corvi?",
+      "options": [
+        "Un kindle",
+        "Un parlamento",
+        "Un'esaltazione",
+        "Un omicidio"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Un gruppo di corvi viene notoriamente chiamato 'murder' (omicidio) a causa di vecchie leggende che associavano gli uccelli alla morte e a presagi cupi."
+    },
+    {
+      "category": "sport",
+      "question": "Nel curling, come si chiama l'oggetto che i giocatori fanno scivolare sul ghiaccio?",
+      "options": [
+        "Un peso",
+        "Una palla",
+        "Un disco",
+        "Una pietra"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Le pietre da curling sono fatte esclusivamente di un raro e denso granito estratto ad Ailsa Craig, un'isola al largo della costa scozzese."
+    },
+    {
+      "category": "lingua",
+      "question": "Qual è il termine linguistico per le parole che si scrivono allo stesso modo da sinistra a destra e viceversa, come 'radar' o 'kayak'?",
+      "options": [
+        "Omofoni",
+        "Antonomi",
+        "Palindromi",
+        "Acronimi"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La parola 'palindromo' deriva da radici greche che significano 'che corre all'indietro'."
+    },
+    {
+      "category": "spazio",
+      "question": "Quale pianeta del nostro sistema solare ospita la montagna più alta, il Monte Olimpo?",
+      "options": [
+        "Terra",
+        "Marte",
+        "Mercurio",
+        "Venere"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Il Monte Olimpo è un vulcano a scudo su Marte che è circa tre volte l'altezza del Monte Everest."
+    },
+    {
+      "category": "geografia",
+      "question": "Il deserto di Atacama, noto come uno dei luoghi più aridi della Terra, si trova principalmente in quale paese?",
+      "options": [
+        "Bolivia",
+        "Cile",
+        "Argentina",
+        "Perù"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Alcune stazioni meteorologiche nel deserto di Atacama non hanno mai registrato una sola goccia di pioggia nella storia registrata."
+    }
+  ]
+}

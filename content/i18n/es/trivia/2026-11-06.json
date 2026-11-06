@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-06",
+  "title": "Cuestionario diario de cultura general: 6 de noviembre de 2026",
+  "questions": [
+    {
+      "category": "geografía",
+      "question": "¿Qué país es la única nación sin salida al mar en el sudeste asiático?",
+      "options": [
+        "Vietnam",
+        "Laos",
+        "Tailandia",
+        "Camboya"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Laos está completamente rodeado por tierra, limitando con Birmania, China, Vietnam, Camboya y Tailandia."
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Cuál es el principal ingrediente activo que le da a los chiles su picor?",
+      "options": [
+        "Curcumina",
+        "Capsaicina",
+        "Piperina",
+        "Alicina"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La capsaicina es un compuesto químico que se une a los receptores del dolor en la boca, engañando al cerebro para que sienta calor."
+    },
+    {
+      "category": "historia",
+      "question": "¿Quién fue el famoso general cartaginés que cruzó los Alpes con elefantes de guerra para atacar a la República romana?",
+      "options": [
+        "Escipión el Africano",
+        "Pirro",
+        "Amílcar",
+        "Aníbal"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Aníbal Barca guió a su ejército, incluidos elefantes africanos, a través de los nevados Alpes durante la segunda guerra púnica en el 218 a. C."
+    },
+    {
+      "category": "cine y cultura pop",
+      "question": "¿Qué película de ciencia ficción de 1982 dirigida por Ridley Scott está protagonizada por Harrison Ford como un 'blade runner' que caza replicantes renegados?",
+      "options": [
+        "The Terminator",
+        "Alien",
+        "Blade Runner",
+        "Total Recall"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Blade Runner está basada libremente en la novela de Philip K. Dick de 1968 '¿Sueñan los androides con ovejas eléctricas?'."
+    },
+    {
+      "category": "comida",
+      "question": "¿De qué país europeo es originario el queso Gouda?",
+      "options": [
+        "Países Bajos",
+        "Suiza",
+        "Francia",
+        "Dinamarca"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El Gouda debe su nombre a la ciudad neerlandesa de Gouda, aunque se produce en todos los Países Bajos."
+    },
+    {
+      "category": "animales",
+      "question": "¿Cuál es el sustantivo colectivo único que se usa para describir a un grupo de cuervos?",
+      "options": [
+        "Una camada",
+        "Un parlamento",
+        "Una exaltación",
+        "Un asesinato"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A un grupo de cuervos se le llama popularmente 'asesinato' debido al viejo folclore que asociaba a estas aves con la muerte y los augurios siniestros."
+    },
+    {
+      "category": "deportes",
+      "question": "En el deporte del curling, ¿cómo se llama el objeto que los jugadores deslizan sobre el hielo?",
+      "options": [
+        "Una pesa",
+        "Una pelota",
+        "Un disco",
+        "Una piedra"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Las piedras de curling están hechas exclusivamente de un granito denso y raro extraído en Ailsa Craig, una isla frente a la costa de Escocia."
+    },
+    {
+      "category": "idioma",
+      "question": "¿Cuál es el término lingüístico para las palabras que se deletrean igual de izquierda a derecha que de derecha a izquierda, como 'radar' o 'kayak'?",
+      "options": [
+        "Homófonos",
+        "Antónimos",
+        "Palíndromos",
+        "Acrónimos"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La palabra 'palíndromo' proviene de raíces griegas que significan 'correr hacia atrás de nuevo'."
+    },
+    {
+      "category": "espacio",
+      "question": "¿Qué planeta de nuestro sistema solar tiene la montaña más alta, el Monte Olimpo?",
+      "options": [
+        "Tierra",
+        "Marte",
+        "Mercurio",
+        "Venus"
+      ],
+      "answer_index": 1,
+      "fun_fact": "El Monte Olimpo es un volcán en escudo en Marte que mide aproximadamente tres veces la altura del Monte Everest."
+    },
+    {
+      "category": "geografía",
+      "question": "El desierto de Atacama, conocido como uno de los lugares más secos de la Tierra, se encuentra principalmente en ¿qué país?",
+      "options": [
+        "Bolivia",
+        "Chile",
+        "Argentina",
+        "Perú"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Algunas estaciones meteorológicas en el desierto de Atacama nunca han registrado ni una sola gota de lluvia desde que se tiene memoria."
+    }
+  ]
+}
