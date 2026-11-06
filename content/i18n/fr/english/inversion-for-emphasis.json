@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-29",
+  "slug": "inversion-for-emphasis",
+  "cefr": "B2",
+  "cat": "grammar",
+  "emoji": "🔥",
+  "title": "Perfectionner son anglais grâce à l'inversion",
+  "summary": "Découvrez comment commencer vos phrases par des mots négatifs pour gagner en intensité dramatique et émotionnelle. Vous apprendrez des tournures naturelles pour appuyer vos propos en utilisant des structures telles que « Never have I » et « Not only ».",
+  "sections": [
+    {
+      "h": "Pourquoi utiliser l'inversion ?",
+      "p": "Normalement, les phrases en anglais suivent un ordre standard : le sujet d'abord, puis le verbe. Mais lorsque nous voulons donner plus de force, de formalisme ou de surprise à notre message, nous pouvons placer un mot négatif tout au début. En faisant cela, nous inversons l'ordre du sujet et de l'auxiliaire, exactement comme pour poser une question. C'est un outil formidable pour les discours, l'écrit et les conversations expressives.",
+      "ex": [
+        {
+          "en": "Never have I seen such a beautiful sunset.",
+          "mean": "I have truly never seen a sunset this amazing before."
+        },
+        {
+          "en": "Rarely do we get a day off work.",
+          "mean": "We almost never get a day off."
+        }
+      ]
+    },
+    {
+      "h": "Utiliser Never Have I",
+      "p": "L'expression « Never have I » est une façon percutante de parler de vos expériences de vie. Au lieu de dire « I have never felt so happy », vous placez « Never » en premier, suivi de « have I » et du verbe principal au participe passé. Cela crée un impact émotionnel immédiat et capte instantanément l'attention de votre interlocuteur.",
+      "ex": [
+        {
+          "en": "Never have I tasted food so delicious.",
+          "mean": "This is the best food I have ever eaten."
+        },
+        {
+          "en": "Never have I heard such terrible news.",
+          "mean": "I am deeply shocked by this very bad news."
+        }
+      ]
+    },
+    {
+      "h": "Ajouter des idées avec Not Only",
+      "p": "Quand vous souhaitez exprimer deux arguments de taille, vous pouvez commencer par « Not only ». Cette structure vous aide à lier vos idées avec fluidité tout en ajoutant du dynamisme. N'oubliez pas d'inverser le sujet et l'auxiliaire dans la première partie de la phrase, et d'utiliser « but also » dans la seconde pour introduire la dernière information.",
+      "ex": [
+        {
+          "en": "Not only is she smart, but she is also very kind.",
+          "mean": "She has both great intelligence and a kind heart."
+        },
+        {
+          "en": "Not only did we miss the train, but we also lost our umbrellas.",
+          "mean": "We had two bad things happen to us at once."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Inversion",
+      "mean": "modifier l'ordre normal des mots"
+    },
+    {
+      "en": "Emphasis",
+      "mean": "mettre quelque chose en valeur"
+    },
+    {
+      "en": "Auxiliary verb",
+      "mean": "verbe d'aide comme have ou do"
+    },
+    {
+      "en": "Never have I",
+      "mean": "façon percutante de dire que je n'ai jamais fait quelque chose"
+    },
+    {
+      "en": "Not only",
+      "mean": "introduire un double argument"
+    },
+    {
+      "en": "Rarely",
+      "mean": "presque jamais"
+    },
+    {
+      "en": "Formal",
+      "mean": "style sérieux et poli"
+    }
+  ],
+  "tip": "Voyez l'inversion comme le fait de vous lever au milieu d'une foule pour faire une annonce importante. Commencez par le mot négatif, inversez le verbe et le sujet, et parlez avec assurance !",
+  "quiz": [
+    {
+      "ask": "Choisissez la phrase inversée correcte",
+      "en": "___ seen such a busy city before.",
+      "choices": [
+        "Never have I",
+        "I have never",
+        "Never I have"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Sélectionnez la forme verbale adéquate",
+      "en": "Not only ___ he late, but he also forgot his keys.",
+      "choices": [
+        "he was",
+        "did he",
+        "was"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Complétez la phrase pour insister",
+      "en": "___ do we visit our grandparents.",
+      "choices": [
+        "Often",
+        "Rarely",
+        "Always"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez l'ordre des mots de type interrogatif pour insister",
+      "en": "Never ___ such an amazing movie.",
+      "choices": [
+        "I have watched",
+        "watched I",
+        "have I watched"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Sélectionnez le connecteur correct pour aller avec 'not only'",
+      "en": "Not only is the food cheap, ___ it is delicious.",
+      "choices": [
+        "but also",
+        "and also",
+        "plus"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Identifiez la bonne inversion",
+      "en": "Seldom ___ such rude behavior.",
+      "choices": [
+        "I have seen",
+        "have I seen",
+        "did I saw"
+      ],
+      "answer_index": 1
+    }
+  ]
+}
