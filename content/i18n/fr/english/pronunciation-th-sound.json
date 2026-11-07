@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-29",
+  "slug": "pronunciation-th-sound",
+  "cefr": "A2",
+  "cat": "vocab",
+  "emoji": "👅",
+  "title": "Prononcer le son 'TH'",
+  "summary": "Dans cette leçon, vous allez apprendre à produire le son anglais 'th'. Vous vous entraînerez également sur des mots qui se ressemblent afin d'améliorer votre expression orale.",
+  "sections": [
+    {
+      "h": "Comment produire le son 'TH'",
+      "p": "Pour produire le son 'th', placez le bout de votre langue entre vos dents du haut et du bas. Soufflez ensuite doucement de l'air par la bouche. N'utilisez pas vos cordes vocales pour des mots comme 'think'. Laissez simplement l'air s'échapper en sifflotant doucement comme un chat heureux. Essayez de garder votre langue détendue et laissez-en dépasser un petit bout.",
+      "ex": [
+        {
+          "en": "I think this is a good idea.",
+          "mean": "Je crois que c'est un bon plan."
+        },
+        {
+          "en": "Thank you for your help.",
+          "mean": "Je vous suis reconnaissant pour votre aide."
+        },
+        {
+          "en": "My birthday is in three days.",
+          "mean": "Je prends un an de plus dans 72 heures."
+        }
+      ]
+    },
+    {
+      "h": "Le son 'TH' voisé",
+      "p": "Parfois, le son 'th' fait intervenir votre voix. Gardez votre langue entre vos dents, mais faites un bourdonnement dans votre gorge, comme une abeille. Vous pouvez sentir votre gorge vibrer si vous y posez la main. Des mots comme 'this', 'that' et 'they' utilisent ce son voisé.",
+      "ex": [
+        {
+          "en": "This is my favorite book.",
+          "mean": "Voici le livre que je préfère."
+        },
+        {
+          "en": "They are going to the store.",
+          "mean": "Ces gens marchent vers la boutique."
+        },
+        {
+          "en": "Brother, can you help me?",
+          "mean": "Frère, s'il te plaît, aide-moi."
+        }
+      ]
+    },
+    {
+      "h": "Que sont les paires minimales ?",
+      "p": "Les paires minimales sont deux mots qui se ressemblent presque, mais dont un tout petit son change complètement le sens. Par exemple, 'think' et 'sink' se prononcent de façon très similaire. Si vous ne sortez pas la langue pour 'think', on pourrait croire que vous dites 'sink'. S'entraîner avec ces paires vous aide à parler plus clairement.",
+      "ex": [
+        {
+          "en": "I need to think about it.",
+          "mean": "Je dois réfléchir à la situation."
+        },
+        {
+          "en": "The boat will sink in the water.",
+          "mean": "Le bateau va couler jusqu'au fond."
+        },
+        {
+          "en": "I want a thin slice of pizza.",
+          "mean": "Je veux une toute petite part de pizza."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "tongue",
+      "mean": "muscle dans la bouche"
+    },
+    {
+      "en": "teeth",
+      "mean": "os blancs et durs"
+    },
+    {
+      "en": "breath",
+      "mean": "air que l'on inspire"
+    },
+    {
+      "en": "voice",
+      "mean": "son provenant de la gorge"
+    },
+    {
+      "en": "minimal pair",
+      "mean": "mots similaires"
+    },
+    {
+      "en": "practice",
+      "mean": "le refaire"
+    },
+    {
+      "en": "clear",
+      "mean": "facile à comprendre"
+    }
+  ],
+  "tip": "Installez un petit miroir devant vous lors de votre entraînement. Assurez-vous de bien voir votre langue entre vos dents à chaque fois que vous prononcez un mot en 'th' !",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct pour compléter le texte",
+      "en": "I need to ___ about my new job.",
+      "choices": [
+        "sink",
+        "think",
+        "wink"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct pour compléter le texte",
+      "en": "Can you give me ___ pen over there?",
+      "choices": [
+        "that",
+        "fat",
+        "cat"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct pour compléter le texte",
+      "en": "My brother has a very ___ pencil.",
+      "choices": [
+        "sin",
+        "tin",
+        "thin"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct pour compléter le texte",
+      "en": "___ are my best friends.",
+      "choices": [
+        "Day",
+        "They",
+        "Say"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct pour compléter le texte",
+      "en": "Today is my ___ birthday.",
+      "choices": [
+        "third",
+        "bird",
+        "word"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct pour compléter le texte",
+      "en": "Please put your tongue between your ___.",
+      "choices": [
+        "feet",
+        "hands",
+        "teeth"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

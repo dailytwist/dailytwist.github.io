@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-07",
+  "title": "Daily Knowledge Blast: November 07, 2026",
+  "questions": [
+    {
+      "category": "Geography",
+      "question": "Which African country has the highest population?",
+      "options": [
+        "Egypt",
+        "Nigeria",
+        "South Africa",
+        "Ethiopia"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Nigeria is the most populous nation in Africa and the sixth most populous in the world."
+    },
+    {
+      "category": "Science",
+      "question": "What is the powerhouse of the cell responsible for generating most of the chemical energy needed?",
+      "options": [
+        "Golgi apparatus",
+        "Mitochondria",
+        "Ribosome",
+        "Nucleus"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Mitochondria contain their own distinct DNA separate from the rest of the cell."
+    },
+    {
+      "category": "History",
+      "question": "In what year did the Berlin Wall fall, marking a symbolic end to the Cold War?",
+      "options": [
+        "1993",
+        "1989",
+        "1987",
+        "1991"
+      ],
+      "answer_index": 1,
+      "fun_fact": "The fall of the Berlin Wall on November 9, 1989, paved the way for the reunification of Germany."
+    },
+    {
+      "category": "Movies & Pop Culture",
+      "question": "Which 1994 animated Disney film features the song 'Circle of Life'?",
+      "options": [
+        "Mulan",
+        "The Lion King",
+        "Beauty and the Beast",
+        "Aladdin"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Elton John and Tim Rice composed the legendary music for The Lion King."
+    },
+    {
+      "category": "Food",
+      "question": "Which spice, known as the most expensive in the world by weight, comes from the threads of the Crocus sativus flower?",
+      "options": [
+        "Vanilla",
+        "Cardamom",
+        "Saffron",
+        "Cinnamon"
+      ],
+      "answer_index": 2,
+      "fun_fact": "It takes approximately 75,000 saffron blossoms to harvest just a single pound of saffron spice."
+    },
+    {
+      "category": "Animals",
+      "question": "What is the primary diet of a giant panda?",
+      "options": [
+        "Fish",
+        "Eucalyptus leaves",
+        "Insects",
+        "Bamboo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Giant pandas spend up to 12 hours a day chewing and eating bamboo to meet their daily nutritional needs."
+    },
+    {
+      "category": "Sports",
+      "question": "How many players are on the pitch for a single team in a standard association football (soccer) match?",
+      "options": [
+        "9",
+        "10",
+        "12",
+        "11"
+      ],
+      "answer_index": 3,
+      "fun_fact": "The 11-player rule per team has been a standard regulation in association football since the late 19th century."
+    },
+    {
+      "category": "Language",
+      "question": "What is the term for a word or phrase that reads the same backward as forward, ignoring spaces and punctuation?",
+      "options": [
+        "Synonym",
+        "Acronym",
+        "Homonym",
+        "Palindrome"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A classic English sentence palindrome is 'A man, a plan, a canal: Panama'."
+    },
+    {
+      "category": "Space",
+      "question": "Which planet in our solar system is known as the 'Red Planet'?",
+      "options": [
+        "Saturn",
+        "Jupiter",
+        "Mars",
+        "Venus"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Mars gets its reddish color from the large amount of iron oxide, or rust, on its surface."
+    },
+    {
+      "category": "History",
+      "question": "Who was the brilliant English mathematician and cryptanalyst who led the team that cracked the Enigma code at Bletchley Park during World War II?",
+      "options": [
+        "Alan Turing",
+        "John von Neumann",
+        "Stephen Hawking",
+        "Charles Babbage"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Alan Turing's pioneering work in theoretical computer science laid the foundation for modern computing and artificial intelligence."
+    }
+  ]
+}

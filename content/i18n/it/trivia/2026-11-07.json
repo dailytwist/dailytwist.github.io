@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-07",
+  "title": "Esplosione di Conoscenza Quotidiana: 7 Novembre 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Quale paese africano ha la popolazione più numerosa?",
+      "options": [
+        "Egitto",
+        "Nigeria",
+        "Sudafrica",
+        "Etiopia"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La Nigeria è la nazione più popolosa dell'Africa e la sesta al mondo."
+    },
+    {
+      "category": "Scienza",
+      "question": "Qual è la centrale energetica della cellula responsabile della generazione della maggior parte dell'energia chimica necessaria?",
+      "options": [
+        "Apparato di Golgi",
+        "Mitocondrio",
+        "Ribosoma",
+        "Nucleo"
+      ],
+      "answer_index": 1,
+      "fun_fact": "I mitocondri contengono un proprio DNA distinto, separato dal resto della cellula."
+    },
+    {
+      "category": "Storia",
+      "question": "In quale anno è caduto il Muro di Berlino, segnando una fine simbolica della Guerra Fredda?",
+      "options": [
+        "1993",
+        "1989",
+        "1987",
+        "1991"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La caduta del Muro di Berlino il 9 novembre 1989 ha spianato la strada alla riunificazione della Germania."
+    },
+    {
+      "category": "Cinema e Pop Culture",
+      "question": "Quale film d'animazione Disney del 1994 include la canzone 'Il cerchio della vita'?",
+      "options": [
+        "Mulan",
+        "Il Re Leone",
+        "La Bella e la Bestia",
+        "Aladdin"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Elton John e Tim Rice hanno composto la leggendaria musica per Il Re Leone."
+    },
+    {
+      "category": "Cucina",
+      "question": "Quale spezia, nota per essere la più costosa al mondo a parità di peso, si ricava dai filamenti del fiore Crocus sativus?",
+      "options": [
+        "Vaniglia",
+        "Cardamomo",
+        "Zafferano",
+        "Cannella"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Ci vogliono circa 75.000 fiori di zafferano per raccogliere appena mezzo chilo di questa spezia."
+    },
+    {
+      "category": "Animali",
+      "question": "Qual è la dieta principale di un panda gigante?",
+      "options": [
+        "Pesce",
+        "Foglie di eucalipto",
+        "Insetti",
+        "Bambù"
+      ],
+      "answer_index": 3,
+      "fun_fact": "I panda giganti trascorrono fino a 12 ore al giorno a masticare e mangiare bambù per soddisfare il loro fabbisogno nutrizionale quotidiano."
+    },
+    {
+      "category": "Sport",
+      "question": "Quanti giocatori ci sono in campo per una singola squadra in una partita standard di calcio?",
+      "options": [
+        "9",
+        "10",
+        "12",
+        "11"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La regola degli 11 giocatori per squadra è un regolamento standard nel calcio fin dalla fine del XIX secolo."
+    },
+    {
+      "category": "Linguaggio",
+      "question": "Come si chiama una parola o una frase che si legge allo stesso modo da sinistra a destra e viceversa, ignorando spazi e punteggiatura?",
+      "options": [
+        "Sinonimo",
+        "Acronimo",
+        "Omonimo",
+        "Palindromo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Un classico esempio di frase palindroma in inglese è 'A man, a plan, a canal: Panama'."
+    },
+    {
+      "category": "Spazio",
+      "question": "Quale pianeta del nostro sistema solare è noto come il 'Pianeta Rosso'?",
+      "options": [
+        "Saturno",
+        "Giove",
+        "Marte",
+        "Venere"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Marte deve il suo colore rossastro alla grande quantità di ossido di ferro, ovvero ruggine, presente sulla sua superficie."
+    },
+    {
+      "category": "Storia",
+      "question": "Chi fu il brillante matematico e crittanalista inglese che diresse il team che decifrò il codice Enigma a Bletchley Park durante la Seconda Guerra Mondiale?",
+      "options": [
+        "Alan Turing",
+        "John von Neumann",
+        "Stephen Hawking",
+        "Charles Babbage"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il lavoro pionieristico di Alan Turing nell'informatica teorica ha gettato le basi per il calcolo moderno e l'intelligenza artificiale."
+    }
+  ]
+}

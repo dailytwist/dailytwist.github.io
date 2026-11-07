@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-07",
+  "title": "Explosión de conocimiento diario: 07 de noviembre de 2026",
+  "questions": [
+    {
+      "category": "Geografía",
+      "question": "¿Qué país africano tiene la población más alta?",
+      "options": [
+        "Egipto",
+        "Nigeria",
+        "Sudáfrica",
+        "Etiopía"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Nigeria es la nación más poblada de África y la sexta más poblada del mundo."
+    },
+    {
+      "category": "Ciencia",
+      "question": "¿Cuál es la central energética de la célula responsable de generar la mayor parte de la energía química necesaria?",
+      "options": [
+        "Aparato de Golgi",
+        "Mitocondria",
+        "Ribosoma",
+        "Núcleo"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Las mitocondrias contienen su propio ADN distintivo, separado del resto de la célula."
+    },
+    {
+      "category": "Historia",
+      "question": "¿En qué año cayó el Muro de Berlín, marcando un final simbólico para la Guerra Fría?",
+      "options": [
+        "1993",
+        "1989",
+        "1987",
+        "1991"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La caída del Muro de Berlín el 9 de noviembre de 1989 abrió el camino para la reunificación de Alemania."
+    },
+    {
+      "category": "Cine y cultura pop",
+      "question": "¿Qué película animada de Disney de 1994 incluye la canción 'Circle of Life'?",
+      "options": [
+        "Mulan",
+        "El Rey León",
+        "La Bella y la Bestia",
+        "Aladdín"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Elton John y Tim Rice compusieron la legendaria música de El Rey León."
+    },
+    {
+      "category": "Comida",
+      "question": "¿Qué especia, conocida como la más cara del mundo por su peso, proviene de los filamentos de la flor Crocus sativus?",
+      "options": [
+        "Vainilla",
+        "Cardamomo",
+        "Azafrán",
+        "Canela"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Se necesitan aproximadamente 75 000 flores de azafrán para cosechar apenas una sola libra de esta especia."
+    },
+    {
+      "category": "Animales",
+      "question": "¿Cuál es la dieta principal de un panda gigante?",
+      "options": [
+        "Pescado",
+        "Hojas de eucalipto",
+        "Insectos",
+        "Bambú"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Los pandas gigantes pasan hasta 12 horas al día masticando y comiendo bambú para cubrir sus necesidades nutricionales diarias."
+    },
+    {
+      "category": "Deportes",
+      "question": "¿Cuántos jugadores hay en el campo por cada equipo en un partido estándar de fútbol?",
+      "options": [
+        "9",
+        "10",
+        "12",
+        "11"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La regla de los 11 jugadores por equipo ha sido un reglamento estándar en el fútbol asociativo desde finales del siglo XIX."
+    },
+    {
+      "category": "Lenguaje",
+      "question": "¿Cómo se le llama a una palabra o frase que se lee igual al revés que al derecho, ignorando los espacios y la puntuación?",
+      "options": [
+        "Sinónimo",
+        "Acrónimo",
+        "Homónimo",
+        "Palíndromo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Un palíndromo clásico en inglés es 'A man, a plan, a canal: Panama'."
+    },
+    {
+      "category": "Espacio",
+      "question": "¿Qué planeta de nuestro sistema solar se conoce como el 'Planeta Rojo'?",
+      "options": [
+        "Saturno",
+        "Júpiter",
+        "Marte",
+        "Venus"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Marte adquiere su color rojizo debido a la gran cantidad de óxido de hierro, o herrumbre, en su superficie."
+    },
+    {
+      "category": "Historia",
+      "question": "¿Quién fue el brillante matemático y criptoanalista inglés que dirigió el equipo que descifró el código Enigma en Bletchley Park durante la Segunda Guerra Mundial?",
+      "options": [
+        "Alan Turing",
+        "John von Neumann",
+        "Stephen Hawking",
+        "Charles Babbage"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El trabajo pionero de Alan Turing en la informática teórica sentó las bases de la computación moderna y la inteligencia artificial."
+    }
+  ]
+}
