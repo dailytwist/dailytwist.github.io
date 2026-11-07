@@ -401,6 +401,20 @@ def translate_json(obj, lang: str, max_tokens: int = 8000, tries: int = 2):
     return out
 
 
+_EN_STOP = {"the", "and", "with", "that", "this", "from", "have", "your", "you", "are", "for", "is"}
+
+
+def _lang_ok(out, lang: str) -> bool:
+    """Guard against a 'translation' that is still English (an untranslated copy is duplicate content)."""
+    txt = re.sub(r"<[^>]+>|https?://\S+|{\w+}", " ", json.dumps(out, ensure_ascii=False))
+    if len(txt) < 300:
+        return True
+    if lang in ("ja", "ar", "zh", "ko", "ru", "hi"):
+        return sum(ord(c) > 127 for c in txt) / len(txt) > 0.25
+    w = re.findall(r"[a-z]+", txt.lower())
+    return sum(x in _EN_STOP for x in w) / max(1, len(w)) < 0.05
+
+
 def _translate_whole(obj, lang: str, max_tokens: int = 8000, tries: int = 2):
     src = _strip(obj)
     last = None
@@ -416,6 +430,8 @@ JSON:
 {json.dumps(src, ensure_ascii=False)}""", max_tokens=max_tokens)
             if _shape(out) != _shape(src):
                 raise ValueError("translated JSON has a different structure")
+            if not _lang_ok(out, lang):
+                raise ValueError("translation came back in the wrong language")
             return _merge(obj, out)
         except Exception as ex:
             last = ex
