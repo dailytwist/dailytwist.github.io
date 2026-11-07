@@ -1,76 +1,69 @@
-  10 trending topics after filtering
-- horoscopes 2026-11-07
+- guide birthday september-27
 ::warning::Gemini models available: gemini-2.5-flash, gemini-2.5-pro, gemini-2.5-flash-preview-tts, gemini-2.5-pro-preview-tts, gemma-4-26b-a4b-it, gemma-4-31b-it, gemini-flash-latest, gemini-flash-lite-latest, gemini-pro-latest, gemini-2.5-flash-lite, gemini-2.5-flash-image, gemini-3-flash-preview, gemini-3.1-pro-preview, gemini-3.1-pro-preview-customtools, gemini-3.1-flash-lite-preview, gemini-3.1-flash-lite, gemini-3-pro-image-preview, gemini-3-pro-image, nano-banana-pro-preview, gemini-3.1-flash-image-preview, gemini-3.1-flash-image, gemini-3.1-flash-lite-image, gemini-nano-banana-2.1, gemini-3.5-flash, gemini-3.5-flash-lite, gemini-omni-flash-preview, gemini-omni-1.1-flash, gemini-omni-1.2-flash, gemini-3.5-transcribe, gemini-3.6-flash, gemini-3.7-flash, gemini-3.8-flash, gemini-4-argon, lyria-3-clip-preview, lyria-3-pro-preview, lyria-3.5, gemini-3.1-flash-tts-preview, gemini-3.8-flash-tts, gemini-3.8-flash-lite-tts, gemini-robotics-er-2-preview
 ::warning::using Gemini model: gemini-3.5-flash-lite
-  saved content/horoscopes/2026-11-07.json
-- trivia 2026-11-07
-  saved content/trivia/2026-11-07.json
-- choosing articles from trends for 2026-11-07
-  saved content/seeds_used.json
-  saved content/articles/the-hunger-games-explained-history-themes-and-legacy.json
-  saved content/articles/what-is-an-ocarina-history-facts-and-how-it-works.json
-  saved content/articles/moon-sign-meaning-what-your-moon-sign-says-about-you.json
-- guide birthday september-21
-  saved content/guides/birthday-september-21.json
-- guide birthday september-22
-  saved content/guides/birthday-september-22.json
-- guide birthday september-23
-  saved content/guides/birthday-september-23.json
-- guide birthday september-24
-  saved content/guides/birthday-september-24.json
-- guide birthday september-25
-  saved content/guides/birthday-september-25.json
-- guide birthday september-26
-  saved content/guides/birthday-september-26.json
-  saved content/i18n/es/horoscopes/2026-11-07.json
-  saved content/i18n/es/trivia/2026-11-07.json
-  saved content/i18n/es/guides/birthday-september-25.json
-  saved content/i18n/es/guides/birthday-september-26.json
-  saved content/i18n/es/guides/birthday-september-22.json
-  saved content/i18n/es/guides/birthday-september-21.json
-  saved content/i18n/es/guides/birthday-september-23.json
-  saved content/i18n/es/guides/birthday-september-24.json
-  saved content/i18n/es/articles/the-hunger-games-explained-history-themes-and-legacy.json
-  saved content/i18n/fr/horoscopes/2026-11-07.json
-  saved content/i18n/fr/trivia/2026-11-07.json
-  saved content/i18n/fr/guides/birthday-september-25.json
-  saved content/i18n/fr/guides/birthday-september-26.json
-  saved content/i18n/fr/guides/birthday-september-22.json
-  saved content/i18n/fr/guides/birthday-september-21.json
-  saved content/i18n/de/horoscopes/2026-11-07.json
-  saved content/i18n/de/trivia/2026-11-07.json
-  saved content/i18n/de/guides/birthday-september-25.json
-  saved content/i18n/pt/horoscopes/2026-11-07.json
-  saved content/i18n/pt/trivia/2026-11-07.json
+  JSON was broken, asking once more
+  saved content/guides/birthday-september-27.json
+- guide birthday september-28
+  saved content/guides/birthday-september-28.json
+- guide birthday september-29
+  saved content/guides/birthday-september-29.json
+- guide birthday september-30
+  saved content/guides/birthday-september-30.json
+- guide birthday october-1
+  saved content/guides/birthday-october-1.json
+- guide birthday october-2
+  saved content/guides/birthday-october-2.json
+  saved content/i18n/es/guides/birthday-september-29.json
+  saved content/i18n/es/guides/birthday-september-28.json
+  saved content/i18n/es/guides/birthday-october-1.json
+  saved content/i18n/es/guides/birthday-september-30.json
+  saved content/i18n/es/guides/birthday-september-27.json
+  saved content/i18n/es/guides/birthday-october-2.json
+  saved content/i18n/es/guides/angel-505.json
+  JSON was broken, asking once more
+  saved content/i18n/es/english/superlatives.json
+  saved content/i18n/es/english/much-many-a-lot-of.json
+  saved content/i18n/fr/guides/birthday-september-29.json
+  saved content/i18n/fr/guides/birthday-september-28.json
+  saved content/i18n/fr/guides/birthday-october-1.json
+  saved content/i18n/fr/guides/birthday-september-30.json
+  saved content/i18n/fr/guides/birthday-september-27.json
+  saved content/i18n/fr/guides/birthday-october-2.json
+  saved content/i18n/de/guides/birthday-september-21.json
+  saved content/i18n/de/guides/birthday-september-23.json
+  saved content/i18n/de/guides/birthday-september-29.json
+  saved content/i18n/pt/guides/birthday-september-23.json
+  saved content/i18n/pt/guides/birthday-september-29.json
+  saved content/i18n/pt/guides/birthday-september-24.json
+  saved content/i18n/pt/guides/birthday-september-28.json
+  saved content/i18n/pt/guides/birthday-october-1.json
+  saved content/i18n/pt/guides/birthday-september-30.json
+  saved content/i18n/it/guides/birthday-september-26.json
+  saved content/i18n/it/guides/birthday-september-22.json
+  saved content/i18n/it/guides/birthday-september-21.json
+  saved content/i18n/ja/guides/birthday-september-26.json
+  saved content/i18n/ja/guides/birthday-september-22.json
+  saved content/i18n/ja/guides/birthday-september-21.json
+  saved content/i18n/ar/guides/birthday-september-26.json
+  saved content/i18n/ar/guides/birthday-september-22.json
+  saved content/i18n/ar/guides/birthday-september-21.json
+  saved content/i18n/es/english/countable-uncountable.json
+  saved content/i18n/es/english/comparatives.json
+  saved content/i18n/es/english/going-to-future.json
+  saved content/i18n/es/names/ismail.json
+  saved content/i18n/es/names/walid.json
+  saved content/i18n/es/names/nathan.json
+  saved content/i18n/es/names/tariq.json
+  saved content/i18n/es/names/nabil.json
+  saved content/i18n/es/names/matteo.json
+  saved content/i18n/fr/english/negotiating.json
+  saved content/i18n/fr/english/business-meetings.json
+  saved content/i18n/fr/english/present-perfect-continuous.json
+  saved content/i18n/fr/names/lea.json
   AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/pt/guides/birthday-september-25.json
-  saved content/i18n/pt/guides/birthday-september-26.json
-  saved content/i18n/pt/guides/birthday-september-22.json
-  saved content/i18n/pt/guides/birthday-september-21.json
-  saved content/i18n/it/horoscopes/2026-11-07.json
-  saved content/i18n/it/trivia/2026-11-07.json
-  saved content/i18n/it/guides/birthday-september-25.json
-  saved content/i18n/ja/horoscopes/2026-11-07.json
-  saved content/i18n/ja/trivia/2026-11-07.json
-  saved content/i18n/ja/guides/birthday-september-25.json
-  saved content/i18n/ar/horoscopes/2026-11-07.json
-  saved content/i18n/ar/trivia/2026-11-07.json
-  saved content/i18n/ar/guides/birthday-september-25.json
-  saved content/i18n/es/articles/what-is-an-ocarina-history-facts-and-how-it-works.json
-  saved content/i18n/es/articles/moon-sign-meaning-what-your-moon-sign-says-about-you.json
-  saved content/i18n/es/names/joao.json
-  saved content/i18n/es/names/ziad.json
-  saved content/i18n/es/names/taha.json
-  saved content/i18n/es/articles/leonardo-dicaprio-career-art-and-environmentalism.json
-  saved content/i18n/es/articles/famous-oracles-in-history-and-mythology-what-to-know.json
-  saved content/i18n/es/articles/oracle-vs-prophet-vs-psychic-what-is-the-difference.json
-  saved content/i18n/es/guides/birthday-february-17.json
-  saved content/i18n/fr/guides/birthday-september-23.json
-  saved content/i18n/fr/guides/birthday-september-24.json
-  saved content/i18n/fr/articles/the-hunger-games-explained-history-themes-and-legacy.json
-  saved content/i18n/fr/articles/what-is-an-ocarina-history-facts-and-how-it-works.json
-  saved content/i18n/fr/articles/moon-sign-meaning-what-your-moon-sign-says-about-you.json
-  saved content/i18n/fr/english/pronunciation-th-sound.json
-  saved content/i18n/de/guides/birthday-september-26.json
-  saved content/i18n/de/guides/birthday-september-22.json
+  saved content/i18n/fr/names/luna.json
+  saved content/i18n/fr/names/siham.json
+  saved content/i18n/de/guides/birthday-september-24.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/de/guides/birthday-september-28.json
 Agent finished.

@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-29",
+  "slug": "business-meetings",
+  "cefr": "B2",
+  "cat": "phrases",
+  "emoji": "💼",
+  "title": "Réunions professionnelles : prendre la parole",
+  "summary": "Dans cette leçon, vous apprendrez à partager vos idées et à couper la parole poliment lors de réunions en anglais. Ces expressions utiles vous aideront à paraître sûr de vous et professionnel.",
+  "sections": [
+    {
+      "h": "Prendre la parole",
+      "p": "Lorsque vous souhaitez donner votre avis en réunion, il est important de commencer poliment. Vous pouvez utiliser des expressions simples pour indiquer que vous allez exprimer vos pensées. Cela vous aide à attirer l'attention sans paraître impoli envers vos collègues.",
+      "ex": [
+        {
+          "en": "I'd like to add something here.",
+          "mean": "Je souhaite en dire plus sur ce sujet."
+        },
+        {
+          "en": "From my perspective, we should focus on quality.",
+          "mean": "À mon avis, la qualité est la chose la plus importante."
+        },
+        {
+          "en": "If I could jump in, I think this plan works well.",
+          "mean": "Laissez-moi parler maintenant, j'aime ce plan."
+        }
+      ]
+    },
+    {
+      "h": "Interrompre poliment",
+      "p": "Parfois, d'autres personnes parlent et vous devez intervenir. Vous ne devez jamais leur couper la the parole en criant. Utilisez plutôt des formules polies pour intervenir en douceur. Cela préserve l'ambiance conviviale de la réunion et vous permet de partager vos idées.",
+      "ex": [
+        {
+          "en": "Sorry to cut in, but do we have the budget for this?",
+          "mean": "Excusez-moi de vous interrompre, j'ai une question concernant le budget."
+        },
+        {
+          "en": "Can I just say something quickly?",
+          "mean": "Veuillez me laisser parler un instant."
+        }
+      ]
+    },
+    {
+      "h": "Demander l'avis des autres",
+      "p": "De bonnes réunions incluent tout le monde. Lorsque vous dirigez une réunion, ou que vous souhaitez qu'un collègue silencieux s'exprime, vous devriez lui demander son avis. Cela améliore le travail d'équipe et apporte de nouvelles idées.",
+      "ex": [
+        {
+          "en": "What are your thoughts on this, Sarah?",
+          "mean": "Sarah, dis-moi ce que tu penses de cela."
+        },
+        {
+          "en": "How do you feel about this proposal?",
+          "mean": "Tu aimes cette nouvelle idée ou pas ?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "jump in",
+      "mean": "rejoindre une conversation"
+    },
+    {
+      "en": "perspective",
+      "mean": "point de vue personnel"
+    },
+    {
+      "en": "cut in",
+      "mean": "interrompre quelqu'un qui parle"
+    },
+    {
+      "en": "proposal",
+      "mean": "plan proposé"
+    },
+    {
+      "en": "budget",
+      "mean": "argent disponible"
+    },
+    {
+      "en": "opinion",
+      "mean": "ce que vous pensez"
+    }
+  ],
+  "tip": "Entraînez-vous à dire ces expressions à voix haute avant votre réunion. Une fois que vous les connaîtrez par cœur, vous vous sentirez beaucoup moins nerveux.",
+  "quiz": [
+    {
+      "ask": "Choisissez la meilleure expression pour interrompre poliment",
+      "en": "___, but I have a quick question about the schedule.",
+      "choices": [
+        "Sorry to cut in",
+        "Shut up",
+        "Listen to me",
+        "Stop talking"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la meilleure expression pour donner votre avis",
+      "en": "___, we need to hire more staff.",
+      "choices": [
+        "I don't know",
+        "From my perspective",
+        "Whatever",
+        "Who cares"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne expression pour demander ce que quelqu'un pense",
+      "en": "What are your ___ on this new project?",
+      "choices": [
+        "shoes",
+        "thoughts",
+        "colors",
+        "windows"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon verbe pour participer à une conversation",
+      "en": "If I could ___ in, I have an idea.",
+      "choices": [
+        "walk",
+        "jump",
+        "run",
+        "fly"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le meilleur mot pour un plan d'entreprise suggéré",
+      "en": "The manager liked my ___ for the new website.",
+      "choices": [
+        "proposal",
+        "problem",
+        "mistake",
+        "trouble"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le meilleur terme pour l'argent disponible pour un projet",
+      "en": "We do not have enough ___ to finish this task.",
+      "choices": [
+        "weather",
+        "budget",
+        "paper",
+        "lunch"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

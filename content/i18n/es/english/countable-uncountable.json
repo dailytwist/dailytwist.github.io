@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-24",
+  "slug": "countable-uncountable",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🍎",
+  "title": "Palabras de comida: Contables e incontables, some y any",
+  "summary": "Aprende a hablar sobre comida usando sustantivos contables e incontables. Descubre cuándo usar 'some' y 'any' correctamente.",
+  "sections": [
+    {
+      "h": "Sustantivos contables",
+      "p": "Los sustantivos contables son cosas que podemos contar con números. Podemos usar 'a' o 'an' antes de ellos en singular. También tienen una forma en plural con una 's' al final, como manzanas (apples) o plátanos (bananas). Puedes preguntar 'How many?' para estas palabras.",
+      "ex": [
+        {
+          "en": "I have an apple in my bag.",
+          "mean": "Una manzana que puedes contar."
+        },
+        {
+          "en": "Do you want two bananas?",
+          "mean": "Preguntando por una cantidad específica de plátanos."
+        },
+        {
+          "en": "We need to buy some carrots.",
+          "mean": "Más de una zanahoria, en forma plural."
+        }
+      ]
+    },
+    {
+      "h": "Sustantivos incontables",
+      "p": "Los sustantivos incontables son cosas que no podemos contar con números. No tienen forma en plural, así que nunca llevan 's' al final. No podemos usar 'a' o 'an' con ellos. Puedes preguntar 'How much?' para estas palabras, como el agua (water), la leche (milk) o el arroz (rice).",
+      "ex": [
+        {
+          "en": "I drink water every day.",
+          "mean": "El agua es incontable, no tiene plural."
+        },
+        {
+          "en": "Can I have some milk, please?",
+          "mean": "Pidiendo una cantidad incontable de líquido."
+        },
+        {
+          "en": "There is no rice left in the kitchen.",
+          "mean": "El arroz es una sustancia que no se cuenta uno por uno."
+        }
+      ]
+    },
+    {
+      "h": "Uso de 'Some' y 'Any'",
+      "p": "Usamos 'some' en oraciones afirmativas tanto para sustantivos contables como incontables cuando tenemos cierta cantidad. Usamos 'any' en oraciones negativas con 'not' y en preguntas. 'Any' significa cero o se usa para preguntar si algo existe.",
+      "ex": [
+        {
+          "en": "I have some bread for breakfast.",
+          "mean": "Oración afirmativa con un sustantivo incontable."
+        },
+        {
+          "en": "We do not have any apples.",
+          "mean": "Oración negativa usando 'any'."
+        },
+        {
+          "en": "Do you have any questions?",
+          "mean": "Pregunta usando 'any'."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "countable",
+      "mean": "cosas que puedes contar"
+    },
+    {
+      "en": "uncountable",
+      "mean": "cosas que no puedes contar"
+    },
+    {
+      "en": "some",
+      "mean": "una cantidad en oraciones afirmativas"
+    },
+    {
+      "en": "any",
+      "mean": "usado en preguntas y negativas"
+    },
+    {
+      "en": "apple",
+      "mean": "una fruta contable"
+    },
+    {
+      "en": "water",
+      "mean": "una bebida incontable"
+    },
+    {
+      "en": "bread",
+      "mean": "un alimento incontable"
+    },
+    {
+      "en": "banana",
+      "mean": "una fruta contable"
+    }
+  ],
+  "tip": "Recuerda: si puedes poner un número como 'uno' o 'dos' directamente delante del sustantivo, es contable. Si suena raro, ¡probablemente sea incontable!",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "I want to buy ___ apple.",
+      "choices": [
+        "a",
+        "an",
+        "some",
+        "any"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "Do we have ___ milk in the fridge?",
+      "choices": [
+        "some",
+        "a",
+        "any",
+        "an"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "She ate ___ rice for lunch.",
+      "choices": [
+        "a",
+        "an",
+        "any",
+        "some"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "There are not ___ oranges left.",
+      "choices": [
+        "any",
+        "some",
+        "an",
+        "a"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "He bought ___ new shoes yesterday.",
+      "choices": [
+        "any",
+        "some",
+        "water",
+        "milk"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "Is there ___ coffee in the cup?",
+      "choices": [
+        "a",
+        "an",
+        "some",
+        "any"
+      ],
+      "answer_index": 3
+    }
+  ]
+}

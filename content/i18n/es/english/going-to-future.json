@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-24",
+  "slug": "going-to-future",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🗓️",
+  "title": "Hablando del Futuro",
+  "summary": "Aprende a usar 'be going to' para hablar de tus planes futuros. También aprenderás a hacer predicciones sencillas sobre el clima o cosas que puedes ver.",
+  "sections": [
+    {
+      "h": "Planes futuros",
+      "p": "Usamos 'be going to' más un verbo de acción para hablar de planes que ya hemos hecho para el futuro. Primero, cambia el verbo 'be' a 'am', 'is' o 'are' según tu sujeto. Luego añade 'going to' y la acción principal. Por ejemplo, si tienes planeado viajar la próxima semana, dices 'I am going to travel.' Esto es muy común para hablar de fines de semana, vacaciones y reuniones.",
+      "ex": [
+        {
+          "en": "I am going to visit my grandmother this weekend.",
+          "mean": "Tengo pensado ver a mi abuela pronto."
+        },
+        {
+          "en": "We are going to buy a new car tomorrow.",
+          "mean": "Hemos decidido y planeado comprar un auto."
+        },
+        {
+          "en": "She is going to study English tonight.",
+          "mean": "Ella tiene un plan de estudio para esta noche."
+        }
+      ]
+    },
+    {
+      "h": "Predicciones futuras",
+      "p": "También usamos 'be going to' cuando podemos ver o sentir que algo está pasando ahora mismo y nos indica lo que pasará en un futuro muy cercano. ¡Mira el cielo! Si ves nubes oscuras y densas, ya sabes qué va a pasar. Usamos 'is going to' o 'are going to' para describir estas señales claras a nuestro alrededor.",
+      "ex": [
+        {
+          "en": "Look at those dark clouds! It is going to rain.",
+          "mean": "Veo nubes oscuras, así que va a llover muy pronto."
+        },
+        {
+          "en": "Be careful! You are going to drop that glass.",
+          "mean": "Puedo ver que lo estás sosteniendo mal."
+        }
+      ]
+    },
+    {
+      "h": "Planes negativos",
+      "p": "Para hablar de cosas que no tienes planeado hacer, simplemente añade la palabra 'not' justo después de 'am', 'is' o 'are'. Esto crea una oración negativa. Por ejemplo, 'I am not going to work on Sunday' significa que planeas quedarte en casa a descansar en lugar de trabajar.",
+      "ex": [
+        {
+          "en": "I am not going to cook dinner tonight.",
+          "mean": "No tengo planeado cocinar; tal vez pidamos comida."
+        },
+        {
+          "en": "They are not going to come to the party.",
+          "mean": "Han decidido quedarse en casa."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "be going to",
+      "mean": "frase de planes futuros"
+    },
+    {
+      "en": "plan",
+      "mean": "idea para el futuro"
+    },
+    {
+      "en": "prediction",
+      "mean": "adivinar el futuro"
+    },
+    {
+      "en": "tomorrow",
+      "mean": "el día después de hoy"
+    },
+    {
+      "en": "tonight",
+      "mean": "esta noche"
+    },
+    {
+      "en": "weekend",
+      "mean": "sábado y domingo"
+    },
+    {
+      "en": "rain",
+      "mean": "agua de las nubes"
+    }
+  ],
+  "tip": "Recuerda siempre el orden: Sujeto + am/is/are + going to + verbo de acción. ¡Nunca olvides el 'to'!",
+  "quiz": [
+    {
+      "ask": "Elige la forma correcta de 'be'",
+      "en": "I ___ going to visit my friend tomorrow.",
+      "choices": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "She is going ___ buy a new dress.",
+      "choices": [
+        "to",
+        "for",
+        "at",
+        "going"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Selecciona la oración de predicción correcta",
+      "en": "Look at the grey sky! It ___ going to rain.",
+      "choices": [
+        "am",
+        "be",
+        "is",
+        "are"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la forma negativa correcta",
+      "en": "We ___ going to watch TV tonight.",
+      "choices": [
+        "are not",
+        "is not",
+        "am not",
+        "not are"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra interrogativa correcta",
+      "en": "___ you going to cook dinner?",
+      "choices": [
+        "Am",
+        "Is",
+        "Are",
+        "Do"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Selecciona la forma de acción correcta",
+      "en": "They are going to ___ football on Saturday.",
+      "choices": [
+        "plays",
+        "playing",
+        "played",
+        "play"
+      ],
+      "answer_index": 3
+    }
+  ]
+}
