@@ -81,6 +81,8 @@ jobs:
           path: public
       - id: deploy
         uses: actions/deploy-pages@v4
+        with:
+          timeout: 1800000   # 30 min: the site is big, GitHub sometimes needs more than 10 min to sync it
 
       - name: Tell search engines about new pages (IndexNow)
         continue-on-error: true
