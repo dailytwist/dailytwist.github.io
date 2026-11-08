@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-08",
+  "title": "Daily General Knowledge Quiz: November 8, 2026",
+  "questions": [
+    {
+      "category": "Geography",
+      "question": "Which river is the longest in the world?",
+      "options": [
+        "Amazon River",
+        "Yangtze River",
+        "Nile River",
+        "Mississippi River"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The Nile River flows northward through Africa and empties into the Mediterranean Sea."
+    },
+    {
+      "category": "Science",
+      "question": "What is the hardest naturally occurring substance on Earth?",
+      "options": [
+        "Gold",
+        "Diamond",
+        "Quartz",
+        "Iron"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Diamonds are formed under high pressure and temperature conditions deep within the Earth's mantle."
+    },
+    {
+      "category": "Animals",
+      "question": "Which bird is universally known for its ability to mimic human speech and sounds?",
+      "options": [
+        "Emperor Penguin",
+        "Bald Eagle",
+        "African Grey Parrot",
+        "Peregrine Falcon"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The African Grey Parrot is celebrated for its extraordinary cognitive abilities and large vocal vocabulary."
+    },
+    {
+      "category": "History",
+      "question": "Who was the first emperor of the Roman Empire?",
+      "options": [
+        "Constantine the Great",
+        "Julius Caesar",
+        "Nero",
+        "Augustus"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Augustus, originally named Octavian, was the adopted son of Julius Caesar and founded the Roman Empire in 27 BC."
+    },
+    {
+      "category": "Movies & Pop Culture",
+      "question": "Which 1977 epic space opera film introduced characters like Luke Skywalker, Princess Leia, and Han Solo?",
+      "options": [
+        "Star Trek: The Motion Picture",
+        "Close Encounters of the Third Kind",
+        "Star Wars: Episode IV - A New Hope",
+        "Alien"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Directed by George Lucas, this film became a massive cultural phenomenon and launched one of the most successful franchises in cinema history."
+    },
+    {
+      "category": "Food",
+      "question": "What is the primary alcoholic base used to make a traditional Dark 'n' Stormy cocktail?",
+      "options": [
+        "Dark Rum",
+        "Vodka",
+        "Tequila",
+        "Gin"
+      ],
+      "answer_index": 0,
+      "fun_fact": "A true Dark 'n' Stormy specifically requires Gosling's Black Seal rum and ginger beer."
+    },
+    {
+      "category": "Sports",
+      "question": "In the sport of baseball, how many strikes are required to record a standard strikeout?",
+      "options": [
+        "Two",
+        "Three",
+        "Five",
+        "Four"
+      ],
+      "answer_index": 1,
+      "fun_fact": "A batter is out after accumulating three strikes, which can be swinging, looking, or foul tips with two strikes."
+    },
+    {
+      "category": "Language",
+      "question": "What is the linguistic term for a word that is pronounced the same as another but differs in meaning, origin, or spelling, such as 'bare' and 'bear'?",
+      "options": [
+        "Homophone",
+        "Antonym",
+        "Homonym",
+        "Synonym"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Homophones sound identical when spoken aloud, regardless of how differently their component letters are arranged."
+    },
+    {
+      "category": "Space",
+      "question": "What is the name of the boundary surrounding a black hole beyond which nothing, not even light, can escape?",
+      "options": [
+        "Singularity",
+        "Accretion disk",
+        "Photon sphere",
+        "Event horizon"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Once an object crosses the event horizon, its escape velocity exceeds the speed of light."
+    },
+    {
+      "category": "History",
+      "question": "The historic D-Day invasion of Normandy during World War II took place in which year?",
+      "options": [
+        "1945",
+        "1944",
+        "1943",
+        "1942"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Operation Neptune, commonly known as D-Day, began on June 6, 1944, with the Allied amphibious landings on the beaches of Normandy, France."
+    }
+  ]
+}

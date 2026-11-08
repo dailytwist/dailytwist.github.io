@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-08",
+  "title": "Quiz di cultura generale del giorno: 8 novembre 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Qual è il fiume più lungo del mondo?",
+      "options": [
+        "Rio delle Amazzoni",
+        "Fiume Azzurro",
+        "Nilo",
+        "Mississippi"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il fiume Nilo scorre verso nord attraverso l'Africa e sfocia nel Mar Mediterraneo."
+    },
+    {
+      "category": "Scienza",
+      "question": "Qual è la sostanza naturale più dura sulla Terra?",
+      "options": [
+        "Oro",
+        "Diamante",
+        "Quarzo",
+        "Ferro"
+      ],
+      "answer_index": 1,
+      "fun_fact": "I diamanti si formano in condizioni di alta pressione e temperatura nelle profondità del mantello terrestre."
+    },
+    {
+      "category": "Animali",
+      "question": "Quale uccello è universalmente noto per la sua capacità di imitare il linguaggio umano e i suoni?",
+      "options": [
+        "Pinguino imperatore",
+        "Aquila di mare testabianca",
+        "Cenerino",
+        "Falco pellegrino"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il pappagallo cenerino è celebre per le sue straordinarie capacità cognitive e il vasto vocabolario vocale."
+    },
+    {
+      "category": "Storia",
+      "question": "Chi è stato il primo imperatore dell'Impero Romano?",
+      "options": [
+        "Costantino il Grande",
+        "Giulio Cesare",
+        "Nerone",
+        "Augusto"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Augusto, originariamente chiamato Ottaviano, era il figlio adottivo di Giulio Cesare e fondò l'Impero Romano nel 27 a.C."
+    },
+    {
+      "category": "Cinema e cultura pop",
+      "question": "Quale film epico di space opera del 1977 ha introdotto personaggi come Luke Skywalker, la Principessa Leia e Han Solo?",
+      "options": [
+        "Star Trek",
+        "Incontri ravvicinati del terzo tipo",
+        "Guerre Stellari",
+        "Alien"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Diretto da George Lucas, questo film è diventato un enorme fenomeno culturale e ha dato vita a uno dei franchise di maggior successo nella storia del cinema."
+    },
+    {
+      "category": "Cibo",
+      "question": "Qual è la base alcolica principale utilizzata per preparare un cocktail tradizionale Dark 'n' Stormy?",
+      "options": [
+        "Rum scuro",
+        "Vodka",
+        "Tequila",
+        "Gin"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Un autentico Dark 'n' Stormy richiede specificamente rum Gosling's Black Seal e ginger beer."
+    },
+    {
+      "category": "Sport",
+      "question": "Nel baseball, quanti strike sono necessari per registrare uno strikeout standard?",
+      "options": [
+        "Due",
+        "Tre",
+        "Cinque",
+        "Quattro"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Un battitore viene eliminato dopo aver accumulato tre strike, che possono essere mancati, subiti o palle vaganti colpite in foul con due strike."
+    },
+    {
+      "category": "Linguistica",
+      "question": "Come si chiama in linguistica una parola che si pronuncia allo stesso modo di un'altra ma differisce per significato, origine o ortografia, come 'l'ha' e 'la'?",
+      "options": [
+        "Omofono",
+        "Antonimo",
+        "Omonimo",
+        "Sinonimo"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Gli omofoni suonano identici quando vengono pronunciati ad alta voce, indipendentemente da come sono scritte le lettere che li compongono."
+    },
+    {
+      "category": "Spazio",
+      "question": "Come si chiama il confine che circonda un buco nero oltre il quale nulla, nemmeno la luce, può sfuggire?",
+      "options": [
+        "Singolarità",
+        "Disco di accrescimento",
+        "Sfera fotonica",
+        "Orizzonte degli eventi"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Una volta che un oggetto supera l'orizzonte degli eventi, la sua velocità di fuga supera quella della luce."
+    },
+    {
+      "category": "Storia",
+      "question": "In quale anno ha avuto luogo la storica invasione della Normandia (D-Day) durante la Seconda Guerra Mondiale?",
+      "options": [
+        "1945",
+        "1944",
+        "1943",
+        "1942"
+      ],
+      "answer_index": 1,
+      "fun_fact": "L'Operazione Nettuno, comunemente nota come D-Day, è iniziata il 6 giugno 1944 con gli sbarichi anfibii degli Alleati sulle spiagge della Normandia, in Francia."
+    }
+  ]
+}

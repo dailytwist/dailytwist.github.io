@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-08",
+  "title": "Quiz Diário de Conhecimentos Gerais: 8 de novembro de 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Qual é o rio mais longo do mundo?",
+      "options": [
+        "Rio Amazonas",
+        "Rio Yangtze",
+        "Rio Nilo",
+        "Rio Mississippi"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O Rio Nilo corre para o norte através da África e deságua no Mar Mediterrâneo."
+    },
+    {
+      "category": "Ciência",
+      "question": "Qual é a substância natural mais dura encontrada na Terra?",
+      "options": [
+        "Ouro",
+        "Diamante",
+        "Quartzo",
+        "Ferro"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Os diamantes são formados sob condições de alta pressão e temperatura bem no fundo do manto da Terra."
+    },
+    {
+      "category": "Animais",
+      "question": "Qual pássaro é universalmente conhecido por sua capacidade de imitar a fala humana e sons?",
+      "options": [
+        "Pinguim-imperador",
+        "Águia-careca",
+        "Papagaio-cinzento",
+        "Falcão-peregrino"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O papagaio-cinzento é famoso por suas extraordinárias habilidades cognitivas e amplo vocabulário vocal."
+    },
+    {
+      "category": "História",
+      "question": "Quem foi o primeiro imperador do Império Romano?",
+      "options": [
+        "Constantino, o Grande",
+        "Júlio César",
+        "Nero",
+        "Augusto"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Augusto, originalmente chamado de Otaviano, era filho adotivo de Júlio César e fundou o Império Romano em 27 a.C."
+    },
+    {
+      "category": "Filmes e Cultura Pop",
+      "question": "Qual filme épico de ópera espacial de 1977 apresentou personagens como Luke Skywalker, Princesa Leia e Han Solo?",
+      "options": [
+        "Star Trek: O Filme",
+        "Contatos Imediatos do Terceiro Grau",
+        "Star Wars: Episódio IV - Uma Nova Esperança",
+        "Alien, o 8º Passageiro"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Dirigido por George Lucas, este filme tornou-se um enorme fenômeno cultural e lançou uma das franquias de maior sucesso na história do cinema."
+    },
+    {
+      "category": "Gastronomia",
+      "question": "Qual é a principal base alcoólica usada para fazer um coquetel tradicional Dark 'n' Stormy?",
+      "options": [
+        "Rum Escuro",
+        "Vodka",
+        "Tequila",
+        "Gin"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Um verdadeiro Dark 'n' Stormy exige especificamente rum Gosling's Black Seal e cerveja de gengibre."
+    },
+    {
+      "category": "Esportes",
+      "question": "No beisebol, quantos strikes são necessários para registrar uma eliminação (strikeout) padrão?",
+      "options": [
+        "Dois",
+        "Três",
+        "Cinco",
+        "Quatro"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Um rebatedor é eliminado após acumular três strikes, que podem ser balanços no vazio, olhando, ou bolas foul com dois strikes."
+    },
+    {
+      "category": "Idioma",
+      "question": "Qual é o termo linguístico para uma palavra que é pronunciada da mesma forma que outra, mas difere em significado, origem ou grafia, como 'sessão' e 'seção'?",
+      "options": [
+        "Homófono",
+        "Antônimo",
+        "Homônimo",
+        "Sinônimo"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Homófonos soam idênticos quando falados em voz alta, independentemente de quão diferentes sejam suas grafias."
+    },
+    {
+      "category": "Espaço",
+      "question": "Qual é o nome da fronteira ao redor de um buraco negro além da qual nada, nem mesmo a luz, pode escapar?",
+      "options": [
+        "Singularidade",
+        "Disco de acreção",
+        "Esfera de fótons",
+        "Horizonte de eventos"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Uma vez que um objeto cruza o horizonte de eventos, sua velocidade de escape excede a velocidade da luz."
+    },
+    {
+      "category": "História",
+      "question": "A histórica invasão do Dia D na Normandia durante a Segunda Guerra Mundial ocorreu em qual ano?",
+      "options": [
+        "1945",
+        "1944",
+        "1943",
+        "1942"
+      ],
+      "answer_index": 1,
+      "fun_fact": "A Operação Netuno, comumente conhecida como Dia D, começou em 6 de junho de 1944, com os desembarques anfíbios dos Aliados nas praias da Normandia, na França."
+    }
+  ]
+}

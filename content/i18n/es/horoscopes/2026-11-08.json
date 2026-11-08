@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-08",
+  "signs": {
+    "aries": {
+      "overview": "El domingo comienza con una ráfaga de motivación feroz, Aries, lo que lo convierte en el día absolutamente perfecto para abordar por fin ese proyecto creativo tan ambicioso que has estado planeando en secreto en tus notas. Tu energía es contagiosa y atrae a amigos y admiradores a tu órbita como polillas a una llama brillante de neón. No dejes que los pequeños contratiempos de horario frenen tu implacable impulso; simplemente ríete de ellos y pasa con elegancia a la próxima aventura. Por la noche, date un capricho espontáneo y muy divertido, porque la rutina no está invitada hoy. Abraza tu rebote interior y deja que tu chispa ilumine toda la habitación.",
+      "love": "Ya estés soltero o en pareja, tu audaz encanto es un imán irresistible para la emoción y la conexión profunda. Planea una cita espontánea que desafíe todas las expectativas tradicionales.",
+      "career": "Las sesiones de intercambio de ideas producen propuestas brillantes y originales que dejarán a tu equipo impresionado por tu enfoque visionario.",
+      "wellness": "Canaliza tu energía extra de la tarde con una sesión de baile de alta intensidad al ritmo de tu lista de reproducción favorita.",
+      "lucky_number": 17,
+      "lucky_color": "Carmesí",
+      "mood": "Eléctrico"
+    },
+    "taurus": {
+      "overview": "La indulgencia te llama hoy, Tauro, y deberías responder sin la menor duda. El domingo te invita a reducir el ritmo y saborear de verdad las texturas lujosas de la vida, ya sea disfrutando de un brunch interminable o envolviéndote en la manta de cachemira más suave que encuentres. Tu naturalidad arraigada sirve como un ancla reconfortante para los amigos que puedan sentirse un poco dispersos. Déjate llevar por un jardín botánico o una galería de arte local para alimentar tu profundo amor por la belleza física. La comodidad es tu mayor superpoder en este momento.",
+      "love": "El romance a fuego lento se siente muy acogedor hoy, ideal para acurrucarse en el sofá con tu persona favorita.",
+      "career": "Tómate un descanso mental absoluto de los correos del trabajo para volver mañana con una perspectiva totalmente renovada.",
+      "wellness": "Mima tu piel con una lujosa mascarilla hidratante mientras escuchas música acústica relajante.",
+      "lucky_number": 8,
+      "lucky_color": "Verde salvia",
+      "mood": "Sereno"
+    },
+    "gemini": {
+      "overview": "Tu mente es una máquina de pinball deslumbrante llena de pensamientos brillantes y observaciones ingeniosas hoy, Géminis. El domingo trae una avalancha de conversaciones estimulantes, encuentros fortuitos y datos curiosos encantadores que mantendrán tu infinita curiosidad completamente satisfecha. Puede que te encuentres haciendo malabares con tres planes sociales a la vez y, sinceramente, no lo querrías de otra manera. Apóyate en tu talento natural para contar historias en tu próxima reunión y mantén a todos entretenidos con tu entusiasmo contagioso. Solo recuerda respirar hondo de vez en cuando para no forzar demasiado tus cuerdas vocales.",
+      "love": "La charla coqueta y los mensajes de texto ingeniosos mantienen la chispa viva y te hacen sonreír todo el día.",
+      "career": "Apunta cada idea fugaz en tu libreta; uno de estos conceptos alocados vale oro puro.",
+      "wellness": "Descansa tu mente acelerada alejándote de las pantallas para dar un refrescante paseo sin tecnología.",
+      "lucky_number": 23,
+      "lucky_color": "Amarillo",
+      "mood": "Hablador"
+    },
+    "cancer": {
+      "overview": "Crea un santuario acogedor hoy, Cáncer, porque tu espíritu sensible florece mejor cuando está rodeado de comodidad y amor familiar. El domingo te anima a entregarte a tus instintos hogareños, ya sea horneando una tanda decadente de rollos de canela desde cero o creando la lista de reproducción ideal para relajarte. Tu intuición está al máximo en este momento, ayudándote a sintonizar con las necesidades no pronunciadas de quienes más te importan. Permítete navegar por las suaves olas de la nostalgia sin dejar que te arrastren. El hogar es verdaderamente donde vive tu magia.",
+      "love": "Las conversaciones profundas de corazón a corazón fortalecen tu vínculo emocional y te acercan más que nunca.",
+      "career": "Reflexiona en silencio sobre tus metas a largo plazo sin sentir ninguna presión para tomar medidas inmediatas.",
+      "wellness": "Tómate una taza caliente de té de manzanilla mientras escribes en tu diario tus mayores sueños para la próxima semana.",
+      "lucky_number": 4,
+      "lucky_color": "Plateado",
+      "mood": "Nostálgico"
+    },
+    "leo": {
+      "overview": "El universo ha desplegado oficialmente la alfombra roja de terciopelo solo para ti, Leo; así que pisa el escenario y brilla. El domingo rebosa de estilo teatral, romance y oportunidades para expresar tu magnífica visión artística. Ya sea que estés creando un conjunto inolvidable para un brunch informal o tomando el mando en una salida grupal divertida, tu carisma natural domina la habitación sin esfuerzo. No tengas miedo de mostrar tu alegría con un toque de dramatismo hoy. Comparte tu calidez radiante con generosidad, pero asegúrate de guardarte muchos aplausos para tu fabuloso yo.",
+      "love": "El romance se siente como una gran escena de película de Hollywood, completa con gestos grandiosos y miradas cómplices.",
+      "career": "Visualiza tus próximos triunfos profesionales con una confianza feroz y un optimismo audaz.",
+      "wellness": "Adopta una postura de yoga dramática frente al espejo solo para apreciar tu propia fuerza.",
+      "lucky_number": 29,
+      "lucky_color": "Dorado",
+      "mood": "Radiante"
+    },
+    "virgo": {
+      "overview": "Organizar tu espacio te aporta una sensación de zen extrañamente profunda hoy, Virgo. El domingo es el momento perfecto para ordenar tus libros por colores, organizar tus listas de reproducción o abordar por fin ese cajón desastre con precisión quirúrgica. Tu ojo para los detalles no tiene comparación, lo que te permite encontrar belleza en los patrones más pequeños que los demás pasan por alto. Aunque te encantan las listas de tareas, recuerda dejar algunas horas libres en tu tarde para disfrutar de un descanso puro y sin complejos. Un entorno ordenado se traduce directamente en una mente pacífica y feliz.",
+      "love": "Los actos de servicio dicen mucho hoy, así que demuestra tu cariño preparándole el café de la mañana a tu pareja.",
+      "career": "Una agenda organizada te prepara para una semana sumamente fluida y productiva por delante.",
+      "wellness": "Estira los hombros y las muñecas para liberar la tensión física acumulada por la productividad diaria.",
+      "lucky_number": 5,
+      "lucky_color": "Azul marino",
+      "mood": "Centrado"
+    },
+    "libra": {
+      "overview": "La armonía estética es tu misión principal hoy, Libra, y estás destinado a alcanzarla con una gracia impecable. El domingo te invita a crear belleza vayas donde vayas, desde colocar flores frescas en tu mesa de centro hasta planear una reunión elegante con tus amigos más artísticos. Eres un pacificador natural, capaz de disipar cualquier pequeña fricción social con tu diplomacia característica y tu sonrisa encantadora. Date el gusto de hacer un poco de compras de lujo o mirar vitrinas sin una pizca de culpa. El equilibrio y la elegancia te quedan excepcionalmente bien.",
+      "love": "El coqueteo es una forma de arte y tú estás dominando cada una de sus pinceladas.",
+      "career": "La lluvia de ideas en equipo fluye sin esfuerzo cuando aprovechas tus superpoderes diplomáticos naturales.",
+      "wellness": "Usa un difusor con aceite esencial de lavanda para crear una atmósfera de pura tranquilidad en casa.",
+      "lucky_number": 12,
+      "lucky_color": "Rosa",
+      "mood": "Armonioso"
+    },
+    "scorpio": {
+      "overview": "Tu aura misteriosa está al máximo nivel cinematográfico hoy, Escorpio. El domingo te invita a sumergirte de lleno en tus obsesiones más apasionadas, ya sea leyendo un thriller psicológico atrapante o explorando un nuevo y fascinante interés. Anhelas profundidad en cada interacción, alejándote de las charlas triviales y yendo directo a las verdades del alma. Confía en tu aguda intuición a la hora de evaluar una nueva dinámica social; nunca te fallará. Abraza tu intensidad y deja que tu fascinante mundo interior haga su magia en silencio.",
+      "love": "La intensidad magnética define tu vida romántica en este momento, atrayendo a esa persona especial a una órbita cautivadora.",
+      "career": "La estrategia y la discreción son tus mejores aliadas mientras trazas tus próximos movimientos profesionales en privado.",
+      "wellness": "Haz un entrenamiento que te haga sudar para canalizar tu profunda intensidad emocional en fuerza física.",
+      "lucky_number": 33,
+      "lucky_color": "Granate",
+      "mood": "Intenso"
+    },
+    "sagittarius": {
+      "overview": "Las ganas de viajar resuenan con fuerza en tus venas hoy, Sagitario, incluso si solo vas a explorar una cafetería nueva en tu barrio. El domingo exige aventura, expansión y la negativa rotunda a quedarte encerrado en casa demasiado tiempo. Tu optimismo contagioso es un imán para la diversión, lo que te convierte en el compañero perfecto para un viaje por carretera improvisado o una excursión al aire libre. Mantén tu mente abierta a perspectivas sorprendentes de las personas que conozcas en el camino. La vida es una gran expedición y estás listo para explorar cada emocionante rincón.",
+      "love": "Las aventuras espontáneas con tu pareja o un nuevo e interesante interés romántico inyectan vida fresca a tu corazón.",
+      "career": "Pensar a lo grande te ayuda a proponer una idea muy ambiciosa que entusiasma a todos en la sala.",
+      "wellness": "Lleva tu sesión de cardio al aire libre para absorber aire fresco y luz solar revitalizantes.",
+      "lucky_number": 7,
+      "lucky_color": "Turquesa",
+      "mood": "Aventurero"
+    },
+    "capricorn": {
+      "overview": "Incluso en domingo, tu legendaria ambición está planeando en silencio tu próxima gran obra maestra, Capricornio. Tómate un momento para dar un paso atrás y admirar la sólida base que has construido gracias a tu trabajo constante e implacable. Aunque siempre tienes la vista puesta en la cima de la montaña, hoy recuerda apreciar el paisaje desde donde estás ahora. Regálate un premio clásico y de alta calidad que celebre tus recientes logros personales. Descansar no es una pérdida de tiempo; es el combustible secreto que alimenta tus futuros triunfos.",
+      "love": "La lealtad y la devoción inquebrantable forman la base sólida de tus relaciones más significativas.",
+      "career": "Reflexiona sobre tu plan a largo plazo con confianza tranquila y visión estratégica.",
+      "wellness": "Libera la tensión de una mala postura con una sesión de yoga restaurativo o estiramientos suaves.",
+      "lucky_number": 10,
+      "lucky_color": "Carbón",
+      "mood": "Ambicioso"
+    },
+    "aquarius": {
+      "overview": "Tu brillante cerebro opera en una frecuencia totalmente distinta hoy, Acuario, lleno de ideas futuristas y conceptos peculiares. El domingo es el día ideal para conectar con almas gemelas que aprecien tu maravillosa y excéntrica visión del mundo, así como tu singular sentido del humor. Es posible que te encuentres inmerso en una charla fascinante sobre tecnología, arte o cómo salvar el planeta. No dudes en mostrar tu adorable rareza; el mundo necesita tu originalidad ahora más que nunca. Mantente abierto a destellos inesperados de inspiración brillante.",
+      "love": "La conexión intelectual es tu principal afrodisíaco, así que busca a alguien que desafíe tu brillante mente.",
+      "career": "Tu visión innovadora propone una solución radical que revoluciona por completo la rutina actual.",
+      "wellness": "Desconéctate de la saturación digital pasando una hora contemplando las estrellas o leyendo ciencia ficción.",
+      "lucky_number": 11,
+      "lucky_color": "Azul eléctrico",
+      "mood": "Visionario"
+    },
+    "pisces": {
+      "overview": "El escapismo de ensueño es tu medio de transporte preferido hoy, Piscis, y las corrientes cósmicas apoyan por completo tu viaje. El domingo es un día magnífico para conectar con tu ilimitada imaginación, ya sea pintando, escribiendo poesía o simplemente perdiéndote en una ensoñación profunda. Tu corazón compasivo capta las energías sutiles de quienes te rodean, lo que te convierte en un oyente maravilloso y sanador. Permítete flotar en paz por tu propio mundo de fantasía mágico durante un rato. La realidad esperará pacientemente mientras tu alma se recarga.",
+      "love": "El romance poético y el afecto tierno envuelven tu corazón como una manta cálida y reconfortante.",
+      "career": "Deja que tu ilimitada imaginación creativa te guíe hacia una solución artística llena de inspiración.",
+      "wellness": "Date un baño largo y soñador con sales de Epsom y música relajante.",
+      "lucky_number": 3,
+      "lucky_color": "Verde mar",
+      "mood": "Soñador"
+    }
+  }
+}

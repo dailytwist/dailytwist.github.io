@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-23",
+  "slug": "prepositions-of-place",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "📦",
+  "title": "¿Dónde está? Preposiciones de lugar",
+  "summary": "Aprende a usar palabras sencillas para decir dónde están las cosas. Hablarás de objetos cotidianos de tu casa.",
+  "sections": [
+    {
+      "h": "Dentro, encima y debajo",
+      "p": "Usamos 'in' cuando algo está dentro de un espacio o una caja. Usamos 'on' cuando algo está tocando la superficie superior de una mesa o el suelo. Usamos 'under' cuando algo está por debajo de otro objeto, como el suelo debajo de una mesa. Estas son las palabras más comunes para lugares cotidianos.",
+      "ex": [
+        {
+          "en": "The pen is in the bag.",
+          "mean": "El bolígrafo está dentro de la bolsa."
+        },
+        {
+          "en": "The book is on the table.",
+          "mean": "El libro está tocando la parte superior de la mesa."
+        },
+        {
+          "en": "The cat is under the chair.",
+          "mean": "El gato está debajo de la silla."
+        }
+      ]
+    },
+    {
+      "h": "Al lado de y entre",
+      "p": "Usamos 'next to' cuando algo está al lado de otra cosa sin espacio entre ellas. Usamos 'between' cuando algo está en medio de otras dos cosas. Mira a tu alrededor en tu habitación para practicar estas posiciones ahora mismo.",
+      "ex": [
+        {
+          "en": "The lamp is next to the bed.",
+          "mean": "La lámpara está al lado de la cama."
+        },
+        {
+          "en": "The phone is between the cups.",
+          "mean": "El teléfono está en medio de dos tazas."
+        }
+      ]
+    },
+    {
+      "h": "Detrás",
+      "p": "Usamos 'behind' cuando algo está en la parte de atrás de otro objeto. El objeto de delante oculta parte de él. Esto te ayuda a describir habitaciones donde las cosas están ocultas o colocadas al fondo.",
+      "ex": [
+        {
+          "en": "The shoes are behind the door.",
+          "mean": "Los zapatos están detrás de la puerta."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "in",
+      "mean": "dentro"
+    },
+    {
+      "en": "on",
+      "mean": "encima de"
+    },
+    {
+      "en": "under",
+      "mean": "debajo"
+    },
+    {
+      "en": "next to",
+      "mean": "al lado de"
+    },
+    {
+      "en": "between",
+      "mean": "en medio"
+    },
+    {
+      "en": "behind",
+      "mean": "detrás"
+    }
+  ],
+  "tip": "Mira tu escritorio ahora mismo. Di en voz alta dónde están tres cosas usando 'in', 'on' o 'next to'.",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "The apple is ___ the bowl.",
+      "choices": [
+        "in",
+        "on",
+        "under"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "My keys are ___ the table.",
+      "choices": [
+        "in",
+        "on",
+        "behind"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "The rug is ___ the sofa.",
+      "choices": [
+        "in",
+        "between",
+        "under"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "The chair is ___ the desk.",
+      "choices": [
+        "next to",
+        "in",
+        "on"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "The table is ___ the two chairs.",
+      "choices": [
+        "next to",
+        "between",
+        "under"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "The dog is ___ the curtain.",
+      "choices": [
+        "on",
+        "next to",
+        "behind"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

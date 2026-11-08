@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-08",
+  "signs": {
+    "aries": {
+      "overview": "Dimanche commence par un élan de motivation flamboyant, Bélier, ce qui en fait le jour idéal pour enfin vous lancer dans ce projet créatif follement ambitieux que vous mijotez en secret dans vos notes. Votre énergie est communicative, attirant vos amis et admirateurs dans votre sillage comme des papillons vers une magnifique flamme néon. Ne laissez pas de petits retards d'organisation ralentir votre élan irrésistible ; contentez-vous d'en rire et de passer avec grâce à la prochaine aventure. Le soir venu, offrez-vous quelque chose de spontané et de follement amusant, car la routine n'est décidément pas invitée aujourd'hui. Libérez le rebelle qui sommeille en vous et laissez votre étincelle illuminer toute la pièce.",
+      "love": "Célibataire ou en couple, votre charme audacieux est un aimant irrésistible pour l'excitation et la complicité. Planifiez un rencard improvisé qui échappe à tous les clichés traditionnels.",
+      "career": "Les séances de brainstorming portent leurs fruits avec des idées brillantes et décalées qui blufferont votre équipe par votre vision avant-gardiste.",
+      "wellness": "Canalysez votre trop-plein d'énergie de l'après-midi dans une séance de danse intense sur votre playlist préférée.",
+      "lucky_number": 17,
+      "lucky_color": "Cramoisi",
+      "mood": "Électrique"
+    },
+    "taurus": {
+      "overview": "Le lâcher-prise vous fait de l'œil aujourd'hui, Taureau, et vous devriez y répondre sans la moindre hésitation. Ce dimanche vous invite à ralentir le rythme et à savourer pleinement les textures luxueuses de la vie, que ce soit en prolongeant un brunch copieux ou en vous enmitouflant dans le plus doux des plaids en cachemire. Votre ancrage naturel fait office de havre de paix pour vos amis qui se sentent un peu éparpillés. Laissez-vous flâner dans un jardin botanique ou une galerie d'art pour nourrir votre amour profond de la beauté matérielle. Le confort est votre superpouvoir ultime en ce moment.",
+      "love": "Une romance douce et feutrée se fait particulièrement chaleureuse aujourd'hui, idéale pour un moment cocooning sur le canapé avec votre moitié.",
+      "career": "Faites une pause mentale totale avec les e-mails professionnels pour revenir demain avec un regard totalement neuf.",
+      "wellness": "Offrez à votre peau un masque hydratant luxueux tout en écoutant des morceaux acoustiques apaisants.",
+      "lucky_number": 8,
+      "lucky_color": "Sauge",
+      "mood": "Serein"
+    },
+    "gemini": {
+      "overview": "Votre esprit est un flipper étincelant d'idées géniales et de remarques pleines d'esprit aujourd'hui, Gémeaux. Ce dimanche apporte son lot de conversations stimulantes, de rencontres fortuites et d'anecdotes captivantes qui combleront votre insatiable curiosité. Vous vous retrouverez peut-être à jongler avec trois projets sociaux en même temps, et franchement, vous ne voudriez pas qu'il en soit autrement. Laissez libre cours à votre talent inné de conteur lors de votre prochaine sortie, en captivant tout le monde grâce à votre enthousiasme contagieux. Pensez juste à respirer un bon coup de temps en temps pour ne pas fatiguer vos cordes vocales.",
+      "love": "Les badinages flirts et les textos pleins d'esprit maintiennent la flamme et vous font sourire toute la journée.",
+      "career": "Notez chaque idée fulgurante dans votre carnet ; l'une de ces visions farfelues vaut de l'or.",
+      "wellness": "Offrez du répit à votre esprit en vous éloignant des écrans pour une balade revigorante sans technologie.",
+      "lucky_number": 23,
+      "lucky_color": "Jaune",
+      "mood": "Bavard"
+    },
+    "cancer": {
+      "overview": "Créez-vous un cocon douillet aujourd'hui, Cancer, car votre âme sensible s'épanouit le mieux lorsqu'elle est entourée de confort et d'amour familier. Ce dimanche vous pousse à écouter vos instincts casaniers, qu'il s'agisse de cuisiner une fournée décadente de brioches à la cannelle ou de peaufiner la playlist idéale pour buller. Votre intuition tourne à plein régime en ce moment, vous aidant à capter les besoins inexprimés de ceux qui comptent le plus pour vous. Laissez-vous porter par les douces vagues de la nostalgie sans vous laisser submerger. Votre vraie magie est là où se trouve votre chez-vous.",
+      "love": "De profonds tête-à-tête renforcent votre complicité émotionnelle et vous rapprochent plus que jamais.",
+      "career": "Réfléchissez tranquillement à vos objectifs à long terme sans ressentir la pression d'agir dans l'immédiat.",
+      "wellness": "Sirotez une tasse bien chaude de thé à la camomille tout en écrivant dans votre journal vos plus grands rêves pour la semaine à venir.",
+      "lucky_number": 4,
+      "lucky_color": "Argent",
+      "mood": "Nostalgique"
+    },
+    "leo": {
+      "overview": "L'univers a officiellement déroulé le tapis rouge rien que pour vous, Lion, alors entrez en scène et brillez. Ce dimanche dégage un parfum théâtral, romantique et propice à l'expression de votre magnifique fibre artistique. Que vous vous concoctiez une tenue inoubliable pour un brunch décontracté ou que vous preniez les commandes d'une sortie entre amis, votre charisme naturel irradie la pièce sans effort. N'ayez pas peur d'afficher votre joie avec un brin de théâtralisme aujourd'hui. Partagez votre chaleur rayonnante sans compter, mais gardez bien des applaudissements pour votre propre personne.",
+      "love": "L'amour prend des airs de superproduction hollywoodienne, avec de grands gestes romantiques et des regards complices.",
+      "career": "Visualisez vos prochaines victoires professionnelles avec une confiance féroce et un optimisme audacieux.",
+      "wellness": "Prenez une pose de yoga théâtrale devant le miroir juste pour admirer votre propre force.",
+      "lucky_number": 29,
+      "lucky_color": "Or",
+      "mood": "Rayonnant"
+    },
+    "virgo": {
+      "overview": "Mettre de l'ordre dans votre espace vous procure un sentiment de zénitude profondément satisfaisant aujourd'hui, Vierge. Ce dimanche est le moment idéal pour classer votre bibliothèque par couleur, trier vos playlists ou enfin vous attaquer à ce fameux tiroir à bazar avec une précision chirurgicale. Votre sens du détail est sans égal, vous permettant de dénicher la beauté dans les motifs infimes que tout le monde oublie. Bien que vous raffoliez des to-do lists, pensez à vous laisser quelques heures de liberté cet après-midi pour un repos total. Un environnement bien ordonné mène directement à un esprit serein et heureux.",
+      "love": "Les actes parlent plus que les mots aujourd'hui, alors prouvez votre affection en préparant le café du matin à votre partenaire.",
+      "career": "Un planning aux petits oignons vous prépare une semaine ultra-fluide et productive.",
+      "wellness": "Étirez vos épaules et vos poignets pour relâcher les tensions physiques liées à votre productivité quotidienne.",
+      "lucky_number": 5,
+      "lucky_color": "Marine",
+      "mood": "Concentré"
+    },
+    "libra": {
+      "overview": "L'harmonie esthétique est votre mission première aujourd'hui, Balance, et vous êtes né(e) pour l'accomplir avec une grâce infinie. Ce dimanche vous invite à insuffler de la beauté partout où vous allez, qu'il s'agisse de composer un bouquet sur votre table basse ou d'organiser une réunion chic avec vos amis esthètes. Pacifiste dans l'âme, vous désamorcez habilement les petites tensions sociales avec votre diplomatie légendaire et votre sourire ravageur. Laissez-vous tenter par une petite séance de lèche-vitrine ou de shopping de luxe sans la moindre culpabilité. L'équilibre et l'élégance vous vont à ravir.",
+      "love": "Le flirt est tout un art, et vous maîtrisez actuellement chaque coup de pinceau.",
+      "career": "Le brainstorming collaboratif coule de source lorsque vous faites appel à vos superpouvoirs diplomatiques.",
+      "wellness": "Diffusez une huile essentielle de lavande apaisante pour créer une atmosphère de pure sérénité chez vous.",
+      "lucky_number": 12,
+      "lucky_color": "Rose",
+      "mood": "Harmonieux"
+    },
+    "scorpio": {
+      "overview": "Votre aura mystérieuse est réglée au maximum sur un mode cinématographique aujourd'hui, Scorpion. Ce dimanche vous invite à plonger tête baissée dans vos passions du moment, qu'il s'agisse de dévorer un thriller psychologique haletant ou d'explorer une nouvelle lubie fascinante. Vous avez soif de profondeur dans chaque échange, fuyant le superficiel pour aller droit vers les vérités de l'âme. Fiez-vous à votre intuition infaillible pour évaluer une nouvelle dynamique sociale ; elle ne vous trompera jamais. Assumez votre intensité et laissez votre monde intérieur opérer sa magie silencieuse.",
+      "love": "Une intensité magnétique définit votre vie amoureuse en ce moment, entraînant votre moitié dans une orbite hautement captivante.",
+      "career": "La stratégie et la discrétion seront vos meilleures alliées pour mijoter vos prochains coups professionnels en sous-marin.",
+      "wellness": "Offrez-vous une séance de sport bien suante pour canaliser votre profonde intensité émotionnelle en puissance physique.",
+      "lucky_number": 33,
+      "lucky_color": "Bordeaux",
+      "mood": "Intense"
+    },
+    "sagittarius": {
+      "overview": "L'appel du voyage résonne au fond de vous aujourd'hui, Sagittaire, même s'il s'agit juste d'explorer un nouveau café de quartier. Ce dimanche réclame de l'aventure, de l'expansion et un refus catégorique de rester enfermé trop longtemps. Votre optimisme contagieux est un aimant irrésistible, faisant de vous le compagnon idéal pour un road trip improvisé ou une virée en plein air. Gardez l'esprit ouvert aux perspectives surprenantes des personnes que vous croiserez en chemin. La vie est une vaste expédition, et vous êtes prêt(e) à en explorer chaque recoin exaltant.",
+      "love": "Des aventures spontanées avec votre partenaire ou une nouvelle rencontre électrisante insufflent un vent de fraicheur dans votre cœur.",
+      "career": "Votre vision globale vous aide à pitcher un projet follement ambitieux qui enthousiasmera toute l'assemblée.",
+      "wellness": "Faites votre séance de cardio en extérieur pour faire le plein d'air pur et de soleil revigorants.",
+      "lucky_number": 7,
+      "lucky_color": "Turquoise",
+      "mood": "Aventureux"
+    },
+    "capricorn": {
+      "overview": "Même un dimanche, votre ambition légendaire mijote discrètement votre prochain chef-d'œuvre, Capricorne. Prenez le temps de lever le pied pour admirer les bases solides que vous avez bâties à force de travail acharné. Toujours focalisé(e) sur le sommet de la montagne, souvenez-vous aujourd'hui d'apprécier le panorama d'où vous êtes. Offrez-vous une récompense de qualité pour célébrer vos récents succès personnels. Le repos n'est pas une perte de temps ; c'est le carburant secret de vos réussites futures.",
+      "love": "La loyauté et un dévouement sans faille constituent le roc solide de vos relations les plus précieuses.",
+      "career": "Réfléchissez à votre plan de carrière à long terme avec une assurance tranquille et une vision stratégique.",
+      "wellness": "Dénouez vos tensions corporelles avec une séance de yoga réparateur ou des étirements en douceur.",
+      "lucky_number": 10,
+      "lucky_color": "Charbon",
+      "mood": "Ambitieux"
+    },
+    "aquarius": {
+      "overview": "Votre cerveau génial fonctionne sur une toute autre fréquence aujourd'hui, Verseau, bourdonnant d'idées futuristes et de concepts décalés. Ce dimanche est le jour parfait pour vous connecter à des âmes sœurs qui apprécient votre vision excentrique du monde et votre humour unique. Vous vous retrouverez peut-être plongé(e) dans un débat passionnant sur la technologie, l'art ou la façon de sauver la planète. N'hésitez pas à exprimer votre délicieuse excentricité ; le monde a besoin de votre originalité plus que jamais. Restez ouvert(e) aux éclairs d'inspiration inattendus.",
+      "love": "La complicité intellectuelle est votre aphrodisiaque suprême, alors trouvez quelqu'un qui met votre esprit au défi.",
+      "career": "Votre vision novatrice propose une solution radicale qui révolutionne totalement la routine actuelle.",
+      "wellness": "Déconnectez de l'overdose numérique en passant une heure à observer les étoiles ou à lire de la science-fiction.",
+      "lucky_number": 11,
+      "lucky_color": "Bleu électrique",
+      "mood": "Visionnaire"
+    },
+    "pisces": {
+      "overview": "L'évasion onirique est votre mode de transport favori aujourd'hui, Poissons, et les courants cosmiques soutiennent pleinement votre voyage. Ce dimanche est magnifique pour libérer votre imagination sans limites, que ce soit à travers la peinture, l'écriture ou simplement en vous perdant dans une rêverie éveillée. Votre cœur empathique capte les énergies subtiles de votre entourage, faisant de vous une oreille attentive et guérisseuse. Laissez-vous dériver paisiblement dans votre monde fantastique un petit moment. La réalité attendra patiemment que votre âme se ressource.",
+      "love": "Une romance poétique et une douce affection enveloppent votre cœur comme un plaid chaud et réconfortant.",
+      "career": "Laissez votre imagination créatrice sans bornes vous guider vers une solution artistique inspirée.",
+      "wellness": "Offrez-vous un bain chaud et prolongé, infusé de sels d'Epsom et bercé par une musique apaisante.",
+      "lucky_number": 3,
+      "lucky_color": "Vert d'eau",
+      "mood": "Rêveur"
+    }
+  }
+}

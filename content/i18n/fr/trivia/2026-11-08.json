@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-08",
+  "title": "Quiz de culture générale du jour : 8 novembre 2026",
+  "questions": [
+    {
+      "category": "Géographie",
+      "question": "Quel fleuve est le plus long du monde ?",
+      "options": [
+        "L'Amazone",
+        "Le Yangtsé",
+        "Le Nil",
+        "Le Mississippi"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le Nil s'écoule vers le nord à travers l'Afrique et se jette dans la mer Méditerranée."
+    },
+    {
+      "category": "Science",
+      "question": "Quelle est la substance naturelle la plus dure sur Terre ?",
+      "options": [
+        "L'or",
+        "Le diamant",
+        "Le quartz",
+        "Le fer"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Les diamants se forment sous de hautes conditions de pression et de température au plus profond du manteau terrestre."
+    },
+    {
+      "category": "Animaux",
+      "question": "Quel oiseau est universellement connu pour sa capacité à imiter la voix et les sons humains ?",
+      "options": [
+        "Le manchot empereur",
+        "Le pygargue à tête blanche",
+        "Le gris du Gabon",
+        "Le faucon pèlerin"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le gris du Gabon est célèbre pour ses capacités cognitives extraordinaires et son vaste vocabulaire vocal."
+    },
+    {
+      "category": "Histoire",
+      "question": "Quel a été le premier empereur de l'Empire romain ?",
+      "options": [
+        "Constantin le Grand",
+        "Jules César",
+        "Néron",
+        "Auguste"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Auguste, initialement nommé Octave, était le fils adoptif de Jules César et a fondé l'Empire romain en 27 av. J.-C."
+    },
+    {
+      "category": "Cinéma et pop culture",
+      "question": "Quel film de science-fiction épique de 1977 a introduit des personnages tels que Luke Skywalker, la princesse Leia et Han Solo ?",
+      "options": [
+        "Star Trek : Le Film",
+        "Rencontres du troisième type",
+        "Star Wars, épisode IV : Un nouvel espoir",
+        "Alien"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Réalisé par George Lucas, ce film est devenu un immense phénomène culturel et a lancé l'une des franchises les plus lucratives de l'histoire du cinéma."
+    },
+    {
+      "category": "Cuisine",
+      "question": "Quelle est la principale base alcoolisée utilisée pour préparer un cocktail Dark 'n' Stormy traditionnel ?",
+      "options": [
+        "Du rhum brun",
+        "De la vodka",
+        "De la tequila",
+        "Du gin"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Un véritable Dark 'n' Stormy nécessite spécifiquement du rhum Gosling's Black Seal et de la bière de gingembre."
+    },
+    {
+      "category": "Sports",
+      "question": "Au baseball, combien de prises faut-il pour enregistrer un retraits sur des prises standard ?",
+      "options": [
+        "Deux",
+        "Trois",
+        "Cinq",
+        "Quatre"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Un frappeur est éliminé après avoir accumulé trois prises, qui peuvent être des swings dans le vide, des prises regardées ou des amortis en fautes avec deux prises."
+    },
+    {
+      "category": "Langue",
+      "question": "Quel est le terme linguistique désignant un mot qui se prononce de la même manière qu'un autre mais diffère par son sens, son origine ou son orthographe, comme 'mère' et 'maire' ?",
+      "options": [
+        "Homophone",
+        "Antonyme",
+        "Homonyme",
+        "Synonyme"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Les homophones sonnent de façon identique à l'oral, peu importe la façon dont leurs lettres sont agencées."
+    },
+    {
+      "category": "Espace",
+      "question": "Quel est le nom de la frontière entourant un trou noir au-delà de laquelle rien, pas même la lumière, ne peut s'échapper ?",
+      "options": [
+        "Singularité",
+        "Disque d'accrétion",
+        "Sphère de photons",
+        "Horizon des événements"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Dès qu'un objet franchit l'horizon des événements, sa vitesse de libération dépasse celle de la lumière."
+    },
+    {
+      "category": "Histoire",
+      "question": "En quelle année a eu lieu le débarquement historique de Normandie, le jour J, pendant la Seconde Guerre mondiale ?",
+      "options": [
+        "1945",
+        "1944",
+        "1943",
+        "1942"
+      ],
+      "answer_index": 1,
+      "fun_fact": "L'opération Neptune, plus connue sous le nom de jour J, a débuté le 6 juin 1944 avec les débarquements amphibies des Alliés sur les plages de Normandie, en France."
+    }
+  ]
+}

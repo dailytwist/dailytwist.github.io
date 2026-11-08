@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-08",
+  "signs": {
+    "aries": {
+      "overview": "Der Sonntag beginnt mit einem feurigen Motivationsschub, Widder. Das ist der absolute Tag, um dieses wild-ambitionierte Kreativprojekt anzupacken, das du heimlich in deiner Notizen-App geplant hast. Deine Energie wirkt ansteckend und zieht Freunde und Bewunderer wie Motten ein helles Neonlicht an. Lass dich von kleinen Terminänderungen nicht ausbremsen; lache einfach darüber und wende dich dem nächsten Abenteuer zu. Gönn dir am Abend etwas Spontanes und Riesenspaß, denn Routine steht heute definitiv nicht auf der Gästeliste. Umarme deinen inneren Rebellen und bring den ganzen Raum zum Leuchten.",
+      "love": "Ob Single oder vergeben – dein kühler Charme ist ein magischer Anziehungspunkt für Aufregung und tiefe Verbundenheit. Plane einen spontanen Date-Abend, der alle traditionellen Erwartungen sprengt.",
+      "career": "Brainstorming-Sessions bringen brillante, unkonventionelle Ideen hervor, die dein Team von deinem visionären Ansatz restlos begeistern werden.",
+      "wellness": "Kanalisiere deine überschüssige Nachmittagsenergie in ein schweißtreibendes Tanz-Workout zu deiner Lieblingsplaylist.",
+      "lucky_number": 17,
+      "lucky_color": "Karmesinrot",
+      "mood": "Elektrisierend"
+    },
+    "taurus": {
+      "overview": "Der Genuss ruft nach dir, Stier, und du solltest ohne zu zögern darauf antworten. Der Sonntag lädt dich ein, das Tempo zu drosseln und die luxuriösen Seiten des Lebens auszukosten – sei es bei einem ausgiebigen Brunch oder eingekuschelt in die weichste Kaschmirdecke, die du finden kannst. Deine natürliche Erdung ist ein beruhigender Anker für Freunde, die sich gerade etwas verstreut fühlen. Schlendere durch einen botanischen Garten oder eine Kunstgalerie, um deinen Sinn für ästhetische Schönheit zu nähren. Gemütlichkeit ist heute deine Superkraft.",
+      "love": "Eine langanhaltende Romanze fühlt sich heute besonders gemütlich an – perfekt zum Kuscheln auf der Couch mit deinem Lieblingsmenschen.",
+      "career": "Mach eine mentale Pause von der Arbeit und kehre morgen mit einem völlig erfrischten Blickwinkel zurück.",
+      "wellness": "Verwöhne deine Haut mit einer luxuriösen Feuchtigkeitsmaske, während du sanften Akustik-Songs lauschst.",
+      "lucky_number": 8,
+      "lucky_color": "Salbeigrün",
+      "mood": "Gelassen"
+    },
+    "gemini": {
+      "overview": "Dein Kopf ist heute ein ratternder Flipperautomat voller genialer Gedanken und witziger Einfälle, Zwillinge. Der Sonntag bringt eine Welle an anregenden Gesprächen, Zufallsbegegnungen und tollem Klatsch, die deine Neugier voll und ganz stillen. Du jonglierst wahrscheinlich mit drei sozialen Plänen gleichzeitig – und das ist auch gut so. Setze bei der nächsten Zusammenkunft auf deine Gabe als Geschichtenerzähler und unterhalte alle mit deiner ansteckenden Begeisterung. Denk nur daran, ab und zu tief durchzuatmen, damit deine Stimmbänder nicht schlappmachen.",
+      "love": "Flirtvoller Schlagabtausch und clevere Nachrichten halten das Feuer am Brennen und sorgen den ganzen Tag für ein Lächeln auf deinem Gesicht.",
+      "career": "Notiere dir jeden Geistesblitz in deinem Notizbuch; eines dieser verrückten Konzepte ist Gold wert.",
+      "wellness": "Beruhige deinen rastlosen Geist, indem du Bildschirme ausschaltest und einen erfrischenden Spaziergang ohne Technik machst.",
+      "lucky_number": 23,
+      "lucky_color": "Gelb",
+      "mood": "Redselig"
+    },
+    "cancer": {
+      "overview": "Erschaffe dir heute eine gemütliche Oase, Krebs, denn deine sensible Seele blüht in vertrauter Geborgenheit am besten auf. Der Sonntag ermutigt dich, deinen Nesttrieb auszuleben – egal ob du Zimtschnecken von Grund auf bäckst oder die ultimative Chill-out-Playlist kuratierst. Deine Intuition läuft auf Hochtouren und hilft dir, die unausgesprochenen Bedürfnisse deiner Liebsten wahrzunehmen. Gib dich der sanften Nostalgie hin, ohne von ihr fortgeschwemmt zu werden. Zu Hause ist einfach der Ort, an dem deine Magie wohnt.",
+      "love": "Tiefgründige Gespräche stärken eure emotionale Bindung und bringen euch näher zusammen als je zuvor.",
+      "career": "Denke in Ruhe über deine langfristigen Ziele nach, ohne Druck, sofort handeln zu müssen.",
+      "wellness": "Trinke eine warme Tasse Kamillentee und schreibe deine größten Träume für die kommende Woche in dein Tagebuch.",
+      "lucky_number": 4,
+      "lucky_color": "Silber",
+      "mood": "Nostalgisch"
+    },
+    "leo": {
+      "overview": "Das Universum hat den roten Teppich für dich ausgerollt, Löwe – betritt die Bühne und glänze. Der Sonntag steckt voller Drama, Romantik und Gelegenheiten, deine großartige künstlerische Ader auszuleben. Ob du ein unvergessliches Outfit für den Brunch zusammenstellst oder eine Gruppenaktivität anführst: Deine natürliche Ausstrahlung zieht alle Blicke auf dich. Hab keine Angst, heute deine Freude voll und ganz auszuleben. Teile deine Wärme, aber vergiss nicht, auch dir selbst Beifall zu spenden.",
+      "love": "Romantik fühlt sich an wie in einem Hollywood-Film, komplett mit großen Gesten und verliebten Blicken.",
+      "career": "Visualisiere deine kommenden beruflichen Erfolge mit eisernem Selbstbewusstsein und kühnem Optimismus.",
+      "wellness": "Nimm vor dem Spiegel eine dramatische Yoga-Pose ein, um deine eigene Stärke zu bewundern.",
+      "lucky_number": 29,
+      "lucky_color": "Gold",
+      "mood": "Strahlend"
+    },
+    "virgo": {
+      "overview": "Das Aufräumen deines Bereichs bringt dir heute ein tiefes Gefühl von Zen, Jungfrau. Der Sonntag ist perfekt, um dein Bücherregal farblich zu sortieren, Playlists zu erstellen oder endlich diese Rumpelschublade anzugehen. Dein Blick für Details ist unübertroffen, sodass du Schönheit in winzigen Mustern entdeckst, die anderen entgehen. So sehr du To-Do-Listen liebst, lass dir am Nachmittag etwas Zeit für pure Entspannung. Eine aufgeräumte Umgebung sorgt für einen friedlichen, glücklichen Geist.",
+      "love": "Taten sagen heute mehr als Worte – zeige deine Zuneigung, indem du deinem Partner den Morgenkaffee machst.",
+      "career": "Ein sauberer Planer bereitet dich perfekt auf eine reibungslose und produktive Woche vor.",
+      "wellness": "Dehne Schultern und Handgelenke, um die physische Anspannung des Alltags loszuwerden.",
+      "lucky_number": 5,
+      "lucky_color": "Marineblau",
+      "mood": "Fokussiert"
+    },
+    "libra": {
+      "overview": "Ästhetische Harmonie ist heute deine Hauptmission, Waage, und du wirst sie mit Leichtigkeit meistern. Der Sonntag lädt dich ein, überall Schönes zu erschaffen – von frischen Blumen auf dem Tisch bis hin zum Treffen mit stilvollen Freunden. Du bist eine geborene Friedensstifterin, die kleine Reibereien mit Diplomatie und Charme glättet. Gönn dir ein bisschen Luxus beim Shooping oder Schaufensterbummel ohne ein schlechtes Gewissen. Balance und Eleganz stehen dir ausgezeichnet.",
+      "love": "Flirten ist eine Kunstform, und du beherrschst derzeit jeden Pinselstrich.",
+      "career": "Gemeinsames Brainstorming fließt wie von selbst, wenn du deine diplomatischen Superkräfte einsetzt.",
+      "wellness": "Verströme den Duft von beruhigendem Lavendelöl, um pure Entspannung in dein Zuhause zu holen.",
+      "lucky_number": 12,
+      "lucky_color": "Rosa",
+      "mood": "Harmonisch"
+    },
+    "scorpio": {
+      "overview": "Deine geheimnisvolle Aura strahlt heute im Kino-Modus, Skorpion. Der Sonntag lädt dich ein, in deine Leidenschaften einzutauchen – ob bei einem packenden Psychothriller oder einem faszinierenden neuen Thema. Du sehnst dich nach Tiefe und meidest oberflächlichen Smalltalk zugunsten echter Seelenwahrheiten. Vertraue bei neuen Kontakten auf deine messerscharfe Intuition; sie täuscht dich nie. Umarme deine Intensität und lass deine faszinierende Innenwelt wirken.",
+      "love": "Magnetische Anziehung prägt dein Liebesleben und zieht deinen Herzensmenschen in deinen Bann.",
+      "career": "Strategie und Taktik sind deine besten Verbündeten, während du im Hintergrund deine nächsten Schritte planst.",
+      "wellness": "Ein schweißtreibendes Workout hilft dir dabei, deine emotionale Intensität in körperliche Kraft umzusetzen.",
+      "lucky_number": 33,
+      "lucky_color": "Kastanienbraun",
+      "mood": "Intensiv"
+    },
+    "sagittarius": {
+      "overview": "Das Fernweh kribbelt in deinen Adern, Schütze, selbst wenn du nur ein neues Café in der Nachbarschaft erkundest. Der Sonntag verlangt nach Abenteuer, Weite und absolutem Freiraum. Dein ansteckender Optimismus macht dich zum perfekten Begleiter für einen spontanen Roadtrip oder einen Ausflug ins Grüne. Bleibe offen für überraschende Perspektiven von Menschen, denen du begegnest. Das Leben ist eine große Expedition, und du bist bereit für jeden Zentimeter.",
+      "love": "Spontane Abenteuer mit deinem Partner oder einem neuen Flirt hauchen deinem Herzen frischen Atem ein.",
+      "career": "Großes Denken hilft dir dabei, eine ambitionierte Idee vorzuschlagen, die alle im Raum begeistert.",
+      "wellness": "Verlege deine Cardio-Session nach draußen, um frische Luft und Sonne zu tanken.",
+      "lucky_number": 7,
+      "lucky_color": "Türkis",
+      "mood": "Abenteuerlustig"
+    },
+    "capricorn": {
+      "overview": "Selbst am Sonntag schmiedet deine legendäre Ambition im Hintergrund Pläne, Steinbock. Halte kurz inne und bewundere das solide Fundament, das du dir durch harte Arbeit aufgebaut hast. Auch wenn du stets den Gipfel im Blick hast, solltest du die Aussicht genießen, wo du gerade stehst. Belohne dich mit etwas Hochwertigem für deine persönlichen Meilensteine. Ruhe ist keine Zeitverschwendung, sondern der Treibstoff für deine zukünftigen Erfolge.",
+      "love": "Loyalität und Beständigkeit bilden das stabile Fundament deiner bedeutungsvollsten Beziehungen.",
+      "career": "Reflektiere deine langfristigen Pläne mit stiller Zuversicht und strategischem Weitblick.",
+      "wellness": "Löse Verspannungen mit einer wohltuenden Yoga-Einheit oder sanftem Dehnen.",
+      "lucky_number": 10,
+      "lucky_color": "Anthrazit",
+      "mood": "Ambitioniert"
+    },
+    "aquarius": {
+      "overview": "Dein genialer Verstand läuft heute auf einer ganz anderen Frequenz, Wassermann, und sprudelt vor futuristischen Ideen. Der Sonntag ist ideal, um Gleichgesinnte zu treffen, die deinen exzentrischen Blickwinkel schätzen. Vielleicht steckst du mitten in einer Diskussion über Technologie, Kunst oder Weltrettung. Zögere nicht, deine schräge Seite zu zeigen – die Welt braucht deine Originalität heute mehr denn je. Bleibe offen für plötzliche Geistesblitze.",
+      "love": "Intellektuelle Verbundenheit ist dein größtes Aphrodisiakum, also suche jemanden, der deinen klugen Geist fordert.",
+      "career": "Deine innovative Vision schlägt eine radikale Lösung vor, die die bisherige Routine komplett revolutioniert.",
+      "wellness": "Schalte ab von der Reizüberflutung, indem du Sterne guckst oder Science-Fiction liest.",
+      "lucky_number": 11,
+      "lucky_color": "Elektrisch-Blau",
+      "mood": "Visionär"
+    },
+    "pisces": {
+      "overview": "Träumerischer Eskapismus ist heute dein Fortbewegungsmittel, Fische, und der Kosmos unterstützt deine Reise voll und ganz. Der Sonntag ist fantastisch, um deine Fantasie anzuzapfen – durch Malen, Gedichte oder einfach Tagträumen. Deinfühlendes Herz nimmt die feinen Energien um dich herum wahr, was dich zu einem wunderbaren Zuhörer macht. Erlaube dir, in deiner magischen Fantasiewelt zu treiben. Die Realität wartet geduldig, während sich deine Seele erholt.",
+      "love": "Poetische Romantik und sanfte Zuneigung legen sich wie eine wärmende Decke um dein Herz.",
+      "career": "Lass dich von deiner grenzenlosen kreativen Fantasie zu einer inspirierten Lösung führen.",
+      "wellness": "Nimm ein langes, verträumtes Bad mit Bittersalz und beruhigender Musik.",
+      "lucky_number": 3,
+      "lucky_color": "Meergrün",
+      "mood": "Träumerisch"
+    }
+  }
+}

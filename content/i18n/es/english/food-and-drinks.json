@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-23",
+  "slug": "food-and-drinks",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "🍎",
+  "title": "Comida y bebidas",
+  "summary": "Aprende los nombres de comidas y bebidas comunes en inglés. Practica cómo pedir lo que te gusta comer y beber.",
+  "sections": [
+    {
+      "h": "Hablando de comida",
+      "p": "Comemos todos los días. Cuando hablamos de la comida que nos gusta, usamos palabras sencillas. Para el desayuno, el almuerzo o la cena, podemos comer fruta, pan o arroz. Vamos a aprender los nombres de algunas comidas muy populares que la gente come en todo el mundo.",
+      "ex": [
+        {
+          "en": "I eat an apple every day.",
+          "mean": "Las manzanas son una fruta saludable que como a diario."
+        },
+        {
+          "en": "Do you like bread?",
+          "mean": "Una pregunta para saber si el pan te parece sabroso."
+        }
+      ]
+    },
+    {
+      "h": "Hablando de bebidas",
+      "p": "Cuando tienes sed, necesitas una bebida. El agua es la mejor bebida para tu cuerpo. Mucha gente también toma té o café por la mañana, y jugo frío cuando hace calor. Aprendamos a hablar de estas bebidas.",
+      "ex": [
+        {
+          "en": "I want a glass of water, please.",
+          "mean": "Una forma educada de pedir agua."
+        },
+        {
+          "en": "She drinks tea with breakfast.",
+          "mean": "El té es su bebida favorita por la mañana."
+        }
+      ]
+    },
+    {
+      "h": "Diciendo lo que te gusta",
+      "p": "Es fácil hablar de lo que quieres comer o beber. Puedes decir \"I like\" para las cosas que disfrutas, o \"I want\" cuando pides comida en una tienda o restaurante. Las palabras de cortesía como \"please\" son muy importantes.",
+      "ex": [
+        {
+          "en": "I like bananas.",
+          "mean": "Los plátanos son una fruta que disfruto comiendo."
+        },
+        {
+          "en": "Coffee, please.",
+          "mean": "Una forma breve y educada de pedir café."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "apple",
+      "mean": "una fruta redonda de color rojo o verde"
+    },
+    {
+      "en": "bread",
+      "mean": "alimento horneado hecho con harina"
+    },
+    {
+      "en": "water",
+      "mean": "líquido transparente que bebemos"
+    },
+    {
+      "en": "tea",
+      "mean": "una bebida caliente hecha con hojas"
+    },
+    {
+      "en": "coffee",
+      "mean": "una bebida caliente y oscura para la mañana"
+    },
+    {
+      "en": "rice",
+      "mean": "pequeños granos blancos o marrones"
+    },
+    {
+      "en": "milk",
+      "mean": "líquido blanco de las vacas"
+    },
+    {
+      "en": "banana",
+      "mean": "una fruta alargada, dulce y amarilla"
+    }
+  ],
+  "tip": "¡Mira la comida en tu cocina y di sus nombres en inglés en voz alta! ¡Te ayuda a recordarlos rápido!",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta para el espacio",
+      "en": "I drink a glass of ___ when I am thirsty.",
+      "choices": [
+        "water",
+        "bread",
+        "apple",
+        "rice"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta para el espacio",
+      "en": "An ___ is a red or green fruit.",
+      "choices": [
+        "milk",
+        "apple",
+        "coffee",
+        "tea"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta para el espacio",
+      "en": "She drinks hot ___ in the morning.",
+      "choices": [
+        "water",
+        "banana",
+        "coffee",
+        "bread"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta para el espacio",
+      "en": "A ___ is a long yellow fruit.",
+      "choices": [
+        "banana",
+        "apple",
+        "rice",
+        "water"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta para el espacio",
+      "en": "We eat white ___ with our dinner.",
+      "choices": [
+        "tea",
+        "milk",
+        "water",
+        "rice"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Elige la palabra correcta para el espacio",
+      "en": "Cats and babies like to drink ___.",
+      "choices": [
+        "bread",
+        "milk",
+        "apple",
+        "coffee"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

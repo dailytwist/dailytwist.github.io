@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-08",
+  "title": "Tägliches Allgemeinwissens-Quiz: 8. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welcher Fluss ist der längste der Welt?",
+      "options": [
+        "Amazonas",
+        "Jangtsekiang",
+        "Nil",
+        "Mississippi River"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Der Nil fließt durch Afrika nach Norden und mündet in das Mittelmeer."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist die härteste von Natur aus vorkommende Substanz auf der Erde?",
+      "options": [
+        "Gold",
+        "Diamant",
+        "Quarz",
+        "Eisen"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Diamanten entstehen tief im Erdmantel unter extremem Druck und hohen Temperaturen."
+    },
+    {
+      "category": "Tiere",
+      "question": "Welcher Vogel ist allgemein dafür bekannt, menschliche Sprache und Laute nachahmen zu können?",
+      "options": [
+        "Kaiserpinguin",
+        "Weißkopfseeadler",
+        "Graupapagei",
+        "Wanderfalke"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Der Graupapagei ist für seine außergewöhnlichen kognitiven Fähigkeiten und seinen großen Wortschatz berühmt."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Wer war der erste Kaiser des Römischen Reiches?",
+      "options": [
+        "Konstantin der Große",
+        "Julius Cäsar",
+        "Nero",
+        "Augustus"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Augustus, der ursprünglich Octavian hieß, war der Adoptivsohn von Julius Cäsar und begründete das Römische Reich im Jahr 27 v. Chr."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Welcher epische Science-Fiction-Film aus dem Jahr 1977 brachte Figuren wie Luke Skywalker, Prinzessin Leia und Han Solo auf die Leinwand?",
+      "options": [
+        "Star Trek: Der Film",
+        "Unheimliche Begegnung der dritten Art",
+        "Krieg der Sterne",
+        "Alien"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Unter der Regie von George Lucas wurde dieser Film zu einem riesigen kulturellen Phänomen und startete eines der erfolgreichsten Franchise-Unternehmen der Kinogeschichte."
+    },
+    {
+      "category": "Essen & Trinken",
+      "question": "Was ist die alkoholische Hauptzutat eines traditionellen Dark 'n' Stormy Cocktails?",
+      "options": [
+        "Dunkler Rum",
+        "Wodka",
+        "Tequila",
+        "Gin"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Ein echter Dark 'n' Stormy verlangt ausdrücklich nach Gosling's Black Seal Rum und Ginger Beer."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Strikes sind beim Baseball erforderlich, um einen regulären Strikeout zu erzielen?",
+      "options": [
+        "Zwei",
+        "Drei",
+        "Fünf",
+        "Vier"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Ein Schlagmann ist nach drei Strikes out. Diese können durch Schwingen, Stehenbleiben des Balls oder Foulbälle bei zwei Strikes zustande kommen."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie lautet der sprachwissenschaftliche Begriff für ein Wort, das genauso ausgesprochen wird wie ein anderes, sich aber in Bedeutung, Herkunft oder Schreibweise unterscheidet?",
+      "options": [
+        "Homophon",
+        "Antonym",
+        "Homonym",
+        "Synonym"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Homophone klingen laut ausgesprochen vollkommen identisch, unabhängig davon, wie unterschiedlich ihre Buchstaben angeordnet sind."
+    },
+    {
+      "category": "Weltall",
+      "question": "Wie nennt man die Begrenzung um ein Schwarzes Loch, jenseits derer nichts – nicht einmal Licht – entkommen kann?",
+      "options": [
+        "Singularität",
+        "Akrektionsscheibe",
+        "Photonensphäre",
+        "Ereignishorizont"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Sobald ein Objekt den Ereignishorizont überschreitet, übersteigt seine Fluchtgeschwindigkeit die Lichtgeschwindigkeit."
+    },
+    {
+      "category": "Geschichte",
+      "question": "In welchem Jahr fand die historische Landung der Alliierten in der Normandie (D-Day) während des Zweiten Weltkriegs statt?",
+      "options": [
+        "1945",
+        "1944",
+        "1943",
+        "1942"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Die Operation Neptune, allgemein bekannt als D-Day, begann am 6. Juni 1944 mit den amphibischen Landungen der Alliierten an den Stränden der Normandie in Frankreich."
+    }
+  ]
+}

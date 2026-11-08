@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-08",
+  "title": "Test de cultura general diaria: 8 de noviembre de 2026",
+  "questions": [
+    {
+      "category": "Geografía",
+      "question": "¿Qué río es el más largo del mundo?",
+      "options": [
+        "Río Amazonas",
+        "Río Yangtsé",
+        "Río Nilo",
+        "Río Misisipi"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El río Nilo fluye hacia el norte a través de África y desemboca en el mar Mediterráneo."
+    },
+    {
+      "category": "Ciencia",
+      "question": "¿Cuál es la sustancia natural más dura de la Tierra?",
+      "options": [
+        "Oro",
+        "Diamante",
+        "Cuarzo",
+        "Hierro"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Los diamantes se forman bajo condiciones de alta presión y temperatura en las profundidades del manto terrestre."
+    },
+    {
+      "category": "Animales",
+      "question": "¿Qué ave es universalmente conocida por su capacidad para imitar el habla y los sonidos humanos?",
+      "options": [
+        "Pingüino emperador",
+        "Águila calva",
+        "Yaco o loro gris africano",
+        "Halcón peregrino"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El yaco o loro gris africano es famoso por sus extraordinarias capacidades cognitivas y su amplio vocabulario vocal."
+    },
+    {
+      "category": "Historia",
+      "question": "¿Quién fue el primer emperador del Imperio romano?",
+      "options": [
+        "Constantino el Grande",
+        "Julio César",
+        "Nerón",
+        "Augusto"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Augusto, llamado originalmente Octaviano, era hijo adoptivo de Julio César y fundó el Imperio romano en el año 27 a. C."
+    },
+    {
+      "category": "Cine y cultura pop",
+      "question": "¿Qué película épica de ópera espacial de 1977 presentó a personajes como Luke Skywalker, la princesa Leia y Han Solo?",
+      "options": [
+        "Star Trek: La película",
+        "Encuentros en la tercera fase",
+        "Star Wars: Episodio IV - Una nueva esperanza",
+        "Alien: el octavo pasajero"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Dirigida por George Lucas, esta película se convirtió en un enorme fenómeno cultural y lanzó una de las franquicias más exitosas de la historia del cine."
+    },
+    {
+      "category": "Gastronomía",
+      "question": "¿Cuál es la base alcohólica principal utilizada para preparar un cóctel tradicional Dark 'n' Stormy?",
+      "options": [
+        "Ron oscuro",
+        "Vodka",
+        "Tequila",
+        "Ginebra"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Un auténtico Dark 'n' Stormy requiere específicamente ron Black Seal de Gosling y cerveza de jengibre."
+    },
+    {
+      "category": "Deportes",
+      "question": "En el béisbol, ¿cuántos strikes se necesitan para registrar un ponche o strikeout reglamentario?",
+      "options": [
+        "Dos",
+        "Tres",
+        "Cinco",
+        "Cuatro"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Un bateador queda eliminado tras acumular tres strikes, los cuales pueden ser abanicados, cantados o foul tips con dos strikes."
+    },
+    {
+      "category": "Lengua",
+      "question": "¿Cuál es el término lingüístico para una palabra que se pronuncia igual que otra pero difiere en significado, origen o ortografía, como 'bota' (calzado) y 'bota' (del verbo botar)?",
+      "options": [
+        "Homófono",
+        "Antónimo",
+        "Homónimo",
+        "Sinónimo"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Los homófonos suenan idénticos al hablar en voz alta, sin importar cuán diferentes sean sus grafías."
+    },
+    {
+      "category": "Espacio",
+      "question": "¿Cómo se llama el límite que rodea a un agujero negro más allá del cual nada, ni siquiera la luz, puede escapar?",
+      "options": [
+        "Singularidad",
+        "Disco de acreción",
+        "Esfera de fotones",
+        "Horizonte de sucesos"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Una vez que un objeto cruza el horizonte de sucesos, su velocidad de escape supera la velocidad de la luz."
+    },
+    {
+      "category": "Historia",
+      "question": "¿En qué año tuvo lugar la histórica invasión de Normandía (Día D) durante la Segunda Guerra Mundial?",
+      "options": [
+        "1945",
+        "1944",
+        "1943",
+        "1942"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La Operación Neptuno, conocida comúnmente como el Día D, comenzó el 6 de junio de 1944 con los desembarcos anfibios de los Aliados en las playas de Normandía, Francia."
+    }
+  ]
+}
