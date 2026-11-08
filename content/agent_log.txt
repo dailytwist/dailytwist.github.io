@@ -1,76 +1,66 @@
-- guide birthday october-15
+- guide birthday october-21
 ::warning::Gemini models available: gemini-2.5-flash, gemini-2.5-pro, gemini-2.5-flash-preview-tts, gemini-2.5-pro-preview-tts, gemma-4-26b-a4b-it, gemma-4-31b-it, gemini-flash-latest, gemini-flash-lite-latest, gemini-pro-latest, gemini-2.5-flash-lite, gemini-2.5-flash-image, gemini-3-flash-preview, gemini-3.1-pro-preview, gemini-3.1-pro-preview-customtools, gemini-3.1-flash-lite-preview, gemini-3.1-flash-lite, gemini-3-pro-image-preview, gemini-3-pro-image, nano-banana-pro-preview, gemini-3.1-flash-image-preview, gemini-3.1-flash-image, gemini-3.1-flash-lite-image, gemini-nano-banana-2.1, gemini-3.5-flash, gemini-3.5-flash-lite, gemini-omni-flash-preview, gemini-omni-1.1-flash, gemini-omni-1.2-flash, gemini-3.5-transcribe, gemini-3.6-flash, gemini-3.7-flash, gemini-3.8-flash, gemini-4-argon, lyria-3-clip-preview, lyria-3-pro-preview, lyria-3.5, gemini-3.1-flash-tts-preview, gemini-3.8-flash-tts, gemini-3.8-flash-lite-tts, gemini-robotics-er-2-preview
 ::warning::using Gemini model: gemini-3.5-flash-lite
-  saved content/guides/birthday-october-15.json
-- guide birthday october-16
-  saved content/guides/birthday-october-16.json
-- guide birthday october-17
-  saved content/guides/birthday-october-17.json
-- guide birthday october-18
-  saved content/guides/birthday-october-18.json
-- guide birthday october-19
-  saved content/guides/birthday-october-19.json
-- guide birthday october-20
+  saved content/guides/birthday-october-21.json
+- guide birthday october-22
+  saved content/guides/birthday-october-22.json
+- guide birthday october-23
+  saved content/guides/birthday-october-23.json
+- guide birthday october-24
+  saved content/guides/birthday-october-24.json
+- guide birthday october-25
+  saved content/guides/birthday-october-25.json
+- guide birthday october-26
+  saved content/guides/birthday-october-26.json
+  saved content/i18n/es/guides/birthday-october-26.json
+  saved content/i18n/es/guides/birthday-october-24.json
+  saved content/i18n/es/guides/birthday-october-22.json
+  saved content/i18n/es/guides/birthday-october-25.json
+  saved content/i18n/es/guides/birthday-october-21.json
+  saved content/i18n/es/guides/birthday-october-23.json
+  saved content/i18n/es/names/arthur.json
+  saved content/i18n/es/names/anas.json
+  saved content/i18n/es/names/mustafa.json
+  saved content/i18n/fr/guides/birthday-october-26.json
+  saved content/i18n/fr/guides/birthday-october-24.json
+  saved content/i18n/fr/guides/birthday-october-22.json
+  saved content/i18n/fr/guides/birthday-october-25.json
+  saved content/i18n/fr/guides/birthday-october-21.json
+  saved content/i18n/fr/guides/birthday-october-23.json
+  saved content/i18n/de/guides/birthday-october-26.json
+  saved content/i18n/de/guides/birthday-october-24.json
+  saved content/i18n/de/guides/birthday-october-22.json
+  saved content/i18n/pt/guides/birthday-october-26.json
+  saved content/i18n/pt/guides/birthday-october-24.json
+  saved content/i18n/pt/guides/birthday-october-22.json
+  saved content/i18n/pt/guides/birthday-october-25.json
+  saved content/i18n/pt/guides/birthday-october-21.json
+  saved content/i18n/pt/guides/birthday-october-19.json
+  saved content/i18n/it/guides/birthday-october-26.json
+  saved content/i18n/it/guides/birthday-october-24.json
   AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/guides/birthday-october-20.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/es/guides/birthday-october-17.json
-  saved content/i18n/es/guides/birthday-october-20.json
-  saved content/i18n/es/guides/birthday-october-18.json
-  saved content/i18n/es/guides/birthday-october-15.json
-  saved content/i18n/es/guides/birthday-october-19.json
-  saved content/i18n/es/guides/birthday-october-16.json
-  saved content/i18n/es/names/ayoub.json
-  saved content/i18n/es/names/khalid.json
-  saved content/i18n/es/names/benjamin.json
-  saved content/i18n/fr/guides/birthday-october-17.json
-  saved content/i18n/fr/guides/birthday-october-20.json
-  saved content/i18n/fr/guides/birthday-october-18.json
-  saved content/i18n/fr/guides/birthday-october-15.json
-  saved content/i18n/fr/guides/birthday-october-19.json
-  saved content/i18n/fr/guides/birthday-october-16.json
-  saved content/i18n/de/guides/birthday-october-17.json
-  saved content/i18n/de/guides/birthday-october-20.json
-  saved content/i18n/de/guides/birthday-october-12.json
-  saved content/i18n/pt/guides/birthday-october-17.json
-  saved content/i18n/pt/guides/birthday-october-20.json
-  saved content/i18n/pt/guides/birthday-october-14.json
-  saved content/i18n/pt/guides/birthday-october-9.json
-  saved content/i18n/pt/guides/birthday-october-18.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  saved content/i18n/pt/guides/birthday-october-15.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/it/guides/birthday-october-17.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/it/guides/birthday-october-20.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/it/guides/birthday-october-10.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/ja/guides/birthday-october-17.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/ja/guides/birthday-october-20.json
-  saved content/i18n/ja/guides/birthday-october-10.json
-  saved content/i18n/ar/guides/birthday-october-17.json
-  saved content/i18n/ar/guides/birthday-october-20.json
-  saved content/i18n/ar/guides/birthday-october-10.json
-  saved content/i18n/es/names/sebastian.json
-  saved content/i18n/es/names/ethan.json
-  saved content/i18n/es/names/louis.json
-  saved content/i18n/es/names/hussein.json
-  saved content/i18n/es/names/alexander.json
-  saved content/i18n/es/names/karim.json
-  saved content/i18n/es/names/henry.json
-  saved content/i18n/es/names/daniel.json
-  saved content/i18n/es/names/bilal.json
-  saved content/i18n/fr/names/loubna.json
-  saved content/i18n/fr/names/rim.json
-  saved content/i18n/fr/names/sana.json
-  saved content/i18n/fr/names/ines.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/fr/names/mia.json
-  saved content/i18n/fr/names/farah.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/de/guides/birthday-october-14.json
-  saved content/i18n/de/guides/birthday-october-9.json
+  saved content/i18n/it/guides/birthday-october-22.json
+  saved content/i18n/ja/guides/birthday-october-26.json
+  saved content/i18n/ja/guides/birthday-october-24.json
+  saved content/i18n/ja/guides/birthday-october-22.json
+  saved content/i18n/ar/guides/birthday-october-26.json
+  saved content/i18n/ar/guides/birthday-october-24.json
+  saved content/i18n/ar/guides/birthday-october-22.json
+  saved content/i18n/es/names/james.json
+  saved content/i18n/es/names/hassan.json
+  saved content/i18n/es/names/zakaria.json
+  saved content/i18n/es/names/rayan.json
+  saved content/i18n/es/names/ilyas.json
+  saved content/i18n/es/articles/hilary-duff-from-disney-star-to-cultural-icon.json
+  saved content/i18n/es/articles/stefanos-tsitsipas-everything-you-need-to-know.json
+  saved content/i18n/es/articles/kourtney-kardashian-the-evolution-of-a-reality-star.json
+  saved content/i18n/es/guides/birthday-january-5.json
+  saved content/i18n/fr/names/sophia.json
+  saved content/i18n/fr/names/amelia.json
+  saved content/i18n/fr/names/manon.json
+  saved content/i18n/fr/names/chloe.json
+  saved content/i18n/fr/names/alice.json
+  saved content/i18n/fr/names/ava.json
+  saved content/i18n/de/guides/birthday-october-25.json
+  saved content/i18n/de/guides/birthday-october-21.json
 Agent finished.
