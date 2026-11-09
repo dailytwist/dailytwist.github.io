@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-28",
+  "slug": "social-media-english",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "📱",
+  "title": "Parler des réseaux sociaux",
+  "summary": "Apprenez quatre mots courants pour parler de votre vie en ligne. Entraînez-vous à publier, partager, suivre et découvrir les sujets du moment.",
+  "sections": [
+    {
+      "h": "Publier et partager",
+      "p": "Quand vous mettez une nouvelle photo ou un message sur Internet pour que tout le monde le voie, vous le publiez. Si vous aimez quelque chose qu'un ami a mis en ligne et que vous voulez que vos amis le voient aussi, vous le partagez. Ces deux actions sont les plus courantes pour communiquer au quotidien sur les réseaux sociaux.",
+      "ex": [
+        {
+          "en": "I want to post a picture of my cat.",
+          "mean": "Je veux mettre une nouvelle photo de chat en ligne."
+        },
+        {
+          "en": "Please share my message with your friends.",
+          "mean": "S'il te plaît, fais en sorte que tes amis voient mon message aussi."
+        }
+      ]
+    },
+    {
+      "h": "S'abonner",
+      "p": "Quand vous suivez quelqu'un sur les réseaux sociaux, vous choisissez de voir ses nouvelles publications chaque jour. Vous pouvez suivre vos amis, vos musiciens préférés ou des comptes rigolos. Leurs actualités apparaîtront toujours sur votre écran principal.",
+      "ex": [
+        {
+          "en": "I follow a lot of great travel bloggers.",
+          "mean": "Je reçois régulièrement des actualités de nombreux comptes de voyage."
+        },
+        {
+          "en": "Do you follow me on Instagram?",
+          "mean": "Est-ce que tu regardes mon profil et mes actualités ?"
+        }
+      ]
+    },
+    {
+      "h": "Tendances",
+      "p": "Lorsqu'un sujet ou une vidéo fait le buzz, cela signifie que beaucoup de personnes en parlent ou la regardent en ce moment même. C'est très populaire sur Internet aujourd'hui. Vous pouvez consulter la liste des tendances pour voir ce qui est nouveau et passionnant.",
+      "ex": [
+        {
+          "en": "That funny video is trending today.",
+          "mean": "Tout le monde regarde cette vidéo rigolote en ce moment."
+        },
+        {
+          "en": "What topics are trending in your country?",
+          "mean": "De quoi parle-t-on le plus en ligne ?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "post",
+      "mean": "mettre du contenu en ligne"
+    },
+    {
+      "en": "share",
+      "mean": "envoyer à d'autres"
+    },
+    {
+      "en": "follow",
+      "mean": "s'abonner aux actualités"
+    },
+    {
+      "en": "trending",
+      "mean": "très populaire en ce moment"
+    },
+    {
+      "en": "social media",
+      "mean": "réseaux en ligne"
+    },
+    {
+      "en": "profile",
+      "mean": "page personnelle"
+    }
+  ],
+  "tip": "Pensez à une vraie application que vous utilisez tous les jours. Essayez de nommer trois choses que vous aimeriez y publier ou y partager aujourd'hui.",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "I want to ___ a nice photo of my dinner on my profile.",
+      "choices": [
+        "follow",
+        "post",
+        "trending"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "If you like my article, please ___ it on your page.",
+      "choices": [
+        "share",
+        "follow",
+        "post"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "I ___ my favorite singer to see all her new photos.",
+      "choices": [
+        "trending",
+        "share",
+        "follow"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "Look at the news! This topic is ___ all over the world.",
+      "choices": [
+        "trending",
+        "post",
+        "follow"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la bonne définition",
+      "en": "What does it mean when a video is trending?",
+      "choices": [
+        "It is very old.",
+        "Many people are watching it now.",
+        "It is hard to find."
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne définition",
+      "en": "What do you do when you follow someone?",
+      "choices": [
+        "You block their account.",
+        "You see their new posts.",
+        "You delete their messages."
+      ],
+      "answer_index": 1
+    }
+  ]
+}

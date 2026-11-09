@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-22",
+  "slug": "days-and-months",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "📅",
+  "title": "Días, meses y estaciones",
+  "summary": "Aprende a hablar sobre los días, los meses y las estaciones en inglés. Practica usándolos para decir la hora y hacer planes.",
+  "sections": [
+    {
+      "h": "Días de la semana",
+      "p": "Hay siete días en una semana. Usamos mayúsculas en todos los días, como Monday y Tuesday. Decimos 'on' antes de un día, por ejemplo, 'on Monday'. El fin de semana es sábado y domingo.",
+      "ex": [
+        {
+          "en": "Today is Monday.",
+          "mean": "Este es el día de hoy."
+        },
+        {
+          "en": "I work on Tuesday.",
+          "mean": "Mi día de trabajo es martes."
+        },
+        {
+          "en": "We rest on Sunday.",
+          "mean": "El domingo es un día de descanso."
+        }
+      ]
+    },
+    {
+      "h": "Meses del año",
+      "p": "Hay doce meses en un año. El año empieza en enero y termina en diciembre. También usamos mayúsculas para los meses. Usamos 'in' antes de un mes, como 'in January'.",
+      "ex": [
+        {
+          "en": "My birthday is in January.",
+          "mean": "El mes de mi cumpleaños es enero."
+        },
+        {
+          "en": "School starts in September.",
+          "mean": "El año escolar empieza en septiembre."
+        }
+      ]
+    },
+    {
+      "h": "Las cuatro estaciones",
+      "p": "Un año tiene cuatro estaciones: primavera, verano, otoño e invierno. Cada estación trae un clima diferente. Usamos 'in' antes de las estaciones, como 'in summer'.",
+      "ex": [
+        {
+          "en": "It is hot in summer.",
+          "mean": "El clima de verano es cálido."
+        },
+        {
+          "en": "It snows in winter.",
+          "mean": "El invierno tiene nieve."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Monday",
+      "mean": "primer día laborable"
+    },
+    {
+      "en": "Saturday",
+      "mean": "día de fin de semana"
+    },
+    {
+      "en": "January",
+      "mean": "primer mes"
+    },
+    {
+      "en": "December",
+      "mean": "último mes"
+    },
+    {
+      "en": "Spring",
+      "mean": "estación de las flores"
+    },
+    {
+      "en": "Summer",
+      "mean": "estación calurosa"
+    },
+    {
+      "en": "Autumn",
+      "mean": "estación de otoño"
+    },
+    {
+      "en": "Winter",
+      "mean": "estación fría"
+    }
+  ],
+  "tip": "Haz un minicalendario para tu escritorio y escribe un evento en inglés en él todos los días.",
+  "quiz": [
+    {
+      "ask": "Elige el día correcto",
+      "en": "After Monday comes ___.",
+      "choices": [
+        "Tuesday",
+        "Sunday",
+        "Friday"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la preposición correcta",
+      "en": "My birthday is ___ July.",
+      "choices": [
+        "on",
+        "in",
+        "at"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la estación correcta",
+      "en": "The weather is very hot in ___.",
+      "choices": [
+        "winter",
+        "autumn",
+        "summer"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige el mes correcto",
+      "en": "The first month of the year is ___.",
+      "choices": [
+        "December",
+        "January",
+        "March"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige el día correcto",
+      "en": "Saturday and Sunday are the ___.",
+      "choices": [
+        "weekdays",
+        "weekend",
+        "months"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la preposición correcta",
+      "en": "We have no class ___ Friday.",
+      "choices": [
+        "in",
+        "at",
+        "on"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

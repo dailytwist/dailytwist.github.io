@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-22",
+  "slug": "possessive-adjectives",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "🎒",
+  "title": "Adjetivos posesivos: Mi, Tu, Su, Nuestro",
+  "summary": "Aprende a indicar de quién es algo usando palabras como mi, tu y su. Estas palabras hacen que tu inglés suene natural y claro.",
+  "sections": [
+    {
+      "h": "¿Qué son los adjetivos posesivos?",
+      "p": "Los adjetivos posesivos muestran a quién pertenece algo. Colocamos estas palabras justo antes de un sustantivo. Por ejemplo, decimos 'my pen' (mi bolígrafo) o 'your bag' (tu bolso). Cambian según quién tiene la cosa. Usamos 'my' para yo, 'your' para tú, 'his' para un hombre y 'her' para una mujer.",
+      "ex": [
+        {
+          "en": "This is my book.",
+          "mean": "El libro me pertenece."
+        },
+        {
+          "en": "Where is your coat?",
+          "mean": "El abrigo te pertenece."
+        },
+        {
+          "en": "His car is red.",
+          "mean": "El coche le pertenece a él."
+        },
+        {
+          "en": "Her name is Anna.",
+          "mean": "El nombre le pertenece a ella."
+        }
+      ]
+    },
+    {
+      "h": "Hablando de animales, grupos y todos",
+      "p": "Usamos 'its' para animales o cosas, como un perro o un teléfono. Usamos 'our' cuando algo nos pertenece a ti y a mí. Usamos 'their' cuando algo pertenece a un grupo de otras personas. Haz que la palabra coincida siempre con el dueño, no con el objeto.",
+      "ex": [
+        {
+          "en": "The dog wags its tail.",
+          "mean": "La cola pertenece al perro."
+        },
+        {
+          "en": "This is our classroom.",
+          "mean": "El aula nos pertenece."
+        },
+        {
+          "en": "Their house is big.",
+          "mean": "La casa les pertenece a ellos."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "my",
+      "mean": "me pertenece"
+    },
+    {
+      "en": "your",
+      "mean": "te pertenece"
+    },
+    {
+      "en": "his",
+      "mean": "pertenece a un hombre"
+    },
+    {
+      "en": "her",
+      "mean": "pertenece a una mujer"
+    },
+    {
+      "en": "its",
+      "mean": "pertenece a un animal o cosa"
+    },
+    {
+      "en": "our",
+      "mean": "nos pertenece"
+    },
+    {
+      "en": "their",
+      "mean": "les pertenece"
+    }
+  ],
+  "tip": "Fíjate en la persona que posee la cosa para elegir la palabra correcta. Recuerda: He = his, She = her, They = their!",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "I have a cat. ___ name is Luna.",
+      "choices": [
+        "His",
+        "Its",
+        "Her"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "You are a student. Where is ___ backpack?",
+      "choices": [
+        "your",
+        "my",
+        "our"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "John is here. This is ___ jacket.",
+      "choices": [
+        "her",
+        "their",
+        "his"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "Maria loves ___ new shoes.",
+      "choices": [
+        "its",
+        "her",
+        "his"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "We live in this city. ___ street is quiet.",
+      "choices": [
+        "their",
+        "your",
+        "our"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "The children are playing with ___ toys.",
+      "choices": [
+        "their",
+        "our",
+        "its"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

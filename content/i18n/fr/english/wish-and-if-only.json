@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-28",
+  "slug": "wish-and-if-only",
+  "cefr": "B2",
+  "cat": "grammar",
+  "emoji": "💭",
+  "title": "Parler de ses regrets : Wish et If Only",
+  "summary": "Apprenez à utiliser wish et if only pour parler de ce que vous aimeriez changer. Maîtrisez l'art d'exprimer des regrets sur le présent et le passé.",
+  "sections": [
+    {
+      "h": "Souhaits pour le présent",
+      "p": "Nous utilisons wish ou if only suivi du prétérit (past simple) pour parler de situations que nous aimerions changer maintenant, mais qui nous échappent. Bien que nous employions un verbe au passé, nous parlons bien du moment présent. C'est idéal pour exprimer un vif désir de réalité alternative au quotidien.",
+      "ex": [
+        {
+          "en": "I wish I had more free time.",
+          "mean": "Je n'ai pas assez de temps libre en ce moment, et cela m'attriste."
+        },
+        {
+          "en": "If only I lived closer to the beach.",
+          "mean": "J'habite loin de la plage aujourd'hui, mais je rêve d'y vivre."
+        },
+        {
+          "en": "She wishes she could speak French.",
+          "mean": "Elle ne parle pas français pour l'instant, mais elle aimerait tellement savoir le faire."
+        }
+      ]
+    },
+    {
+      "h": "Regrets concernant le passé",
+      "p": "Pour évoquer des erreurs commises par le passé, nous associons wish ou if only au plus-que-parfait (had + participe passé). Cette structure nous permet de repenser à hier ou à l'année dernière en imaginant une autre issue, même si l'histoire ne peut plus être réécrite.",
+      "ex": [
+        {
+          "en": "I wish I had studied harder for the exam.",
+          "mean": "Je n'ai pas assez révisé avant, et je m'en mords les doigts à cause de ma mauvaise note."
+        },
+        {
+          "en": "If only we had left the house earlier.",
+          "mean": "Nous sommes partis en retard, et par conséquent, nous avons raté notre train."
+        }
+      ]
+    },
+    {
+      "h": "Habitudes agaçantes avec Could et Would",
+      "p": "Nous employons également wish ou if only avec would pour pester contre les manies agaçantes de quelqu'un d'autre ou pour espérer qu'une situation finisse par évoluer. Pour exprimer notre propre capacité à changer les choses à l'avenir, nous utilisons pour notre part could.",
+      "ex": [
+        {
+          "en": "I wish you would stop making that loud noise.",
+          "mean": "Tu fais un bruit assourdissant en ce moment, et je voudrais que tu t'arrêtes."
+        },
+        {
+          "en": "If only it would stop raining.",
+          "mean": "Il pleut des cordes, et j'aimerais bien que cette averse cesse au plus vite."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "wish",
+      "mean": "souhaiter que les choses soient différentes"
+    },
+    {
+      "en": "if only",
+      "mean": "une façon plus intense de dire wish"
+    },
+    {
+      "en": "regret",
+      "mean": "éprouver des remords face à ses actes passés"
+    },
+    {
+      "en": "past simple",
+      "mean": "temps verbal réservé aux souhaits présents"
+    },
+    {
+      "en": "past perfect",
+      "mean": "had suivi du participe passé"
+    },
+    {
+      "en": "annoying habit",
+      "mean": "comportement répétitif et exaspérant"
+    },
+    {
+      "en": "reality",
+      "mean": "la réalité telle qu'elle est"
+    }
+  ],
+  "tip": "N'oubliez pas que pour exprimer un souhait dans le présent, il faut reculer d'un cran dans le passé ! Considérez cela comme le moyen de vous évader dans une réalité parallèle.",
+  "quiz": [
+    {
+      "ask": "Choisissez la forme correcte pour exprimer un souhait au présent",
+      "en": "I wish I ___ a bigger apartment.",
+      "choices": [
+        "have",
+        "had",
+        "will have",
+        "having"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Sélectionnez la bonne structure pour un regret passé",
+      "en": "If only I ___ my phone at home yesterday.",
+      "choices": [
+        "didn't leave",
+        "hadn't left",
+        "haven't left",
+        "wouldn't leave"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la meilleure option pour compléter la phrase",
+      "en": "She wishes she ___ drive a car, but she is too young.",
+      "choices": [
+        "can",
+        "could",
+        "will",
+        "would"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Quelle est la bonne formule pour se plaindre d'un comportement ?",
+      "en": "I wish you ___ leave your muddy shoes by the door.",
+      "choices": [
+        "won't",
+        "don't",
+        "wouldn't",
+        "haven't"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Sélectionnez l'option adéquate",
+      "en": "If only the weather ___ nicer tomorrow.",
+      "choices": [
+        "is",
+        "were",
+        "has been",
+        "will be"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Complétez la phrase exprimant un regret sur le passé",
+      "en": "He wishes he ___ the truth to his parents.",
+      "choices": [
+        "told",
+        "had told",
+        "tells",
+        "would tell"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

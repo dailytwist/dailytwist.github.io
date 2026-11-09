@@ -1,82 +1,101 @@
-  10 trending topics after filtering
-- horoscopes 2026-11-09
+- yearly topic 2027 aries love [en]
 ::warning::Gemini models available: gemini-2.5-flash, gemini-2.5-pro, gemini-2.5-flash-preview-tts, gemini-2.5-pro-preview-tts, gemma-4-26b-a4b-it, gemma-4-31b-it, gemini-flash-latest, gemini-flash-lite-latest, gemini-pro-latest, gemini-2.5-flash-lite, gemini-2.5-flash-image, gemini-3-flash-preview, gemini-3.1-pro-preview, gemini-3.1-pro-preview-customtools, gemini-3.1-flash-lite-preview, gemini-3.1-flash-lite, gemini-3-pro-image-preview, gemini-3-pro-image, nano-banana-pro-preview, gemini-3.1-flash-image-preview, gemini-3.1-flash-image, gemini-3.1-flash-lite-image, gemini-nano-banana-2.1, gemini-3.5-flash, gemini-3.5-flash-lite, gemini-omni-flash-preview, gemini-omni-1.1-flash, gemini-omni-1.2-flash, gemini-3.5-transcribe, gemini-3.6-flash, gemini-3.7-flash, gemini-3.8-flash, gemini-4-argon, lyria-3-clip-preview, lyria-3-pro-preview, lyria-3.5, gemini-3.1-flash-tts-preview, gemini-3.8-flash-tts, gemini-3.8-flash-lite-tts, gemini-robotics-er-2-preview
 ::warning::using Gemini model: gemini-3.5-flash-lite
-  saved content/horoscopes/2026-11-09.json
-- trivia 2026-11-09
   AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/trivia/2026-11-09.json
-- choosing articles from trends for 2026-11-09
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 3/4 in 30s
+  saved content/yearly_topics/2027-aries-love.json
+- yearly topic 2027 aries career [en]
   AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/seeds_used.json
+  saved content/yearly_topics/2027-aries-career.json
+- yearly topic 2027 aries money [en]
   AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/articles/new-moon-intentions-a-simple-guide-to-fresh-starts.json
-  saved content/articles/what-is-a-spirit-animal-meanings-and-guide.json
-  saved content/articles/twin-flame-vs-soulmate-what-s-the-real-difference.json
-- guide birthday october-27
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 3/4 in 30s
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 4/4 in 40s
+::error::make_yearly_topics failed: AI call failed after retries: HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }
+- guide birthday november-2
   AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/guides/birthday-october-27.json
-- guide birthday october-28
-  saved content/guides/birthday-october-28.json
-- guide birthday october-29
-  saved content/guides/birthday-october-29.json
-- guide birthday october-30
-  saved content/guides/birthday-october-30.json
-- guide birthday october-31
-  saved content/guides/birthday-october-31.json
-- guide birthday november-1
-  saved content/guides/birthday-november-1.json
-  saved content/i18n/es/horoscopes/2026-11-09.json
-  saved content/i18n/es/trivia/2026-11-09.json
-  saved content/i18n/es/guides/birthday-october-31.json
-  saved content/i18n/es/guides/birthday-october-30.json
-  saved content/i18n/es/guides/birthday-october-27.json
+  saved content/guides/birthday-november-2.json
+- guide birthday november-3
   AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/es/guides/birthday-november-1.json
-  saved content/i18n/es/guides/birthday-october-28.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
+  saved content/guides/birthday-november-3.json
+- guide birthday november-4
   AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/es/guides/birthday-october-29.json
-  saved content/i18n/es/articles/new-moon-intentions-a-simple-guide-to-fresh-starts.json
-  saved content/i18n/fr/horoscopes/2026-11-09.json
-  saved content/i18n/fr/trivia/2026-11-09.json
-  saved content/i18n/fr/guides/birthday-october-31.json
-  saved content/i18n/fr/guides/birthday-october-30.json
-  saved content/i18n/fr/guides/birthday-october-27.json
-  saved content/i18n/fr/guides/birthday-november-1.json
-  saved content/i18n/de/horoscopes/2026-11-09.json
-  saved content/i18n/de/trivia/2026-11-09.json
-  saved content/i18n/de/guides/birthday-october-31.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 3/4 in 30s
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 4/4 in 40s
+::error::make_guides failed: AI call failed after retries: HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }
+  saved content/i18n/es/guides/birthday-november-2.json
+  saved content/i18n/es/guides/birthday-november-3.json
+  saved content/i18n/es/guides/birthday-january-2.json
+  saved content/i18n/es/guides/birthday-january-1.json
+  saved content/i18n/es/guides/birthday-january-6.json
+  saved content/i18n/es/guides/angel-222.json
+  saved content/i18n/fr/guides/birthday-november-2.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/fr/guides/birthday-november-3.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/fr/names/zoe.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
+  saved content/i18n/fr/articles/what-is-the-dc-universe-a-guide-to-the-iconic-franchise.json
+  saved content/i18n/fr/articles/a-guide-to-ai-games-on-steam-how-artificial-intelligence-works.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
+  saved content/i18n/fr/articles/sagittarius-personality-strengths-weaknesses-explained.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/de/guides/birthday-november-2.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/de/guides/birthday-november-1.json
+  saved content/i18n/de/guides/birthday-november-3.json
+  saved content/i18n/de/guides/birthday-october-28.json
+  saved content/i18n/de/guides/birthday-october-29.json
+  saved content/i18n/de/articles/new-moon-intentions-a-simple-guide-to-fresh-starts.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/de/articles/twin-flame-vs-soulmate-what-s-the-real-difference.json
+  saved content/i18n/de/articles/what-is-a-spirit-animal-meanings-and-guide.json
+  saved content/i18n/de/guides/birthday-october-18.json
+  saved content/i18n/pt/guides/birthday-november-2.json
+  saved content/i18n/pt/guides/birthday-november-3.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/pt/guides/birthday-october-28.json
+  saved content/i18n/it/guides/birthday-october-30.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/it/guides/birthday-november-2.json
+  saved content/i18n/it/guides/birthday-october-27.json
   JSON was broken, asking once more
-  saved content/i18n/pt/horoscopes/2026-11-09.json
-  saved content/i18n/pt/trivia/2026-11-09.json
-  saved content/i18n/pt/guides/birthday-october-31.json
-  saved content/i18n/pt/guides/birthday-october-30.json
-  saved content/i18n/pt/guides/birthday-october-27.json
-  saved content/i18n/pt/guides/birthday-november-1.json
-  saved content/i18n/it/horoscopes/2026-11-09.json
-  saved content/i18n/it/trivia/2026-11-09.json
-  saved content/i18n/it/guides/birthday-october-31.json
-  saved content/i18n/ja/horoscopes/2026-11-09.json
-  saved content/i18n/ja/trivia/2026-11-09.json
-  saved content/i18n/ja/guides/birthday-october-31.json
-  saved content/i18n/ar/horoscopes/2026-11-09.json
-  saved content/i18n/ar/trivia/2026-11-09.json
-  saved content/i18n/ar/guides/birthday-october-31.json
-  saved content/i18n/es/articles/twin-flame-vs-soulmate-what-s-the-real-difference.json
-  saved content/i18n/es/articles/what-is-a-spirit-animal-meanings-and-guide.json
-  saved content/i18n/es/guides/birthday-january-9.json
-  saved content/i18n/es/guides/angel-111.json
-  saved content/i18n/es/guides/birthstone-february.json
-  saved content/i18n/es/guides/birthday-january-12.json
-  saved content/i18n/es/guides/angel-444.json
-  saved content/i18n/es/guides/birthstone-january.json
-  saved content/i18n/es/guides/angel-666.json
-  saved content/i18n/fr/guides/birthday-october-28.json
-  saved content/i18n/fr/guides/birthday-october-29.json
-  saved content/i18n/fr/articles/new-moon-intentions-a-simple-guide-to-fresh-starts.json
-  saved content/i18n/fr/articles/twin-flame-vs-soulmate-what-s-the-real-difference.json
-  saved content/i18n/fr/articles/what-is-a-spirit-animal-meanings-and-guide.json
-  saved content/i18n/fr/names/basma.json
-  saved content/i18n/de/guides/birthday-october-30.json
-  saved content/i18n/de/guides/birthday-october-27.json
+  saved content/i18n/it/guides/birthday-november-1.json
+  saved content/i18n/it/guides/birthday-november-3.json
+  saved content/i18n/it/guides/birthday-october-28.json
+  saved content/i18n/it/guides/birthday-october-29.json
+  saved content/i18n/it/articles/new-moon-intentions-a-simple-guide-to-fresh-starts.json
+  saved content/i18n/it/articles/twin-flame-vs-soulmate-what-s-the-real-difference.json
+  saved content/i18n/ja/guides/birthday-october-30.json
+  saved content/i18n/ja/guides/birthday-november-2.json
+  saved content/i18n/ja/guides/birthday-october-27.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/ar/guides/birthday-october-30.json
+  saved content/i18n/ar/guides/birthday-november-2.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/ar/guides/birthday-october-27.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 3/4 in 30s
+  saved content/i18n/es/guides/tarot-the-lovers.json
+  saved content/i18n/es/english/days-and-months.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/es/english/numbers-1-100.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
+  saved content/i18n/es/english/articles-a-an-the.json
+  saved content/i18n/es/english/colors.json
+  saved content/i18n/es/english/possessive-adjectives.json
+  saved content/i18n/fr/guides/birthday-april-24.json
+  saved content/i18n/fr/guides/birthday-april-27.json
+  saved content/i18n/fr/english/wish-and-if-only.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/fr/english/too-and-enough.json
+  saved content/i18n/fr/english/social-media-english.json
 Agent finished.

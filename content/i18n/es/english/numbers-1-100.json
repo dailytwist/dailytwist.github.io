@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-22",
+  "slug": "numbers-1-100",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "🔢",
+  "title": "Números, edad y números de teléfono",
+  "summary": "En esta divertida lección, aprenderás los números del 1 al 100. También aprenderás a decir tu edad y tu número de teléfono.",
+  "sections": [
+    {
+      "h": "Números del 1 al 20",
+      "p": "Primero, aprendamos los números básicos. Los números del uno al diez son fáciles: uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez. Los números del once al veinte son palabras especiales que debes memorizar, como once, doce, quince y veinte.",
+      "ex": [
+        {
+          "en": "I have three cats.",
+          "mean": "El número es tres."
+        },
+        {
+          "en": "She is twenty years old.",
+          "mean": "El número es veinte."
+        }
+      ]
+    },
+    {
+      "h": "Decenas (del 30 al 100)",
+      "p": "Para contar de diez en diez, añadimos 'ty' al final en inglés. Por ejemplo: treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa y cien. Para formar números como el 35 o el 42, solo di primero la decena y luego el número pequeño: treinta y cinco, cuarenta y dos.",
+      "ex": [
+        {
+          "en": "The book costs fifty dollars.",
+          "mean": "El número es cincuenta."
+        },
+        {
+          "en": "My grandfather is seventy-five.",
+          "mean": "El número es setenta y cinco."
+        }
+      ]
+    },
+    {
+      "h": "Cómo decir tu edad y tu número de teléfono",
+      "p": "Para decir cuántos años tienes, usa el verbo 'to be'. Di 'I am' y luego tu edad. Para compartir tu número de teléfono, di cada dígito uno por uno. Por ejemplo, 555-1234 se dice five-five-five, one-two-three-four.",
+      "ex": [
+        {
+          "en": "I am twenty-five years old.",
+          "mean": "Así es como dices tu edad."
+        },
+        {
+          "en": "My phone number is 555-4321.",
+          "mean": "Así es como compartes tu número de teléfono."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "one",
+      "mean": "número 1"
+    },
+    {
+      "en": "ten",
+      "mean": "número 10"
+    },
+    {
+      "en": "twenty",
+      "mean": "número 20"
+    },
+    {
+      "en": "fifty",
+      "mean": "número 50"
+    },
+    {
+      "en": "one hundred",
+      "mean": "número 100"
+    },
+    {
+      "en": "age",
+      "mean": "cuántos años tienes"
+    },
+    {
+      "en": "phone number",
+      "mean": "dígitos para llamar a alguien"
+    }
+  ],
+  "tip": "¡Practica los números diciendo los precios de las cosas que ves cuando vas de compras! Además, di tu número de teléfono en voz alta todos los días para recordarlo.",
+  "quiz": [
+    {
+      "ask": "Elige el número correcto para el 30",
+      "en": "I have ___ pens.",
+      "choices": [
+        "thirteen",
+        "thirty",
+        "three",
+        "third"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la forma correcta de decir la edad",
+      "en": "I ___ twenty years old.",
+      "choices": [
+        "have",
+        "am",
+        "do",
+        "make"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige el número correcto para el 100",
+      "en": "The maximum score is ___.",
+      "choices": [
+        "ten",
+        "fifty",
+        "one hundred",
+        "one thousand"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la ortografía correcta para el 15",
+      "en": "She is ___ years old.",
+      "choices": [
+        "fiveteen",
+        "fifteen",
+        "fifti",
+        "fivety"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta para contacto telefónico",
+      "en": "What is your phone ___?",
+      "choices": [
+        "number",
+        "age",
+        "name",
+        "house"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige el número correcto para el 80",
+      "en": "He is ___ years old.",
+      "choices": [
+        "eight",
+        "eighty",
+        "eighteen",
+        "Eighty-eight"
+      ],
+      "answer_index": 1
+    }
+  ]
+}
