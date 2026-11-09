@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-09",
+  "title": "Esplosione di Conoscenza Quotidiana: 9 Novembre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Quale paese raffigura un albero di cedro sulla propria bandiera nazionale?",
+      "options": [
+        "Canada",
+        "Guatemala",
+        "Libano",
+        "Cipro"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il simbolo del cedro sulla bandiera del Libano ha radici antiche legate alle celebri foreste bibliche della regione."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è il simbolo chimico dell'elemento oro?",
+      "options": [
+        "Gd",
+        "Ag",
+        "Go",
+        "Au"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Il simbolo 'Au' deriva dalla parola latina 'aurum', che significa 'alba lucente'."
+    },
+    {
+      "category": "storia",
+      "question": "Chi è stato il principale autore della Dichiarazione di Indipendenza americana?",
+      "options": [
+        "Thomas Jefferson",
+        "George Washington",
+        "John Adams",
+        "Benjamin Franklin"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Thomas Jefferson aveva appena 33 anni quando scrisse la bozza di questo documento fondamentale nel 1776."
+    },
+    {
+      "category": "cinema e pop culture",
+      "question": "Quale film del 1993 diretto da Steven Spielberg è ambientato in un parco divertimenti popolato da dinosauri clonati?",
+      "options": [
+        "Jurassic Park",
+        "Carnosaur",
+        "Il mondo perduto",
+        "Dinotopia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Jurassic Park ha vinto tre Premi Oscar, principalmente per i suoi straordinari effetti visivi e il sound design rivoluzionario."
+    },
+    {
+      "category": "cucina",
+      "question": "Qual è l'ingrediente principale della tradizionale pasta di miso giapponese?",
+      "options": [
+        "Riso",
+        "Orzo",
+        "Soia",
+        "Alga"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il miso si ottiene fermentando i semi di soia con sale e un fungo chiamato koji, spesso uniti a riso o orzo."
+    },
+    {
+      "category": "animali",
+      "question": "Quale particolare adattamento fisico possiedono i gufi riguardo ai loro occhi?",
+      "options": [
+        "Hanno tre palpebre",
+        "I loro occhi sono fissi nelle orbite",
+        "Possono sbattere ciascun occhio indipendentemente",
+        "Ci vedono completamente a infrarossi"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Poiché gli occhi dei gufi sono a forma di tubo e bloccati nella loro posizione, devono girare completamente la testa per guardarsi intorno."
+    },
+    {
+      "category": "sport",
+      "question": "Quanti giocatori ci sono sul ghiaccio per una singola squadra durante il tempo regolamentare in una partita di hockey su ghiaccio della NHL?",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Questa formazione standard di sei giocatori comprende tre attaccanti, due difensori e un portiere."
+    },
+    {
+      "category": "linguistica",
+      "question": "Come si chiamano le parole che si leggono uguali anche se lette al contrario?",
+      "options": [
+        "Omofoni",
+        "Acronimi",
+        "Palindromi",
+        "Anagrammi"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il palindromo di una sola parola più lungo nei dizionari di inglese standard è considerato 'detartrated'."
+    },
+    {
+      "category": "spazio",
+      "question": "Quale pianeta del nostro sistema solare ruota su un fianco, rotolando lungo la sua orbita?",
+      "options": [
+        "Giove",
+        "Urano",
+        "Saturno",
+        "Nettuno"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Urano ha un'inclinazione assiale estrema di 98 gradi, probabilmente causata da una collisione massiccia all'inizio della sua storia."
+    },
+    {
+      "category": "geografia",
+      "question": "Quale catena montuosa separa l'Europa dall'Asia?",
+      "options": [
+        "I monti Urali",
+        "Le Ande",
+        "L'Himalaya",
+        "Le Alpi"
+      ],
+      "answer_index": 0,
+      "fun_fact": "I monti Urali si estendono per circa 2.500 chilometri attraverso la Russia, dall'Oceano Artico fino al Kazakistan."
+    }
+  ]
+}

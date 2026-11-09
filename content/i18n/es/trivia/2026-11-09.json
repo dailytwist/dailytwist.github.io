@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-09",
+  "title": "Explosión de conocimiento diario: 9 de noviembre de 2026",
+  "questions": [
+    {
+      "category": "geografía",
+      "question": "¿Qué país muestra un cedro en su bandera nacional?",
+      "options": [
+        "Canadá",
+        "Guatemala",
+        "Líbano",
+        "Chipre"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El símbolo del cedro en la bandera del Líbano tiene raíces ancestrales vinculadas a los famosos bosques bíblicos de la región."
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Cuál es el símbolo químico del elemento oro?",
+      "options": [
+        "Gd",
+        "Ag",
+        "Go",
+        "Au"
+      ],
+      "answer_index": 3,
+      "fun_fact": "El símbolo 'Au' proviene de la palabra latina 'aurum', que significa 'amanecer brillante'."
+    },
+    {
+      "category": "historia",
+      "question": "¿Quién fue el autor principal de la Declaración de Independencia de Estados Unidos?",
+      "options": [
+        "Thomas Jefferson",
+        "George Washington",
+        "John Adams",
+        "Benjamin Franklin"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Thomas Jefferson tenía apenas 33 años cuando redactó este documento fundamental en 1776."
+    },
+    {
+      "category": "cine y cultura pop",
+      "question": "¿Qué película de Steven Spielberg de 1993 presenta un parque de atracciones poblado por dinosaurios clonados?",
+      "options": [
+        "Jurassic Park",
+        "Carnosaur",
+        "The Lost World",
+        "Dinotopia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Jurassic Park ganó tres premios Óscar, principalmente por sus revolucionarios efectos visuales y diseño de sonido."
+    },
+    {
+      "category": "comida",
+      "question": "¿Cuál es el ingrediente principal de la pasta de miso tradicional japonesa?",
+      "options": [
+        "Arroz",
+        "Cebada",
+        "Soja",
+        "Algas marinas"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El miso se elabora fermentando soja con sal y un hongo llamado koji, a menudo combinado con arroz o cebada."
+    },
+    {
+      "category": "animales",
+      "question": "¿Qué adaptación física única poseen los búhos en relación con sus ojos?",
+      "options": [
+        "Tienen tres párpados",
+        "Sus ojos están fijos en sus órbitas",
+        "Pueden parpadear cada ojo de forma independiente",
+        "Pueden ver en infrarrojo total"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Debido a que los ojos de los búhos tienen forma de tubo y están fijos en su lugar, deben girar toda la cabeza para mirar alrededor."
+    },
+    {
+      "category": "deportes",
+      "question": "¿Cuántos jugadores hay en el hielo por cada equipo durante el tiempo reglamentario en un partido de hockey sobre hielo de la NHL?",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Esta alineación estándar de seis jugadores incluye tres delanteros, dos defensas y un portero."
+    },
+    {
+      "category": "idiomas",
+      "question": "¿Cómo se denominan las palabras que se leen igual al revés?",
+      "options": [
+        "Homófonos",
+        "Acrónimos",
+        "Palíndromos",
+        "Anagramas"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El palíndromo de una sola palabra más largo en los diccionarios de inglés estándar suele considerarse 'detartrated'."
+    },
+    {
+      "category": "espacio",
+      "question": "¿Qué planeta de nuestro sistema solar gira de lado, rodando a lo largo de su trayectoria orbital?",
+      "options": [
+        "Júpiter",
+        "Urano",
+        "Saturno",
+        "Neptuno"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Urano tiene una inclinación axial extrema de 98 grados, probablemente causada por una colisión masiva al inicio de su historia."
+    },
+    {
+      "category": "geografía",
+      "question": "¿Qué cordillera separa Europa de Asia?",
+      "options": [
+        "Los Montes Urales",
+        "Los Andes",
+        "El Himalaya",
+        "Los Alpes"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Los Montes Urales se extienden aproximadamente a lo largo de 2.500 kilómetros a través de Rusia, desde el Océano Ártico hasta Kazajistán."
+    }
+  ]
+}

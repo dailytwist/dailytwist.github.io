@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-09",
+  "title": "Tägliche Wissens-Explosion: 9. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches Land zeigt eine Zeder auf seiner Nationalflagge?",
+      "options": [
+        "Kanada",
+        "Guatemala",
+        "Libanon",
+        "Zypern"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Das Zedernsymbol auf der Flagge des Libanon hat alte Wurzeln, die mit den berühmten biblischen Wäldern der Region verbunden sind."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist das chemische Symbol für das Element Gold?",
+      "options": [
+        "Gd",
+        "Ag",
+        "Go",
+        "Au"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Das Symbol „Au“ leitet sich vom lateinischen Wort „aurum“ ab, was „glänzende Morgenröte“ bedeutet."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Wer war der Hauptautor der amerikanischen Unabhängigkeitserklärung?",
+      "options": [
+        "Thomas Jefferson",
+        "George Washington",
+        "John Adams",
+        "Benjamin Franklin"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Thomas Jefferson war gerade einmal 33 Jahre alt, als er das grundlegende Dokument im Jahr 1776 verfasste."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "In welchem Steven-Spielberg-Film aus dem Jahr 1993 kommt ein Freizeitpark mit geklonten Dinosauriern vor?",
+      "options": [
+        "Jurassic Park",
+        "Carnosaur",
+        "The Lost World",
+        "Dinotopia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Jurassic Park gewann drei Oscars, hauptsächlich für seine bahnbrechenden visuellen Effekte und das Sounddesign."
+    },
+    {
+      "category": "Essen",
+      "question": "Was ist die Hauptzutat in traditioneller japanischer Misopaste?",
+      "options": [
+        "Reis",
+        "Gerste",
+        "Sojabohnen",
+        "Algen"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Miso wird hergestellt, indem Sojabohnen mit Salz und einem Pilz namens Koji fermentiert werden, oft in Kombination mit Reis oder Gerste."
+    },
+    {
+      "category": "Tiere",
+      "question": "Welche einzigartige körperliche Anpassung besitzen Eulen in Bezug auf ihre Augen?",
+      "options": [
+        "Sie haben drei Augenlider",
+        "Ihre Augen sind fest in ihren Augenhöhlen verankert",
+        "Sie können jedes Auge unabhängig voneinander blinzeln",
+        "Sie können in völligem Infrarot sehen"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Da die Augen von Eulen röhrenförmig und starr sind, müssen sie ihren gesamten Kopf drehen, um sich umzusehen."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Spieler stehen während der regulären Spielzeit bei einem NHL-Eishockeyspiel für ein einzelnes Team auf dem Eis?",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Diese Standardaufstellung aus sechs Spielern umfasst drei Stürmer, zwei Verteidiger und einen Torhüter."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie nennt man Wörter, die rückwärts gelesen genau gleich klingen?",
+      "options": [
+        "Homophone",
+        "Akronyme",
+        "Palindrome",
+        "Anagramme"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Das längste Einwort-Palindrom in Standard-Wörterbüchern der englischen Sprache ist oft „detartrated“."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Planet in unserem Sonnensystem rotiert auf der Seite und rollt dabei auf seiner Umlaufbahn?",
+      "options": [
+        "Jupiter",
+        "Uranus",
+        "Saturn",
+        "Neptun"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Uranus hat eine extreme Neigung der Achse von 98 Grad, was höchstwahrscheinlich durch eine massive Kollision früh in seiner Geschichte verursacht wurde."
+    },
+    {
+      "category": "Geografie",
+      "question": "Welches Gebirge trennt Europa von Asien?",
+      "options": [
+        "Der Ural",
+        "Die Anden",
+        "Der Himalaya",
+        "Die Alpen"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Der Ural erstreckt sich über etwa 2.500 Kilometer durch Russland vom Nordpolarmeer bis nach Kasachstan."
+    }
+  ]
+}

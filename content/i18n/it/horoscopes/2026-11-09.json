@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-09",
+  "signs": {
+    "aries": {
+      "overview": "Il lunedì arriva con una scossa di elettricità competitiva, Ariete, spingendoti a scattare dai blocchi di partenza mentre tutti gli altri stanno ancora cercando la tazza del caffè. Ti senti fieramente ambizioso e inarrestabile, pronto ad affrontare quella pila di progetti creativi che ti fissavano da tempo. Non aver paura di prendere il centro della scena e proporre i tuoi concetti più folli, perché il tuo entusiasmo naturale è la tua arma segreta oggi. Ricordati solo di dosare la tua energia infinita per evitare di esaurirti già nel primo pomeriggio. Una chiacchierata spontanea con un collega potrebbe dare il via a una brillante collaborazione che ti farà sorridere per tutta la settimana.",
+      "love": "Single e pronto a socializzare? Il tuo approccio audace farà girare la testa a tutti durante gli eventi mondani. Gli arieti impegnati dovrebbero organizzare una serata romantica super spontanea.",
+      "career": "Prendi le redini di un progetto di gruppo in fase di stallo; la tua scintilla propositiva è disperatamente necessaria oggi.",
+      "wellness": "Canalizza il tuo fuoco interiore in una sessione di cardio dance ad alta intensità nel tuo salotto.",
+      "lucky_number": 7,
+      "lucky_color": "Cremisi",
+      "mood": "Elettrizzato"
+    },
+    "taurus": {
+      "overview": "Il cosmo ti invita a rallentare e ad assaporare i dettagli sensoriali di ciò che ti circonda, Toro. Mentre il resto del mondo si affanna in una corsa frenetica, tu ti muovi con la grazia lussuosa di un ghiacciaio, portando a termine le cose in modo impeccabile e accurato. Prenditi del tempo in più stamattina per goderti il tuo rituale della colazione preferito e creare una playlist pazzesca per il tragitto. Un'opportunità per concederti un po' di shopping terapeutico o di coccole casalinghe ti porterà immensa gioia. Fidati del tuo istinto costante quando affronti i drammi sul lavoro, poiché la tua presenza radicata funge da ancora di calma per chiunque ti sia vicino.",
+      "love": "Il comfort e le conversazioni profonde regnano sovrani in amore oggi, quindi cucinate un pasto delizioso insieme. I tori solitari potrebbero trovare intesa in un'accogliente libreria.",
+      "career": "Chi va piano va sano e va lontano, quindi controlla due volte i tuoi fogli di calcolo prima di premere invio.",
+      "wellness": "Concediti un lungo bagno caldo alla lavanda stasera.",
+      "lucky_number": 14,
+      "lucky_color": "Verde salvia",
+      "mood": "Sereno"
+    },
+    "gemini": {
+      "overview": "La tua mente fulminea è inarrestabile oggi, Gemelli, facendoti incoronare indiscusso farfalla dei contesti sociali e digitali. Preparati a ricevere una marea di notifiche tra gossip affascinanti, thread di brainstorming geniali e inviti inaspettati. Hai il magico talento di trovarti in tre posti contemporaneamente, traducendo idee complesse in battute spiritose senza sforzo. Ricordati solo di chiudere almeno la metà delle schede del browser aperte nel tuo cervello prima di pranzo per evitare il sovraccarico. Un podcast affascinante o una rapida occhiata a un blog d'arte nutriranno la tua insaziabile curiosità.",
+      "love": "Le battute civettuole sono il tuo linguaggio d'amore oggi, e i tuoi messaggi arguti faranno svenire gli ammiratori. I gemelli impegnati dovrebbero provare a imparare qualcosa di nuovo insieme.",
+      "career": "Il multitasking è il tuo superpotere in questo momento, quindi affronta per prime quelle attività incentrate sulla comunicazione.",
+      "wellness": "Concedi una pausa alle tue dita irrequiete sostituendo lo schermo con il disegno o la scrittura di un diario.",
+      "lucky_number": 23,
+      "lucky_color": "Giallo",
+      "mood": "Chiacchierone"
+    },
+    "cancer": {
+      "overview": "Le tue antenne intuitive sono sintonizzate al massimo oggi, dolce Cancro, permettendoti di percepire le correnti emotive in qualsiasi stanza prima ancora di metterci piede. Usa questa accresciuta empatia per nutrire le tue amicizie più strette e offrire una spalla confortante a chi ne ha davvero bisogno. Anche i tuoi istinti casalinghi ti stanno chiamando, quindi non sentirti in colpa se passi la serata a trasformare il tuo spazio vitale nel rifugio più accogliente del mondo. Un caro ricordo del passato potrebbe riaffiorare, portando una calda ondata di nostalgia e una nuova prospettiva su un attuale dilemma personale.",
+      "love": "La vulnerabilità è la tua arma segreta per approfondire i legami con la tua dolce metà. I granchi single dovrebbero rifugiarsi in ambienti sicuri e accoglienti.",
+      "career": "La tua intelligenza emotiva aiuta a appianare un fastidioso divario comunicativo in ufficio.",
+      "wellness": "Sorseggia una tazza calda di camomilla mentre ti avvolgi nella tua coperta pesante preferita.",
+      "lucky_number": 2,
+      "lucky_color": "Perla",
+      "mood": "Nostalgico"
+    },
+    "leo": {
+      "overview": "Entra sotto i riflettori, Leone, perché l'universo ha ufficialmente srotolato il red carpet solo per te questo lunedì. Il tuo carisma naturale brilla più di una palla stroboscopica, attirando ammiratori, opportunità creative e inviti divertenti direttamente nella tua orbita. Non tirarti indietro dal mettere in mostra i tuoi talenti unici, che tu stia presentando un'idea audace o indossando un nuovo favoloso outfit. Diffondi la tua proverbiale generosità facendo un complimento a un collega o concedendoti qualcosa di veramente favoloso. Il tuo stile gioioso e teatrale è contagioso e trasforma un normale lunedì in una festa.",
+      "love": "Il romanticismo è totalmente cinematografico oggi, quindi metti la tua canzone d'amore preferita e goditi il dramma. I leoni single domineranno la stanza senza alcuno sforzo.",
+      "career": "La tua presentazione creativa stupirà i decisori, quindi esponi con assoluta sicurezza.",
+      "wellness": "Mettiti in una posa di potere davanti allo specchio per potenziare all'istante la tua aura radiosa.",
+      "lucky_number": 19,
+      "lucky_color": "Oro",
+      "mood": "Radioso"
+    },
+    "virgo": {
+      "overview": "L'organizzazione è il tuo parco giochi oggi, Vergine, e sei pronto a dare un codice colore al caos dell'universo. La tua concentrazione laser ti permette di individuare piccoli dettagli che tutti gli altri si sono completamente persi, rendendoti una risorsa inestimabile in qualsiasi squadra. Prova soddisfazione nel barrare le voci dalla tua lista di cose da fare una per una, ma ricordati di lasciare un po' di spazio per il divertimento spontaneo. Fare ordine nel tuo spazio di lavoro fisico farà miracoli per liberare la mente da pensieri superflui. Una ricompensa meritata ti attende alla fine della giornata per tutto il duro lavoro svolto.",
+      "love": "I gesti di cura parlano chiaro in amore oggi, come sorprendere il partner con il suo caffè preferito. Le vergini single potrebbero legare condividendo trucchi per la produttività.",
+      "career": "L'efficienza è il tuo secondo nome oggi; snellisci il tuo flusso di lavoro per ottenere il massimo impatto.",
+      "wellness": "Riordina la tua scrivania o la toeletta per creare una rilassante sensazione di controllo.",
+      "lucky_number": 5,
+      "lucky_color": "Verde acqua",
+      "mood": "Concentrato"
+    },
+    "libra": {
+      "overview": "L'armonia estetica è la tua missione principale oggi, Bilancia, e sei determinato a portare bellezza in tutto ciò che tocchi. Che tu stia creando una mood board, appianando un disaccordo tra amici o scegliendo l'outfit definitivo, il tuo occhio artistico non ha rivali. Sei il diplomatico per eccellenza in questo momento, bilanciando senza sforzo opinioni divergenti con la tua tipica grazia e il tuo fascino. Concediti un pranzo visivamente straordinario o una mostra d'arte immersiva per soddisfare la tua sete di cultura. La tua eleganza naturale ti rende un magnete per interazioni sociali deliziose.",
+      "love": "L'estetica romantica è tutto oggi, quindi crea l'atmosfera con candele e jazz soffuso. I bilancini single affascineranno chiunque con la loro grazia naturale.",
+      "career": "Eccelli nel mediare le dispute di squadra, unendo tutti verso una soluzione armoniosa.",
+      "wellness": "Includi leggeri esercizi di stretching e bilanciamento nella tua routine mattutina per centrare il corpo.",
+      "lucky_number": 11,
+      "lucky_color": "Rosa",
+      "mood": "Armonioso"
+    },
+    "scorpio": {
+      "overview": "I riflettori ti trovano grazie al tuo affascinante mistero e alla tua intensa magneticità oggi, Scorpione. Vedi oltre le chiacchiere e i drammi superficiali, bramando legami profondi che toccano l'anima e conversazioni autentiche. Questo è il momento ideale per immergiti in un progetto di ricerca appassionante, in un avvincente romanzo giallo o in un'attività creativa che richiede totale concentrazione. La tua intuizione è praticamente medianica, quindi fidati delle tue sensazioni di pancia su una nuova conoscenza o opportunità. Concediti di abbracciare il tuo potere trasformativo e liberati di vecchie abitudini che non servono più alla tua evoluzione.",
+      "love": "L'intensità è alle stelle nella tua vita sentimentale, dando vita a un'chimica indimenticabile e magnetica. Gli scorpioni single attirano mistero e intrigo ovunque vadano.",
+      "career": "La tua concentrazione strategica ti aiuta a risolvere un problema complesso che ha messo in crisi chiunque altro.",
+      "wellness": "Abbassa le luci e pratica qualche esercizio di respirazione profonda per calmare la tua mente attiva.",
+      "lucky_number": 8,
+      "lucky_color": "Marrone scuro",
+      "mood": "Intenso"
+    },
+    "sagittarius": {
+      "overview": "L'avventura ti chiama, Sagittario, anche se stai semplicemente girando per il tuo quartiere un lunedì mattina. Il tuo ottimismo irrefrenabile e la tua visione filosofica trasformano gli ostacoli quotidiani in aneddoti esilaranti anziché in veri problemi. Organizza una futura fuga, iscriviti a un workshop entusiasmante o attacca bottone con qualcuno proveniente da un background completamente diverso. Il tuo entusiasmo contagioso ispira chi ti circonda a sognare un po' in grande e a ridere un po' più forte. Accogli i colpi di scena inaspettati della giornata come emozionanti capitoli della tua grande storia di vita.",
+      "love": "La spontaneità è la chiave del tuo cuore in questo momento, quindi di' di sì a un'avventura a sorpresa. Gli arcieri impegnati dovrebbero pianificare un'escursione all'aperto insieme.",
+      "career": "La visione d'insieme è la tua risorsa più grande oggi, quindi condividi ampiamente le tue idee illuminate.",
+      "wellness": "Esci per una camminata a passo vivo all'aria aperta per soddisfare la tua sete di spazi aperti.",
+      "lucky_number": 12,
+      "lucky_color": "Viola",
+      "mood": "Avventuroso"
+    },
+    "capricorn": {
+      "overview": "L'ambizione è la tua bussola oggi, Capricorno, e stai scalando la montagna con passi costanti e calcolati. La tua leggendaria etica del lavoro sta operando al massimo delle prestazioni, aiutandoti a raggiungere obiettivi importanti e a gettare le basi per il successo a lungo termine. Mentre altri potrebbero distrarsi con cose futili, i tuoi occhi sono ben fissi sul premio. Ricordati di celebrare i piccoli traguardi lungo il cammino invece di aspettare la vittoria finale. Un mentore o un collega più anziano potrebbe offrirti un consiglio che si rivelerà una vera svolta per la tua traiettoria professionale.",
+      "love": "L'affidabilità e la lealtà sono i tuoi linguaggi d'amore principali oggi. I capricorni single potrebbero trovare l'amore attraverso circoli professionali o di networking.",
+      "career": "Il tuo approccio disciplinato impressiona i piani alti, preparando il terreno per futuri successi.",
+      "wellness": "Dai priorità a un sonno ristoratore andando a letto presto per ricaricare la tua batteria instancabile.",
+      "lucky_number": 10,
+      "lucky_color": "Grigio antracite",
+      "mood": "Ambizioso"
+    },
+    "aquarius": {
+      "overview": "La tua mente orbita nel futuro oggi, Acquario, sfornando idee meravigliosamente eccentriche e incredibilmente in anticipo sui tempi. Hai bisogno di stimoli intellettuali e di compagnie non convenzionali, quindi cerca altri visionari che apprezzino il tuo genio eccentrico. Non aver paura di esprimere i tuoi suggerimenti più originali nei contesti di gruppo, poiché la tua prospettiva unica è esattamente ciò che serve per dare una scossa positiva alle cose. Un'improvvisa lampo d'ispirazione potrebbe farti perdere in un affascinante tunnel di ricerche online. Il tuo spirito indipendente sta brillando magnificamente.",
+      "love": "La connessione mentale è il tuo prerequisito assoluto per il romanticismo in questo momento. Gli acquari single si uniranno grazie a hobby e ideali bizzarri condivisi.",
+      "career": "Le tue soluzioni innovative rivoluzionano il modo in cui il tuo team affronta un processo di routine.",
+      "wellness": "Staccati dai social media per un'ora per dare al tuo cervello futuristico un salutare digital detox.",
+      "lucky_number": 17,
+      "lucky_color": "Acquamarina",
+      "mood": "Innovativo"
+    },
+    "pisces": {
+      "overview": "La tua immaginazione è un oceano sconfinato oggi, Pesci, che ti trasporta sulla riva di un regno fatto di pura creatività e sogni ad occhi aperti. Se riesci a incanalare questa energia sognante nell'arte, nella musica o nella scrittura, produrrai qualcosa di veramente magico e trascendente. Il tuo cuore compassionevole è profondamente sintonizzato sugli stati d'animo collettivi, rendendoti un dolce guaritore per chiunque si senta giù di morale. Assicurati di stabilire dei sani confini energetici per non assorbire lo stress di tutti gli altri. Perditi stasera in un bel libro fantasy o in melodie rilassanti.",
+      "love": "Il romanticismo poetico e gli sguardi pieni d'anima faranno battere forte il tuo cuore oggi. I pesci impegnati dovrebbero godersi una maratona di film accogliente sotto una pila di coperte.",
+      "career": "La tua visione artistica porta un tocco fresco e stimolante a un progetto di routine.",
+      "wellness": "Ascolta paesaggi sonori ambientali o onde dell'oceano mentre riposi gli occhi per venti minuti.",
+      "lucky_number": 3,
+      "lucky_color": "Lavanda",
+      "mood": "Sognante"
+    }
+  }
+}

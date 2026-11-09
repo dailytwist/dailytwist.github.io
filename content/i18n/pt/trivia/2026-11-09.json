@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-09",
+  "title": "Explosão de Conhecimento Diária: 9 de novembro de 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Qual país apresenta um cedro em sua bandeira nacional?",
+      "options": [
+        "Canadá",
+        "Guatemala",
+        "Líbano",
+        "Chipre"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O símbolo do cedro na bandeira do Líbano tem raízes antigas ligadas às famosas florestas bíblicas da região."
+    },
+    {
+      "category": "ciência",
+      "question": "Qual é o símbolo químico do elemento ouro?",
+      "options": [
+        "Gd",
+        "Ag",
+        "Go",
+        "Au"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O símbolo 'Au' vem da palavra em latim 'aurum', que significa 'amanhecer brilhante'."
+    },
+    {
+      "category": "história",
+      "question": "Quem foi o principal autor da Declaração de Independência americana?",
+      "options": [
+        "Thomas Jefferson",
+        "George Washington",
+        "John Adams",
+        "Benjamin Franklin"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Thomas Jefferson tinha apenas 33 anos quando redigiu o documento fundamental em 1776."
+    },
+    {
+      "category": "filmes & cultura pop",
+      "question": "Qual filme de Steven Spielberg de 1993 apresenta um parque temático povoado por dinossauros clonados?",
+      "options": [
+        "Jurassic Park",
+        "Carnosaur",
+        "O Mundo Perdido",
+        "Dinotopia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Jurassic Park ganhou três prêmios da Academia principalmente por seus efeitos visuais e design de som inovadores."
+    },
+    {
+      "category": "culinária",
+      "question": "Qual é o ingrediente principal da tradicional pasta de missô japonesa?",
+      "options": [
+        "Arroz",
+        "Cevada",
+        "Soja",
+        "Alga marinha"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O missô é feito fermentando soja com sal e um fungo chamado koji, frequentemente combinado com arroz ou cevada."
+    },
+    {
+      "category": "animais",
+      "question": "Que adaptação física única as corujas possuem em relação aos seus olhos?",
+      "options": [
+        "Elas têm três pálpebras",
+        "Seus olhos são fixos nas órbitas",
+        "Elas podem piscar cada olho de forma independente",
+        "Elas conseguem enxergar em infravermelho total"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Como os olhos das corujas têm formato de tubo e são fixos no lugar, elas precisam girar a cabeça inteira para olhar ao redor."
+    },
+    {
+      "category": "esportes",
+      "question": "Quantos jogadores há no gelo por uma única equipe durante o tempo regulamentar em um jogo de hóquei no gelo da NHL?",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Esta escalação padrão de seis jogadores inclui três atacantes, dois defensores e um goleiro."
+    },
+    {
+      "category": "idioma",
+      "question": "Qual é o termo para palavras que soam iguais quando soletradas de trás para frente?",
+      "options": [
+        "Homófonas",
+        "Acrônimos",
+        "Palíndromos",
+        "Anagramas"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O maior palíndromo de uma única palavra nos dicionários de inglês padrão é frequentemente considerado 'detartrated'."
+    },
+    {
+      "category": "espaço",
+      "question": "Qual planeta do nosso sistema solar gira de lado, rolando ao longo de sua órbita?",
+      "options": [
+        "Júpiter",
+        "Urano",
+        "Saturno",
+        "Netuno"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Urano tem uma inclinação axial extrema de 98 graus, provavelmente causada por uma colisão massiva no início de sua história."
+    },
+    {
+      "category": "geografia",
+      "question": "Qual cordilheira separa a Europa da Ásia?",
+      "options": [
+        "Os Montes Urais",
+        "Os Andes",
+        "Os Himalaias",
+        "Os Alpes"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Os Montes Urais se estendem por aproximadamente 2.500 quilômetros através da Rússia, desde o Oceano Ártico até o Cazaquistão."
+    }
+  ]
+}
