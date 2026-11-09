@@ -304,6 +304,8 @@ deaths, crimes, accidents, politics, health scares, gambling, adult content, or 
 It is fine to return fewer picks, or none.
 Avoid subjects already covered: {json.dumps(done[-60:])}
 Format: {{"picks": ["topic", ...]}}""", max_tokens=500).get("picks", [])
+        # trending news dies in days; most daily articles come from our evergreen pillars (seed topics) instead
+        picks = picks[:CONFIG.get("max_trending_per_day", 1)]
     else:
         picks = []
     # seasonal: write about each holiday 10-35 days BEFORE it, so Google has time to show the page when people search

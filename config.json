@@ -6,7 +6,7 @@
   "adsense_client": "ca-pub-4439582693861205",
   "ai_model": "claude-haiku-5-5",
   "trends_geo": "US",
-  "articles_per_day": 3,
+  "articles_per_day": 2,
   "trivia_questions_per_day": 10,
   "gemini_model": "gemini-3.5-flash-lite",
   "web3forms_key": "acb7e381-4276-4de2-82b1-b6d1f64cc9d5",
@@ -58,5 +58,6 @@
   "redirects": {
     "articles/columbia-football-ivy-league-tradition-history": "articles/columbia-football-history-ivy-league-pride-culture"
   },
-  "names_backfill_per_run": 8
+  "names_backfill_per_run": 8,
+  "max_trending_per_day": 1
 }

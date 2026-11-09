@@ -195,6 +195,24 @@ def fdate(lang, iso, short=False):
             .replace("{day}", str(d.day)).replace("{year}", str(d.year)))
 
 
+# our own shop (ReadyKit): a planner fits people reading about their year ahead
+PLANNER = {"en": ("📒 Plan your {y}", "Our printable & iPad planner: goals, monthly and weekly pages, habit tracker.", "See the {y} planner"),
+           "it": ("📒 Organizza il tuo {y}", "Il nostro planner stampabile e per iPad (in inglese): obiettivi, mesi, settimane, abitudini.", "Scopri il planner {y}"),
+           "fr": ("📒 Organisez votre {y}", "Notre agenda imprimable et pour iPad (en anglais) : objectifs, mois, semaines, habitudes.", "Voir l’agenda {y}"),
+           "de": ("📒 Plane dein {y}", "Unser Planer zum Ausdrucken und fürs iPad (auf Englisch): Ziele, Monate, Wochen, Gewohnheiten.", "Zum Planer {y}"),
+           "es": ("📒 Organiza tu {y}", "Nuestra agenda imprimible y para iPad (en inglés): metas, meses, semanas y hábitos.", "Ver la agenda {y}"),
+           "pt": ("📒 Organize o seu {y}", "A nossa agenda para imprimir e para iPad (em inglês): metas, meses, semanas e hábitos.", "Ver a agenda {y}"),
+           "ar": ("📒 نظّم رمضان {y}", "مخطط رمضان للطباعة وللآيباد (بالإنجليزية): ختم القرآن، الصلوات، الوجبات، والعيد.", "اكتشف مخطط رمضان")}
+def planner_box(lang, year):
+    t = PLANNER.get(lang)
+    if not t or year != 2027:
+        return ""
+    url = "https://readykitshop.com/" + ("ramadan-planner-2027-printable.html" if lang == "ar" else "2027-planner-printable.html")
+    return (f'<aside class="card" style="display:flex;gap:14px;align-items:center;padding:14px 16px;margin:18px 0;border-radius:16px">'
+            f'<div style="flex:1"><b>{e(t[0].format(y=year))}</b><p class="small" style="margin:4px 0 8px">{e(t[1].format(y=year))}</p>'
+            f'<a class="btn small" href="{url}" target="_blank" rel="noopener">{e(t[2].format(y=year))} →</a></div></aside>')
+
+
 def sign_name(lang, s):
     return DATA[lang]["ui"].get("signs", {}).get(s, s.title())
 
@@ -1057,10 +1075,13 @@ var c=document.querySelector('[data-mysign]');if(c)c.href=a.getAttribute('href')
   <h2>💰 {e(T(lang, 'money'))}</h2><p>{e(x['money'])}</p>{more('money')}
   <h2>🌿 {e(T(lang, 'wellness'))}</h2><p>{e(x['wellness'])}</p>
   <h2>💡 {e(T(lang, 'yearly_tips'))}</h2><ul>{li}</ul>
+  {planner_box(lang, year)}
   <p class="small muted">{e(T(lang, 'entertainment_only'))}</p>
   <div class="chips">{"".join(f'<a class="mchip" href="{pre}/horoscope-{year}/{o}/">{sign_art(o, 28)} {e(sign_name(lang, o))}</a>' for o in have if o != s)}</div>
 </article>"""
-            add(lang, f"horoscope-{year}/{s}/", x["title"], x["summary"], body, priority="0.8")
+            sch = {"@context": "https://schema.org", "@type": "Article", "headline": x["title"], "description": x["summary"], "inLanguage": lang,
+                   "image": f"{URL}/assets/signs/{s}-tall.webp", "author": {"@type": "Organization", "name": SITE}, "publisher": {"@type": "Organization", "name": SITE}}
+            add(lang, f"horoscope-{year}/{s}/", x["title"], x["summary"], body, schema=sch, priority="0.8")
         for (yy, s, t), z in sorted(YT.items()):
             if yy != year or (year, s) not in Y:
                 continue
