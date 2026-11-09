@@ -205,7 +205,7 @@ PLANNER = {"en": ("📒 Plan your {y}", "Our printable & iPad planner: goals, mo
            "ar": ("📒 نظّم رمضان {y}", "مخطط رمضان للطباعة وللآيباد (بالإنجليزية): ختم القرآن، الصلوات، الوجبات، والعيد.", "اكتشف مخطط رمضان")}
 def planner_box(lang, year):
     t = PLANNER.get(lang)
-    if not t or year != 2027:
+    if not t or year != 2027 or not C.get("promo_shop"):  # switched on after AdSense approval
         return ""
     url = "https://readykitshop.com/" + ("ramadan-planner-2027-printable.html" if lang == "ar" else "2027-planner-printable.html")
     return (f'<aside class="card" style="display:flex;gap:14px;align-items:center;padding:14px 16px;margin:18px 0;border-radius:16px">'
