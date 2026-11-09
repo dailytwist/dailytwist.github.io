@@ -79,8 +79,8 @@
   "form_error": "عذراً، حدث خطأ ما. يرجى المحاولة مرة أخرى.",
   "show_email": "إظهار عنوان بريدنا الإلكتروني",
   "last_updated": "آخر تحديث: {date}",
-  "date_format": "{weekday}, {month} {day}, {year}",
-  "short_date_format": "{month} {day}",
+  "date_format": "{weekday} {day} {month} {year}",
+  "short_date_format": "{day} {month}",
   "months": [
     "يناير",
     "فبراير",
