@@ -46,7 +46,7 @@
     "birthstone": 2
   },
   "english_per_run": 5,
-  "names_per_run": 8,
+  "names_per_run": 12,
   "onesignal_app_id": "00f06768-9b43-4ef4-96e1-9a38e56c8844",
   "lang_weight": {
     "it": 3,
@@ -57,5 +57,6 @@
   },
   "redirects": {
     "articles/columbia-football-ivy-league-tradition-history": "articles/columbia-football-history-ivy-league-pride-culture"
-  }
+  },
+  "names_backfill_per_run": 8
 }

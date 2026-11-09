@@ -825,6 +825,24 @@ def main() -> None:
             used_round += used
         if used_round == 0:
             break
+    # Arabic name pages: daily content always looks "newer", so old Arabic-origin names would wait forever.
+    # Translate a few of them into Arabic (and French, for North Africa) every run.
+    for lang in ("ar", "fr"):
+        n = CONFIG.get("names_backfill_per_run", 6)
+        for slug, _name, _g, group in NAMES:
+            if n <= 0:
+                break
+            f = CONTENT / "names" / f"{slug}.json"
+            if group != "arabic" or not f.exists() or (I18N / lang / "names" / f.name).exists():
+                continue
+            n -= 1
+            try:
+                save(I18N / lang / "names" / f.name, translate_json(json.loads(f.read_text(encoding="utf-8")), lang))
+            except QuotaDone as ex:
+                print(f"::warning::names backfill {lang}: {ex}")
+                break
+            except Exception as ex:
+                print(f"::warning::names backfill {slug} -> {lang}: {str(ex)[:200]}")
     print("Agent finished.")
 
 
