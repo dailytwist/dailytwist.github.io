@@ -30,7 +30,7 @@ jobs:
     timeout-minutes: 170
     environment:
       name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+      url: ${{ steps.deploy.outputs.page_url || steps.deploy1.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -79,10 +79,19 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: public
+      - id: deploy1
+        uses: actions/deploy-pages@v4
+        continue-on-error: true   # GitHub Pages sometimes hangs while syncing a big site: try once more below
+        with:
+          timeout: 1800000
+      - name: Wait a moment before trying again
+        if: steps.deploy1.outcome == 'failure'
+        run: sleep 90
       - id: deploy
+        if: steps.deploy1.outcome == 'failure'
         uses: actions/deploy-pages@v4
         with:
-          timeout: 1800000   # 30 min: the site is big, GitHub sometimes needs more than 10 min to sync it
+          timeout: 1800000
 
       - name: Tell search engines about new pages (IndexNow)
         continue-on-error: true
