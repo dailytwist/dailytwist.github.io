@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-10",
+  "title": "Tägliches Quiz vom 10. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welcher See trägt den Titel des nach Volumen größten Süßwassersees der Erde?",
+      "options": [
+        "Baikalsee",
+        "Michigansee",
+        "Oberer See",
+        "Victoriasee"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Der Baikalsee in Russland enthält etwa 20 % des ungebundenen Oberflächen-Süßwassers der Erde."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Welches chemische Element hat das Symbol 'W', das sich von seinem deutschen Namen Wolfram ableitet?",
+      "options": [
+        "Wolfram",
+        "Bismut",
+        "Zink",
+        "Zinn"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Wolfram hat in reiner Form den höchsten Schmelzpunkt aller bekannten Elemente und erreicht schlappe 3.422 Grad Celsius."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Aus welcher antiken Zivilisation stammt der Codex Hammurapi, einer der ältesten entzifferten längeren Texte der Welt?",
+      "options": [
+        "Die Römische Republik",
+        "Das antike Griechenland",
+        "Das alte Ägypten",
+        "Babylon"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Der in eine riesige Basaltstele gemeißelte Codex Hammurapi legte bekanntermaßen den Grundsatz „Auge um Auge“ fest."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "In welchem Filmklassiker aus dem Jahr 1941 fällt der berühmte und oft falsch zitierte Satz: „Play it, Sam. Play 'As Time Goes By'“?",
+      "options": [
+        "Casablanca",
+        "Sunset Boulevard",
+        "Citizen Kane",
+        "Die Spur des Falken"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Im eigentlichen Film Casablanca sagt die von Ingrid Bergman gespielte Figur tatsächlich: „Play it, Sam. Play 'As Time Goes By'“, ohne das Wort „again“ zu verwenden."
+    },
+    {
+      "category": "Essen & Trinken",
+      "question": "Welche Spirituose bildet die Basis für den traditionellen französischen Cocktail namens French 75?",
+      "options": [
+        "Wodka",
+        "Tequila",
+        "Rum",
+        "Gin"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Der French 75 besteht aus Gin, Champagner, Zitronensaft und Zucker und ist nach einem durchschlagskräftigen französischen 75-Millimeter-Geschütz aus dem Ersten Weltkrieg benannt."
+    },
+    {
+      "category": "Tiere",
+      "question": "Welches einzigartige körperliche Merkmal unterscheidet alle erwachsenen weiblichen Bartenwale von den Zahnwalen?",
+      "options": [
+        "Sie besitzen überhaupt keine Zunge",
+        "Sie haben äußere Ohrmuscheln",
+        "Sie haben zwei Blaslöcher statt einem",
+        "Sie besitzen Kiemen im embryonalen Stadium"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Bartenwale wie der Blauwal und der Buckelwal sind an der Oberfläche leicht an ihren charakteristischen doppelten Blaslöchern zu erkennen."
+    },
+    {
+      "category": "Sport",
+      "question": "In welchem Jahr fanden die ersten modernen Olympischen Spiele im griechischen Athen statt?",
+      "options": [
+        "1896",
+        "1904",
+        "1912",
+        "1888"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Bei den von IOC organisierten Spielen 1941 traten Sportler aus gerade mal 14 Nationen in 43 Disziplinen an."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie lautet der sprachwissenschaftliche Begriff für ein Wort, das aus den Anfangsbuchstaben einer Reihe anderer Wörter gebildet wird und wie ein eigenes Wort ausgesprochen werden kann, zum Beispiel 'NASA'?",
+      "options": [
+        "Palindrom",
+        "Metonym",
+        "Portmanteau-Wort",
+        "Akronym"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Zwar sind alle Akronym Abkürzungen, aber nicht alle Abkürzungen sind Akronyme, da viele – wie FBI – buchstabiert statt als Wort ausgesprochen werden."
+    },
+    {
+      "category": "Weltall",
+      "question": "Welcher Saturnmond ist der einzige Mond in unserem Sonnensystem, der nachweislich eine dichte Atmosphäre und stabile Flüssigkeitsvorkommen an der Oberfläche besitzt?",
+      "options": [
+        "Ganymed",
+        "Enceladus",
+        "Europa",
+        "Titan"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Die dichte Atmosphäre des Titan besteht hauptsächlich aus Stickstoff, und seine Oberflächenseen und -flüsse setzen sich aus flüssigem Methan und Ethan zusammen."
+    },
+    {
+      "category": "Geografie",
+      "question": "Welcher Gebirgspass verbindet Pakistan und Afghanistan und diente historisch als entscheidende Handelsroute in der Region des Khyber-Passes?",
+      "options": [
+        "Khyber-Pass",
+        "Brennerpass",
+        "Karakorum-Pass",
+        "Bolor-Pass"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Der Khyber-Pass schneidet sich durch das Safed-Koh-Gebirge und bildete ein essenzielles Bindeglied im antiken Seidenstraßen-Handelsnetz."
+    }
+  ]
+}

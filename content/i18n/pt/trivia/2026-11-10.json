@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-10",
+  "title": "Quiz Diário de Trivia de 10 de novembro de 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Qual lago detém o título de maior lago de água doce em volume do mundo?",
+      "options": [
+        "Lago Baikal",
+        "Lago Michigan",
+        "Lago Superior",
+        "Lago Vitória"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O Lago Baikal, na Rússia, contém cerca de 20% da água doce de superfície não congelada do mundo."
+    },
+    {
+      "category": "science",
+      "question": "Qual é o elemento químico com o símbolo 'W', derivado do seu nome em alemão wolfram?",
+      "options": [
+        "Tungstênio",
+        "Bismuto",
+        "Zinco",
+        "Estanho"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O tungstênio tem o ponto de fusão mais alto de todos os elementos conhecidos em forma pura, atingindo 3.422 graus Celsius."
+    },
+    {
+      "category": "history",
+      "question": "O Código de Hamurabi, um dos escritos decifrados mais antigos de extensão significativa no mundo, originou-se de qual civilização antiga?",
+      "options": [
+        "A República Romana",
+        "Grécia Antiga",
+        "Antigo Egito",
+        "Babilônia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Tallhado em uma enorme estela de basalto, o Código de Hamurabi estabeleceu famosamente a doutrina de 'olho por olho'."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Qual filme clássico de 1941 apresenta a famosa e frequentemente citada incorretamente frase: 'Play it, Sam. Play 'As Time Goes By''?",
+      "options": [
+        "Casablanca",
+        "Crepúsculo dos Deuses",
+        "Cidadão Kane",
+        "Relíquia Macabra"
+      ],
+      "answer_index": 0,
+      "fun_fact": "No filme Casablanca real, a personagem de Ingrid Bergman diz na verdade: 'Play it, Sam. Play 'As Time Goes By'.' sem usar a palavra 'again'."
+    },
+    {
+      "category": "food",
+      "question": "Qual é a bebida destilada principal usada para fazer um coquetel tradicional francês conhecido como French 75?",
+      "options": [
+        "Vodka",
+        "Tequila",
+        "Rum",
+        "Gin"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O French 75 combina gin, champanhe, suco de limão e açúcar, e foi batizado em homenagem a um poderoso canhão de campanha francês de 75 milímetros da Primeira Guerra Mundial."
+    },
+    {
+      "category": "animals",
+      "question": "Qual característica física única distingue todas as espécies de fêmeas adultas de baleias de barbicha das baleias com dentes?",
+      "options": [
+        "Elas não têm nenhuma língua",
+        "Elas têm abas de orelha externas",
+        "Elas têm duas aberturas de espiráculo em vez de uma",
+        "Elas possuem brânquias em seu estágio embrionário"
+      ],
+      "answer_index": 2,
+      "fun_fact": "As baleias de barbicha, como a baleia-azul e a baleia-jubarte, são facilmente identificadas na superfície por seus espiráculos duplos característicos."
+    },
+    {
+      "category": "sports",
+      "question": "Em que ano foram realizadas os primeiros Jogos Olímpicos modernos em Atenas, na Grécia?",
+      "options": [
+        "1896",
+        "1904",
+        "1912",
+        "1888"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Organizados pelo Comitê Olímpico Internacional, os Jogos de 1896 contaram com atletas de apenas 14 nações competindo em 43 modalidades."
+    },
+    {
+      "category": "language",
+      "question": "Qual é o termo linguístico para uma palavra formada a partir das letras iniciais de uma série de outras palavras, que pode ser pronunciada como uma única palavra, como 'NASA'?",
+      "options": [
+        "Palíndromo",
+        "Metônimo",
+        "Aglutinação",
+        "Sigla"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Embora todas as siglas sejam abreviações, nem todas as abreviações são siglas, porque muitas, como o FBI, são pronunciadas letra por letra em vez de como palavras."
+    },
+    {
+      "category": "space",
+      "question": "Qual lua de Saturno é a única lua em nosso sistema solar conhecida por possuir uma atmosfera densa e corpos estáveis de líquido em sua superfície?",
+      "options": [
+        "Ganimedes",
+        "Encélado",
+        "Europa",
+        "Titã"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A densa atmosfera de Titã é composta principalmente de nitrogênio, e seus lagos e rios de superfície são feitos de metano e etano líquidos."
+    },
+    {
+      "category": "geography",
+      "question": "Qual passo de montanha conecta os países do Paquistão e do Afeganistão, servindo historicamente como uma rota comercial crucial da região do Passo de Khyber?",
+      "options": [
+        "Passo de Khyber",
+        "Passo de Brenner",
+        "Passo de Karakoram",
+        "Passo de Bolor"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O Passo de Khyber corta as montanhas Safed Koh, formando um elo essencial nas antigas redes comerciais da Rota da Seda."
+    }
+  ]
+}

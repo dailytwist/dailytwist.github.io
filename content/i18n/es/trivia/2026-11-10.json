@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-10",
+  "title": "Test de trivia diario del 10 de noviembre de 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "¿Qué lago tiene el título de ser el mayor lago de agua dulce del mundo por volumen?",
+      "options": [
+        "Lago Baikal",
+        "Lago Míchigan",
+        "Lago Superior",
+        "Lago Victoria"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El lago Baikal, en Rusia, contiene aproximadamente el 20% del agua dulce superficial no congelada del mundo."
+    },
+    {
+      "category": "science",
+      "question": "¿Cuál es el elemento químico cuyo símbolo es 'W', derivado de su nombre alemán wolfram?",
+      "options": [
+        "Tungsteno",
+        "Bismuto",
+        "Cinc",
+        "Estaño"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El tungsteno tiene el punto de fusión más alto de todos los elementos conocidos en estado puro, alcanzando los 3.422 grados Celsius."
+    },
+    {
+      "category": "history",
+      "question": "El Código de Hammurabi, uno de los escritos descifrados de gran longitud más antiguos del mundo, ¿de qué civilización antigua procede?",
+      "options": [
+        "La República romana",
+        "La Antigua Grecia",
+        "El Antiguo Egipto",
+        "Babilonia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Tallado en una enorme estela de basalto, el Código de Hammurabi es famoso por establecer la doctrina de «ojo por ojo»."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "¿Qué película clásica de 1941 incluye la famosa y frecuentemente mal citada frase: «Tócala, Sam. Toca 'El tiempo pasará'»?",
+      "options": [
+        "Casablanca",
+        "El crepúsculo de los dioses",
+        "Ciudadano Kane",
+        "El halcón maltés"
+      ],
+      "answer_index": 0,
+      "fun_fact": "En la película Casablanca, el personaje de Ingrid Bergman en realidad dice «Tócala, Sam. Toca 'El tiempo pasará'» sin usar la palabra «otra vez»."
+    },
+    {
+      "category": "food",
+      "question": "¿Cuál es el licor principal que se utiliza para preparar el clásico cóctel francés conocido como French 75?",
+      "options": [
+        "Vodka",
+        "Tequila",
+        "Ron",
+        "Ginebra"
+      ],
+      "answer_index": 3,
+      "fun_fact": "El French 75 combina ginebra, champán, zumo de limón y azúcar, y debe su nombre a un potente cañón de campaña francés de 75 milímetros de la Primera Guerra Mundial."
+    },
+    {
+      "category": "animals",
+      "question": "¿Qué rasgo físico único distingue a todas las especies de ballenas barbadas hembras adultas de las ballenas dentadas?",
+      "options": [
+        "Carecen de lengua",
+        "Tienen pabellones auriculares externos",
+        "Tienen dos orificios respiratorios en lugar de uno",
+        "Poseen branquias en su etapa embrionaria"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Las ballenas barbadas, como la ballena azul y la ballena jorobada, se identifican fácilmente en la superficie por sus característicos espiráculos dobles."
+    },
+    {
+      "category": "sports",
+      "question": "¿En qué año se celebraron los primeros Juegos Olímpicos modernos en Atenas, Grecia?",
+      "options": [
+        "1896",
+        "1904",
+        "1912",
+        "1888"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Organizados por el Comité Olímpico Internacional, los Juegos de 1896 contaron con atletas de solo 14 naciones compitiendo en 43 eventos."
+    },
+    {
+      "category": "language",
+      "question": "¿Cuál es el término lingüístico para una palabra formada por las letras iniciales de una serie de otras palabras, que se puede pronunciar como una sola palabra, como 'NASA'?",
+      "options": [
+        "Palíndromo",
+        "Metónimo",
+        "Palabra maleta",
+        "Acrónimo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Aunque todos los acrónimos son abreviaturas, no todas las abreviaturas son acrónimos, ya que muchas, como FBI, se inicializan en lugar de pronunciarse como palabras."
+    },
+    {
+      "category": "space",
+      "question": "¿Qué luna de Saturno es la única de nuestro sistema solar que se sabe que posee una atmósfera densa y cuerpos estables de líquido en su superficie?",
+      "options": [
+        "Ganímedes",
+        "Encélado",
+        "Europa",
+        "Titán"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La densa atmósfera de Titán está compuesta principalmente de nitrógeno, y sus lagos y ríos superficiales están hechos de metano y etano líquido."
+    },
+    {
+      "category": "geography",
+      "question": "¿Qué puerto de montaña conecta los países de Pakistán y Afganistán, sirviendo históricamente como una ruta comercial crucial en la región del paso de Khyber?",
+      "options": [
+        "Paso de Khyber",
+        "Paso del Brennero",
+        "Paso de Karakórum",
+        "Paso de Bolor"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El paso de Khyber atraviesa las montañas Safed Koh, formando un enlace esencial en las antiguas redes comerciales de la Ruta de la Seda."
+    }
+  ]
+}

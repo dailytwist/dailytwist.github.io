@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-10",
+  "title": "November 10, 2026 Daily Trivia Quiz",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Which lake holds the title of the largest freshwater lake by volume in the world?",
+      "options": [
+        "Lake Baikal",
+        "Lake Michigan",
+        "Lake Superior",
+        "Lake Victoria"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Lake Baikal in Russia contains roughly 20% of the world's unfrozen surface freshwater."
+    },
+    {
+      "category": "science",
+      "question": "What is the chemical element with the symbol 'W', derived from its German name wolfram?",
+      "options": [
+        "Tungsten",
+        "Bismuth",
+        "Zinc",
+        "Tin"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Tungsten has the highest melting point of all known elements in pure form, reaching 3,422 degrees Celsius."
+    },
+    {
+      "category": "history",
+      "question": "The Code of Hammurabi, one of the oldest deciphered writings of significant length in the world, originated from which ancient civilization?",
+      "options": [
+        "The Roman Republic",
+        "Ancient Greece",
+        "Ancient Egypt",
+        "Babylon"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Carved onto a massive basalt stele, the Code of Hammurabi famously outlined the doctrine of 'an eye for an eye'."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Which classic 1941 film features the famous and frequently misquoted line, 'Play it, Sam. Play 'As Time Goes By''?",
+      "options": [
+        "Casablanca",
+        "Sunset Boulevard",
+        "Citizen Kane",
+        "The Maltese Falcon"
+      ],
+      "answer_index": 0,
+      "fun_fact": "In the actual film Casablanca, Ingrid Bergman's character actually says, 'Play it, Sam. Play 'As Time Goes By'.' without using the word 'again'."
+    },
+    {
+      "category": "food",
+      "question": "What is the primary spirit used to make a traditional French cocktail known as a French 75?",
+      "options": [
+        "Vodka",
+        "Tequila",
+        "Rum",
+        "Gin"
+      ],
+      "answer_index": 3,
+      "fun_fact": "The French 75 combines gin, champagne, lemon juice, and sugar, and was named after a powerful French 75-millimeter field gun from World War I."
+    },
+    {
+      "category": "animals",
+      "question": "What unique physical trait distinguishes all species of adult female baleen whales from toothed whales?",
+      "options": [
+        "They lack any tongue",
+        "They have external ear flaps",
+        "They have two blowhole openings instead of one",
+        "They possess gills in their embryonic stage"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Baleen whales, such as the blue whale and humpback whale, are easily identified at the surface by their characteristic double blowholes."
+    },
+    {
+      "category": "sports",
+      "question": "In what year were the first modern Olympic Games held in Athens, Greece?",
+      "options": [
+        "1896",
+        "1904",
+        "1912",
+        "1888"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Organized by the International Olympic Committee, the 1896 Games featured athletes from just 14 nations competing across 43 events."
+    },
+    {
+      "category": "language",
+      "question": "What is the linguistic term for a word formed from the initial letters of a series of other words, which can be pronounced as a single word like 'NASA'?",
+      "options": [
+        "Palindrome",
+        "Metonym",
+        "Portmanteau",
+        "Acronym"
+      ],
+      "answer_index": 3,
+      "fun_fact": "While all acronyms are abbreviations, not all abbreviations are acronyms because many, like FBI, are initialized rather than pronounced as words."
+    },
+    {
+      "category": "space",
+      "question": "Which moon of Saturn is the only moon in our solar system known to possess a dense atmosphere and stable bodies of surface liquid?",
+      "options": [
+        "Ganymede",
+        "Enceladus",
+        "Europa",
+        "Titan"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Titan's dense atmosphere is primarily composed of nitrogen, and its surface lakes and rivers are made of liquid methane and ethane."
+    },
+    {
+      "category": "geography",
+      "question": "Which mountain pass connects the countries of Pakistan and Afghanistan, historically serving as a crucial trade route of the Khyber Pass region?",
+      "options": [
+        "Khyber Pass",
+        "Brenner Pass",
+        "Karakoram Pass",
+        "Bolor Pass"
+      ],
+      "answer_index": 0,
+      "fun_fact": "The Khyber Pass cuts through the Safed Koh mountains, forming an essential link in the ancient Silk Road trading networks."
+    }
+  ]
+}

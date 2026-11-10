@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-10",
+  "title": "Quiz du jour du 10 novembre 2026",
+  "questions": [
+    {
+      "category": "géographie",
+      "question": "Quel lac détient le titre de plus grand lac d'eau douce au monde en termes de volume ?",
+      "options": [
+        "Le lac Baïkal",
+        "Le lac Michigan",
+        "Le lac Supérieur",
+        "Le lac Victoria"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le lac Baïkal, en Russie, contient environ 20 % de l'eau douce de surface non gelée de la planète."
+    },
+    {
+      "category": "science",
+      "question": "Quel est l'élément chimique dont le symbole est « W », dérivé de son nom allemand wolfram ?",
+      "options": [
+        "Le tungstène",
+        "Le bismuth",
+        "Le zinc",
+        "L'étain"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le tungstène possède le point de fusion le plus élevé de tous les éléments purs connus, atteignant 3 422 degrés Celsius."
+    },
+    {
+      "category": "histoire",
+      "question": "Le Code de Hammurabi, l'un des plus anciens écrits déchiffrés d'une longueur significative au monde, provient de quelle civilisation antique ?",
+      "options": [
+        "La République romaine",
+        "La Grèce antique",
+        "L'Égypte antique",
+        "Babylone"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Gravé sur une stèle massive en basalt, le Code de Hammurabi est célèbre pour avoir formalisé le principe de « œil pour œil, dent pour dent »."
+    },
+    {
+      "category": "films et culture pop",
+      "question": "Quel film classique de 1941 contient la célèbre réplique, souvent mal citée, « Joue-le, Sam. Joue 'As Time Goes By' » ?",
+      "options": [
+        "Casablanca",
+        "Boulevard du crépuscule",
+        "Citizen Kane",
+        "Le Faucon maltais"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Dans le film Casablanca, le personnage incarné par Ingrid Bergman dit en réalité « Joue, Sam. Joue 'As Time Goes By' » sans jamais prononcer le mot « encore »."
+    },
+    {
+      "category": "gastronomie",
+      "question": "Quel est le principal alcool utilisé pour préparer le cocktail traditionnel français connu sous le nom de French 75 ?",
+      "options": [
+        "La vodka",
+        "La tequila",
+        "Le rhum",
+        "Le gin"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Le French 75 associe gin, champagne, jus de citron et sucre, et doit son nom à un puissant canon de campagne français de 75 millimètres de la Première Guerre mondiale."
+    },
+    {
+      "category": "animaux",
+      "question": "Quel trait physique unique distingue toutes les espèces de femelles adultes de mysticètes (baleines à fanons) des odontocètes (cétacés à dents) ?",
+      "options": [
+        "Elles n'ont aucune langue",
+        "Elles ont des pavillons auriculaires externes",
+        "Elles ont deux orifices nasaux au lieu d'un",
+        "Elles possèdent des branchies au stade embryonnaire"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Les baleines à fanons, telles que la baleine bleue et la baleine à bosse, s'identifient facilement à la surface grâce à leurs deux eventails caractéristiques."
+    },
+    {
+      "category": "sport",
+      "question": "En quelle année les premiers Jeux olympiques modernes ont-ils eu lieu à Athènes, en Grèce ?",
+      "options": [
+        "1896",
+        "1904",
+        "1912",
+        "1888"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Organisés par le Comité international olympique, les Jeux de 1896 ont rassemblé des athlètes venus de seulement 14 nations pour s'affronter dans 43 épreuves."
+    },
+    {
+      "category": "langue",
+      "question": "Quel est le terme linguistique désignant un mot formé à partir des initiales d'une série d'autres mots, et qui se prononce comme un mot ordinaire, tel que « NASA » ?",
+      "options": [
+        "Un palindrome",
+        "Un métonyme",
+        "Un mot-valise",
+        "Un acronyme"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Bien que tous les acronymes soient des abréviations, toutes les abréviations ne sont pas des acronymes, car beaucoup, comme FBI, se prononcent lettre par lettre plutôt que comme des mots."
+    },
+    {
+      "category": "espace",
+      "question": "Quelle lune de Saturne est la seule lune de notre système solaire connue pour posséder une atmosphère dense et des plans d'eau liquide stables en surface ?",
+      "options": [
+        "Ganymède",
+        "Encelade",
+        "Europe",
+        "Titan"
+      ],
+      "answer_index": 3,
+      "fun_fact": "L'atmosphère dense de Titan est principalement composée d'azote, et ses lacs et rivières de surface sont constitués de méthane et d'éthane liquides."
+    },
+    {
+      "category": "géographie",
+      "question": "Quel col de montagne relie le Pakistan et l'Afghanistan, servant historiquement de route commerciale cruciale dans la région de Khyber ?",
+      "options": [
+        "Le col de Khyber",
+        "Le col du Brenner",
+        "Le col du Karakoram",
+        "Le col de Bolor"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le col de Khyber traverse les montagnes du Safed Koh, constituant un maillon essentiel des anciens réseaux commerciaux de la route de la soie."
+    }
+  ]
+}
