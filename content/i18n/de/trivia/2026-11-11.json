@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-11",
+  "title": "Tägliches Allgemeinwissen-Quiz: 11. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welcher Binnenstaat ist vollständig von Südafrika umschlossen?",
+      "options": [
+        "Simbabwe",
+        "Botswana",
+        "Lesotho",
+        "Eswatini"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Lesotho ist einer von weltweit nur drei souveränen Staaten, die vollständig von einem einzigen anderen Land umgeben sind."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Welches ist das nach Volumeneinheiten häufigste Gas in der Erdatmosphäre?",
+      "options": [
+        "Argon",
+        "Stickstoff",
+        "Kohlenstoffdioxid",
+        "Sauerstoff"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Stickstoff macht etwa 78 Prozent der Erdatmosphäre aus."
+    },
+    {
+      "category": "Geschichte",
+      "question": "In welchem Jahr wurde der Stein von Rosetta entdeckt, der für die Entzifferung der ägyptischen Hieroglyphen von entscheidender Bedeutung war?",
+      "options": [
+        "1799",
+        "1822",
+        "1901",
+        "1750"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Der Stein von Rosetta wurde von französischen Soldaten während Napoleon Bonapartes Feldzug in Ägypten gefunden."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Welcher Regisseur inszenierte das Meisterwerk des Kinos 'Pulp Fiction' aus dem Jahr 1994?",
+      "options": [
+        "David Fincher",
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "Steven Spielberg"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Quentin Tarantino gewann für 'Pulp Fiction' die Goldene Palme bei den Filmfestspielen von Cannes."
+    },
+    {
+      "category": "Essen",
+      "question": "Aus welcher Tierart wird traditionell der Roquefort-Käse hergestellt, der für seine charakteristischen blauen Adern und seinen kräftigen Geschmack bekannt ist?",
+      "options": [
+        "Mutterschaf (Schaf)",
+        "Ziege",
+        "Kuh",
+        "Wasserbüffel"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Echter Roquefort-Käse muss in den natürlichen Höhlen von Combalou im französischen Roquefort-sur-Soulzon reifen."
+    },
+    {
+      "category": "Tiere",
+      "question": "Wie wird eine Gruppe von Krähen im allgemeinen Sprachgebrauch genannt?",
+      "options": [
+        "Ein Rudel",
+        "Eine Kolonie",
+        "Ein Mord",
+        "Eine Herde"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Eine Gruppe von Krähen wird wegen alter Folklore, die Vögel mit dem Tod und ominösen Versammlungen in Verbindung brachte, als 'murder' (Mord) bezeichnet."
+    },
+    {
+      "category": "Sport",
+      "question": "Welcher Begriff wird im Golfsport verwendet, um ein Ergebnis von einem Schlag unter Par auf einem einzelnen Loch zu beschreiben?",
+      "options": [
+        "Albatross",
+        "Bogey",
+        "Birdie",
+        "Eagle"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Der Begriff 'birdie' entstand in den Vereinigten Staaten im späten 19. Jahrhundert und war Slang für etwas Exzellentes."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie nennt man ein Wort, das die exakte Gegenteilbedeutung eines anderen Wortes hat?",
+      "options": [
+        "Synonym",
+        "Antonym",
+        "Homonym",
+        "Akronym"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Das Wort 'Antonym' leitet sich von den griechischen Wurzeln 'anti' für das Gegenteil und 'onym' für Name ab."
+    },
+    {
+      "category": "Weltall",
+      "question": "Welcher Planet in unserem Sonnensystem besitzt das auffälligste und komplexeste von der Erde aus sichtbare Ringsystem?",
+      "options": [
+        "Uranus",
+        "Saturn",
+        "Neptun",
+        "Jupiter"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Saturns Ringe bestehen größtenteils aus Brocken aus Wassereis mit kleineren Mengen an Gesteinstrümmern."
+    },
+    {
+      "category": "Geschichte",
+      "question": "In welchem Land von heute befand sich die antike Stadt Karthago, ein großer Rival der Römischen Republik?",
+      "options": [
+        "Tunesien",
+        "Türkei",
+        "Ägypten",
+        "Griechenland"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Karthago wurde von den Phöniziern im 9. Jahrhundert v. Chr. an der nordafrikanischen Küste gegründet."
+    }
+  ]
+}

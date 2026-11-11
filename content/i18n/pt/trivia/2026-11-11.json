@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-11",
+  "title": "Trivia Diária de Conhecimentos Gerais: 11 de novembro de 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Qual país sem saída para o mar é completamente cercado pela África do Sul?",
+      "options": [
+        "Zimbabwe",
+        "Botswana",
+        "Lesotho",
+        "Eswatini"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O Lesotho é uma das únicas três nações soberanas do mundo a ser inteiramente cercada por um único outro país."
+    },
+    {
+      "category": "Ciência",
+      "question": "Qual é o gás mais abundante na atmosfera da Terra em volume?",
+      "options": [
+        "Argônio",
+        "Nitrogênio",
+        "Dióxido de Carbono",
+        "Oxigênio"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O nitrogênio compõe aproximadamente 78 por cento da atmosfera da Terra."
+    },
+    {
+      "category": "História",
+      "question": "A Pedra de Roseta, fundamental para decifrar os hieróglifos egípcios, foi descoberta em qual ano?",
+      "options": [
+        "1799",
+        "1822",
+        "1901",
+        "1750"
+      ],
+      "answer_index": 0,
+      "fun_fact": "A Pedra de Roseta foi encontrada por soldados franceses durante a campanha de Napoleão Bonaparte no Egito."
+    },
+    {
+      "category": "Filmes e Cultura Pop",
+      "question": "Qual diretor comandou a obra-prima do cinema de 1994 'Pulp Fiction'?",
+      "options": [
+        "David Fincher",
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "Steven Spielberg"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Quentin Tarantino ganhou a Palma de Ouro no Festival de Cannes por 'Pulp Fiction'."
+    },
+    {
+      "category": "Comida",
+      "question": "O queijo Roquefort, conhecido por seus veios azuis distintos e sabor forte, é tradicionalmente feito com o leite de qual animal?",
+      "options": [
+        "Ovelha",
+        "Cabra",
+        "Vaca",
+        "Búfalo d'Água"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O autêntico queijo Roquefort deve ser maturado nas cavernas naturais de Combalou, em Roquefort-sur-Soulzon, na França."
+    },
+    {
+      "category": "Animais",
+      "question": "Como é comumente chamado um grupo de corvos?",
+      "options": [
+        "Uma alcateia",
+        "Uma colônia",
+        "Um assassinato",
+        "Um bando"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Um grupo de corvos é chamado de 'murder' (assassinato) devido ao antigo folclore que associava as aves à morte e a reuniões sinistras."
+    },
+    {
+      "category": "Esportes",
+      "question": "No golfe, qual termo é usado para descrever uma pontuação de uma tacada abaixo do par em um único buraco?",
+      "options": [
+        "Albatroz",
+        "Bogey",
+        "Birdie",
+        "Eagle"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O termo 'birdie' originou-se nos Estados Unidos no final do século XIX e era uma gíria para qualquer coisa excelente."
+    },
+    {
+      "category": "Idioma",
+      "question": "Qual é o termo para uma palavra que tem o significado exatamente oposto ao de outra palavra?",
+      "options": [
+        "Sinônimo",
+        "Antônimo",
+        "Homônimo",
+        "Acrônimo"
+      ],
+      "answer_index": 1,
+      "fun_fact": "A palavra 'antônimo' vem das raízes gregas 'anti', que significa oposto, e 'onym', que significa nome."
+    },
+    {
+      "category": "Espaço",
+      "question": "Qual planeta do nosso sistema solar possui o sistema de anéis mais proeminente e complexo visível da Terra?",
+      "options": [
+        "Urano",
+        "Saturno",
+        "Netuno",
+        "Júpiter"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Os anéis de Saturno são compostos principalmente de pedaços de gelo de água com quantidades menores de detritos rochosos."
+    },
+    {
+      "category": "História",
+      "question": "A antiga cidade de Cartago, uma grande rival da República Romana, ficava localizada em qual país atual?",
+      "options": [
+        "Tunísia",
+        "Turquia",
+        "Egito",
+        "Grécia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Cartago foi fundada pelos fenícios no século IX a.C. na costa do Norte da África."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-11",
+  "title": "Trivia diaria de cultura general: 11 de noviembre de 2026",
+  "questions": [
+    {
+      "category": "Geografía",
+      "question": "¿Qué país sin salida al mar está completamente rodeado por Sudáfrica?",
+      "options": [
+        "Zimbabue",
+        "Botsuana",
+        "Lesoto",
+        "Esuatini"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Lesoto es una de las únicas tres naciones soberanas en el mundo que están completamente rodeadas por un solo país."
+    },
+    {
+      "category": "Ciencia",
+      "question": "¿Cuál es el gas más abundante en la atmósfera de la Tierra por volumen?",
+      "options": [
+        "Argón",
+        "Nitrógeno",
+        "Dióxido de Carbono",
+        "Oxígeno"
+      ],
+      "answer_index": 1,
+      "fun_fact": "El nitrógeno constituye aproximadamente el 78 por ciento de la atmósfera de la Tierra."
+    },
+    {
+      "category": "Historia",
+      "question": "¿En qué año se descubrió la Piedra de Rosetta, fundamental para descifrar los jeroglíficos egipcios?",
+      "options": [
+        "1799",
+        "1822",
+        "1901",
+        "1750"
+      ],
+      "answer_index": 0,
+      "fun_fact": "La Piedra de Rosetta fue encontrada por soldados franceses durante la campaña de Napoleón Bonaparte en Egipto."
+    },
+    {
+      "category": "Cine y Cultura Popular",
+      "question": "¿Qué director estuvo al frente de la obra maestra cinematográfica de 1994 'Pulp Fiction'?",
+      "options": [
+        "David Fincher",
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "Steven Spielberg"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Quentin Tarantino ganó la Palma de Oro en el Festival de Cine de Cannes por 'Pulp Fiction'."
+    },
+    {
+      "category": "Comida",
+      "question": "El queso roquefort, conocido por sus distintivas venas azules y su sabor fuerte, se elabora tradicionalmente con leche de qué animal?",
+      "options": [
+        "Oveja",
+        "Cabra",
+        "Vaca",
+        "Búfalo de agua"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El auténtico queso roquefort debe madurar en las cuevas naturales de Combalou en Roquefort-sur-Soulzon, Francia."
+    },
+    {
+      "category": "Animales",
+      "question": "¿Cómo se le llama comúnmente a un grupo de cuervos?",
+      "options": [
+        "Una manada",
+        "Una colonia",
+        "Un asesinato",
+        "Una jauría"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A un grupo de cuervos se le llama 'asesinato' debido a viejas leyendas que asociaban a estas aves con la muerte y reuniones ominosas."
+    },
+    {
+      "category": "Deportes",
+      "question": "En el golf, ¿qué término se usa para describir una puntuación de un golpe bajo par en un solo hoyo?",
+      "options": [
+        "Albatros",
+        "Bogey",
+        "Birdie",
+        "Eagle"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El término 'birdie' se originó en los Estados Unidos a finales del siglo XIX y era una jerga para referirse a algo excelente."
+    },
+    {
+      "category": "Idioma",
+      "question": "¿Cuál es el término para una palabra que tiene el significado exactamente opuesto al de otra palabra?",
+      "options": [
+        "Sinónimo",
+        "Antónimo",
+        "Homónimo",
+        "Acrónimo"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La palabra 'antónimo' proviene de las raíces griegas 'anti', que significa opuesto, y 'onym', que significa nombre."
+    },
+    {
+      "category": "Espacio",
+      "question": "¿Qué planeta de nuestro sistema solar tiene el sistema de anillos más prominente y complejo visible desde la Tierra?",
+      "options": [
+        "Urano",
+        "Saturno",
+        "Neptuno",
+        "Júpiter"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Los anillos de Saturno están compuestos principalmente de fragmentos de hielo de agua con cantidades menores de escombros rocosos."
+    },
+    {
+      "category": "Historia",
+      "question": "¿En qué país actual se encontraba la antigua ciudad de Cartago, una gran rival de la República romana?",
+      "options": [
+        "Túnez",
+        "Turquía",
+        "Egipto",
+        "Grecia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Cartago fue fundada por los fenicios en el siglo IX a. C. en la costa del norte de África."
+    }
+  ]
+}

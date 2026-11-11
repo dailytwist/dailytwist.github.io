@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-11",
+  "title": "Trivia quotidiana di cultura generale: 11 novembre 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Quale stato senza sbocco al mare è completamente circondato dal Sudafrica?",
+      "options": [
+        "Zimbabwe",
+        "Botswana",
+        "Lesotho",
+        "Eswatini"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il Lesotho è una delle uniche tre nazioni sovrane al mondo a essere interamente circondata da un unico altro paese."
+    },
+    {
+      "category": "Scienza",
+      "question": "Qual è il gas più abbondante nell'atmosfera terrestre in termini di volume?",
+      "options": [
+        "Argon",
+        "Azoto",
+        "Anidride Carbonica",
+        "Ossigeno"
+      ],
+      "answer_index": 1,
+      "fun_fact": "L'azoto costituisce circa il 78% dell'atmosfera terrestre."
+    },
+    {
+      "category": "Storia",
+      "question": "In quale anno fu scoperta la Stele di Rosetta, fondamentale per decifrare i geroglifici egizi?",
+      "options": [
+        "1799",
+        "1822",
+        "1901",
+        "1750"
+      ],
+      "answer_index": 0,
+      "fun_fact": "La Stele di Rosetta fu ritrovata dai soldati francesi durante la campagna di Napoleone Bonaparte in Egitto."
+    },
+    {
+      "category": "Cinema e cultura pop",
+      "question": "Quale regista ha diretto il capolavoro cinematografico del 1994 'Pulp Fiction'?",
+      "options": [
+        "David Fincher",
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "Steven Spielberg"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Quentin Tarantino ha vinto la Palma d'Oro al Festival di Cannes per 'Pulp Fiction'."
+    },
+    {
+      "category": "Cibo",
+      "question": "Il formaggio Roquefort, noto per le sue tipiche venature blu e il sapore deciso, è tradizionalmente fatto con il latte di quale animale?",
+      "options": [
+        "Pecora",
+        "Capra",
+        "Mucca",
+        "Bufala"
+      ],
+      "answer_index": 0,
+      "fun_fact": "L'autentico formaggio Roquefort deve essere stagionato nelle grotte naturali di Combalou a Roquefort-sur-Soulzon, in Francia."
+    },
+    {
+      "category": "Animali",
+      "question": "Come viene comunemente chiamato un gruppo di corvi?",
+      "options": [
+        "Un branco",
+        "Una colonia",
+        "Un omicidio",
+        "Un clan"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un gruppo di corvi viene chiamato 'murder' (omicidio) a causa di un vecchio folklore che associava gli uccelli alla morte e a raduni minacciosi."
+    },
+    {
+      "category": "Sport",
+      "question": "Nel golf, quale termine viene usato per descrivere un punteggio di un colpo sotto il par su una singola buca?",
+      "options": [
+        "Albatross",
+        "Bogey",
+        "Birdie",
+        "Eagle"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il termine 'birdie' è nato negli Stati Uniti alla fine del XIX secolo ed era uno slang per indicare qualcosa di eccellente."
+    },
+    {
+      "category": "Linguistica",
+      "question": "Come si chiama una parola che ha un significato esattamente opposto a quello di un'altra?",
+      "options": [
+        "Sinonimo",
+        "Contrario",
+        "Omonimo",
+        "Acronimo"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La parola 'antonym' deriva dalle radici greche 'anti' che significa opposto e 'onym' che significa nome."
+    },
+    {
+      "category": "Spazio",
+      "question": "Quale pianeta del nostro sistema solare ha il sistema di anelli più evidente e complesso visibile dalla Terra?",
+      "options": [
+        "Urano",
+        "Saturno",
+        "Nettuno",
+        "Giove"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Gli anelli di Saturno sono composti principalmente da pezzi di ghiaccio d'acqua con quantità minori di detriti rocciosi."
+    },
+    {
+      "category": "Storia",
+      "question": "L'antica città di Cartagine, grande rivale della Repubblica Romana, si trovava nell'odierno territorio di quale paese?",
+      "options": [
+        "Tunisia",
+        "Turchia",
+        "Egitto",
+        "Grecia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Cartagine fu fondata dai Fenici nel IX secolo a.C. sulla costa del Nord Africa."
+    }
+  ]
+}

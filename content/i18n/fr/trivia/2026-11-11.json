@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-11",
+  "title": "Quiz de culture générale du jour : 11 novembre 2026",
+  "questions": [
+    {
+      "category": "Géographie",
+      "question": "Quel pays enclavé est entièrement entouré par l'Afrique du Sud ?",
+      "options": [
+        "Zimbabwe",
+        "Botswana",
+        "Lesotho",
+        "Eswatini"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le Lesotho est l'un des trois seuls pays souverains au monde à être entièrement entouré par un seul autre pays."
+    },
+    {
+      "category": "Science",
+      "question": "Quel est le gaz le plus abondant dans l'atmosphère terrestre en volume ?",
+      "options": [
+        "Argon",
+        "Azote",
+        "Dioxyde de carbone",
+        "Oxygène"
+      ],
+      "answer_index": 1,
+      "fun_fact": "L'azote représente environ 78 pour cent de l'atmosphère terrestre."
+    },
+    {
+      "category": "Histoire",
+      "question": "En quelle année a été découverte la pierre de Rosette, essentielle au déchiffrement des hiéroglyphes égyptiens ?",
+      "options": [
+        "1799",
+        "1822",
+        "1901",
+        "1750"
+      ],
+      "answer_index": 0,
+      "fun_fact": "La pierre de Rosette a été trouvée par des soldats français lors de la campagne de Napoléon Bonaparte en Égypte."
+    },
+    {
+      "category": "Films et Pop Culture",
+      "question": "Quel réalisateur a dirigé le chef-d'œuvre cinématographique 'Pulp Fiction' en 1994 ?",
+      "options": [
+        "David Fincher",
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "Steven Spielberg"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Quentin Tarantino a remporté la Palme d'or au Festival de Cannes pour 'Pulp Fiction'."
+    },
+    {
+      "category": "Cuisine",
+      "question": "Le roquefort, connu pour ses célèbres veines bleues et son goût prononcé, est traditionnellement fabriqué à partir du lait de quel animal ?",
+      "options": [
+        "Brebis (Mouton)",
+        "Chèvre",
+        "Vache",
+        "Buffle d'eau"
+      ],
+      "answer_index": 0,
+      "fun_fact": "L'authentique fromage de roquefort doit être affiné dans les grottes naturelles du Combalou à Roquefort-sur-Soulzon, en France."
+    },
+    {
+      "category": "Animaux",
+      "question": "Comment appelle-t-on communément un groupe de corbeaux ?",
+      "options": [
+        "Une fierté",
+        "Une colonie",
+        "Un meurtre",
+        "Une meute"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un groupe de corbeaux est appelé un 'meurtre' en raison d'un vieux folklore associant ces oiseaux à la mort et aux rassemblements de mauvais augure."
+    },
+    {
+      "category": "Sports",
+      "question": "Au golf, quel terme utilise-t-on pour décrire un score d'un coup sous le par sur un seul trou ?",
+      "options": [
+        "Albatros",
+        "Bogey",
+        "Birdie",
+        "Eagle"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le terme 'birdie' est apparu aux États-Unis à la fin du XIXe siècle et désignait familièrement tout ce qui était excellent."
+    },
+    {
+      "category": "Langue",
+      "question": "Quel est le terme désignant un mot qui a un sens exactement contraire à celui d'un autre mot ?",
+      "options": [
+        "Synonyme",
+        "Antonyme",
+        "Homonyme",
+        "Acronyme"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Le mot 'antonyme' vient des racines grecques 'anti' qui signifie opposé et 'onym' qui signifie nom."
+    },
+    {
+      "category": "Espace",
+      "question": "Quelle planète de notre système solaire possède le système d'anneaux le plus visible et le plus complexe depuis la Terre ?",
+      "options": [
+        "Uranus",
+        "Saturne",
+        "Neptune",
+        "Jupiter"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Les anneaux de Saturne sont principalement composés de blocs de glace d'eau et, dans une moindre mesure, de débris rocheux."
+    },
+    {
+      "category": "Histoire",
+      "question": "Dans quel pays actuel se trouvait l'ancienne cité de Carthage, grande rivale de la République romaine ?",
+      "options": [
+        "Tunisie",
+        "Turquie",
+        "Égypte",
+        "Grèce"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Carthage a été fondée par les Phéniciens au IXe siècle avant notre ère sur la côte de l'Afrique du Nord."
+    }
+  ]
+}
