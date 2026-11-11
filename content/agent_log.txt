@@ -1,109 +1,96 @@
-  10 trending topics after filtering
-- horoscopes 2026-11-11
+- guide birthday december-4
 ::warning::Gemini models available: gemini-2.5-flash, gemini-2.5-pro, gemini-2.5-flash-preview-tts, gemini-2.5-pro-preview-tts, gemma-4-26b-a4b-it, gemma-4-31b-it, gemini-flash-latest, gemini-flash-lite-latest, gemini-pro-latest, gemini-2.5-flash-lite, gemini-2.5-flash-image, gemini-3-flash-preview, gemini-3.1-pro-preview, gemini-3.1-pro-preview-customtools, gemini-3.1-flash-lite-preview, gemini-3.1-flash-lite, gemini-3-pro-image-preview, gemini-3-pro-image, nano-banana-pro-preview, gemini-3.1-flash-image-preview, gemini-3.1-flash-image, gemini-3.1-flash-lite-image, gemini-nano-banana-2.1, gemini-3.5-flash, gemini-3.5-flash-lite, gemini-omni-flash-preview, gemini-omni-1.1-flash, gemini-omni-1.2-flash, gemini-3.5-transcribe, gemini-3.6-flash, gemini-3.7-flash, gemini-3.8-flash, gemini-4-argon, gemini-4-carbon, lyria-3-clip-preview, lyria-3-pro-preview, lyria-3.5, gemini-3.1-flash-tts-preview, gemini-3.8-flash-tts, gemini-3.8-flash-lite-tts
 ::warning::using Gemini model: gemini-3.5-flash-lite
-  saved content/horoscopes/2026-11-11.json
-- trivia 2026-11-11
-  saved content/trivia/2026-11-11.json
-- choosing articles from trends for 2026-11-11
-  saved content/seeds_used.json
-  saved content/articles/what-is-el-ni-o-the-ocean-cycle-explained.json
-  saved content/articles/the-red-thread-of-fate-legend-and-meaning-explained.json
-- guide birthday november-28
-  saved content/guides/birthday-november-28.json
-- guide birthday november-29
-  saved content/guides/birthday-november-29.json
-- guide birthday november-30
+  saved content/guides/birthday-december-4.json
+- guide birthday december-5
+  saved content/guides/birthday-december-5.json
+- guide birthday december-6
+  saved content/guides/birthday-december-6.json
+- guide birthday december-7
+  saved content/guides/birthday-december-7.json
+- guide birthday december-8
+  saved content/guides/birthday-december-8.json
+- guide birthday december-9
+  saved content/guides/birthday-december-9.json
+  saved content/i18n/es/guides/birthday-december-8.json
+  saved content/i18n/es/guides/birthday-december-4.json
+  saved content/i18n/es/guides/birthday-december-6.json
+  saved content/i18n/es/guides/birthday-december-5.json
+  saved content/i18n/es/guides/birthday-december-7.json
   AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/guides/birthday-november-30.json
-- guide birthday december-1
-  saved content/guides/birthday-december-1.json
-- guide birthday december-2
-  saved content/guides/birthday-december-2.json
-- guide birthday december-3
-  JSON was broken, asking once more
-  saved content/guides/birthday-december-3.json
-- name Hakim
-  saved content/names/hakim.json
-- name Salah
-  saved content/names/salah.json
-- name Abdelaziz
-  saved content/names/abdelaziz.json
-- name Marouane
-  saved content/names/marouane.json
-- name Zineddine
-  saved content/names/zineddine.json
-- name Abdessamad
-  saved content/names/abdessamad.json
-  saved content/i18n/es/horoscopes/2026-11-11.json
-  saved content/i18n/es/trivia/2026-11-11.json
-  saved content/i18n/es/guides/birthday-november-28.json
-  saved content/i18n/es/guides/birthday-december-2.json
-  saved content/i18n/es/guides/birthday-november-29.json
-  saved content/i18n/es/guides/birthday-december-3.json
-  saved content/i18n/fr/horoscopes/2026-11-11.json
-  saved content/i18n/fr/trivia/2026-11-11.json
-  saved content/i18n/fr/guides/birthday-november-28.json
-  saved content/i18n/fr/guides/birthday-december-2.json
-  saved content/i18n/fr/guides/birthday-november-29.json
-  saved content/i18n/fr/guides/birthday-december-3.json
-  saved content/i18n/de/horoscopes/2026-11-11.json
-  JSON was broken, asking once more
-  saved content/i18n/de/trivia/2026-11-11.json
-  saved content/i18n/de/guides/birthday-november-28.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 3/4 in 30s
+  saved content/i18n/es/guides/birthday-december-9.json
+  saved content/i18n/fr/guides/birthday-december-8.json
+  saved content/i18n/fr/guides/birthday-december-4.json
+  saved content/i18n/fr/guides/birthday-december-6.json
+  saved content/i18n/fr/guides/birthday-december-5.json
+  saved content/i18n/fr/guides/birthday-december-7.json
+  saved content/i18n/fr/guides/birthday-december-9.json
+  saved content/i18n/de/guides/birthday-december-8.json
+  saved content/i18n/de/guides/birthday-december-4.json
   AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/de/guides/birthday-december-2.json
-  saved content/i18n/de/guides/birthday-november-29.json
+  saved content/i18n/de/guides/birthday-december-6.json
+  saved content/i18n/de/guides/birthday-december-5.json
+  saved content/i18n/de/guides/birthday-december-7.json
+  saved content/i18n/de/guides/birthday-december-9.json
+  saved content/i18n/de/names/abdessamad.json
+  saved content/i18n/de/names/hakim.json
+  saved content/i18n/de/names/marouane.json
   AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/de/guides/birthday-december-3.json
-  saved content/i18n/de/guides/birthday-november-30.json
-  saved content/i18n/de/guides/birthday-december-1.json
-  saved content/i18n/de/names/zineddine.json
-  saved content/i18n/pt/horoscopes/2026-11-11.json
-  saved content/i18n/pt/trivia/2026-11-11.json
-  saved content/i18n/pt/guides/birthday-november-28.json
-  saved content/i18n/it/horoscopes/2026-11-11.json
-  saved content/i18n/it/trivia/2026-11-11.json
+  saved content/i18n/pt/guides/birthday-december-8.json
   AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/it/guides/birthday-november-28.json
-  saved content/i18n/it/guides/birthday-december-2.json
-  saved content/i18n/it/guides/birthday-november-29.json
-  saved content/i18n/it/guides/birthday-december-3.json
-  saved content/i18n/it/guides/birthday-november-30.json
-  saved content/i18n/it/guides/birthday-december-1.json
-  saved content/i18n/it/names/zineddine.json
-  saved content/i18n/ja/horoscopes/2026-11-11.json
-  saved content/i18n/ja/trivia/2026-11-11.json
-  saved content/i18n/ja/guides/birthday-november-28.json
-  saved content/i18n/ar/horoscopes/2026-11-11.json
-  saved content/i18n/ar/trivia/2026-11-11.json
-  saved content/i18n/ar/guides/birthday-november-28.json
-  saved content/i18n/es/guides/birthday-november-30.json
-  saved content/i18n/es/guides/birthday-december-1.json
-  saved content/i18n/es/names/zineddine.json
-  saved content/i18n/es/names/abdessamad.json
-  saved content/i18n/es/names/hakim.json
-  saved content/i18n/es/names/marouane.json
-  saved content/i18n/fr/guides/birthday-november-30.json
-  saved content/i18n/fr/guides/birthday-december-1.json
-  saved content/i18n/fr/names/zineddine.json
-  saved content/i18n/fr/names/abdessamad.json
-  saved content/i18n/fr/names/hakim.json
-  saved content/i18n/ar/names/hicham.json
-  saved content/i18n/ar/names/rachid.json
-  saved content/i18n/ar/names/abdellah.json
-  saved content/i18n/ar/names/ismail.json
-  saved content/i18n/ar/names/idriss.json
-  saved content/i18n/ar/names/othmane.json
-  saved content/i18n/ar/names/soufiane.json
-  saved content/i18n/ar/names/marwan.json
-  saved content/i18n/fr/names/rachid.json
-  saved content/i18n/fr/names/abdellah.json
+  saved content/i18n/pt/guides/birthday-december-2.json
   AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/fr/names/ismail.json
-  saved content/i18n/fr/names/idriss.json
-  saved content/i18n/fr/names/othmane.json
-  saved content/i18n/fr/names/soufiane.json
-  saved content/i18n/fr/names/marwan.json
-  saved content/i18n/fr/names/ziad.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 3/4 in 30s
+  saved content/i18n/pt/guides/birthday-november-29.json
+  saved content/i18n/it/guides/birthday-december-8.json
+  saved content/i18n/it/guides/birthday-december-4.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/it/guides/birthday-december-6.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/it/guides/birthday-december-5.json
+  saved content/i18n/it/guides/birthday-december-7.json
+  saved content/i18n/it/guides/birthday-december-9.json
+  saved content/i18n/it/names/abdessamad.json
+  saved content/i18n/it/names/hakim.json
+  saved content/i18n/it/names/marouane.json
+  saved content/i18n/ja/guides/birthday-december-8.json
+  saved content/i18n/ja/guides/birthday-december-2.json
+  saved content/i18n/ja/guides/birthday-november-29.json
+  saved content/i18n/ar/guides/birthday-december-8.json
+  saved content/i18n/ar/guides/birthday-december-2.json
+  saved content/i18n/ar/guides/birthday-november-29.json
+  saved content/i18n/es/names/abdelaziz.json
+  saved content/i18n/es/names/salah.json
+  saved content/i18n/es/articles/the-red-thread-of-fate-legend-and-meaning-explained.json
+  saved content/i18n/es/articles/what-is-el-ni-o-the-ocean-cycle-explained.json
+  saved content/i18n/es/names/sanae.json
+  saved content/i18n/es/names/yasser.json
+  saved content/i18n/fr/names/marouane.json
+  saved content/i18n/fr/names/abdelaziz.json
+  saved content/i18n/fr/names/salah.json
+  saved content/i18n/fr/articles/the-red-thread-of-fate-legend-and-meaning-explained.json
+  saved content/i18n/fr/articles/what-is-el-ni-o-the-ocean-cycle-explained.json
+  saved content/i18n/ar/names/ziad.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/ar/names/faris.json
+  saved content/i18n/ar/names/jad.json
+  saved content/i18n/ar/names/sami.json
+  saved content/i18n/ar/names/imran.json
+  saved content/i18n/ar/names/yahya.json
+  saved content/i18n/ar/names/salim.json
+  saved content/i18n/ar/names/nizar.json
+  saved content/i18n/fr/names/faris.json
+  saved content/i18n/fr/names/jad.json
+  saved content/i18n/fr/names/sami.json
+  saved content/i18n/fr/names/imran.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/fr/names/yahya.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/fr/names/salim.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/fr/names/nizar.json
+  saved content/i18n/fr/names/badr.json
 Agent finished.
