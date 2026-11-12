@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-22",
+  "slug": "alphabet-and-spelling",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "🔤",
+  "title": "El abecedario y la ortografía en inglés",
+  "summary": "En esta lección aprenderás los nombres de las letras en inglés. También aprenderás a deletrear tu nombre.",
+  "sections": [
+    {
+      "h": "El alfabeto en inglés",
+      "p": "El alfabeto inglés tiene veintiséis letras. Hay cinco vocales (A, E, I, O, U) y veintiuna consonantes. Cada letra tiene un nombre especial. Cuando te preguntan tu nombre en inglés, a menudo necesitas deletrearlo en voz alta letra por letra para que puedan escribirlo correctamente.",
+      "ex": [
+        {
+          "en": "A, B, C, D, E are the first five letters.",
+          "mean": "El principio del alfabeto."
+        },
+        {
+          "en": "My name is Anna. A-N-N-A.",
+          "mean": "Cómo decir y deletrear un nombre."
+        }
+      ]
+    },
+    {
+      "h": "Cómo deletrear tu nombre",
+      "p": "Cuando alguien pregunta \"How do you spell your name?\", dices cada letra una por una. Escucha con atención los nombres de las letras. Por ejemplo, la letra \"I\" suena como \"eye\", y la letra \"Y\" suena como \"why\". Practica diciendo tu nombre lentamente.",
+      "ex": [
+        {
+          "en": "How do you spell that?",
+          "mean": "Por favor, dime las letras."
+        },
+        {
+          "en": "It is J-O-H-N.",
+          "mean": "La ortografía del nombre John."
+        }
+      ]
+    },
+    {
+      "h": "Preguntas útiles",
+      "p": "En la vida diaria, la gente suele necesitar ayuda con la ortografía. Puedes pedirle a alguien que repita las letras si habla demasiado rápido. Las frases educadas te ayudan a comunicarte con claridad cuando conoces nuevos amigos, te registras en un hotel o hablas por teléfono.",
+      "ex": [
+        {
+          "en": "Can you spell that, please?",
+          "mean": "Por favor, dame las letras."
+        },
+        {
+          "en": "Could you repeat that slowly?",
+          "mean": "Dilo otra vez con más tiempo."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "alphabet",
+      "mean": "todas las letras de la A a la Z"
+    },
+    {
+      "en": "letter",
+      "mean": "A, B, C, etc."
+    },
+    {
+      "en": "spell",
+      "mean": "decir las letras en orden"
+    },
+    {
+      "en": "name",
+      "mean": "cómo te llamas"
+    },
+    {
+      "en": "vowel",
+      "mean": "A, E, I, O, U"
+    },
+    {
+      "en": "consonant",
+      "mean": "otras letras"
+    },
+    {
+      "en": "ask",
+      "mean": "quiero saber"
+    },
+    {
+      "en": "repeat",
+      "mean": "repetir"
+    }
+  ],
+  "tip": "Practica deletrear tu propio nombre y el de tus amigos todos los días. Di las letras en voz alta para recordar sus sonidos.",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "How do you ___ your name?",
+      "choices": [
+        "spell",
+        "read",
+        "write"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "There are twenty-six letters in the English ___.",
+      "choices": [
+        "book",
+        "alphabet",
+        "number"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la letra correcta",
+      "en": "Which of these is a vowel?",
+      "choices": [
+        "B",
+        "Z",
+        "A"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la pregunta correcta",
+      "en": "When you do not understand, you say: 'Can you ___ that, please?'",
+      "choices": [
+        "spell",
+        "sing",
+        "run"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige el significado correcto",
+      "en": "What does 'repeat' mean?",
+      "choices": [
+        "go home",
+        "say again",
+        "write down"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "My ___ is Maria.",
+      "choices": [
+        "pen",
+        "table",
+        "name"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

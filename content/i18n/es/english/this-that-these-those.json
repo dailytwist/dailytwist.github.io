@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-22",
+  "slug": "this-that-these-those",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "👉",
+  "title": "This, That, These, Those",
+  "summary": "Aprende a señalar cosas que están cerca o lejos de ti. También aprenderás a hablar de una o varias cosas.",
+  "sections": [
+    {
+      "h": "This and These (Cerca)",
+      "p": "Usa 'this' cuando hablas de una sola cosa que está cerca de ti. Por ejemplo, un bolígrafo en tu mano. Usa 'these' cuando hablas de dos o más cosas que están cerca de ti. Ambas palabras se usan para cosas que están cerca de tu cuerpo o justo en frente de ti.",
+      "ex": [
+        {
+          "en": "This is my coffee.",
+          "mean": "El café está en mi mano o aquí mismo."
+        },
+        {
+          "en": "These shoes are new.",
+          "mean": "Los zapatos están en mis pies ahora mismo."
+        }
+      ]
+    },
+    {
+      "h": "That and Those (Lejos)",
+      "p": "Usa 'that' cuando hablas de una sola cosa que está lejos de ti. Por ejemplo, un carro al final de la calle. Usa 'those' cuando hablas de dos o más cosas que están lejos. Ambas palabras son para cosas que no puedes tocar fácilmente.",
+      "ex": [
+        {
+          "en": "That is a big house.",
+          "mean": "La casa está allá, muy lejos."
+        },
+        {
+          "en": "Look at those birds in the tree.",
+          "mean": "Los pájaros están muy arriba en el árbol."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "this",
+      "mean": "una cosa cerca"
+    },
+    {
+      "en": "that",
+      "mean": "una cosa lejos"
+    },
+    {
+      "en": "these",
+      "mean": "muchas cosas cerca"
+    },
+    {
+      "en": "those",
+      "mean": "muchas cosas lejos"
+    },
+    {
+      "en": "near",
+      "mean": "cerca de ti"
+    },
+    {
+      "en": "far",
+      "mean": "no cerca"
+    },
+    {
+      "en": "thing",
+      "mean": "un objeto"
+    }
+  ],
+  "tip": "¡Mira tus manos! Si puedes tocarlo, usa 'this' o 'these'. Si tienes que señalar a lo lejos, usa 'that' o 'those'.",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta para un artículo cerca de ti",
+      "en": "___ is my phone in my hand.",
+      "choices": [
+        "That",
+        "This",
+        "Those",
+        "These"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta para muchos artículos lejos",
+      "en": "Look at ___ stars in the night sky.",
+      "choices": [
+        "this",
+        "that",
+        "those",
+        "these"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta para un artículo lejos",
+      "en": "Whose car is ___ parked down the street?",
+      "choices": [
+        "that",
+        "these",
+        "this",
+        "those"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta para muchos artículos cerca de ti",
+      "en": "I like ___ apples I am holding.",
+      "choices": [
+        "that",
+        "this",
+        "those",
+        "these"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Elige la palabra correcta para un objeto cercano",
+      "en": "Is ___ your jacket on the chair next to you?",
+      "choices": [
+        "these",
+        "this",
+        "those",
+        "that"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta para objetos en plural que están lejos",
+      "en": "I want to buy ___ shoes in the shop window across the street.",
+      "choices": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "answer_index": 3
+    }
+  ]
+}

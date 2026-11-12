@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-22",
+  "slug": "personal-pronouns",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "👥",
+  "title": "Pronombres personales: I, You, He, She, It, We, They",
+  "summary": "Aprende a usar los pronombres personales en inglés. Estas palabras nos ayudan a hablar de personas, animales y cosas fácilmente.",
+  "sections": [
+    {
+      "h": "Hablando de ti y de los demás",
+      "p": "Cuando hablas de ti mismo, usa 'I'. Cuando le hablas a la persona que tienes enfrente, usa 'you'. Estas palabras son el inicio de muchas oraciones en inglés y son muy importantes para las conversaciones cotidianas.",
+      "ex": [
+        {
+          "en": "I am a student.",
+          "mean": "Hablando de ti mismo"
+        },
+        {
+          "en": "You are my friend.",
+          "mean": "Hablando con una persona"
+        }
+      ]
+    },
+    {
+      "h": "He, She e It",
+      "p": "Usamos 'he' para un hombre o un niño. Usamos 'she' para una mujer o una niña. Cuando hablamos de un solo animal o una sola cosa, usamos 'it'. Esto hace que hablar y escribir sea mucho más sencillo.",
+      "ex": [
+        {
+          "en": "He is a teacher.",
+          "mean": "Hablando de un hombre"
+        },
+        {
+          "en": "She is happy.",
+          "mean": "Hablando de una mujer"
+        },
+        {
+          "en": "It is a big dog.",
+          "mean": "Hablando de un animal"
+        }
+      ]
+    },
+    {
+      "h": "Grupos de personas y cosas",
+      "p": "Usa 'we' cuando eres parte de un grupo. Usa 'they' cuando hablas de otras personas, animales o cosas en grupo. Estos pronombres nos ayudan a hablar de más de una persona o cosa al mismo tiempo.",
+      "ex": [
+        {
+          "en": "We are happy today.",
+          "mean": "Tú y otras personas"
+        },
+        {
+          "en": "They are nice people.",
+          "mean": "Un grupo de otras personas"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "I",
+      "mean": "la persona que habla"
+    },
+    {
+      "en": "You",
+      "mean": "la persona que escucha"
+    },
+    {
+      "en": "He",
+      "mean": "una persona de sexo masculino"
+    },
+    {
+      "en": "She",
+      "mean": "una persona de sexo femenino"
+    },
+    {
+      "en": "It",
+      "mean": "una cosa o un animal"
+    },
+    {
+      "en": "We",
+      "mean": "yo y los demás"
+    },
+    {
+      "en": "They",
+      "mean": "más de una persona o cosa"
+    }
+  ],
+  "tip": "¡Señálate a ti mismo para 'I' y a tu amigo para 'you'. Conectar las palabras con movimientos del cuerpo ayuda a que tu cerebro las recuerde más rápido!",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta para un hombre.",
+      "en": "___ is a doctor.",
+      "choices": [
+        "She",
+        "He",
+        "It",
+        "They"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta para ti mismo.",
+      "en": "___ am learning English.",
+      "choices": [
+        "I",
+        "He",
+        "You",
+        "We"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta para una mujer.",
+      "en": "___ is my mother.",
+      "choices": [
+        "He",
+        "It",
+        "She",
+        "They"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta para un gato.",
+      "en": "___ is sleeping.",
+      "choices": [
+        "You",
+        "He",
+        "They",
+        "It"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Elige la palabra correcta para ti y tu amigo.",
+      "en": "___ are going home.",
+      "choices": [
+        "We",
+        "He",
+        "She",
+        "It"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta para un grupo de personas.",
+      "en": "___ are playing football.",
+      "choices": [
+        "I",
+        "It",
+        "They",
+        "He"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

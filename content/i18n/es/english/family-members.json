@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-22",
+  "slug": "family-members",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "👨‍👩‍👦",
+  "title": "Hablando de tu familia",
+  "summary": "Aprende a nombrar a los miembros de tu familia en inglés. Practica diciendo quién forma parte de tu familia usando palabras sencillas.",
+  "sections": [
+    {
+      "h": "Padres y hermanos",
+      "p": "En inglés usamos palabras especiales para las personas de nuestra familia. Tu madre y tu padre son tus padres (parents). Un hermano (brother) es un chico hijo de tu madre y tu padre. Una hermana (sister) es una chica hija de tu madre y tu padre. Usamos el verbo 'have' (tener) para hablar de nuestra familia. Por ejemplo, puedes decir 'I have one brother' (tengo un hermano) o 'I have a sister' (tengo una hermana).",
+      "ex": [
+        {
+          "en": "This is my mother.",
+          "mean": "Presentando a tu progenitora."
+        },
+        {
+          "en": "I have one brother.",
+          "mean": "Diciendo que tienes un hermano varón."
+        },
+        {
+          "en": "She is my sister.",
+          "mean": "Mostrando a tu hermana."
+        }
+      ]
+    },
+    {
+      "h": "Esposo, esposa e hijos",
+      "p": "Cuando la gente se casa, el hombre es el esposo (husband) y la mujer es la esposa (wife). Tu hijo (son) es tu hijo varón. Tu hija (daughter) es tu hija mujer. Juntos son tus hijos (children). Puedes decir 'I have two children' (tengo dos hijos) para hablar de tu hijo y tu hija de forma sencilla y clara.",
+      "ex": [
+        {
+          "en": "He is my husband.",
+          "mean": "Presentando a tu hombre casado."
+        },
+        {
+          "en": "We have a daughter.",
+          "mean": "Diciendo que tienes una hija."
+        },
+        {
+          "en": "This is my son.",
+          "mean": "Presentando a tu hijo varón."
+        }
+      ]
+    },
+    {
+      "h": "Abuelos",
+      "p": "Los padres de tu madre y los padres de tu padre son tus abuelos (grandparents). El hombre es tu abuelo (grandfather) y la mujer es tu abuela (grandmother). En el inglés cotidiano, mucha gente los llama 'grandpa' y 'grandma' porque suena cercano y cariñoso. Puedes decir 'My grandparents are very nice' (mis abuelos son muy agradables).",
+      "ex": [
+        {
+          "en": "This is my grandfather.",
+          "mean": "Presentando al padre de tu progenitor."
+        },
+        {
+          "en": "My grandmother is kind.",
+          "mean": "Describiendo a la madre de tu progenitor."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "mother",
+      "mean": "madre"
+    },
+    {
+      "en": "father",
+      "mean": "padre"
+    },
+    {
+      "en": "brother",
+      "mean": "hermano"
+    },
+    {
+      "en": "sister",
+      "mean": "hermana"
+    },
+    {
+      "en": "husband",
+      "mean": "hombre casado"
+    },
+    {
+      "en": "wife",
+      "mean": "mujer casada"
+    },
+    {
+      "en": "son",
+      "mean": "hijo"
+    },
+    {
+      "en": "daughter",
+      "mean": "hija"
+    },
+    {
+      "en": "grandfather",
+      "mean": "abuelo"
+    },
+    {
+      "en": "grandmother",
+      "mean": "abuela"
+    }
+  ],
+  "tip": "Mira las fotos de tu familia en el teléfono. Señala a cada persona y di su nombre en inglés en voz alta.",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "My mother and father are my ___.",
+      "choices": [
+        "parents",
+        "brothers",
+        "children"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "A boy from your mother and father is your ___.",
+      "choices": [
+        "sister",
+        "brother",
+        "wife"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "This is my ___ . She is married to me.",
+      "choices": [
+        "husband",
+        "son",
+        "wife"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "My parent's mother is my ___.",
+      "choices": [
+        "grandmother",
+        "grandfather",
+        "daughter"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "A girl child is your ___.",
+      "choices": [
+        "son",
+        "daughter",
+        "brother"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "I ___ one sister.",
+      "choices": [
+        "has",
+        "is",
+        "have"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-22",
+  "slug": "plural-nouns",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "🍎",
+  "title": "Sustantivos en plural: uno y muchos",
+  "summary": "En esta lección aprenderás a hablar de más de una cosa. Veremos los sustantivos en plural regulares e irregulares.",
+  "sections": [
+    {
+      "h": "Plurales regulares: añade -s",
+      "p": "La mayoría de las palabras en inglés son regulares. Cuando tienes dos o más cosas, simplemente añades una 's' al final de la palabra. Por ejemplo, un gato se convierte en dos gatos. Esta es la forma más fácil de hacer que una palabra sea plural, y la usarás todos los días al hablar y escribir en inglés.",
+      "ex": [
+        {
+          "en": "I have one cat and two dogs.",
+          "mean": "un gato, más dos perros"
+        },
+        {
+          "en": "Please buy three apples at the store.",
+          "mean": "más de una manzana"
+        },
+        {
+          "en": "My books are on the table.",
+          "mean": "más de un libro"
+        }
+      ]
+    },
+    {
+      "h": "Palabras que terminan en -ch, -sh, -s, -x",
+      "p": "Algunas palabras terminan con sonidos especiales como ch, sh, s o x. No puedes simplemente añadir una 's' a estas palabras. En su lugar, debes añadir '-es' al final para que sea fácil de pronunciar. Por ejemplo, una caja se convierte en dos cajas, y un autobús se convierte en dos autobuses.",
+      "ex": [
+        {
+          "en": "I wash the dishes every evening.",
+          "mean": "más de un plato"
+        },
+        {
+          "en": "There are two buses on the street.",
+          "mean": "más de un autobús"
+        },
+        {
+          "en": "She has three boxes of shoes.",
+          "mean": "más de una caja"
+        }
+      ]
+    },
+    {
+      "h": "Plurales irregulares",
+      "p": "Algunas palabras comunes en inglés no siguen las reglas. ¡Cambian su ortografía por completo cuando se vuelven plurales! Por ejemplo, un niño se convierte en dos niños, y un hombre se convierte en dos hombres. Necesitas memorizar estas palabras especiales porque la gente las usa todo el tiempo.",
+      "ex": [
+        {
+          "en": "The children are playing in the park.",
+          "mean": "más de un niño"
+        },
+        {
+          "en": "I see two men near the door.",
+          "mean": "más de un hombre"
+        },
+        {
+          "en": "My feet are cold today.",
+          "mean": "ambos pies"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "cat",
+      "mean": "pequeña mascota peluda"
+    },
+    {
+      "en": "cats",
+      "mean": "más de un gato"
+    },
+    {
+      "en": "bus",
+      "mean": "vehículo grande para pasajeros"
+    },
+    {
+      "en": "buses",
+      "mean": "más de un autobús"
+    },
+    {
+      "en": "child",
+      "mean": "persona joven"
+    },
+    {
+      "en": "children",
+      "mean": "más de un niño"
+    },
+    {
+      "en": "man",
+      "mean": "macho adulto"
+    },
+    {
+      "en": "men",
+      "mean": "más de un hombre"
+    }
+  ],
+  "tip": "¡Haz una tarjeta de memoria para palabras irregulares como child y children! ¡Practica decirlas en voz alta todos los días!",
+  "quiz": [
+    {
+      "ask": "Elige la forma plural correcta",
+      "en": "I have two ___ in my bag.",
+      "choices": [
+        "book",
+        "books",
+        "bookes"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la forma plural correcta",
+      "en": "The ___ are waiting for the bus.",
+      "choices": [
+        "man",
+        "mans",
+        "men"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la forma plural correcta",
+      "en": "Please clean the ___ after dinner.",
+      "choices": [
+        "dishs",
+        "dishes",
+        "dish"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la forma plural correcta",
+      "en": "I see three ___ playing outside.",
+      "choices": [
+        "childs",
+        "childes",
+        "children"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Elige la forma plural correcta",
+      "en": "She bought four ___ at the market.",
+      "choices": [
+        "apple",
+        "apples",
+        "applese"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la forma plural correcta",
+      "en": "My ___ hurt after walking all day.",
+      "choices": [
+        "feets",
+        "foot",
+        "feet"
+      ],
+      "answer_index": 2
+    }
+  ]
+}
