@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-12",
+  "title": "Quiz Diário de Conhecimentos Gerais: 12 de novembro de 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Qual país possui a maior linha costeira do mundo?",
+      "options": [
+        "Indonésia",
+        "Austrália",
+        "Canadá",
+        "Rússia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O Canadá é banhado por três oceanos diferentes — Atlântico, Pacífico e Ártico —, o que lhe confere uma costa imensa e cheia de recortes.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Ciência",
+      "question": "Qual é a central energética da célula biológica, responsável por gerar a maior parte da energia química necessária?",
+      "options": [
+        "Núcleo",
+        "Ribossomo",
+        "Mitocôndria",
+        "Complexo de Golgi"
+      ],
+      "answer_index": 2,
+      "fun_fact": "As mitocôndrias possuem seu próprio DNA distinto, separado do restante do material genético da célula.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "História",
+      "question": "As Sete Maravilhas do Mundo Antigo incluíam o Colosso de Rodes. Em qual ilha essa gigante estátua de bronze foi erguida?",
+      "options": [
+        "Sicília",
+        "Rodes",
+        "Chipre",
+        "Creta"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O Colosso de Rodes ficou de pé por apenas 54 anos antes de ser derrubado por um terremoto devastador em 226 AEC.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Filmes e Cultura Pop",
+      "question": "Qual filme de ficção científica de 1982 dirigido por Ridley Scott apresenta um caçador de androides (blade runner) caçando replicantes rebeldes em uma Los Angeles distópica?",
+      "options": [
+        "E.T. O Extraterrestre",
+        "Blade Runner",
+        "Tron",
+        "O Enigma de Outro Mundo"
+      ],
+      "answer_index": 1,
+      "fun_fact": "A visão futurista de uma Los Angeles banhada a neon no filme se passa, ironicamente, no ano de 2019.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Comida",
+      "question": "O risoto italiano tradicional exige mexer sem parar e a adição gradual de caldo. Qual tipo específico de prato é usado quase exclusivamente para este prato?",
+      "options": [
+        "Arborio",
+        "Basmati",
+        "Jasmim",
+        "Calrose"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Os grãos de arroz arborio são curtos, gordinhos e ricos no amido amilopectina, que é liberado durante o cozimento para criar aquela textura cremosa típica do prato.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Animais",
+      "question": "Qual é a principal dieta de um panda-gigante, respondendo por mais de 99% de sua ingestão diária de alimentos?",
+      "options": [
+        "Folhas de eucalipto",
+        "Insetos e larvas",
+        "Pequenos roedores",
+        "Bambu"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Apesar de pertencerem à ordem dos carnívoros, os pandas-gigantes evoluíram para se tornarem herbívoros especializados que passam até 12 horas por dia comendo bambu.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Esportes",
+      "question": "No pentatlo moderno, qual das seguintes opções NÃO é um dos cinco esportes tradicionais incluídos na competição?",
+      "options": [
+        "Natação",
+        "Esgrima",
+        "Corrida",
+        "Ciclismo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Inventado por Pierre de Coubertin, o pentatlo moderno foi criado para simular as habilidades necessárias a um oficial de cavalaria ideal do século XIX atrás das linhas inimigas.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Idioma",
+      "question": "Qual é o termo linguístico para palavras que soam idênticas a outras, mas são escritas de forma diferente e têm significados diferentes, como 'conserto' e 'concerto'?",
+      "options": [
+        "Homógrafos",
+        "Sinônimos",
+        "Homófonos",
+        "Antônimos"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A palavra 'homófono' deriva de raízes gregas que significam 'mesmo som'.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Espaço",
+      "question": "Qual planeta do nosso sistema solar possui a temperatura de superfície mais alta, sendo ainda mais quente que Mercúrio?",
+      "options": [
+        "Saturno",
+        "Vênus",
+        "Marte",
+        "Júpiter"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Vênus sofre de um efeito estufa desenfreado devido à sua espessa atmosfera de dióxido de carbono, mantendo temperaturas de superfície em torno de 465 graus Celsius.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "História",
+      "question": "A Guerra do Peloponeso, que durou de 431 a 404 AEC, foi travada entre a antiga Atenas e qual outra grande cidade-estado grega?",
+      "options": [
+        "Argos",
+        "Esparta",
+        "Corinto",
+        "Tebas"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Boa parte do que se sabe sobre a Guerra do Peloponeso vem do relato histórico detalhado escrito pelo general ateniense Tucídides.",
+      "difficulty": "hard"
+    }
+  ]
+}

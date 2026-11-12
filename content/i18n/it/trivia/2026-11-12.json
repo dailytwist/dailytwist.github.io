@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-12",
+  "title": "Quiz Quotidiano di Cultura Generale: 12 Novembre 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Quale paese possiede la costa più lunga del mondo?",
+      "options": [
+        "Indonesia",
+        "Australia",
+        "Canada",
+        "Russia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il Canada è bagnato da tre oceani diversi: Atlantico, Pacifico e Artico, il che gli conferisce una costa immensa e frastagliata.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Scienza",
+      "question": "Qual è la centrale energetica della cellula biologica, responsabile della generazione della maggior parte dell'energia chimica necessaria?",
+      "options": [
+        "Nucleo",
+        "Ribosoma",
+        "Mitocondrio",
+        "Apparato di Golgi"
+      ],
+      "answer_index": 2,
+      "fun_fact": "I mitocondri possiedono un loro DNA distinto, separato dal resto del materiale genetico della cellula.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Storia",
+      "question": "Le sette meraviglie del mondo antico comprendevano il Colosso di Rodi. Su quale isola fu eretta questa gigantesca statua di bronzo?",
+      "options": [
+        "Sicilia",
+        "Rodi",
+        "Cipro",
+        "Creta"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Il Colosso di Rodi rimase in piedi per soli 54 anni prima di essere abbattuto da un terremoto devastante nel 226 a.C.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Cinema e Pop Culture",
+      "question": "Quale film di fantascienza del 1982 diretto da Ridley Scott vede protagonista un blade runner a caccia di replicanti ribelli in una Los Angeles distopica?",
+      "options": [
+        "E.T. l'extra-terrestre",
+        "Blade Runner",
+        "Tron",
+        "La cosa"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La visione futuristica e intrisa di neon di Los Angeles del film era notoriamente ambientata nell'anno 2019.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Cucina",
+      "question": "Il tradizionale risotto italiano richiede una mescolatura continua e l'aggiunta graduale di brodo. Quale tipo specifico di riso viene usato quasi esclusivamente per questo piatto?",
+      "options": [
+        "Arborio",
+        "Basmati",
+        "Jasmine",
+        "Calrose"
+      ],
+      "answer_index": 0,
+      "fun_fact": "I chicchi di riso Arborio sono corti, tonici e ricchi di amido di amilopectina, che viene rilasciato durante la cottura per creare la tipica consistenza cremosa del piatto.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Animali",
+      "question": "Qual è la dieta principale del panda gigante, che costituisce oltre il 99% della sua assunzione di cibo giornaliera?",
+      "options": [
+        "Foglie di eucalipto",
+        "Insetti e larve",
+        "Piccoli roditori",
+        "Bambù"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Nonostante appartenga all'ordine dei Carnivori, il panda gigante si è evoluto diventando un erbivoro specializzato che passa fino a 12 ore al giorno a mangiare bambù.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Sport",
+      "question": "Nel pentathlon moderno, quale dei seguenti sport NON è uno dei cinque sport tradizionali inclusi nella competizione?",
+      "options": [
+        "Nuoto",
+        "Scherma",
+        "Corsa",
+        "Ciclismo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Inventato da Pierre de Coubertin, il pentathlon moderno è stato ideato per simulare le abilità richieste a un ideale ufficiale di cavalleria del XIX secolo dietro le linee nemiche.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Linguistica",
+      "question": "Qual è il termine linguistico per le parole che suonano in modo identico ad altre parole ma sono scritte diversamente e hanno significati differenti?",
+      "options": [
+        "Omografi",
+        "Sinonimi",
+        "Omofoni",
+        "Antonimi"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La parola 'omofono' deriva da radici greche che significano 'stesso suono'.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Spazio",
+      "question": "Quale pianeta del nostro sistema solare possiede la temperatura superficiale più alta, essendo persino più caldo di Mercurio?",
+      "options": [
+        "Saturno",
+        "Venere",
+        "Marte",
+        "Giove"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Venere sperimenta un effetto serra galoppante a causa della sua spessa atmosfera di anidride carbonica, mantenendo temperature superficiali intorno ai 465 gradi Celsius.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Storia",
+      "question": "La guerra del Peloponneso, durata dal 431 al 404 a.C., fu combattuta tra l'antica Atene e quale altra grande città-stato greca?",
+      "options": [
+        "Argo",
+        "Sparta",
+        "Corinto",
+        "Tebe"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Gran parte di ciò che sappiamo sulla guerra del Peloponneso proviene dal dettagliato resoconto storico scritto dal generale ateniese Tucidide.",
+      "difficulty": "hard"
+    }
+  ]
+}

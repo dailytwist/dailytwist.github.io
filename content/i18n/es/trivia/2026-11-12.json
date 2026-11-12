@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-12",
+  "title": "Test de Cultura General Diario: 12 de noviembre de 2026",
+  "questions": [
+    {
+      "category": "Geografía",
+      "question": "¿Qué país posee la línea costera más larga de cualquier nación en el mundo?",
+      "options": [
+        "Indonesia",
+        "Australia",
+        "Canadá",
+        "Rusia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Canadá limita con tres océanos diferentes —el Atlántico, el Pacífico y el Ártico—, lo que le otorga una línea costera inmensa e intrincada.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Ciencia",
+      "question": "¿Cuál es la central energética de la célula biológica, responsable de generar la mayor parte de la energía química necesaria?",
+      "options": [
+        "Núcleo",
+        "Ribosoma",
+        "Mitocondria",
+        "Aparato de Golgi"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Las mitocondrias poseen su propio ADN distintivo, separado del resto del material genético de la célula.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Historia",
+      "question": "Las Siete Maravillas del Mundo Antiguo incluían el Coloso de Rodas. ¿En qué isla se erigió esta estatua gigante de bronce?",
+      "options": [
+        "Sicilia",
+        "Rodas",
+        "Chipre",
+        "Creta"
+      ],
+      "answer_index": 1,
+      "fun_fact": "El Coloso de Rodas se mantuvo en pie durante solo 54 años antes de ser derribado por un devastador terremoto en el año 226 a. C.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Cine y Cultura Popular",
+      "question": "¿Qué película de ciencia ficción de 1982 dirigida por Ridley Scott presenta a un cazador de androides persiguiendo a replicantes renegados en un Los Ángeles distópico?",
+      "options": [
+        "E.T., el extraterrestre",
+        "Blade Runner",
+        "Tron",
+        "La cosa"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La visión que la película ofrece de un Los Ángeles futurista e inundado de luces de neón se ambientaba famosamente en el año 2019.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Gastronomía",
+      "question": "El risotto italiano tradicional requiere remover constantemente y añadir caldo de forma gradual. ¿Qué tipo específico de arroz se utiliza casi exclusivamente para este plato?",
+      "options": [
+        "Arborio",
+        "Basmati",
+        "Jazmín",
+        "Calrose"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Los granos de arroz Arborio son cortos, gruesos y ricos en almidón de amilopectina, el cual se libera durante la cocción para crear la textura cremosa característica del plato.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Animales",
+      "question": "¿Cuál es la dieta principal de un panda gigante, que representa más del 99% de su ingesta diaria de alimentos?",
+      "options": [
+        "Hojas de eucalipto",
+        "Insectos y larvas",
+        "Pequeños roedores",
+        "Bambú"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A pesar de pertenecer al orden Carnivora, los pandas gigantes evolucionaron hasta convertirse en herbívoros especializados que pasan hasta 12 horas al día comiendo bambú.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Deportes",
+      "question": "En el pentatlón moderno, ¿cuál de los siguientes deportes NO es uno de los cinco deportes tradicionales incluidos en la competición?",
+      "options": [
+        "Natación",
+        "Esgrima",
+        "Carrera",
+        "Ciclismo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Inventado por Pierre de Coubertin, el pentatlón moderno fue diseñado para simular las habilidades requeridas de un oficial de caballería ideal del siglo XIX tras las líneas enemigas.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Lenguaje",
+      "question": "¿Cuál es el término lingüístico para las palabras que suenan idéntico a otras pero se escriben diferente y tienen significados distintos, como 'vaca' y 'baca'?",
+      "options": [
+        "Homógrafos",
+        "Sinónimos",
+        "Homófonos",
+        "Antónimos"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La palabra 'homófono' deriva de raíces griegas que significan 'mismo sonido'.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Espacio",
+      "question": "¿Qué planeta de nuestro sistema solar posee la temperatura superficial más alta, incluso más caliente que Mercurio?",
+      "options": [
+        "Saturno",
+        "Venus",
+        "Marte",
+        "Júpiter"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Venus experimenta un efecto invernadero desbocado debido a su espesa atmósfera de dióxido de carbono, manteniendo temperaturas superficiales de alrededor de 465 grados Celsius.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Historia",
+      "question": "La guerra del Peloponeso, que duró del 431 al 404 a. C., se libró entre la antigua Atenas y qué otra importante ciudad-estado griega?",
+      "options": [
+        "Argos",
+        "Esparta",
+        "Corinto",
+        "Tebas"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Gran parte de lo que se sabe sobre la guerra del Peloponeso proviene del detallado relato histórico escrito por el general ateniense Tucídides.",
+      "difficulty": "hard"
+    }
+  ]
+}

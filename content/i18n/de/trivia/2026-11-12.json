@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-12",
+  "title": "Tägliches Allgemeinwissen-Quiz: 12. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches Land besitzt die längste Küstenlinie aller Nationen der Welt?",
+      "options": [
+        "Indonesien",
+        "Australien",
+        "Kanada",
+        "Russland"
+      ],
+      "answer_index": 2,
+      "fun_fact": "An Kanada grenzen drei verschiedene Ozeane – der Atlantik, der Pazifik und das Artktische Meer –, was dem Land eine gewaltige und verzweigte Küstenlinie verleiht.",
+      "difficulty": "mittel"
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist das Kraftwerk der biologischen Zelle, das für die Erzeugung des Großteils der benötigten chemischen Energie verantwortlich ist?",
+      "options": [
+        "Zellkern",
+        "Ribosom",
+        "Mitochondrium",
+        "Golgi-Apparat"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Mitochondrien verfügen über eine eigene, vom restlichen genetischen Material der Zelle unabhängige DNA.",
+      "difficulty": "einfach"
+    },
+    {
+      "category": "Geschichte",
+      "question": "Zu den Sieben Weltwundern der Antike gehörte der Koloss von Rhodos. Auf welcher Insel wurde diese riesige Bronzestatue errichtet?",
+      "options": [
+        "Sizilien",
+        "Rhodos",
+        "Zypern",
+        "Kreta"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Der Koloss von Rhodos stand nur 54 Jahre lang, bevor er 226 v. Chr. durch ein verheerendes Erdbeben zum Einsturz gebracht wurde.",
+      "difficulty": "schwer"
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "In welchem Science-Fiction-Film aus dem Jahr 1982 unter der Regie von Ridley Scott jagt ein Blade Runner abtrünnige Replikanten in einem dystopischen Los Angeles?",
+      "options": [
+        "E.T. – Der Außerirdische",
+        "Blade Runner",
+        "Tron",
+        "Das Ding aus einer anderen Welt"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Die Zukunftsvision des Films von einem neonbeleuchteten Los Angeles war berühmterweise im Jahr 2019 angesiedelt.",
+      "difficulty": "einfach"
+    },
+    {
+      "category": "Essen & Trinken",
+      "question": "Traditionelles italienisches Risotto erfordert ständiges Rühren und die schrittweise Zugabe von Brühe. Welche spezielle Reissorte wird dafür fast ausschließlich verwendet?",
+      "options": [
+        "Arborio",
+        "Basmati",
+        "Jasmin",
+        "Calrose"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Arborio-Reiskörner sind kurz, dick und haben einen hohen Amylopektinstärkegehalt, der beim Kochen freigesetzt wird und die für das Gericht typische cremige Textur erzeugt.",
+      "difficulty": "mittel"
+    },
+    {
+      "category": "Tiere",
+      "question": "Was ist die Hauptnahrung eines Großen Pandas, die über 99 % seiner täglichen Nahrungsaufnahme ausmacht?",
+      "options": [
+        "Eukalyptusblätter",
+        "Insekten und Larven",
+        "Kleine Nagetiere",
+        "Bambus"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Obwohl sie zur Ordnung der Raubtiere (Carnivora) gehören, haben sich Große Pandas zu spezialisierten Pflanzenfressern entwickelt, die bis zu 12 Stunden am Tag mit dem Fressen von Bambus verbringen.",
+      "difficulty": "einfach"
+    },
+    {
+      "category": "Sport",
+      "question": "Welche der folgenden Sportarten gehört beim modernen Fünfkampf NICHT zu den fünf traditionellen Disziplinen des Wettbewerbs?",
+      "options": [
+        "Schwimmen",
+        "Fechten",
+        "Laufen",
+        "Radfahren"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Der moderne Fünfkampf wurde von Pierre de Coubertin erfunden, um die Fähigkeiten zu simulieren, die von einem idealen Kavallerieoffizier des 19. Jahrhunderts hinter den feindlichen Linien verlangt wurden.",
+      "difficulty": "schwer"
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie lautet der sprachwissenschaftliche Begriff für Wörter, die genau gleich klingen, aber unterschiedlich geschrieben werden und eine andere Bedeutung haben, wie zum Beispiel ,Leid‘ und ,Leit‘?",
+      "options": [
+        "Homografen",
+        "Synonyme",
+        "Homophone",
+        "Antonyme"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Das Wort ,Homophon‘ leitet sich von griechischen Wurzeln ab, die ,gleicher Klang‘ bedeuten.",
+      "difficulty": "mittel"
+    },
+    {
+      "category": "Weltall",
+      "question": "Welcher Planet in unserem Sonnensystem weist die höchste Oberflächentemperatur auf und ist sogar noch heißer als Merkur?",
+      "options": [
+        "Saturn",
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Auf der Venus herrscht aufgrund ihrer dichten Kohlendioxidatmosphäre ein außer Kontrolle geratener Treibhauseffekt, der Oberflächentemperaturen von rund 465 Grad Celsius aufrecht erhält.",
+      "difficulty": "mittel"
+    },
+    {
+      "category": "Geschichte",
+      "question": "Der Peloponnesische Krieg, der von 431 bis 404 v. Chr. dauerte, wurde zwischen dem antiken Athen und welchem anderen bedeutenden griechischen Stadtstaat ausgetragen?",
+      "options": [
+        "Argos",
+        "Sparta",
+        "Korinth",
+        "Theben"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Ein Großteil dessen, was über den Peloponnesischen Krieg bekannt ist, stammt aus dem detaillierten historischen Bericht des athenischen Generals Thukydides.",
+      "difficulty": "schwer"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Was ist El Niño? Der Ozeankreislauf einfach erklärt",
+  "description": "Erfahre, was El Niño ist, wie dieses mächtige Klimaphänomen funktioniert und warum es das Wetter und die Temperaturen auf der ganzen Welt beeinflusst.",
+  "category": "Science",
+  "sections": [
+    {
+      "heading": "Das Phänomen El Niño verstehen",
+      "paragraphs": [
+        "El Niño ist ein natürlich vorkommendes Klimaphänomen, das durch die Erwärmung der Meeresoberfläche im zentralen und östlichen tropischen Pazifik gekennzeichnet ist. Es ist Teil eines größeren Klimakreislaufs, der als El Niño-Southern Oscillation (oft einfach ENSO genannt) bekannt ist. Dieser Zyklus wechselt zwischen wärmeren Phasen (El Niño) und kühleren Phasen (La Niña) hin und her, mit neutralen Perioden dazwischen.",
+        "Der Name „El Niño“ geht auf peruanische Fischer zurück, die vor Jahrhunderten zur Weihnachtszeit ungewöhnlich warmes Wasser vor der Küste Südamerikas bemerkten. Sie nannten es „El Niño de Navidad“, was auf Spanisch das Christkind bedeutet. Im Laufe der Zeit übernahmen Wissenschaftler den Begriff, um das weitaus größere Klimamuster im Pazifischen Becken zu beschreiben, das die Wettersysteme weltweit beeinflusst."
+      ]
+    },
+    {
+      "heading": "Wie El Niño funktioniert",
+      "paragraphs": [
+        "Normalerweise wehen die Passatwinde von Ost nach West über den tropischen Pazifischen Ozean und treiben warmes Oberflächenwasser in Richtung Asien und Australien. Diese Bewegung sorgt dafür, dass kühleres, nährstoffreiches Tiefenwasser an der Küste Südamerikas aufsteigt – ein Prozess, den man als Auftrieb bezeichnet.",
+        "Während eines El-Niño-Ereignisses schwächen sich diese Passatwinde ab oder kehren manchmal sogar ihre Richtung um. Da keine starken Winde mehr das warme Wasser nach Westen drücken, driftet die riesige Menge an warmem Oberflächenwasser zurück nach Amerika. Diese Verschiebung verändert den Luftdruck, lenkt wichtige Windströmungen um und stellt die globalen Wetterverläufe über Monate hinweg auf den Kopf."
+      ]
+    },
+    {
+      "heading": "Globale Auswirkungen auf das Wetter",
+      "paragraphs": [
+        "Da der Pazifische Ozean eine so riesige Fläche einnimmt, haben Temperaturänderungen dort spürbare Auswirkungen auf den gesamten Planeten. El Niño verändert den Verlauf des Jetstreams, eines in großer Höhe schnell fließenden Windbandes, das die Wettersysteme rund um den Globus steuert.",
+        "Infolgedessen erleben verschiedene Regionen ausgeprägte Klimaanomalien. So kommt es beispielsweise in Teilen Nord- und Südamerikas oft zu verstärkten Regenfällen und feuchteren Wintern, während Regionen wie Australien, Indonesien und Teile des südlichen Afrikas mit Dürreperioden und höheren Temperaturen zu kämpfen haben können. Diese Veränderungen können die Landwirtschaft, die Meeresökosysteme und die lokale Wirtschaft beeinträchtigen."
+      ]
+    },
+    {
+      "heading": "Faszinierende Fakten über El Niño",
+      "paragraphs": [
+        "El-Niño-Ereignisse sind völlig natürlich und finden bereits seit Jahrtausenden statt, wie Aufzeichnungen von Korallenriffen und Sedimentschichten tief am Meeresboden belegen. Sie folgen keinem festen Zeitplan, treten typischerweise alle zwei bis sieben Jahre auf, und jedes Ereignis unterscheidet sich deutlich in Stärke und Dauer.",
+        "Auch das Meeresleben wird durch El Niño stark beeinträchtigt. Da der Auftrieb während dieser Warmphasen nachlässt, gelangen weniger Nährstoffe an die Meeresoberfläche. Dieser Nährstoffmangel führt zu einem Rückgang des Phytoplanktons, was sich in der marinen Nahrungskette nach oben hin fortsetzt und vorübergehend die Fischbestände sowie die Seevögel und Meeressäugetiere beeinträchtigt, die auf sie als Nahrungsquelle angewiesen sind."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie lange dauert ein El-Niño-Ereignis normalerweise?",
+      "a": "El Niño events usually last between 9 and 12 months. They often develop between spring and early summer, reach their peak intensity during the late autumn and winter months, and then gradually weaken the following spring."
+    },
+    {
+      "q": "Was ist das Gegenteil von El Niño?",
+      "a": "The opposite phase of the ENSO cycle is called La Niña, which means 'the little girl' in Spanish. During a La Niña event, trade winds are unusually strong, pushing more warm water west and bringing cooler-than-average water to the eastern Pacific."
+    },
+    {
+      "q": "Hat El Niño Auswirkungen auf die globalen Temperaturen?",
+      "a": "Yes. Because El Niño releases a significant amount of heat from the Pacific Ocean into the atmosphere, years with strong El Niño events often coincide with higher global average surface temperatures."
+    }
+  ],
+  "slug": "what-is-el-ni-o-the-ocean-cycle-explained",
+  "date": "2026-11-11",
+  "topic": "el nino",
+  "trending": true
+}
