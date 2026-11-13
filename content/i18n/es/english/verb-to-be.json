@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-21",
+  "slug": "verb-to-be",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "🧩",
+  "title": "El verbo To Be: Am, Is, Are",
+  "summary": "El verbo 'to be' (ser o estar) es el más importante en inglés. Aprende cuándo usar am, is y are, y cómo formar negativas y preguntas.",
+  "sections": [
+    {
+      "h": "Am, is, are",
+      "p": "Usa 'am' solo con I. Usa 'is' con he, she, it y una sola persona o cosa. Usa 'are' con you, we, they y más de una persona o cosa. Usamos 'to be' para hablar de nombres, edad, profesiones, sentimientos, lugares y descripciones.",
+      "ex": [
+        {
+          "en": "I am a student.",
+          "mean": "Decir lo que eres."
+        },
+        {
+          "en": "She is happy today.",
+          "mean": "Describir cómo se siente una mujer."
+        },
+        {
+          "en": "They are at home.",
+          "mean": "Decir dónde están algunas personas."
+        }
+      ]
+    },
+    {
+      "h": "Formas cortas",
+      "p": "Al hablar y en textos informales, normalmente unimos el pronombre y el verbo: I'm, you're, he's, she's, it's, we're, they're. El significado es exactamente el mismo, pero suena mucho más natural.",
+      "ex": [
+        {
+          "en": "I'm 25 years old.",
+          "mean": "Decir tu edad (en inglés usamos 'be' para la edad)."
+        },
+        {
+          "en": "It's cold outside.",
+          "mean": "Describir el tiempo atmosférico."
+        },
+        {
+          "en": "We're friends.",
+          "mean": "Decir qué somos el uno para el otro."
+        }
+      ]
+    },
+    {
+      "h": "Negativas",
+      "p": "Para formar una negativa, añade 'not' después de am, is o are. Las formas cortas son 'I'm not', 'isn't' y 'aren't'. No existe la forma corta 'amn't'.",
+      "ex": [
+        {
+          "en": "I'm not tired.",
+          "mean": "Decir que no te sientes cansado."
+        },
+        {
+          "en": "He isn't a doctor.",
+          "mean": "Decir que un hombre no tiene este trabajo."
+        },
+        {
+          "en": "You aren't late.",
+          "mean": "Decirle a alguien que ha llegado a tiempo."
+        }
+      ]
+    },
+    {
+      "h": "Preguntas",
+      "p": "Para hacer una pregunta, coloca am, is o are antes del sujeto. Da respuestas breves con el verbo: 'Yes, I am.' 'No, she isn't.' En las respuestas breves afirmativas, no uses la forma corta: di 'Yes, I am' y no 'Yes, I'm'.",
+      "ex": [
+        {
+          "en": "Are you ready?",
+          "mean": "Preguntar si alguien está preparado."
+        },
+        {
+          "en": "Is it expensive?",
+          "mean": "Preguntar si algo cuesta mucho."
+        },
+        {
+          "en": "Yes, it is.",
+          "mean": "Una respuesta breve afirmativa."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "am",
+      "mean": "ser/estar, con I"
+    },
+    {
+      "en": "is",
+      "mean": "ser/estar, con he/she/it"
+    },
+    {
+      "en": "are",
+      "mean": "ser/estar, con you/we/they"
+    },
+    {
+      "en": "isn't",
+      "mean": "no es / no está"
+    },
+    {
+      "en": "aren't",
+      "mean": "no son / no están"
+    },
+    {
+      "en": "happy",
+      "mean": "sentirse bien"
+    },
+    {
+      "en": "tired",
+      "mean": "necesitar descanso"
+    },
+    {
+      "en": "ready",
+      "mean": "preparado"
+    }
+  ],
+  "tip": "Recuerda el esquema I-am, he-she-it-is, you-we-they-are. Dilo como si fuera unacancioncita tres veces y se te quedará grabado en la cabeza.",
+  "quiz": [
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "I ___ from Brazil.",
+      "choices": [
+        "is",
+        "am",
+        "are"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "My brothers ___ at school.",
+      "choices": [
+        "are",
+        "is",
+        "am"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la palabra correcta",
+      "en": "It ___ a beautiful day.",
+      "choices": [
+        "am",
+        "are",
+        "is"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Conviértelo en negativo",
+      "en": "She ___ hungry.",
+      "choices": [
+        "not is",
+        "isn't",
+        "aren't"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la pregunta correcta",
+      "en": "Which question is correct?",
+      "choices": [
+        "You are tired?",
+        "Are you tired?",
+        "Is you tired?"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la respuesta corta correcta",
+      "en": "A: Are you a teacher? B: Yes, ___",
+      "choices": [
+        "I'm.",
+        "I am.",
+        "I is."
+      ],
+      "answer_index": 1
+    }
+  ]
+}

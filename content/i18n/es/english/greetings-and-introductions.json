@@ -1,0 +1,176 @@
+{
+  "date": "2026-10-21",
+  "slug": "greetings-and-introductions",
+  "cefr": "A1",
+  "cat": "phrases",
+  "emoji": "👋",
+  "title": "Saludos y presentaciones en inglés",
+  "summary": "Aprende a decir hola, presentarte y preguntar el nombre de alguien. Estas son las primeras frases que usarás en cualquier conversación.",
+  "sections": [
+    {
+      "h": "Cómo saludar",
+      "p": "Usa 'Hello' en cualquier situación. 'Hi' y 'Hey' son amigables e informales, ideales para amigos y familiares. Con personas que no conoces, o en el trabajo, 'Good morning', 'Good afternoon' y 'Good evening' suenan educados. 'Good night' solo se usa para despedirse por la noche.",
+      "ex": [
+        {
+          "en": "Hi, Sam! How are you?",
+          "mean": "Un saludo amistoso para un amigo."
+        },
+        {
+          "en": "Good morning, everyone.",
+          "mean": "Un saludo educado antes de las 12 del mediodía."
+        },
+        {
+          "en": "Good evening, sir.",
+          "mean": "Un saludo educado por la tarde-noche."
+        }
+      ]
+    },
+    {
+      "h": "Presentarse",
+      "p": "Para decir quién eres, usa 'My name is...' o la forma más corta 'I'm...'. Puedes añadir de dónde eres y a qué te dedicas. Cuando conozcas a alguien por primera vez, di 'Nice to meet you'. La otra persona suele responder 'Nice to meet you too'.",
+      "ex": [
+        {
+          "en": "Hello, my name is Lina.",
+          "mean": "Decirle tu nombre a alguien."
+        },
+        {
+          "en": "I'm from Morocco.",
+          "mean": "Decir de qué país vienes."
+        },
+        {
+          "en": "Nice to meet you!",
+          "mean": "Una frase educada cuando conoces a alguien nuevo."
+        }
+      ]
+    },
+    {
+      "h": "Hacer preguntas",
+      "p": "Para saber más sobre la otra persona, haz preguntas sencillas. 'What's your name?' y 'Where are you from?' son las más comunes. 'How are you?' es un saludo, así que basta con una respuesta corta: 'I'm fine, thanks. And you?'",
+      "ex": [
+        {
+          "en": "What's your name?",
+          "mean": "Preguntar el nombre de alguien."
+        },
+        {
+          "en": "Where are you from?",
+          "mean": "Preguntar de qué país o ciudad es alguien."
+        },
+        {
+          "en": "I'm fine, thanks. And you?",
+          "mean": "Responder a 'How are you?' y devolver la pregunta."
+        }
+      ]
+    },
+    {
+      "h": "Despedirse",
+      "p": "'Goodbye' es educado y sirve para cualquier lugar. 'Bye' y 'See you!' son informales. 'See you later' y 'See you tomorrow' son útiles cuando os vais a ver pronto de nuevo. 'Have a nice day!' es una forma amable de terminar una conversación.",
+      "ex": [
+        {
+          "en": "Bye! See you tomorrow.",
+          "mean": "Una despedida informal cuando os volvéis a ver al día siguiente."
+        },
+        {
+          "en": "Have a nice day!",
+          "mean": "Un deseo amable al marcharte."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "hello",
+      "mean": "un saludo"
+    },
+    {
+      "en": "hi",
+      "mean": "hola informal"
+    },
+    {
+      "en": "goodbye",
+      "mean": "una palabra para marcharse"
+    },
+    {
+      "en": "nice to meet you",
+      "mean": "encantado de conocerte"
+    },
+    {
+      "en": "How are you?",
+      "mean": "una pregunta de saludo"
+    },
+    {
+      "en": "I'm fine",
+      "mean": "estoy bien"
+    },
+    {
+      "en": "from",
+      "mean": "origen, país de origen"
+    },
+    {
+      "en": "see you later",
+      "mean": "adiós por ahora"
+    }
+  ],
+  "tip": "Practica tu presentación en voz alta todos los días: tu nombre, tu país y algo que te guste. En una semana lo dirás sin pensar.",
+  "quiz": [
+    {
+      "ask": "Elige la mejor respuesta",
+      "en": "A: How are you? B: ___",
+      "choices": [
+        "I'm fine, thanks.",
+        "I'm Lina.",
+        "Nice to meet you."
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Completa la frase",
+      "en": "___ name is Omar.",
+      "choices": [
+        "I",
+        "My",
+        "Me"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige el saludo correcto para las 9 a.m.",
+      "en": "___, everyone!",
+      "choices": [
+        "Good night",
+        "Good evening",
+        "Good morning"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Completa la pregunta",
+      "en": "Where are you ___?",
+      "choices": [
+        "from",
+        "of",
+        "to"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la respuesta educada",
+      "en": "A: Nice to meet you. B: ___",
+      "choices": [
+        "Goodbye.",
+        "Nice to meet you too.",
+        "I'm from Spain."
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "¿Cuál es informal?",
+      "en": "Choose the informal way to say goodbye.",
+      "choices": [
+        "Good evening",
+        "Goodbye, sir",
+        "See you!"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

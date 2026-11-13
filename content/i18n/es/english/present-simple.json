@@ -1,0 +1,176 @@
+{
+  "date": "2026-10-21",
+  "slug": "present-simple",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "🔁",
+  "title": "Presente Simple: Hábitos y Hechos",
+  "summary": "Usa el presente simple para hablar de cosas que haces todos los días y de verdades universales. Aprende la importante regla de la -s para he, she y it.",
+  "sections": [
+    {
+      "h": "¿Cuándo lo usamos?",
+      "p": "Usamos el presente simple para hábitos (cosas que hacemos una y otra vez), rutinas y hechos que siempre son verdad. Palabras como every day, always, usually y on Mondays suelen acompañar a este tiempo verbal.",
+      "ex": [
+        {
+          "en": "I drink coffee every morning.",
+          "mean": "Un hábito diario."
+        },
+        {
+          "en": "Water boils at 100 degrees.",
+          "mean": "Un hecho científico."
+        },
+        {
+          "en": "We play football on Sundays.",
+          "mean": "Una rutina semanal."
+        }
+      ]
+    },
+    {
+      "h": "La regla de la -s",
+      "p": "Con he, she e it, añade -s al verbo: he works, she lives, it rains. Para los verbos que terminan en -ch, -sh, -s, -x u -o, añade -es: watches, goes. Si terminan en consonante + y, cambia la y por -ies: study pasa a ser studies. 'Have' se convierte en 'has'.",
+      "ex": [
+        {
+          "en": "She works in a bank.",
+          "mean": "Decir dónde trabaja una mujer."
+        },
+        {
+          "en": "He watches TV after dinner.",
+          "mean": "El hábito nocturno de un hombre."
+        },
+        {
+          "en": "My sister studies English.",
+          "mean": "Lo que aprende una hermana."
+        }
+      ]
+    },
+    {
+      "h": "Negativas",
+      "p": "Usa don't (do not) con I, you, we y they. Usa doesn't (does not) con he, she e it. Después de don't o doesn't, el verbo no lleva -s.",
+      "ex": [
+        {
+          "en": "I don't eat meat.",
+          "mean": "Decir que nunca comes carne."
+        },
+        {
+          "en": "He doesn't like rain.",
+          "mean": "Decir que a un hombre no le gusta la lluvia."
+        }
+      ]
+    },
+    {
+      "h": "Preguntas",
+      "p": "Empieza la pregunta con Do o Does. De nuevo, el verbo principal no lleva -s. Las respuestas cortas usan do, don't, does o doesn't.",
+      "ex": [
+        {
+          "en": "Do you speak French?",
+          "mean": "Preguntar sobre los idiomas de alguien."
+        },
+        {
+          "en": "Does she live here?",
+          "mean": "Preguntar dónde vive una mujer."
+        },
+        {
+          "en": "No, she doesn't.",
+          "mean": "Una respuesta corta negativa."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "every day",
+      "mean": "cada día"
+    },
+    {
+      "en": "usually",
+      "mean": "la mayor parte del tiempo"
+    },
+    {
+      "en": "always",
+      "mean": "todo el tiempo"
+    },
+    {
+      "en": "never",
+      "mean": "nunca"
+    },
+    {
+      "en": "work",
+      "mean": "hacer un trabajo"
+    },
+    {
+      "en": "live",
+      "mean": "tener tu hogar"
+    },
+    {
+      "en": "don't",
+      "mean": "no"
+    },
+    {
+      "en": "doesn't",
+      "mean": "no"
+    }
+  ],
+  "tip": "Cada vez que uses he, she o it, imagina una pequeña serpiente siseando 'sss' al final del verbo: she work-s, he play-s.",
+  "quiz": [
+    {
+      "ask": "Elige la forma correcta",
+      "en": "She ___ in Madrid.",
+      "choices": [
+        "live",
+        "lives",
+        "living"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la forma correcta",
+      "en": "They ___ tea in the evening.",
+      "choices": [
+        "drinks",
+        "drinking",
+        "drink"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Conviértelo en negativo",
+      "en": "He ___ like coffee.",
+      "choices": [
+        "don't",
+        "doesn't",
+        "not"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Completa la pregunta",
+      "en": "___ you play the guitar?",
+      "choices": [
+        "Do",
+        "Does",
+        "Are"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Elige la ortografía correcta",
+      "en": "My father ___ the news every night.",
+      "choices": [
+        "watchs",
+        "watches",
+        "watch"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Elige la pregunta correcta",
+      "en": "Which question is correct?",
+      "choices": [
+        "Does she works here?",
+        "Do she work here?",
+        "Does she work here?"
+      ],
+      "answer_index": 2
+    }
+  ]
+}
