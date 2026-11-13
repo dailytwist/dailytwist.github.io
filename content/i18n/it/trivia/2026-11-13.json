@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-13",
+  "title": "Quiz Quotidiano di Cultura Generale: 13 Novembre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Quale paese ospita l'antica città di Petra, scavata direttamente in vivaci pareti di arenaria?",
+      "options": [
+        "Siria",
+        "Egitto",
+        "Giordania",
+        "Libano"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Petra fu fondata probabilmente già nel 312 a.C. come capitale dei Nabatei."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è la sostanza naturale più dura secondo la scala della durezza minerale di Mohs?",
+      "options": [
+        "Quarzo",
+        "Topazio",
+        "Diamante",
+        "Corindone"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il diamante ottiene il punteggio massimo di 10 sulla scala di Mohs e può essere scalfito solo da un altro diamante."
+    },
+    {
+      "category": "storia",
+      "question": "In quale anno fu firmata la Magna Carta da Re Giovanni?",
+      "options": [
+        "1066",
+        "1215",
+        "1492",
+        "1776"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La Magna Carta nacque originariamente come trattato di pace tra il re Giovanni, messo alle strette, e un gruppo di baroni ribelli."
+    },
+    {
+      "category": "cinema e pop culture",
+      "question": "Quale film d'animazione include la celebre canzone 'Let It Go'?",
+      "options": [
+        "Oceania",
+        "Ribelle - The Brave",
+        "Rapunzel - L'intreccio della torre",
+        "Frozen"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La canzone 'Let It Go' ha vinto il premio Oscar per la migliore canzone originale nel 2014."
+    },
+    {
+      "category": "cibo",
+      "question": "Il tempeh, un tradizionale prodotto a base di soia originario dell'Indonesia, si ottiene sottoponendo i fagioli di soia a quale processo controllato?",
+      "options": [
+        "Fermentazione",
+        "Distillazione",
+        "M अचार",
+        "Liofilizzazione"
+      ],
+      "answer_index": 0,
+      "fun_fact": "A differenza del tofu, che utilizza latte di soia coagulato, il tempeh usa interi fagioli di soia tenuti insieme da una muffa benefica."
+    },
+    {
+      "category": "animali",
+      "question": "Qual è la principale fonte di cibo per un formichiere?",
+      "options": [
+        "Piccoli roditori",
+        "Formiche tagliafoglie e termiti",
+        "Erbe e arbusti",
+        "Pesci d'acqua dolce"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Un formichiere gigante adulto può consumare fino a 30.000 formiche e termiti in un solo giorno usando la sua lingua lunga e appiccicosa."
+    },
+    {
+      "category": "sport",
+      "question": "Quanti giocatori compongono una normale squadra titolare in campo per ciascuna fazione in una partita di calcio?",
+      "options": [
+        "9",
+        "10",
+        "12",
+        "11"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Ogni squadra deve avere 11 giocatori in campo al momento del calcio d'inizio, compreso un portiere designato."
+    },
+    {
+      "category": "linguaggio",
+      "question": "Qual è il termine grammaticale per una parola o una frase che si legge uguale da sinistra a destra e da destra a sinistra, come 'osso'?",
+      "options": [
+        "Omonimo",
+        "Acronimo",
+        "Sinonimo",
+        "Palindromo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Il palindromo di una sola parola più lungo in inglese standard è spesso considerato 'tattarrattat', coniato da James Joyce."
+    },
+    {
+      "category": "spazio",
+      "question": "Quale pianeta del nostro sistema solare è noto come il 'Pianeta Rosso'?",
+      "options": [
+        "Venere",
+        "Giove",
+        "Marte",
+        "Saturno"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il colore rossastro di Marte è dovuto a un'alta concentrazione di ossido di ferro, ovvero ruggine, sulla sua superficie."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è il gas principale che compone l'atmosfera di Venere?",
+      "options": [
+        "Idrogeno",
+        "Azoto",
+        "Ossigeno",
+        "Anidride carbonica"
+      ],
+      "answer_index": 3,
+      "fun_fact": "L'anidride carbonica costituisce circa il 96,5% dell'atmosfera di Venere, creando un effetto serra galoppante."
+    }
+  ]
+}

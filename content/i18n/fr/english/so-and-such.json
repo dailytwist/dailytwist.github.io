@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-28",
+  "slug": "so-and-such",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🌟",
+  "title": "Utiliser So et Such",
+  "summary": "Apprenez à utiliser « so » et « such » pour rendre votre anglais plus expressif. Vous vous entraînerez à décrire des personnes, des lieux et des choses avec beaucoup plus d'intensité.",
+  "sections": [
+    {
+      "h": "Utiliser « So » avec des adjectifs",
+      "p": "On utilise « so » devant un adjectif pour renforcer son sens. Un adjectif est un mot qui décrit un nom, comme « cold » (froid), « happy » (heureux) ou « expensive » (cher). Vous pouvez utiliser « so » dans vos conversations de tous les jours pour exprimer ce que vous ressentez vraiment face à quelque chose. Par exemple, s'il fait très beau, vous pouvez dire qu'il fait si chaud dehors aujourd'hui.",
+      "ex": [
+        {
+          "en": "The coffee is so hot!",
+          "mean": "The coffee is very hot."
+        },
+        {
+          "en": "She is so nice.",
+          "mean": "She is a very kind person."
+        },
+        {
+          "en": "This film is so boring.",
+          "mean": "This movie is not interesting at all."
+        }
+      ]
+    },
+    {
+      "h": "Utiliser « Such » avec des noms",
+      "p": "On utilise « such » devant un groupe nominal qui contient à la fois un adjectif et un nom. Si le nom est singulier et comptable, on utilise « such a » ou « such an ». Pour les noms pluriels ou indénombrables, on utilise simplement « such » sans « a » ni « an ». Cela vous aide à décrire les choses de manière vivante et claire.",
+      "ex": [
+        {
+          "en": "It is such a nice day.",
+          "mean": "It is a very good day."
+        },
+        {
+          "en": "They are such good friends.",
+          "mean": "They are very good friends."
+        },
+        {
+          "en": "It was such bad weather.",
+          "mean": "The weather was very bad."
+        }
+      ]
+    },
+    {
+      "h": "Comparer So et Such",
+      "p": "La principale différence réside dans ce qui suit immédiatement le mot. Utilisez « so » lorsqu'il y a uniquement un adjectif. Utilisez « such » lorsqu'il y a un nom (accompagné ou non d'un adjectif). Ne mettez jamais « a » ou « an » après « so », mais utilisez toujours « a » ou « an » avec les noms singuliers comptables après « such ».",
+      "ex": [
+        {
+          "en": "The test was so difficult.",
+          "mean": "Only an adjective follows 'so'."
+        },
+        {
+          "en": "It was such a difficult test.",
+          "mean": "A noun phrase follows 'such'."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "so",
+      "mean": "utilisé devant un adjectif"
+    },
+    {
+      "en": "such",
+      "mean": "utilisé devant un nom"
+    },
+    {
+      "en": "adjective",
+      "mean": "un mot qui sert à décrire"
+    },
+    {
+      "en": "noun",
+      "mean": "une personne, un lieu ou une chose"
+    },
+    {
+      "en": "expressive",
+      "mean": "qui exprime une émotion forte"
+    },
+    {
+      "en": "countable",
+      "mean": "des choses que l'on peut compter"
+    },
+    {
+      "en": "uncountable",
+      "mean": "des choses que l'on ne peut pas compter"
+    }
+  ],
+  "tip": "Retenez cette règle toute simple : « So » marche tout seul avec un adjectif, mais « Such » a absolument besoin d'un nom pour lui tenir la main !",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "The cake is ___ delicious!",
+      "choices": [
+        "such",
+        "so",
+        "such a"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "It is ___ beautiful day.",
+      "choices": [
+        "such a",
+        "so",
+        "such"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "They are ___ friendly people.",
+      "choices": [
+        "so",
+        "such a",
+        "such"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "His car is ___ fast.",
+      "choices": [
+        "such",
+        "such a",
+        "so"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "We had ___ great time at the party.",
+      "choices": [
+        "so",
+        "such a",
+        "such"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "The music is ___ loud!",
+      "choices": [
+        "such",
+        "such an",
+        "so"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

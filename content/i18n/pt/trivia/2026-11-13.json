@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-13",
+  "title": "Quiz Diário de Conhecimentos Gerais: 13 de novembro de 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Qual país abriga a antiga cidade de Petra, esculpida diretamente em vibrantes penhascos de arenito?",
+      "options": [
+        "Síria",
+        "Egito",
+        "Jordânia",
+        "Líbano"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Petra foi estabelecida possivelmente já em 312 a.C. como a capital dos nabateus."
+    },
+    {
+      "category": "ciência",
+      "question": "Qual é a substância natural mais dura na escala de dureza mineral de Mohs?",
+      "options": [
+        "Quartzo",
+        "Topázio",
+        "Diamante",
+        "Coríndon"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O diamante pontua o máximo de 10 na escala de Mohs e só pode ser riscado por outro diamante."
+    },
+    {
+      "category": "história",
+      "question": "A Magna Carta foi assinada pelo Rei João em qual ano?",
+      "options": [
+        "1066",
+        "1215",
+        "1492",
+        "1776"
+      ],
+      "answer_index": 1,
+      "fun_fact": "A Magna Carta foi criada originalmente como um tratado de paz entre o acuado Rei João e um grupo de barões rebeldes."
+    },
+    {
+      "category": "filmes e cultura pop",
+      "question": "Qual filme de animação apresenta a icônica música 'Let It Go'?",
+      "options": [
+        "Moana",
+        "Valente",
+        "Enrolados",
+        "Frozen"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A música 'Let It Go' ganhou o Oscar de Melhor Canção Original em 2014."
+    },
+    {
+      "category": "culinária",
+      "question": "O tempeh, um produto tradicional de soja originário da Indonésia, é feito controlando qual processo nos grãos de soja?",
+      "options": [
+        "Fermentação",
+        "Destilação",
+        "Conservação em conserva",
+        "Liofilização"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Ao contrário do tofu, que usa leite de soja coagulado, o tempeh usa grãos de soja inteiros unidos por um mofo benéfico."
+    },
+    {
+      "category": "animais",
+      "question": "Qual é a principal fonte de alimentação de um tamanduá?",
+      "options": [
+        "Pequenos roedores",
+        "Formigas cortadeiras e cupins",
+        "Gramíneas e arbustos",
+        "Peixes de água doce"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Um tamanduá-gigante adulto pode consumir até 30.000 formigas e cupins em um único dia usando sua língua longa e pegajosa."
+    },
+    {
+      "category": "esportes",
+      "question": "Quantos jogadores compõem um time titular padrão em campo para um único lado em uma partida de futebol?",
+      "options": [
+        "9",
+        "10",
+        "12",
+        "11"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Cada equipe deve ter 11 jogadores no gramado no momento do chute inicial, incluindo um goleiro designado."
+    },
+    {
+      "category": "idioma",
+      "question": "Qual é o termo gramatical para uma palavra ou frase que se lê da mesma forma de trás para frente e de frente para trás, como 'arara'?",
+      "options": [
+        "Homônimo",
+        "Acrônimo",
+        "Sinônimo",
+        "Palíndromo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O palíndromo de palavra única mais longo do inglês padrão é frequentemente considerado 'tattarrattat', cunhado por James Joyce."
+    },
+    {
+      "category": "espaço",
+      "question": "Qual planeta do nosso sistema solar é conhecido como o 'Planeta Vermelho'?",
+      "options": [
+        "Vênus",
+        "Júpiter",
+        "Marte",
+        "Saturn"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A cor avermelhada de Marte se deve a uma alta concentração de óxido de ferro, ou ferrugem, em sua superfície."
+    },
+    {
+      "category": "ciência",
+      "question": "Qual é o principal gás que compõe a atmosfera de Vênus?",
+      "options": [
+        "Hidrogênio",
+        "Nitrogênio",
+        "Oxigênio",
+        "Dióxido de carbono"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O dióxido de carbono representa cerca de 96,5% da atmosfera de Vênus, gerando um efeito estufa descontrolado."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-13",
+  "title": "Test de Cultura General Diario: 13 de noviembre de 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "¿Qué país alberga la antigua ciudad de Petra, esculpida directamente en vibrantes acantilados de arenisca?",
+      "options": [
+        "Siria",
+        "Egipto",
+        "Jordania",
+        "Líbano"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Petra fue establecida posiblemente tan pronto como en el 312 a. C. como la capital de los nabateos."
+    },
+    {
+      "category": "science",
+      "question": "¿Cuál es la sustancia natural más dura según la escala de dureza mineral de Mohs?",
+      "options": [
+        "Cuarzo",
+        "Topacio",
+        "Diamante",
+        "Corindón"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El diamante tiene una puntuación máxima de 10 en la escala de Mohs y solo puede ser rayado por otro diamante."
+    },
+    {
+      "category": "history",
+      "question": "¿En qué año fue firmada la Carta Magna por el rey Juan?",
+      "options": [
+        "1066",
+        "1215",
+        "1492",
+        "1776"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La Carta Magna se creó originalmente como un tratado de paz entre el asediado rey Juan y un grupo de barones rebeldes."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "¿Qué película animada incluye la emblemática canción 'Let It Go'?",
+      "options": [
+        "Moana",
+        "Brave",
+        "Tangled",
+        "Frozen"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La canción 'Let It Go' ganó el Óscar a la mejor canción original en 2014."
+    },
+    {
+      "category": "food",
+      "question": "El tempeh, un producto tradicional de soja originario de Indonesia, se elabora controlando qué proceso en los granos de soja?",
+      "options": [
+        "Fermentación",
+        "Destilación",
+        "Encurtido",
+        "Liofilización"
+      ],
+      "answer_index": 0,
+      "fun_fact": "A diferencia del tofu, que utiliza leche de soja coagulada, el tempeh emplea granos de soja enteros unidos por un hongo beneficioso."
+    },
+    {
+      "category": "animals",
+      "question": "¿Cuál es la principal fuente de alimento de un oso hormiguero?",
+      "options": [
+        "Pequeños roedores",
+        "Hormigas cortadoras de hojas y termitas",
+        "Hierbas y arbustos",
+        "Pescado de agua dulce"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Un oso hormiguero gigante adulto puede consumir hasta 30 000 hormigas y termitas en un solo día usando su lengua larga y pegajosa."
+    },
+    {
+      "category": "sports",
+      "question": "¿Cuántos jugadores forman un equipo titular estándar en el campo por un solo bando en un partido de fútbol?",
+      "options": [
+        "9",
+        "10",
+        "12",
+        "11"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Cada equipo debe tener 11 jugadores en el terreno de juego al saque inicial, incluido un portero designado."
+    },
+    {
+      "category": "language",
+      "question": "¿Cuál es el término gramatical para una palabra o frase que se lee igual de izquierda a derecha que de derecha a izquierda, como 'reconocer'?",
+      "options": [
+        "Homónimo",
+        "Acrónimo",
+        "Sinónimo",
+        "Palíndromo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "El palíndromo de una sola palabra más largo en inglés estándar suele considerarse 'tattarrattat', acuñado por James Joyce."
+    },
+    {
+      "category": "space",
+      "question": "¿Qué planeta de nuestro sistema solar se conoce como el 'Planeta Rojo'?",
+      "options": [
+        "Venus",
+        "Júpiter",
+        "Marte",
+        "Saturno"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El color rojizo de Marte se debe a una alta concentración de óxido de hierro, o herrumbre, en su superficie."
+    },
+    {
+      "category": "science",
+      "question": "¿Cuál es el gas principal que compone la atmósfera de Venus?",
+      "options": [
+        "Hidrógeno",
+        "Nitrógeno",
+        "Oxígeno",
+        "Dióxido de carbono"
+      ],
+      "answer_index": 3,
+      "fun_fact": "El dióxido de carbono representa aproximadamente el 96.5% de la atmósfera de Venus, lo que genera un efecto invernadero desbocado."
+    }
+  ]
+}

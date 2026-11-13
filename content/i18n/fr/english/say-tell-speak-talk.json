@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-28",
+  "slug": "say-tell-speak-talk",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "🗣️",
+  "title": "Maîtrisez Say, Tell, Speak et Talk",
+  "summary": "Apprenez à utiliser correctement ces quatre verbes de communication courants. Vous vous sentirez beaucoup plus sûr de vous dans les conversations de tous les jours.",
+  "sections": [
+    {
+      "h": "Say",
+      "p": "On utilise 'say' lorsqu'on rapporte les mots exacts de quelqu'un. On l'emploie généralement lorsqu'il n'y a pas de personne à l'écoute directement après le verbe. Par exemple, you say hello ou you say goodbye. On peut aussi say que quelque chose est vrai, ou say ce que l'on pense.",
+      "ex": [
+        {
+          "en": "She said she was very happy.",
+          "mean": "C'étaient ses mots exacts."
+        },
+        {
+          "en": "Can you say that again, please?",
+          "mean": "Veuillez répéter vos paroles."
+        }
+      ]
+    },
+    {
+      "h": "Tell",
+      "p": "On utilise 'tell' lorsqu'on transmet une information à quelqu'un. Après 'tell', on inclut presque toujours la personne qui écoute, comme 'tell me', 'tell him' ou 'tell the teacher'. On utilise également 'tell' pour les instructions et les histoires, par exemple 'tell a story' ou 'tell a lie'.",
+      "ex": [
+        {
+          "en": "Please tell me the truth.",
+          "mean": "Donne-moi la vraie information."
+        },
+        {
+          "en": "He told us an interesting story.",
+          "mean": "Il a partagé une histoire avec nous."
+        }
+      ]
+    },
+    {
+      "h": "Speak",
+      "p": "On utilise 'speak' pour une communication à sens unique ou pour un registre plus formel. On l'emploie pour parler des langues, comme 'speak English' ou 'speak Spanish'. On utilise aussi 'speak' au téléphone.",
+      "ex": [
+        {
+          "en": "Do you speak French?",
+          "mean": "Pouvez-vous parler en français ?"
+        },
+        {
+          "en": "May I speak to the manager?",
+          "mean": "Je veux parler au patron."
+        }
+      ]
+    },
+    {
+      "h": "Talk",
+      "p": "On utilise 'talk' pour une conversation bilatérale entre deux personnes ou plus. C'est plus familier que 'speak'. Des amis se talk entre eux de leur journée, de leurs problèmes ou de leurs projets.",
+      "ex": [
+        {
+          "en": "We need to talk about our plans.",
+          "mean": "Nous devons avoir une conversation."
+        },
+        {
+          "en": "She likes to talk on the phone.",
+          "mean": "Elle aime bavarder avec des amis."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "say",
+      "mean": "exprimer avec des mots"
+    },
+    {
+      "en": "tell",
+      "mean": "donner une info à quelqu'un"
+    },
+    {
+      "en": "speak",
+      "mean": "utiliser sa voix ou une langue"
+    },
+    {
+      "en": "talk",
+      "mean": "avoir une conversation"
+    },
+    {
+      "en": "truth",
+      "mean": "faits réels"
+    },
+    {
+      "en": "language",
+      "mean": "système de mots"
+    },
+    {
+      "en": "conversation",
+      "mean": "discuter ensemble"
+    },
+    {
+      "en": "listener",
+      "mean": "personne qui écoute"
+    }
+  ],
+  "tip": "Retenez cette règle simple : you tell a PERSON, mais you just say words. Et n'oubliez pas : speak languages !",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "Can you ___ me your name?",
+      "choices": [
+        "say",
+        "tell",
+        "speak"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "She wants to ___ English fluently.",
+      "choices": [
+        "speak",
+        "tell",
+        "say"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "What did he ___ to you?",
+      "choices": [
+        "tell",
+        "say",
+        "talk"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "We sat down and had a nice ___.",
+      "choices": [
+        "say",
+        "speak",
+        "talk"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "Don't forget to ___ goodbye.",
+      "choices": [
+        "say",
+        "tell",
+        "speak"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "Can I ___ to the director, please?",
+      "choices": [
+        "tell",
+        "say",
+        "speak"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-28",
+  "slug": "idioms-everyday",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "🎨",
+  "title": "10 expressions idiomatiques anglaises du quotidien",
+  "summary": "Apprenez 10 expressions idiomatiques anglaises courantes que les natifs utilisent tous les jours. Découvrez leur véritable sens pour parler de façon plus naturelle.",
+  "sections": [
+    {
+      "h": "Couleurs et humeurs",
+      "p": "Les anglophones utilisent souvent les couleurs pour exprimer leurs émotions. Quand on a le moral à zéro, on se sent \"bleu\". Quand on reçoit un cadeau surprise ou une bonne nouvelle inopinée, cela arrive totalement par surprise. Ces expressions hautes en couleur rendent les conversations quotidiennes bien plus vivantes et agréables à écouter.",
+      "ex": [
+        {
+          "en": "I was feeling a bit blue yesterday, so I watched my favorite comedy movie.",
+          "mean": "J'avais un peu le moral à zéro hier, alors j'ai regardé ma comédie préférée."
+        },
+        {
+          "en": "The job offer came out of the blue, and I was so happy.",
+          "mean": "La proposition d'emploi est tombée de nulle part, et j'étais aux anges."
+        },
+        {
+          "en": "She passed her driving test with flying colors.",
+          "mean": "Elle a réussi son permis de conduire haut la main et avec un grand succès."
+        }
+      ]
+    },
+    {
+      "h": "Nourriture et animaux",
+      "p": "La nourriture et les animaux ont la cote dans les expressions anglaises. Si vous stressez avant une grande présentation, vous avez peut-être des papillons dans le ventre. Ou alors, si vous révélez par mégarde un secret qui devait rester caché, vous provoquez un sacré problème pour tout le monde.",
+      "ex": [
+        {
+          "en": "I had butterflies in my stomach before going on stage.",
+          "mean": "J'avais le trac avant de monter sur scène."
+        },
+        {
+          "en": "Who spilled the beans about the surprise party?",
+          "mean": "Qui a vendu la mèche concernant la fête surprise ?"
+        },
+        {
+          "en": "Let's call it a day and go home.",
+          "mean": "Arrêtons de travailler pour aujourd'hui et rentrons à la maison."
+        }
+      ]
+    },
+    {
+      "h": "Action et réussite",
+      "p": "Pour parler du début d'une tâche ou d'une situation délicate, les natifs emploient des tournures axées sur l'action. Au lieu de tourner autour du pot, on vous demandera parfois d'aller droit au but. Quand vous réalisez quelque chose à la perfection, vous tapez dans le mille.",
+      "ex": [
+        {
+          "en": "Stop beating around the bush and tell me what you think.",
+          "mean": "Arrête de tourner autour du pot et dis-moi ce que tu penses."
+        },
+        {
+          "en": "You hit the nail on the head with that guess.",
+          "mean": "Tu as mis dans le mille avec ta description de la situation."
+        },
+        {
+          "en": "Under the weather, I decided to stay in bed.",
+          "mean": "Ne me sentant pas très bien, j'ai décidé de rester au lit."
+        },
+        {
+          "en": "Cost an arm and a leg, but the laptop is great.",
+          "mean": "Cela a coûté les yeux de la tête, mais l'ordinateur portable est génial."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "feel blue",
+      "mean": "avoir le moral à zéro"
+    },
+    {
+      "en": "out of the blue",
+      "mean": "à l'improviste"
+    },
+    {
+      "en": "flying colors",
+      "mean": "un grand succès"
+    },
+    {
+      "en": "butterflies in my stomach",
+      "mean": "avoir le trac"
+    },
+    {
+      "en": "spill the beans",
+      "mean": "vendre la mèche"
+    },
+    {
+      "en": "call it a day",
+      "mean": "arrêter le travail"
+    },
+    {
+      "en": "beat around the bush",
+      "mean": "tourner autour du pot"
+    },
+    {
+      "en": "hit the nail on the head",
+      "mean": "avoir totalement raison"
+    },
+    {
+      "en": "under the weather",
+      "mean": "ne pas être dans son बाउassi"
+    },
+    {
+      "en": "cost an arm and a leg",
+      "mean": "coûter les yeux de la tête"
+    }
+  ],
+  "tip": "Ne traduisez pas les expressions idiomatiques mot à mot dans votre langue maternelle, car elles n'auraient aucun sens. Essayez plutôt d'apprendre la phrase entière comme un tout indissociable.",
+  "quiz": [
+    {
+      "ask": "Choisissez la bonne expression pour dire qu'on a le moral à zéro.",
+      "en": "Lately, John has been feeling ___ because his best friend moved away.",
+      "choices": [
+        "red",
+        "blue",
+        "green"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne expression pour dire qu'on arrête de travailler.",
+      "en": "We have worked for eight hours. Let's ___ and go home.",
+      "choices": [
+        "call it a day",
+        "spill the beans",
+        "hit the nail"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la bonne expression pour dire qu'on vend la mèche.",
+      "en": "Mark accidentally ___ about the holiday destination.",
+      "choices": [
+        "ate the cake",
+        "spilled the beans",
+        "beat the bush"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne expression pour quelque chose qui coûte très cher.",
+      "en": "That new sports car must ___!",
+      "choices": [
+        "be very cheap",
+        "cost an arm and a leg",
+        "fly with colors"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne expression pour dire qu'on a le trac.",
+      "en": "I always get ___ before a job interview.",
+      "choices": [
+        "blue skies",
+        "flying colors",
+        "butterflies in my stomach"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez la bonne expression pour dire qu'on a raison.",
+      "en": "Your explanation of the problem really ___.",
+      "choices": [
+        "hit the nail on the head",
+        "spilled the beans",
+        "felt blue"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

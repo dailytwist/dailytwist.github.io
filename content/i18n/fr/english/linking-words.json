@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-28",
+  "slug": "linking-words",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🌉",
+  "title": "Relier vos idées : les mots de liaison",
+  "summary": "Dans cette leçon, vous apprendrez à relier vos phrases clairement. Nous verrons des mots pour exprimer la cause et l'opposition.",
+  "sections": [
+    {
+      "h": "Exprimer la cause : Because et So",
+      "p": "Nous utilisons 'because' pour donner la raison de quelque chose. Il répond à la question 'pourquoi ?'. Nous utilisons 'so' pour parler de la conséquence d'une action. 'Because' se place avant la cause, tandis que 'so' se place avant le résultat. Ces mots rendent votre expression orale et écrite bien plus naturelle.",
+      "ex": [
+        {
+          "en": "I stayed at home because it was raining.",
+          "mean": "La pluie est la raison pour laquelle je suis resté à la maison."
+        },
+        {
+          "en": "It was raining, so I took an umbrella.",
+          "mean": "Prendre un parapluie est la conséquence de la pluie."
+        }
+      ]
+    },
+    {
+      "h": "Mettre en contraste : Although",
+      "p": "Nous utilisons 'although' pour exprimer un contraste inattendu entre deux idées. Il indique que quelque chose s'est produit malgré une situation difficile. Il se place généralement au début ou au milieu de la phrase.",
+      "ex": [
+        {
+          "en": "Although he was tired, he finished his homework.",
+          "mean": "Il était fatigué, mais il a travaillé quand même."
+        },
+        {
+          "en": "She bought the shoes although they were expensive.",
+          "mean": "Le prix était élevé, mais elle les a achetés quand même."
+        }
+      ]
+    },
+    {
+      "h": "Contrastes formels : However et Therefore",
+      "p": "Des mots comme 'however' et 'therefore' sont souvent utilisés à l'écrit ou dans un registre plus soutenu. 'However' est similaire à 'although' et exprime un contraste. 'Therefore' est similaire à 'so' et exprime un résultat direct. On met généralement une virgule après eux.",
+      "ex": [
+        {
+          "en": "The train was late. However, we arrived on time.",
+          "mean": "Le train en retard a posé un problème, mais nous sommes quand même arrivés assez tôt."
+        },
+        {
+          "en": "He studied very hard; therefore, he passed the exam.",
+          "mean": "Son travail acharné lui a permis de réussir l'examen."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "because",
+      "mean": "donne une raison"
+    },
+    {
+      "en": "so",
+      "mean": "montre un résultat"
+    },
+    {
+      "en": "although",
+      "mean": "exprime un contraste"
+    },
+    {
+      "en": "however",
+      "mean": "néanmoins ou pourtant"
+    },
+    {
+      "en": "therefore",
+      "mean": "pour cette raison"
+    },
+    {
+      "en": "result",
+      "mean": "ce qui se passe ensuite"
+    },
+    {
+      "en": "reason",
+      "mean": "pourquoi quelque chose se produit"
+    }
+  ],
+  "tip": "Essayez d'écrire deux phrases vraies sur votre journée, puis reliez-les en utilisant 'because' ou 'so'. C'est en forgeant qu'on devient forgeron !",
+  "quiz": [
+    {
+      "ask": "Choisissez le bon mot de liaison",
+      "en": "I wore a coat ___ it was very cold outside.",
+      "choices": [
+        "because",
+        "so",
+        "however"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon mot de liaison",
+      "en": "She missed the bus, ___ she was late for work.",
+      "choices": [
+        "although",
+        "so",
+        "because"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon mot de liaison",
+      "en": "___ the test was difficult, he got a good grade.",
+      "choices": [
+        "Therefore",
+        "Because",
+        "Although"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon mot de liaison",
+      "en": "The hotel was old. ___, it was very clean and comfortable.",
+      "choices": [
+        "However",
+        "So",
+        "Because"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon mot de liaison",
+      "en": "They practiced every day; ___, they won the match.",
+      "choices": [
+        "although",
+        "therefore",
+        "however"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne option",
+      "en": "I love cooking, ___ I don't have much free time.",
+      "choices": [
+        "because",
+        "therefore",
+        "although"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

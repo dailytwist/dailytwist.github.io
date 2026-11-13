@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-13",
+  "title": "Tägliches Allgemeinwissen-Quiz: 13. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "In welchem Land befindet sich die antike Stadt Petra, die direkt in leuchtende Sandsteinfelsen gehauen wurde?",
+      "options": [
+        "Syrien",
+        "Ägypten",
+        "Jordanien",
+        "Libanon"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Petra wurde möglicherweise bereits 312 v. Chr. als Hauptstadt der Nabatäer gegründet."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist die härteste natürlich vorkommende Substanz auf der Mohs-Skala der Härte von Mineralien?",
+      "options": [
+        "Quarz",
+        "Topas",
+        "Diamant",
+        "Korund"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Diamant hat auf der Mohs-Skala den Höchstwert von 10 und kann nur von einem anderen Diamanten zerkratzt werden."
+    },
+    {
+      "category": "Geschichte",
+      "question": "In welchem Jahr wurde die Magna Carta von König Johann unterschrieben?",
+      "options": [
+        "1066",
+        "1215",
+        "1492",
+        "1776"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Die Magna Carta wurde ursprünglich als Friedensvertrag zwischen dem in Bedrängnis geratenen König Johann und einer Gruppe rebellischer Barone geschlossen."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "In welchem Animationsfilm ist der legendäre Song 'Let It Go' zu hören?",
+      "options": [
+        "Vaiana",
+        "Merida – Legende der Highlands",
+        "Rapunzel – Neu verföhnt",
+        "Die Eiskönigin – Völlig unverfroren"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Das Lied 'Let It Go' gewann 2014 den Oscar für den besten Filmsong."
+    },
+    {
+      "category": "Essen",
+      "question": "Tempeh, ein traditionelles Sojaprodukt aus Indonesien, wird hergestellt, indem man welchen Prozess bei Sojabohnen kontrolliert?",
+      "options": [
+        "Gärung",
+        "Destillation",
+        "Einlegen",
+        "Gefriertrocknung"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Im Gegensatz zu Tofu, für das geronnene Sojamilch verwendet wird, besteht Tempeh aus ganzen Sojabohnen, die durch einen nützlichen Pilz zusammengehalten werden."
+    },
+    {
+      "category": "Tiere",
+      "question": "Was ist die Hauptnahrungsquelle eines Ameisenbären?",
+      "options": [
+        "Kleine Nagetiere",
+        "Blattschneiderameisen und Termiten",
+        "Gräser und Sträucher",
+        "Süßwasserfische"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Ein ausgewachsener Großer Ameisenbär kann mit seiner langen, klebrigen Zunge an einem einzigen Tag bis zu 30.000 Ameisen und Termiten vertilgen."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Spieler stehen bei einem Fußballspiel pro Mannschaft standardmäßig zu Beginn auf dem Feld?",
+      "options": [
+        "9",
+        "10",
+        "12",
+        "11"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Bei Anpfiff müssen sich 11 Spieler jeder Mannschaft auf dem Spielfeld befinden, darunter ein ausgewiesener Torwart."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie lautet der grammatikalische Begriff für ein Wort oder eine Phrase, die vorwärts und rückwärts gelesen gleich ist, wie zum Beispiel 'Lagerural'?",
+      "options": [
+        "Homonym",
+        "Akronym",
+        "Synonym",
+        "Palindrom"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Das längste Ein-Wort-Palindrom im Standardenglischen gilt oft als 'tattarrattat', erfunden von James Joyce."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Planet in unserem Sonnensystem wird als der 'Rote Planet' bezeichnet?",
+      "options": [
+        "Venus",
+        "Jupiter",
+        "Mars",
+        "Saturn"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Die rötliche Farbe des Mars ist auf eine hohe Konzentration von Eisenoxid oder Rost auf seiner Oberfläche zurückzuführen."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist das Hauptgas, aus dem die Atmosphäre der Venus besteht?",
+      "options": [
+        "Wasserstoff",
+        "Stickstoff",
+        "Sauerstoff",
+        "Kohlenstoffdioxid"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Kohlenstoffdioxid macht etwa 96,5 % der Atmosphäre der Venus aus und erzeugt einen unkontrollierten Treibhauseffekt."
+    }
+  ]
+}
