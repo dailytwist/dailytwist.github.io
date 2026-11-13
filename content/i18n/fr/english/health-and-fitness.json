@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-28",
+  "slug": "health-and-fitness",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "🏃",
+  "title": "Corps sain, esprit sain",
+  "summary": "Dans cette leçon, vous apprendrez des mots utiles pour parler de santé et de forme physique. Vous vous exercerez également à les utiliser dans des conversations de la vie quotidienne.",
+  "sections": [
+    {
+      "h": "Parler d'exercice",
+      "p": "Pour rester forts et en bonne santé, nous devons faire bouger notre corps. L'exercice est un excellent moyen de s'amuser et de se sentir bien. On utilise des expressions comme \"s'entraîner\" pour parler d'aller à la salle de sport ou de faire du sport. Une autre bonne habitude est de \"s'échauffer\" avant de commencer pour ne pas se faire mal aux muscles. Bouger régulièrement nous donne plus d'énergie au quotidien.",
+      "ex": [
+        {
+          "en": "I like to work out at the gym three times a week.",
+          "mean": "Je fais du sport à la salle trois fois par semaine."
+        },
+        {
+          "en": "Always warm up before you start running.",
+          "mean": "Faites des étirements ou des mouvements légers avant de courir pour ne pas vous blesser."
+        }
+      ]
+    },
+    {
+      "h": "Bien se nourrir",
+      "p": "La nourriture est le carburant de notre corps. Pour rester en bonne santé, nous devrions essayer d'avoir une \"alimentation équilibrée\" avec beaucoup de fruits et légumes frais. Boire assez d'eau chaque jour est également très important. Parfois, on a envie de manger de la \"malbouffe\" comme des burgers ou du chocolat, mais il ne faut en consommer que de temps en temps, pas tous les jours.",
+      "ex": [
+        {
+          "en": "Eating a balanced diet helps you stay strong.",
+          "mean": "Manger le bon équilibre d'aliments sains vous garde en forme."
+        },
+        {
+          "en": "Try to drink plenty of water during the day.",
+          "mean": "Buvez beaucoup d'eau tout au long de la journée."
+        }
+      ]
+    },
+    {
+      "h": "Repos et récupération",
+      "p": "Travailler dur, c'est important, mais le repos l'est tout autant pour notre santé. Si vous vous sentez fatigué, vous devez vous \"remettre en forme\" en douceur et ne pas trop forcer sur votre corps. Une bonne nuit de sommeil aide vos muscles à se détendre et donne une pause à votre cerveau pour que vous vous réveilliez frais et dispos.",
+      "ex": [
+        {
+          "en": "You need to rest if your muscles feel sore.",
+          "mean": "Vous devriez faire une pause si votre corps vous fait mal à cause du sport."
+        },
+        {
+          "en": "Sleeping eight hours a night is good for your health.",
+          "mean": "Dormir huit heures par nuit aide à rester en bonne santé."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "work out",
+      "mean": "faire de l'exercice"
+    },
+    {
+      "en": "warm up",
+      "mean": "préparer les muscles"
+    },
+    {
+      "en": "balanced diet",
+      "mean": "alimentation saine et variée"
+    },
+    {
+      "en": "junk food",
+      "mean": "en-cas trop gras ou trop sucrés"
+    },
+    {
+      "en": "sore",
+      "mean": "courbatures"
+    },
+    {
+      "en": "fit",
+      "mean": "en bonne santé et vigoureux"
+    },
+    {
+      "en": "energy",
+      "mean": "énergie pour agir"
+    },
+    {
+      "en": "relax",
+      "mean": "se reposer et se détendre"
+    }
+  ],
+  "tip": "Essayez d'utiliser un nouveau mot de vocabulaire fitness chaque jour lorsque vous parlez de votre routine. Écrire vos objectifs dans un carnet aide également à mieux les mémoriser.",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "I like to ___ at the gym after I finish my work.",
+      "choices": [
+        "sleep",
+        "work out",
+        "eat"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "You should always ___ before you start running so you don't get hurt.",
+      "choices": [
+        "warm up",
+        "sit down",
+        "give up"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "Eating fruit and vegetables is part of a healthy ___.",
+      "choices": [
+        "junk food",
+        "sleep",
+        "balanced diet"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "My legs feel very ___ today because I ran a long way yesterday.",
+      "choices": [
+        "strong",
+        "sore",
+        "happy"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "Burgers and chips are often called ___ food.",
+      "choices": [
+        "junk",
+        "clean",
+        "green"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "Drinking enough water gives you more ___ during the day.",
+      "choices": [
+        "sleep",
+        "energy",
+        "food"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

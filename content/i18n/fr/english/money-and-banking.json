@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-28",
+  "slug": "money-and-banking",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "💳",
+  "title": "Parler d'argent et de banque",
+  "summary": "Apprenez des mots utiles pour gérer votre argent à la banque. Vous vous entraînerez à parler d'épargne, de dépenses et de gestion de comptes.",
+  "sections": [
+    {
+      "h": "Garder votre argent en sécurité",
+      "p": "Quand vous avez de l'argent, vous avez besoin d'un endroit sûr pour le mettre. Une banque est une entreprise qui garde votre argent en sécurité. Vous pouvez ouvrir un compte bancaire, qui est votre espace personnel à la banque. Chaque mois, vous recevez peut-être un relevé bancaire. Il s'agit d'un document papier ou d'un fichier numérique qui récapitule tous vos mouvements d'argent entrants et sortants.",
+      "ex": [
+        {
+          "en": "I need to open a new bank account today.",
+          "mean": "Je veux nouer une nouvelle relation avec une banque pour y garder mon argent."
+        },
+        {
+          "en": "Please check your bank statement to see where your money went.",
+          "mean": "Regardez la liste de vos opérations financières récentes."
+        }
+      ]
+    },
+    {
+      "h": "Déposer et retirer de l'argent",
+      "p": "Quand vous travaillez, votre employeur vous donne de l'argent. Vous pouvez déposer cet argent sur votre compte, ce qui signifie que vous le placez. Lorsque vous avez besoin d'espèces pour acheter de la nourriture ou des vêtements, vous pouvez retirer de l'argent, ce qui signifie que vous le sortez de votre compte à l'aide d'un DAB ou en vous adressant à un caissier.",
+      "ex": [
+        {
+          "en": "I will deposit my paycheck into my savings account.",
+          "mean": "Je vais placer l'argent que j'ai gagné à la banque."
+        },
+        {
+          "en": "I need to withdraw some cash for the bus.",
+          "mean": "Je dois retirer de l'argent liquide au distributeur automatique."
+        }
+      ]
+    },
+    {
+      "h": "Épargner pour l'avenir",
+      "p": "C'est toujours une bonne idée de mettre un peu d'argent de côté pour plus tard. C'est ce qu'on appelle l'épargne. Vous pouvez placer l'argent excédentaire sur un compte d'épargne. Parfois, la banque vous verse un petit extra en récompense d'avoir laissé votre argent chez elle. Cet argent supplémentaire s'appelle les intérêts.",
+      "ex": [
+        {
+          "en": "I am trying to save money for a nice holiday.",
+          "mean": "Je garde mon argent au lieu de le dépenser tout de suite."
+        },
+        {
+          "en": "This account gives me a good rate of interest.",
+          "mean": "La banque me verse un petit supplément pour l'utilisation de leur compte."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "bank account",
+      "mean": "espace personnel dans une banque"
+    },
+    {
+      "en": "deposit",
+      "mean": "déposer de l'argent"
+    },
+    {
+      "en": "withdraw",
+      "mean": "retirer de l'argent"
+    },
+    {
+      "en": "savings account",
+      "mean": "compte pour mettre de l'argent de côté"
+    },
+    {
+      "en": "bank statement",
+      "mean": "liste des opérations financières"
+    },
+    {
+      "en": "interest",
+      "mean": "argent supplémentaire de la banque"
+    },
+    {
+      "en": "ATM",
+      "mean": "distributeur automatique de billets"
+    }
+  ],
+  "tip": "Essayez de coller des étiquettes avec des mots bancaires en anglais sur les objets autour de vous, comme écrire 'ATM' sur une image de distributeur pour vous en souvenir facilement.",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "I need to ___ some money out of the machine to buy lunch.",
+      "choices": [
+        "deposit",
+        "withdraw",
+        "save"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "She wants to open a new ___ at the local bank.",
+      "choices": [
+        "bank account",
+        "ATM",
+        "statement"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "Every month, I look at my ___ to see my spending.",
+      "choices": [
+        "interest",
+        "cash",
+        "bank statement"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "I will ___ my paycheck into the bank this afternoon.",
+      "choices": [
+        "deposit",
+        "withdraw",
+        "borrow"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "The bank pays me a little ___ on the money I keep there.",
+      "choices": [
+        "statement",
+        "interest",
+        "account"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "I need to find an ___ to get some paper money.",
+      "choices": [
+        "account",
+        "interest",
+        "ATM"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

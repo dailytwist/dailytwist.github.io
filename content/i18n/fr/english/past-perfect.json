@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-28",
+  "slug": "past-perfect",
+  "cefr": "B2",
+  "cat": "grammar",
+  "emoji": "⏳",
+  "title": "Parler du passé : Le plus-que-parfait",
+  "summary": "Dans cette leçon, vous apprendrez à parler d'une action qui s'est produite avant une autre dans le passé. Cela vous aide à montrer l'ordre exact des événements passés.",
+  "sections": [
+    {
+      "h": "Qu'est-ce que le plus-que-parfait ?",
+      "p": "Nous utilisons le plus-que-parfait lorsque nous parlons du passé et que nous voulons remonter encore plus loin dans le temps. Il se forme avec 'had' suivi du participe passé du verbe principal. Pour les verbes réguliers, celui-ci se termine par -ed. Pour les verbes irréguliers, il s'agit d'une forme spécifique comme 'gone', 'seen' ou 'eaten'. Ce temps aide les auditeurs à comprendre quelle action passée s'est produite en premier.",
+      "ex": [
+        {
+          "en": "When I arrived at the station, the train had already left.",
+          "mean": "Le train est parti en premier. Je suis arrivé en deuxième."
+        },
+        {
+          "en": "She was tired because she had worked all day.",
+          "mean": "Elle a travaillé en premier, puis elle s'est sentie fatiguée."
+        }
+      ]
+    },
+    {
+      "h": "Comment former des phrases",
+      "p": "Pour faire une phrase affirmative, utilisez 'had' avec la troisième forme du verbe pour tous les sujets. Pour les phrases négatives, ajoutez 'not' après 'had' pour obtenir 'hadn't'. Pour poser des questions, placez 'had' au début de la phrase, avant le sujet. Le verbe principal reste toujours sous sa forme de participe passé dans tous ces types de phrases.",
+      "ex": [
+        {
+          "en": "We hadn't eaten lunch yet, so we ordered a pizza.",
+          "mean": "Nous n'avions pas mangé avant de commander de la nourriture."
+        },
+        {
+          "en": "Had you visited Paris before your trip last year?",
+          "mean": "Étiez-vous allés à Paris plus tôt ?"
+        }
+      ]
+    },
+    {
+      "h": "Utiliser le prétérit et le plus-que-parfait ensemble",
+      "p": "Nous utilisons souvent le prétérit et le plus-que-parfait dans la même phrase. Le prétérit correspond à l'action la plus récente, et le plus-que-parfait à l'action la plus ancienne. Des mots comme 'when', 'before' et 'after' nous aident à relier ces deux événements en toute fluidité pour que notre interlocuteur comprenne clairement la chronologie.",
+      "ex": [
+        {
+          "en": "After I had finished my homework, I went outside to play.",
+          "mean": "Les devoirs ont été terminés en premier, puis le jeu a commencé."
+        },
+        {
+          "en": "He didn't recognize her because she had changed her hair.",
+          "mean": "Ses cheveux avaient changé avant, si bien qu'il ne l'a pas reconnue plus tard."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "had",
+      "mean": "verbe auxiliaire du passé"
+    },
+    {
+      "en": "past participle",
+      "mean": "troisième forme du verbe"
+    },
+    {
+      "en": "earlier",
+      "mean": "antérieur dans le temps"
+    },
+    {
+      "en": "timeline",
+      "mean": "ordre des événements"
+    },
+    {
+      "en": "hadn't",
+      "mean": "n'avait pas"
+    },
+    {
+      "en": "already",
+      "mean": "avant maintenant"
+    },
+    {
+      "en": "yet",
+      "mean": "jusqu'à présent"
+    }
+  ],
+  "tip": "Considérez le plus-que-parfait comme une machine à remonter le temps qui vous ramène un peu plus loin dans le passé. Demandez-vous toujours : « Laquelle de ces deux choses s'est produite en premier ? »",
+  "quiz": [
+    {
+      "ask": "Choisissez la bonne forme verbale",
+      "en": "By the time we got to the cinema, the movie ___ started.",
+      "choices": [
+        "had",
+        "has",
+        "have",
+        "was"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la bonne forme négative",
+      "en": "She was hungry because she ___ eaten anything all day.",
+      "choices": [
+        "had",
+        "hadn't",
+        "hasn't",
+        "didn't"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon mot interrogatif",
+      "en": "___ you locked the door before you left the house?",
+      "choices": [
+        "Did",
+        "Have",
+        "Had",
+        "Were"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon participe passé",
+      "en": "They ___ never seen snow before they moved to Canada.",
+      "choices": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon mot pour la chronologie",
+      "en": "I knew the city well because I ___ lived there for five years.",
+      "choices": [
+        "had",
+        "have",
+        "did",
+        "was"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la bonne fin de phrase",
+      "en": "When the teacher walked in, the students ___ stopped talking.",
+      "choices": [
+        "have",
+        "did",
+        "had",
+        "are"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-28",
+  "slug": "environment",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "🌳",
+  "title": "Parler de la nature et de l'environnement",
+  "summary": "Dans cette leçon, vous apprendrez des mots anglais utiles pour parler de la nature et de notre planète. Vous vous exercerez également à utiliser ces mots dans des conversations de tous les jours.",
+  "sections": [
+    {
+      "h": "Protéger la nature",
+      "p": "Lorsque nous parlons de sauver notre planète, nous employons souvent des mots comme « protéger » et « recycler ». Protéger la nature, c'est mettre les animaux et les plantes à l'abri du danger. Recycler, c'est transformer de vieux objets comme du papier ou du plastique en de nouveaux articles pour éviter le gaspillage. Ces gestes contribuent à garder notre environnement propre et sain pour tout le monde.",
+      "ex": [
+        {
+          "en": "We must protect local wildlife in our forests.",
+          "mean": "Nous devons assurer la sécurité des animaux et des oiseaux."
+        },
+        {
+          "en": "I always recycle my glass and plastic bottles.",
+          "mean": "Je mets les vieilles bouteilles dans des bacs spéciaux pour en fabriquer de nouvelles."
+        }
+      ]
+    },
+    {
+      "h": "Énergie et déchets",
+      "p": "Chaque jour, nous consommons de l'énergie et produisons des déchets. Pour aider la Terre, nous devrions tâcher d'économiser l'énergie en éteignant les lumières en quittant une pièce. Nous devrions aussi essayer de réduire nos déchets plastiques en utilisant des sacs réutilisables lors de nos courses. De petits changements au quotidien font une grande différence pour notre planète.",
+      "ex": [
+        {
+          "en": "Please turn off the lights to save energy.",
+          "mean": "Arrêtez d'utiliser de l'électricité lorsque vous n'en avez pas besoin."
+        },
+        {
+          "en": "She uses a reusable shopping bag every day.",
+          "mean": "Elle utilise le même sac plusieurs fois au lieu d'en acheter de nouveaux en plastique."
+        }
+      ]
+    },
+    {
+      "h": "Air et eau purs",
+      "p": "L'air et l'eau propres sont essentiels pour tous les êtres vivants. La pollution causée par les voitures et les usines peut salir l'air et nuire à notre santé. Planter des arbres aide à purifier l'air naturellement. Nous devons aussi veiller à garder nos rivières et nos océans propres en évitant d'y jeter des déchets.",
+      "ex": [
+        {
+          "en": "Planting trees helps to clean our air.",
+          "mean": "De nouveaux arbres rendent l'air plus respirable."
+        },
+        {
+          "en": "We need to stop plastic pollution in the ocean.",
+          "mean": "Nous devons cesser de jeter du plastique dans la mer."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "environment",
+      "mean": "le monde naturel"
+    },
+    {
+      "en": "protect",
+      "mean": "garder en sécurité"
+    },
+    {
+      "en": "recycle",
+      "mean": "réutiliser de vieux matériaux"
+    },
+    {
+      "en": "pollution",
+      "mean": "de l'air ou de l'eau pollués"
+    },
+    {
+      "en": "save energy",
+      "mean": "consommer moins d'électricité"
+    },
+    {
+      "en": "rubbish",
+      "mean": "déchets ou ordures"
+    },
+    {
+      "en": "wildlife",
+      "mean": "les animaux et les plantes"
+    },
+    {
+      "en": "reusable",
+      "mean": "qui peut servir à nouveau"
+    }
+  ],
+  "tip": "Essayez de coller des notes autocollantes sur trois objets de votre chambre pour y inscrire leur nom en anglais en lien avec la nature. Les voir tous les jours vous aidera à les retenir plus vite !",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "We put plastic bottles in a special bin to ___ them.",
+      "choices": [
+        "waste",
+        "recycle",
+        "pollute"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "Smoke from cars and factories causes air ___.",
+      "choices": [
+        "pollution",
+        "wildlife",
+        "energy"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "It is important to ___ animals and plants in the forest.",
+      "choices": [
+        "harm",
+        "drop",
+        "protect"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "Turn off the lights when you leave to ___ energy.",
+      "choices": [
+        "save",
+        "burn",
+        "waste"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "Please do not drop your ___ on the ground; use the bin.",
+      "choices": [
+        "nature",
+        "rubbish",
+        "air"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "Using a ___ bag helps us stop buying new plastic bags.",
+      "choices": [
+        "dirty",
+        "broken",
+        "reusable"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

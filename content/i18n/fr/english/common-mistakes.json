@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-28",
+  "slug": "common-mistakes",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "💡",
+  "title": "Arrêtez de faire ces 3 erreurs courantes !",
+  "summary": "Dans cette courte leçon, vous apprendrez à éviter trois erreurs très fréquentes en anglais. À la fin, vous parlerez et écrirez de manière plus claire.",
+  "sections": [
+    {
+      "h": "Dire « I am agree » au lieu de « I agree »",
+      "p": "Beaucoup d'élèves pensent que « agree » est un adjectif comme « happy », et disent donc « I am agree ». Mais « agree » est un verbe. En anglais, on n'utilise pas le verbe « to be » avant « agree ». Dites simplement « I agree » lorsque vous partagez l'avis de quelqu'un d'autre.",
+      "ex": [
+        {
+          "en": "I agree with your idea.",
+          "mean": "Je suis du même avis que vous."
+        },
+        {
+          "en": "Do you agree?",
+          "mean": "Êtes-vous du même avis ?"
+        }
+      ]
+    },
+    {
+      "h": "Confondre « borrow » et « lend »",
+      "p": "Ces deux mots sont très faciles à mélanger. Lorsque vous prenez quelque chose à quelqu'un pour l'utiliser et le rendre plus tard, vous l'empruntez (borrow). Lorsque vous donnez quelque chose à quelqu'un pour une courte durée, vous le prêtez (lend). Rappelez-vous : borrow prend, lend donne.",
+      "ex": [
+        {
+          "en": "Can I borrow your pen?",
+          "mean": "Est-ce que je peux prendre ton stylo et te le rendre plus tard ?"
+        },
+        {
+          "en": "Can you lend me ten dollars?",
+          "mean": "Peux-tu me prêter dix dollars pour un court moment ?"
+        }
+      ]
+    },
+    {
+      "h": "Confondre « fun » et « funny »",
+      "p": "On utilise souvent ces mots pour la même chose, mais ils sont différents. « Funny » signifie que quelque chose vous fait rire, comme une bonne blague. « Fun » signifie qu'une activité est agréable et que vous aimez la faire.",
+      "ex": [
+        {
+          "en": "That comedy movie was very funny.",
+          "mean": "Le film m'a beaucoup fait rire."
+        },
+        {
+          "en": "Learning English is fun.",
+          "mean": "Apprendre l'anglais est une activité agréable."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "agree",
+      "mean": "être du même avis"
+    },
+    {
+      "en": "borrow",
+      "mean": "prendre pour utiliser et rendre"
+    },
+    {
+      "en": "lend",
+      "mean": "donner pour une courte durée"
+    },
+    {
+      "en": "fun",
+      "mean": "agréable"
+    },
+    {
+      "en": "funny",
+      "mean": "qui fait rire"
+    },
+    {
+      "en": "opinion",
+      "mean": "ce que vous pensez"
+    },
+    {
+      "en": "mistake",
+      "mean": "quelque chose fait de travers"
+    }
+  ],
+  "tip": "Fabriquez des cartes mémos avec les paires correctes d'un côté et votre langue maternelle de l'autre. Révisez-les pendant cinq minutes chaque jour.",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "I ___ with you completely.",
+      "choices": [
+        "am agree",
+        "agree",
+        "am agreeing"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "Can I ___ your umbrella today?",
+      "choices": [
+        "borrow",
+        "lend",
+        "give"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "Please ___ me your jacket for the evening.",
+      "choices": [
+        "borrow",
+        "lend",
+        "take"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "The clown at the party was very ___.",
+      "choices": [
+        "fun",
+        "funny",
+        "boring"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "We had a lot of ___ at the beach yesterday.",
+      "choices": [
+        "funny",
+        "fun",
+        "laughed"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Trouvez l'erreur dans cette phrase : « She am agree with the plan. »",
+      "en": "She am agree with the plan.",
+      "choices": [
+        "Change 'am' to 'is'",
+        "Remove 'am'",
+        "Change 'agree' to 'agrees'"
+      ],
+      "answer_index": 1
+    }
+  ]
+}
