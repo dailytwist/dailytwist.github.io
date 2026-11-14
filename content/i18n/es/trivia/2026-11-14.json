@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-14",
+  "title": "Desafío de Trivia Diario: 14 de noviembre de 2026",
+  "questions": [
+    {
+      "category": "Geografía",
+      "question": "¿Qué país cuenta con el mayor número de zonas horarias en su territorio nacional y dependencias?",
+      "options": [
+        "Francia",
+        "Reino Unido",
+        "Estados Unidos",
+        "Rusia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Francia abarca 12 zonas horarias diferentes a nivel mundial debido a sus numerosas regiones y territorios de ultramar."
+    },
+    {
+      "category": "Ciencia",
+      "question": "¿Cuál es el único metal que se encuentra en estado líquido a temperatura y presión ambiente estándar?",
+      "options": [
+        "Bismuto",
+        "Mercurio",
+        "Galio",
+        "Cesio"
+      ],
+      "answer_index": 1,
+      "fun_fact": "El mercurio tiene un punto de fusión muy bajo, de aproximadamente -38.83 grados Celsius, lo que lo hace líquido en condiciones normales."
+    },
+    {
+      "category": "Historia",
+      "question": "¿En qué año se promulgó el famoso Edicto de Milán, que proclamó la tolerancia religiosa en el Imperio Romano?",
+      "options": [
+        "395 d. C.",
+        "313 d. C.",
+        "476 d. C.",
+        "212 d. C."
+      ],
+      "answer_index": 1,
+      "fun_fact": "Los emperadores Constantino I el Grande y Licinio emitieron el Edicto de Milán para legalizar oficialmente el cristianismo en todo el Imperio Romano."
+    },
+    {
+      "category": "Cine y cultura pop",
+      "question": "¿Qué película de Steven Spielberg de 1993 ostenta el récord de haber ganado más premios Óscar sin haberse llevado el galardón a la Mejor Película?",
+      "options": [
+        "En busca del arca perdida",
+        "Jurassic Park",
+        "Rescatando al soldado Ryan",
+        "La lista de Schindler"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Jurassic Park ganó tres Óscar por logros técnicos en sonido y efectos visuales durante la ceremonia de 1994."
+    },
+    {
+      "category": "Gastronomía",
+      "question": "El azafrán, la especia más cara del mundo por peso, se cosecha de qué parte específica de la flor del azafrán?",
+      "options": [
+        "Bulbos",
+        "Estambres",
+        "Pétalos",
+        "Estigmas"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Se necesitan aproximadamente 75,000 flores de azafrán, cosechadas enteramente a mano, para producir apenas una sola libra de hebras de azafrán."
+    },
+    {
+      "category": "Animales",
+      "question": "¿Qué adaptación física única ayuda a los camellos a evitar que la arena entre en sus ojos durante las tormentas en el desierto?",
+      "options": [
+        "La capacidad de cerrar sus párpados por completo",
+        "Dobles filas de pestañas entrelazadas",
+        "Glándulas que secretan un aceite protector",
+        "Terceros párpados transparentes"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Los camellos tienen dobles filas de pestañas excepcionalmente largas y espesas que actúan como una barrera física natural contra la arena del desierto impulsada por el viento."
+    },
+    {
+      "category": "Deportes",
+      "question": "En el deporte del curling, ¿cuál es el término oficial para la pesada piedra de granito que utilizan los jugadores?",
+      "options": [
+        "Bowl",
+        "Rock",
+        "Pebble",
+        "Puck"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Las piedras de curling se tallan tradicionalmente a partir de un tipo específico de granito raro que solo se encuentra en Ailsa Craig, una isla frente a la costa de Escocia."
+    },
+    {
+      "category": "Lenguaje",
+      "question": "¿Cuál es el término lingüístico para las palabras que se escriben exactamente igual pero tienen diferentes significados y origenes, como 'vino' (del verbo venir) y 'vino' (la bebida)?",
+      "options": [
+        "Homógrafos",
+        "Sinónimos",
+        "Acrónimos",
+        "Homófonos"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Los homógrafos comparten una ortografía idéntica, aunque puedan o no pronunciarse de la misma manera."
+    },
+    {
+      "category": "Espacio",
+      "question": "¿Qué nave espacial ostenta el récord de ser el objeto creado por el ser humano que se encuentra más lejos de la Tierra?",
+      "options": [
+        "Voyager 1",
+        "Voyager 2",
+        "New Horizons",
+        "Pioneer 10"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Lanzada en 1977, la Voyager 1 cruzó la heliopausa hacia el espacio interestelar en 2012 y continúa transmitiendo datos."
+    },
+    {
+      "category": "Geografía",
+      "question": "¿Qué notable fracción del agua dulce superficial no congelada del mundo contiene el lago Baikal en Siberia?",
+      "options": [
+        "Alrededor del 20%",
+        "Alrededor del 1%",
+        "Alrededor del 5%",
+        "Alrededor del 50%"
+      ],
+      "answer_index": 0,
+      "fun_fact": "A pesar de albergar aproximadamente una quinta parte del agua dulce líquida superficial del planeta, el lago Baikal es también el lago más profundo de la Tierra."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-27",
+  "slug": "phrasal-verbs-everyday",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "🚀",
+  "title": "15 verbes à particules indispensables au quotidien",
+  "summary": "Apprenez 15 verbes à particules couramment utilisés par les anglophones tous les jours. Améliorez votre aisance en anglais grâce à des exemples simples.",
+  "sections": [
+    {
+      "h": "La routine du matin",
+      "p": "Les verbes à particules associent un verbe à une petite particule comme up ou out. Ils modifient complètement le sens du verbe principal. Lorsque vous commencez votre journée, vous devez sortir de votre lit, arrêter de dormir et vous habiller. Ces actions du quotidien utilisent des verbes à particules simples que vous entendrez sans cesse lors de conversations informelles.",
+      "ex": [
+        {
+          "en": "I usually get up at seven o'clock in the morning.",
+          "mean": "Quitter son lit après avoir dormi"
+        },
+        {
+          "en": "Please wake up, it is time for breakfast.",
+          "mean": "Se réveiller et ouvrir les yeux"
+        },
+        {
+          "en": "Hurry up and put on your jacket!",
+          "mean": "S'habiller rapidement"
+        }
+      ]
+    },
+    {
+      "h": "Trouver et abandonner",
+      "p": "Quand vous perdez quelque objet chez vous, vous devez le chercher jusqu'à le retrouver. Parfois, les tâches sont trop difficiles et on a envie de baisser les bras. Pourtant, il est important de continuer et de ne jamais abandonner ! Apprendre ces expressions utiles vous aidera à parler des petits tracas et des réussites de tous les jours.",
+      "ex": [
+        {
+          "en": "I am looking for my keys in the living room.",
+          "mean": "Chercher quelque chose que l'on a perdu"
+        },
+        {
+          "en": "Never give up when learning a new language.",
+          "mean": "Abandonner parce que c'est trop difficile"
+        },
+        {
+          "en": "Please turn off the lights before you leave.",
+          "mean": "Éteindre un appareil ou une lumière"
+        }
+      ]
+    },
+    {
+      "h": "Maison et amis",
+      "p": "On utilise souvent des verbes à particules pour parler de notre foyer et de notre vie sociale. Vous pourriez avoir besoin de vous occuper d'un animal de compagnie, de noter un numéro de téléphone ou de jeter de vieux papiers à la poubelle. Ces expressions naturelles rendront votre anglais beaucoup plus fluide et authentique.",
+      "ex": [
+        {
+          "en": "Can you look after my cat this weekend?",
+          "mean": "Prendre soin de quelqu'un ou de quelque chose"
+        },
+        {
+          "en": "Write down your new address on this paper.",
+          "mean": "Noter des informations avec un stylo"
+        },
+        {
+          "en": "Throw away that old box in the kitchen.",
+          "mean": "Mettre des déchets à la poubelle"
+        }
+      ]
+    },
+    {
+      "h": "Rencontres et formalités",
+      "p": "Enfin, penchons-nous sur les verbes liés aux événements sociaux et aux informations. Il vous arrivera peut-être de croiser un vieux camarade par hasard au supermarché, ou de remplir un formulaire avec vos informations personnelles. Connaître ces derniers verbes à particules complètera votre vocabulaire quotidien de base.",
+      "ex": [
+        {
+          "en": "I ran into my teacher at the shop yesterday.",
+          "mean": "Croiser quelqu'un par hasard"
+        },
+        {
+          "en": "Please fill out this form with your name.",
+          "mean": "Remplir un document avec des informations"
+        },
+        {
+          "en": "Turn on the TV to watch the news.",
+          "mean": "Allumer un appareil ou une lumière"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "get up",
+      "mean": "sortir du lit"
+    },
+    {
+      "en": "wake up",
+      "mean": "se réveiller"
+    },
+    {
+      "en": "put on",
+      "mean": "s'habiller"
+    },
+    {
+      "en": "look for",
+      "mean": "chercher"
+    },
+    {
+      "en": "give up",
+      "mean": "abandonner"
+    },
+    {
+      "en": "turn off",
+      "mean": "éteindre un appareil"
+    },
+    {
+      "en": "look after",
+      "mean": "prendre soin de"
+    },
+    {
+      "en": "write down",
+      "mean": "noter sur papier"
+    },
+    {
+      "en": "throw away",
+      "mean": "jeter à la poubelle"
+    },
+    {
+      "en": "run into",
+      "mean": "croiser par hasard"
+    }
+  ],
+  "tip": "Ne les apprenez pas comme des mots isolés. Apprenez chaque verbe à particules dans une vraie phrase qui concerne votre propre routine quotidienne.",
+  "quiz": [
+    {
+      "ask": "Choisissez le bon verbe à particules",
+      "en": "I need to ___ my keys because I cannot find them anywhere.",
+      "choices": [
+        "look for",
+        "give up",
+        "get up"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon verbe à particules",
+      "en": "Please ___ your warm coat because it is very cold outside.",
+      "choices": [
+        "turn off",
+        "put on",
+        "throw away"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon verbe à particules",
+      "en": "Do not ___! You can learn English if you practice every day.",
+      "choices": [
+        "look after",
+        "wake up",
+        "give up"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon verbe à particules",
+      "en": "Can you ___ the lights when you leave the room?",
+      "choices": [
+        "turn off",
+        "run into",
+        "write down"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon verbe à particules",
+      "en": "I want to ___ my dog while I am at work.",
+      "choices": [
+        "fill out",
+        "look after",
+        "get up"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon verbe à particules",
+      "en": "Please ___ this information on a piece of paper.",
+      "choices": [
+        "throw away",
+        "put on",
+        "write down"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

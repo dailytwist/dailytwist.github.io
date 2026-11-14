@@ -1,0 +1,60 @@
+{
+  "title": "À la découverte du Colorado : géographie, culture et histoire",
+  "description": "Explorez l'État du Centenaire grâce à notre guide intemporel sur la géographie, la riche histoire, la culture et les monuments naturels emblématiques du Colorado.",
+  "category": "Travel",
+  "sections": [
+    {
+      "heading": "Introduction à l'État du Centenaire",
+      "paragraphs": [
+        "Le Colorado, souvent surnommé l'État du Centenaire en raison de son entrée dans l'Union 100 ans tout pile après la signature de la Déclaration d'indépendance, est une destination marquée par des paysages spectaculaires. Situé dans la sous-région de l'Ouest intermountain aux États-Unis, il est célèbre pour sa topographie saisissante, qui englobe de vastes plaines, des déserts arides, des canyons profonds et des chaînes de montagnes vertigineuses.",
+        "La capitale et ville la plus peuplée est Denver, située exactement à un mile au-dessus du niveau de la mer, ce qui lui vaut le célèbre surnom de « The Mile High City ». Le Colorado attire chaque année des millions de visiteurs et de nouveaux résidents séduits par sa beauté naturelle, son effervescence culturelle et sa réputation d'État propice à un mode de vie actif et tourné vers l'extérieur."
+      ]
+    },
+    {
+      "heading": "La majesté des montagnes Rocheuses",
+      "paragraphs": [
+        "L'élément géographique majeur du Colorado est la chaîne des Rocheuses, qui traverse l'État du nord au sud. La Ligne de partage des eaux (Continental Divide) longe la crête de ces montagnes, déterminant l'écoulement des rivières vers l'océan Atlantique ou l'océan Pacifique.",
+        "Le Colorado abrite la plus forte concentration de « fourteeners » – des sommets dépassant les 14 000 pieds d'altitude – aux États-Unis, avec pas moins de 58 sommets de ce type. Parmi eux se trouve le mont Elbert, le point culminant des Rocheuses, qui s'élève à 14 440 pieds. Ce relief accidenté fait de l'État une destination mondiale incontournable pour l'alpinisme, la randonnée, l'escalade et les sports d'hiver."
+      ]
+    },
+    {
+      "heading": "Une riche histoire entre peuples autochtones et pionniers",
+      "paragraphs": [
+        "Bien avant de devenir un territoire puis un État en 1876, le Colorado a abrité de nombreux peuples autochtones, notamment les nations Ute, Cheyenne, Arapaho et Pueblo, dont beaucoup ont légué un remarquable patrimoine architectural, à l'image des habitations troglodytes de Mesa Verde.",
+        "La région a connu un bouleversement culturel et économique majeur lors de la ruée vers l'or de Pike's Peak en 1859, qui a attiré des dizaines de milliers de prospecteurs dans la région, résumés par le célèbre slogan « Pike's Peak or Bust » (Pike's Peak ou rien). Cet afflux a considérablement accéléré la colonisation, fondé de nombreuses villes minières de montagne et posé les bases des réseaux de transport et de chemin de fer modernes qui sillonnent l'État aujourd'hui."
+      ]
+    },
+    {
+      "heading": "Écosystèmes diversifiés et parcs nationaux",
+      "paragraphs": [
+        "Malgré sa réputation de sommets alpins enneigés, le Colorado affiche une diversité écologique remarquable. L'État compte quatre parcs nationaux : le parc national de Rocky Mountain, le parc national de Mesa Verde, le parc et réserve nationale des Great Sand Dunes, ainsi que le parc national de Black Canyon of the Gunnison.",
+        "Des dunes de sable géantes surplombées par des montagnes enneigées dans le sud jusqu'aux gorges profondes aux parois abruptes creusées par la rivière Gunnison, ces terres protégées mettent en valeur une grande variété de faune et de flore. Les visiteurs peuvent y croiser une faune sauvage allant des élans et des mouflons d'Amérique aux ours noirs et aux pumas, et ce, à travers ces habitats très variés."
+      ]
+    },
+    {
+      "heading": "Culture, gastronomie et économie",
+      "paragraphs": [
+        "La culture du Colorado est un savoureux mélange de tradition de l'Ouest américain et d'innovation moderne. Des villes comme Boulder, Colorado Springs et Fort Collins font office de pôles technologiques, éducatifs et artistiques, tandis que les bourgs historiques ont su préserver leur architecture du XIXe siècle et leur charme hérité de l'époque minière.",
+        "La scène culinaire fait la part belle aux produits locaux, notamment la truite des montagnes Rocheuses, les pêches de Palisade, le maïs sucré d'Olathe et les piments verts, qui constituent la base de la cuisine régionale aux fortes influences du Sud-Ouest. La brasserie artisanale y a également connu un essor fulgurant, faisant de l'État l'un des principaux producteurs de bière artisanale indépendante du pays."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "Pourquoi appelle-t-on le Colorado l'État du Centenaire ?",
+      "a": "Colorado received its nickname because it was admitted to the United States as the 38th state in 1876, exactly 100 years after the signing of the Declaration of Independence in 1776."
+    },
+    {
+      "q": "Qu'est-ce qu'un « fourteener » au Colorado ?",
+      "a": "A fourteener is a mountain peak that rises at least 14,000 feet above sea level. Colorado is home to 58 of these majestic peaks, attracting hikers and climbers from around the world."
+    },
+    {
+      "q": "À quelle altitude se trouve Denver, au Colorado ?",
+      "a": "Denver is officially known as the 'Mile High City' because its elevation is exactly one mile, or 5,280 feet, above sea level."
+    }
+  ],
+  "slug": "discover-colorado-geography-culture-and-history",
+  "date": "2026-11-14",
+  "topic": "colorado",
+  "trending": true
+}

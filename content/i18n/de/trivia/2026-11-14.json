@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-14",
+  "title": "Tägliche Quiz-Herausforderung: 14. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches Land weist auf seinem Staatsgebiet und in seinen abhängigen Gebieten die meisten Zeitzonen auf?",
+      "options": [
+        "Frankreich",
+        "Vereinigtes Königreich",
+        "Vereinigte Staaten",
+        "Russland"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Frankreich erstreckt sich dank seiner zahlreichen Überseeregionen und -gebiete weltweit über 12 verschiedene Zeitzonen."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist das einzige Metall, das bei normaler Raumtemperatur und normalem Druck flüssig ist?",
+      "options": [
+        "Bismut",
+        "Quecksilber",
+        "Gallium",
+        "Cäsium"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Quecksilber hat einen sehr niedrigen Schmelzpunkt von etwa -38,83 Grad Celsius, wodurch es unter normalen Bedingungen flüssig ist."
+    },
+    {
+      "category": "Geschichte",
+      "question": "In welchem Jahr wurde das berühmte Mailänder Edikt erlassen, das religiöse Toleranz im Römischen Reich proklamierte?",
+      "options": [
+        "395 n. Chr.",
+        "313 n. Chr.",
+        "476 n. Chr.",
+        "212 n. Chr."
+      ],
+      "answer_index": 1,
+      "fun_fact": "Die Kaiser Konstantin der Große und Licinius erließen das Mailänder Edikt, um das Christentum im gesamten Römischen Reich offiziell zu legalisieren."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Welcher Film von Steven Spielberg aus dem Jahr 1993 hält den Rekord für die meisten gewonnenen Oscars, ohne den Preis für den besten Film zu erhalten?",
+      "options": [
+        "Jäger des verlorenen Schatzes",
+        "Jurassic Park",
+        "Der Soldat James Ryan",
+        "Schindlers Liste"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Jurassic Park gewann bei der Verleihung 1994 drei Oscars für technische Leistungen im Bereich Ton und visuelle Effekte."
+    },
+    {
+      "category": "Essen",
+      "question": "Safran, nach Gewicht das teuerste Gewürz der Welt, wird aus welchem spezifischen Teil einer Krokusblüte geerntet?",
+      "options": [
+        "Zwiebeln",
+        "Staubblätter",
+        "Blütenblätter",
+        "Narben"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Es erfordert etwa 75.000 Safranblüten, die komplett von Hand geerntet werden, um nur ein einziges Pfund Safranfäden zu produzieren."
+    },
+    {
+      "category": "Tiere",
+      "question": "Welche einzigartige körperliche Anpassung hilft Kamelen zu verhindern, dass bei Wüstenstürmen Sand in ihre Augen gerät?",
+      "options": [
+        "Die Fähigkeit, ihre Augenlider komplett zu verschließen",
+        "Doppelte Reihen von ineinandergreifenden Wimpern",
+        "Drüsen, die schützendes Öl absondern",
+        "Durchsichtige dritte Augenlider"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Kamele haben außergewöhnlich lange, dicke, doppelte Reihen von Wimpern, die als natürliche physische Barriere gegen wehenden Wüstensand dienen."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie lautet im Curlingsport die offizielle Bezeichnung für den schweren Granitstein, den die Spieler verwenden?",
+      "options": [
+        "Bowl",
+        "Rock",
+        "Pebble",
+        "Puck"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Curlingsteine werden traditionell aus einer bestimmten Art von seltenem Granit gehauen, der nur auf Ailsa Craig zu finden ist, einer Insel vor der Küste Schottlands."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie lautet der sprachwissenschaftliche Begriff für Wörter, die exakt gleich geschrieben werden, aber unterschiedliche Bedeutungen und Ursprünge haben, wie zum Beispiel 'Kiefer' (der Baum) und 'Kiefer' (der Knochen)?",
+      "options": [
+        "Homografen",
+        "Synonyme",
+        "Akronyme",
+        "Homophone"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Homografen haben eine identische Schreibweise, auch wenn sie nicht unbedingt gleich ausgesprochen werden müssen."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welche Raumsonde hält den Rekord, das am weitesten von der Erde entfernte von Menschen geschaffene Objekt zu sein?",
+      "options": [
+        "Voyager 1",
+        "Voyager 2",
+        "New Horizons",
+        "Pioneer 10"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Die 1977 gestartete Voyager 1 überquerte 2012 die Heliopause in den interstellaren Raum und sendet weiterhin Daten zur Erde."
+    },
+    {
+      "category": "Geografie",
+      "question": "Welchen bemerkenswerten Bruchteil des ungefrorenen Süßwassers der Erde enthält der Baikalsee in Sibirien?",
+      "options": [
+        "Etwa 20 %",
+        "Etwa 1 %",
+        "Etwa 5 %",
+        "Etwa 50 %"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Obwohl er etwa ein Fünftel des flüssigen Süßwassers der Erdoberfläche beherbergt, ist der Baikalsee gleichzeitig der tiefste See der Erde."
+    }
+  ]
+}

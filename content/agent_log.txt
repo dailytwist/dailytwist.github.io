@@ -1,64 +1,79 @@
+  9 trending topics after filtering
+- horoscopes 2026-11-14
 ::warning::Gemini models available: gemini-2.5-flash, gemini-2.5-pro, gemini-2.5-flash-preview-tts, gemini-2.5-pro-preview-tts, gemma-4-26b-a4b-it, gemma-4-31b-it, gemini-flash-latest, gemini-flash-lite-latest, gemini-pro-latest, gemini-2.5-flash-lite, gemini-2.5-flash-image, gemini-3-flash-preview, gemini-3.1-pro-preview, gemini-3.1-pro-preview-customtools, gemini-3.1-flash-lite-preview, gemini-3.1-flash-lite, gemini-3-pro-image-preview, gemini-3-pro-image, nano-banana-pro-preview, gemini-3.1-flash-image-preview, gemini-3.1-flash-image, gemini-3.1-flash-lite-image, gemini-nano-banana-2.1, gemini-3.5-flash, gemini-3.5-flash-lite, gemini-omni-flash-preview, gemini-omni-1.1-flash, gemini-omni-1.2-flash, gemini-3.5-transcribe, gemini-3.6-flash, gemini-3.7-flash, gemini-3.8-flash, gemini-4-argon, gemini-4-carbon, gemini-4-hydrogen, lyria-3-clip-preview, lyria-3-pro-preview, lyria-3.5, gemini-3.1-flash-tts-preview, gemini-3.8-flash-tts
 ::warning::using Gemini model: gemini-3.5-flash-lite
-  saved content/i18n/es/english/greetings-and-introductions.json
-  saved content/i18n/es/english/verb-to-be.json
-  saved content/i18n/es/english/present-simple.json
+  saved content/horoscopes/2026-11-14.json
+- trivia 2026-11-14
+  saved content/trivia/2026-11-14.json
+- choosing articles from trends for 2026-11-14
+  saved content/seeds_used.json
+  saved content/articles/discover-colorado-geography-culture-and-history.json
+  saved content/articles/feng-shui-basics-simple-ways-to-refresh-your-home.json
+  saved content/i18n/es/horoscopes/2026-11-14.json
+  saved content/i18n/es/trivia/2026-11-14.json
   AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/es/names/yasmine.json
-  saved content/i18n/es/names/sofia.json
-  saved content/i18n/es/names/adam.json
-  saved content/i18n/fr/names/ben.json
-  saved content/i18n/fr/names/charlotte.json
-  saved content/i18n/fr/names/takumi.json
-  saved content/i18n/fr/names/leon.json
-  saved content/i18n/fr/names/emma.json
-  saved content/i18n/fr/names/hiroshi.json
-  saved content/i18n/de/names/wail.json
-  saved content/i18n/de/articles/what-is-nintendo-switch-firmware-the-complete-guide.json
-  saved content/i18n/de/articles/signs-you-met-your-soulmate-fun-meaningful-clues.json
-  saved content/i18n/de/names/malika.json
-  saved content/i18n/de/names/kenza.json
-  saved content/i18n/de/names/nada.json
-  saved content/i18n/de/names/douae.json
-  saved content/i18n/de/names/nermine.json
-  saved content/i18n/de/names/iman.json
-  saved content/i18n/pt/guides/birthday-december-25.json
-  saved content/i18n/pt/guides/birthday-december-28.json
-  saved content/i18n/pt/guides/birthday-december-20.json
-  saved content/i18n/it/names/wail.json
-  saved content/i18n/it/articles/what-is-nintendo-switch-firmware-the-complete-guide.json
-  saved content/i18n/it/articles/signs-you-met-your-soulmate-fun-meaningful-clues.json
-  saved content/i18n/it/names/malika.json
-  saved content/i18n/it/names/kenza.json
-  saved content/i18n/it/names/nada.json
-  saved content/i18n/it/names/douae.json
-  saved content/i18n/it/names/nermine.json
-  saved content/i18n/it/names/iman.json
-  saved content/i18n/ja/guides/birthday-december-25.json
-  saved content/i18n/ja/guides/birthday-december-28.json
-  saved content/i18n/ja/guides/birthday-december-20.json
-  saved content/i18n/ar/guides/birthday-december-25.json
-  saved content/i18n/ar/guides/birthday-december-28.json
-  saved content/i18n/ar/guides/birthday-december-20.json
-  saved content/i18n/es/articles/harry-kane-the-journey-of-a-modern-football-legend.json
-  saved content/i18n/es/articles/real-madrid-history-legacy-and-global-appeal.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/es/articles/feng-shui-basics-simple-ways-to-refresh-your-home.json
+  saved content/i18n/es/articles/discover-colorado-geography-culture-and-history.json
 ::warning::translate articles/who-is-anthony-joshua-the-heavyweight-champion-s-journey.json -> es failed: translated JSON has a different structure
-  saved content/i18n/fr/names/anton.json
-  saved content/i18n/fr/names/jonas.json
+  saved content/i18n/fr/horoscopes/2026-11-14.json
+  saved content/i18n/fr/trivia/2026-11-14.json
+  saved content/i18n/fr/articles/feng-shui-basics-simple-ways-to-refresh-your-home.json
+  saved content/i18n/fr/articles/discover-colorado-geography-culture-and-history.json
+  saved content/i18n/fr/guides/birthday-april-11.json
+  saved content/i18n/fr/guides/birthday-april-7.json
+  saved content/i18n/de/horoscopes/2026-11-14.json
+  saved content/i18n/de/trivia/2026-11-14.json
+  saved content/i18n/de/articles/feng-shui-basics-simple-ways-to-refresh-your-home.json
   AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/fr/names/finn.json
-  saved content/i18n/fr/articles/born-under-a-full-moon-folklore-science-and-facts.json
-  saved content/i18n/fr/articles/the-science-and-wonder-of-snowfall-explained.json
-  saved content/i18n/fr/articles/the-evolution-and-career-of-chris-hemsworth.json
-  saved content/i18n/de/names/sakina.json
-  saved content/i18n/de/names/naima.json
-  saved content/i18n/ar/names/hind.json
-  saved content/i18n/ar/names/najat.json
-  saved content/i18n/ar/names/hafsa.json
-  saved content/i18n/ar/names/zahra.json
-  saved content/i18n/ar/names/jamila.json
-  saved content/i18n/ar/names/latifa.json
-  saved content/i18n/ar/names/ilham.json
-  saved content/i18n/ar/names/meryem.json
+  saved content/i18n/de/articles/discover-colorado-geography-culture-and-history.json
+  saved content/i18n/de/names/meryem.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/de/guides/birthday-october-15.json
+  saved content/i18n/de/guides/birthday-october-19.json
+  saved content/i18n/de/guides/birthday-october-23.json
+  saved content/i18n/de/guides/birthday-october-16.json
+  saved content/i18n/pt/horoscopes/2026-11-14.json
+  saved content/i18n/pt/trivia/2026-11-14.json
+  saved content/i18n/pt/articles/feng-shui-basics-simple-ways-to-refresh-your-home.json
+  saved content/i18n/it/horoscopes/2026-11-14.json
+  saved content/i18n/it/trivia/2026-11-14.json
+  saved content/i18n/it/articles/feng-shui-basics-simple-ways-to-refresh-your-home.json
+  JSON was broken, asking once more
+  saved content/i18n/it/articles/discover-colorado-geography-culture-and-history.json
+  saved content/i18n/it/names/sakina.json
+  saved content/i18n/it/names/naima.json
+  saved content/i18n/it/names/meryem.json
+  saved content/i18n/it/articles/what-is-a-spirit-animal-meanings-and-guide.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/it/guides/birthday-october-11.json
+  saved content/i18n/ja/horoscopes/2026-11-14.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/ja/trivia/2026-11-14.json
+  saved content/i18n/ja/articles/feng-shui-basics-simple-ways-to-refresh-your-home.json
+  saved content/i18n/ar/horoscopes/2026-11-14.json
+  saved content/i18n/ar/trivia/2026-11-14.json
+  saved content/i18n/ar/articles/feng-shui-basics-simple-ways-to-refresh-your-home.json
+::warning::translate articles/who-is-anthony-joshua-the-heavyweight-champion-s-journey.json -> es failed: translated JSON has a different structure
+  saved content/i18n/fr/english/passive-voice.json
+  saved content/i18n/fr/english/second-conditional.json
+  saved content/i18n/fr/english/relative-clauses.json
+  saved content/i18n/fr/english/make-vs-do.json
+  saved content/i18n/fr/english/phrasal-verbs-everyday.json
+  saved content/i18n/fr/english/gerunds-and-infinitives.json
+  saved content/i18n/de/articles/full-moon-names-by-month-history-and-meanings-explained.json
+  saved content/i18n/de/articles/what-your-venus-sign-reveals-about-how-you-love.json
+  saved content/i18n/de/articles/rey-mysterio-the-legend-of-lucha-libre-and-masked-wrestling.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/de/guides/birthday-october-3.json
+  saved content/i18n/de/guides/birthday-october-6.json
+  saved content/i18n/ar/names/wissal.json
+  saved content/i18n/ar/names/douae.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/ar/names/malika.json
+  saved content/i18n/ar/names/kenza.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/i18n/ar/names/nada.json
+  saved content/i18n/ar/names/wafae.json
+  saved content/i18n/ar/names/naima.json
+  saved content/i18n/ar/names/mouna.json
 Agent finished.

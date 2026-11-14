@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-14",
+  "title": "Desafio de Trivia Diário: 14 de novembro de 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Qual país possui o maior número de fusos horários em seu território nacional e dependências?",
+      "options": [
+        "França",
+        "Reino Unido",
+        "Estados Unidos",
+        "Rússia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "A França abrange 12 fusos horários diferentes no mundo devido às suas numerosas regiões e territórios ultramarinos."
+    },
+    {
+      "category": "Ciência",
+      "question": "Qual é o único metal que se mantém líquido à temperatura ambiente e pressão padrão?",
+      "options": [
+        "Bismuto",
+        "Mercúrio",
+        "Gálio",
+        "Césio"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O mercúrio tem um ponto de fusão muito baixo, de aproximadamente -38,83 graus Celsius, o que o torna líquido em condições normais."
+    },
+    {
+      "category": "História",
+      "question": "O famoso Édito de Milão, que proclamou a tolerância religiosa no Império Romano, foi promulgado em qual ano?",
+      "options": [
+        "395 CE",
+        "313 CE",
+        "476 CE",
+        "212 CE"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Os imperadores Constantino, o Grande, e Licínio emitiram o Édito de Milão para legalizar oficialmente o cristianismo em todo o Império Romano."
+    },
+    {
+      "category": "Filmes e Cultura Pop",
+      "question": "Qual filme de Steven Spielberg de 1993 detém o recorde de ganhar o maior número de prêmios da Academia sem levar o prêmio de Melhor Filme?",
+      "options": [
+        "Os Caçadores da Arca Perdida",
+        "Jurassic Park",
+        "O Resgate do Soldado Ryan",
+        "A Lista de Schindler"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Jurassic Park ganhou três Oscars por conquistas técnicas em som e efeitos visuais durante a cerimônia de 1994."
+    },
+    {
+      "category": "Comida",
+      "question": "O açafrão, a especiaria mais cara do mundo por peso, é colhido de qual parte específica da flor do açafrão?",
+      "options": [
+        "Bulbos",
+        "Estames",
+        "Pétalas",
+        "Estigmas"
+      ],
+      "answer_index": 3,
+      "fun_fact": "São necessárias aproximadamente 75.000 flores de açafrão, colhidas inteiramente à mão, para produzir apenas meio quilo de fios de açafrão."
+    },
+    {
+      "category": "Animais",
+      "question": "Qual adaptação física exclusiva ajuda os camelos a impedir que a areia entre em seus olhos durante as tempestades no deserto?",
+      "options": [
+        "A capacidade de fechar completamente as pálpebras",
+        "Fileiras duplas de cílios entrelaçados",
+        "Glândulas que secreta óleo protetor",
+        "Terceiras pálpebras transparentes"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Os camelos têm fileiras duplas de cílios excepcionalmente longas e grossas que atuam como uma barreira física natural contra a areia soprada pelo vento no deserto."
+    },
+    {
+      "category": "Esportes",
+      "question": "No esporte de curling, qual é o termo oficial para a pesada pedra de granito usada pelos jogadores?",
+      "options": [
+        "Bowl",
+        "Rock",
+        "Pebble",
+        "Puck"
+      ],
+      "answer_index": 1,
+      "fun_fact": "As pedras de curling são tradicionalmente esculpidas a partir de um tipo específico de granito raro encontrado apenas em Ailsa Craig, uma ilha na costa da Escócia."
+    },
+    {
+      "category": "Linguagem",
+      "question": "Qual é o termo linguístico para palavras que são soletradas exatamente da mesma maneira, mas têm significados e origens diferentes, como 'manga' (a fruta) e 'manga' (da camisa)?",
+      "options": [
+        "Homógrafos",
+        "Sinônimos",
+        "Acrônimos",
+        "Homófonos"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Homógrafos compartilham a grafia idêntica, embora possam ou não ser pronunciados da mesma forma."
+    },
+    {
+      "category": "Espaço",
+      "question": "Qual espaçonave detém o recorde de ser o objeto feito pelo homem mais distante da Terra?",
+      "options": [
+        "Voyager 1",
+        "Voyager 2",
+        "New Horizons",
+        "Pioneer 10"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Lançada em 1977, a Voyager 1 cruzou a heliopausa em direção ao espaço interestelar em 2012 e continua transmitindo dados."
+    },
+    {
+      "category": "Geografia",
+      "question": "O Lago Baikal, na Sibéria, contém qual fração notável da água doce de superfície não congelada do mundo?",
+      "options": [
+        "Cerca de 20%",
+        "Cerca de 1%",
+        "Cerca de 5%",
+        "Cerca de 50%"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Apesar de abrigar cerca de um quinto da água doce líquida de superfície do globo, o Lago Baikal também é o lago mais profundo da Terra."
+    }
+  ]
+}

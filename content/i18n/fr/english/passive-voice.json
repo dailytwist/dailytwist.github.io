@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-27",
+  "slug": "passive-voice",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🔄",
+  "title": "Focus sur l'action : le passif au présent et au passé",
+  "summary": "Apprenez à utiliser la voix passive aux temps du présent et du passé. Découvrez comment parler d'actions lorsque l'auteur n'est pas important.",
+  "sections": [
+    {
+      "h": "Quand utiliser le passif",
+      "p": "Parfois, on s'intéresse davantage à l'objet ou à l'action qu'à la personne qui l'accomplit. Par exemple, si votre voiture est volée, c'est la voiture qui vous importe, pas le voleur. Lorsque nous formons une phrase passive, l'objet devient le nouveau sujet de la phrase. On utilise le verbe être suivi de la troisième forme du verbe principal, que l'on appelle le participe passé.",
+      "ex": [
+        {
+          "en": "Coffee is grown in Colombia.",
+          "mean": "On cultive le café en Colombie."
+        },
+        {
+          "en": "English is spoken all over the world.",
+          "mean": "On parle anglais partout."
+        }
+      ]
+    },
+    {
+      "h": "Le présent passif",
+      "p": "Pour former le présent passif, utilisez am, is ou are suivi d'un participe passé. Utilisez ce temps pour parler de faits généraux, d'habitudes ou de choses qui se produisent régulièrement. Pensez aux produits que vous achetez ou aux règles sur votre lieu de travail. L'accent est toujours mis sur ce qui subit l'action, maintenant ou en général.",
+      "ex": [
+        {
+          "en": "My car is washed every weekend.",
+          "mean": "Quelqu'un lave ma voiture chaque week-end."
+        },
+        {
+          "en": "New employees are trained on Mondays.",
+          "mean": "L'entreprise forme les nouveaux employés le lundi."
+        }
+      ]
+    },
+    {
+      "h": "Le passé passif",
+      "p": "Pour former le passé passif, utilisez was ou were suivi d'un participe passé. Utilisez ce temps pour parler d'actions achevées dans le passé lorsque la personne qui a fait l'action est inconnue, évidente ou sans importance. Cette forme est très courante dans les articles de presse et en histoire.",
+      "ex": [
+        {
+          "en": "The window was broken yesterday.",
+          "mean": "Quelqu'un a cassé la fenêtre hier."
+        },
+        {
+          "en": "These photos were taken in Paris.",
+          "mean": "Quelqu'un a pris ces photos à Paris."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "passive voice",
+      "mean": "forme grammaticale qui se concentre sur l'objet"
+    },
+    {
+      "en": "past participle",
+      "mean": "troisième forme d'un verbe"
+    },
+    {
+      "en": "is grown",
+      "mean": "présent passif pour les éléments singuliers"
+    },
+    {
+      "en": "are made",
+      "mean": "présent passif pour les éléments pluriels"
+    },
+    {
+      "en": "was built",
+      "mean": "passé passif pour les éléments singuliers"
+    },
+    {
+      "en": "were invited",
+      "mean": "passé passif pour les personnes au pluriel"
+    }
+  ],
+  "tip": "Posez-vous toujours la question : « Qui fait l'action ? » Si la réponse n'a pas d'importance, utilisez la voix passive avec la forme correcte du verbe être.",
+  "quiz": [
+    {
+      "ask": "Choisissez la bonne forme de présent passif",
+      "en": "This book ___ in 2020.",
+      "choices": [
+        "is written",
+        "was written",
+        "wrote"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne forme de passé passif",
+      "en": "Many houses ___ by the storm last night.",
+      "choices": [
+        "were damaged",
+        "are damaged",
+        "damaged"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct pour compléter le vide",
+      "en": "Spanish ___ in many countries.",
+      "choices": [
+        "is spoken",
+        "speaks",
+        "spoke"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la bonne forme de passé passif",
+      "en": "My phone ___ from my bag at the party.",
+      "choices": [
+        "is stolen",
+        "was stolen",
+        "stole"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne forme de présent passif",
+      "en": "Letters ___ delivered every morning.",
+      "choices": [
+        "is",
+        "was",
+        "are"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez la bonne phrase passive",
+      "en": "The cake was ___ by the chef.",
+      "choices": [
+        "bake",
+        "baking",
+        "baked"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

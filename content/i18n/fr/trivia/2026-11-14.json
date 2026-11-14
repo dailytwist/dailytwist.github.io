@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-14",
+  "title": "Défi du jour : 14 novembre 2026",
+  "questions": [
+    {
+      "category": "Géographie",
+      "question": "Quel pays compte le plus grand nombre de fuseaux horaires sur son territoire national et dans ses dépendances ?",
+      "options": [
+        "France",
+        "Royaume-Uni",
+        "États-Unis",
+        "Russie"
+      ],
+      "answer_index": 0,
+      "fun_fact": "La France s'étend sur 12 fuseaux horaires différents à travers le monde grâce à ses nombreuses régions et territoires d'outre-mer."
+    },
+    {
+      "category": "Science",
+      "question": "Quel est le seul métal qui soit liquide à température et pression ambiantes normales ?",
+      "options": [
+        "Bismuth",
+        "Mercure",
+        "Gallium",
+        "Césium"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Le mercure a un point de fusion très bas d'environ -38,83 degrés Celsius, ce qui le rend liquide dans des conditions normales."
+    },
+    {
+      "category": "Histoire",
+      "question": "En quelle année a été promulgué le fameux édit de Milan, qui proclamait la tolérance religieuse dans l'Empire romain ?",
+      "options": [
+        "395 CE",
+        "313 CE",
+        "476 CE",
+        "212 CE"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Les empereurs Constantin le Grand et Licinius ont publié l'édit de Milan pour légaliser officiellement le christianisme dans tout l'Empire romain."
+    },
+    {
+      "category": "Films et culture pop",
+      "question": "Quel film de Steven Spielberg sorti en 1993 détient le record du plus grand nombre d'Oscars remportés sans avoir décroché la statuette du meilleur film ?",
+      "options": [
+        "Les Aventuriers de l'arche perdue",
+        "Jurassic Park",
+        "Il faut sauver le soldat Ryan",
+        "La Liste de Schindler"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Jurassic Park a remporté trois Oscars pour ses réussites techniques en matière de son et d'effets visuels lors de la cérémonie de 1994."
+    },
+    {
+      "category": "Cuisine",
+      "question": "Le safran, l'épice la plus chère au monde au poids, est récolté sur quelle partie précise de la fleur de crocus ?",
+      "options": [
+        "Bulbes",
+        "Étamines",
+        "Pétales",
+        "Stigmates"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Il faut environ 75 000 fleurs de safran, récoltées entièrement à la main, pour produire à peine un demi-kilo de filaments de safran."
+    },
+    {
+      "category": "Animaux",
+      "question": "Quelle adaptation physique unique aide les chameaux à empêcher le sable de pénétrer dans leurs yeux pendant les tempêtes de désert ?",
+      "options": [
+        "La capacité de fermer complètement leurs paupières",
+        "Des doubles rangées de cils imbriqués",
+        "Des glandes qui sécrètent une huile protectrice",
+        "Des troisièmes paupières transparentes"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Les chameaux possèdent des doubles rangées de cils exceptionnellement longues et épaisses qui agissent comme une barrière physique naturelle contre le sable du désert transporté par le vent."
+    },
+    {
+      "category": "Sport",
+      "question": "Dans le curling, quel est le terme officiel désignant la lourde pierre en granit utilisée par les joueurs ?",
+      "options": [
+        "Boule",
+        "Pierre",
+        "Galet",
+        "Palet"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Les pierres de curling sont traditionnellement taillées dans un type de granit rare que l'on ne trouve que sur Ailsa Craig, une île au large de l'Écosse."
+    },
+    {
+      "category": "Langue",
+      "question": "Quel est le terme linguistique désignant des mots qui s'écrivent exactement de la même manière mais qui ont des sens et des origines différents, comme 'avocat' (le fruit) et 'avocat' (le métier) ?",
+      "options": [
+        "Homographes",
+        "Synonymes",
+        "Acronymes",
+        "Homophones"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Les homographes partagent une orthographe identique, même s'ils ne se prononcent pas forcément de la même façon."
+    },
+    {
+      "category": "Espace",
+      "question": "Quel engin spatial détient le record de l'objet fabriqué par l'homme le plus éloigné de la Terre ?",
+      "options": [
+        "Voyager 1",
+        "Voyager 2",
+        "New Horizons",
+        "Pioneer 10"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Lancé en 1977, Voyager 1 a traversé l'héliopause pour entrer dans l'espace interstellaire en 2012 et continue de transmettre des données."
+    },
+    {
+      "category": "Géographie",
+      "question": "Le lac Baikal en Sibérie contient quelle proportion remarquable de l'eau douce de surface non gelée de la planète ?",
+      "options": [
+        "Environ 20%",
+        "Environ 1%",
+        "Environ 5%",
+        "Environ 50%"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Bien qu'il contienne environ un cinquième de l'eau douce liquide de surface du globe, le lac Baikal est également le lac le plus profond du monde."
+    }
+  ]
+}

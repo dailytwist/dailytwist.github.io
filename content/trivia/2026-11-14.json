@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-14",
+  "title": "Daily Trivia Challenge: November 14, 2026",
+  "questions": [
+    {
+      "category": "Geography",
+      "question": "Which country features the highest number of time zones within its national territory and dependencies?",
+      "options": [
+        "France",
+        "United Kingdom",
+        "United States",
+        "Russia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "France spans 12 different time zones globally due to its numerous overseas regions and territories."
+    },
+    {
+      "category": "Science",
+      "question": "What is the only metal that is liquid at standard room temperature and pressure?",
+      "options": [
+        "Bismuth",
+        "Mercury",
+        "Gallium",
+        "Cesium"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Mercury has a very low melting point of roughly -38.83 degrees Celsius, making it liquid under normal conditions."
+    },
+    {
+      "category": "History",
+      "question": "The famous Edict of Milan, which proclaimed religious tolerance in the Roman Empire, was enacted in which year?",
+      "options": [
+        "395 CE",
+        "313 CE",
+        "476 CE",
+        "212 CE"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Emperors Constantine the Great and Licinius issued the Edict of Milan to officially legalize Christianity throughout the Roman Empire."
+    },
+    {
+      "category": "Movies & Pop Culture",
+      "question": "Which 1993 Steven Spielberg film holds the record for winning the most Academy Awards without capturing the Best Picture prize?",
+      "options": [
+        "Raiders of the Lost Ark",
+        "Jurassic Park",
+        "Saving Private Ryan",
+        "Schindler's List"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Jurassic Park won three Oscars for technical achievements in sound and visual effects during the 1994 ceremony."
+    },
+    {
+      "category": "Food",
+      "question": "Saffron, the world's most expensive spice by weight, is harvested from which specific part of a crocus flower?",
+      "options": [
+        "Bulbs",
+        "Stamens",
+        "Petals",
+        "Stigmas"
+      ],
+      "answer_index": 3,
+      "fun_fact": "It takes approximately 75,000 saffron flowers, harvested entirely by hand, to produce just a single pound of saffron threads."
+    },
+    {
+      "category": "Animals",
+      "question": "What unique physical adaptation helps camels prevent sand from entering their eyes during desert storms?",
+      "options": [
+        "The ability to completely seal their eyelids shut",
+        "Double rows of interlocking eyelashes",
+        "Glands that secrete protective oil",
+        "Clear third eyelids"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Camels have exceptionally long, thick double rows of eyelashes that act as a natural physical barrier against blowing desert sand."
+    },
+    {
+      "category": "Sports",
+      "question": "In the sport of curling, what is the official term for the heavy granite stone used by players?",
+      "options": [
+        "Bowl",
+        "Rock",
+        "Pebble",
+        "Puck"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Curling stones are traditionally carved from a specific type of rare granite found only on Ailsa Craig, an island off the coast of Scotland."
+    },
+    {
+      "category": "Language",
+      "question": "What is the linguistic term for words that are spelled exactly the same way but have different meanings and origins, such as 'bat' (the animal) and 'bat' (sports equipment)?",
+      "options": [
+        "Homographs",
+        "Synonyms",
+        "Acronyms",
+        "Homophones"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Homographs share identical spelling, though they may or may not be pronounced the same way."
+    },
+    {
+      "category": "Space",
+      "question": "Which spacecraft holds the record for being the farthest human-made object from Earth?",
+      "options": [
+        "Voyager 1",
+        "Voyager 2",
+        "New Horizons",
+        "Pioneer 10"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Launched in 1977, Voyager 1 crossed the heliopause into interstellar space in 2012 and continues to transmit data."
+    },
+    {
+      "category": "Geography",
+      "question": "Lake Baikal in Siberia contains what remarkable fraction of the world's unfrozen surface fresh water?",
+      "options": [
+        "Around 20%",
+        "Around 1%",
+        "Around 5%",
+        "Around 50%"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Despite holding roughly one-fifth of the globe's fresh liquid surface water, Lake Baikal is also the deepest lake on Earth."
+    }
+  ]
+}

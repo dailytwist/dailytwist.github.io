@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-14",
+  "title": "Sfida Trivia Quotidiana: 14 Novembre 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Quale Paese vanta il maggior numero di fusi orari all'interno del proprio territorio nazionale e dei territori dipendenti?",
+      "options": [
+        "Francia",
+        "Regno Unito",
+        "Stati Uniti",
+        "Russia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "La Francia si estende su 12 diversi fusi orari in tutto il mondo grazie alle sue numerose regioni e territori d'oltremare."
+    },
+    {
+      "category": "Scienza",
+      "question": "Qual è l'unico metallo liquido a temperatura e pressione ambiente standard?",
+      "options": [
+        "Bismuto",
+        "Mercurio",
+        "Gallio",
+        "Cesio"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Il mercurio ha un punto di fusione bassissimo, circa -38,83 gradi Celsius, il che lo rende liquido in condizioni normali."
+    },
+    {
+      "category": "Storia",
+      "question": "In quale anno fu promulgato il famoso Editto di Milano, che proclamava la tolleranza religiosa nell'Impero Romano?",
+      "options": [
+        "395 d.C.",
+        "313 d.C.",
+        "476 d.C.",
+        "212 d.C."
+      ],
+      "answer_index": 1,
+      "fun_fact": "Gli imperatori Costantino il Grande e Licinio emisero l'Editto di Milano per legalizzare ufficialmente il cristianesimo in tutto l'Impero Romano."
+    },
+    {
+      "category": "Cinema e Pop Culture",
+      "question": "Quale film del 1993 diretto da Steven Spielberg detiene il record per aver vinto il maggior numero di Premi Oscar senza però aggiudicarsi quello per il Miglior Film?",
+      "options": [
+        "I predatori dell'arca perduta",
+        "Jurassic Park",
+        "Salvate il soldato Ryan",
+        "Schindler's List"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Jurassic Park ha vinto tre Oscar per i risultati tecnici nel sonoro e negli effetti visivi durante la cerimonia del 1994."
+    },
+    {
+      "category": "Cibo",
+      "question": "Lo zafferano, la spezia più costosa al mondo in base al peso, viene ricavato da quale parte specifica del fiore del croco?",
+      "options": [
+        "Bulbi",
+        "Stami",
+        "Petali",
+        "Stimmi"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Ci vogliono circa 75.000 fiori di zafferano, raccolti interamente a mano, per produrre appena mezzo chilo di fili di zafferano."
+    },
+    {
+      "category": "Animali",
+      "question": "Quale singolare adattamento fisico impedisce alla sabbia di entrare negli occhi dei cammelli durante le tempeste nel deserto?",
+      "options": [
+        "La capacità di sigillare completamente le palpebre",
+        "Doppie file di ciglia intrecciate",
+        "Ghiandole che secernono un olio protettivo",
+        "Terze palpebre trasparenti"
+      ],
+      "answer_index": 1,
+      "fun_fact": "I cammelli hanno doppie file di ciglia eccezionalmente lunghe e folte che fungono da barriera fisica naturale contro la sabbia del deserto portata dal vento."
+    },
+    {
+      "category": "Sport",
+      "question": "Nel curling, qual è il termine ufficiale per indicare la pesante pietra di granito usata dai giocatori?",
+      "options": [
+        "Bowl",
+        "Rock",
+        "Pebble",
+        "Puck"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Le pietre da curling sono tradizionalmente intagliate in un tipo specifico di raro granito che si trova solo ad Ailsa Craig, un'isola al largo della costa scozzese."
+    },
+    {
+      "category": "Linguaggio",
+      "question": "Qual è il termine linguistico per le parole che si scrivono esattamente allo stesso modo ma hanno significati e origini differenti, come 'pesca' (il frutto) e 'pesca' (l'attività)?",
+      "options": [
+        "Omografi",
+        "Sinonimi",
+        "Acronimi",
+        "Omofoni"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Gli omografi condividono un'ortografia identica, sebbene possano o meno essere pronunciati nello stesso modo."
+    },
+    {
+      "category": "Spazio",
+      "question": "Quale sonda detiene il record di oggetto artificiale più lontano in assoluto dalla Terra?",
+      "options": [
+        "Voyager 1",
+        "Voyager 2",
+        "New Horizons",
+        "Pioneer 10"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Lanciata nel 1977, la Voyager 1 ha superato l'eliopausa entrando nello spazio interstellare nel 2012 e continua a trasmettere dati."
+    },
+    {
+      "category": "Geografia",
+      "question": "Il Lago Baikal in Siberia contiene quale straordinaria frazione di tutta l'acqua dolce di superficie non congelata del pianeta?",
+      "options": [
+        "Circa il 20%",
+        "Circa l'1%",
+        "Circa il 5%",
+        "Circa il 50%"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Oltre a custodire circa un quinto dell'acqua dolce liquida di superficie del globo, il Lago Baikal è anche il lago più profondo della Terra."
+    }
+  ]
+}
