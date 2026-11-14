@@ -400,10 +400,15 @@ def body_words(lang, body):
 THIN_MIN = 150  # detail pages with less real text are kept for visitors but hidden from Google (noindex, not in sitemap)
 
 
+HIDDEN_SECTIONS = ("articles/", "dreams/", "names/", "learn-english/")  # off-topic / auto-generated sections: kept for visitors, hidden from Google (AdSense "low value content" fix, Nov 2026)
+
+
 def is_thin(lang, path):
     pg = PAGES.get((lang, path))
-    if path == "search/":
-        return True  # search results page has no content of its own
+    if path == "search/" or path.startswith(HIDDEN_SECTIONS):
+        return True
+    if path.count("/") >= 2 and (path.startswith("birthday/") or (path.startswith("prayer-times/") and lang != "ar")):
+        return True  # 366 near-identical birthday pages / city pages per language read as mass-produced content  # search results page has no content of its own
     if not pg or pg.get("canonical") or path.count("/") < 2 or pg.get("keep_index"):
         return False
     if "words" not in pg:
@@ -483,7 +488,7 @@ def render(lang, path, pg):
       <a href="{pre}/games/">🎮 {e(T(lang, 'nav_games'))}</a>
       <a href="{pre}/trivia/">🧠 {e(T(lang, 'nav_trivia'))}</a>
       <a href="/puzzle/">🧩 {e(T(lang, 'nav_puzzle'))}</a>
-      <a href="{pre}/articles/">📖 {e(T(lang, 'nav_articles'))}</a>
+      <a href="{pre}/zodiac/">♈ {e(T(lang, 'zodiac_title'))}</a>
       <a href="{pre}/countdown/">⏳ {e(T(lang, 'nav_countdowns'))}</a>
     </nav>
     <button class="themebtn" type="button" aria-label="{e(T(lang, 'theme_toggle'))}" onclick="var d=document.documentElement,n=(d.dataset.theme||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'))==='dark'?'light':'dark';d.dataset.theme=n;try{{localStorage.setItem('dt-theme',n)}}catch(e){{}}"><span class="th-moon">🌙</span><span class="th-sun">☀️</span></button>
@@ -669,7 +674,6 @@ def build_lang(lang):
         (f"{pre}/games/", "🎮", "nav_games", "tile_games", "#ff5e7e", "#ff8a3d"),
         (f"{pre}/trivia/", "🧠", "nav_trivia", "tile_trivia", "#3a6ff7", "#22c1c3"),
         ("/puzzle/", "🧩", "nav_puzzle", "tile_puzzle", "#2fa36b", "#a3e635"),
-        (f"{pre}/articles/", "📖", "nav_articles", "tile_articles", "#f59e0b", "#f97316"),
         (f"{pre}/countdown/", "⏳", "nav_countdowns", "tile_countdown", "#0ea5e9", "#6366f1"),
         (f"{pre}/compatibility/", "💕", "compat_title", "tile_compat", "#ff5e7e", "#d36bff"),
         (f"{pre}/tarot/", "🃏", "tarot_title", "tile_tarot", "#3b2a8c", "#c084fc"),
@@ -677,13 +681,10 @@ def build_lang(lang):
         (f"{pre}/chinese-zodiac/", "🐉", "chinese_title", "tile_chinese", "#d62828", "#f77f00"),
         (f"{pre}/numerology/", "🔢", "num_title", "tile_num", "#0f766e", "#22c1c3"),
         (f"{pre}/love-calculator/", "💘", "love_calc_title", "tile_lovecalc", "#e11d48", "#fb7185"),
-        *([(f"{pre}/dreams/", "💤", "dreams_title", "tile_dreams", "#312e81", "#a78bfa")] if D["dreams"] else []),
         *([(f"{pre}/angel-numbers/", "👼", "ang_title", "tile_ang", "#0369a1", "#7dd3fc")] if any(x.get("kind") == "angel" for x in D["guides2"]) else []),
         *([(f"{pre}/birthday/", "🎁", "bdp_title", "tile_bdp", "#be185d", "#fbbf24")] if any(x.get("kind") == "birthday" for x in D["guides2"]) else []),
         (f"{pre}/prayer-times/", "🕌", "pt_title", "tile_pt", "#065f46", "#10b981"),
         (f"{pre}/hijri-calendar/", "🌙", "hj_title", "tile_hj", "#047857", "#34d399"),
-        *([(f"{pre}/names/", "👶", "nm_title", "tile_nm", "#0891b2", "#f472b6")] if D["names"] else []),
-        *([(f"{pre}/learn-english/", "🇬🇧", "en_title", "tile_en", "#1d4ed8", "#ef4444")] if D["english"] else []),
         (f"{pre}/zodiac-quiz/", "🧠", "pq_title", "tile_pq", "#7c3aed", "#ec4899"),
         (f"{pre}/love-messages/", "💌", "lm_title", "tile_lm", "#db2777", "#f9a8d4"),
         (f"{pre}/age-calculator/", "🎂", "bday_title", "tile_bday", "#ea580c", "#facc15"),
@@ -705,11 +706,11 @@ def build_lang(lang):
     by_path = {}
     for tl in tiles:
         by_path[tl[0][len(pre):].strip("/") if pre else tl[0].strip("/")] = tl
-    CATS = [("cat_popular", "⭐", ["horoscope", "prayer-times", "names", "learn-english", "games", "compatibility"]),
-            ("cat_spirit", "🔮", [k for k in by_path if k.startswith("horoscope-")] + ["zodiac", "tarot", "dreams", "chinese-zodiac", "numerology", "angel-numbers", "moon-phase", "zodiac-quiz"]),
+    CATS = [("cat_popular", "⭐", ["horoscope", "zodiac", "compatibility", "tarot", "games", "prayer-times"]),
+            ("cat_spirit", "🔮", [k for k in by_path if k.startswith("horoscope-")] + ["zodiac", "tarot", "chinese-zodiac", "numerology", "angel-numbers", "moon-phase", "zodiac-quiz"]),
             ("cat_islamic", "🕌", ["prayer-times", "hijri-calendar", "countdown"]),
             ("cat_play", "🎮", ["games", "trivia", "puzzle", "zodiac-quiz", "love-calculator"]),
-            ("cat_life", "💡", ["names", "learn-english", "birthday", "love-messages", "age-calculator", "articles", "countdown"])]
+            ("cat_life", "💡", ["birthday", "love-messages", "age-calculator", "countdown"])]
     used = set(k for _, _, ks in CATS for k in ks)
     CATS[-1][2].extend(k for k in by_path if k not in used)
     def rail(title, emo, keys):
@@ -731,7 +732,6 @@ def build_lang(lang):
     <a class="td-card" href="{pre}/prayer-times/"><small>🕌 {e(T(lang, 'pt_title'))}</small><b>{e(T(lang, 'td_prayer'))}</b><p>{e(T(lang, 'td_prayer_d'))}</p></a>
     <a class="td-card" href="{pre}/trivia/"><small>🧠 {e(T(lang, 'daily_trivia'))}</small><b>{e(T(lang, 'td_quiz'))}</b><p>{e(T(lang, 'td_quiz_d'))}</p></a>
     <a class="td-card" href="{pre}/tarot/"><small>🃏 {e(T(lang, 'tarot_title'))}</small><b>{e(T(lang, 'td_tarot'))}</b><p>{e(T(lang, 'td_tarot_d'))}</p></a>
-    {f'<a class="td-card td-word" href="{pre}/learn-english/"><small>🇬🇧 {e(T(lang, "td_word"))}</small><b lang="en" dir="ltr"></b><p></p></a>' if D["english"] else ''}
   </div>
   <div class="td-pick" hidden><p>{e(T(lang, 'td_pick'))}</p><div class="td-signs"></div></div>
 </section>
@@ -779,10 +779,6 @@ def build_lang(lang):
   </div>
 </section>
 {facts(lang)}
-<section>
-  <div class="sec-head"><h2>📖 {e(T(lang, 'latest_explainers'))}</h2><a href="{pre}/articles/">{e(T(lang, 'see_all'))} →</a></div>
-  <div class="grid">{latest}</div>
-</section>
 <script>(function(){{try{{var m=localStorage.getItem('dt-sign'),st=document.querySelector('.sgstrip');if(!st)return;
 st.querySelectorAll('.sg').forEach(function(a){{a.addEventListener('click',function(){{try{{localStorage.setItem('dt-sign',a.dataset.sign)}}catch(x){{}}}})}});
 if(m){{var a=st.querySelector('[data-sign="'+m+'"]');if(a){{a.classList.add('mine');a.setAttribute('data-your',st.dataset.your);st.prepend(a);

@@ -6,7 +6,7 @@
   "adsense_client": "ca-pub-4439582693861205",
   "ai_model": "claude-haiku-5-5",
   "trends_geo": "US",
-  "articles_per_day": 2,
+  "articles_per_day": 0,
   "trivia_questions_per_day": 10,
   "gemini_model": "gemini-3.5-flash-lite",
   "web3forms_key": "acb7e381-4276-4de2-82b1-b6d1f64cc9d5",
@@ -38,15 +38,15 @@
     "ja"
   ],
   "yearly_topics_per_run": 10,
-  "dreams_per_day": 6,
+  "dreams_per_day": 0,
   "guides_per_run": {
     "tarot": 4,
     "angel": 4,
     "birthday": 6,
     "birthstone": 2
   },
-  "english_per_run": 5,
-  "names_per_run": 12,
+  "english_per_run": 0,
+  "names_per_run": 0,
   "onesignal_app_id": "00f06768-9b43-4ef4-96e1-9a38e56c8844",
   "lang_weight": {
     "it": 3,
