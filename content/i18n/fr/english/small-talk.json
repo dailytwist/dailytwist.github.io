@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-27",
+  "slug": "small-talk",
+  "cefr": "B1",
+  "cat": "phrases",
+  "emoji": "💬",
+  "title": "Maîtriser l'art de la conversation",
+  "summary": "Apprenez à engager une conversation amicale avec de nouvelles personnes. Découvrez des questions simples pour faire durer l'échange tout naturellement.",
+  "sections": [
+    {
+      "h": "Engager la conversation",
+      "p": "Quand vous voulez parler à quelqu'un à une fête ou à un arrêt de bus, il vous faut une bonne accroche. Le moyen le plus simple de commencer est d'évoquer l'endroit, la météo ou l'événement auquel vous assistez tous les deux. Gardez un ton amical et souriez ! Après les salutations, posez une question ouverte pour que l'autre personne puisse s'exprimer facilement.",
+      "ex": [
+        {
+          "en": "Nice weather today, isn't it?",
+          "mean": "Une façon classique et sans risque de briser la glace sous un beau soleil."
+        },
+        {
+          "en": "Is this your first time at this event?",
+          "mean": "Une excellente question à poser à quelqu'un lors d'une fête ou d'une conférence."
+        }
+      ]
+    },
+    {
+      "h": "Faire durer la discussion",
+      "p": "Après la première phrase, montrez que vous écoutez. Posez des questions de relance sur ce que la personne vient de dire. Des mots comme « c'est vrai ? » ou « c'est intéressant ! » montrent que vous êtes impliqué. Essayez de trouver un point commun, comme la nourriture, les films ou les loisirs, pour prolonger la discussion de quelques minutes.",
+      "ex": [
+        {
+          "en": "What do you like to do in your free time?",
+          "mean": "Un moyen simple d'en savoir plus sur les passions de quelqu'un."
+        },
+        {
+          "en": "Have you seen any good movies lately?",
+          "mean": "Un sujet sympa dont tout le monde ou presque peut parler."
+        }
+      ]
+    },
+    {
+      "h": "Conclure avec élégance",
+      "p": "La petite conversation est généralement brève. Quand il est temps de partir, mettez fin à l'échange poliment. Donnez une bonne raison de vous éclipser, comme aller chercher à boire ou attraper un bus. Souriez toujours, dites que c'était un plaisir de faire sa connaissance et souhaitez-lui une excellente continuation.",
+      "ex": [
+        {
+          "en": "It was really nice talking to you!",
+          "mean": "Une manière chaleureuse et polie de montrer que vous avez apprécié l'échange."
+        },
+        {
+          "en": "I need to grab a drink, but let's talk again soon.",
+          "mean": "Une excuse décontractée pour mettre fin à la conversation."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Small talk",
+      "mean": "discussion amicale et décontractée"
+    },
+    {
+      "en": "Opening line",
+      "mean": "première phrase pour entamer la discussion"
+    },
+    {
+      "en": "Weather",
+      "mean": "soleil, pluie, vent, température"
+    },
+    {
+      "en": "Follow-up",
+      "mean": "question ou action suivante"
+    },
+    {
+      "en": "Hobbies",
+      "mean": "activités amusantes que l'on pratique"
+    },
+    {
+      "en": "Polite",
+      "mean": "avoir de bonnes manières"
+    },
+    {
+      "en": "Grab a drink",
+      "mean": "boire un petit quelque chose"
+    }
+  ],
+  "tip": "Voyez la conversation comme une partie de ballon prisonnier. Vous lancez une idée, puis vous attendez que l'autre vous la renvoie en répondant !",
+  "quiz": [
+    {
+      "ask": "Choisissez la meilleure façon d'engager la conversation.",
+      "en": "___ weather today, isn't it?",
+      "choices": [
+        "Bad",
+        "Nice",
+        "Angry"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la meilleure question de relance sur les loisirs.",
+      "en": "What do you like to do in your ___?",
+      "choices": [
+        "work",
+        "office",
+        "free time"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot manquant pour un au revoir poli.",
+      "en": "It was really nice ___ to you!",
+      "choices": [
+        "talking",
+        "saying",
+        "speaking"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Comment appelle-t-on une discussion informelle avec un inconnu ?",
+      "en": "We are just making ___.",
+      "choices": [
+        "big talk",
+        "small talk",
+        "loud talk"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la meilleure réaction à une bonne nouvelle en plein échange.",
+      "en": "___ that's very interesting!",
+      "choices": [
+        "Oh,",
+        "No,",
+        "Why,"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez une bonne excuse pour abréger une discussion.",
+      "en": "I need to ___ a drink.",
+      "choices": [
+        "take",
+        "grab",
+        "hold"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

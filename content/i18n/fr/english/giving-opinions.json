@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-27",
+  "slug": "giving-opinions",
+  "cefr": "B1",
+  "cat": "phrases",
+  "emoji": "🗣️",
+  "title": "Donner son avis : comment être d'accord ou non",
+  "summary": "Dans cette leçon, vous apprendrez à exprimer vos opinions personnelles en anglais. Vous vous entraînérez également à approuver ou contredire les autres de manière polie.",
+  "sections": [
+    {
+      "h": "Donner son avis",
+      "p": "Lorsque vous souhaitez partager ce que vous pensez en anglais, il est utile d'utiliser des expressions spécifiques au début de votre phrase. Cela indique à votre interlocuteur que vous exprimez une idée personnelle et non une vérité absolue. Utiliser des formules comme 'I think' ou 'In my opinion' rend votre discours naturel et courtois.",
+      "ex": [
+        {
+          "en": "I think this movie is really exciting.",
+          "mean": "Mon avis personnel est que ce film est bien."
+        },
+        {
+          "en": "In my opinion, we should leave early.",
+          "mean": "Je crois qu'y aller tôt est le meilleur choix."
+        },
+        {
+          "en": "From my point of view, English is fun to learn.",
+          "mean": "Je vois les choses ainsi : apprendre l'anglais est amusant."
+        }
+      ]
+    },
+    {
+      "h": "Être d'accord poliment",
+      "p": "Quand quelqu'un exprime une opinion et que vous pensez exactement la même chose, vous pouvez montrer votre soutien grâce à des phrases d'approbation. Dire 'I totally agree' est très courant. Vous pouvez aussi utiliser des tournures plus courtes comme 'That is so true' pour montrer que vous écoutez et partagez totalement son sentiment.",
+      "ex": [
+        {
+          "en": "I totally agree with you.",
+          "mean": "J'ai exactement la même pensée que toi."
+        },
+        {
+          "en": "That is so true.",
+          "mean": "Ce que tu viens de dire est exact."
+        },
+        {
+          "en": "I feel the same way.",
+          "mean": "Mes sentiments correspondent entièrement aux tiens."
+        }
+      ]
+    },
+    {
+      "h": "Ne pas être d'accord poliment",
+      "p": "Il est tout à fait normal d'avoir un avis différent de celui de vos amis ! Cependant, en anglais, on atténue généralement notre désaccord pour ne pas paraître impoli. Au lieu de dire 'You are wrong', nous commençons par des formules polies telles que 'I see your point, but...' ou 'I am not sure about that.'",
+      "ex": [
+        {
+          "en": "I see your point, but I prefer the blue one.",
+          "mean": "Je comprends ton idée, mais j'aime bien l'autre."
+        },
+        {
+          "en": "I am not sure I agree with that.",
+          "mean": "Je pense probablement différemment."
+        },
+        {
+          "en": "Well, actually, I think it is quite cheap.",
+          "mean": "En fait, mon avis est que le prix est bas."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "In my opinion",
+      "mean": "ce que je crois"
+    },
+    {
+      "en": "I think",
+      "mean": "mon idée est"
+    },
+    {
+      "en": "I totally agree",
+      "mean": "je pense la même chose"
+    },
+    {
+      "en": "That is true",
+      "mean": "c'est exact"
+    },
+    {
+      "en": "I see your point",
+      "mean": "je te comprends"
+    },
+    {
+      "en": "Polite",
+      "mean": "gentil et respectueux"
+    },
+    {
+      "en": "Opinion",
+      "mean": "une croyance personnelle"
+    }
+  ],
+  "tip": "Quand vous n'êtes pas d'accord, commencez toujours par dire quelque chose de gentil comme 'I see your point.' Cela permet de garder la conversation amicale et détendue !",
+  "quiz": [
+    {
+      "ask": "Choisissez la meilleure expression pour donner votre avis",
+      "en": "___ this restaurant is the best in town.",
+      "choices": [
+        "I think",
+        "I disagree",
+        "True"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez l'expression pour montrer un accord total",
+      "en": "A: It is a lovely day! B: ___",
+      "choices": [
+        "I see your point, but no",
+        "I totally agree with you",
+        "I am not sure"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la manière polie d'exprimer un désaccord",
+      "en": "___, but I like rainy days better.",
+      "choices": [
+        "You are totally wrong",
+        "I see your point",
+        "I hate you"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Sélectionnez le mot manquant correct",
+      "en": "In my ___, cooking at home is better.",
+      "choices": [
+        "opinion",
+        "think",
+        "agree"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la meilleure réponse pour manifester votre accord",
+      "en": "A: English grammar is useful. B: ___",
+      "choices": [
+        "That is so true",
+        "I have no idea",
+        "No, it is bad"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la bonne expression pour exprimer une idée différente",
+      "en": "___ I think we need more time.",
+      "choices": [
+        "I totally agree",
+        "Well, actually",
+        "That is true"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

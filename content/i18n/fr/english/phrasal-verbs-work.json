@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-27",
+  "slug": "phrasal-verbs-work",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "💼",
+  "title": "Phases verbales utiles pour le travail",
+  "summary": "Apprenez trois verbes à particule courants pour parler des tâches de bureau quotidiennes. Enrichissez facilement votre vocabulaire professionnel en anglais.",
+  "sections": [
+    {
+      "h": "Set up",
+      "p": "Quand vous démarrez quelque chose de nouveau, comme une réunion, une salle ou un système informatique, vous le \"set up\". Cela signifie préparer ou agencer le tout pour qu'il soit prêt à l'emploi.",
+      "ex": [
+        {
+          "en": "Can you please set up the projector for the meeting?",
+          "mean": "Please prepare the projector."
+        },
+        {
+          "en": "I need to set up a new email account for our new colleague.",
+          "mean": "I need to create and prepare a new email."
+        }
+      ]
+    },
+    {
+      "h": "Carry out",
+      "p": "L'expression \"carry out\" signifie mener à bien une tâche, un plan ou une étude du début à la fin. On l'utilise souvent pour la recherche, les tests ou les consignes.",
+      "ex": [
+        {
+          "en": "The team will carry out a survey to check customer happiness.",
+          "mean": "The team will do a survey."
+        },
+        {
+          "en": "She always carries out her manager's instructions quickly.",
+          "mean": "She always does what her manager asks."
+        }
+      ]
+    },
+    {
+      "h": "Follow up",
+      "p": "L'expression \"follow up\" signifie relancer quelqu'un ou entreprendre une démarche supplémentaire après un premier rendez-vous ou message. Cela montre que vous êtes actif et impliqué.",
+      "ex": []
+    }
+  ],
+  "words": [
+    {
+      "en": "set up",
+      "mean": "préparer ou organiser"
+    },
+    {
+      "en": "carry out",
+      "mean": "mener à bien une tâche"
+    },
+    {
+      "en": "follow up",
+      "mean": "recontacter"
+    },
+    {
+      "en": "projector",
+      "mean": "machine de présentation"
+    },
+    {
+      "en": "survey",
+      "mean": "questions pour la recherche"
+    },
+    {
+      "en": "client",
+      "mean": "client professionnel"
+    },
+    {
+      "en": "colleague",
+      "mean": "partenaire de travail"
+    }
+  ],
+  "tip": "Essayez d'associer chaque verbe à particule à une tâche concrète que vous effectuez au travail chaque semaine. Rédiger vos propres phrases aide votre cerveau à les mémoriser plus vite.",
+  "quiz": [
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "We need to ___ a meeting room for our guests tomorrow morning.",
+      "choices": [
+        "carry out",
+        "set up",
+        "follow up"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "The technicians will ___ repairs on the office printer this afternoon.",
+      "choices": [
+        "carry out",
+        "set up",
+        "follow up"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "Please ___ with the supplier to see if the goods have been shipped.",
+      "choices": [
+        "set up",
+        "carry out",
+        "follow up"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "It takes twenty minutes to ___ the computer before the presentation starts.",
+      "choices": [
+        "follow up",
+        "set up",
+        "carry out"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "The researchers plan to ___ interviews with fifty different employees.",
+      "choices": [
+        "follow up",
+        "set up",
+        "carry out"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "After sending the proposal, I will ___ with a phone call next week.",
+      "choices": [
+        "follow up",
+        "carry out",
+        "set up"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

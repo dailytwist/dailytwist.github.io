@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-27",
+  "slug": "modal-verbs-of-possibility",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🔮",
+  "title": "Deviner et savoir : Might, May, Could, Must, Can't",
+  "summary": "Dans cette leçon, vous apprendrez à utiliser des verbes spéciaux pour exprimer votre degré de certitude face à une situation. Ces mots vous aident à deviner si les choses sont vraies maintenant ou le seront à l'avenir.",
+  "sections": [
+    {
+      "h": "C'est sûrement vrai : Must",
+      "p": "On utilise 'must' lorsque l'on est presque sûr à 100 pour cent qu'une chose est vraie. Nous avons une très bonne raison de le penser. Par exemple, si quelqu'un entre en plein orage avec un manteau mouillé, nous savons qu'il a été trempé dehors.",
+      "ex": [
+        {
+          "en": "She must be tired after working for ten hours.",
+          "mean": "Je suis presque sûre qu'elle est fatiguée à cause de sa longue journée de travail."
+        },
+        {
+          "en": "Your keys must be in your bag.",
+          "mean": "Je suis très sûr que vos clés sont dans votre sac au vu de l'endroit où vous les avez laissées."
+        }
+      ]
+    },
+    {
+      "h": "C'est peut-être vrai : Might, May, Could",
+      "p": "On utilise 'might', 'may' et 'could' quand on pense qu'une chose est possible, mais sans en être certains. C'est du du cinquante-cinq-cinquante. C'est peut-être le cas, ou peut-être pas. Il n'y a pas de grande différence entre 'might' et 'may', mais 'could' donne parfois l'impression d'un peu moins de certitude.",
+      "ex": [
+        {
+          "en": "I might go to the party, but I haven't decided yet.",
+          "mean": "Il est possible que j'y aille, mais je n'en suis pas certain."
+        },
+        {
+          "en": "Take an umbrella because it may rain later.",
+          "mean": "Il y a une chance qu'il pleuve aujourd'hui."
+        },
+        {
+          "en": "We could visit Italy for our next holiday.",
+          "mean": "Visiter l'Italie est une option possible pour nos vacances."
+        }
+      ]
+    },
+    {
+      "h": "C'est sûrement FAUX : Can't",
+      "p": "On utilise 'can't' lorsque l'on est presque sûr à 100 pour cent qu'une chose est impossible. Les faits ne correspondent pas à cette idée. Par exemple, si une personne vient de faire un énorme repas, elle n'a pas faim maintenant.",
+      "ex": [
+        {
+          "en": "That can't be true! You are joking.",
+          "mean": "Je suis presque sûr que c'est faux car cela semble impossible."
+        },
+        {
+          "en": "He can't be hungry; he just ate two big pizzas.",
+          "mean": "Il est impossible qu'il ait faim en ce moment."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "possibility",
+      "mean": "quelque chose qui pourrait se produire"
+    },
+    {
+      "en": "certain",
+      "mean": "totalement sûr"
+    },
+    {
+      "en": "impossible",
+      "mean": "ne peut pas être vrai"
+    },
+    {
+      "en": "guess",
+      "mean": "une idée sans preuve complète"
+    },
+    {
+      "en": "fact",
+      "mean": "des informations vraies"
+    },
+    {
+      "en": "sure",
+      "mean": "sûr de soi"
+    },
+    {
+      "en": "maybe",
+      "mean": "peut-être"
+    }
+  ],
+  "tip": "Voyez ces mots comme les échelons d'une échelle de certitude. 'Must' est tout en haut (sûr que oui), 'might', 'may' et 'could' sont au milieu (peut-être), et 'can't' est tout en bas (sûr que non).",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "Look at the dark clouds! It ___ rain this afternoon.",
+      "choices": [
+        "must",
+        "might",
+        "can't"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "He has lived in Spain for ten years. He ___ speak some Spanish.",
+      "choices": [
+        "must",
+        "can't",
+        "might not"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "That phone is only five dollars? It ___ be real, it is too cheap!",
+      "choices": [
+        "must",
+        "could",
+        "can't"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "I am not sure what to do tonight. I ___ stay at home and watch a movie.",
+      "choices": [
+        "could",
+        "must",
+        "can't"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "She isn't answering her phone. She ___ be busy at work.",
+      "choices": [
+        "can't",
+        "may",
+        "must not"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "They just ate breakfast an hour ago. They ___ be hungry again already.",
+      "choices": [
+        "must",
+        "might",
+        "can't"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

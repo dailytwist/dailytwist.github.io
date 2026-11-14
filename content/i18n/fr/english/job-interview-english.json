@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-27",
+  "slug": "job-interview-english",
+  "cefr": "B1",
+  "cat": "phrases",
+  "emoji": "💼",
+  "title": "Répondre aux questions fréquentes en entretien d'embauche",
+  "summary": "Apprenez à répondre à trois questions classiques d'entretien d'embauche. Vous vous entraînez à parler de vos compétences et de vos objectifs.",
+  "sections": [
+    {
+      "h": "Parlez-moi de vous",
+      "p": "C'est généralement la première question lors d'un entretien. Les recruteurs veulent un bref résumé de votre parcours professionnel. Parlez de votre poste actuel, de votre expérience passée et de la raison pour laquelle vous êtes ici aujourd'hui. Gardez une réponse de moins de deux minutes. Concentrez-vous sur le travail, pas sur votre vie personnelle.",
+      "ex": [
+        {
+          "en": "I have worked as a customer service agent for three years.",
+          "mean": "J'ai trois ans d'expérience dans l'aide aux clients."
+        },
+        {
+          "en": "In my last job, I managed a team of five people.",
+          "mean": "Auparavant, j'étais responsable de cinq employés."
+        },
+        {
+          "en": "I am looking for a new challenge in marketing.",
+          "mean": "Je cherche un nouveau poste où je pourrai faire du marketing."
+        }
+      ]
+    },
+    {
+      "h": "Quelles sont vos forces ?",
+      "p": "Lorsque les recruteurs vous interrogent sur vos points forts, ils veulent savoir ce que vous faites très bien. Choisissez deux ou trois compétences positives qui correspondent au poste. Donnez toujours un exemple rapide pour prouver que votre force est bien réelle.",
+      "ex": [
+        {
+          "en": "I am very organized and I never miss a deadline.",
+          "mean": "Je planifie bien mon travail et je termine toujours dans les délais."
+        },
+        {
+          "en": "My greatest strength is problem-solving.",
+          "mean": "Je suis très doué pour trouver des solutions à des problèmes complexes."
+        },
+        {
+          "en": "I communicate well with different types of people.",
+          "mean": "Il m'est facile de communiquer et de travailler avec tout le monde."
+        }
+      ]
+    },
+    {
+      "h": "Pourquoi voulez-vous ce poste ?",
+      "p": "Les entreprises veulent embaucher des personnes qui s'intéressent réellement à leur activité. Renseignez-vous sur l'entreprise avant l'entretien. Expliquez en quoi vos objectifs correspondent à ceux de l'entreprise et pourquoi vous avez hâte d'y travailler.",
+      "ex": [
+        {
+          "en": "I love your company's focus on green technology.",
+          "mean": "J'aime le fait que votre entreprise se soucie de l'environnement."
+        },
+        {
+          "en": "This role is a great match for my skills.",
+          "mean": "Mes aptitudes correspondent parfaitement à ce poste."
+        },
+        {
+          "en": "I want to grow my career with your team.",
+          "mean": "Je veux apprendre et progresser tout en travaillant ici."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "strength",
+      "mean": "une bonne compétence"
+    },
+    {
+      "en": "experience",
+      "mean": "l'expérience professionnelle passée"
+    },
+    {
+      "en": "deadline",
+      "mean": "l'échéance finale"
+    },
+    {
+      "en": "role",
+      "mean": "un poste"
+    },
+    {
+      "en": "goal",
+      "mean": "ce que vous voulez accomplir"
+    },
+    {
+      "en": "skill",
+      "mean": "la capacité de faire quelque chose"
+    },
+    {
+      "en": "interview",
+      "mean": "un entretien d'embauche"
+    },
+    {
+      "en": "current",
+      "mean": "actuel"
+    }
+  ],
+  "tip": "Exercez-vous à répondre à voix haute devant un miroir. S'enregistrer avec son téléphone aide à parler plus lentement et plus clairement.",
+  "quiz": [
+    {
+      "ask": "Choisissez la meilleure réponse pour 'Parlez-moi de vous'",
+      "en": "I have worked as a ___ for three years.",
+      "choices": [
+        "chef",
+        "happily",
+        "yesterday"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct pour une bonne compétence",
+      "en": "My greatest ___ is problem-solving.",
+      "choices": [
+        "weak",
+        "strength",
+        "tired"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct pour l'échéance",
+      "en": "I always finish my work before the ___.",
+      "choices": [
+        "deadline",
+        "start",
+        "lunch"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la bonne expression pour expliquer pourquoi vous voulez ce poste",
+      "en": "I want to ___ my career with your team.",
+      "choices": [
+        "stop",
+        "lose",
+        "grow"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez la meilleure façon de parler du travail passé",
+      "en": "In my last job, I ___ a team of five.",
+      "choices": [
+        "managed",
+        "fly",
+        "eating"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct pour un poste",
+      "en": "This ___ is a great match for my skills.",
+      "choices": [
+        "table",
+        "role",
+        "shoe"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

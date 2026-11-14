@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-27",
+  "slug": "used-to",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🕰️",
+  "title": "Parler du passé avec 'used to'",
+  "summary": "Apprenez à parler des choses que vous faisiez régulièrement par le passé mais que vous ne faites plus aujourd'hui. Entraînez-vous à utiliser cette grammaire pour raconter des anecdotes sur votre enfance.",
+  "sections": [
+    {
+      "h": "Qu'est-ce que 'used to' ?",
+      "p": "Nous utilisons 'used to' pour parler d'habitudes passées ou de choses qui étaient vraies autrefois, mais qui ont changé aujourd'hui. Par exemple, si vous mangiez du chocolat tous les jours quand vous étiez enfant, mais que vous n'en mangez plus du tout maintenant, vous pouvez dire 'I used to eat chocolate.' Cela nous aide à décrire de manière très simple les différences de vie entre avant et maintenant.",
+      "ex": [
+        {
+          "en": "I used to live in a small town.",
+          "mean": "J'habitais dans une petite ville par le passé, mais j'habite ailleurs maintenant."
+        },
+        {
+          "en": "She used to have long hair.",
+          "mean": "Autrefois, ses cheveux étaient longs. Maintenant, ses cheveux sont courts."
+        }
+      ]
+    },
+    {
+      "h": "Faire des phrases négatives",
+      "p": "Quand nous voulons dire qu'une chose n'était pas vraie par le passé, nous utilisons 'didn't use to'. Remarquez que 'used' perd son 'd' et devient 'use' à cause de l'auxiliaire 'did'. C'est une erreur fréquente, alors retenez bien : 'didn't use to' et non 'didn't used to'. C'est idéal pour parler des choses que vous ne faisiez jamais gamin.",
+      "ex": [
+        {
+          "en": "I didn't use to like vegetables.",
+          "mean": "Par le passé, je n'aimais pas les légumes."
+        },
+        {
+          "en": "He didn't use to play video games.",
+          "mean": "Autrefois, il n'avait pas pour habitude de jouer aux jeux vidéo."
+        }
+      ]
+    },
+    {
+      "h": "Poser des questions",
+      "p": "Pour interroger quelqu'un sur ses habitudes passées, on commence la question par 'Did' suivi de 'use to'. Par exemple, 'Did you use to play outside ?' C'est une façon sympa de lancer des discussions entre amis sur ce à quoi ressemblait la vie quand vous étiez tous les deux beaucoup plus jeunes.",
+      "ex": [
+        {
+          "en": "Did you use to have a bicycle?",
+          "mean": "Aviez-vous pour habitude de posséder un vélo par le passé ?"
+        },
+        {
+          "en": "Where did you use to work?",
+          "mean": "Quel était votre lieu de travail habituel par le passé ?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "used to",
+      "mean": "habitudes passées désormais révolues"
+    },
+    {
+      "en": "habit",
+      "mean": "routine régulière"
+    },
+    {
+      "en": "childhood",
+      "mean": "quand vous étiez jeune"
+    },
+    {
+      "en": "change",
+      "mean": "devenir différent"
+    },
+    {
+      "en": "didn't use to",
+      "mean": "habitude négative passée"
+    },
+    {
+      "en": "past",
+      "mean": "avant maintenant"
+    },
+    {
+      "en": "now",
+      "mean": "à l'époque actuelle"
+    }
+  ],
+  "tip": "Pensez à une chose que vous faisiez tous les jours il y a dix ans mais que vous ne faites plus du tout aujourd'hui. Dites-la à voix haute en utilisant 'I used to...'.",
+  "quiz": [
+    {
+      "ask": "Choisissez la forme correcte pour l'habitude passée",
+      "en": "I ___ play tennis every weekend, but I stopped.",
+      "choices": [
+        "use to",
+        "used to",
+        "using to"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la forme négative correcte",
+      "en": "She ___ drink coffee, but now she loves it.",
+      "choices": [
+        "didn't use to",
+        "didn't used to",
+        "not use to"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la forme interrogative correcte",
+      "en": "___ you use to live in Spain?",
+      "choices": [
+        "Did",
+        "Do",
+        "Were"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct pour compléter le trou",
+      "en": "We didn't ___ to have a television.",
+      "choices": [
+        "used",
+        "use",
+        "using"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Identifiez le sens de 'I used to walk to school.'",
+      "en": "What does this sentence mean?",
+      "choices": [
+        "I am walking to school right now.",
+        "I walk to school every tomorrow.",
+        "I walked to school regularly in the past."
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez la meilleure réponse",
+      "en": "Did he use to have a cat? - Yes, he ___.",
+      "choices": [
+        "did",
+        "used",
+        "had"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

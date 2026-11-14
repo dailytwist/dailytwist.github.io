@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-27",
+  "slug": "zero-conditional",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "☀️",
+  "title": "Parler de faits : Le premier zéro conditional",
+  "summary": "Dans cette leçon, vous allez apprendre à parler de faits réels et de choses qui sont toujours vraies. Vous vous entraînerez à utiliser une grammaire simple pour relier une cause à son résultat.",
+  "sections": [
+    {
+      "h": "Qu'est-ce que le zéro conditional ?",
+      "p": "Nous utilisons le zéro conditional pour parler de vérités générales, de faits scientifiques ou de choses qui se produisent toujours quand on fait quelque chose. Par exemple, si on chauffe de la glace, elle fond. Les deux parties de la phrase utilisent le présent simple car le résultat est toujours vrai.",
+      "ex": [
+        {
+          "en": "If you mix blue and yellow, you get green.",
+          "mean": "Combiner ces deux couleurs donne toujours du vert."
+        },
+        {
+          "en": "Plants die if they do not get enough water.",
+          "mean": "Le manque d'eau fait toujours mourir les plantes."
+        }
+      ]
+    },
+    {
+      "h": "Comment construire la phrase",
+      "p": "Une phrase au zéro conditional comporte deux parties : la proposition avec « si » (if) et la proposition principale. Vous pouvez commencer par « si » ou placer la proposition principale en premier. Le sens reste le même. Remarquez que lorsque « si » est au milieu, nous n'utilisons pas de virgule.",
+      "ex": [
+        {
+          "en": "If you touch fire, you burn your finger.",
+          "mean": "Toucher le feu provoque toujours une brûlure."
+        },
+        {
+          "en": "You burn your finger if you touch fire.",
+          "mean": "Le résultat vient en premier, mais la règle reste la même."
+        }
+      ]
+    },
+    {
+      "h": "Utiliser « Quand » au lieu de « Si »",
+      "p": "Dans les phrases au zéro conditional, vous pouvez souvent utiliser le mot « quand » à la place de « si ». Nous faisons cela lorsque nous sommes sûrs à 100 pour cent que l'action se produira. Cela permet à votre anglais de sonner très naturel lorsque vous décrivez des routines quotidiennes ou des lois de la nature.",
+      "ex": [
+        {
+          "en": "When it rains, the grass gets wet.",
+          "mean": "À chaque fois qu'il pleut, l'herbe devient mouillée."
+        },
+        {
+          "en": "I feel tired when I sleep less than six hours.",
+          "mean": "Ne pas dormir assez me fait toujours me sentir fatigué."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "zero conditional",
+      "mean": "grammaire pour faits réels"
+    },
+    {
+      "en": "general truth",
+      "mean": "chose toujours vraie"
+    },
+    {
+      "en": "present simple",
+      "mean": "temps de verbe de base"
+    },
+    {
+      "en": "result",
+      "mean": "ce qui se passe ensuite"
+    },
+    {
+      "en": "clause",
+      "mean": "partie d'une phrase"
+    },
+    {
+      "en": "scientific fact",
+      "mean": "règle de la nature prouvée"
+    },
+    {
+      "en": "comma",
+      "mean": "signe de ponctuation ,"
+    }
+  ],
+  "tip": "N'oubliez pas que les deux parties de la phrase utilisent le présent simple car vous parlez de faits, et non de possibilités futures.",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct pour compléter le fait.",
+      "en": "If you heat water to 100 degrees, it ___.",
+      "choices": [
+        "boil",
+        "boils",
+        "boiled",
+        "boiling"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le verbe correct pour cette vérité scientifique.",
+      "en": "Ice melts if you ___ it in the sun.",
+      "choices": [
+        "put",
+        "puts",
+        "putting",
+        "will put"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Sélectionnez le mot correct pour commencer cette phrase.",
+      "en": "___ you mix red and white, you get pink.",
+      "choices": [
+        "When",
+        "Will",
+        "Did",
+        "Would"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Trouvez le résultat correct pour cette condition.",
+      "en": "If my dog sees the mailman, he ___.",
+      "choices": [
+        "bark",
+        "barking",
+        "barks",
+        "barked"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez la structure de phrase correcte.",
+      "en": "Dogs ___ if they are hungry.",
+      "choices": [
+        "whine",
+        "whines",
+        "whined",
+        "is whine"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Complétez le fait naturel.",
+      "en": "Plants grow fast if they ___ a lot of sunlight.",
+      "choices": [
+        "gets",
+        "getting",
+        "got",
+        "get"
+      ],
+      "answer_index": 3
+    }
+  ]
+}
