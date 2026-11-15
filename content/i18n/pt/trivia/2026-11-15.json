@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-15",
+  "title": "Quiz de Conhecimentos Gerais do Dia 15 de novembro de 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Qual dos Grandes Lagos está localizado inteiramente dentro das fronteiras dos Estados Unidos?",
+      "options": [
+        "Lago Huron",
+        "Lago Ontário",
+        "Lago Michigan",
+        "Lago Superior"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O Lago Michigan é o segundo maior dos Grandes Lagos em volume e o único que não faz fronteira com o Canadá."
+    },
+    {
+      "category": "Ciência",
+      "question": "Qual é o símbolo químico do elemento tungstênio?",
+      "options": [
+        "Tu",
+        "Tg",
+        "W",
+        "Tn"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O símbolo 'W' vem de wolfram, o nome mais antigo do elemento derivado do mineral wolframita."
+    },
+    {
+      "category": "História",
+      "question": "Em que ano caiu o Muro de Berlim, marcando um momento crucial para o fim da Guerra Fria?",
+      "options": [
+        "1989",
+        "1987",
+        "1991",
+        "1993"
+      ],
+      "answer_index": 0,
+      "fun_fact": "A abertura do muro aconteceu inesperadamente na noite de 9 de novembro de 1989, após um mal-entendidos burocrático."
+    },
+    {
+      "category": "Filmes e Cultura Pop",
+      "question": "Qual animação apresenta o icônico clube de jazz fictício 'The Half Note'?",
+      "options": [
+        "A Princesa e o Sapo",
+        "Soul",
+        "Ratatouille",
+        "Coco"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O filme 'Soul', da Pixar, fez história por ser o primeiro longa-metragem do estúdio a ter um protagonista afro-americano."
+    },
+    {
+      "category": "Comida",
+      "question": "Qual é o ingrediente principal usado para fazer a tradicional sopa fria espanhola conhecida como gazpacho?",
+      "options": [
+        "Tomate cru",
+        "Batata",
+        "Pepino",
+        "Beterraba"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O gazpacho é originário da região sul da Andaluzia, onde tradicionalmente os ingredientes eram socados em um pilão."
+    },
+    {
+      "category": "Animais",
+      "question": "Qual é a principal dieta da baleia-jubarte?",
+      "options": [
+        "Pequenos peixes e krill",
+        "Caranguejos bentônicos e caracóis",
+        "Algas e sargaços",
+        "Tubarões maiores e lulas"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Apesar do seu tamanho massivo, as baleias-jubarte se alimentam de algumas das criaturas menores do oceano, usando barbatanas para filtrar o alimento."
+    },
+    {
+      "category": "Esportes",
+      "question": "Quantos jogadores ficam no gelo por um único time ao mesmo tempo durante uma partida padrão de hóquei no gelo da NHL, excluindo o goleiro?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Um time padrão no gelo é composto por três atacantes e dois defensores, além do goleiro."
+    },
+    {
+      "category": "Idioma",
+      "question": "Qual é o termo linguístico para palavras que compartilham a mesma origem, como o inglês 'night' e o alemão 'Nacht'?",
+      "options": [
+        "Sinônimos",
+        "Cognatos",
+        "Acrônimos",
+        "Homófonos"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Cognatos frequentemente parecem e soam semelhantes em idiomas relacionados porque descem de uma língua ancestral comum."
+    },
+    {
+      "category": "Espaço",
+      "question": "Qual lua de Saturno é famosa por ter uma atmosfera densa rica em nitrogênio e lagos de metano líquido em sua superfície?",
+      "options": [
+        "Encélado",
+        "Titã",
+        "Mimas",
+        "Jápeto"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Titã é a única lua do nosso sistema solar conhecida por ter uma atmosfera densa e corpos estáveis de líquido na superfície."
+    },
+    {
+      "category": "História",
+      "question": "A Pedra de Roseta apresenta inscrições em grego antigo, hieróglifos egípcios e qual terceiro tipo de escrita?",
+      "options": [
+        "Latim",
+        "Hebraico",
+        "Cuneiforme",
+        "Demótico"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O demótico era a escrita cursiva do dia a dia do Egito antigo usada durante o período ptolomaico."
+    }
+  ]
+}

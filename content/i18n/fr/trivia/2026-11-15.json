@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-15",
+  "title": "Quiz du jour du 15 novembre 2026",
+  "questions": [
+    {
+      "category": "Géographie",
+      "question": "Lequel des Grands Lacs est situé entièrement à l'intérieur des frontières des États-Unis ?",
+      "options": [
+        "Le lac Huron",
+        "Le lac Ontario",
+        "Le lac Michigan",
+        "Le lac Supérieur"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le lac Michigan est le deuxième plus grand des Grands Lacs en volume et le seul qui ne possède pas de frontière avec le Canada."
+    },
+    {
+      "category": "Science",
+      "question": "Quel est le symbole chimique de l'élément tungstène ?",
+      "options": [
+        "Tu",
+        "Tg",
+        "W",
+        "Tn"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le symbole « W » vient de wolfram, l'ancien nom de l'élément dérivé du minéral wolframite."
+    },
+    {
+      "category": "Histoire",
+      "question": "En quelle année le mur de Berlin est-il tombé, marquant un tournant décisif dans la fin de la guerre froide ?",
+      "options": [
+        "1989",
+        "1987",
+        "1991",
+        "1993"
+      ],
+      "answer_index": 0,
+      "fun_fact": "L'ouverture du mur s'est produite de manière inopinée dans la soirée du 9 novembre 1989, à la suite d'un malentendu bureaucratique."
+    },
+    {
+      "category": "Films et culture pop",
+      "question": "Quel film d'animation met en scène le célèbre club de jazz fictif « The Half Note » ?",
+      "options": [
+        "La Princesse et la Grenouille",
+        "Soul",
+        "Ratatouille",
+        "Coco"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Le film « Soul » de Pixar a marqué l'histoire en étant le premier long métrage du studio à mettre en scène un protagoniste afro-américain."
+    },
+    {
+      "category": "Cuisine",
+      "question": "Quel est l'ingrédient principal utilisé pour préparer la soupe froide traditionnelle espagnole connue sous le nom de gazpacho ?",
+      "options": [
+        "La tomate crue",
+        "La pomme de terre",
+        "Le concombre",
+        "La betterave"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le gazpacho est originaire de la région méridionale de l'Andalousie, où les ingrédients étaient traditionnellement pilés dans un mortier."
+    },
+    {
+      "category": "Animaux",
+      "question": "Quel est le régime alimentaire principal de la baleine à bosse ?",
+      "options": [
+        "Petits poissons et krill",
+        "Crabes benthiques et escargots",
+        "Varech et algues",
+        "Requins de grande taille et calmars"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Malgré leur taille gigantesque, les baleines à bosse se nourrissent de certaines des plus petites créatures de l'océan en utilisant des fanons pour filtrer leur nourriture."
+    },
+    {
+      "category": "Sports",
+      "question": "Combien de joueurs composent l'équipe présente sur la glace à un moment donné lors d'un match de hockey sur glace standard de la LNH, sans compter le gardien de but ?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Une équipe standard sur la glace est constituée de trois attaquants et de deux défenseurs, en plus du gardien de but."
+    },
+    {
+      "category": "Langue",
+      "question": "Quel est le terme linguistique désignant des mots qui partagent la même origine, tels que l'anglais « night » et l'allemand « Nacht » ?",
+      "options": [
+        "Synonymes",
+        "Mots apparentés",
+        "Acronymes",
+        "Homophones"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Les mots apparentés se ressemblent souvent à l'écrit et à l'oral dans les langues d'une même famille parce qu'ils descendent d'une langue ancêtre commune."
+    },
+    {
+      "category": "Espace",
+      "question": "Quelle lune de Saturne est célèbre pour posséder une atmosphère dense et riche en azote ainsi que des lacs de méthane liquide à sa surface ?",
+      "options": [
+        "Encelade",
+        "Titan",
+        "Mimas",
+        "Japet"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Titan est la seule lune de notre système solaire connue pour posséder une atmosphère dense et des étendues stables de liquide en surface."
+    },
+    {
+      "category": "Histoire",
+      "question": "La pierre de Rosette comporte des inscriptions en grec ancien, en hiéroglyphes égyptiens et dans quelle troisième écriture ?",
+      "options": [
+        "Latin",
+        "Hébreu",
+        "Cunéiforme",
+        "Démotique"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Le démotique était l'écriture cursive courante de l'Égypte ancienne utilisée pendant la période ptolémaïque."
+    }
+  ]
+}

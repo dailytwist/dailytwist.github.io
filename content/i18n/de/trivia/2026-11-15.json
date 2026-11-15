@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-15",
+  "title": "Tägliches Quiz vom 15. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welcher der Großen Seen liegt vollständig innerhalb der Grenzen der Vereinigten Staaten?",
+      "options": [
+        "Lake Huron",
+        "Lake Ontario",
+        "Lake Michigan",
+        "Lake Superior"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Der Michigansee ist nach Volumen der zweitgrößte der Großen Seen und der einzige, der nicht an Kanada grenzt."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist das chemische Symbol für das Element Wolfram?",
+      "options": [
+        "Tu",
+        "Tg",
+        "W",
+        "Tn"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Das Symbol 'W' stammt von Wolfram, dem älteren Namen des Elements, der sich vom Mineral Wolframit ableitet."
+    },
+    {
+      "category": "Geschichte",
+      "question": "In welchem Jahr fiel die Berliner Mauer und markierte damit einen entscheidenden Moment für das Ende des Kalten Krieges?",
+      "options": [
+        "1989",
+        "1987",
+        "1991",
+        "1993"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Die Öffnung der Mauer geschah am Abend des 9. November 1989 völlig unerwartet nach einem bürokratischen Missverständnis."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "In welchem Animationsfilm kommt der legendäre fiktive Jazzclub 'The Half Note' vor?",
+      "options": [
+        "Küss den Frosch",
+        "Soul",
+        "Ratatouille",
+        "Coco"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Pixars 'Soul' schrieb Geschichte als erster abendfüllender Pixar-Film, in dessen Mittelpunkt ein afroamerikanischer Protagonist steht."
+    },
+    {
+      "category": "Essen",
+      "question": "Was ist die Hauptzutat für die traditionelle spanische kalte Suppe namens Gazpacho?",
+      "options": [
+        "Rohe Tomate",
+        "Kartoffel",
+        "Gurke",
+        "Rote Beete"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Gazpacho hat ihren Ursprung in der südlichen Region Andalusien, wo die Zutaten traditionell in einem Mörser zerstampft wurden."
+    },
+    {
+      "category": "Tiere",
+      "question": "Woraus besteht die Hauptnahrung des Buckelwals?",
+      "options": [
+        "Kleine Fische und Krill",
+        "Benthische Krabben und Schnecken",
+        "Seetang und Algen",
+        "Größere Haie und Tintenfische"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Trotz ihrer enormen Größe ernähren sich Buckelwale von einigen der kleinsten Meeresbewohner, indem sie Barten nutzen, um die Nahrung herauszufiltern."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Spieler stehen bei einem regulären Eishockeyspiel der NHL gleichzeitig für ein Team auf dem Eis, den Torwart ausgenommen?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Ein Standard-Team auf dem Eis besteht aus drei Stürmern und zwei Verteidigern sowie dem Torhüter."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie lautet der sprachwissenschaftliche Begriff für Wörter, die denselben Ursprung haben, wie das englische 'night' und das deutsche 'Nacht'?",
+      "options": [
+        "Synonyme",
+        "Kognate",
+        "Akronyme",
+        "Homophone"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Kognate sehen in verwandten Sprachen oft ähnlich aus und klingen ähnlich, da sie von einer gemeinsamen Ursprache abstammen."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Saturnmond ist dafür bekannt, dass er eine dichte, stickstoffreiche Atmosphäre und Seen aus flüssigem Methan auf seiner Oberfläche hat?",
+      "options": [
+        "Enceladus",
+        "Titan",
+        "Mimas",
+        "Iapetus"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Titan ist der einzige Mond in unserem Sonnensystem, von dem bekannt ist, dass er eine dichte Atmosphäre und stabile Ansammlungen von Oberflächenflüssigkeit besitzt."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Der Stein von Rosette enthält Inschriften in Altgriechisch, ägyptischen Hieroglyphen und welcher dritten Schrift?",
+      "options": [
+        "Lateinisch",
+        "Hebräisch",
+        "Keilschrift",
+        "Demotisch"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Demotisch war die alltägliche Kursivschrift des alten Ägypten, die während der ptolemäischen Periode verwendet wurde."
+    }
+  ]
+}

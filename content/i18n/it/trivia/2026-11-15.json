@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-15",
+  "title": "Quiz Trivia del 15 Novembre 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Quale dei Grandi Laghi si trova interamente all'interno dei confini degli Stati Uniti?",
+      "options": [
+        "Lago Huron",
+        "Lago Ontario",
+        "Lago Michigan",
+        "Lago Superior"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il Lago Michigan è il secondo Grande Lago per volume ed è l'unico a non confinare con il Canada."
+    },
+    {
+      "category": "Scienza",
+      "question": "Qual è il simbolo chimico dell'elemento tungsteno?",
+      "options": [
+        "Tu",
+        "Tg",
+        "W",
+        "Tn"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il simbolo 'W' deriva da wolfram, il vecchio nome dell'elemento che deriva dal minerale wolframite."
+    },
+    {
+      "category": "Storia",
+      "question": "In quale anno è caduto il Muro di Berlino, segnando un momento cruciale per la fine della Guerra Fredda?",
+      "options": [
+        "1989",
+        "1987",
+        "1991",
+        "1993"
+      ],
+      "answer_index": 0,
+      "fun_fact": "L'apertura del muro avvenne inaspettatamente la sera del 9 novembre 1989, a seguito di un malinteso burocratico."
+    },
+    {
+      "category": "Cinema & Pop Culture",
+      "question": "In quale film d'animazione compare l'iconico e fittizio jazz club 'The Half Note'?",
+      "options": [
+        "La principessa e il ranocchio",
+        "Soul",
+        "Ratatouille",
+        "Coco"
+      ],
+      "answer_index": 1,
+      "fun_fact": "'Soul' della Pixar è entrato nella storia come il primo lungometraggio Pixar ad avere come protagonista un afroamericano."
+    },
+    {
+      "category": "Cibo",
+      "question": "Qual è l'ingrediente principale utilizzato per preparare la tradizionale zuppa fredda spagnola nota come gazpacho?",
+      "options": [
+        "Pomodoro crudo",
+        "Patata",
+        "Cetriolo",
+        "Barbabietola"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il gazpacho è originario della regione meridionale dell'Andalusia, dove gli ingredienti venivano tradizionalmente pestati in un mortaio."
+    },
+    {
+      "category": "Animali",
+      "question": "Qual è la dieta principale della megattera?",
+      "options": [
+        "Piccoli pesci e krill",
+        "Granchi bentonici e lumache",
+        "Kelp e alghe",
+        "Squali più grandi e calamari"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Nonostante le loro enormi dimensioni, le megattere si nutrono di alcune delle creature più piccole dell'oceano utilizzando i fanoni per filtrare il cibo."
+    },
+    {
+      "category": "Sport",
+      "question": "Quanti giocatori di una singola squadra sono presenti sul ghiaccio contemporaneamente durante una partita di hockey su ghiaccio standard della NHL, escluso il portiere?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Una squadra standard sul ghiaccio è composta da tre attaccanti e due difensori, oltre al portiere."
+    },
+    {
+      "category": "Linguistica",
+      "question": "Qual è il termine linguistico per le parole che condividono la stessa origine, come l'inglese 'night' e il tedesco 'Nacht'?",
+      "options": [
+        "Sinonimi",
+        "Cognati",
+        "Acronimi",
+        "Omofoni"
+      ],
+      "answer_index": 1,
+      "fun_fact": "I termini cognati spesso hanno un aspetto e un suono simili in lingue imparentate perché discendono da una lingua ancestrale comune."
+    },
+    {
+      "category": "Spazio",
+      "question": "Quale luna di Saturno è famosa per avere una densa atmosfera ricca di azoto e laghi di metano liquido sulla sua superficie?",
+      "options": [
+        "Encelado",
+        "Titano",
+        "Mimas",
+        "Giapeto"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Titano è l'unica luna del nostro sistema solare nota per avere una densa atmosfera e corpi stabili di liquido in superficie."
+    },
+    {
+      "category": "Storia",
+      "question": "La Stele di Rosetta presenta iscrizioni in greco antico, geroglifici egizi e quale terzo sistema di scrittura?",
+      "options": [
+        "Latino",
+        "Ebraico",
+        "Cuneiforme",
+        "Demotico"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Il demotico era la scrittura corsiva di uso quotidiano dell'antico Egitto utilizzata durante il periodo tolemaico."
+    }
+  ]
+}

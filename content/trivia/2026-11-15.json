@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-15",
+  "title": "November 15, 2026 Daily Trivia Quiz",
+  "questions": [
+    {
+      "category": "Geography",
+      "question": "Which of the Great Lakes is located entirely within the borders of the United States?",
+      "options": [
+        "Lake Huron",
+        "Lake Ontario",
+        "Lake Michigan",
+        "Lake Superior"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Lake Michigan is the second-largest Great Lake by volume and the only one that does not border Canada."
+    },
+    {
+      "category": "Science",
+      "question": "What is the chemical symbol for the element tungsten?",
+      "options": [
+        "Tu",
+        "Tg",
+        "W",
+        "Tn"
+      ],
+      "answer_index": 2,
+      "fun_fact": "The symbol 'W' comes from wolfram, the element's older name derived from the mineral wolframite."
+    },
+    {
+      "category": "History",
+      "question": "In what year did the Berlin Wall fall, marking a pivotal moment in the end of the Cold War?",
+      "options": [
+        "1989",
+        "1987",
+        "1991",
+        "1993"
+      ],
+      "answer_index": 0,
+      "fun_fact": "The opening of the wall happened unexpectedly on the evening of November 9, 1989, after a bureaucratic misunderstanding."
+    },
+    {
+      "category": "Movies & Pop Culture",
+      "question": "Which animated film features the iconic fictional jazz club 'The Half Note'?",
+      "options": [
+        "The Princess and the Frog",
+        "Soul",
+        "Ratatouille",
+        "Coco"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Pixar's 'Soul' made history as the first Pixar feature film to center on an African American protagonist."
+    },
+    {
+      "category": "Food",
+      "question": "What primary ingredient is used to make the traditional Spanish cold soup known as gazpacho?",
+      "options": [
+        "Raw tomato",
+        "Potato",
+        "Cucumber",
+        "Beetroot"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Gazpacho originated in the southern region of Andalusia, where ingredients were traditionally pounded in a mortar."
+    },
+    {
+      "category": "Animals",
+      "question": "What is the primary diet of the humpback whale?",
+      "options": [
+        "Small fish and krill",
+        "Benthic crabs and snails",
+        "Kelp and seaweed",
+        "Larger sharks and squid"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Despite their massive size, humpback whales feed on some of the ocean's smallest creatures using baleen plates to filter food."
+    },
+    {
+      "category": "Sports",
+      "question": "How many players are on the ice for a single team at one time during a standard NHL ice hockey game, excluding the goaltender?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A standard team on the ice consists of three forwards and two defensemen, alongside the goaltender."
+    },
+    {
+      "category": "Language",
+      "question": "What is the linguistic term for words that share the same origin, such as English 'night' and German 'Nacht'?",
+      "options": [
+        "Synonyms",
+        "Cognates",
+        "Acronyms",
+        "Homophones"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Cognates often look and sound similar across related languages because they descended from a common ancestral tongue."
+    },
+    {
+      "category": "Space",
+      "question": "Which moon of Saturn is famous for having a dense nitrogen-rich atmosphere and liquid methane lakes on its surface?",
+      "options": [
+        "Enceladus",
+        "Titan",
+        "Mimas",
+        "Iapetus"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Titan is the only moon in our solar system known to have a dense atmosphere and stable bodies of surface liquid."
+    },
+    {
+      "category": "History",
+      "question": "The Rosetta Stone features inscriptions in ancient Greek, Egyptian hieroglyphs, and which third script?",
+      "options": [
+        "Latin",
+        "Hebrew",
+        "Cuneiform",
+        "Demotic"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Demotic was the everyday cursive script of ancient Egypt used during the Ptolemaic period."
+    }
+  ]
+}
