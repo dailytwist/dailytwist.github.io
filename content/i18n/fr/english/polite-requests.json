@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-26",
+  "slug": "polite-requests",
+  "cefr": "A2",
+  "cat": "phrases",
+  "emoji": "🙋",
+  "title": "Demander poliment : Could, Would et May",
+  "summary": "Apprenez à demander des choses poliment en anglais. Vous utiliserez could, would et may dans la vie de tous les jours.",
+  "sections": [
+    {
+      "h": "Utiliser Could pour des demandes polies",
+      "p": "Nous utilisons 'could' pour demander quelque chose de manière polie. C'est plus doux et plus agréable que de dire 'can'. Vous pouvez l'utiliser en parlant à des personnes que vous ne connaissez pas bien, ou dans les magasins et les restaurants. C'est très courant et très utile au quotidien.",
+      "ex": [
+        {
+          "en": "Could you help me, please?",
+          "mean": "Aidez-moi, s'il vous plaît."
+        },
+        {
+          "en": "Could I have the menu?",
+          "mean": "Donnez-moi le menu, s'il vous plaît."
+        }
+      ]
+    },
+    {
+      "h": "Utiliser Would pour les offres et les souhaits",
+      "p": "Nous utilisons 'would' pour poser des questions polies sur ce que quelqu'un désire. Nous disons souvent 'Would you like...?' lorsque nous proposons à un ami ou à un client à manger, à boire ou notre aide. C'est une façon de parler très polie et amicale.",
+      "ex": [
+        {
+          "en": "Would you like a cup of tea?",
+          "mean": "Voulez-vous du thé ?"
+        },
+        {
+          "en": "Would you open the window?",
+          "mean": "Veuillez ouvrir la fenêtre."
+        }
+      ]
+    },
+    {
+      "h": "Utiliser May pour une permission formelle",
+      "p": "Nous utilisons 'may' lorsque nous voulons demander la permission d'une manière très polie ou formelle. C'est parfait pour les bureaux, les hôtels, ou pour parler à des professeurs et des patrons. Cela paraît un peu plus sérieux que 'could', mais les gens l'utilisent tous les jours.",
+      "ex": [
+        {
+          "en": "May I use your phone?",
+          "mean": "Puis-je utiliser votre téléphone ?"
+        },
+        {
+          "en": "May I come in?",
+          "mean": "Puis-je entrer dans la pièce ?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Could",
+      "mean": "passé poli de can"
+    },
+    {
+      "en": "Would",
+      "mean": "utilisé pour les offres polies"
+    },
+    {
+      "en": "May",
+      "mean": "permission très polie"
+    },
+    {
+      "en": "Please",
+      "mean": "mot marquant la politesse"
+    },
+    {
+      "en": "Permission",
+      "mean": "dire oui pour faire quelque chose"
+    },
+    {
+      "en": "Offer",
+      "mean": "offrir de l'aide ou de la nourriture"
+    },
+    {
+      "en": "Formal",
+      "mean": "sérieux et correct"
+    }
+  ],
+  "tip": "Imaginez que 'May' porte un beau costume pour une réunion importante, et que 'Could' et 'Would' sont vos vêtements décontractés de tous les jours !",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot poli correct",
+      "en": "___ you help me carry this heavy bag, please?",
+      "choices": [
+        "Could",
+        "Do",
+        "Are"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la meilleure offre polie",
+      "en": "___ you like some water?",
+      "choices": [
+        "Do",
+        "Would",
+        "Can"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot formel pour demander la permission",
+      "en": "___ I leave the room now?",
+      "choices": [
+        "Must",
+        "Will",
+        "May"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Complétez la question polie",
+      "en": "Could I ___ the bill, please?",
+      "choices": [
+        "have",
+        "has",
+        "having"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Sélectionnez le bon début d'offre polie",
+      "en": "Would you like ___ coffee?",
+      "choices": [
+        "an",
+        "a",
+        "some"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez la requête polie correcte",
+      "en": "___ you please tell me the time?",
+      "choices": [
+        "Would",
+        "Could",
+        "Both are correct"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

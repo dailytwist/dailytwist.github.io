@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-26",
+  "slug": "question-words",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "❓",
+  "title": "Poser des questions : Quoi, Où, Quand, Qui, Pourquoi, Comment",
+  "summary": "Apprenez à utiliser les mots interrogatifs pour demander des informations importantes en anglais. Entraînez-vous à formuler des questions simples pour vos conversations de tous les jours.",
+  "sections": [
+    {
+      "h": "What, Where et When",
+      "p": "Nous utilisons 'what' pour poser des questions sur des choses. Nous utilisons 'where' pour demander des lieux. Nous utilisons 'when' pour demander l'heure ou les jours. Placez ces mots interrogatifs tout au début de votre phrase, avant le verbe, pour obtenir l'information dont vous avez besoin.",
+      "ex": [
+        {
+          "en": "What is your name?",
+          "mean": "Demander une chose ou un fait."
+        },
+        {
+          "en": "Where do you live?",
+          "mean": "Demander un lieu."
+        },
+        {
+          "en": "When is your birthday?",
+          "mean": "Demander l'heure."
+        }
+      ]
+    },
+    {
+      "h": "Who, Why et How",
+      "p": "Nous utilisons 'who' pour poser des questions sur une personne. Nous utilisons 'why' pour demander la raison, et nous répondons généralement avec 'because'. Nous utilisons 'how' pour demander la manière dont quelque chose est fait, ou pour parler de la santé et des sentiments.",
+      "ex": [
+        {
+          "en": "Who is that man?",
+          "mean": "Demander à propos d'une personne."
+        },
+        {
+          "en": "Why are you happy?",
+          "mean": "Demander une raison."
+        },
+        {
+          "en": "How are you today?",
+          "mean": "Demander des nouvelles de la santé ou des sentiments."
+        }
+      ]
+    },
+    {
+      "h": "Former la question",
+      "p": "N'oubliez pas l'ordre correct pour votre question. Commencez par le mot interrogatif, puis ajoutez l'auxiliaire comme 'do', 'does' ou 'is', suivi du sujet et de l'action principale. Cela aide les gens à bien vous comprendre.",
+      "ex": [
+        {
+          "en": "Where do you work?",
+          "mean": "Mot interrogatif suivi de do et du sujet."
+        },
+        {
+          "en": "How do you make this?",
+          "mean": "Demander la manière de faire quelque chose."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "What",
+      "mean": "interroge sur des choses"
+    },
+    {
+      "en": "Where",
+      "mean": "interroge sur des lieux"
+    },
+    {
+      "en": "When",
+      "mean": "interroge sur le temps"
+    },
+    {
+      "en": "Who",
+      "mean": "interroge sur des personnes"
+    },
+    {
+      "en": "Why",
+      "mean": "demande des raisons"
+    },
+    {
+      "en": "How",
+      "mean": "interroge sur la manière"
+    },
+    {
+      "en": "Question word",
+      "mean": "début d'une question"
+    }
+  ],
+  "tip": "Pensez aux 5 W et au 1 H. Écrivez-les sur une petite carte et regardez-la tous les matins pour vous en souvenir.",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "___ is your favorite color?",
+      "choices": [
+        "What",
+        "Where",
+        "Who"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "___ do you live?",
+      "choices": [
+        "When",
+        "Where",
+        "Why"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "___ is your English teacher?",
+      "choices": [
+        "Where",
+        "What",
+        "Who"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "___ do you go to sleep?",
+      "choices": [
+        "When",
+        "Who",
+        "How"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "___ are you sad?",
+      "choices": [
+        "How",
+        "Why",
+        "What"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "___ do you spell this word?",
+      "choices": [
+        "Who",
+        "What",
+        "How"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

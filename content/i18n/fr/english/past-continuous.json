@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-26",
+  "slug": "past-continuous",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "⏳",
+  "title": "Parler du passé : le prétérit en -ing (past continuous)",
+  "summary": "Apprenez à parler d'actions qui étaient en cours à un moment précis du passé. C'est idéal pour raconter de meilleures anecdotes sur votre journée.",
+  "sections": [
+    {
+      "h": "Qu'est-ce que le past continuous ?",
+      "p": "Nous utilisons le past continuous pour parler d'une action qui était en train de se dérouler à un moment précis du passé. Pour former ce temps, on utilise le prétérit du verbe 'to be' (was ou were) suivi du verbe principal avec la terminaison '-ing'. Utilisez 'was' avec I, he, she et it. Utilisez 'were' avec you, we et they.",
+      "ex": [
+        {
+          "en": "I was sleeping at 10 PM last night.",
+          "mean": "À 22h hier soir, j'étais en train de dormir."
+        },
+        {
+          "en": "They were watching a movie at that time.",
+          "mean": "À ce moment-là dans le passé, ils étaient en train de regarder un film."
+        }
+      ]
+    },
+    {
+      "h": "Poser des questions",
+      "p": "Pour poser une question au past continuous, on inverse l'ordre des mots. On place 'Was' ou 'Were' en premier, puis le sujet (comme you ou he), et enfin le verbe en '-ing'. C'est très utile quand vous voulez demander ce que quelqu'un faisait hier.",
+      "ex": [
+        {
+          "en": "What were you doing at 8 o'clock?",
+          "mean": "Je veux savoir ce que tu faisais à ce moment-là dans le passé."
+        },
+        {
+          "en": "Was she working late yesterday?",
+          "mean": "Est-ce qu'elle était en train de travailler tard hier ?"
+        }
+      ]
+    },
+    {
+      "h": "Faire des phrases négatives",
+      "p": "Pour dire ce que vous NE faisiez PAS dans le passé, ajoutez simplement 'not' après 'was' ou 'were'. Vous pouvez aussi utiliser les formes contractées 'wasn't' ou 'weren't'. Cela vous aide à rectifier des erreurs ou à expliquer clairement vos actions passées.",
+      "ex": [
+        {
+          "en": "I was not listening to music.",
+          "mean": "Mon action à ce moment-là n'incluait pas le fait d'écouter de la musique."
+        },
+        {
+          "en": "They weren't paying attention.",
+          "mean": "Ils ne regardaient pas et n'écoutaient pas à cet instant précis."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "was",
+      "mean": "prétérit de 'is' (I/he/she/it)"
+    },
+    {
+      "en": "were",
+      "mean": "prétérit de 'are' (you/we/they)"
+    },
+    {
+      "en": "-ing form",
+      "mean": "terminaison du verbe pour le continu"
+    },
+    {
+      "en": "in progress",
+      "mean": "en train de se produire maintenant ou à ce moment-là"
+    },
+    {
+      "en": "at that time",
+      "mean": "à un moment précis"
+    },
+    {
+      "en": "wasn't",
+      "mean": "n'était pas"
+    },
+    {
+      "en": "weren't",
+      "mean": "n'étaient pas"
+    }
+  ],
+  "tip": "Pensez toujours aux deux parties : was/were + verbe-ing. Considérez 'was/were' comme l'assistant et '-ing' comme le moteur de l'action !",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "I ___ reading a book when you called.",
+      "choices": [
+        "were",
+        "was",
+        "is"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "They ___ playing football at 4 PM.",
+      "choices": [
+        "was",
+        "is",
+        "were"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "What ___ you doing last night?",
+      "choices": [
+        "were",
+        "was",
+        "did"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "She wasn't ___ TV; she was studying.",
+      "choices": [
+        "watch",
+        "watched",
+        "watching"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "___ it raining when you went outside?",
+      "choices": [
+        "Was",
+        "Were",
+        "Did"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "We ___ sleeping when the phone rang.",
+      "choices": [
+        "wasn't",
+        "weren't",
+        "aren't"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-26",
+  "slug": "technology-words",
+  "cefr": "A2",
+  "cat": "vocab",
+  "emoji": "📱",
+  "title": "Vocabulaire de la technologie au quotidien",
+  "summary": "Apprenez quatre mots courants liés à la technologie que nous utilisons tous les jours. Entraînez-vous à parler de votre téléphone, de vos applications, de votre chargeur et de votre mot de passe.",
+  "sections": [
+    {
+      "h": "Téléphone et application",
+      "p": "Un téléphone est un appareil que nous utilisons pour appeler des amis et envoyer des messages. Une application est un petit programme sur votre téléphone. Vous pouvez utiliser des applications pour jouer à des jeux, écouter de la musique ou prendre des photos. Nous utilisons des téléphones et des applications chaque jour pour rester connectés.",
+      "ex": [
+        {
+          "en": "I need to buy a new phone.",
+          "mean": "Je veux obtenir un téléphone différent."
+        },
+        {
+          "en": "Can you download this app?",
+          "mean": "Veuillez installer ce programme sur votre téléphone."
+        }
+      ]
+    },
+    {
+      "h": "Chargeur",
+      "p": "Un chargeur est un câble ou un appareil qui alimente votre téléphone en électricité. Lorsque la batterie de votre téléphone est faible, vous avez besoin d'un chargeur pour qu'il fonctionne à nouveau. Vous le branchez au mur et à votre téléphone.",
+      "ex": [
+        {
+          "en": "My phone battery is dead. Where is my charger?",
+          "mean": "Mon téléphone n'a plus de batterie. J'ai besoin du câble pour le charger."
+        },
+        {
+          "en": "Do you have an iPhone charger?",
+          "mean": "Est-ce que je peux emprunter un câble pour mon téléphone Apple ?"
+        }
+      ]
+    },
+    {
+      "h": "Mot de passe",
+      "p": "Un mot de passe est un mot ou des chiffres secrets. Vous utilisez un mot de passe pour déverrouiller votre téléphone ou vous connecter à une application. Il protège vos informations personnelles contre les autres personnes pour qu'elles ne puissent pas voir vos messages.",
+      "ex": [
+        {
+          "en": "Type your password to unlock the screen.",
+          "mean": "Entrez votre mot secret pour voir votre téléphone."
+        },
+        {
+          "en": "I forgot my password.",
+          "mean": "Je ne me souviens pas de mes chiffres secrets."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "phone",
+      "mean": "appareil mobile"
+    },
+    {
+      "en": "app",
+      "mean": "programme pour téléphone"
+    },
+    {
+      "en": "charger",
+      "mean": "câble de recharge de batterie"
+    },
+    {
+      "en": "password",
+      "mean": "mot secret"
+    },
+    {
+      "en": "battery",
+      "mean": "batterie du téléphone"
+    },
+    {
+      "en": "download",
+      "mean": "télécharger une application"
+    },
+    {
+      "en": "unlock",
+      "mean": "déverrouiller l'écran"
+    }
+  ],
+  "tip": "Écrivez vos mots high-tech sur des notes autocollantes et collez-les sur votre vrai téléphone ou chargeur d'ordinateur pour les mémoriser plus vite !",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "I use my ___ to call my mother every Sunday.",
+      "choices": [
+        "charger",
+        "phone",
+        "password",
+        "app"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "My battery is at 2%. Where is my ___?",
+      "choices": [
+        "charger",
+        "password",
+        "app",
+        "phone"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "You need to type your ___ to open this secure app.",
+      "choices": [
+        "phone",
+        "charger",
+        "password",
+        "battery"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "I want to download a new fitness ___ to count my steps.",
+      "choices": [
+        "password",
+        "charger",
+        "phone",
+        "app"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "Keep your ___ a secret so no one can open your device.",
+      "choices": [
+        "password",
+        "app",
+        "phone",
+        "charger"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "This small ___ helps me edit my photos easily.",
+      "choices": [
+        "charger",
+        "app",
+        "password",
+        "battery"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

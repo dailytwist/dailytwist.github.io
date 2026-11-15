@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-26",
+  "slug": "first-conditional",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🔮",
+  "title": "Parler du futur : Le premier conditionnel",
+  "summary": "Vous apprendrez à parler de situations futures possibles et de leurs conséquences. Cela vous aide à faire des projets et des promesses en anglais au quotidien.",
+  "sections": [
+    {
+      "h": "Qu'est-ce que le premier conditionnel ?",
+      "p": "Nous utilisons le premier conditionnel pour parler d'une situation réelle et possible dans le futur et de ce qui en découlera. Par exemple, si the weather is good tomorrow, we will go to the park. La phrase comporte deux parties : la partie en 'if' avec un verbe au présent, et la partie résultat avec 'will' suivi de la base verbale.",
+      "ex": [
+        {
+          "en": "If it rains, I will stay at home.",
+          "mean": "Si la pluie survient, mon plan est de rester à la maison."
+        },
+        {
+          "en": "If you study hard, you will pass the test.",
+          "mean": "Étudier mène à la réussite de l'examen."
+        }
+      ]
+    },
+    {
+      "h": "Ordre de la phrase",
+      "p": "Vous pouvez modifier l'ordre de la phrase sans en changer le sens. Lorsque la proposition en 'if' arrive en premier, vous devez mettre une virgule au milieu. Lorsque la proposition de résultat arrive en premier, vous n'avez pas besoin de virgule. Les deux tournures sont très courantes et naturelles à l'oral comme à l'écrit en anglais.",
+      "ex": [
+        {
+          "en": "If I wake up early, I will make coffee.",
+          "mean": "La partie en 'if' est en premier, nous utilisons donc une virgule."
+        },
+        {
+          "en": "I will make coffee if I wake up early.",
+          "mean": "La partie résultat est en premier, aucune virgule n'est donc nécessaire."
+        }
+      ]
+    },
+    {
+      "h": "Former des phrases négatives",
+      "p": "Vous pouvez également faire des phrases négatives au premier conditionnel. Vous pouvez rendre soit la partie en 'if' négative en utilisant 'don't' ou 'doesn't', soit la partie résultat négative en utilisant 'won't'. C'est très utile lorsque vous voulez parler de choses qui pourraient ne pas se produire.",
+      "ex": [
+        {
+          "en": "If you don't hurry, we will miss the bus.",
+          "mean": "Ne pas se dépêcher entraîne le rater du bus."
+        },
+        {
+          "en": "If I am tired tonight, I won't go to the party.",
+          "mean": "Être fatigué signifie que je resterai à la maison."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "first conditional",
+      "mean": "grammaire pour les résultats futurs"
+    },
+    {
+      "en": "if",
+      "mean": "en supposant que"
+    },
+    {
+      "en": "will",
+      "mean": "utilisé pour les résultats futurs"
+    },
+    {
+      "en": "won't",
+      "mean": "ne... pas (au futur)"
+    },
+    {
+      "en": "result",
+      "mean": "ce qui se passe ensuite"
+    },
+    {
+      "en": "present tense",
+      "mean": "forme du verbe pour le présent"
+    },
+    {
+      "en": "comma",
+      "mean": "signe de ponctuation (,)"
+    }
+  ],
+  "tip": "Souvenez-vous de la formule : 'If + present, will + verb'. Ne mettez jamais 'will' juste après le mot 'if'.",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct pour compléter la phrase",
+      "en": "If it ___ sunny tomorrow, we will go to the beach.",
+      "choices": [
+        "is",
+        "will be",
+        "be"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct pour compléter la phrase",
+      "en": "I will call you if I ___ any news.",
+      "choices": [
+        "will get",
+        "got",
+        "get"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez la bonne expression pour compléter la phrase",
+      "en": "If you don't eat breakfast, you ___ hungry later.",
+      "choices": [
+        "are",
+        "will be",
+        "were"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct pour compléter la phrase",
+      "en": "She will buy a new phone if she ___ enough money.",
+      "choices": [
+        "saves",
+        "will save",
+        "save"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la bonne expression pour compléter la phrase",
+      "en": "If they miss the train, they ___ take a taxi.",
+      "choices": [
+        "take",
+        "took",
+        "will"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez la phrase correcte",
+      "en": "Which sentence is grammatically correct?",
+      "choices": [
+        "If I will see him, I will say hello.",
+        "If I see him, I will say hello.",
+        "If I see him, I say hello tomorrow."
+      ],
+      "answer_index": 1
+    }
+  ]
+}

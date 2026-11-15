@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-26",
+  "slug": "sports",
+  "cefr": "A2",
+  "cat": "vocab",
+  "emoji": "⚽",
+  "title": "Play, Go, Do : les sports",
+  "summary": "Apprenez à utiliser play, go et do avec différents sports. Vous vous exercerez à faire des phrases correctes sur les loisirs.",
+  "sections": [
+    {
+      "h": "Quand utiliser PLAY",
+      "p": "On utilise le verbe play pour les sports d'équipe et les jeux de ballon. Ces sports ont généralement un gagnant, un ballon et une équipe. Par exemple, you play football with friends on the weekend (vous jouez au football avec des amis le week-end). You also play tennis, basketball, and computer games (vous jouez aussi au tennis, au basketball et aux jeux vidéo).",
+      "ex": [
+        {
+          "en": "I play football on Saturdays.",
+          "mean": "Je participe à un match de football tous les samedis."
+        },
+        {
+          "en": "Do you play tennis?",
+          "mean": "Es-tu joueur de tennis ?"
+        }
+      ]
+    },
+    {
+      "h": "Quand utiliser GO",
+      "p": "On utilise le verbe go pour les activités qui se terminent en -ing. Ce sont généralement des sports que l'on pratique en extérieur ou qui demandent beaucoup de mouvement, souvent seul ou en petit groupe. Par exemple, you go swimming, go running, and go cycling (vous allez nager, courir et faire du vélo).",
+      "ex": [
+        {
+          "en": "She likes to go swimming in summer.",
+          "mean": "Elle aime nager quand il fait beau."
+        },
+        {
+          "en": "Let's go running this morning.",
+          "mean": "Je veux que nous courions ensemble aujourd'hui."
+        }
+      ]
+    },
+    {
+      "h": "Quand utiliser DO",
+      "p": "On utilise le verbe do pour les exercices individuels et les arts martiaux. Ce sont des activités de fitness ou des sports qui n'utilisent pas de ballon et ne se terminent généralement pas en -ing. Par exemple, you do yoga, do karate, and do gymnastics (vous faites du yoga, du karaté et de la gymnastique) pour rester fort et en bonne santé.",
+      "ex": [
+        {
+          "en": "I do yoga every morning.",
+          "mean": "Je pratique le yoga tous les jours pour me détendre."
+        },
+        {
+          "en": "He does judo at the school club.",
+          "mean": "Il pratique le judo avec son école."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "play",
+      "mean": "utilisé pour les sports de ballon"
+    },
+    {
+      "en": "go",
+      "mean": "utilisé pour les activités en -ing"
+    },
+    {
+      "en": "do",
+      "mean": "utilisé pour le fitness et les arts martiaux"
+    },
+    {
+      "en": "football",
+      "mean": "sport d'équipe avec un ballon rond"
+    },
+    {
+      "en": "swimming",
+      "mean": "se déplacer dans l'eau"
+    },
+    {
+      "en": "yoga",
+      "mean": "exercice d'étirement et de relaxation"
+    },
+    {
+      "en": "basketball",
+      "mean": "sport avec un panier et un ballon"
+    }
+  ],
+  "tip": "Retenez bien : sports de ballon = play, mots en -ing = go, et gym/arts martiaux = do. Répétez les règles à haute voix trois fois !",
+  "quiz": [
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "I want to ___ basketball with my friends.",
+      "choices": [
+        "go",
+        "play",
+        "do"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "My brother likes to ___ swimming every weekend.",
+      "choices": [
+        "go",
+        "play",
+        "do"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "Do you ___ yoga to relax?",
+      "choices": [
+        "play",
+        "go",
+        "do"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "They ___ tennis on Tuesday evenings.",
+      "choices": [
+        "play",
+        "go",
+        "make"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "Let's ___ running in the park.",
+      "choices": [
+        "do",
+        "play",
+        "go"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "She wants to ___ karate after school.",
+      "choices": [
+        "play",
+        "do",
+        "go"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

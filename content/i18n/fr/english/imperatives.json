@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-26",
+  "slug": "imperatives",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🛑",
+  "title": "Donner des instructions : à vous de jouer !",
+  "summary": "Apprenez à utiliser les verbes à l'impératif pour dire aux gens quoi faire. Vous vous exercerez à donner des ordres et des indications simples.",
+  "sections": [
+    {
+      "h": "Qu'est-ce que l'impératif ?",
+      "p": "Nous utilisons l'impératif pour dire à quelqu'un de faire quelque chose. C'est très direct. On utilise simplement la base verbale. Il n'est pas nécessaire d'ajouter des mots comme 'tu' ou 'vous'. Par exemple, au lieu de dire 'Tu ouvres la porte', on dit simplement 'Ouvre la porte'. On utilise l'impératif pour les recettes de cuisine, les indications routières et les règles de classe.",
+      "ex": [
+        {
+          "en": "Open the window, please.",
+          "mean": "demander à quelqu'un d'ouvrir la fenêtre"
+        },
+        {
+          "en": "Sit down on the chair.",
+          "mean": "dire à quelqu'un de s'asseoir"
+        },
+        {
+          "en": "Listen to the teacher.",
+          "mean": "faire attention à la personne qui parle"
+        }
+      ]
+    },
+    {
+      "h": "L'impératif négatif",
+      "p": "Pour dire à quelqu'un de NE PAS faire quelque chose, on place 'Don't' avant le verbe. 'Don't' est l'abréviation de 'Do not'. C'est très utile pour les consignes de sécurité et les avertissements. Vous pouvez l'utiliser à la maison, au travail ou dans la rue.",
+      "ex": [
+        {
+          "en": "Don't touch that hot pan!",
+          "mean": "ne pas poser vos mains sur la poêle chaude"
+        },
+        {
+          "en": "Don't park your car here.",
+          "mean": "laisser votre voiture à cet endroit n'est pas autorisé"
+        },
+        {
+          "en": "Don't be late for class.",
+          "mean": "arriver à l'heure"
+        }
+      ]
+    },
+    {
+      "h": "Rendre les instructions polies",
+      "p": "Les impératifs peuvent parfois sembler un peu brusques. Pour être poli, on ajoute généralement le mot 'please' (s'il vous plaît) au début ou à la fin de la phrase. Ajouter 'please' donne envie aux gens de vous aider.",
+      "ex": [
+        {
+          "en": "Please help me with this bag.",
+          "mean": "demander gentiment de l'aide"
+        },
+        {
+          "en": "Turn off the lights, please.",
+          "mean": "une demande polie pour assombrir la pièce"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "imperative",
+      "mean": "ordre ou instruction"
+    },
+    {
+      "en": "verb",
+      "mean": "mot d'action"
+    },
+    {
+      "en": "don't",
+      "mean": "ne pas"
+    },
+    {
+      "en": "please",
+      "mean": "mot de politesse"
+    },
+    {
+      "en": "turn left",
+      "mean": "aller du côté gauche"
+    },
+    {
+      "en": "stop",
+      "mean": "ne pas bouger"
+    },
+    {
+      "en": "open",
+      "mean": "ouvrir quelque chose"
+    },
+    {
+      "en": "listen",
+      "mean": "écouter attentivement"
+    }
+  ],
+  "tip": "Pensez aux livres de recettes ou aux jeux vidéo. Ils utilisent toujours des verbes d'action courts pour vous dire quoi faire ensuite !",
+  "quiz": [
+    {
+      "ask": "Choisissez la bonne instruction",
+      "en": "___ the door, it is cold outside.",
+      "choices": [
+        "Close",
+        "Closing",
+        "Closes"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la bonne instruction négative",
+      "en": "___ run in the hospital corridor.",
+      "choices": [
+        "Not",
+        "Don't",
+        "No"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Complétez la demande polie",
+      "en": "Please ___ quiet during the test.",
+      "choices": [
+        "are",
+        "is",
+        "be"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon verbe pour une recette",
+      "en": "___ the eggs in a bowl.",
+      "choices": [
+        "Mix",
+        "Mixes",
+        "Mixed"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon avertissement",
+      "en": "___ feed the animals at the zoo.",
+      "choices": [
+        "No",
+        "Not",
+        "Don't"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez la bonne instruction pour conduire",
+      "en": "___ at the red traffic light.",
+      "choices": [
+        "Go",
+        "Stop",
+        "Walk"
+      ],
+      "answer_index": 1
+    }
+  ]
+}
