@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-26",
+  "slug": "present-perfect-vs-past-simple",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "⏱️",
+  "title": "Prétérit (Past Simple) vs Présent Composé (Present Perfect)",
+  "summary": "Apprenez à choisir entre le prétérit et le présent parfait. Vous pourrez ainsi parler facilement de vos expériences de vie et d'actions passées terminées.",
+  "sections": [
+    {
+      "h": "Prétérit (Past Simple) : Un moment révolu",
+      "p": "Utilisez le prétérit lorsque vous parlez d'une action qui s'est produite à un moment précis dans le passé. Le moment est généralement mentionné, comme hier, la semaine dernière ou en 2010. L'action est totalement achevée, et le moment où elle s'est produite nous importe plus que son résultat aujourd'hui.",
+      "ex": [
+        {
+          "en": "I visited Paris last year.",
+          "mean": "Le voyage a eu lieu à un moment précis dans le passé et est terminé."
+        },
+        {
+          "en": "She bought a new car yesterday.",
+          "mean": "L'action s'est produite à un moment connu dans le passé."
+        }
+      ]
+    },
+    {
+      "h": "Présent Parfait (Present Perfect) : Expérience de vie",
+      "p": "Utilisez le présent parfait pour parler d'expériences de votre vie sans préciser exactement quand elles ont eu lieu. On utilise have ou has suivi d'un participe passé. Le moment exact n'a pas d'importance, mais l'expérience compte pour vous en ce moment même.",
+      "ex": [
+        {
+          "en": "I have visited Paris three times.",
+          "mean": "C'est une expérience vécue jusqu'à présent, les dates exactes importent peu."
+        },
+        {
+          "en": "She has lost her keys.",
+          "mean": "Une action passée qui a un lien avec le moment présent."
+        }
+      ]
+    },
+    {
+      "h": "Des repères temporels pour vous aider",
+      "p": "Certains mots peuvent vous aider à choisir le bon temps. Des mots comme yesterday, ago et last renvoient au prétérit. Des mots comme ever, never, already, yet, just, since et for renvoient généralement au présent parfait parce qu'ils relient le passé au moment présent.",
+      "ex": [
+        {
+          "en": "Have you ever eaten sushi?",
+          "mean": "Questionner sur n'importe quel moment de votre vie jusqu'à présent."
+        },
+        {
+          "en": "I haven't finished my homework yet.",
+          "mean": "Une action qui n'est pas achevée jusqu'à ce moment précis."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "past simple",
+      "mean": "temps du passé révolu"
+    },
+    {
+      "en": "present perfect",
+      "mean": "passé relié au moment présent"
+    },
+    {
+      "en": "experience",
+      "mean": "quelque chose que vous avez fait"
+    },
+    {
+      "en": "yesterday",
+      "mean": "le jour d'avant"
+    },
+    {
+      "en": "ever",
+      "mean": "à n'importe quel moment de la vie"
+    },
+    {
+      "en": "never",
+      "mean": "à aucun moment"
+    },
+    {
+      "en": "yet",
+      "mean": "jusqu'à présent"
+    },
+    {
+      "en": "already",
+      "mean": "plus tôt que prévu"
+    }
+  ],
+  "tip": "Posez-vous la question : « Est-ce que le moment où c'est arrivé m'importe ? » Si oui, utilisez le prétérit. Si seul le fait que cela se soit produit dans votre vie compte, utilisez le présent parfait.",
+  "quiz": [
+    {
+      "ask": "Choisissez la bonne forme verbale",
+      "en": "I ___ to Spain in 2018.",
+      "choices": [
+        "have gone",
+        "went",
+        "go"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne forme verbale",
+      "en": "She ___ never seen snow in her life.",
+      "choices": [
+        "has",
+        "did",
+        "was"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon repère temporel",
+      "en": "Have you ___ eaten Mexican food?",
+      "choices": [
+        "yesterday",
+        "ago",
+        "ever"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez la bonne forme verbale",
+      "en": "They ___ a great movie last night.",
+      "choices": [
+        "saw",
+        "have seen",
+        "see"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la bonne phrase",
+      "en": "Which sentence is correct for an unfinished action up to now?",
+      "choices": [
+        "I didn't eat breakfast yet.",
+        "I haven't eaten breakfast yet.",
+        "I don't eat breakfast yet."
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne forme verbale",
+      "en": "He ___ lived in this city for five years.",
+      "choices": [
+        "did",
+        "has",
+        "had"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

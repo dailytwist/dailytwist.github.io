@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-26",
+  "slug": "present-perfect",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "✈️",
+  "title": "Expériences de vie et actualités : Ever, Already, Yet, Just",
+  "summary": "Dans cette leçon, vous apprendrez à parler de vos expériences de vie et d'actions récentes en utilisant le present perfect. Nous examinerons quatre mots particuliers : ever, already, yet et just.",
+  "sections": [
+    {
+      "h": "Parler d'expériences de vie avec 'Ever'",
+      "p": "Nous utilisons 'ever' dans les questions pour interroger sur des expériences vécues jusqu'à présent. Cela signifie « à n'importe quel moment de votre vie ». Nous plaçons 'ever' avant le verbe principal, juste après le sujet. La réponse est généralement au present perfect avec 'have' ou 'has', et nous employons souvent 'never' pour dire non.",
+      "ex": [
+        {
+          "en": "Have you ever eaten sushi?",
+          "mean": "Dans toute ta vie, as-tu mangé des sushis au moins une fois ?"
+        },
+        {
+          "en": "She has never traveled to another country.",
+          "mean": "À aucun moment de sa vie elle n'est allée à l'étranger."
+        }
+      ]
+    },
+    {
+      "h": "Exprimer la rapidité avec 'Already' et 'Just'",
+      "p": "Nous utilisons 'already' pour dire qu'un événement s'est produit plus tôt que prévu. Nous utilisons 'just' pour parler d'une action qui s'est terminée il y a tout juste un instant. Ces deux mots se placent généralement entre 'have' et le verbe d'action principal.",
+      "ex": [
+        {
+          "en": "I have already finished my homework.",
+          "mean": "Je l'ai fini plus tôt que prévu."
+        },
+        {
+          "en": "He has just left the office.",
+          "mean": "Il est parti il y a une ou deux minutes."
+        }
+      ]
+    },
+    {
+      "h": "Attendre des événements avec 'Yet'",
+      "p": "Nous utilisons 'yet' dans les questions et les phrases négatives pour parler de quelque chose que nous attendons bientôt, mais qui ne s'est pas encore produit. 'Yet' se place toujours tout à la fin de la phrase.",
+      "ex": [
+        {
+          "en": "Have you cooked dinner yet?",
+          "mean": "J'attends le dîner, est-il prêt maintenant ?"
+        },
+        {
+          "en": "They haven't arrived yet.",
+          "mean": "Ils ne sont pas là pour l'instant, mais nous les attendons bientôt."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "ever",
+      "mean": "à n'importe quel moment"
+    },
+    {
+      "en": "never",
+      "mean": "à aucun moment"
+    },
+    {
+      "en": "already",
+      "mean": "plus tôt que prévu"
+    },
+    {
+      "en": "just",
+      "mean": "il y a un instant"
+    },
+    {
+      "en": "yet",
+      "mean": "jusqu'à présent"
+    },
+    {
+      "en": "present perfect",
+      "mean": "have suivi d'un verbe au participe passé"
+    },
+    {
+      "en": "experience",
+      "mean": "quelque chose que l'on fait"
+    }
+  ],
+  "tip": "N'oubliez pas que 'yet' adore se prélasser à la fin des phrases négatives et des questions, tandis que 'just' et 'already' préfèrent rester bien calés au milieu, juste à côté de 'have' !",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct pour compléter le trou",
+      "en": "Have you ___ seen a kangaroo?",
+      "choices": [
+        "ever",
+        "yet",
+        "just",
+        "already"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct pour compléter le trou",
+      "en": "I don't need a coffee, thanks. I have ___ had one.",
+      "choices": [
+        "yet",
+        "ever",
+        "already",
+        "never"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct pour compléter le trou",
+      "en": "Where is Mark? He has ___ stepped out of the room.",
+      "choices": [
+        "yet",
+        "ever",
+        "just",
+        "never"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct pour compléter le trou",
+      "en": "Has the bus arrived ___?",
+      "choices": [
+        "already",
+        "just",
+        "ever",
+        "yet"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Choisissez le mot correct pour compléter le trou",
+      "en": "We haven't decided where to go on holiday ___.",
+      "choices": [
+        "yet",
+        "already",
+        "just",
+        "ever"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct pour compléter le trou",
+      "en": "She has ___ been to Paris, and she wants to go again.",
+      "choices": [
+        "yet",
+        "already",
+        "ever",
+        "just"
+      ],
+      "answer_index": 1
+    }
+  ]
+}
