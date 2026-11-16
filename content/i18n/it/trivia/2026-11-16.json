@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-16",
+  "title": "Sfida Trivia Quotidiana: 16 Novembre 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Quale paese europeo senza sbocco sul mare è completamente circondato dall'Italia?",
+      "options": [
+        "Monaco",
+        "San Marino",
+        "Liechtenstein",
+        "Città del Vaticano"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La Città del Vaticano è il più piccolo stato indipendente al mondo sia per superficie che per popolazione."
+    },
+    {
+      "category": "Scienza",
+      "question": "Qual è il simbolo chimico dell'elemento oro?",
+      "options": [
+        "Ag",
+        "Gd",
+        "Go",
+        "Au"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Il simbolo 'Au' deriva da 'aurum', la parola latina per oro, che significa 'alba splendente'."
+    },
+    {
+      "category": "Storia",
+      "question": "Chi è stato il primo imperatore dell'Impero Romano?",
+      "options": [
+        "Giulio Cesare",
+        "Nerone",
+        "Costantino",
+        "Augusto"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Augusto, originariamente chiamato Ottaviano, era il figlio adottivo di Giulio Cesare e prese il potere dopo la caduta della Repubblica Romana."
+    },
+    {
+      "category": "Cinema e Pop Culture",
+      "question": "Quale film del 1994 contiene la celebre frase 'La vita è come una scatola di cioccolatini'?",
+      "options": [
+        "Forrest Gump",
+        "Pulp Fiction",
+        "Il Re Leone",
+        "Le ali della libertà"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Tom Hanks ha vinto il premio Oscar come miglior attore per la sua interpretazione di Forrest Gump."
+    },
+    {
+      "category": "Cibo",
+      "question": "Qual è l'ingrediente principale della tradizionale pasta di miso giapponese?",
+      "options": [
+        "Riso",
+        "Alga",
+        "Soia",
+        "Orzo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il miso si ottiene fermentando i semi di soia con sale e kōji, un fungo utilizzato per inoculare i cereali."
+    },
+    {
+      "category": "Animali",
+      "question": "Come viene comunemente definito un gruppo di corvi?",
+      "options": [
+        "Un omicidio",
+        "Una colonia",
+        "Un branco",
+        "Uno stormo"
+      ],
+      "answer_index": 0,
+      "fun_fact": "I corvi sono uccelli eccezionalmente intelligenti, capaci di riconoscere i volti umani e di usare strumenti."
+    },
+    {
+      "category": "Sport",
+      "question": "Nel tennis, a quale punteggio corrisponde il termine 'love' (zero)?",
+      "options": [
+        "Zero",
+        "Vantaggio",
+        "Quindici",
+        "Parità"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Si ritiene comunemente che il termine 'love' nel tennis derivi dalla parola francese 'l'oeuf', che significa 'uovo', poiché la sua forma rotonda ricorda uno zero."
+    },
+    {
+      "category": "Linguistica",
+      "question": "Qual è il termine linguistico per indicare parole che hanno lo stesso suono ma significati e ortografie differenti?",
+      "options": [
+        "Omonimi",
+        "Sinonimi",
+        "Omografi",
+        "Omofoni"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Gli omofoni possono spesso essere fonte di confusione nella scrittura perché la loro ortografia varia nonostante la pronuncia identica."
+    },
+    {
+      "category": "Spazio",
+      "question": "Quale pianeta del nostro sistema solare ha più lune?",
+      "options": [
+        "Giove",
+        "Nettuno",
+        "Urano",
+        "Saturno"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Saturno detiene il record con oltre 140 lune ufficialmente riconosciute che orbitano attorno ad esso."
+    },
+    {
+      "category": "Geografia",
+      "question": "Quale paese africano ha la popolazione più numerosa?",
+      "options": [
+        "Egitto",
+        "Sudafrica",
+        "Nigeria",
+        "Etiopia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La Nigeria non è solo la nazione più popolosa d'Africa, ma ha anche una delle crescite demografiche più rapide al mondo."
+    }
+  ]
+}

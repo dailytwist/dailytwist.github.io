@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-16",
+  "title": "Desafío de Trivia Diario: 16 de noviembre de 2026",
+  "questions": [
+    {
+      "category": "Geografía",
+      "question": "¿Qué país europeo sin salida al mar está completamente rodeado por Italia?",
+      "options": [
+        "Mónaco",
+        "San Marino",
+        "Liechtenstein",
+        "Ciudad del Vaticano"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La Ciudad del Vaticano es el estado independiente más pequeño del mundo tanto en superficie como en población."
+    },
+    {
+      "category": "Ciencia",
+      "question": "¿Cuál es el símbolo químico del elemento oro?",
+      "options": [
+        "Ag",
+        "Gd",
+        "Go",
+        "Au"
+      ],
+      "answer_index": 3,
+      "fun_fact": "El símbolo 'Au' proviene de 'aurum', la palabra latina para oro, que se traduce como 'amanecer brillante'."
+    },
+    {
+      "category": "Historia",
+      "question": "¿Quién fue el primer emperador del Imperio romano?",
+      "options": [
+        "Julio César",
+        "Nerón",
+        "Constantino",
+        "Augusto"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Augusto, llamado originalmente Octavio, era el hijo adoptivo de Julio César y asumió el poder tras la caída de la República romana."
+    },
+    {
+      "category": "Cine y cultura pop",
+      "question": "¿Qué película de 1994 incluye la famosa frase 'La vida es como una caja de bombones'?",
+      "options": [
+        "Forrest Gump",
+        "Pulp Fiction",
+        "El rey león",
+        "Cadena perpetua"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Tom Hanks ganó el Óscar al mejor actor por su interpretación de Forrest Gump."
+    },
+    {
+      "category": "Comida",
+      "question": "¿Cuál es el ingrediente principal de la pasta de miso japonesa tradicional?",
+      "options": [
+        "Arroz",
+        "Algas marinas",
+        "Soja",
+        "Cebada"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El miso se elabora fermentando soja con sal y kōji, un hongo utilizado para inocular grano."
+    },
+    {
+      "category": "Animales",
+      "question": "¿Cómo se le llama habitualmente a un grupo de cuervos?",
+      "options": [
+        "Una conspiración",
+        "Una colonia",
+        "Una manada",
+        "Una bandada"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Los cuervos son aves excepcionalmente inteligentes capaces de reconocer rostros humanos y usar herramientas."
+    },
+    {
+      "category": "Deportes",
+      "question": "En el tenis, ¿a qué puntuación se le llama 'amor' (love)?",
+      "options": [
+        "Cero",
+        "Ventaja",
+        "Quince",
+        "Deuce"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Se cree ampliamente que el término 'love' en el tenis proviene de la palabra francesa 'l'oeuf', que significa 'huevo', debido a su forma redonda que se parece a un cero."
+    },
+    {
+      "category": "Idioma",
+      "question": "¿Cuál es el término lingüístico para las palabras que suenan igual pero tienen diferentes significados y ortografías?",
+      "options": [
+        "Homónimos",
+        "Sinónimos",
+        "Homógrafos",
+        "Homófonos"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Los homófonos suelen ser una fuente de confusión al escribir porque sus ortografías varían a pesar de tener pronunciaciones idénticas."
+    },
+    {
+      "category": "Espacio",
+      "question": "¿Qué planeta de nuestro sistema solar tiene más lunas?",
+      "options": [
+        "Júpiter",
+        "Neptuno",
+        "Urano",
+        "Saturno"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Saturno ostenta el récord con más de 140 lunas oficialmente reconocidas orbitando a su alrededor."
+    },
+    {
+      "category": "Geografía",
+      "question": "¿Qué país africano tiene la población más alta?",
+      "options": [
+        "Egipto",
+        "Sudáfrica",
+        "Nigeria",
+        "Etiopía"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Nigeria no es solo la nación más poblada de África, sino que también es una de las poblaciones de más rápido crecimiento en el mundo."
+    }
+  ]
+}

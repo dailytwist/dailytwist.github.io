@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-16",
+  "title": "Desafio de Trivia Diário: 16 de novembro de 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Qual país europeu sem saída para o mar é completamente cercado pela Itália?",
+      "options": [
+        "Mônaco",
+        "San Marino",
+        "Liechtenstein",
+        "Cidade do Vaticano"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A Cidade do Vaticano é o menor estado independente do mundo tanto em área quanto em população."
+    },
+    {
+      "category": "Ciência",
+      "question": "Qual é o símbolo químico do elemento ouro?",
+      "options": [
+        "Ag",
+        "Gd",
+        "Go",
+        "Au"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O símbolo 'Au' vem de 'aurum', a palavra em latim para ouro, que significa 'amanhecer brilhante'."
+    },
+    {
+      "category": "História",
+      "question": "Quem foi o primeiro imperador do Império Romano?",
+      "options": [
+        "Júlio César",
+        "Nero",
+        "Constantino",
+        "Augusto"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Augusto, originalmente chamado de Otaviano, era filho adotivo de Júlio César e assumiu o poder após a queda da República Romana."
+    },
+    {
+      "category": "Filmes e Cultura Pop",
+      "question": "Qual filme de 1994 apresenta a famosa frase 'A vida é como uma caixa de chocolates'?",
+      "options": [
+        "Forrest Gump",
+        "Pulp Fiction",
+        "O Rei Leão",
+        "Um Sonho de Liberdade"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Tom Hanks ganhou o Oscar de Melhor Ator por sua atuação como Forrest Gump."
+    },
+    {
+      "category": "Comida",
+      "question": "Qual é o ingrediente principal da tradicional pasta de missô japonesa?",
+      "options": [
+        "Arroz",
+        "Alga",
+        "Soja",
+        "Cevada"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O missô é feito pela fermentação da soja com sal e kōji, um fungo usado para inocular grãos."
+    },
+    {
+      "category": "Animais",
+      "question": "Como é chamado geralmente um grupo de corvos?",
+      "options": [
+        "Um assassinato",
+        "Uma colônia",
+        "Uma matilha",
+        "Um bando"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Os corvos são aves excepcionalmente inteligentes, capazes de reconhecer rostos humanos e usar ferramentas."
+    },
+    {
+      "category": "Esportes",
+      "question": "No tênis, qual pontuação é chamada de 'love' (zero)?",
+      "options": [
+        "Zero",
+        "Vantagem",
+        "Quinze",
+        "Deuce"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Acredita-se amplamente que o termo 'love' no tênis venha da palavra francesa 'l'oeuf', que significa 'ovo', devido ao seu formato redondo lembrar um zero."
+    },
+    {
+      "category": "Idioma",
+      "question": "Qual é o termo linguístico para palavras quesoam iguais mas têm significados e grafias diferentes?",
+      "options": [
+        "Homônimos",
+        "Sinônimos",
+        "Homógrafos",
+        "Homófonos"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Os homófonos costumam ser uma fonte de confusão na escrita porque suas grafias variam apesar da pronúncia idêntica."
+    },
+    {
+      "category": "Espaço",
+      "question": "Qual planeta do nosso sistema solar tem mais luas?",
+      "options": [
+        "Júpiter",
+        "Netuno",
+        "Urano",
+        "Saturn"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Saturno detém o recorde com mais de 140 luas oficialmente reconhecidas orbitando ao seu redor."
+    },
+    {
+      "category": "Geografia",
+      "question": "Qual país africano tem a maior população?",
+      "options": [
+        "Egito",
+        "África do Sul",
+        "Nigéria",
+        "Etiópia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A Nigéria não é apenas a nação mais populosa da África, mas também uma das populações que mais cresce no mundo."
+    }
+  ]
+}
