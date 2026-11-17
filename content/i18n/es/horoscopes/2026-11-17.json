@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-17",
+  "signs": {
+    "aries": {
+      "overview": "El martes te hace sentir como en un pinball, rebotando entre ideas geniales y aventuras espontáneas, Aries. La corriente cósmica está cargada de una energía inquieta y vibrante que prácticamente te exige empezar algo totalmente nuevo antes de terminar tu café matutino. Aunque tu entusiasmo es innegablemente contagioso, recuerda mirar el retrovisor de vez en cuando para no dejar a tus desconcertados amigos atrás. Abraza el caos, confía en tus instintos ultrarrápidos y deja que tu fuego característico ilumine cada rincón en el que entres hoy con una alegría pura y sin complejos.",
+      "love": "Saltan chispas cuando menos te lo esperas, así que mantén tu espíritu aventurero abierto a un coqueteo deliciosamente inesperado.",
+      "career": "Tu liderazgo audaz inspira a todo el equipo a ponerse al día con las tareas pendientes con una velocidad y un entusiasmo sorprendentes.",
+      "wellness": "Canaliza esa energía cinética en una sesión de baile improvisada en tu sala de estar.",
+      "lucky_number": 17,
+      "lucky_color": "Carmesí",
+      "mood": "Eléctrico"
+    },
+    "taurus": {
+      "overview": "Hunde tus pezuñas en la tierra rica y acogedora del momento presente, Tauro, porque hoy todo gira en torno al exquisito arte de la indulgencia sensorial. Ya sea que te des el gusto de un pastel extravagantemente decadente o simplemente te pierdas durante horas en una lista de reproducción de jazz aterciopelado, tu aprecio por el confort alcanza un nivel legendario. El mundo exterior puede estar corriendo como un río loco, pero tu terca negativa a apresurarte es tu superpoder. Baja el ritmo, respira el aire otoñal y crea un santuario de absoluta paz.",
+      "love": "Una noche acogedora y sin pantallas, compartiendo snacks y una conversación profunda, fortalece tu vínculo romántico.",
+      "career": "Un ritmo constante asegura el éxito, permitiéndote pulir un proyecto creativo hasta alcanzar la perfección absoluta.",
+      "wellness": "Envuélvete en una manta con peso y disfruta de unos minutos de ensoñación ininterrumpida.",
+      "lucky_number": 8,
+      "lucky_color": "Salvia",
+      "mood": "Acogedor"
+    },
+    "gemini": {
+      "overview": "Tu mente es un deslumbrante caleidoscopio de ocurrencias ingeniosas, datos fascinantes y lluvias de ideas brillantes hoy, Géminis. Eres el alma social por excelencia, que revolotea de una charla interesante a otra absorbiendo información como una esponja en plena tormenta. Solo ten cuidado de no agendar por accidente dos cosas a la vez para la tarde o prometerle a tres amigos diferentes que los ayudarás a mudarse. Apóyate en tu curiosidad natural, haz las preguntas que nadie más se atreve a decir en voz alta y disfruta del delicioso torbellino de tus propios pensamientos vibrantes.",
+      "love": "Las bromas juguetonas y los mensajes ingeniosos mantienen viva la anticipación romántica durante todo el día.",
+      "career": "Tu capacidad para conectar conceptos que no tienen relación da como resultado una solución sorprendentemente inteligente durante una reunión.",
+      "wellness": "Descansa tu mente acelerada haciendo garabatos abstractos mientras escuchas un pódcast instrumental.",
+      "lucky_number": 23,
+      "lucky_color": "Amarillo",
+      "mood": "Curioso"
+    },
+    "cancer": {
+      "overview": "Tu radar emocional está perfectamente sintonizado con las frecuencias sutiles de quienes te rodean hoy, dulce Cáncer. Tienes el don mágico de hacer que la gente se sienta vista, escuchada y envuelta al instante en un manto de seguridad emocional. Aunque cuidar de los demás es tu superpoder, no olvides reservar un pequeño capullo de tranquilidad solo para tu tierno corazón. Sírvete una taza humeante de infusión, ponte tu película favorita y deja que el mundo exterior se desvanezca en un difuminado suave y reconfortante.",
+      "love": "La vulnerabilidad es tu rasgo más magnético en este momento, atrayendo a tu pareja aún más hacia tu lado tierno.",
+      "career": "Crear un entorno de trabajo armonioso impulsa al instante tu productividad y concentración diarias.",
+      "wellness": "Toma un baño largo y tibio con burbujas de lavanda para eliminar cualquier estrés acumulado.",
+      "lucky_number": 4,
+      "lucky_color": "Plateado",
+      "mood": "Protector"
+    },
+    "leo": {
+      "overview": "El universo te está tendiendo una alfombra roja de terciopelo solo para ti hoy, Leo, así que pisa fuerte con tu característica gracia real. Tu carisma natural está al máximo, convirtiendo hasta un aburrido viaje al supermercado en un momento de pasarela. No te cohíbes a la hora de compartir tus grandes visiones artísticas o de tomar el centro del escenario en un proyecto colaborativo. Las personas simplemente se mueren por tu calidez y tu estilo teatral, así que brilla con fuerza, ríe a carcajadas y deja que tu magnífico corazón guíe el camino.",
+      "love": "Un gesto romántico y dramático o un cumplido sincero hacen que la habitación entera gire al ritmo del romance.",
+      "career": "Tu presentación creativa desumbra a la audiencia y te hace ganar aplausos muy bien merecidos.",
+      "wellness": "Adopta una postura segura frente al espejo para potenciar al instante tu radiante imagen propia.",
+      "lucky_number": 77,
+      "lucky_color": "Dorado",
+      "mood": "Radiante"
+    },
+    "virgo": {
+      "overview": "Hay una poesía profunda en los detalles hoy, Virgo, y tú eres el poeta maestro de la organización y la elegancia. Tu ojo de águila detecta esa única coma fuera de lugar que los demás pasaron por alto, salvando el día con una competencia silenciosa y sin esfuerzo. Aunque tu perfeccionista interior quiera microgestionar el universo, intenta dejar un poco de margen para los accidentes dulces y hermosos. Una vez que termines de codificar por colores tu lista de pendientes, rodéate de la maravillosa perdición de una novela de misterio cautivadora para premiarte.",
+      "love": "Los actos de servicio dicen más que mil palabras; sorprender a tu persona favorita con su café matutino preferido derrite corazones.",
+      "career": "Poner orden en tu bandeja de entrada digital te aporta una gloriosa sensación de claridad mental y realización.",
+      "wellness": "Practica la respiración diafragmática profunda mientras estiras los hombros y las muñecas.",
+      "lucky_number": 12,
+      "lucky_color": "Verde azulado",
+      "mood": "Concentrado"
+    },
+    "libra": {
+      "overview": "La armonía estética es tu absoluta obsesión hoy, Libra, y tienes la misión de embellecer todo lo que tocas. Desde armar la lista de reproducción ideal para relajarte hasta acomodar hojas de otoño en un jarrón de segunda mano, tu ojo artístico convierte lo ordinario en alta cultura. En el plano social, eres el diplomático definitivo, suavizando sin esfuerzo los malentendidos menores con tu sonrisa encantadora y desarmante. Disfruta del encantador equilibrio de una buena compañía, dulces deliciosos y un entorno precioso.",
+      "love": "El coqueteo es todo un arte, y tú estás pintando obra maestra tras obra maestra con tus dulces miradas.",
+      "career": "Las sesiones de intercambio de ideas en equipo fluyen como la seda cuando guías con delicadeza la dirección estética.",
+      "wellness": "Difunde una mezcla calmante de aceites de bergamota y madera de cedro para crear un ambiente sereno.",
+      "lucky_number": 19,
+      "lucky_color": "Rosa",
+      "mood": "Armonioso"
+    },
+    "scorpio": {
+      "overview": "Tu aura misteriosa es prácticamente magnética hoy, Escorpio, atrayendo a personas intrigantes y secretos profundos directamente a tu puerta. No te interesa la charla trivial; quieres sumergirte de lleno en la filosofía del universo, las pasiones ocultas y las historias jamás contadas. Confía en tu intuición afilada, que está captando corrientes subterráneas sutiles de las que los demás no tienen la menor idea. Abraza tu intensidad, entrégate a tus pasiones y deja que tu encanto enigmático haga su magia silenciosa y cautivadora.",
+      "love": "Una conversación intensa, mirándose a los ojos, abre la puerta a un nuevo y profundo nivel de intimidad con tu pareja.",
+      "career": "Tu concentración láser te permite descifrar un problema complejo que ha dejado perplejos a todos los demás.",
+      "wellness": "Haz ejercicio intenso para liberar cualquier energía estancada en tu cuerpo físico.",
+      "lucky_number": 9,
+      "lucky_color": "Granate",
+      "mood": "Enigmático"
+    },
+    "sagittarius": {
+      "overview": "Haz las maletas metafóricas, Sagitario, porque tu alma inquieta anhela espacios abiertos y aventuras persiguiendo el horizonte. Incluso si estás atascado en un escritorio, tu mente está explorando tierras exóticas, teorías filosóficas y grandes escapadas futuras. Tu optimismo contagioso convierte un martes rutinario en un safari exploratorio de la mente y el espíritu. Ríe fuerte, mantén tu curiosidad sin límites y tu espíritu aventurero listo para cualquier diversión espontánea que toque a tu puerta.",
+      "love": "Las risas espontáneas y un espíritu aventurero mantienen el romance fresco, emocionante y sumamente divertido.",
+      "career": "Pensar a lo grande te ayuda a proponer una idea sumamente ambiciosa que se gana a toda la sala.",
+      "wellness": "Sal a caminar a paso ligero por el aire fresco para saciar tus ganas de movimiento.",
+      "lucky_number": 33,
+      "lucky_color": "Morado",
+      "mood": "Expansivo"
+    },
+    "capricorn": {
+      "overview": "El modo alpinista está totalmente activado, Capricornio, y marchas con paso firme hacia tus grandes ambiciones con una determinación inigualable. Tienes una visión magnífica para tu futuro, y las alineaciones planetarias prácticas de hoy te ayudan a sentar bases sólidas y duraderas. No olvides hacer una pausa breve en tu ascenso para admirar la impresionante vista que ya te has ganado. Tu confianza silenciosa y tu ingenio seco resultan profundamente reconfortantes para todos los que tienen la suerte de estar en tu órbita.",
+      "love": "La fiabilidad y la devoción constante resultan mucho más románticas que cualquier gesto superficial y vacío.",
+      "career": "Un enfoque disciplinado y metódico ante una tarea compleja te gana el respeto silencioso de tus superiores.",
+      "wellness": "Revisa tu postura y echa los hombros hacia atrás para liberar la tensión acumulada por estar sentado.",
+      "lucky_number": 10,
+      "lucky_color": "Carbón",
+      "mood": "Ambicioso"
+    },
+    "aquarius": {
+      "overview": "Hoy marchas con orgullo al ritmo de tu propio tambor excéntrico, Acuario, y el mundo está deliciosamente confundido. Tus ideas futuristas y tu humor peculiar te convierten en el conversador más fascinante de cualquier sala en la que estés. Ya sea que estés trasteando con un pasatiempo extraño, debatiendo teorías sobre alienígenas o inventando un nuevo atajo para las tareas diarias, tu brillante mente juega en otra liga. Celebra tu maravillosa excentricidad y comparte tus chispas visionarias.",
+      "love": "Una cita nocturna poco convencional o compartir un interés mutuo de lo más bizarro encienden una química romántica instantánea.",
+      "career": "Una sugerencia fuera de lo común convierte un proyecto tradicional en un éxito sumamente innovador.",
+      "wellness": "Desconéctate de las pantallas durante una hora para darle a tu cerebro visionario un descanso tecnológico muy merecido.",
+      "lucky_number": 42,
+      "lucky_color": "Aguamarina",
+      "mood": "Innovador"
+    },
+    "pisces": {
+      "overview": "Tu imaginación es un océano brillante de ensoñaciones, poesía e inspiración artística hoy, dulce Piscis. El límite entre el mundo de los sueños y la realidad se siente deliciosamente poroso, permitiéndote canalizar una inmensa magia creativa. Ya sea que estés pintando, escribiendo o simplemente mirando por la ventana cómo las gotas de lluvia corren por el cristal, tu alma se nutre profundamente de la fantasía. Deja que tu compasión fluya libremente, confía en tus ensoñaciones místicas y rodéate de melodías suaves y oníricas.",
+      "love": "Un mensaje de texto poético o un momento tierno de entendimiento sin palabras derriten tu corazón por completo.",
+      "career": "Tu enfoque intuitivo te ayuda a navegar por una dinámica interpersonal complicada con gracia y empatía.",
+      "wellness": "Escucha olas de mar ambientales o sonidos relajantes de lluvia mientras descansas los ojos.",
+      "lucky_number": 3,
+      "lucky_color": "Lavanda",
+      "mood": "Ensueño"
+    }
+  }
+}

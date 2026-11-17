@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-25",
+  "slug": "prepositions-of-time",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "⏰",
+  "title": "Prépositions de temps : In, On, At",
+  "summary": "Apprenez à utiliser correctement \"in\", \"on\" et \"at\" avec les heures et les dates. Parlez de votre emploi du temps quotidien et de vos jours préférés en toute confiance.",
+  "sections": [
+    {
+      "h": "Utilisez AT pour les heures précises",
+      "p": "Nous utilisons le mot \"at\" lorsque nous parlons d'une heure précise. Par exemple, pour dire à quelle heure vous vous réveillez, déjeunez ou commencez à travailler. Cela permet d'être très précis sur votre emploi du temps de la journée.",
+      "ex": [
+        {
+          "en": "I wake up at 7 o'clock.",
+          "mean": "Mon heure exacte de réveil le matin."
+        },
+        {
+          "en": "The class starts at half past nine.",
+          "mean": "L'heure exacte à laquelle commence le cours."
+        },
+        {
+          "en": "We eat dinner at night.",
+          "mean": "Un moment précis de la journée."
+        }
+      ]
+    },
+    {
+      "h": "Utilisez ON pour les jours et les dates",
+      "p": "Nous utilisons le mot \"on\" pour les jours de la semaine, comme lundi ou samedi. Nous l'utilisons également pour parler d'une date spécifique du calendrier, comme votre anniversaire ou un jour férié doté d'une date.",
+      "ex": [
+        {
+          "en": "I have a test on Monday.",
+          "mean": "Un jour spécifique de la semaine."
+        },
+        {
+          "en": "My birthday is on July 12th.",
+          "mean": "Une date précise du calendrier."
+        },
+        {
+          "en": "We relax on the weekend.",
+          "mean": "Le samedi et le dimanche."
+        }
+      ]
+    },
+    {
+      "h": "Utilisez IN pour les mois, les années et les longues périodes",
+      "p": "Nous utilisons le mot \"in\" pour les périodes de temps plus longues. Cela inclut les mois, les années, les saisons et les moments de la journée en général, comme le matin ou l'après-midi. Pensez à \"in\" comme étant à l'intérieur d'une grande boîte de temps.",
+      "ex": [
+        {
+          "en": "My holiday is in June.",
+          "mean": "Un mois spécifique."
+        },
+        {
+          "en": "She was born in 2005.",
+          "mean": "Une année spécifique."
+        },
+        {
+          "en": "I drink coffee in the morning.",
+          "mean": "Un moment de la journée."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "at",
+      "mean": "utilisé pour les heures précises"
+    },
+    {
+      "en": "on",
+      "mean": "utilisé pour les jours et les dates"
+    },
+    {
+      "en": "in",
+      "mean": "utilisé pour les mois et les années"
+    },
+    {
+      "en": "clock time",
+      "mean": "heures et minutes"
+    },
+    {
+      "en": "weekend",
+      "mean": "le samedi et le dimanche"
+    },
+    {
+      "en": "morning",
+      "mean": "début de la journée"
+    },
+    {
+      "en": "birthday",
+      "mean": "jour de votre naissance"
+    }
+  ],
+  "tip": "Pensez à \"at\" comme à un tout petit point sur une horloge, \"on\" comme à une page de calendrier, et \"in\" comme à une grande boîte de temps !",
+  "quiz": [
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "I sleep ___ 10 PM every night.",
+      "choices": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "Her party is ___ Saturday.",
+      "choices": [
+        "on",
+        "at",
+        "in"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "We go to the beach ___ summer.",
+      "choices": [
+        "on",
+        "at",
+        "in"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "The shop opens ___ 8 o'clock.",
+      "choices": [
+        "in",
+        "at",
+        "on"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "His birthday is ___ October.",
+      "choices": [
+        "at",
+        "on",
+        "in"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "I play football ___ the afternoon.",
+      "choices": [
+        "in",
+        "at",
+        "on"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-25",
+  "slug": "object-pronouns",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🎁",
+  "title": "Pronoms compléments : me, te, le, la, lui, nous, vous, les",
+  "summary": "Apprenez à utiliser les pronoms compléments en anglais. Ces mots remplacent les personnes et les choses après les verbes d'action.",
+  "sections": [
+    {
+      "h": "Que sont les pronoms compléments ?",
+      "p": "Nous utilisons des pronoms sujets comme I, he et she avant le verbe. Mais lorsqu'une personne ou une chose subit l'action, nous utilisons des pronoms compléments comme me, him et her après le verbe. Ils permettent de raccourcir nos phrases et de sonner beaucoup plus naturellement.",
+      "ex": [
+        {
+          "en": "I love my dog. I feed it every day.",
+          "mean": "nous utilisons 'it' pour remplacer 'my dog' après le verbe"
+        },
+        {
+          "en": "Sarah is my friend. I like her a lot.",
+          "mean": "nous utilisons 'her' pour remplacer 'Sarah' après le verbe"
+        }
+      ]
+    },
+    {
+      "h": "Pronoms singuliers : me, you, him, her, it",
+      "p": "Utilisez 'me' pour vous-même, 'you' pour la personne qui écoute, 'him' pour un homme, 'her' pour une femme, et 'it' pour un animal ou une chose. Ils viennent toujours après un verbe d'action ou après des prépositions comme with, to ou for.",
+      "ex": [
+        {
+          "en": "Can you help me please?",
+          "mean": "demander à une autre personne d'aider le locuteur"
+        },
+        {
+          "en": "John is nice. I work with him.",
+          "mean": "utiliser 'him' après la préposition 'with'"
+        },
+        {
+          "en": "Where is my phone? I need it.",
+          "mean": "utiliser 'it' pour parler du téléphone"
+        }
+      ]
+    },
+    {
+      "h": "Pronoms pluriels : us et them",
+      "p": "Utilisez 'us' lorsque vous et d'autres personnes subissez l'action. Utilisez 'them' lorsque deux personnes, animaux ou choses ou plus subissent l'action. Tout comme les pronoms singuliers, ceux-ci se placent toujours après le verbe ou la préposition.",
+      "ex": [
+        {
+          "en": "Our teacher gives us a lot of homework.",
+          "mean": "le professeur donne des devoirs au locuteur et à d'autres"
+        },
+        {
+          "en": "Those shoes are cool. I want them.",
+          "mean": "utiliser 'them' pour parler de chaussures au pluriel"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "me",
+      "mean": "pronom complément pour I"
+    },
+    {
+      "en": "you",
+      "mean": "pronom complément pour you"
+    },
+    {
+      "en": "him",
+      "mean": "pronom complément pour he"
+    },
+    {
+      "en": "her",
+      "mean": "pronom complément pour she"
+    },
+    {
+      "en": "it",
+      "mean": "pronom complément pour les choses"
+    },
+    {
+      "en": "us",
+      "mean": "pronom complément pour we"
+    },
+    {
+      "en": "them",
+      "mean": "pronom complément pour they"
+    }
+  ],
+  "tip": "Voyez les pronoms compléments comme ceux qui reçoivent l'action. Le sujet fait l'action, et le complément la reçoit !",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "Mary is talking to ___.",
+      "choices": [
+        "he",
+        "him",
+        "they"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "I have a new cat. I love ___ very much.",
+      "choices": [
+        "it",
+        "her",
+        "us"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "Can you help ___? I cannot carry this bag.",
+      "choices": [
+        "she",
+        "they",
+        "me"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "My parents are cooking dinner for ___.",
+      "choices": [
+        "we",
+        "us",
+        "he"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "Look at those birds! Can you see ___?",
+      "choices": [
+        "them",
+        "it",
+        "him"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "Tom is my best friend. I play tennis with ___ every weekend.",
+      "choices": [
+        "she",
+        "they",
+        "him"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

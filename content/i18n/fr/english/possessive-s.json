@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-25",
+  "slug": "possessive-s",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🏠",
+  "title": "Le génitif en 's et Whose",
+  "summary": "Tu vas apprendre à indiquer à qui appartient quelque chose. Tu apprendras aussi à poser des questions sur les propriétaires.",
+  "sections": [
+    {
+      "h": "Utiliser le 's possessif",
+      "p": "On ajoute une apostrophe et la lettre s ('s) après le nom d'une personne ou un nom commun pour montrer que quelque chose lui appartient. Par exemple, si le téléphone est à Anna, on dit Anna's phone. S'il est à ma sœur, on dit my sister's bag. Mets toujours le propriétaire en premier, et l'objet qui lui appartient juste après.",
+      "ex": [
+        {
+          "en": "This is John's car.",
+          "mean": "The car belongs to John."
+        },
+        {
+          "en": "My brother's room is big.",
+          "mean": "The room belongs to my brother."
+        }
+      ]
+    },
+    {
+      "h": "Poser des questions avec Whose",
+      "p": "On utilise le mot interrogatif 'Whose' pour demander à qui appartient quelque chose. Quand on veut savoir à qui est un objet précis, on place le nom directement après 'Whose'. Par exemple, on demande 'Whose jacket is this?' ou 'Whose keys are these?' pour trouver le propriétaire.",
+      "ex": [
+        {
+          "en": "Whose pen is this?",
+          "mean": "Who is the owner of this pen?"
+        },
+        {
+          "en": "Whose shoes are those?",
+          "mean": "Who do those shoes belong to?"
+        }
+      ]
+    },
+    {
+      "h": "Réponses courtes",
+      "p": "Quand quelqu'un pose une question en 'Whose', on peut répondre de plusieurs façons. On peut utiliser le 's possessif avec un nom, ou bien des pronoms possessifs comme 'mine', 'yours' ou 'his'. Faire des réponses courtes et claires aide les gens à te comprendre rapidement dans les conversations de tous les jours.",
+      "ex": [
+        {
+          "en": "It's Sarah's.",
+          "mean": "The item belongs to Sarah."
+        },
+        {
+          "en": "They are mine.",
+          "mean": "The items belong to me."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "possessive 's",
+      "mean": "indique la possession"
+    },
+    {
+      "en": "whose",
+      "mean": "demander à qui appartient"
+    },
+    {
+      "en": "belong",
+      "mean": "appartenir à"
+    },
+    {
+      "en": "owner",
+      "mean": "personne qui l'a"
+    },
+    {
+      "en": "mine",
+      "mean": "qui m'appartient"
+    },
+    {
+      "en": "yours",
+      "mean": "qui t'appartient"
+    },
+    {
+      "en": "item",
+      "mean": "chose"
+    }
+  ],
+  "tip": "Retiens bien : mets d'abord le propriétaire avec un 's, puis l'objet qui lui appartient. Par exemple, 'Tom's cat' !",
+  "quiz": [
+    {
+      "ask": "Choisis le mot correct",
+      "en": "This is ___ book. (Maria)",
+      "choices": [
+        "Maria",
+        "Marias",
+        "Maria's"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisis le mot correct",
+      "en": "___ bag is this?",
+      "choices": [
+        "Whose",
+        "Who's",
+        "Who"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisis le mot correct",
+      "en": "These are my ___ keys.",
+      "choices": [
+        "father",
+        "father's",
+        "fathers"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisis le mot correct",
+      "en": "___ phone is ringing?",
+      "choices": [
+        "Whose",
+        "Whoses",
+        "Who"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisis le mot correct",
+      "en": "It is ___ laptop. (David)",
+      "choices": [
+        "Davids",
+        "David",
+        "David's"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisis le mot correct",
+      "en": "___ jacket is on the chair?",
+      "choices": [
+        "Who",
+        "Whose",
+        "What"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

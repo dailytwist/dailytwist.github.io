@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-25",
+  "slug": "at-the-doctor",
+  "cefr": "A2",
+  "cat": "phrases",
+  "emoji": "🏥",
+  "title": "Chez le médecin : décrire ce que l'on ressent",
+  "summary": "Apprenez à parler de votre corps et de votre santé en anglais. Entraînez-vous à expliquer ce qui ne va pas lors d'une visite chez le médecin.",
+  "sections": [
+    {
+      "h": "Dire « I have a... »",
+      "p": "Quand vous êtes malade, vous pouvez utiliser le verbe 'have' pour parler de votre douleur ou de votre maladie. On l'associe souvent à des mots comme 'cold', 'headache' ou 'stomachache'. C'est très simple et très utile. Écoutez comment on le prononce : 'I have a headache' signifie que j'ai mal à la tête. Vous pouvez aussi dire 'I have a fever' quand votre corps a trop chaud.",
+      "ex": [
+        {
+          "en": "I have a headache today.",
+          "mean": "J'ai mal à la tête aujourd'hui."
+        },
+        {
+          "en": "She has a bad cold.",
+          "mean": "Elle est malade, elle a un rhume."
+        }
+      ]
+    },
+    {
+      "h": "My [Body Part] Hurts",
+      "p": "Une autre excellente façon de décrire une douleur est d'utiliser le mot 'hurt'. Il suffit de mentionner d'abord la partie de votre corps, puis d'ajouter 'hurts'. Par exemple, votre jambe, votre bras ou votre dos. Si la douleur se situe à deux endroits, on utilise 'hurt' sans le 's'. Par exemple, 'My legs hurt.' Cela aide le médecin à savoir exactement où vous avez mal.",
+      "ex": [
+        {
+          "en": "My arm hurts a lot.",
+          "mean": "J'ai mal au bras."
+        },
+        {
+          "en": "My eyes hurt today.",
+          "mean": "J'ai mal aux deux yeux."
+        }
+      ]
+    },
+    {
+      "h": "Parler avec le médecin",
+      "p": "Quand vous consultez un médecin, il vous posera des questions pour vous aider. Il pourra vous demander 'What is the problem?' ou 'How do you feel today?'. Vous pouvez répondre simplement en utilisant les expressions que vous avez apprises. Par exemple, 'I feel tired' ou 'I feel sick.' Le médecin vous écoutera puis vous donnera un médicament pour vous aider à aller mieux.",
+      "ex": [
+        {
+          "en": "How do you feel today?",
+          "mean": "Quel est votre état de santé actuellement ?"
+        },
+        {
+          "en": "I feel very tired.",
+          "mean": "Mon corps a besoin de dormir."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "headache",
+      "mean": "douleur à la tête"
+    },
+    {
+      "en": "stomachache",
+      "mean": "douleur à l'estomac"
+    },
+    {
+      "en": "cold",
+      "mean": "maladie courante avec toux"
+    },
+    {
+      "en": "fever",
+      "mean": "le corps a trop chaud"
+    },
+    {
+      "en": "hurt",
+      "mean": "ressentir de la douleur"
+    },
+    {
+      "en": "doctor",
+      "mean": "personne qui vous aide quand vous êtes malade"
+    },
+    {
+      "en": "medicine",
+      "mean": "pilule ou liquide pour guérir"
+    },
+    {
+      "en": "sick",
+      "mean": "ne pas se sentir en bonne santé"
+    }
+  ],
+  "tip": "Touchez la partie de votre corps correspondante lorsque vous prononcez le mot en anglais. Cela relie le mot à votre ressenti physique et vous aide à le mémoriser plus rapidement !",
+  "quiz": [
+    {
+      "ask": "Choisissez la bonne expression pour un mal de tête.",
+      "en": "I have a ___.",
+      "choices": [
+        "headache",
+        "stomach",
+        "leg"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon mot pour une douleur corporelle.",
+      "en": "My back ___ today.",
+      "choices": [
+        "hurts",
+        "hurt",
+        "pain"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Complétez la question que pose le médecin.",
+      "en": "How ___ you feel today?",
+      "choices": [
+        "are",
+        "do",
+        "have"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correspondant à une température corporelle trop élevée.",
+      "en": "I have a ___.",
+      "choices": [
+        "fever",
+        "cold",
+        "doctor"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Sélectionnez le mot qui indique que l'on ne se sent pas bien.",
+      "en": "I feel very ___ today.",
+      "choices": [
+        "happy",
+        "sick",
+        "tall"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez ce que le médecin vous donne pour aller mieux.",
+      "en": "Take this ___ twice a day.",
+      "choices": [
+        "food",
+        "water",
+        "medicine"
+      ],
+      "answer_index": 2
+    }
+  ]
+}
