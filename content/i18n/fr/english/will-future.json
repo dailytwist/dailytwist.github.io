@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-25",
+  "slug": "will-future",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🔮",
+  "title": "Parler du futur avec « will »",
+  "summary": "Apprenez à utiliser « will » pour prendre des décisions spontanées, faire des promesses et des prédictions. Vous saurez facilement parler de choses qui ne se sont pas encore produites.",
+  "sections": [
+    {
+      "h": "Décisions instantanées",
+      "p": "Nous utilisons « will » lorsque nous faisons un choix sur le moment, au moment de parler. Par exemple, lorsqu'on vous pose une question et que vous décidez de votre réponse immédiatement. Nous utilisons souvent la forme courte 'll après des pronoms comme I, you, she et they. Cela vous donne un ton naturel et chaleureux lorsque vous parlez à des amis ou à votre famille.",
+      "ex": [
+        {
+          "en": "I'm hungry. I will make a sandwich.",
+          "mean": "Je viens juste de décider de préparer à manger."
+        },
+        {
+          "en": "The phone is ringing. I'll get it!",
+          "mean": "Je décide de répondre au téléphone à cet instant précis."
+        },
+        {
+          "en": "It's cold in here. I'll close the window.",
+          "mean": "Je fais le choix rapide de chauffer la pièce."
+        }
+      ]
+    },
+    {
+      "h": "Promesses",
+      "p": "Nous utilisons « will » pour dire à quelqu'un que nous ferons assurément quelque chose dans le futur. C'est très courant lorsque vous voulez montrer que vous êtes serviable, honnête ou digne de confiance. Vous pouvez promettre d'aider un ami, de rappeler quelqu'un plus tard ou de garder un secret. La forme négative est « will not » ou « won't ».",
+      "ex": [
+        {
+          "en": "I will help you with your homework tomorrow.",
+          "mean": "Je promets d'être là pour t'aider."
+        },
+        {
+          "en": "Don't worry, I won't tell anyone your secret.",
+          "mean": "Je promets de garder cette information en lieu sûr."
+        },
+        {
+          "en": "I will call you when I arrive home.",
+          "mean": "Je promets de t'appeler plus tard."
+        }
+      ]
+    },
+    {
+      "h": "Prédictions",
+      "p": "Nous utilisons « will » pour dire ce que nous pensons, devinons ou croyons qui se produira dans le futur. Nous commençons souvent ces phrases par « I think » ou « I hope ». Ce sont généralement des suppositions basées sur nos opinions ou nos sentiments, et non sur des faits concrets visibles en ce moment.",
+      "ex": [
+        {
+          "en": "I think it will rain this afternoon.",
+          "mean": "C'est ma supposition concernant la météo."
+        },
+        {
+          "en": "People will live on Mars in the future.",
+          "mean": "C'est ma prédiction pour un lointain avenir."
+        },
+        {
+          "en": "She will love this birthday present!",
+          "mean": "Je crois qu'elle en sera très heureuse."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "will",
+      "mean": "mot du futur"
+    },
+    {
+      "en": "won't",
+      "mean": "ne... pas"
+    },
+    {
+      "en": "decision",
+      "mean": "faire un choix"
+    },
+    {
+      "en": "promise",
+      "mean": "affirmer que l'on fera absolument quelque chose"
+    },
+    {
+      "en": "prediction",
+      "mean": "deviner l'avenir"
+    },
+    {
+      "en": "I think",
+      "mean": "mon avis"
+    },
+    {
+      "en": "moment",
+      "mean": "maintenant même"
+    }
+  ],
+  "tip": "N'oubliez pas que « will » ne change pas avec he, she ou it ! C'est toujours simplement « will » pour tout le monde.",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct pour une décision spontanée",
+      "en": "The door is open. I ___ close it.",
+      "choices": [
+        "will",
+        "am",
+        "do",
+        "have"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la forme négative correcte pour une promesse",
+      "en": "I promise I ___ be late again.",
+      "choices": [
+        "will",
+        "won't",
+        "don't",
+        "am not"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct pour une prédiction",
+      "en": "I think robots ___ do all the housework one day.",
+      "choices": [
+        "are",
+        "did",
+        "will",
+        "do"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez la forme courte correcte",
+      "en": "It's heavy. ___ carry it for you.",
+      "choices": [
+        "I will",
+        "I'll",
+        "I am",
+        "I do"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct pour compléter la promesse",
+      "en": "Thank you for the money. I ___ pay you back on Friday.",
+      "choices": [
+        "will",
+        "want",
+        "make",
+        "going"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la bonne expression de prédiction",
+      "en": "Look at those dark clouds! It ___ rain soon.",
+      "choices": [
+        "will",
+        "is",
+        "has",
+        "does"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

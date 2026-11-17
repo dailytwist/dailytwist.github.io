@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-25",
+  "slug": "making-plans-with-friends",
+  "cefr": "A2",
+  "cat": "phrases",
+  "emoji": "🎉",
+  "title": "Inviter des gens : Oui et Non",
+  "summary": "Dans cette leçon, vous apprendrez à inviter des amis à faire des activités. Vous vous entraînez également à dire oui ou non poliment.",
+  "sections": [
+    {
+      "h": "Comment lancer une invitation",
+      "p": "Quand vous voulez proposer à quelqu'un de faire quelque chose avec vous, utilisez 'Would you like to...' ou 'Do you want to...'. Ce sont des manières très courantes et polies d'inviter un ami au cinéma, au restaurant ou à une fête. Souriez toujours et soyez chaleureux quand vous demandez !",
+      "ex": [
+        {
+          "en": "Would you like to come to my party?",
+          "mean": "Demander poliment à quelqu'un de se joindre à votre fête"
+        },
+        {
+          "en": "Do you want to grab a coffee tomorrow?",
+          "mean": "Proposer à un ami d'aller prendre un café ensemble"
+        }
+      ]
+    },
+    {
+      "h": "Comment accepter poliment",
+      "p": "Quand quelqu'un vous invite et que vous êtes libre, vous devriez accepter avec joie. Dites d'abord merci ! Vous pouvez utiliser des expressions comme 'I'd love to' ou 'That sounds great' pour montrer que leur invitation vous enthousiasme.",
+      "ex": [
+        {
+          "en": "I'd love to! Thank you.",
+          "mean": "Dire oui avec enthousiasme"
+        },
+        {
+          "en": "That sounds great! What time?",
+          "mean": "Dire oui et demander l'heure"
+        }
+      ]
+    },
+    {
+      "h": "Comment refuser poliment",
+      "p": "Parfois, vous ne pouvez pas y aller. Quand vous devez dire non, soyez très poli pour ne pas blesser les sentiments de votre ami. Commencez toujours par le remercier. Ensuite, donnez une raison simple, comme le fait d'être occupé, et excusez-vous.",
+      "ex": [
+        {
+          "en": "I'm sorry, I'm busy that day.",
+          "mean": "Dire non parce qu'on a d'autres projets"
+        },
+        {
+          "en": "Thank you, but I can't make it.",
+          "mean": "Manière polie de refuser une invitation"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Would you like to",
+      "mean": "invitation polie"
+    },
+    {
+      "en": "Do you want to",
+      "mean": "invitation décontractée"
+    },
+    {
+      "en": "I'd love to",
+      "mean": "accepter avec joie"
+    },
+    {
+      "en": "That sounds great",
+      "mean": "montrer de l'enthousiasme"
+    },
+    {
+      "en": "I'm sorry",
+      "mean": "excuse polie"
+    },
+    {
+      "en": "I'm busy",
+      "mean": "avoir d'autres projets"
+    },
+    {
+      "en": "Thank you",
+      "mean": "exprimer de la gratitude"
+    }
+  ],
+  "tip": "Dites toujours 'Thank you' avant d'accepter ou de refuser une invitation. Cela montre que vous appréciez que votre ami ait pensé à vous !",
+  "quiz": [
+    {
+      "ask": "Choisissez la meilleure façon d'inviter un ami.",
+      "en": "___ you like to go to the cinema tonight?",
+      "choices": [
+        "Would",
+        "Do",
+        "Are",
+        "Can"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct pour compléter la phrase.",
+      "en": "I'd love ___! Thank you.",
+      "choices": [
+        "go",
+        "to",
+        "too",
+        "do"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Sélectionnez la manière polie de dire non.",
+      "en": "I'm sorry, I'm ___ that day.",
+      "choices": [
+        "free",
+        "good",
+        "busy",
+        "nice"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez l'expression correcte pour montrer de l'enthousiasme.",
+      "en": "___ sounds great!",
+      "choices": [
+        "This",
+        "It",
+        "What",
+        "That"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Complétez l'invitation décontractée.",
+      "en": "___ you want to grab lunch?",
+      "choices": [
+        "Do",
+        "Would",
+        "Are",
+        "Did"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la réponse correcte à un refus.",
+      "en": "That's okay, maybe ___ time!",
+      "choices": [
+        "next",
+        "other",
+        "future",
+        "later"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

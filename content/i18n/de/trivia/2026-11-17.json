@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-17",
+  "title": "Tägliches Quiz-Duell: 17. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches Land grenzt im Süden an Frankreich und hat Andorra la Vella als Hauptstadt?",
+      "options": [
+        "Liechtenstein",
+        "San Marino",
+        "Andorra",
+        "Monaco"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Eingebettet hoch in den östlichen Pyrenäen ist Andorra das einzige Land der Welt, in dem Katalanisch die Amtssprache ist."
+    },
+    {
+      "category": "Tiere",
+      "question": "Woraus besteht die Hauptnahrung des Großen Pandas?",
+      "options": [
+        "Eukalyptusblätter",
+        "Insekten",
+        "Fisch",
+        "Bambus"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Bambus macht etwa 99 Prozent der Ernährung eines Großen Pandas aus, und sie können bis zu 12 Stunden am Tag damit verbringen, ihn zu fressen, um ihren Nährstoffbedarf zu decken."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Welcher Sci-Fi-Actionfilm aus dem Jahr 1999 machte den visuellen Effekt namens „Bullet Time“ berühmt?",
+      "options": [
+        "The Terminator",
+        "The Matrix",
+        "Total Recall",
+        "Blade Runner"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Für The Matrix wurde eine Reihe von Standbildkameras um eine Szene herum platziert, um die Illusion einer angehaltenen Zeit zu erzeugen, während sich die Kameraperspektive bewegte."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Welches chemische Element hat das Symbol „Fe“?",
+      "options": [
+        "Fluor",
+        "Eisen",
+        "Fermium",
+        "Francium"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Das Symbol „Fe“ leitet sich von „ferrum“ ab, dem lateinischen Wort für Eisen."
+    },
+    {
+      "category": "Geschichte",
+      "question": "In welches Jahrhundert fällt hauptsächlich der Siebenjährige Krieg, ein globaler Konflikt, an dem die meisten großen europäischen Mächte beteiligt waren?",
+      "options": [
+        "18. Jahrhundert",
+        "17. Jahrhundert",
+        "19. Jahrhundert",
+        "16. Jahrhundert"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Winston Churchill bezeichnete den Siebenjährigen Krieg wegen seines globalen Ausmaßes, das sich über Europa, Amerika und Asien erstreckte, bekanntermaßen als den ersten „Weltkrieg“."
+    },
+    {
+      "category": "Essen & Trinken",
+      "question": "Aus welchem Land stammt der Gorgonzola, ein bekannter Käse mit blau-grünen Schimmeladern?",
+      "options": [
+        "Spanien",
+        "Italien",
+        "Frankreich",
+        "Schweiz"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Gorgonzola ist einer der ältesten Blauschimmelkäse Italiens und hat seinen Namen von einer kleinen Stadt in der Nähe von Mailand."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie lautet der grammatikalische Begriff für ein Wort, das aus den Anfangsbuchstaben anderer Wörter gebildet wird, wie zum Beispiel „NASA“ oder „Radar“?",
+      "options": [
+        "Antonym",
+        "Akronym",
+        "Homonym",
+        "Synonym"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Zwar sind alle Akronyme auch Abkürzungen, aber ein Akronym wird speziell als ein einziges Wort ausgesprochen, anstatt Buchstabe für Buchstabe buchstabiert zu werden."
+    },
+    {
+      "category": "Weltall",
+      "question": "Welcher Planet in unserem Sonnensystem rotiert auf der Seite und weist eine extreme Achsenneigung von etwa 98 Grad auf?",
+      "options": [
+        "Mars",
+        "Neptun",
+        "Uranus",
+        "Saturn"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Diese ungewöhnliche Neigung ist höchstwahrscheinlich das Resultat einer katastrophalen Kollision mit einem erdgroßen Objekt vor langer Zeit während der Entstehung des Sonnensystems."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Punkte ist ein Touchdown beim American Football wert, noch vor einem eventuellen Extrapunkt oder einer Two-Point-Conversion?",
+      "options": [
+        "6",
+        "4",
+        "3",
+        "7"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Ein Touchdown bringt 6 Punkte ein und ist damit der punktereichste einzelne Spielzug im Standard-American-Football."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist das Hauptmineral, aus dem Perlen bestehen und das für ihren schimmernden Perlmuttglanz verantwortlich ist?",
+      "options": [
+        "Siliziumdioxid",
+        "Calciumcarbonat",
+        "Quarz",
+        "Natriumchlorid"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Perlen werden von bestimmten Weichtieren als Abwehrmechanismus gegen Reizkörper gebildet, indem sie Schichten aus Calciumcarbonat und Protein absondern."
+    }
+  ]
+}

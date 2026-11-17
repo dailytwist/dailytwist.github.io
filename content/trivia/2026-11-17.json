@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-17",
+  "title": "Daily Trivia Challenge: November 17, 2026",
+  "questions": [
+    {
+      "category": "Geography",
+      "question": "Which country is bordered by France to the south and has the capital city of Andorra la Vella?",
+      "options": [
+        "Liechtenstein",
+        "San Marino",
+        "Andorra",
+        "Monaco"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Nestled high in the eastern Pyrenees mountain range, Andorra is the only country in the world with Catalan as its official language."
+    },
+    {
+      "category": "Animals",
+      "question": "What is the primary diet of the giant panda?",
+      "options": [
+        "Eucalyptus leaves",
+        "Insects",
+        "Fish",
+        "Bamboo"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Bamboo makes up about 99 percent of a giant panda's diet, and they can spend up to 12 hours a day eating it to meet their nutritional needs."
+    },
+    {
+      "category": "Movies & Pop Culture",
+      "question": "Which 1999 sci-fi action film famously popularized the visual effect known as 'bullet time'?",
+      "options": [
+        "The Terminator",
+        "The Matrix",
+        "Total Recall",
+        "Blade Runner"
+      ],
+      "answer_index": 1,
+      "fun_fact": "The Matrix used an array of still cameras surrounding a scene to create the illusion of stopped time while the camera viewpoint moved."
+    },
+    {
+      "category": "Science",
+      "question": "What is the chemical element with the symbol 'Fe'?",
+      "options": [
+        "Fluorine",
+        "Iron",
+        "Fermium",
+        "Francium"
+      ],
+      "answer_index": 1,
+      "fun_fact": "The symbol 'Fe' comes from 'ferrum', the Latin word for iron."
+    },
+    {
+      "category": "History",
+      "question": "The Seven Years' War, a global conflict involving most of the major European powers, took place primarily during which century?",
+      "options": [
+        "18th century",
+        "17th century",
+        "19th century",
+        "16th century"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Winston Churchill famously described the Seven Years' War as the first 'world war' due to its global scale spanning Europe, the Americas, and Asia."
+    },
+    {
+      "category": "Food",
+      "question": "Gorgonzola, a famous cheese known for its blue-green mold veining, originates from which country?",
+      "options": [
+        "Spain",
+        "Italy",
+        "France",
+        "Switzerland"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Gorgonzola is one of Italy's oldest blue cheeses, taking its name from a small town near Milan."
+    },
+    {
+      "category": "Language",
+      "question": "What is the grammatical term for a word formed from the initial letters of other words, such as 'NASA' or 'Scuba'?",
+      "options": [
+        "Antonym",
+        "Acronym",
+        "Homonym",
+        "Synonym"
+      ],
+      "answer_index": 1,
+      "fun_fact": "While all acronyms are abbreviations, an acronym is specifically pronounced as a single word rather than spelled out letter by letter."
+    },
+    {
+      "category": "Space",
+      "question": "Which planet in our solar system rotates on its side, possessing an extreme axial tilt of about 98 degrees?",
+      "options": [
+        "Mars",
+        "Neptune",
+        "Uranus",
+        "Saturn"
+      ],
+      "answer_index": 2,
+      "fun_fact": "This unusual tilt likely resulted from a catastrophic collision with an Earth-sized object long ago during the formation of the solar system."
+    },
+    {
+      "category": "Sports",
+      "question": "In American football, how many points is a touchdown worth before any subsequent extra point or two-point conversion attempt?",
+      "options": [
+        "6",
+        "4",
+        "3",
+        "7"
+      ],
+      "answer_index": 0,
+      "fun_fact": "A touchdown is worth 6 points, making it the highest-scoring single play in standard American football."
+    },
+    {
+      "category": "Science",
+      "question": "What is the primary mineral that makes up pearls, accounting for their lustrous nacre?",
+      "options": [
+        "Silicon dioxide",
+        "Calcium carbonate",
+        "Quartz",
+        "Sodium chloride"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Pearls are created by certain mollusks as a defense mechanism against irritants, secreting layers of calcium carbonate and protein."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-17",
+  "title": "Desafío de trivia diario: 17 de noviembre de 2026",
+  "questions": [
+    {
+      "category": "Geografía",
+      "question": "¿Qué país limita con Francia al sur y tiene como capital a Andorra la Vella?",
+      "options": [
+        "Liechtenstein",
+        "San Marino",
+        "Andorra",
+        "Mónaco"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Enclavada en lo alto de la cordillera de los Pirineos orientales, Andorra es el único país del mundo que tiene el catalán como idioma oficial."
+    },
+    {
+      "category": "Animales",
+      "question": "¿Cuál es la principal fuente de alimentación del panda gigante?",
+      "options": [
+        "Hojas de eucalipto",
+        "Insectos",
+        "Pescado",
+        "Bambú"
+      ],
+      "answer_index": 3,
+      "fun_fact": "El bambú representa aproximadamente el 99 por ciento de la dieta del panda gigante, y pueden pasar hasta 12 horas al día comiéndolo para satisfacer sus necesidades nutricionales."
+    },
+    {
+      "category": "Cine y cultura pop",
+      "question": "¿Qué película de acción y ciencia ficción de 1999 popularizó el famoso efecto visual conocido como 'tiempo bala'?",
+      "options": [
+        "The Terminator",
+        "The Matrix",
+        "Total Recall",
+        "Blade Runner"
+      ],
+      "answer_index": 1,
+      "fun_fact": "The Matrix utilizó un despliegue de cámaras fotográficas alrededor de una escena para crear la ilusión de que el tiempo se detenía mientras el punto de vista de la cámara se movía."
+    },
+    {
+      "category": "Ciencia",
+      "question": "¿Cuál es el elemento químico cuyo símbolo es 'Fe'?",
+      "options": [
+        "Flúor",
+        "Hierro",
+        "Fermio",
+        "Francio"
+      ],
+      "answer_index": 1,
+      "fun_fact": "El símbolo 'Fe' proviene de 'ferrum', la palabra en latín para el hierro."
+    },
+    {
+      "category": "Historia",
+      "question": "La guerra de los Siete Años, un conflicto global en el que participaron la mayoría de las grandes potencias europeas, tuvo lugar principalmente durante qué siglo?",
+      "options": [
+        "Siglo XVIII",
+        "Siglo XVII",
+        "Siglo XIX",
+        "Siglo XVI"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Winston Churchill describió célebremente la guerra de los Siete Años como la primera 'guerra mundial' debido a su alcance global que abarcó Europa, América y Asia."
+    },
+    {
+      "category": "Gastronomía",
+      "question": "¿De qué país es originario el gorgonzola, un famoso queso conocido por sus vetas de moho azul verdoso?",
+      "options": [
+        "España",
+        "Italia",
+        "Francia",
+        "Suiza"
+      ],
+      "answer_index": 1,
+      "fun_fact": "El gorgonzola es uno de los quesos azules más antiguos de Italia y debe su nombre a un pequeño pueblo cercano a Milán."
+    },
+    {
+      "category": "Lenguaje",
+      "question": "¿Cuál es el término gramatical para una palabra formada por las letras iniciales de otras palabras, como 'NASA' o 'láser'?",
+      "options": [
+        "Antónimo",
+        "Acrónimo",
+        "Homónimo",
+        "Sinónimo"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Aunque todos los acrónimos son abreviaturas, un acrónimo se pronuncia específicamente como una sola palabra en lugar de deletrearse letra por letra."
+    },
+    {
+      "category": "Espacio",
+      "question": "¿Qué planeta de nuestro sistema solar gira de lado, presentando una inclinación axial extrema de unos 98 grados?",
+      "options": [
+        "Marte",
+        "Neptuno",
+        "Urano",
+        "Saturno"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Esta inusual inclinación probablemente se debió a una colisión catastrófica con un objeto del tamaño de la Tierra hace mucho tiempo, durante la formación del sistema solar."
+    },
+    {
+      "category": "Deportes",
+      "question": "En el fútbol americano, ¿cuántos puntos vale un touchdown antes de cualquier intento posterior de punto extra o conversión de dos puntos?",
+      "options": [
+        "6",
+        "4",
+        "3",
+        "7"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Un touchdown vale 6 puntos, lo que lo convierte en la jugada individual que otorga más puntos en el fútbol americano estándar."
+    },
+    {
+      "category": "Ciencia",
+      "question": "¿Cuál es el mineral principal que compone las perlas y es responsable de su nácar brillante?",
+      "options": [
+        "Dióxido de silicio",
+        "Carbonato de calcio",
+        "Cuarzo",
+        "Cloruro de sodio"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Las perlas son creadas por ciertos moluscos como mecanismo de defensa contra sustancias irritantes, segregando capas de carbonato de calcio y proteína."
+    }
+  ]
+}

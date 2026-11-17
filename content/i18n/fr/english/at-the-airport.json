@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-25",
+  "slug": "at-the-airport",
+  "cefr": "A2",
+  "cat": "phrases",
+  "emoji": "✈️",
+  "title": "À l'aéroport et dans l'avion",
+  "summary": "Apprenez un anglais simple et utile pour voyager en avion. Vous apprendrez à trouver votre porte d'embarquement et à parler aux agents de bord.",
+  "sections": [
+    {
+      "h": "Trouver son chemin",
+      "p": "Quand vous arrivez à l'aéroport, vous devez trouver votre porte d'embarquement. La porte est l'endroit où vous patientez avant de monter dans l'avion. Regardez les grands écrans pour voir votre numéro de vol et la lettre de votre porte. Si vous ne la trouvez pas, demandez de l'aide au personnel de l'aéroport.",
+      "ex": [
+        {
+          "en": "Where is gate number five?",
+          "mean": "Demander où se trouve votre porte d'embarquement"
+        },
+        {
+          "en": "My flight to Paris is at two o'clock.",
+          "mean": "Indiquer à quelqu'un l'heure de votre vol et votre destination"
+        }
+      ]
+    },
+    {
+      "h": "Au comptoir d'enregistrement",
+      "p": "Avant de monter dans l'avion, vous devez passer par le comptoir d'enregistrement. C'est là que vous remettez votre passeport et votre billet à l'agent. Il s'occupera de vos bagages. On vous remettra une carte d'embarquement, un document indispensable à présenter avant d'entrer dans l'appareil.",
+      "ex": [
+        {
+          "en": "Here is my passport and ticket.",
+          "mean": "Donner vos documents de voyage à l'agent"
+        },
+        {
+          "en": "I have one suitcase to check.",
+          "mean": "Indiquer à l'agent le nombre de grands bagages que vous avez"
+        }
+      ]
+    },
+    {
+      "h": "Dans l'avion",
+      "p": "Une fois à bord, cherchez votre numéro de siège. Glissez votre petit sac sous le siège devant vous ou rangez-le dans le coffre à bagages au-dessus de vous. Les agents de bord sont les employés de l'avion. Ils sont là pour vous aider et veiller à votre sécurité.",
+      "ex": [
+        {
+          "en": "Can I have some water, please?",
+          "mean": "Demander une boisson à un agent de bord"
+        },
+        {
+          "en": "Excuse me, where is seat twelve B?",
+          "mean": "Demander où se trouve précisément votre siège"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "passport",
+      "mean": "pièce d'identité officielle de voyage"
+    },
+    {
+      "en": "boarding pass",
+      "mean": "billet pour monter dans l'avion"
+    },
+    {
+      "en": "gate",
+      "mean": "porte menant à l'avion"
+    },
+    {
+      "en": "suitcase",
+      "mean": "grand sac de voyage"
+    },
+    {
+      "en": "seat",
+      "mean": "endroit où s'asseoir"
+    },
+    {
+      "en": "flight attendant",
+      "mean": "employé à bord de l'avion"
+    },
+    {
+      "en": "ticket",
+      "mean": "papier nécessaire pour voyager"
+    }
+  ],
+  "tip": "Exercez-vous à dire ces expressions à haute voix avant votre voyage. Imaginez que vous parlez à un vrai employé à l'aéroport !",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot qui désigne la porte menant à l'avion",
+      "en": "Please go to ___ number four.",
+      "choices": [
+        "gate",
+        "seat",
+        "bag",
+        "desk"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le nom du document correct",
+      "en": "Here is my ___ and my ticket.",
+      "choices": [
+        "water",
+        "passport",
+        "plane",
+        "flight"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la question polie appropriée",
+      "en": "___ I have some water, please?",
+      "choices": [
+        "Do",
+        "Are",
+        "Can",
+        "Is"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot qui désigne l'employé à bord de l'avion",
+      "en": "The flight ___ helped me find my seat.",
+      "choices": [
+        "driver",
+        "teacher",
+        "attendant",
+        "doctor"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le document qu'il faut présenter",
+      "en": "Show your ___ before you get on the plane.",
+      "choices": [
+        "boarding pass",
+        "suitcase",
+        "passport photo",
+        "money"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez l'endroit où l'on s'assoit",
+      "en": "My ___ number is ten A.",
+      "choices": [
+        "gate",
+        "seat",
+        "desk",
+        "bag"
+      ],
+      "answer_index": 1
+    }
+  ]
+}
