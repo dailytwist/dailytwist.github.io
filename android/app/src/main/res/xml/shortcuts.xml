@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut android:shortcutId="horoscope" android:enabled="true" android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/sc_horoscope" android:shortcutLongLabel="@string/sc_horoscope">
+        <intent android:action="android.intent.action.VIEW" android:targetPackage="com.mydailytwist.app"
+            android:targetClass="com.google.androidbrowserhelper.trusted.LauncherActivity"
+            android:data="https://www.mydailytwist.com/horoscope/?source=android-shortcut" />
+    </shortcut>
+    <shortcut android:shortcutId="trivia" android:enabled="true" android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/sc_trivia" android:shortcutLongLabel="@string/sc_trivia">
+        <intent android:action="android.intent.action.VIEW" android:targetPackage="com.mydailytwist.app"
+            android:targetClass="com.google.androidbrowserhelper.trusted.LauncherActivity"
+            android:data="https://www.mydailytwist.com/trivia/?source=android-shortcut" />
+    </shortcut>
+    <shortcut android:shortcutId="games" android:enabled="true" android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/sc_games" android:shortcutLongLabel="@string/sc_games">
+        <intent android:action="android.intent.action.VIEW" android:targetPackage="com.mydailytwist.app"
+            android:targetClass="com.google.androidbrowserhelper.trusted.LauncherActivity"
+            android:data="https://www.mydailytwist.com/games/?source=android-shortcut" />
+    </shortcut>
+    <shortcut android:shortcutId="math" android:enabled="true" android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/sc_math" android:shortcutLongLabel="@string/sc_math">
+        <intent android:action="android.intent.action.VIEW" android:targetPackage="com.mydailytwist.app"
+            android:targetClass="com.google.androidbrowserhelper.trusted.LauncherActivity"
+            android:data="https://www.mydailytwist.com/games/math-rush/?source=android-shortcut" />
+    </shortcut>
+</shortcuts>
