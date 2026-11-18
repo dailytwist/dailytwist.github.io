@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-29",
+  "slug": "business-meetings",
+  "cefr": "B2",
+  "cat": "phrases",
+  "emoji": "💼",
+  "title": "Geschäftstreffen: Zu Wort kommen",
+  "summary": "In dieser Lektion lernst du, wie du in englischsprachigen Meetings deine Ideen teilst und höflich das Wort ergreifst. Diese nützlichen Redewendungen helfen dir, selbstbewusst und professionell aufzutreten.",
+  "sections": [
+    {
+      "h": "Das Wort ergreifen",
+      "p": "Wenn du in einem Meeting deine Meinung sagen möchtest, ist ein höflicher Einstieg wichtig. Du kannst einfache Formulierungen nutzen, um zu zeigen, dass du deine Gedanken einbringen wirst. Das hilft dir, Aufmerksamkeit zu bekommen, ohne auf deine Kollegen unhöflich zu wirken.",
+      "ex": [
+        {
+          "en": "I'd like to add something here.",
+          "mean": "Ich möchte zu diesem Thema noch etwas sagen."
+        },
+        {
+          "en": "From my perspective, we should focus on quality.",
+          "mean": "Meiner Meinung nach ist Qualität das Wichtigste."
+        },
+        {
+          "en": "If I could jump in, I think this plan works well.",
+          "mean": "Lass mich jetzt sprechen, mir gefällt dieser Plan."
+        }
+      ]
+    },
+    {
+      "h": "Höflich unterbrechen",
+      "p": "Manchmal reden andere und du musst etwas sagen. Du solltest niemals einfach dazwischenrufen. Nutze stattdessen höfliche Floskeln, um sanft zu unterbrechen. So bleibt die Atmosphäre im Meeting entspannt und du kannst deine Ideen teilen.",
+      "ex": [
+        {
+          "en": "Sorry to cut in, but do we have the budget for this?",
+          "mean": "Entschuldigung die Störung, ich habe eine Frage zum Budget."
+        },
+        {
+          "en": "Can I just say something quickly?",
+          "mean": "Bitte lass mich kurz zu Wort kommen."
+        }
+      ]
+    },
+    {
+      "h": "Nach Meinungen fragen",
+      "p": "Gute Meetings beziehen jeden ein. Wenn du ein Meeting leitest oder einen ruhigen Kollegen einbinden möchtest, solltest du nach seiner Meinung fragen. Das stärkt die Teamarbeit und bringt frische Ideen ein.",
+      "ex": [
+        {
+          "en": "What are your thoughts on this, Sarah?",
+          "mean": "Sarah, sag mir, was du darüber denkst."
+        },
+        {
+          "en": "How do you feel about this proposal?",
+          "mean": "Magst du diese neue Idee oder nicht?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "jump in",
+      "mean": "einem Gespräch beitreten"
+    },
+    {
+      "en": "perspective",
+      "mean": "persönlicher Standpunkt"
+    },
+    {
+      "en": "cut in",
+      "mean": "jemanden beim Sprechen unterbrechen"
+    },
+    {
+      "en": "proposal",
+      "mean": "vorgeschlagener Plan"
+    },
+    {
+      "en": "budget",
+      "mean": "verfügbares Geld"
+    },
+    {
+      "en": "opinion",
+      "mean": "was du denkst"
+    }
+  ],
+  "tip": "Übe diese Redewendungen vor deinem Meeting laut auszusprechen. Wenn du sie im Schlaf beherrschst, wirst du dich viel weniger nervös fühlen.",
+  "quiz": [
+    {
+      "ask": "Wähle die beste Redewendung für eine höfliche Unterbrechung",
+      "en": "___, but I have a quick question about the schedule.",
+      "choices": [
+        "Sorry to cut in",
+        "Shut up",
+        "Listen to me",
+        "Stop talking"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die beste Redewendung, um deine Meinung zu sagen",
+      "en": "___, we need to hire more staff.",
+      "choices": [
+        "I don't know",
+        "From my perspective",
+        "Whatever",
+        "Who cares"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die richtige Redewendung, um nach der Meinung von jemandem zu fragen",
+      "en": "What are your ___ on this new project?",
+      "choices": [
+        "shoes",
+        "thoughts",
+        "colors",
+        "windows"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Verb für das Teilnehmen an einem Gespräch",
+      "en": "If I could ___ in, I have an idea.",
+      "choices": [
+        "walk",
+        "jump",
+        "run",
+        "fly"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das beste Wort für einen vorgeschlagenen Geschäftsplan",
+      "en": "The manager liked my ___ for the new website.",
+      "choices": [
+        "proposal",
+        "problem",
+        "mistake",
+        "trouble"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das beste Wort für das für ein Projekt verfügbare Geld",
+      "en": "We do not have enough ___ to finish this task.",
+      "choices": [
+        "weather",
+        "budget",
+        "paper",
+        "lunch"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-29",
+  "slug": "present-perfect-continuous",
+  "cefr": "B2",
+  "cat": "grammar",
+  "emoji": "⏳",
+  "title": "Über laufende Handlungen mit dem Present Perfect Continuous sprechen",
+  "summary": "Du lernst, wie man das Present Perfect Continuous (die Verlaufsform des Perfekts) verwendet. Damit kannst du über Handlungen sprechen, die in der Vergangenheit begonnen haben und immer noch andauern.",
+  "sections": [
+    {
+      "h": "Wie man es bildet",
+      "p": "Um das Present Perfect Continuous zu bilden, verwendest du 'have' oder 'has' plus 'been' und das Hauptverb mit '-ing'. Verwende 'have been' bei I, you, we und they. Verwende 'has been' bei he, she und it. Diese Struktur verbindet eine vergangene Handlung direkt mit der Gegenwart.",
+      "ex": [
+        {
+          "en": "I have been waiting for the bus for twenty minutes.",
+          "mean": "Ich habe in der Vergangenheit angefangen zu warten und warte jetzt immer noch."
+        },
+        {
+          "en": "She has been studying English all morning.",
+          "mean": "Ihr Lernen hat heute früher begonnen und dauert jetzt an."
+        },
+        {
+          "en": "We have been living in this city for five years.",
+          "mean": "Unser Leben hier hat vor fünf Jahren begonnen und dauert immer noch an."
+        }
+      ]
+    },
+    {
+      "h": "Die Verwendung von For und Since",
+      "p": "Wir verwenden oft 'for' und 'since' mit dieser Zeitform. Verwende 'for', um über eine Zeitspanne zu sprechen, wie 'for two hours' (seit zwei Stunden) oder 'for a long time' (schon lange). Verwende 'since', um den genauen Startpunkt der Handlung zu zeigen, wie 'since Monday' (seit Montag) oder 'since 2010' (seit 2010).",
+      "ex": [
+        {
+          "en": "He has been working here for six months.",
+          "mean": "Sechs Monate ist die Gesamtdauer der Zeit."
+        },
+        {
+          "en": "They have been playing tennis since three o'clock.",
+          "mean": "Drei Uhr ist der genaue Zeitpunkt, zu dem das Spiel begonnen hat."
+        }
+      ]
+    },
+    {
+      "h": "Der Fokus liegt auf der Aktivität",
+      "p": "Wir verwenden das Present Perfect Continuous, wenn wir zeigen möchten, dass eine Aktivität wichtig, andauernd oder vielleicht sogar ein wenig anstrengend ist. Manchmal sieht man das physische Ergebnis der Handlung in der Gegenwart, wie zum Beispiel Müdigkeit oder nasse Kleidung vom Regen.",
+      "ex": [
+        {
+          "en": "You look tired. Have you been working hard?",
+          "mean": "Ich sehe, dass du müde bist, und ich denke, du hast lange gearbeitet."
+        },
+        {
+          "en": "It has been raining all day.",
+          "mean": "Der Regen hat früher begonnen und fällt genau in diesem Moment immer noch."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "have been",
+      "mean": "Hilfsverb für Subjekte im Plural"
+    },
+    {
+      "en": "has been",
+      "mean": "Hilfsverb für Subjekte im Singular"
+    },
+    {
+      "en": "-ing form",
+      "mean": "Verbendung für eine fortlaufende Handlung"
+    },
+    {
+      "en": "for",
+      "mean": "wird mit einer Zeitspanne verwendet"
+    },
+    {
+      "en": "since",
+      "mean": "wird mit einem Startpunkt verwendet"
+    },
+    {
+      "en": "ongoing",
+      "mean": "passiert jetzt immer noch"
+    },
+    {
+      "en": "duration",
+      "mean": "wie lange etwas dauert"
+    }
+  ],
+  "tip": "Merke dir die Formel: Subjekt + have/has + been + Verb-ing. Stell dir das Ganze wie eine Brücke vor, die die Vergangenheit mit der Gegenwart verbindet.",
+  "quiz": [
+    {
+      "ask": "Wähle die richtige Verbform",
+      "en": "I ___ waiting for you for an hour!",
+      "choices": [
+        "have been",
+        "has been",
+        "am being",
+        "was"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort für den Zeitabschnitt",
+      "en": "She has been reading this book ___ three days.",
+      "choices": [
+        "since",
+        "during",
+        "for",
+        "from"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Hilfsverb",
+      "en": "He ___ working at the company since 2019.",
+      "choices": [
+        "have been",
+        "has been",
+        "is",
+        "was been"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort für den Startpunkt",
+      "en": "They have been living here ___ last January.",
+      "choices": [
+        "for",
+        "in",
+        "since",
+        "from"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle den richtigen Satz",
+      "en": "What ___ you doing all afternoon?",
+      "choices": [
+        "have",
+        "have been",
+        "has been",
+        "are"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die richtige Form, um die Frage zu vervollständigen",
+      "en": "How long ___ it been raining?",
+      "choices": [
+        "do",
+        "has",
+        "have",
+        "is"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

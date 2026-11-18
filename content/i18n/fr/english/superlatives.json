@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-24",
+  "slug": "superlatives",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "⭐",
+  "title": "Les adjectifs superlatifs : les plus grands et les meilleurs",
+  "summary": "Apprenez à comparer trois éléments ou plus à l'aide des adjectifs superlatifs. Découvrez des mots comme le plus grand, le plus beau et le meilleur.",
+  "sections": [
+    {
+      "h": "Qu'est-ce qu'un superlatif ?",
+      "p": "Nous utilisons les adjectifs superlatifs pour désigner l'élément d'un groupe qui se démarque de tous les autres. Par exemple, si vous avez trois voitures et que l'une d'elles est très, très grande, c'est la plus grande voiture. On ajoute généralement « the » devant l'adjectif et la terminaison « -est » aux mots courts comme fast (rapide), small (petit) ou tall (grand).",
+      "ex": [
+        {
+          "en": "My house is the biggest on this street.",
+          "mean": "Ma maison est plus grande que toutes les autres ici."
+        },
+        {
+          "en": "Today is the coldest day of the year.",
+          "mean": "La température d'aujourd'hui est plus basse que n'importe quel autre jour."
+        },
+        {
+          "en": "He is the tallest student in our class.",
+          "mean": "Aucun autre élève de la classe n'est plus grand que lui."
+        }
+      ]
+    },
+    {
+      "h": "Les adjectifs longs",
+      "p": "Pour les adjectifs longs comportant deux syllabes ou plus, on n'ajoute pas « -est ». À la place, on utilise « the most » devant l'adjectif. Des mots comme expensive (cher), beautiful (beau) ou dangerous (dangereux) ont besoin de « the most » pour devenir des superlatifs. L'adjectif en lui-même reste strictement inchangé.",
+      "ex": [
+        {
+          "en": "This is the most beautiful painting in the museum.",
+          "mean": "Ce tableau est plus beau que tous les autres."
+        },
+        {
+          "en": "That was the most expensive meal we ever ate.",
+          "mean": "Nous avons payé ce repas plus cher que n'importe quel autre."
+        },
+        {
+          "en": "Mathematics is the most difficult subject for me.",
+          "mean": "Les mathématiques sont plus difficiles pour moi que toute autre matière scolaire."
+        }
+      ]
+    },
+    {
+      "h": "Les superlatifs irréguliers",
+      "p": "Certains adjectifs très courants ne suivent pas les règles normales. Il faut les apprendre par cœur ! Le mot « good » (bon) devient « the best » (le meilleur). Le mot « bad » (mauvais) devient « the worst » (le pire). Leur forme change complètement, vous devez donc les pratiquer souvent pour bien vous en souvenir.",
+      "ex": [
+        {
+          "en": "Pizza is the best food in the world.",
+          "mean": "La pizza est de loin ma nourriture préférée."
+        },
+        {
+          "en": "Monday is the worst day of the week for me.",
+          "mean": "Le lundi est le jour que j'aime le moins."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "superlative",
+      "mean": "la plus haute qualité"
+    },
+    {
+      "en": "the biggest",
+      "mean": "le plus grand en taille"
+    },
+    {
+      "en": "the most beautiful",
+      "mean": "le plus agréable à voir"
+    },
+    {
+      "en": "the best",
+      "mean": "de la plus haute qualité"
+    },
+    {
+      "en": "the worst",
+      "mean": "de la plus basse qualité"
+    },
+    {
+      "en": "expensive",
+      "mean": "qui coûte très cher"
+    },
+    {
+      "en": "tallest",
+      "mean": "le plus haut en taille"
+    }
+  ],
+  "tip": "N'oubliez jamais de placer le mot « the » devant votre adjectif superlatif. On dit « the biggest » et non simplement « biggest ».",
+  "quiz": [
+    {
+      "ask": "Choisissez la bonne forme du superlatif",
+      "en": "Mount Everest is ___ mountain in the world.",
+      "choices": [
+        "the higher",
+        "highest",
+        "the highest",
+        "most high"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct pour un adjectif long",
+      "en": "That was ___ movie I have ever seen.",
+      "choices": [
+        "the most boring",
+        "the boringest",
+        "more boring",
+        "boring"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le superlatif irrégulier correct",
+      "en": "She is ___ player on the tennis team.",
+      "choices": [
+        "the goodest",
+        "the best",
+        "best",
+        "the better"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Complétez la phrase avec la bonne forme",
+      "en": "Yesterday was ___ day of my summer holiday.",
+      "choices": [
+        "the hot",
+        "hotter",
+        "the hottest",
+        "hottest"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez la forme négative irrégulière correcte",
+      "en": "This is ___ coffee I have ever tasted.",
+      "choices": [
+        "the worst",
+        "the baddest",
+        "worst",
+        "the worse"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le superlatif d'adjectif long correct",
+      "en": "Chemistry is ___ subject in high school.",
+      "choices": [
+        "difficult",
+        "the most difficult",
+        "the difficulter",
+        "most difficult"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-24",
+  "slug": "like-love-hate-ing",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "❤️",
+  "title": "Parler de ce que l'on aime",
+  "summary": "Apprenez à utiliser like, love et hate pour parler de vos choses préférées. Vous découvrirez également comment ajouter la terminaison -ing aux verbes d'action.",
+  "sections": [
+    {
+      "h": "Exprimez vos sentiments",
+      "p": "Nous utilisons les mots like, love et hate pour parler de ce qui nous plaît ou nous déplaît. Love signifie que vous aimez quelque chose par-tout. Like signifie que vous trouvez quelque chose bien. Hate signifie que vous n'aimez pas du tout quelque chose. Ces mots vous aident à partager vos émotions avec vos amis au quotidien.",
+      "ex": [
+        {
+          "en": "I love pizza.",
+          "mean": "La pizza est vraiment mon plat préféré."
+        },
+        {
+          "en": "I like tea.",
+          "mean": "Le thé est une boisson agréable pour moi."
+        },
+        {
+          "en": "I hate cold weather.",
+          "mean": "Le temps froid ne me réussit pas du tout."
+        }
+      ]
+    },
+    {
+      "h": "Parler d'actions avec -ing",
+      "p": "Lorsque vous voulez parler d'une action après like, love ou hate, vous devez ajouter -ing au verbe d'action. Par exemple, read devient reading. C'est une façon très courante de parler de vos loisirs et de vos activités de temps libre en anglais.",
+      "ex": [
+        {
+          "en": "I love reading books.",
+          "mean": "Lire des livres me rend très heureux."
+        },
+        {
+          "en": "She likes cooking dinner.",
+          "mean": "Cuisiner le dîner est un plaisir pour elle."
+        },
+        {
+          "en": "They hate waiting.",
+          "mean": "Attendre les rend très mécontents."
+        }
+      ]
+    },
+    {
+      "h": "Poser des questions",
+      "p": "Vous voulez savoir ce que votre ami aime ? Vous pouvez poser une question simple en utilisant Do you like ? suivie d'une action en -ing. C'est une excellente façon d'engager la conversation et de trouver des personnes qui partagent vos loisirs.",
+      "ex": [
+        {
+          "en": "Do you like swimming?",
+          "mean": "Aimez-vous pratiquer la natation ?"
+        },
+        {
+          "en": "What do you love doing?",
+          "mean": "Parlez-moi de votre activité favorite."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "like",
+      "mean": "trouver quelque chose de bien"
+    },
+    {
+      "en": "love",
+      "mean": "aimer énormément"
+    },
+    {
+      "en": "hate",
+      "mean": "détester"
+    },
+    {
+      "en": "reading",
+      "mean": "déchiffrer les mots dans les livres"
+    },
+    {
+      "en": "cooking",
+      "mean": "préparer à manger"
+    },
+    {
+      "en": "swimming",
+      "mean": "se déplacer dans l'eau"
+    },
+    {
+      "en": "waiting",
+      "mean": "rester en place jusqu'à ce qu'un événement se produise"
+    },
+    {
+      "en": "hobby",
+      "mean": "activité de loisir"
+    }
+  ],
+  "tip": "N'oubliez jamais d'ajouter -ing au verbe d'action lorsqu'il vient après like, love ou hate. Par exemple : I like running, et non I like run.",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "I ___ pizza very much. It is my favorite food.",
+      "choices": [
+        "hate",
+        "love",
+        "run"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la forme correcte",
+      "en": "She likes ___ books in the evening.",
+      "choices": [
+        "read",
+        "reads",
+        "reading"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez la bonne réponse",
+      "en": "They ___ cold weather. They stay inside all day.",
+      "choices": [
+        "hate",
+        "love",
+        "like"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la question correcte",
+      "en": "___ you like swimming?",
+      "choices": [
+        "Are",
+        "Do",
+        "Does"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la forme correcte",
+      "en": "He loves ___ football with his friends.",
+      "choices": [
+        "play",
+        "plays",
+        "playing"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "I don't like waiting. I ___ it.",
+      "choices": [
+        "hate",
+        "love",
+        "want"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

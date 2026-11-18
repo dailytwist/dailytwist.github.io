@@ -1,0 +1,53 @@
+{
+  "title": "エルニーニョとは？ 太平洋の気候サイクルをわかりやすく解説",
+  "description": "エルニーニョの正体やその強力な気候メカニズム、そして世界中の天気や気温に与える影響について分かりやすく解説します。",
+  "category": "Science",
+  "sections": [
+    {
+      "heading": "エルニーニョ現象の基礎知識",
+      "paragraphs": [
+        "エルニーニョとは、熱帯太平洋の中部から東部にかけての海面水温が平年より高くなる、自然の気候現象です。これは「ENSO（エンソ）」と呼ばれる、より大きな気候サイクルの一部です。このサイクルは、水温が高くなる「エルニーニョ」と低くなる「ラニーニャ」、そしてそのどちらでもない平常時の間を行き来しています。",
+        "「エルニーニョ」という名前は、何世紀も前に南米ペルーの漁師たちが、クリスマスの時期に南米沿岸の海水温が異常に高くなることに気づいたことに由来します。彼らはスペイン語で「神の子」を意味する「エルニーニョ・デ・ナビダッド」と呼びました。時を経て科学者たちは、この名称を、世界中の気象システムに影響を与える太平洋全体の巨大な気候パターンを指す言葉として採用しました。"
+      ]
+    },
+    {
+      "heading": "エルニーニョのメカニズム",
+      "paragraphs": [
+        "通常、熱帯太平洋では貿易風が東から西へ吹き、温かい表層水をアジアやオーストラリア側へと押し流しています。この動きによって、南米沿岸では深海から冷たく栄養豊富な水が湧き上がる「湧昇（ゆうしょう）」という現象が起こります。",
+        "エルニーニョが発生すると、この貿易風が弱まったり、時には逆向きに吹いたりします。温水フを西へ押しやる強い風が弱まるため、太平洋にたまっていた広大な温かい海水が再び南米側へと戻ってきてしまいます。この変化が気圧配置を崩し、主要な風の流れを変え、数か月にわたって世界中の天候パターンを大きく狂わせます。"
+      ]
+    },
+    {
+      "heading": "世界中の天候への影響",
+      "paragraphs": [
+        "太平洋は非常に広大な面積を持つため、その水温の変化は地球全体に波及効果をもたらします。エルニーニョは、地球上の気象システムを誘導する上空の高速気流「ジェット気流」の進路を変えてしまいます。",
+        "その結果、地域ごとに異なる気候の異常が発生します。例えば、南北アメリカの一部では降水量が増えて雨の多い冬になりやすい一方、オーストラリアやインドネシア、南部アフリカの一部などでは干ばつや猛暑に見舞われることがあります。こうした気候変動は、農業や海洋生態系、そして地域経済にも大きな影響を与えます。"
+      ]
+    },
+    {
+      "heading": "エルニーニョにまつわる興味深い事実",
+      "paragraphs": [
+        "エルニーニョは完全に自然の現象であり、サンゴ礁の記録や海底の堆積層から分かるように、数千年前から発生し続けています。決まったスケジュールで起こるわけではなく、通常2〜7年おきに再発し、その規模や継続期間も現象ごとに大きく異なります。",
+        "海洋生物もエルニーニョによる深刻な影響を受けます。暖かい海水の時期は湧昇が弱まるため、海洋表面に供給される栄養分が少なくなります。この栄養分の減少によって植物プランクトンが減少し、それが海洋の食物連鎖を通じて上位に伝わるため、魚類や、それを食料とする海鳥、哺乳類の個体数にも一時的な悪影響を及ぼします。"
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "q": "エルニーニョ現象は通常どれくらい続きますか？",
+      "a": "El Niño events usually last between 9 and 12 months. They often develop between spring and early summer, reach their peak intensity during the late autumn and winter months, and then gradually weaken the following spring."
+    },
+    {
+      "q": "エルニーニョの反対の現象は何ですか？",
+      "a": "The opposite phase of the ENSO cycle is called La Niña, which means 'the little girl' in Spanish. During a La Niña event, trade winds are unusually strong, pushing more warm water west and bringing cooler-than-average water to the eastern Pacific."
+    },
+    {
+      "q": "エルニーニョは地球全体の気温に影響を与えますか？",
+      "a": "Yes. Because El Niño releases a significant amount of heat from the Pacific Ocean into the atmosphere, years with strong El Niño events often coincide with higher global average surface temperatures."
+    }
+  ],
+  "slug": "what-is-el-ni-o-the-ocean-cycle-explained",
+  "date": "2026-11-11",
+  "topic": "el nino",
+  "trending": true
+}

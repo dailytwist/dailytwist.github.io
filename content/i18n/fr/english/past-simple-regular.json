@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-24",
+  "slug": "past-simple-regular",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "⏳",
+  "title": "Parler du passé : les verbes réguliers",
+  "summary": "Apprenez à parler de ce qui s'est passé hier ou l'année dernière. Vous utiliserez des règles d'orthographe simples pour les verbes réguliers.",
+  "sections": [
+    {
+      "h": "Qu'est-ce que le prétérit ?",
+      "p": "Nous utilisons le prétérit pour parler d'actions terminées dans le passé. Pour les verbes réguliers, la forme du passé se fait très facilement. Il suffit d'ajouter '-ed' à la fin du verbe d'action. C'est la même chose pour 'I', 'you', 'he', 'she', 'we' et 'they'.",
+      "ex": [
+        {
+          "en": "I walked to the store yesterday.",
+          "mean": "Je suis allé au magasin à pied dans le passé."
+        },
+        {
+          "en": "They played football last weekend.",
+          "mean": "Ils ont joué à un match de football dans le passé."
+        }
+      ]
+    },
+    {
+      "h": "Règles d'orthographe : les verbes se terminant par 'E'",
+      "p": "Certains verbes d'action se terminent déjà par la lettre 'e'. Pour ces verbes, il n'est pas nécessaire d'ajouter '-ed'. Il suffit d'ajouter une lettre 'd' à la fin. Cela rend l'écriture et l'orthographe beaucoup plus rapides et faciles pour vous.",
+      "ex": [
+        {
+          "en": "She liked the new movie.",
+          "mean": "Elle a aimé le film dans le passé."
+        },
+        {
+          "en": "We lived in London in 2020.",
+          "mean": "Notre foyer était à Londres pendant l'année 2020."
+        }
+      ]
+    },
+    {
+      "h": "Règles d'orthographe : les verbes se terminant par une consonne + 'Y'",
+      "p": "Lorsqu'un verbe se termine par une consonne et la lettre 'y', nous remplaçons le 'y' par un 'i'. Ensuite, nous ajoutons '-ed'. Par exemple, 'study' devient 'studied'. Mais s'il y a une voyelle avant le 'y', comme dans 'play', ajoutez simplement '-ed'.",
+      "ex": [
+        {
+          "en": "He studied English last night.",
+          "mean": "Il a appris l'anglais hier soir."
+        },
+        {
+          "en": "She cried when she was sad.",
+          "mean": "Des larmes ont coulé de ses yeux dans le passé."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "past simple",
+      "mean": "grammaire pour les actions terminées"
+    },
+    {
+      "en": "regular verb",
+      "mean": "verbe qui utilise -ed"
+    },
+    {
+      "en": "yesterday",
+      "mean": "le jour avant aujourd'hui"
+    },
+    {
+      "en": "last night",
+      "mean": "la soirée avant aujourd'hui"
+    },
+    {
+      "en": "played",
+      "mean": "passé de play"
+    },
+    {
+      "en": "walked",
+      "mean": "passé de walk"
+    },
+    {
+      "en": "studied",
+      "mean": "passé de study"
+    },
+    {
+      "en": "lived",
+      "mean": "passé de live"
+    }
+  ],
+  "tip": "Guettez des mots comme 'yesterday' ou 'last week'. Quand vous les voyez, pensez à mettre votre verbe au prétérit !",
+  "quiz": [
+    {
+      "ask": "Choisissez la bonne forme au prétérit",
+      "en": "I ___ to music yesterday.",
+      "choices": [
+        "listen",
+        "listened",
+        "listens"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne forme au prétérit",
+      "en": "She ___ her friend last weekend.",
+      "choices": [
+        "visit",
+        "visits",
+        "visited"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez la bonne orthographe",
+      "en": "They ___ in that house ten years ago.",
+      "choices": [
+        "lived",
+        "liveed",
+        "livd"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la bonne forme au prétérit",
+      "en": "He ___ hard for the test last night.",
+      "choices": [
+        "studyed",
+        "studied",
+        "study"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne phrase",
+      "en": "Select the correct past sentence:",
+      "choices": [
+        "We cook dinner yesterday.",
+        "We cooked dinner yesterday.",
+        "We cooking dinner yesterday."
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon mot pour compléter le trou",
+      "en": "The baby ___ because he was tired.",
+      "choices": [
+        "cryed",
+        "cried",
+        "cries"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

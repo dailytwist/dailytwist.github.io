@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-24",
+  "slug": "countable-uncountable",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🍎",
+  "title": "Les mots de la nourriture : Dénombrables et indénombrables, Some et Any",
+  "summary": "Apprenez à parler de nourriture en utilisant des noms dénombrables et indénombrables. Découvrez quand utiliser correctement 'some' et 'any'.",
+  "sections": [
+    {
+      "h": "Noms dénombrables",
+      "p": "Les noms dénombrables sont des choses que l'on peut compter avec des chiffres. On peut utiliser 'a' ou 'an' devant eux au singulier. Ils ont aussi une forme pluriel avec un 's' à la fin, comme des pommes ou des bananes. On peut demander 'How many?' pour ces mots.",
+      "ex": [
+        {
+          "en": "I have an apple in my bag.",
+          "mean": "Une pomme que l'on peut compter."
+        },
+        {
+          "en": "Do you want two bananas?",
+          "mean": "Poser des questions sur un nombre précis de bananes."
+        },
+        {
+          "en": "We need to buy some carrots.",
+          "mean": "Plus d'une carotte, sous forme pluriel."
+        }
+      ]
+    },
+    {
+      "h": "Noms indénombrables",
+      "p": "Les noms indénombrables sont des choses que l'on ne peut pas compter avec des chiffres. Ils n'ont pas de forme pluriel, donc on ne met jamais de 's' à la fin. On ne peut pas utiliser 'a' ou 'an' avec eux. On peut demander 'How much?' pour ces mots, comme l'eau, le lait ou le riz.",
+      "ex": [
+        {
+          "en": "I drink water every day.",
+          "mean": "L'eau est indénombrable, pas de pluriel."
+        },
+        {
+          "en": "Can I have some milk, please?",
+          "mean": "Demander une quantité indénombrable de liquide."
+        },
+        {
+          "en": "There is no rice left in the kitchen.",
+          "mean": "Le riz est une substance que l'on ne compte pas un par un."
+        }
+      ]
+    },
+    {
+      "h": "Utiliser Some et Any",
+      "p": "On utilise 'some' dans les phrases affirmatives pour les noms dénombrables et indénombrables lorsque l'on dispose d'une certaine quantité. On utilise 'any' dans les phrases négatives avec 'not' et dans les questions. 'Any' signifie zéro ou sert à demander si quelque chose existe.",
+      "ex": [
+        {
+          "en": "I have some bread for breakfast.",
+          "mean": "Phrase affirmative avec un nom indénombrable."
+        },
+        {
+          "en": "We do not have any apples.",
+          "mean": "Phrase négative utilisant 'any'."
+        },
+        {
+          "en": "Do you have any questions?",
+          "mean": "Question utilisant 'any'."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "countable",
+      "mean": "choses que l'on peut compter"
+    },
+    {
+      "en": "uncountable",
+      "mean": "choses que l'on ne peut pas compter"
+    },
+    {
+      "en": "some",
+      "mean": "une quantité dans les phrases affirmatives"
+    },
+    {
+      "en": "any",
+      "mean": "utilisé dans les questions et les négations"
+    },
+    {
+      "en": "apple",
+      "mean": "un fruit dénombrable"
+    },
+    {
+      "en": "water",
+      "mean": "une boisson indénombrable"
+    },
+    {
+      "en": "bread",
+      "mean": "un aliment indénombrable"
+    },
+    {
+      "en": "banana",
+      "mean": "un fruit dénombrable"
+    }
+  ],
+  "tip": "Retenez bien : si vous pouvez placer un chiffre comme 'un' ou 'deux' directement devant le nom, il est dénombrable. Si cela sonne bizarre, c'est probablement indénombrable !",
+  "quiz": [
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "I want to buy ___ apple.",
+      "choices": [
+        "a",
+        "an",
+        "some",
+        "any"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "Do we have ___ milk in the fridge?",
+      "choices": [
+        "some",
+        "a",
+        "any",
+        "an"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "She ate ___ rice for lunch.",
+      "choices": [
+        "a",
+        "an",
+        "any",
+        "some"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "There are not ___ oranges left.",
+      "choices": [
+        "any",
+        "some",
+        "an",
+        "a"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "He bought ___ new shoes yesterday.",
+      "choices": [
+        "any",
+        "some",
+        "water",
+        "milk"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "Is there ___ coffee in the cup?",
+      "choices": [
+        "a",
+        "an",
+        "some",
+        "any"
+      ],
+      "answer_index": 3
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-24",
+  "slug": "past-simple-irregular",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🕒",
+  "title": "Les verbes irréguliers courants au prétérit",
+  "summary": "Apprenez à parler du passé en utilisant les verbes irréguliers les plus courants. Vous vous entraînerez à faire des phrases sur hier et la semaine dernière.",
+  "sections": [
+    {
+      "h": "Qu'est-ce qu'un verbe irrégulier ?",
+      "p": "Normalement, on ajoute -ed pour former le prétérit, comme play qui devient played. Mais certains verbes changent complètement ! Ce sont les verbes irréguliers. Vous devez apprendre leurs formes passées particulières car nous les utilisons tous les jours en anglais. Ils ne suivent pas les règles normales.",
+      "ex": [
+        {
+          "en": "I went to the store yesterday.",
+          "mean": "I travelled to the shop in the past."
+        },
+        {
+          "en": "She saw a good movie last night.",
+          "mean": "She watched a film recently."
+        }
+      ]
+    },
+    {
+      "h": "Go, Have et Do",
+      "p": "Trois des verbes irréguliers les plus importants sont go, have et do. Le prétérit de go est went. Le prétérit de have est had. Le prétérit de do est did. Nous utilisons ces verbes dans presque toutes les conversations sur notre vie quotidienne.",
+      "ex": [
+        {
+          "en": "We had breakfast at eight o'clock.",
+          "mean": "We ate our morning meal earlier."
+        },
+        {
+          "en": "He did his homework after school.",
+          "mean": "He finished his schoolwork in the past."
+        }
+      ]
+    },
+    {
+      "h": "Say, Get et Make",
+      "p": "D'autres verbes très courants sont say, get et make. Leurs formes au prétérit sont said, got et made. Vous entendrez sans cesse les anglophones utiliser ces verbes lorsqu'ils racontent des histoires ou parlent de ce qui s'est passé un peu plus tôt dans la journée.",
+      "ex": [
+        {
+          "en": "She said hello to me.",
+          "mean": "She spoke a greeting to me earlier."
+        },
+        {
+          "en": "They made a cake for the party.",
+          "mean": "They created a sweet food in the past."
+        }
+      ]
+    },
+    {
+      "h": "See, Come et Take",
+      "p": "Enfin, penchons-nous sur see, come et take. Les formes au prétérit sont saw, came et took. N'oubliez pas que ces mots ne se terminent pas par -ed. Vous devez mémoriser chaque nouvelle forme car elles sont très différentes du présent.",
+      "ex": [
+        {
+          "en": "I saw my friend at the park.",
+          "mean": "My eyes looked at my friend earlier."
+        },
+        {
+          "en": "He took an umbrella because it rained.",
+          "mean": "He carried an umbrella with him."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "went",
+      "mean": "prétérit de go"
+    },
+    {
+      "en": "had",
+      "mean": "prétérit de have"
+    },
+    {
+      "en": "did",
+      "mean": "prétérit de do"
+    },
+    {
+      "en": "said",
+      "mean": "prétérit de say"
+    },
+    {
+      "en": "got",
+      "mean": "prétérit de get"
+    },
+    {
+      "en": "made",
+      "mean": "prétérit de make"
+    },
+    {
+      "en": "saw",
+      "mean": "prétérit de see"
+    },
+    {
+      "en": "came",
+      "mean": "prétérit de come"
+    },
+    {
+      "en": "took",
+      "mean": "prétérit de take"
+    }
+  ],
+  "tip": "Fabriquez des cartes mémoire avec le verbe au présent d'un côté et sa forme irrégulière au prétérit de l'autre. Révisez-les pendant cinq minutes tous les jours !",
+  "quiz": [
+    {
+      "ask": "Choisissez le bon verbe au prétérit",
+      "en": "I ___ to the supermarket this morning.",
+      "choices": [
+        "go",
+        "went",
+        "goed"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon verbe au prétérit",
+      "en": "She ___ a great time at the party yesterday.",
+      "choices": [
+        "had",
+        "have",
+        "has"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon verbe au prétérit",
+      "en": "We ___ a delicious pizza for dinner.",
+      "choices": [
+        "maked",
+        "make",
+        "made"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon verbe au prétérit",
+      "en": "He ___ his keys on the table.",
+      "choices": [
+        "taked",
+        "take",
+        "took"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon verbe au prétérit",
+      "en": "They ___ a nice bird in the tree.",
+      "choices": [
+        "saw",
+        "seed",
+        "see"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon verbe au prétérit",
+      "en": "My friend ___ to my house last night.",
+      "choices": [
+        "comed",
+        "came",
+        "come"
+      ],
+      "answer_index": 1
+    }
+  ]
+}
