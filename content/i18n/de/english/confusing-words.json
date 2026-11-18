@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-29",
+  "slug": "confusing-words",
+  "cefr": "B2",
+  "cat": "vocab",
+  "emoji": "✏️",
+  "title": "Verwirrende Wörter: Affect vs. Effect, Borrow vs. Lend, Rise vs. Raise",
+  "summary": "Meistere drei Paare häufig verwechselter englischer Wörter. Verbessere deine Ausdrucksweise beim Schreiben und Sprechen.",
+  "sections": [
+    {
+      "h": "Affect vs. Effect",
+      "p": "Diese beiden Wörter klingen sehr ähnlich, haben aber unterschiedliche grammatikalische Funktionen. „Affect“ ist meistens ein Verb und bedeutet, etwas zu beeinflussen oder eine Veränderung herbeizuführen. „Effect“ ist in der Regel ein Substantiv und bezeichnet das Resultat dieser Veränderung. Merke dir: „Affect“ drückt eine Handlung aus, während „Effect“ das Endergebnis ist.",
+      "ex": [
+        {
+          "en": "Lack of sleep can affect your focus at work.",
+          "mean": "Nicht genug Schlaf zu haben, beeinträchtigt deine Konzentrationsfähigkeit."
+        },
+        {
+          "en": "The new law had a positive effect on the city.",
+          "mean": "Die neue Regel hat in der Stadt eine gute Wirkung erzielt."
+        }
+      ]
+    },
+    {
+      "h": "Borrow vs. Lend",
+      "p": "Bei beiden Wörtern geht es darum, Gegenstände vorübergehend zu geben oder zu nehmen, allerdings in entgegengesetzte Richtungen. Du „borrow“ (leihst dir) etwas, wenn du es von jemand anderem nimmst, um es zu nutzen und später zurückzugeben. Du „lend“ (verleihst) etwas, wenn du deinen Gegenstand für kurze Zeit an jemand anderen abgibst.",
+      "ex": [
+        {
+          "en": "Can I borrow your umbrella for today?",
+          "mean": "Darf ich mir deinen Regenschirm ausleihen und ihn später zurückgeben?"
+        },
+        {
+          "en": "Could you lend me ten dollars until tomorrow?",
+          "mean": "Kannst du mir jetzt zehn Dollar geben, die ich dir morgen zurückgebe?"
+        }
+      ]
+    },
+    {
+      "h": "Rise vs. Raise",
+      "p": "Der Hauptunterschied zwischen diesen beiden Verben besteht darin, ob sie ein Objekt benötigen oder nicht. „Rise“ geschieht von selbst, ohne äußere Einwirkung; etwas steigt von alleine nach oben. „Raise“ erfordert eine Person oder Kraft, die etwas anderes nach oben drückt oder anhebt.",
+      "ex": [
+        {
+          "en": "Sunlight makes the temperature rise in the afternoon.",
+          "mean": "Die Temperatur steigt durch die Sonne ganz natürlich an."
+        },
+        {
+          "en": "Please raise your hand if you have a question.",
+          "mean": "Hebe deine Hand nach oben in die Luft."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "affect",
+      "mean": "beeinflussen"
+    },
+    {
+      "en": "effect",
+      "mean": "ein Ergebnis"
+    },
+    {
+      "en": "borrow",
+      "mean": "vorübergehend nehmen"
+    },
+    {
+      "en": "lend",
+      "mean": "vorübergehend geben"
+    },
+    {
+      "en": "rise",
+      "mean": "von alleine nach oben gehen"
+    },
+    {
+      "en": "raise",
+      "mean": "etwas anheben"
+    }
+  ],
+  "tip": "Denke an das Alphabet: A kommt vor E, daher passiert die Aktion (Affect) meistens vor dem Endergebnis (Effect). Bei „borrow“ und „lend“ hilft der Merksatz, dass man Dinge zurückbringt, wenn man sie ausleiht.",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "The bad weather will ___ our travel plans.",
+      "choices": [
+        "effect",
+        "affect",
+        "borrow",
+        "lend"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "Eating healthy food has a great ___ on your energy.",
+      "choices": [
+        "effect",
+        "affect",
+        "rise",
+        "raise"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "May I ___ your pen to sign this form?",
+      "choices": [
+        "lend",
+        "raise",
+        "borrow",
+        "effect"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "Could you please ___ me your car for the weekend?",
+      "choices": [
+        "borrow",
+        "lend",
+        "affect",
+        "rise"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "House prices continue to ___ every single year.",
+      "choices": [
+        "raise",
+        "affect",
+        "lend",
+        "rise"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "The company decided to ___ salaries for all workers.",
+      "choices": [
+        "rise",
+        "raise",
+        "borrow",
+        "effect"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

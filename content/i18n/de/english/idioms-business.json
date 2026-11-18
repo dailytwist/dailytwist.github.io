@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-29",
+  "slug": "idioms-business",
+  "cefr": "B2",
+  "cat": "vocab",
+  "emoji": "💼",
+  "title": "Clevere Business-Redewendungen",
+  "summary": "Lerne zwei gängige Geschäftsausdrücke, um über Einigung und Schätzungen zu sprechen. Diese Redewendungen helfen dir, in Meetings ganz natürlich zu klingen.",
+  "sections": [
+    {
+      "h": "On the same page sein",
+      "p": "Wenn Leute „on the same page“ sind, haben sie das gleiche Verständnis oder dieselben Ziele bezüglich eines Projekts. Das bedeutet, dass sich alle einig sind und wissen, was als Nächstes zu tun ist. Wir verwenden diese Phrase in Meetings oft, um zu prüfen, ob das Team vor Arbeitsbeginn denselben Stand hat.",
+      "ex": [
+        {
+          "en": "Let's review the schedule so we are all on the same page.",
+          "mean": "Gehen wir den Plan durch, damit wir alle einer Meinung sind."
+        },
+        {
+          "en": "Before we start the project, I want to make sure we are on the same page.",
+          "mean": "Ich möchte sicherstellen, dass wir denselben Plan verfolgen."
+        }
+      ]
+    },
+    {
+      "h": "Ballpark figure",
+      "p": "Eine „ballpark figure“ ist eine grobe, allgemeine Schätzung oder eine vermutete Zahl. Man verwendet sie, wenn man die genauen Details noch nicht hat, aber eine ungefähre Vorstellung von Kosten oder Zeit vermitteln möchte. Eine solche Daumenregel hilft den Leuten, die Dimensionen von etwas schnell zu verstehen.",
+      "ex": [
+        {
+          "en": "Can you give me a ballpark figure for the new website design?",
+          "mean": "Kannst du mir eine grobe Kostenschätzung nennen?"
+        },
+        {
+          "en": "I do not have the final numbers, but a ballpark figure is five thousand dollars.",
+          "mean": "Ich habe eine grobe Schätzung von fünftausend Dollar."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "on the same page",
+      "mean": "das gleiche Verständnis teilen"
+    },
+    {
+      "en": "ballpark figure",
+      "mean": "eine grobe Kostenschätzung"
+    },
+    {
+      "en": "review",
+      "mean": "noch einmal durchgehen"
+    },
+    {
+      "en": "schedule",
+      "mean": "Zeitplan für Aufgaben"
+    },
+    {
+      "en": "estimate",
+      "mean": "geschätzter Betrag"
+    },
+    {
+      "en": "project",
+      "mean": "geplantes Arbeitsstück"
+    },
+    {
+      "en": "cost",
+      "mean": "zu zahlender Preis"
+    }
+  ],
+  "tip": "Stell dir vor, du stehst in einem Baseballstadion (einem Ballpark) und versuchst, den Punktestand zu erraten, oder liest mit allen gemeinsam genau dieselbe Buchseite, um dir diese Redewendungen zu merken!",
+  "quiz": [
+    {
+      "ask": "Wähle die richtige Redewendung",
+      "en": "We need to talk before the meeting to ensure we are on the ___.",
+      "choices": [
+        "same page",
+        "right book",
+        "good table"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die richtige Redewendung",
+      "en": "Could you give me a ___ for how much this repair will cost?",
+      "choices": [
+        "soccer stadium number",
+        "ballpark figure",
+        "tiny calculation"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Was bedeutet „on the same page sein“?",
+      "en": "To be on the same page means to...",
+      "choices": [
+        "read the same book",
+        "share the same understanding",
+        "write on identical paper"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Was ist eine „ballpark figure“?",
+      "en": "A ballpark figure is...",
+      "choices": [
+        "an exact mathematical proof",
+        "a rough estimate",
+        "a ticket price"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle den richtigen Satz",
+      "en": "Which sentence uses the idioms correctly?",
+      "choices": [
+        "I gave my boss a ballpark figure because I did not know the exact price.",
+        "We are on the same page of the restaurant menu.",
+        "She wrote a ballpark figure on the whiteboard to read a story."
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Fülle das fehlende Wort aus",
+      "en": "Let's have a quick call to make sure everyone is on the same ___.",
+      "choices": [
+        "line",
+        "chapter",
+        "page"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

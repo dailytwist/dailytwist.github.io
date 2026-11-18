@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-18",
+  "title": "Sfida Trivia del Giorno: 18 novembre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Quale paese possiede la costa più lunga del mondo?",
+      "options": [
+        "Russia",
+        "Australia",
+        "Canada",
+        "Indonesia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La costa del Canada si estende per oltre 202.000 chilometri, bagnata da tre oceani differenti."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è la centrale energetica della cellula, responsabile della generazione della maggior parte dell'energia chimica necessaria?",
+      "options": [
+        "Ribosoma",
+        "Nucleo",
+        "Apparato di Golgi",
+        "Mitocondrio"
+      ],
+      "answer_index": 3,
+      "fun_fact": "I mitocondri contengono un proprio set indipendente di DNA, separato da quello del nucleo cellulare."
+    },
+    {
+      "category": "storia",
+      "question": "L'antica città di Cartagine, grande rivale della Repubblica Romana, si trovava in quale paese odierno?",
+      "options": [
+        "Tunisia",
+        "Turchia",
+        "Grecia",
+        "Egitto"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le rovine di Cartagine si trovano appena fuori dalla capitale moderna di Tunisi."
+    },
+    {
+      "category": "cinema & pop culture",
+      "question": "Quale film di fantascienza del 1982 diretto da Ridley Scott vede come protagonista un cacciatore di taglie (blade runner) di nome Rick Deckard a caccia di replicanti ribelli?",
+      "options": [
+        "Blade Runner",
+        "Alien",
+        "The Terminator",
+        "Total Recall"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Blade Runner è liberamente ispirato al romanzo del 1968 di Philip K. Dick 'Ma gli androidi sognano pecore elettriche?'."
+    },
+    {
+      "category": "cucina",
+      "question": "Qual è la base alcolica principale utilizzata per preparare un cocktail tradizionale Dark 'n' Stormy?",
+      "options": [
+        "Tequila",
+        "Gin",
+        "Rum scuro",
+        "Vodka"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un vero Dark 'n' Stormy deve usare specificamente il rum Gosling's Black Seal e ginger beer per poter utilizzare il nome registrato."
+    },
+    {
+      "category": "animali",
+      "question": "Quale specie di orso è nota per avere una dieta composta quasi interamente di bambù?",
+      "options": [
+        "Panda gigante",
+        "Orso grizzly",
+        "Orso malese",
+        "Orso polare"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Un panda gigante può trascorrere fino a 12 ore al giorno a mangiare bambù per soddisfare il suo fabbisogno nutrizionale."
+    },
+    {
+      "category": "sport",
+      "question": "Nei Giochi Olimpici moderni, da quante discipline di atletica leggera è composto il decathlon, disputato in due giorni?",
+      "options": [
+        "Dieci",
+        "Dodici",
+        "Quattordici",
+        "Otto"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il decathlon è tradizionalmente disputato esclusivamente da atleti maschi, mentre le donne competono in un equivalente di sette discipline chiamato eptathlon."
+    },
+    {
+      "category": "linguistica",
+      "question": "Qual è il termine linguistico per una parola formata dal suono associato a ciò che rappresenta, come 'ronzio' o 'sussurro'?",
+      "options": [
+        "Acronimo",
+        "Palindromo",
+        "Onomatopea",
+        "Parola macedonia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le parole onomatopeiche spesso variano notevolmente tra le diverse lingue, nonostante rappresentino esattamente lo stesso suono naturale."
+    },
+    {
+      "category": "spazio",
+      "question": "Quale pianeta del nostro sistema solare ha i venti più forti, che raggiungono velocità supersoniche nella sua atmosfera superiore?",
+      "options": [
+        "Nettuno",
+        "Marte",
+        "Giove",
+        "Saturno"
+      ],
+      "answer_index": 0,
+      "fun_fact": "I venti di Nettuno possono superare i 2.100 chilometri all'ora, più di cinque volte la velocità dei più forti uragani mai registrati sulla Terra."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è l'elemento chimico naturale più pesante della tavola periodica in base al peso atomico?",
+      "options": [
+        "Uranio",
+        "Piombo",
+        "Oro",
+        "Plutonio"
+      ],
+      "answer_index": 0,
+      "fun_fact": "L'uranio ha un numero atomico di 92 ed è l'elemento più pesante presente in quantità consistenti in natura."
+    }
+  ]
+}

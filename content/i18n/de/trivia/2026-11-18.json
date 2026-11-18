@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-18",
+  "title": "Tägliches Quiz-Duell: 18. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches Land hat die längste Küstenlinie der Welt?",
+      "options": [
+        "Russland",
+        "Australien",
+        "Kanada",
+        "Indonesien"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Kanadas Küstenlinie erstreckt sich über 202.000 Kilometer und grenzt an drei verschiedene Ozeane."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist das Kraftwerk der Zelle, das für die Bereitstellung des größten Teils der benötigten chemischen Energie verantwortlich ist?",
+      "options": [
+        "Ribosom",
+        "Zellkern",
+        "Golgi-Apparat",
+        "Mitochondriom"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Mitochondrien besitzen eine eigene, vom Zellkern unabhängige DNA."
+    },
+    {
+      "category": "Geschichte",
+      "question": "In welchem Land liegt die antike Stadt Karthago, die einst eine große Rivalin der Römischen Republik war?",
+      "options": [
+        "Tunesien",
+        "Türkei",
+        "Griechenland",
+        "Ägypten"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Die Ruinen von Karthago befinden sich direkt vor den Toren der heutigen Hauptstadt Tunis."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Welcher 1982 erschienene Science-Fiction-Film unter der Regie von Ridley Scott handelt von einem Blade Runner namens Rick Deckard, der abtrünnige Replikanten jagt?",
+      "options": [
+        "Blade Runner",
+        "Alien",
+        "The Terminator",
+        "Total Recall"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Blade Runner basiert lose auf Philip K. Dicks Roman „Träumen Androiden von elektrischen Schafen?“ aus dem Jahr 1968."
+    },
+    {
+      "category": "Essen & Trinken",
+      "question": "Welche alkoholische Hauptbasis wird für die Zubereitung eines traditionellen Dark 'n' Stormy Cocktails verwendet?",
+      "options": [
+        "Tequila",
+        "Gin",
+        "Dunkler Rum",
+        "Wodka"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Ein echter Dark 'n' Stormy muss spezifisch Gosling's Black Seal Rum und Ginger Beer enthalten, um den markenrechtlich geschützten Namen tragen zu dürfen."
+    },
+    {
+      "category": "Tiere",
+      "question": "Bei welcher Bärenart besteht die Ernährung fast ausschließlich aus Bambus?",
+      "options": [
+        "Großer Panda",
+        "Grizzlybär",
+        "Sonnenbär",
+        "Eisbär"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Ein Großer Panda kann bis zu 12 Stunden am Tag damit verbringen, Bambus zu fressen, um seinen Nährstoffbedarf zu decken."
+    },
+    {
+      "category": "Sport",
+      "question": "Aus wie vielen Leichtathletikdisziplinen besteht ein Zehnkampf bei den modernen Olympischen Spielen, die über zwei Tage ausgetragen werden?",
+      "options": [
+        "Zehn",
+        "Zwölf",
+        "Vierzehn",
+        "Acht"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Der Zehnkampf wird traditionell ausschließlich von männlichen Athleten bestritten, während Frauen in einem Siebenkampf genannten Äquivalent antreten."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie lautet der sprachwissenschaftliche Begriff für ein Wort, das durch den Klang gebildet wird, den es benennt – wie zum Beispiel „Summen“ oder „Flüstern“?",
+      "options": [
+        "Akronym",
+        "Palindrom",
+        "Onomatopoesie",
+        "Portmanteau"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Onomatopoetische Wörter variieren in verschiedenen Sprachen oft stark, obwohl sie genau dasselbe Naturgeräusch darstellen."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Planet in unserem Sonnensystem hat die stärksten Winde, die in seiner oberen Atmosphäre Überschallgeschwindigkeit erreichen?",
+      "options": [
+        "Neptun",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Die Winde auf dem Neptun können Geschwindigkeiten von über 2.100 Kilometern pro Stunde erreichen – mehr als das Fünffache der stärksten jemals auf der Erde gemessenen Hurrikane."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist das schwerste natürlich vorkommende chemische Element im Periodensystem nach Atomgewicht?",
+      "options": [
+        "Uran",
+        "Blei",
+        "Gold",
+        "Plutonium"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Uran hat die Ordnungszahl 92 und ist das schwerste Element, das in nennenswerten Mengen in der Natur vorkommt."
+    }
+  ]
+}

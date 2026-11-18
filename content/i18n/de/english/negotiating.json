@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-29",
+  "slug": "negotiating",
+  "cefr": "B2",
+  "cat": "phrases",
+  "emoji": "🤝",
+  "title": "Angebote machen und verhandeln",
+  "summary": "Lerne, wie du auf Englisch höfliche Angebote machst und eine Einigung erzielst. Du übst nützliche Redewendungen für die Arbeit oder zum Einkaufen.",
+  "sections": [
+    {
+      "h": "Ein erstes Angebot unterbreiten",
+      "p": "Wenn du eine Verhandlung beginnen möchtest, musst du höflich und selbstbewusst klingen. Anstatt der anderen Person zu sagen, was sie tun soll, verwende sanfte Formulierungen, um deine Idee vorzuschlagen. Das gibt ihr ein gutes Gefühl und hält das Gespräch im Fluss. Wörter wie „vorschlagen“ oder „anregen“ sind hier sehr hilfreich.",
+      "ex": [
+        {
+          "en": "We can offer you a ten percent discount if you buy today.",
+          "mean": "Wir sind bereit, den Preis für einen schnellen Verkauf um zehn Prozent zu senken."
+        },
+        {
+          "en": "I would like to propose a different solution to this problem.",
+          "mean": "Lassen Sie mich einen anderen Weg vorschlagen, um dieses Problem zu lösen."
+        }
+      ]
+    },
+    {
+      "h": "Kompromisse schließen und handeln",
+      "p": "Beim Verhandeln dreht sich alles um Geben und Nehmen. Wenn du möchtest, dass die andere Person deinen Bedingungen zustimmt, musst du ihr normalerweise im Gegenzug etwas anbieten. Verwende Konditionalsätze, um zu zeigen, was passiert, wenn sie deine Idee annimmt. Das zeigt, dass du flexibel und kooperationsbereit bist.",
+      "ex": [
+        {
+          "en": "If you agree to sign the contract today, we will include free delivery.",
+          "mean": "Wir gewähren Ihnen kostenlosen Versand unter der Bedingung, dass Sie sofort unterschreiben."
+        },
+        {
+          "en": "We can meet you halfway on the price.",
+          "mean": "Lassen Sie uns auf einen Preis genau in der Mitte zwischen unseren beiden Angeboten einigen."
+        }
+      ]
+    },
+    {
+      "h": "Höfliche Ablehnungen",
+      "p": "Manchmal ist ein Angebot nicht gut genug und du musst Nein sagen. Auf Englisch können direkte Ablehnungen unhöflich klingen. Erkläre stattdessen, warum das Angebot für dich nicht infrage kommt, und schlage eine Alternative vor. Bewahre dabei stets einen ruhigen und professionellen Ton.",
+      "ex": [
+        {
+          "en": "That sounds fair, but our budget is a bit too tight for that amount.",
+          "mean": "Ich verstehe, aber wir haben nicht genug Geld, um so viel zu bezahlen."
+        },
+        {
+          "en": "Unfortunately, those terms do not work for us.",
+          "mean": "Leider können wir diese Bedingungen nicht akzeptieren."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "propose",
+      "mean": "eine Idee vorschlagen"
+    },
+    {
+      "en": "discount",
+      "mean": "Preis senken"
+    },
+    {
+      "en": "compromise",
+      "mean": "eine Einigung erzielen"
+    },
+    {
+      "en": "meet you halfway",
+      "mean": "einen Mittelweg akzeptieren"
+    },
+    {
+      "en": "terms",
+      "mean": "Vertragsbedingungen"
+    },
+    {
+      "en": "budget",
+      "mean": "verfügbares Geld"
+    },
+    {
+      "en": "counteroffer",
+      "mean": "ein Gegenangebot"
+    }
+  ],
+  "tip": "Stell dir Verhandlungen wie einen Tanz vor. Jedes Mal, wenn dein Partner einen Schritt macht, reagierst du mit einer ausbalancierten Bewegung, um den Rhythmus zu halten.",
+  "quiz": [
+    {
+      "ask": "Wähle die beste Formulierung, um ein Angebot zu starten",
+      "en": "We ___ you a ten percent discount if you buy today.",
+      "choices": [
+        "can offer",
+        "must give",
+        "will demand",
+        "should take"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort für eine Einigung auf einen Mittelpreis",
+      "en": "Let's ___ you halfway on this deal.",
+      "choices": [
+        "meet",
+        "find",
+        "bring",
+        "see"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die höfliche Art, Bedingungen abzulehnen",
+      "en": "Unfortunately, those conditions do not ___ for us.",
+      "choices": [
+        "run",
+        "work",
+        "walk",
+        "move"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das Wort, das verfügbares Geld bedeutet",
+      "en": "Our ___ is too small to pay that high price.",
+      "choices": [
+        "wallet",
+        "bank",
+        "budget",
+        "pocket"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Verb, um einen Plan vorzuschlagen",
+      "en": "I would like to ___ a different solution.",
+      "choices": [
+        "say",
+        "propose",
+        "tell",
+        "speak"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die Bedeutung von 'terms'",
+      "en": "The ___ of the contract are very clear.",
+      "choices": [
+        "conditions",
+        "pages",
+        "words",
+        "colors"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-29",
+  "slug": "inversion-for-emphasis",
+  "cefr": "B2",
+  "cat": "grammar",
+  "emoji": "🔥",
+  "title": "Dein Englisch auf dem Prüfstand: Bessere Sätze durch Inversion",
+  "summary": "Finde heraus, wie du Sätze mit negativen Wörtern beginnst, um dramatischer und emotionaler zu klingen. Du lernst natürliche Wege kennen, deinen Standpunkt mit Strukturen wie 'Never have ich' und 'Not only' zu unterstreichen.",
+  "sections": [
+    {
+      "h": "Warum Inversion verwenden?",
+      "p": "Normalerweise folgt die englische Satzstellung einem festen Muster: erst das Subjekt, dann das Verb. Wenn wir unserer Botschaft jedoch mehr Nachdruck verleihen wollen, formeller klingen oder für eine große Überraschung sorgen möchten, können wir ein negatives Wort an den absoluten Satzanfang stellen. Dabei vertauschen wir Subjekt und Hilfsverb – ganz ähnlich wie bei einer Fragestellung. Das ist ein großartiges Stilmittel für Reden, geschäftliche Texte und ausdrucksstarke Gespräche.",
+      "ex": [
+        {
+          "en": "Never have I seen such a beautiful sunset.",
+          "mean": "Ich habe wirklich noch nie zuvor einen so fantastischen Sonnenuntergang gesehen."
+        },
+        {
+          "en": "Rarely do we get a day off work.",
+          "mean": "Wir bekommen fast nie einen Tag frei."
+        }
+      ]
+    },
+    {
+      "h": "Die Verwendung von Never Have I",
+      "p": "Die Wendung 'Never have I' ist ein kraftvolles Mittel, um über deine Lebenserfahrungen zu sprechen. Anstatt zu sagen 'I have never felt so happy', stellst du 'Never' an den Anfang, gefolgt von 'have I' und dem Hauptverb im Partizip Perfekt. Das sorgt sofort für emotionale Wirkung und zieht die Aufmerksamkeit deiner Zuhörer magisch an.",
+      "ex": [
+        {
+          "en": "Never have I tasted food so delicious.",
+          "mean": "Das ist das beste Essen, das ich jemals gegessen habe."
+        },
+        {
+          "en": "Never have I heard such terrible news.",
+          "mean": "Diese sehr schlechte Nachricht schockiert mich tief."
+        }
+      ]
+    },
+    {
+      "h": "Gedanken verknüpfen mit Not Only",
+      "p": "Wenn du zwei gewichtige Argumente liefern willst, kannst du mit 'Not only' beginnen. Diese Struktur hilft dir, Gedanken geschmeidig zu verbinden und gleichzeitig für mehr Spannung zu sorgen. Denk daran, das Subjekt und das Hilfsverb im ersten Teil des Satzes zu invertieren, und nutze 'but also' im zweiten Teil, um die letzte Information einzuleiten.",
+      "ex": [
+        {
+          "en": "Not only is she smart, but she is also very kind.",
+          "mean": "Sie hat sowohl eine große Intelligenz als auch ein gütiges Herz."
+        },
+        {
+          "en": "Not only did we miss the train, but we also lost our umbrellas.",
+          "mean": "Uns sind zwei schlimme Dinge gleichzeitig passiert."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Inversion",
+      "mean": "die normale Wortstellung verändern"
+    },
+    {
+      "en": "Emphasis",
+      "mean": "etwas hervorheben"
+    },
+    {
+      "en": "Auxiliary verb",
+      "mean": "Hilfsverb wie have oder do"
+    },
+    {
+      "en": "Never have I",
+      "mean": "kraftvolle Art zu sagen, dass man etwas noch nie getan hat"
+    },
+    {
+      "en": "Not only",
+      "mean": "Einleitung für einen doppelten Punkt"
+    },
+    {
+      "en": "Rarely",
+      "mean": "fast nie"
+    },
+    {
+      "en": "Formal",
+      "mean": "ernster und höflicher Stil"
+    }
+  ],
+  "tip": "Stell dir die Inversion so vor, als würdest du dich in einer Menschenmenge erheben, um eine wichtige Ankündigung zu machen. Fang mit dem negativen Wort an, dreh Verb und Subjekt um und sprich voller Selbstbewusstsein!",
+  "quiz": [
+    {
+      "ask": "Wähle den korrekten invertierten Satz aus",
+      "en": "___ seen such a busy city before.",
+      "choices": [
+        "Never have I",
+        "I have never",
+        "Never I have"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die richtige Verbform aus",
+      "en": "Not only ___ he late, but he also forgot his keys.",
+      "choices": [
+        "he was",
+        "did he",
+        "was"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Vervollständige die Phrase für mehr Nachdruck",
+      "en": "___ do we visit our grandparents.",
+      "choices": [
+        "Often",
+        "Rarely",
+        "Always"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die korrekte Satzstellung für mehr Betonung",
+      "en": "Never ___ such an amazing movie.",
+      "choices": [
+        "I have watched",
+        "watched I",
+        "have I watched"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das passende Bindewort für 'not only'",
+      "en": "Not only is the food cheap, ___ it is delicious.",
+      "choices": [
+        "but also",
+        "and also",
+        "plus"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Identifiziere die richtige Inversion",
+      "en": "Seldom ___ such rude behavior.",
+      "choices": [
+        "I have seen",
+        "have I seen",
+        "did I saw"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

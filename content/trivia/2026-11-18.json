@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-18",
+  "title": "Daily Trivia Challenge: November 18, 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Which country possesses the longest coastline in the world?",
+      "options": [
+        "Russia",
+        "Australia",
+        "Canada",
+        "Indonesia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Canada's coastline stretches over 202,000 kilometers, bordering three different oceans."
+    },
+    {
+      "category": "science",
+      "question": "What is the powerhouse of the cell, responsible for generating most of the chemical energy needed?",
+      "options": [
+        "Ribosome",
+        "Nucleus",
+        "Golgi apparatus",
+        "Mitochondrion"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Mitochondria contain their own independent set of DNA separate from the cell's nucleus."
+    },
+    {
+      "category": "history",
+      "question": "The ancient city of Carthage, a major rival to the Roman Republic, was located in present-day which country?",
+      "options": [
+        "Tunisia",
+        "Turkey",
+        "Greece",
+        "Egypt"
+      ],
+      "answer_index": 0,
+      "fun_fact": "The ruins of Carthage are located just outside the modern-day capital city of Tunis."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Which 1982 science fiction film directed by Ridley Scott features a blade runner named Rick Deckard hunting rogue replicants?",
+      "options": [
+        "Blade Runner",
+        "Alien",
+        "The Terminator",
+        "Total Recall"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Blade Runner was loosely based on Philip K. Dick's 1968 novel 'Do Androids Dream of Electric Sheep?'."
+    },
+    {
+      "category": "food",
+      "question": "What is the primary alcoholic base used to make a traditional Dark 'n' Stormy cocktail?",
+      "options": [
+        "Tequila",
+        "Gin",
+        "Dark rum",
+        "Vodka"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A true Dark 'n' Stormy must specifically use Gosling's Black Seal rum and ginger beer to bear the trademarked name."
+    },
+    {
+      "category": "animals",
+      "question": "Which species of bear is known to have a diet that consists almost entirely of bamboo?",
+      "options": [
+        "Giant panda",
+        "Grizzly bear",
+        "Sun bear",
+        "Polar bear"
+      ],
+      "answer_index": 0,
+      "fun_fact": "A giant panda can spend up to 12 hours a day eating bamboo to meet its nutritional requirements."
+    },
+    {
+      "category": "sports",
+      "question": "In the modern Olympic Games, a decathlon consists of how many track and field events contested over two days?",
+      "options": [
+        "Ten",
+        "Twelve",
+        "Fourteen",
+        "Eight"
+      ],
+      "answer_index": 0,
+      "fun_fact": "The decathlon is traditionally contested exclusively by male athletes, while women compete in a seven-event equivalent called the heptathlon."
+    },
+    {
+      "category": "language",
+      "question": "What is the linguistic term for a word that is formed from the sound associated with what it is named, such as 'buzz' or 'whisper'?",
+      "options": [
+        "Acronym",
+        "Palindrome",
+        "Onomatopoeia",
+        "Portmanteau"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Onomatopoeia words often vary significantly across different languages despite representing the exact same natural sound."
+    },
+    {
+      "category": "space",
+      "question": "Which planet in our solar system has the strongest winds, reaching supersonic speeds in its upper atmosphere?",
+      "options": [
+        "Neptune",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Neptune's winds can reach speeds of over 2,100 kilometers per hour, more than five times the speed of the strongest recorded hurricanes on Earth."
+    },
+    {
+      "category": "science",
+      "question": "What is the heaviest naturally occurring chemical element on the periodic table by atomic weight?",
+      "options": [
+        "Uranium",
+        "Lead",
+        "Gold",
+        "Plutonium"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Uranium has an atomic number of 92 and is the heaviest element found in substantial quantities in nature."
+    }
+  ]
+}

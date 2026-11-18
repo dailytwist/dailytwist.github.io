@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-29",
+  "slug": "pronunciation-th-sound",
+  "cefr": "A2",
+  "cat": "vocab",
+  "emoji": "👅",
+  "title": "Die Aussprache des 'TH'-Lauts",
+  "summary": "In dieser Lektion lernst du, wie man den englischen 'th'-Laut bildet. Du übst außerdem Wörter, die fast gleich klingen, um deine Aussprache zu verbessern.",
+  "sections": [
+    {
+      "h": "Wie man den 'TH'-Laut bildet",
+      "p": "Um den 'th'-Laut zu erzeugen, lege die Zungenspitze zwischen deine oberen und unteren Zähne. Blase nun sanft Luft aus deinem Mund. Benutze bei Wörtern wie 'think' nicht deine Stimmbänder. Lass die Luft einfach sanft wie eine glückliche Katze zischen. Versuche, deine Zunge entspannt zu halten und ein kleines bisschen davon zu zeigen.",
+      "ex": [
+        {
+          "en": "I think this is a good idea.",
+          "mean": "Ich glaube, das ist ein guter Plan."
+        },
+        {
+          "en": "Thank you for your help.",
+          "mean": "Ich bin dankbar für deine Unterstützung."
+        },
+        {
+          "en": "My birthday is in three days.",
+          "mean": "In 72 Stunden werde ich ein Jahr älter."
+        }
+      ]
+    },
+    {
+      "h": "Der stimmhafte 'TH'-Laut",
+      "p": "Manchmal wird für den 'th'-Laut die Stimme eingesetzt. Halte deine Zunge zwischen den Zähnen, aber erzeuge in deinem Hals ein Summen wie eine Biene. Du kannst spüren, wie dein Hals vibriert, wenn du deine Hand darauf legst. Wörter wie 'this', 'that' und 'they' verwenden diesen stimmhaften Laut.",
+      "ex": [
+        {
+          "en": "This is my favorite book.",
+          "mean": "Hier ist das Buch, das mir am besten gefällt."
+        },
+        {
+          "en": "They are going to the store.",
+          "mean": "Diese Leute gehen zum Geschäft."
+        },
+        {
+          "en": "Brother, can you help me?",
+          "mean": "Männlicher Geschwisterteil, bitte hilf mir."
+        }
+      ]
+    },
+    {
+      "h": "Was sind Minimalpaare?",
+      "p": "Minimalpaare sind zwei Wörter, die fast gleich klingen, aber durch einen einzigen kleinen Laut völlig verschieden sind. Zum Beispiel klingen 'think' und 'sink' sehr ähnlich. Wenn du deine Zunge bei 'think' nicht herausteckst, denken die Leute vielleicht, du sagst 'sink'. Das Üben dieser Paare hilft dir, klarer zu sprechen.",
+      "ex": [
+        {
+          "en": "I need to think about it.",
+          "mean": "Ich muss die Situation überlegen."
+        },
+        {
+          "en": "The boat will sink in the water.",
+          "mean": "Das Boot wird auf den Grund sinken."
+        },
+        {
+          "en": "I want a thin slice of pizza.",
+          "mean": "Ich möchte ein sehr schnales Stück Pizza."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "tongue",
+      "mean": "Muskel im Mund"
+    },
+    {
+      "en": "teeth",
+      "mean": "harte weiße Knochen"
+    },
+    {
+      "en": "breath",
+      "mean": "Luft, die man einatmet"
+    },
+    {
+      "en": "voice",
+      "mean": "Geräusch aus dem Hals"
+    },
+    {
+      "en": "minimal pair",
+      "mean": "ähnliche Wörter"
+    },
+    {
+      "en": "practice",
+      "mean": "mach es noch einmal"
+    },
+    {
+      "en": "clear",
+      "mean": "leicht zu verstehen"
+    }
+  ],
+  "tip": "Stelle beim Üben einen kleinen Spiegel vor dich. Achte darauf, dass du jedes Mal deine Zunge zwischen den Zähnen sehen kannst, wenn du ein 'th'-Wort sagst!",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort für die Lücke",
+      "en": "I need to ___ about my new job.",
+      "choices": [
+        "sink",
+        "think",
+        "wink"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort für die Lücke",
+      "en": "Can you give me ___ pen over there?",
+      "choices": [
+        "that",
+        "fat",
+        "cat"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort für die Lücke",
+      "en": "My brother has a very ___ pencil.",
+      "choices": [
+        "sin",
+        "tin",
+        "thin"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort für die Lücke",
+      "en": "___ are my best friends.",
+      "choices": [
+        "Day",
+        "They",
+        "Say"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort für die Lücke",
+      "en": "Today is my ___ birthday.",
+      "choices": [
+        "third",
+        "bird",
+        "word"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort für die Lücke",
+      "en": "Please put your tongue between your ___.",
+      "choices": [
+        "feet",
+        "hands",
+        "teeth"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

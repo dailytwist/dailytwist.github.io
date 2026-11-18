@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-29",
+  "slug": "silent-letters",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "🤫",
+  "title": "Stumme Buchstaben: Wörter, die wir schreiben, aber nicht aussprechen",
+  "summary": "Entdecke, warum manche englische Wörter versteckte Buchstaben haben, die wir niemals aussprechen. Lerne, diese kniffligen Wörter zu erkennen und richtig auszusprechen.",
+  "sections": [
+    {
+      "h": "Das stumme „K“ und „W“",
+      "p": "Im Englischen verstecken sich manche Buchstaben in Wörtern und geben keinen Mucks von sich. Eine sehr häufige Regel gilt, wenn ein „k“ oder „w“ direkt vor dem Buchstaben „n“ am Wortanfang steht. Du schreibst sie zwar auf Papier, aber dein Mund bleibt stumm, wenn du sie liest. Denk einfach daran, diese Buchstaben zu überspringen und direkt zum nächsten Laut überzugehen.",
+      "ex": [
+        {
+          "en": "I need to know the answer by tomorrow.",
+          "mean": "Ich muss die Antwort bald verstehen."
+        },
+        {
+          "en": "Please write your name on this paper.",
+          "mean": "Schreib deinen Namen hier hin."
+        },
+        {
+          "en": "Close the door because it is cold outside.",
+          "mean": "Schließ die Tür wegen der Kälte."
+        }
+      ]
+    },
+    {
+      "h": "Das stumme „B“ und „L“",
+      "p": "Andere heimliche Buchstaben wie „b“ und „l“ verstecken sich ebenfalls gerne. Wenn ein „b“ ganz am Ende eines Wortes direkt nach einem „m“ steht, sprechen wir es normalerweise nicht aus. Genauso vergessen wir oft, das „l“ auszusprechen, wenn es in gängigen AlltagsWörtern zwischen bestimmten Vokalen und Konsonanten steht. Höre Muttersprachlern genau zu, um sie zu erwischen.",
+      "ex": [
+        {
+          "en": "Can I please have a glass of water?",
+          "mean": "Darf ich etwas Wasser trinken?"
+        },
+        {
+          "en": "My little brother loves to climb trees.",
+          "mean": "Mein kleiner Bruder klettert gerne auf Bäume."
+        },
+        {
+          "en": "Walk slowly because the floor is wet.",
+          "mean": "Geh vorsichtig zu Fuß."
+        }
+      ]
+    },
+    {
+      "h": "Das stumme „H“",
+      "p": "Der Buchstabe „h“ ist im Englischen sehr scheu. Wenn er in Fragewörtern nach einem „w“ auftaucht, hören wir ihn oft nicht. Außerdem versteckt er sich stumm nach einem „r“ am Anfang mancher Wörter. Lass dich von diesen leisen Buchstaben nicht verwirren, wenn du dich mit Freunden oder Kolleginnen unterhältst.",
+      "ex": [
+        {
+          "en": "What time should we meet for lunch?",
+          "mean": "Um wie viel Uhr essen wir zusammen?"
+        },
+        {
+          "en": "My favorite season is autumn.",
+          "mean": "Die Jahreszeit, die ich am liebsten mag, ist der Herbst."
+        },
+        {
+          "en": "Where did you put my keys?",
+          "mean": "An welchem Ort sind meine Schlüssel?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "know",
+      "mean": "Informationen haben"
+    },
+    {
+      "en": "write",
+      "mean": "Wörter auf Papier bringen"
+    },
+    {
+      "en": "comb",
+      "mean": "Werkzeug für die Haare"
+    },
+    {
+      "en": "talk",
+      "mean": "sprechen"
+    },
+    {
+      "en": "half",
+      "mean": "fünfzig Prozent"
+    },
+    {
+      "en": "what",
+      "mean": "Fragewort für Dinge"
+    },
+    {
+      "en": "climb",
+      "mean": "nach oben gehen"
+    },
+    {
+      "en": "answer",
+      "mean": "Antwort auf eine Frage"
+    }
+  ],
+  "tip": "Wenn du ein neues englisches Wort lernst, schau in einem Wörterbuch nach, ob es einen stummen Buchstaben hat. Mach ein kleines Kreuz über den leisen Buchstaben in deinem Notizbuch, damit du daran denkst, ihn nicht auszusprechen.",
+  "quiz": [
+    {
+      "ask": "Wähle die richtige Schreibweise für die Handlung, die du mit einem Stift ausführst.",
+      "en": "I need to ___ a letter to my friend.",
+      "choices": [
+        "rite",
+        "write",
+        "writte"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das passende fehlende Wort für diese Frage.",
+      "en": "Do you ___ where the station is?",
+      "choices": [
+        "know",
+        "now",
+        "gno"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das Wort aus, das ein stummes „b“ enthält.",
+      "en": "He likes to ___ tall mountains.",
+      "choices": [
+        "walk",
+        "climb",
+        "run"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Welcher Buchstabe ist im Wort „talk“ stumm?",
+      "en": "What is the silent letter in 'talk'?",
+      "choices": [
+        "t",
+        "a",
+        "l"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Fragewort.",
+      "en": "___ is your name?",
+      "choices": [
+        "Wat",
+        "Hwat",
+        "What"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle die richtige Schreibweise für das Werkzeug, das für die Haare verwendet wird.",
+      "en": "She uses a ___ for her hair.",
+      "choices": [
+        "comb",
+        "com",
+        "cove"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

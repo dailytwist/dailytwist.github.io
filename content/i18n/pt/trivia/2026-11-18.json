@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-18",
+  "title": "Desafio de Trivia Diário: 18 de novembro de 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Qual país possui a maior costa do mundo?",
+      "options": [
+        "Rússia",
+        "Austrália",
+        "Canadá",
+        "Indonésia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A costa do Canadá se estende por mais de 202.000 quilômetros, fazendo fronteira com três oceanos diferentes."
+    },
+    {
+      "category": "ciência",
+      "question": "Qual é a central energética da célula, responsável por gerar a maior parte da energia química necessária?",
+      "options": [
+        "Ribossomo",
+        "Núcleo",
+        "Complexo de Golgi",
+        "Mitocôndria"
+      ],
+      "answer_index": 3,
+      "fun_fact": "As mitocôndrias contêm seu próprio conjunto independente de DNA, separado do núcleo da célula."
+    },
+    {
+      "category": "história",
+      "question": "A antiga cidade de Cartago, uma grande rival da República Romana, ficava localizada no território do atual país de:",
+      "options": [
+        "Tunísia",
+        "Turquia",
+        "Grécia",
+        "Egito"
+      ],
+      "answer_index": 0,
+      "fun_fact": "As ruínas de Cartago estão localizadas bem perto da capital moderna, Tunes."
+    },
+    {
+      "category": "filmes e cultura pop",
+      "question": "Qual filme de ficção científica de 1982 dirigido por Ridley Scott apresenta um caçador de androides chamado Rick Deckard caçando replicantes rebeldes?",
+      "options": [
+        "Blade Runner",
+        "Alien",
+        "O Exterminador do Futuro",
+        "O Vingador do Futuro"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Blade Runner foi vagamente baseado no romance de Philip K. Dick de 1968 'Androides Sonham com Ovelhas Elétricas?'."
+    },
+    {
+      "category": "culinária",
+      "question": "Qual é a principal base alcoólica usada para fazer um coquetel tradicional Dark 'n' Stormy?",
+      "options": [
+        "Tequila",
+        "Gin",
+        "Rum escuro",
+        "Vodka"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Um verdadeiro Dark 'n' Stormy deve usar especificamente rum Gosling's Black Seal e cerveja de gengibre para poder usar o nome patenteado."
+    },
+    {
+      "category": "animais",
+      "question": "Qual espécie de urso é conhecida por ter uma dieta que consiste quase inteiramente de bambu?",
+      "options": [
+        "Panda-gigante",
+        "Urso-pardo",
+        "Urso-malaio",
+        "Urso-polar"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Um panda-gigante pode passar até 12 horas por dia comendo bambu para suprir suas necessidades nutricionais."
+    },
+    {
+      "category": "esportes",
+      "question": "Nos Jogos Olímpicos modernos, o decatlo consiste em quantos eventos de atletismo disputados ao longo de dois dias?",
+      "options": [
+        "Dez",
+        "Doze",
+        "Quatorze",
+        "Oito"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O decatlo é tradicionalmente disputado exclusivamente por atletas masculinos, enquanto as mulheres competem em um equivalente de sete eventos chamado heptatlo."
+    },
+    {
+      "category": "idiomas",
+      "question": "Qual é o termo linguístico para uma palavra que é formada a partir do som associado ao que ela nomeia, como 'zunido' ou 'sussurro'?",
+      "options": [
+        "Acrônimo",
+        "Palíndromo",
+        "Onomatopeia",
+        "Portmanteau"
+      ],
+      "answer_index": 2,
+      "fun_fact": "As palavras onomatopeicas geralmente variam significativamente entre diferentes idiomas, apesar de representarem exatamente o mesmo som natural."
+    },
+    {
+      "category": "espaço",
+      "question": "Qual planeta do nosso sistema solar tem os ventos mais fortes, atingindo velocidades supersônicas em sua alta atmosfera?",
+      "options": [
+        "Netuno",
+        "Marte",
+        "Júpiter",
+        "Saturno"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Os ventos de Netuno podem atingir velocidades de mais de 2.100 quilômetros por hora, mais de cinco vezes a velocidade dos furacões mais fortes já registrados na Terra."
+    },
+    {
+      "category": "ciência",
+      "question": "Qual é o elemento químico natural mais pesado da tabela periódica por peso atômico?",
+      "options": [
+        "Urânio",
+        "Chumbo",
+        "Ouro",
+        "Plutônio"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O urânio tem número atômico 92 e é o elemento mais pesado encontrado em quantidades substanciais na natureza."
+    }
+  ]
+}

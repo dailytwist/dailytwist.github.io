@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-18",
+  "title": "Desafío de Trivia Diario: 18 de noviembre de 2026",
+  "questions": [
+    {
+      "category": "geografía",
+      "question": "¿Qué país posee la costa más larga del mundo?",
+      "options": [
+        "Rusia",
+        "Australia",
+        "Canadá",
+        "Indonesia"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La costa de Canadá se extiende a lo largo de más de 202.000 kilómetros y limita con tres océanos diferentes."
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Cuál es la central energética de la célula, responsable de generar la mayor parte de la energía química necesaria?",
+      "options": [
+        "Ribosoma",
+        "Núcleo",
+        "Aparato de Golgi",
+        "Mitocondria"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Las mitocondrias contienen su propio conjunto independiente de ADN, separado del núcleo de la célula."
+    },
+    {
+      "category": "historia",
+      "question": "¿En qué país actual se encontraba la antigua ciudad de Cartago, una gran rival de la República romana?",
+      "options": [
+        "Túnez",
+        "Turquía",
+        "Grecia",
+        "Egipto"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Las ruinas de Cartago se encuentran justo a las afueras de la capital actual, Ciudad de Túnez."
+    },
+    {
+      "category": "cine y cultura pop",
+      "question": "¿Qué película de ciencia ficción de 1982 dirigida por Ridley Scott presenta a un blade runner llamado Rick Deckard que caza replicantes renegados?",
+      "options": [
+        "Blade Runner",
+        "Alien",
+        "The Terminator",
+        "Total Recall"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Blade Runner se basó libremente en la novela de Philip K. Dick de 1968 '¿Sueñan los androides con ovejas eléctricas?'."
+    },
+    {
+      "category": "comida",
+      "question": "¿Cuál es la base alcohólica principal utilizada para preparar un cóctel tradicional Dark 'n' Stormy?",
+      "options": [
+        "Tequila",
+        "Ginebra",
+        "Ron oscuro",
+        "Vodka"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un verdadero Dark 'n' Stormy debe usar específicamente ron Gosling's Black Seal y cerveza de jengibre para poder llevar ese nombre registrado."
+    },
+    {
+      "category": "animales",
+      "question": "¿Qué especie de oso se sabe que tiene una dieta compuesta casi en su totalidad por bambú?",
+      "options": [
+        "Panda gigante",
+        "Oso pardo",
+        "Oso malayo",
+        "Oso polar"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Un panda gigante puede pasar hasta 12 horas al día comiendo bambú para satisfacer sus necesidades nutricionales."
+    },
+    {
+      "category": "deportes",
+      "question": "En los Juegos Olímpicos modernos, ¿de cuántas pruebas de atletismo disputadas en dos días consta un decatlón?",
+      "options": [
+        "Diez",
+        "Doce",
+        "Catorce",
+        "Ocho"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Tradicionalmente, el decatlón es disputado exclusivamente por atletas masculinos, mientras que las mujeres compiten en un equivalente de siete pruebas llamado heptatlón."
+    },
+    {
+      "category": "lenguaje",
+      "question": "¿Cuál es el término lingüístico para una palabra que se forma a partir del sonido asociado con lo que nombra, como 'zumbar' o 'susurrar'?",
+      "options": [
+        "Acrónimo",
+        "Palíndromo",
+        "Onomatopeya",
+        "Palabra maleta"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Las palabras onomatopéyicas a menudo varían significativamente entre diferentes idiomas a pesar de representar exactamente el mismo sonido natural."
+    },
+    {
+      "category": "espacio",
+      "question": "¿Qué planeta de nuestro sistema solar tiene los vientos más fuertes, alcanzando velocidades supersónicas en su atmósfera superior?",
+      "options": [
+        "Neptuno",
+        "Marte",
+        "Júpiter",
+        "Saturno"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Los vientos de Neptuno pueden alcanzar velocidades de más de 2.100 kilómetros por hora, más de cinco veces la velocidad de los huracanes más fuertes registrados en la Tierra."
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Cuál es el elemento químico natural más pesado de la tabla periódica según su peso atómico?",
+      "options": [
+        "Uranio",
+        "Plomo",
+        "Oro",
+        "Plutonio"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El uranio tiene un número atómico de 92 y es el elemento más pesado que se encuentra en cantidades sustanciales en la naturaleza."
+    }
+  ]
+}
