@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-23",
+  "slug": "body-parts",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "👤",
+  "title": "Parties du corps",
+  "summary": "Apprenez les mots de base pour désigner les parties du corps humain. Vous saurez parler de votre visage, de vos bras et de vos jambes.",
+  "sections": [
+    {
+      "h": "Votre tête et votre visage",
+      "p": "Commençons par le haut ! Vous avez une tête. Sur votre visage, vous avez deux yeux pour voir et un nez pour sentir. Vous avez aussi une bouche pour parler et manger. Nous utilisons ces mots tous les jours lorsque nous parlons de notre apparence ou de notre état.",
+      "ex": [
+        {
+          "en": "I have two blue eyes.",
+          "mean": "La couleur de mes deux yeux est bleue."
+        },
+        {
+          "en": "Open your mouth, please.",
+          "mean": "Veuillez montrer l'intérieur de votre bouche."
+        },
+        {
+          "en": "My head hurts today.",
+          "mean": "J'ai mal à la tête."
+        }
+      ]
+    },
+    {
+      "h": "Bras et mains",
+      "p": "Passons maintenant au milieu du corps. Vous avez deux bras. Au bout de chaque bras, vous avez une main. Sur vos mains, vous avez des doigts. Vous utilisez vos mains et vos doigts pour écrire, tenir des objets et dire bonjour !",
+      "ex": [
+        {
+          "en": "Wash your hands before you eat.",
+          "mean": "Lavez vos mains avec de l'eau et du savon."
+        },
+        {
+          "en": "She has a ring on her finger.",
+          "mean": "Il y a une bague autour de l'un de ses doigts."
+        }
+      ]
+    },
+    {
+      "h": "Jambes et pieds",
+      "p": "Enfin, nous avons les jambes et les pieds. Vous avez deux jambes pour vous tenir debout, marcher et courir. Au bas de chaque jambe, vous avez un pied. Quand vous en avez deux, on les appelle des pieds. Vous mettez des chaussures sur vos pieds.",
+      "ex": [
+        {
+          "en": "My legs are tired from walking.",
+          "mean": "J'ai beaucoup marché, alors mes jambes ont besoin de repos."
+        },
+        {
+          "en": "Put your shoes on your feet.",
+          "mean": "Couvrez vos pieds avec des chaussures."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "head",
+      "mean": "partie supérieure du corps"
+    },
+    {
+      "en": "eye",
+      "mean": "organe de la vision"
+    },
+    {
+      "en": "nose",
+      "mean": "organe de l'odorat"
+    },
+    {
+      "en": "mouth",
+      "mean": "utilisé pour manger et parler"
+    },
+    {
+      "en": "arm",
+      "mean": "membre supérieur du corps"
+    },
+    {
+      "en": "hand",
+      "mean": "au bout du bras"
+    },
+    {
+      "en": "finger",
+      "mean": "doigt de la main"
+    },
+    {
+      "en": "leg",
+      "mean": "membre inférieur du corps"
+    },
+    {
+      "en": "foot",
+      "mean": "utilisé pour se tenir debout"
+    },
+    {
+      "en": "feet",
+      "mean": "pluriel de pied"
+    }
+  ],
+  "tip": "Montrez les parties de votre corps en prononçant les mots anglais à haute voix. Bouger votre corps aide votre cerveau à mémoriser plus rapidement de nouveaux mots !",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct pour voir.",
+      "en": "I look at the picture with my ___.",
+      "choices": [
+        "ears",
+        "eyes",
+        "nose"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct pour le pluriel de pied.",
+      "en": "I wear shoes on my two ___.",
+      "choices": [
+        "feet",
+        "foots",
+        "hands"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la partie du corps correcte.",
+      "en": "I write my name with a pen in my ___.",
+      "choices": [
+        "head",
+        "leg",
+        "hand"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct pour sentir de la nourriture.",
+      "en": "I smell the nice soup with my ___.",
+      "choices": [
+        "mouth",
+        "eye",
+        "nose"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez la partie du corps correcte.",
+      "en": "I wear a hat on my ___.",
+      "choices": [
+        "head",
+        "foot",
+        "arm"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la partie du corps correcte pour marcher.",
+      "en": "I use my two ___ to walk to the store.",
+      "choices": [
+        "ears",
+        "legs",
+        "eyes"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

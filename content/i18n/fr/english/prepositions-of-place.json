@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-23",
+  "slug": "prepositions-of-place",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "📦",
+  "title": "Où est-ce ? Les prépositions de lieu",
+  "summary": "Apprenez à utiliser des mots simples pour dire où se trouvent les choses. Vous parlerez d'objets du quotidien chez vous.",
+  "sections": [
+    {
+      "h": "Dans, sur et sous",
+      "p": "Nous utilisons 'in' (dans) quand quelque chose est à l'intérieur d'un espace ou d'une boîte. Nous utilisons 'on' (sur) quand quelque chose touche la surface supérieure d'une table ou d'un sol. Nous utilisons 'under' (sous) quand quelque chose se trouve en dessous d'un autre objet, comme le sol sous une table. Ce sont les mots les plus courants pour les endroits de tous les jours.",
+      "ex": [
+        {
+          "en": "The pen is in the bag.",
+          "mean": "Le stylo est à l'intérieur du sac."
+        },
+        {
+          "en": "The book is on the table.",
+          "mean": "Le livre touche le dessus de la table."
+        },
+        {
+          "en": "The cat is under the chair.",
+          "mean": "Le chat est en dessous de la chaise."
+        }
+      ]
+    },
+    {
+      "h": "À côté de et entre",
+      "p": "Nous utilisons 'next to' (à côté de) quand quelque chose est tout près d'une autre chose sans espace entre les deux. Nous utilisons 'between' (entre) quand quelque chose est au milieu de deux autres choses. Regardez autour de vous dans votre pièce pour vous entraîner à placer ces éléments dès maintenant.",
+      "ex": [
+        {
+          "en": "The lamp is next to the bed.",
+          "mean": "La lampe est à côté du lit."
+        },
+        {
+          "en": "The phone is between the cups.",
+          "mean": "Le téléphone est au milieu de deux tasses."
+        }
+      ]
+    },
+    {
+      "h": "Derrière",
+      "p": "Nous utilisons 'behind' (derrière) quand quelque chose se trouve à l'arrière d'un autre objet. L'objet devant en cache une partie. Cela vous aide à décrire des pièces où des objets sont cachés ou placés au fond.",
+      "ex": [
+        {
+          "en": "The shoes are behind the door.",
+          "mean": "Les chaussures sont à l'arrière de la porte."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "in",
+      "mean": "à l'intérieur"
+    },
+    {
+      "en": "on",
+      "mean": "sur le dessus de"
+    },
+    {
+      "en": "under",
+      "mean": "en dessous"
+    },
+    {
+      "en": "next to",
+      "mean": "à côté de"
+    },
+    {
+      "en": "between",
+      "mean": "au milieu"
+    },
+    {
+      "en": "behind",
+      "mean": "à l'arrière"
+    }
+  ],
+  "tip": "Regardez votre bureau en ce moment même. Dites à haute voix où se trouvent trois choses en utilisant 'in', 'on' ou 'next to'.",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "The apple is ___ the bowl.",
+      "choices": [
+        "in",
+        "on",
+        "under"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "My keys are ___ the table.",
+      "choices": [
+        "in",
+        "on",
+        "behind"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "The rug is ___ the sofa.",
+      "choices": [
+        "in",
+        "between",
+        "under"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "The chair is ___ the desk.",
+      "choices": [
+        "next to",
+        "in",
+        "on"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "The table is ___ the two chairs.",
+      "choices": [
+        "next to",
+        "between",
+        "under"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "The dog is ___ the curtain.",
+      "choices": [
+        "on",
+        "next to",
+        "behind"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

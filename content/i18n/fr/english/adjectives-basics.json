@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-23",
+  "slug": "adjectives-basics",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "🎨",
+  "title": "Décrire des choses : les adjectifs courants",
+  "summary": "Apprenez à utiliser les adjectifs courants pour décrire des personnes et des objets. Découvrez leur place exacte dans une phrase.",
+  "sections": [
+    {
+      "h": "Qu'est-ce qu'un adjectif ?",
+      "p": "Un adjectif est un mot qui décrit un nom. Un nom désigne une personne, un lieu ou une chose. Les adjectifs nous apportent des précisions. Par exemple, ils nous renseignent sur la taille, la couleur ou l'état d'esprit. Des mots comme grand, rouge et heureux sont tous des adjectifs.",
+      "ex": [
+        {
+          "en": "The car is red.",
+          "mean": "La couleur de la voiture est rouge."
+        },
+        {
+          "en": "She is happy.",
+          "mean": "Elle se sent heureuse."
+        }
+      ]
+    },
+    {
+      "h": "Où placer les adjectifs ?",
+      "p": "En anglais, les adjectifs se placent généralement avant le nom. On indique d'abord la couleur ou la taille, puis l'objet. Par exemple, on dit 'a big dog' (un grand chien) et non 'a dog big'. C'est une règle très importante à retenir lorsque vous parlez anglais.",
+      "ex": [
+        {
+          "en": "I have a small cat.",
+          "mean": "Mon chat est de petite taille."
+        },
+        {
+          "en": "He wears a blue shirt.",
+          "mean": "La couleur de sa chemise est bleue."
+        }
+      ]
+    },
+    {
+      "h": "Les adjectifs avec 'To Be'",
+      "p": "Vous pouvez également placer les adjectifs après le verbe 'to be' (am, is, are). Dans ce cas, l'adjectif décrit le sujet situé au début de la phrase. C'est idéal pour exprimer l'apparence, les sensations ou l'état actuel des choses.",
+      "ex": [
+        {
+          "en": "The food is hot.",
+          "mean": "La température de la nourriture est élevée."
+        },
+        {
+          "en": "They are tired.",
+          "mean": "Leur état physique est fatigué."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "big",
+      "mean": "de grande taille"
+    },
+    {
+      "en": "small",
+      "mean": "de petite taille"
+    },
+    {
+      "en": "happy",
+      "mean": "qui se sent bien"
+    },
+    {
+      "en": "sad",
+      "mean": "qui se sent malheureux"
+    },
+    {
+      "en": "hot",
+      "mean": "température élevée"
+    },
+    {
+      "en": "cold",
+      "mean": "basse température"
+    },
+    {
+      "en": "new",
+      "mean": "fabriqué récemment"
+    }
+  ],
+  "tip": "Dessinez des objets et écrivez leur couleur et leur taille à côté. Associer des mots à de vraies images aide votre cerveau à les mémoriser plus vite !",
+  "quiz": [
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "The sun is ___ today.",
+      "choices": [
+        "hot",
+        "tall",
+        "old"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "I have a ___ car. It is blue.",
+      "choices": [
+        "fast",
+        "big",
+        "sad"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne phrase",
+      "en": "Where do adjectives usually go?",
+      "choices": [
+        "After the noun",
+        "Before the noun",
+        "At the end of the sentence"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "She is a ___ student. She smiles a lot.",
+      "choices": [
+        "cold",
+        "happy",
+        "heavy"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "My coffee is very ___.",
+      "choices": [
+        "small",
+        "hot",
+        "sad"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne phrase",
+      "en": "Select the correct English sentence.",
+      "choices": [
+        "The house is big.",
+        "The big is house.",
+        "Is big the house."
+      ],
+      "answer_index": 0
+    }
+  ]
+}

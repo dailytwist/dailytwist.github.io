@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-23",
+  "slug": "asking-for-directions",
+  "cefr": "A1",
+  "cat": "phrases",
+  "emoji": "🗺️",
+  "title": "Demander et donner son chemin",
+  "summary": "Dans cette leçon, vous apprendrez à demander où se trouvent des endroits dans une ville. Vous apprendrez également à indiquer la direction à suivre.",
+  "sections": [
+    {
+      "h": "Demander où se trouvent les lieux",
+      "p": "Quand vous êtes dans une ville nouvelle et que vous cherchez un endroit, vous devez demander de l'aide. Une façon polie de commencer est de dire « Excusez-moi ». Ensuite, vous pouvez demander où se trouve un lieu précis. Nous utilisons le verbe « est » pour un seul endroit. Par exemple, vous pouvez vous renseigner sur une banque, un hôtel ou une gare. Les gens se feront un plaisir de vous aider si vous êtes poli.",
+      "ex": [
+        {
+          "en": "Excuse me, where is the train station?",
+          "mean": "Demander poliment où se trouve la gare."
+        },
+        {
+          "en": "Excuse me, is there a bank near here?",
+          "mean": "Demander si une banque se trouve près de votre position."
+        },
+        {
+          "en": "Where is the supermarket, please?",
+          "mean": "Une façon simple de demander où est la boutique."
+        }
+      ]
+    },
+    {
+      "h": "Donner des directions de base",
+      "p": "Quand quelqu'un vous demande de l'aide, vous devez lui donner des instructions claires. Vous pouvez lui dire d'aller tout droit, de tourner à gauche ou de tourner à droite. Ces trois expressions simples sont très importantes. Vous pouvez aussi utiliser des mots comme « à côté de » ou « en face de » pour situer un bâtiment.",
+      "ex": [
+        {
+          "en": "Go straight.",
+          "mean": "Marcher tout droit sans tourner."
+        },
+        {
+          "en": "Turn left at the corner.",
+          "mean": "Aller du côté gauche."
+        },
+        {
+          "en": "Turn right.",
+          "mean": "Aller du côté droit."
+        }
+      ]
+    },
+    {
+      "h": "Les lieux dans la ville",
+      "p": "Pour demander votre chemin, vous devez connaître le nom des endroits courants dans une ville. Une ville regorge de bâtiments et de zones utiles. Connaître ces mots vous aide à comprendre les réponses qu'on vous donne. Par exemple, vous pourriez avoir besoin d'un hôpital, d'un parc ou d'un café.",
+      "ex": [
+        {
+          "en": "The hotel is next to the park.",
+          "mean": "L'hôtel et le parc sont côte à côte."
+        },
+        {
+          "en": "The cafe is opposite the museum.",
+          "mean": "Le café se trouve de l'autre côté de la rue par rapport au musée."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Excuse me",
+      "mean": "façon polie d'aborder un inconnu"
+    },
+    {
+      "en": "Where is",
+      "mean": "demander un emplacement"
+    },
+    {
+      "en": "Go straight",
+      "mean": "marcher tout droit"
+    },
+    {
+      "en": "Turn left",
+      "mean": "aller du côté gauche"
+    },
+    {
+      "en": "Turn right",
+      "mean": "aller du côté droit"
+    },
+    {
+      "en": "Next to",
+      "mean": "à côté de quelque chose"
+    },
+    {
+      "en": "Opposite",
+      "mean": "en face de quelque chose"
+    },
+    {
+      "en": "Station",
+      "mean": "endroit pour les trains ou les bus"
+    }
+  ],
+  "tip": "Servez-vous de vos mains lorsque vous indiquez la gauche ou la droite pour aider les gens à mieux vous comprendre. Commencez toujours par un sourire et un « Excusez-moi ».",
+  "quiz": [
+    {
+      "ask": "Choisissez la bonne expression pour commencer à poser une question.",
+      "en": "___ , where is the hotel?",
+      "choices": [
+        "Excuse me",
+        "Thank you",
+        "Goodbye"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la bonne direction pour aller tout droit.",
+      "en": "Go ___ down this street.",
+      "choices": [
+        "left",
+        "straight",
+        "right"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon mot pour changer de direction du côté de la main avec laquelle vous écrivez.",
+      "en": "Turn ___ at the traffic lights.",
+      "choices": [
+        "straight",
+        "stop",
+        "right"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez la bonne préposition lorsqu'un lieu se trouve de l'autre côté de la rue.",
+      "en": "The shop is ___ the park.",
+      "choices": [
+        "opposite",
+        "under",
+        "in"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon verbe pour vous renseigner sur un seul lieu.",
+      "en": "Where ___ the train station?",
+      "choices": [
+        "are",
+        "is",
+        "am"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne expression lorsqu'un lieu se trouve à côté d'un autre.",
+      "en": "The bank is ___ the post office.",
+      "choices": [
+        "on",
+        "next to",
+        "over"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

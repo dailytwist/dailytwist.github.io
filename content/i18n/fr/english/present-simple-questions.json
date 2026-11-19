@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-23",
+  "slug": "present-simple-questions",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "❓",
+  "title": "Poser des questions et dire non",
+  "summary": "Apprenez à poser des questions et à faire des phrases négatives avec do et does. Vous pourrez ainsi parler de vos habitudes et de votre routine quotidienne.",
+  "sections": [
+    {
+      "h": "Comment faire des négations avec do not et does not",
+      "p": "Quand vous voulez dire non au présent simple, utilisez do not ou does not avant le verbe d'action. Utilisez do not (don't) avec I, you, we et they. Utilisez does not (doesn't) avec he, she et it. N'oubliez pas que le verbe principal reste simple, sans 's' supplémentaire à la fin.",
+      "ex": [
+        {
+          "en": "I don't drink coffee in the morning.",
+          "mean": "Dire non à propos de soi-même"
+        },
+        {
+          "en": "She doesn't work on Sundays.",
+          "mean": "Dire non à propos d'une tierce personne"
+        },
+        {
+          "en": "We don't live in a big city.",
+          "mean": "Dire non à propos d'un groupe"
+        }
+      ]
+    },
+    {
+      "h": "Comment poser des questions avec do",
+      "p": "Pour poser une question sur des habitudes, placez Do tout au début. Utilisez Do avec I, you, we et they. Ajoutez ensuite le sujet et le verbe d'action. Donnez une réponse courte et simple avec yes ou no.",
+      "ex": [
+        {
+          "en": "Do you speak English?",
+          "mean": "Interroger une autre personne"
+        },
+        {
+          "en": "Do they like pizza?",
+          "mean": "Poser une question sur un groupe"
+        },
+        {
+          "en": "Do we have time?",
+          "mean": "Poser une question sur un projet partagé"
+        }
+      ]
+    },
+    {
+      "h": "Comment poser des questions avec does",
+      "p": "Utilisez Does lorsque vous posez des questions sur he, she ou it. Placez Does au début de la phrase. Tout comme pour la négation, le verbe d'action principal n'a pas besoin de 's' puisque le mot does indique déjà qu'il s'agit de he, she ou it.",
+      "ex": [
+        {
+          "en": "Does he play football?",
+          "mean": "Poser une question concernant un homme"
+        },
+        {
+          "en": "Does she like cats?",
+          "mean": "Poser une question concernant une femme"
+        },
+        {
+          "en": "Does it rain a lot here?",
+          "mean": "Poser une question sur la météo"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Do",
+      "mean": "auxiliaire interrogatif pour I, you, we, they"
+    },
+    {
+      "en": "Does",
+      "mean": "auxiliaire interrogatif pour he, she, it"
+    },
+    {
+      "en": "Don't",
+      "mean": "ne... pas"
+    },
+    {
+      "en": "Doesn't",
+      "mean": "ne... pas (pour la 3e personne du singulier)"
+    },
+    {
+      "en": "Question",
+      "mean": "phrase pour demander une information"
+    },
+    {
+      "en": "Negative",
+      "mean": "dire non"
+    },
+    {
+      "en": "Habit",
+      "mean": "action de routine"
+    }
+  ],
+  "tip": "Rappelez-vous la règle d'or : « He, she, it » adore la lettre « s ». Utilisez donc Does et Doesn't avec eux !",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "___ you like music?",
+      "choices": [
+        "Does",
+        "Do",
+        "Is"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "She ___ like tea.",
+      "choices": [
+        "don't",
+        "doesn't",
+        "isn't"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "___ he work on Mondays?",
+      "choices": [
+        "Do",
+        "Are",
+        "Does"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "We ___ eat meat.",
+      "choices": [
+        "doesn't",
+        "don't",
+        "aren't"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "___ they play tennis?",
+      "choices": [
+        "Do",
+        "Does",
+        "Are"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "He ___ live in London.",
+      "choices": [
+        "don't",
+        "doesn't",
+        "not"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

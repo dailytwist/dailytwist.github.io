@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-23",
+  "slug": "daily-routine",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "☀️",
+  "title": "Ma routine du matin",
+  "summary": "Apprenez à parler de votre matinée. Découvrez trois actions importantes de votre routine quotidienne.",
+  "sections": [
+    {
+      "h": "Se réveiller",
+      "p": "On utilise l'expression 'wake up' lorsque l'on arrête de dormir le matin. Quand vos yeux s'ouvrent et que vous sortez du lit, vous vous réveillez. C'est généralement la toute première chose que nous faisons chaque jour avant d'entamer notre matinée bien remplie.",
+      "ex": [
+        {
+          "en": "I wake up at seven o'clock.",
+          "mean": "Mes yeux s'ouvrent à 7h00."
+        },
+        {
+          "en": "You wake up early on Mondays.",
+          "mean": "Tu arrêtes de dormir tôt au début de la semaine."
+        }
+      ]
+    },
+    {
+      "h": "S'habiller",
+      "p": "Après avoir quitté votre lit, vous devez mettre vos vêtements. On dit 'get dressed' pour cette action. Vous enlevez votre pyjama et enfilez une chemise, un pantalon ou une robe pour cette nouvelle journée.",
+      "ex": [
+        {
+          "en": "I get dressed in my bedroom.",
+          "mean": "Je mets mes vêtements dans ma chambre."
+        },
+        {
+          "en": "She gets dressed quickly.",
+          "mean": "Elle met ses vêtements rapidement."
+        }
+      ]
+    },
+    {
+      "h": "Prendre son petit-déjeuner",
+      "p": "Le matin, notre corps a besoin de nourriture et d'énergie. Le premier repas de la journée est le petit-déjeuner. On utilise l'expression 'have breakfast' pour parler du fait de manger ce repas matinal.",
+      "ex": [
+        {
+          "en": "We have breakfast in the kitchen.",
+          "mean": "Nous mangeons notre repas du matin ensemble."
+        },
+        {
+          "en": "Do you have breakfast every day?",
+          "mean": "As-tu l'habitude de manger le matin ?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "wake up",
+      "mean": "arrêter de dormir"
+    },
+    {
+      "en": "get dressed",
+      "mean": "mettre des vêtements"
+    },
+    {
+      "en": "have breakfast",
+      "mean": "manger le repas du matin"
+    },
+    {
+      "en": "morning",
+      "mean": "début de la journée"
+    },
+    {
+      "en": "bed",
+      "mean": "là où l'on dort"
+    },
+    {
+      "en": "clothes",
+      "mean": "ce que l'on porte"
+    },
+    {
+      "en": "food",
+      "mean": "ce que l'on mange"
+    }
+  ],
+  "tip": "Exprimez votre routine matinale à voix haute tous les jours. Faites l'action et prononcez les mots en anglais en même temps !",
+  "quiz": [
+    {
+      "ask": "Choisissez la bonne action",
+      "en": "I open my eyes and stop sleeping. I ___ at seven o'clock.",
+      "choices": [
+        "get dressed",
+        "wake up",
+        "have breakfast"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne action",
+      "en": "Now I put on my shirt and pants. I ___.",
+      "choices": [
+        "get dressed",
+        "wake up",
+        "sleep"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la bonne action",
+      "en": "I eat bread and drink coffee in the morning. I ___.",
+      "choices": [
+        "wake up",
+        "get dressed",
+        "have breakfast"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "Breakfast is the first ___ of the day.",
+      "choices": [
+        "sleep",
+        "meal",
+        "night"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne traduction",
+      "en": "What does 'wake up' mean?",
+      "choices": [
+        "stop sleeping",
+        "eat food",
+        "wear clothes"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la bonne question",
+      "en": "___ do you have breakfast?",
+      "choices": [
+        "Where",
+        "What time",
+        "Who"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-23",
+  "slug": "weather",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "☀️",
+  "title": "Parler de la météo",
+  "summary": "Apprenez à demander quel temps il fait et à parler des journées ensoleillées, pluvieuses ou froides. Cette leçon vous aide à engager facilement la conversation au quotidien.",
+  "sections": [
+    {
+      "h": "Quel temps fait-il ?",
+      "p": "Quand vous voulez savoir quel temps il fait aujourd'hui, vous pouvez poser une question simple. On utilise 'It is' pour parler de la météo. Par exemple, quand vous regardez par la fenêtre et que vous voyez le soleil, vous pouvez dire 'It is sunny'. C'est très simple et les gens utilisent cette expression tous les jours pour entamer une conversation amicale.",
+      "ex": [
+        {
+          "en": "How is the weather today?",
+          "mean": "Demander quel temps il fait actuellement."
+        },
+        {
+          "en": "It is sunny today.",
+          "mean": "Il y a beaucoup de soleil dehors."
+        },
+        {
+          "en": "It is raining now.",
+          "mean": "De l'eau tombe du ciel."
+        }
+      ]
+    },
+    {
+      "h": "Temps chaud et froid",
+      "p": "La météo change beaucoup. Parfois il fait très chaud en été, et parfois il fait très froid en hiver. On utilise aussi 'It is' avec ces mots. Vous pouvez également parler du vent lorsque l'air circule rapidement autour de vous.",
+      "ex": [
+        {
+          "en": "It is very hot today.",
+          "mean": "Température élevée, comme en été."
+        },
+        {
+          "en": "It is cold outside.",
+          "mean": "Température basse, mettez une veste."
+        },
+        {
+          "en": "It is windy today.",
+          "mean": "Un vent fort souffle."
+        }
+      ]
+    },
+    {
+      "h": "Nuages et neige",
+      "p": "Quand le ciel est gris et couvert, on dit qu'il est nuageux. Dans les pays où l'hiver est rude, l'eau se transforme en neige blanche. Vous pouvez regarder par votre fenêtre et décrire ce que vous voyez en utilisant ces mots simples.",
+      "ex": [
+        {
+          "en": "It is cloudy today.",
+          "mean": "On ne voit pas bien le soleil."
+        },
+        {
+          "en": "It is snowing in winter.",
+          "mean": "De la neige blanche tombe."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "weather",
+      "mean": "soleil, pluie et vent"
+    },
+    {
+      "en": "sunny",
+      "mean": "avec un beau soleil"
+    },
+    {
+      "en": "raining",
+      "mean": "eau qui tombe du ciel"
+    },
+    {
+      "en": "hot",
+      "mean": "température élevée"
+    },
+    {
+      "en": "cold",
+      "mean": "température basse"
+    },
+    {
+      "en": "windy",
+      "mean": "air en mouvement"
+    },
+    {
+      "en": "cloudy",
+      "mean": "ciel gris"
+    },
+    {
+      "en": "snowing",
+      "mean": "glace blanche qui tombe"
+    }
+  ],
+  "tip": "Regardez par la fenêtre tous les matins et décrivez le temps en anglais. Par exemple, dites 'It is sunny' ou 'It is raining'.",
+  "quiz": [
+    {
+      "ask": "Choisissez la bonne question",
+      "en": "___ is the weather today?",
+      "choices": [
+        "How",
+        "What",
+        "Where",
+        "Who"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon mot pour un soleil radieux",
+      "en": "It is ___ today.",
+      "choices": [
+        "cold",
+        "rainy",
+        "sunny",
+        "snowing"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon mot pour une température élevée",
+      "en": "It is very ___ in summer.",
+      "choices": [
+        "hot",
+        "snowy",
+        "cold",
+        "cloudy"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon mot pour l'eau qui tombe",
+      "en": "Take an umbrella because it is ___.",
+      "choices": [
+        "sunny",
+        "raining",
+        "hot",
+        "windy"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon mot pour le ciel gris",
+      "en": "I cannot see the sun because it is ___.",
+      "choices": [
+        "cloudy",
+        "hot",
+        "sunny",
+        "raining"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon mot pour la glace d'hiver",
+      "en": "Put on a warm coat because it is ___.",
+      "choices": [
+        "sunny",
+        "hot",
+        "cold",
+        "windy"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

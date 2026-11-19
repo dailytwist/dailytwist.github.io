@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-23",
+  "slug": "there-is-there-are",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "🏠",
+  "title": "There is et There Are",
+  "summary": "Apprenez à parler des objets présents dans une pièce ou un lieu. Utilisez ces mots pour indiquer que quelque chose se trouve quelque part.",
+  "sections": [
+    {
+      "h": "Qu'est-ce que « There is » ?",
+      "p": "Nous utilisons « there is » pour une seule chose. C'est la forme singulière. On emploie souvent « a » ou « an » après. Par exemple, vous pouvez parler d'une pomme sur la table ou d'un chat dans le jardin. C'est très simple et très utile au quotidien.",
+      "ex": [
+        {
+          "en": "There is a book on the table.",
+          "mean": "Il y a un livre sur la table."
+        },
+        {
+          "en": "There is an apple in the bag.",
+          "mean": "Il y a une pomme dans le sac."
+        }
+      ]
+    },
+    {
+      "h": "Qu'est-ce que « There are » ?",
+      "p": "Nous utilisons « there are » pour deux choses ou plus. C'est la forme plurielle. On ajoute un « s » à la fin du nom. Par exemple, on parle de deux chats, de trois livres ou de beaucoup d'amis. Utilisez cette formule lorsque vous voyez plus d'un élément.",
+      "ex": [
+        {
+          "en": "There are three books on the table.",
+          "mean": "Il y a plus d'un livre sur la table."
+        },
+        {
+          "en": "There are two cats in the garden.",
+          "mean": "Il y a plus d'un chat dehors."
+        }
+      ]
+    },
+    {
+      "h": "Poser des questions",
+      "p": "Pour demander si quelque chose est présent, nous inversons l'ordre des mots. Nous plaçons « Is there » ou « Are there » au début de la phrase. Ensuite, nous pouvons répondre par « Yes, there is » ou « No, there are not ». Cela vous aide à demander des informations.",
+      "ex": [
+        {
+          "en": "Is there a pen?",
+          "mean": "Pour poser une question sur un seul stylo."
+        },
+        {
+          "en": "Are there any chairs?",
+          "mean": "Pour poser une question sur plusieurs chaises."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "there is",
+      "mean": "pour une seule chose"
+    },
+    {
+      "en": "there are",
+      "mean": "pour deux choses ou plus"
+    },
+    {
+      "en": "singular",
+      "mean": "un seul"
+    },
+    {
+      "en": "plural",
+      "mean": "deux ou plus"
+    },
+    {
+      "en": "table",
+      "mean": "un meuble pour manger ou travailler"
+    },
+    {
+      "en": "apple",
+      "mean": "un fruit rond rouge ou vert"
+    },
+    {
+      "en": "chair",
+      "mean": "un siège pour une personne"
+    }
+  ],
+  "tip": "Retenez bien : « is » est pour une seule chose (comme un serpent, long comme la lettre i), et « are » est pour plusieurs choses !",
+  "quiz": [
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "___ a cat on the sofa.",
+      "choices": [
+        "There are",
+        "There is",
+        "Is there"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "___ three dogs in the park.",
+      "choices": [
+        "There are",
+        "There is",
+        "Is there"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "___ an apple in my bag?",
+      "choices": [
+        "There is",
+        "There are",
+        "Is there"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "___ five chairs in the kitchen.",
+      "choices": [
+        "There is",
+        "There are",
+        "Are there"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "___ a water bottle on the desk.",
+      "choices": [
+        "There is",
+        "There are",
+        "Are there"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "___ any students in the classroom?",
+      "choices": [
+        "There are",
+        "Is there",
+        "Are there"
+      ],
+      "answer_index": 2
+    }
+  ]
+}
