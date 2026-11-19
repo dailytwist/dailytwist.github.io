@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-28",
+  "slug": "so-and-such",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🌟",
+  "title": "So und Such richtig verwenden",
+  "summary": "Erfahre, wie du 'so' und 'such' nutzt, um dein Englisch noch ausdrucksstarker zu machen. Du übst, Personen, Orte und Dinge mit noch mehr Gefühl zu beschreiben.",
+  "sections": [
+    {
+      "h": "'So' mit Adjektiven verwenden",
+      "p": "Wir verwenden 'so' vor einem Adjektiv, um es zu verstärken. Ein Adjektiv ist ein Wort, das ein Nomen beschreibt, wie zum Beispiel 'cold' (kalt), 'happy' (glücklich) oder 'expensive' (teuer). Du kannst 'so' in alltäglichen Gesprächen nutzen, um zu zeigen, was du wirklich über etwas denkst. Wenn das Wetter zum Beispiel richtig schön ist, kannst du sagen, dass es heute draußen so warm ist.",
+      "ex": [
+        {
+          "en": "The coffee is so hot!",
+          "mean": "The coffee is very hot."
+        },
+        {
+          "en": "She is so nice.",
+          "mean": "She is a very kind person."
+        },
+        {
+          "en": "This film is so boring.",
+          "mean": "This movie is not interesting at all."
+        }
+      ]
+    },
+    {
+      "h": "'Such' mit Nomen verwenden",
+      "p": "Wir verwenden 'such' vor einer Nominalphrase, die ein Adjektiv und ein Nomen zusammen enthält. Wenn das Nomen im Singular steht und zählbar ist, verwenden wir 'such a' oder 'such an'. Bei Pluralnomen oder unzählbaren Nomen nutzen wir einfach 'such' ohne 'a' oder 'an'. Das hilft dir, Dinge lebendig und verständlich zu beschreiben.",
+      "ex": [
+        {
+          "en": "It is such a nice day.",
+          "mean": "It is a very good day."
+        },
+        {
+          "en": "They are such good friends.",
+          "mean": "They are very good friends."
+        },
+        {
+          "en": "It was such bad weather.",
+          "mean": "The weather was very bad."
+        }
+      ]
+    },
+    {
+      "h": "'So' und 'Such' im Vergleich",
+      "p": "Der Hauptunterschied liegt darin, was direkt nach dem Wort folgt. Verwende 'so', wenn nur ein Adjektiv da ist. Verwende 'such', wenn ein Nomen folgt (mit oder ohne Adjektiv). Setze niemals 'a' oder 'an' nach 'so', aber verwende bei zählbaren Nomen im Singular nach 'such' immer 'a' oder 'an'.",
+      "ex": [
+        {
+          "en": "The test was so difficult.",
+          "mean": "Only an adjective follows 'so'."
+        },
+        {
+          "en": "It was such a difficult test.",
+          "mean": "A noun phrase follows 'such'."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "so",
+      "mean": "wird vor einem Adjektiv verwendet"
+    },
+    {
+      "en": "such",
+      "mean": "wird vor einem Nomen verwendet"
+    },
+    {
+      "en": "adjective",
+      "mean": "ein beschreibendes Wort"
+    },
+    {
+      "en": "noun",
+      "mean": "eine Person, ein Ort oder eine Sache"
+    },
+    {
+      "en": "expressive",
+      "mean": "zeigt starke Gefühle"
+    },
+    {
+      "en": "countable",
+      "mean": "Dinge, die man zählen kann"
+    },
+    {
+      "en": "uncountable",
+      "mean": "Dinge, die man nicht zählen kann"
+    }
+  ],
+  "tip": "Merk dir diese einfache Faustregel: 'So' steht allein mit einem Adjektiv, aber 'Such' braucht ein Nomen an seiner Hand!",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "The cake is ___ delicious!",
+      "choices": [
+        "such",
+        "so",
+        "such a"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "It is ___ beautiful day.",
+      "choices": [
+        "such a",
+        "so",
+        "such"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "They are ___ friendly people.",
+      "choices": [
+        "so",
+        "such a",
+        "such"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "His car is ___ fast.",
+      "choices": [
+        "such",
+        "such a",
+        "so"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "We had ___ great time at the party.",
+      "choices": [
+        "so",
+        "such a",
+        "such"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "The music is ___ loud!",
+      "choices": [
+        "such",
+        "such an",
+        "so"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

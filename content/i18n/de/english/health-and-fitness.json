@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-28",
+  "slug": "health-and-fitness",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "🏃",
+  "title": "Gesunder Körper, gesunder Geist",
+  "summary": "In dieser Lektion lernst du nützliche Wörter, um über Gesundheit und Fitness zu sprechen. Du übst außerdem, sie in alltäglichen Gesprächen zu verwenden.",
+  "sections": [
+    {
+      "h": "Über Bewegung sprechen",
+      "p": "Wenn wir stark und gesund bleiben wollen, müssen wir unseren Körper bewegen. Sport ist eine tolle Möglichkeit, Spaß zu haben und sich gut zu fühlen. Wir verwenden Ausdrücke wie 'work out' (trainieren), um zu sagen, dass wir ins Fitnessstudio gehen oder Sport machen. Eine weitere gute Gewohnheit ist es, sich vor dem Start aufzuwärmen ('warm up'), damit wir unsere Muskeln nicht verletzen. Regelmäßige Bewegung schenkt uns mehr Energie für unseren Alltag.",
+      "ex": [
+        {
+          "en": "I like to work out at the gym three times a week.",
+          "mean": "Ich trainiere dreimal die Woche im Fitnessstudio."
+        },
+        {
+          "en": "Always warm up before you start running.",
+          "mean": "Mache leichte Dehnübungen oder Bewegungen vor dem Laufen, damit du dich nicht verlezt."
+        }
+      ]
+    },
+    {
+      "h": "Gutes Essen essen",
+      "p": "Essen ist der Treibstoff für unseren Körper. Um gesund zu bleiben, sollten wir versuchen, uns mit vielen frischen Gemüse- und Obstsorten 'ausgewogen zu ernähren' ('balanced diet'). Jeden Tag genug Wasser zu trinken ist ebenfalls sehr wichtig. Manchmal haben wir Lust auf 'Junkfood' wie Burger oder Schokolade, aber wir sollten solche Sachen nur ab und zu essen, nicht jeden Tag.",
+      "ex": [
+        {
+          "en": "Eating a balanced diet helps you stay strong.",
+          "mean": "Die richtige Mischung aus gesunden Lebensmitteln hält dich stark."
+        },
+        {
+          "en": "Try to drink plenty of water during the day.",
+          "mean": "Trinke über den Tag verteilt viel Wasser."
+        }
+      ]
+    },
+    {
+      "h": "Ruhe und Erholung",
+      "p": "Hart zu arbeiten ist wichtig, aber Ruhe ist für unsere Gesundheit genauso wichtig. Wenn du dich müde fühlst, musst du langsam 'in Form kommen' ('get in shape') und deinen Körper nicht zu stark überfordern. Eine gute Nachtruhe hilft deinen Muskeln zu entspannen und gibt deinem Gehirn eine Pause, sodass du frisch und bereit aufwachst.",
+      "ex": [
+        {
+          "en": "You need to rest if your muscles feel sore.",
+          "mean": "Du solltest eine Pause einlegen, wenn dein Körper vom Sport schmerzt."
+        },
+        {
+          "en": "Sleeping eight hours a night is good for your health.",
+          "mean": "Acht Stunden Schlaf helfen dir dabei, gesund zu bleiben."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "work out",
+      "mean": "Trainieren"
+    },
+    {
+      "en": "warm up",
+      "mean": "Muskeln aufwärmen"
+    },
+    {
+      "en": "balanced diet",
+      "mean": "gesunder Ernährungsmix"
+    },
+    {
+      "en": "junk food",
+      "mean": "ungesunde Snacks"
+    },
+    {
+      "en": "sore",
+      "mean": "Muskelkater"
+    },
+    {
+      "en": "fit",
+      "mean": "gesund und stark"
+    },
+    {
+      "en": "energy",
+      "mean": "Energie haben"
+    },
+    {
+      "en": "relax",
+      "mean": "ausruhen und entspannen"
+    }
+  ],
+  "tip": "Versuche, jeden Tag ein neues Fitnesstwort zu verwenden, wenn du über deine Routine sprichst. Deine Ziele in ein Notizbuch zu schreiben hilft dir außerdem dabei, sie dir besser zu merken.",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "I like to ___ at the gym after I finish my work.",
+      "choices": [
+        "sleep",
+        "work out",
+        "eat"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "You should always ___ before you start running so you don't get hurt.",
+      "choices": [
+        "warm up",
+        "sit down",
+        "give up"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "Eating fruit and vegetables is part of a healthy ___.",
+      "choices": [
+        "junk food",
+        "sleep",
+        "balanced diet"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "My legs feel very ___ today because I ran a long way yesterday.",
+      "choices": [
+        "strong",
+        "sore",
+        "happy"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "Burgers and chips are often called ___ food.",
+      "choices": [
+        "junk",
+        "clean",
+        "green"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "Drinking enough water gives you more ___ during the day.",
+      "choices": [
+        "sleep",
+        "energy",
+        "food"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

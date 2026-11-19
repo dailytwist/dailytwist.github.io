@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-28",
+  "slug": "past-perfect",
+  "cefr": "B2",
+  "cat": "grammar",
+  "emoji": "⏳",
+  "title": "Über die Vergangenheit sprechen: Das Plusquamperfekt",
+  "summary": "In dieser Lektion lernst du, wie du über eine Handlung sprichst, die vor einer anderen Handlung in der Vergangenheit stattgefunden hat. Das hilft dir dabei, die genaue Reihenfolge vergangener Ereignisse zu zeigen.",
+  "sections": [
+    {
+      "h": "Was ist das Past Perfect?",
+      "p": "Wir verwenden das Past Perfect, wenn wir über die Vergangenheit sprechen und noch weiter zurückblicken möchten. Es wird mit „had“ und dem Partizip Perfekt des Vollverbs gebildet. Bei regelmäßigen Verben endet dies auf -ed. Bei unregelmäßigen Verben ist es eine spezielle Form wie „gone“, „seen“ oder „eaten“. Diese Zeitform hilft den Zuhörenden zu verstehen, welche Handlung in der Vergangenheit zuerst passiert ist.",
+      "ex": [
+        {
+          "en": "When I arrived at the station, the train had already left.",
+          "mean": "Der Zug fuhr zuerst ab. Ich kam als Zweites an."
+        },
+        {
+          "en": "She was tired because she had worked all day.",
+          "mean": "Sie arbeitete zuerst, danach fühlte sie sich müde."
+        }
+      ]
+    },
+    {
+      "h": "Wie man Sätze bildet",
+      "p": "Um einen positiven Satz zu bilden, verwendest du für alle Subjekte „had“ zusammen mit der dritten Verbform. Bei negativen Sätzen fügst du nach „had“ ein „not“ hinzu, sodass „hadn't“ entsteht. Um Fragen zu stellen, setzt du „had“ an den Anfang des Satzes vor das Subjekt. Das Hauptverb bleibt bei all diesen Satzarten immer in seiner Form als Partizip Perfekt.",
+      "ex": [
+        {
+          "en": "We hadn't eaten lunch yet, so we ordered a pizza.",
+          "mean": "Wir hatten nichts gegessen, bevor wir Essen bestellt haben."
+        },
+        {
+          "en": "Had you visited Paris before your trip last year?",
+          "mean": "Warst du zuvor schon einmal in Paris?"
+        }
+      ]
+    },
+    {
+      "h": "Past Simple und Past Perfect zusammen verwenden",
+      "p": "Wir nutzen das Past Simple und das Past Perfect oft im selben Satz. Das Past Simple steht für die jüngere Handlung und das Past Perfect für die weiter zurückliegende Handlung. Wörter wie „when“, „before“ und „after“ helfen uns, diese beiden Ereignisse fließend miteinander zu verknüpfen, damit der Zeitablauf für die Zuhörenden klar verständlich ist.",
+      "ex": [
+        {
+          "en": "After I had finished my homework, I went outside to play.",
+          "mean": "Die Hausaufgaben waren zuerst fertig, dann ging es ans Spielen."
+        },
+        {
+          "en": "He didn't recognize her because she had changed her hair.",
+          "mean": "Ihre Haare hatten sich verändert, deshalb hat er sie später nicht wiedererkannt."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "had",
+      "mean": "Hilfsverb für die Vergangenheit"
+    },
+    {
+      "en": "past participle",
+      "mean": "dritte Verbform"
+    },
+    {
+      "en": "earlier",
+      "mean": "zeitlich vor"
+    },
+    {
+      "en": "timeline",
+      "mean": "Reihenfolge der Ereignisse"
+    },
+    {
+      "en": "hadn't",
+      "mean": "hatte nicht"
+    },
+    {
+      "en": "already",
+      "mean": "vor jetzt"
+    },
+    {
+      "en": "yet",
+      "mean": "bis jetzt"
+    }
+  ],
+  "tip": "Betrachte das Plusquamperfekt wie eine Zeitmaschine, die dich noch einen Schritt weiter in die Vergangenheit zurückversetzt. Frag dich einfach immer: „Welche dieser beiden Dinge ist zuerst passiert?“",
+  "quiz": [
+    {
+      "ask": "Wähle die richtige Verbform",
+      "en": "By the time we got to the cinema, the movie ___ started.",
+      "choices": [
+        "had",
+        "has",
+        "have",
+        "was"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die richtige Verneinung",
+      "en": "She was hungry because she ___ eaten anything all day.",
+      "choices": [
+        "had",
+        "hadn't",
+        "hasn't",
+        "didn't"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Fragewort",
+      "en": "___ you locked the door before you left the house?",
+      "choices": [
+        "Did",
+        "Have",
+        "Had",
+        "Were"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Partizip Perfekt",
+      "en": "They ___ never seen snow before they moved to Canada.",
+      "choices": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das passende Wort für den Zeitstrahl",
+      "en": "I knew the city well because I ___ lived there for five years.",
+      "choices": [
+        "had",
+        "have",
+        "did",
+        "was"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die richtige Satzvervollständigung",
+      "en": "When the teacher walked in, the students ___ stopped talking.",
+      "choices": [
+        "have",
+        "did",
+        "had",
+        "are"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

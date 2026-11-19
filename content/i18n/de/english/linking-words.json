@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-28",
+  "slug": "linking-words",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🌉",
+  "title": "Deine Ideen verknüpfen: Bindewörter",
+  "summary": "In dieser Lektion lernst du, wie du deine Sätze klar miteinander verknüpfst. Wir schauen uns Wörter an, die Gründe und gegensätzliche Ideen ausdrücken.",
+  "sections": [
+    {
+      "h": "Gründe nennen: Weil und deshalb",
+      "p": "Wir verwenden 'because', um einen Grund für etwas zu nennen. Es beantwortet die Frage 'warum?'. Wir verwenden 'so', um über das Ergebnis einer Handlung zu sprechen. 'Because' steht vor dem Grund, während 'so' vor dem Ergebnis steht. Diese Wörter machen dein Sprechen und Schreiben viel natürlicher.",
+      "ex": [
+        {
+          "en": "I stayed at home because it was raining.",
+          "mean": "Der Regen ist der Grund, warum ich zu Hause geblieben bin."
+        },
+        {
+          "en": "It was raining, so I took an umbrella.",
+          "mean": "Einen Regenschirm mitzunehmen ist die Folge des Regens."
+        }
+      ]
+    },
+    {
+      "h": "Gegensätze ausdrücken: Obwohl",
+      "p": "Wir verwenden 'although', um einen unerwarteten Gegensatz zwischen zwei Ideen zu zeigen. Es zeigt uns, dass etwas passiert ist, obwohl es eine schwierige Situation gab. Es steht normalerweise am Anfang oder in der Mitte des Satzes.",
+      "ex": [
+        {
+          "en": "Although he was tired, he finished his homework.",
+          "mean": "Er war müde, hat aber trotzdem gearbeitet."
+        },
+        {
+          "en": "She bought the shoes although they were expensive.",
+          "mean": "Der Preis war hoch, aber sie hat sie trotzdem gekauft."
+        }
+      ]
+    },
+    {
+      "h": "Formelle Gegensätze: Jedoch und deshalb",
+      "p": "Wörter wie 'however' und 'therefore' werden oft beim Schreiben oder in formellerer Sprache verwendet. 'However' ähnelt 'although' und drückt einen Gegensatz aus. 'Therefore' ähnelt 'so' und zeigt ein direktes Ergebnis an. Normalerweise setzen wir danach ein Komma.",
+      "ex": [
+        {
+          "en": "The train was late. However, we arrived on time.",
+          "mean": "Der verspätete Zug war ein Problem, aber wir sind trotzdem früh genug angekommen."
+        },
+        {
+          "en": "He studied very hard; therefore, he passed the exam.",
+          "mean": "Seine harte Arbeit führte dazu, dass er den Test bestanden hat."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "because",
+      "mean": "nennt einen Grund"
+    },
+    {
+      "en": "so",
+      "mean": "zeigt ein Ergebnis"
+    },
+    {
+      "en": "although",
+      "mean": "zeigt einen Gegensatz"
+    },
+    {
+      "en": "however",
+      "mean": "trotzdem oder dennoch"
+    },
+    {
+      "en": "therefore",
+      "mean": "aus diesem Grund"
+    },
+    {
+      "en": "result",
+      "mean": "was als Nächstes passiert"
+    },
+    {
+      "en": "reason",
+      "mean": "warum etwas passiert"
+    }
+  ],
+  "tip": "Versuche, zwei wahre Sätze über deinen Tag zu schreiben, und verbinde sie dann mit 'because' oder 'so'. Übung macht den Meister!",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Bindewort",
+      "en": "I wore a coat ___ it was very cold outside.",
+      "choices": [
+        "because",
+        "so",
+        "however"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Bindewort",
+      "en": "She missed the bus, ___ she was late for work.",
+      "choices": [
+        "although",
+        "so",
+        "because"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Bindewort",
+      "en": "___ the test was difficult, he got a good grade.",
+      "choices": [
+        "Therefore",
+        "Because",
+        "Although"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Bindewort",
+      "en": "The hotel was old. ___, it was very clean and comfortable.",
+      "choices": [
+        "However",
+        "So",
+        "Because"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Bindewort",
+      "en": "They practiced every day; ___, they won the match.",
+      "choices": [
+        "although",
+        "therefore",
+        "however"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die richtige Option",
+      "en": "I love cooking, ___ I don't have much free time.",
+      "choices": [
+        "because",
+        "therefore",
+        "although"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

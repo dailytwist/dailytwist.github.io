@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-28",
+  "slug": "future-continuous-and-perfect",
+  "cefr": "B2",
+  "cat": "grammar",
+  "emoji": "🚀",
+  "title": "Der Blick nach vorn: Future Continuous und Future Perfect",
+  "summary": "In dieser Lektion lernst du, wie du zwei nützliche Futurzeiten verwendest. Du wirst in der Lage sein, über Handlungen zu sprechen, die in der Zukunft gerade ablaufen, oder über solche, die dann bereits abgeschlossen sind.",
+  "sections": [
+    {
+      "h": "Future Continuous (Verlaufsform der Zukunft)",
+      "p": "Verwende das Future Continuous, um über eine Handlung zu sprechen, die zu einem bestimmten Zeitpunkt in der Zukunft im Gange sein wird. Wir bilden es mit „will be“ plus dem Verb mit der Endung „-ing“. Stell dir ein Foto vor, das morgen um 20 Uhr aufgenommen wird: Was machst du auf diesem Bild? Genau dann verwendest du diese Zeitform.",
+      "ex": [
+        {
+          "en": "At 8 PM tonight, I will be watching my favorite TV show.",
+          "mean": "Die Handlung beginnt vor 20 Uhr und dauert nach 20 Uhr noch an."
+        },
+        {
+          "en": "Don't call me at noon because I will be having a team meeting.",
+          "mean": "Ich bin zu genau diesem Zeitpunkt mitten in einem Meeting."
+        }
+      ]
+    },
+    {
+      "h": "Future Perfect (Vollendete Zukunft)",
+      "p": "Verwende das Future Perfect, um über eine Handlung zu sprechen, die vor einem bestimmten Zeitpunkt in der Zukunft abgeschlossen sein wird. Wir bilden es mit „will have“ plus dem Partizip Perfekt des Verbs. Stell dir vor, du blickst von einem Punkt in der Zukunft zurück, um zu sagen, dass etwas bereits erledigt ist.",
+      "ex": [
+        {
+          "en": "By next Friday, I will have finished my big project.",
+          "mean": "Das Projekt ist abgeschlossen, bevor der nächste Freitag da ist."
+        },
+        {
+          "en": "She will have moved to a new apartment by the end of June.",
+          "mean": "Der Umzugsprozess ist vor Juli abgeschlossen."
+        }
+      ]
+    },
+    {
+      "h": "Vergleich beider Zeitformen",
+      "p": "Manchmal verwechseln Leute diese beiden Zeitformen, aber sie haben unterschiedliche Bedeutungen. Das Future Continuous konzentriert sich auf den Ablauf oder den Prozess, der zu einem zukünftigen Zeitpunkt stattfindet. Das Future Perfect konzentriert sich auf das Endergebnis, das bis zu einer zukünftigen Frist erreicht wird. Wähle die richtige Form, je nachdem, ob dir der Prozess oder die Ziellinie wichtiger ist.",
+      "ex": [
+        {
+          "en": "At 10 AM, I will be working on the report.",
+          "mean": "Ich bin genau zu dem Zeitpunkt mitten beim Schreiben."
+        },
+        {
+          "en": "By 10 AM, I will have sent the report.",
+          "mean": "Die Aufgabe ist vor 10 Uhr komplett erledigt."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Future continuous",
+      "mean": "eine fortlaufende Handlung in der Zukunft"
+    },
+    {
+      "en": "Future perfect",
+      "mean": "eine bereits abgeschlossene Handlung in der Zukunft"
+    },
+    {
+      "en": "In progress",
+      "mean": "passiert genau jetzt"
+    },
+    {
+      "en": "Deadline",
+      "mean": "die allerletzte Frist"
+    },
+    {
+      "en": "Past participle",
+      "mean": "dritte Verbform"
+    },
+    {
+      "en": "By the time",
+      "mean": "zu oder vor diesem Zeitpunkt"
+    },
+    {
+      "en": "Action",
+      "mean": "etwas, das du tust"
+    },
+    {
+      "en": "Result",
+      "mean": "das endgültige Ergebnis"
+    }
+  ],
+  "tip": "Denk an „will be“ für Handlungen, die sich über die Zeit erstrecken, und „will have“ für Fristen, bei denen Dinge bereits abgeschlossen sind.",
+  "quiz": [
+    {
+      "ask": "Wähle die richtige Zukunftsform",
+      "en": "This time tomorrow, we ___ on a sunny beach.",
+      "choices": [
+        "will be relaxing",
+        "will have relaxed",
+        "relaxing"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die richtige Zukunftsform",
+      "en": "By next year, they ___ a new house.",
+      "choices": [
+        "will be building",
+        "will have built",
+        "build"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die richtige Zukunftsform",
+      "en": "Don't visit at 3 PM because I ___ for my exam.",
+      "choices": [
+        "will have studied",
+        "studied",
+        "will be studying"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle die richtige Zukunftsform",
+      "en": "She ___ cooking dinner by the time you arrive.",
+      "choices": [
+        "will have finished",
+        "will be finishing",
+        "finishes"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die richtige Zukunftsform",
+      "en": "At midnight, most people ___ sleeping.",
+      "choices": [
+        "will have slept",
+        "will be",
+        "will be sleeping"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle die richtige Zukunftsform",
+      "en": "By the end of the month, I ___ all my books.",
+      "choices": [
+        "will have read",
+        "will be reading",
+        "read"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

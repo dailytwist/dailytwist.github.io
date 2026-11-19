@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-28",
+  "slug": "idioms-everyday",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "🎨",
+  "title": "10 alltägliche englische Redewendungen",
+  "summary": "Lerne 10 gängige englische Redewendungen, die Muttersprachler jeden Tag verwenden. Finde heraus, was sie wirklich bedeuten, damit du natürlicher klingen kannst.",
+  "sections": [
+    {
+      "h": "Farben und Stimmungen",
+      "p": "Englischsprachige Menschen verwenden oft Farben, um über ihre Gefühle zu sprechen. Wenn du traurig bist, fühlst du dich vielleicht blau. Wenn du ein Überraschungsgeschenk oder gute Nachrichten wie aus dem Nichts bekommst, passiert das völlig überraschend. Diese farbenfrohen Ausdrücke machen tägliche Unterhaltungen viel interessanter und unterhaltsamer anzuhören.",
+      "ex": [
+        {
+          "en": "I was feeling a bit blue yesterday, so I watched my favorite comedy movie.",
+          "mean": "Ich habe mich gestern etwas traurig gefühlt, deshalb habe ich mir meine Lieblingskomödie angesehen."
+        },
+        {
+          "en": "The job offer came out of the blue, and I was so happy.",
+          "mean": "Das Jobangebot kam völlig unerwartet, und ich war so glücklich."
+        },
+        {
+          "en": "She passed her driving test with flying colors.",
+          "mean": "Sie hat ihre Fahrprüfung mit einer sehr hohen Punktzahl und großem Erfolg bestanden."
+        }
+      ]
+    },
+    {
+      "h": "Essen und Tiere",
+      "p": "Essen und Tiere sind in englischen Redewendungen sehr beliebt. Wenn du vor einer großen Präsentation sehr nervös bist, spürst du vielleicht kleine Kreaturen, die sich in deinem Bauch bewegen. Oder wenn du versehentlich ein Geheimnis verrätst, das eigentlich verborgen bleiben sollte, bereitest du allen große Probleme.",
+      "ex": [
+        {
+          "en": "I had butterflies in my stomach before going on stage.",
+          "mean": "Ich war vor dem Gang auf die Bühne sehr nervös."
+        },
+        {
+          "en": "Who spilled the beans about the surprise party?",
+          "mean": "Wer hat das Geheimnis über die Überraschungsparty ausgeplaudert?"
+        },
+        {
+          "en": "Let's call it a day and go home.",
+          "mean": "Lass uns für heute mit der Arbeit aufhören und nach Hause gehen."
+        }
+      ]
+    },
+    {
+      "h": "Handlung und Erfolg",
+      "p": "Um über den Beginn einer Aufgabe oder die Bewältigung einer schwierigen Situation zu sprechen, verwenden Muttersprachler aktionsbasierte Ausdrücke. Anstatt lange zu reden, bittet dich vielleicht jemand, direkt zum Hauptpunkt zu kommen. Wenn du etwas perfekt machst, triffst du genau ins Schwarze.",
+      "ex": [
+        {
+          "en": "Stop beating around the bush and tell me what you think.",
+          "mean": "Rede nicht länger um den heißen Brei herum und sag mir, was du denkst."
+        },
+        {
+          "en": "You hit the nail on the head with that guess.",
+          "mean": "Du hast die Situation oder die Antwort absolut treffend beschrieben."
+        },
+        {
+          "en": "Under the weather, I decided to stay in bed.",
+          "mean": "Da ich mich etwas unwohl fühlte, beschloss ich, im Bett zu bleiben."
+        },
+        {
+          "en": "Cost an arm and a leg, but the laptop is great.",
+          "mean": "War sehr teuer, aber der Laptop ist großartig."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "feel blue",
+      "mean": "traurig sein"
+    },
+    {
+      "en": "out of the blue",
+      "mean": "unerwartet"
+    },
+    {
+      "en": "flying colors",
+      "mean": "großer Erfolg"
+    },
+    {
+      "en": "butterflies in my stomach",
+      "mean": "nervös sein"
+    },
+    {
+      "en": "spill the beans",
+      "mean": "ein Geheimnis verraten"
+    },
+    {
+      "en": "call it a day",
+      "mean": "aufhören zu arbeiten"
+    },
+    {
+      "en": "beat around the bush",
+      "mean": "um den heißen Brei herumreden"
+    },
+    {
+      "en": "hit the nail on the head",
+      "mean": "völlig recht haben"
+    },
+    {
+      "en": "under the weather",
+      "mean": "sich etwas unwohl fühlen"
+    },
+    {
+      "en": "cost an arm and a leg",
+      "mean": "sehr teuer"
+    }
+  ],
+  "tip": "Übersetze Redewendungen niemals wortwörtlich in deine Muttersprache, da sie dann keinen Sinn ergeben. Versuche stattdessen, die gesamte Phrase als eine einzige Einheit zu lernen.",
+  "quiz": [
+    {
+      "ask": "Wähle die richtige Redewendungen für traurig sein.",
+      "en": "Lately, John has been feeling ___ because his best friend moved away.",
+      "choices": [
+        "red",
+        "blue",
+        "green"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die richtige Redewendungen für die Arbeit beenden.",
+      "en": "We have worked for eight hours. Let's ___ and go home.",
+      "choices": [
+        "call it a day",
+        "spill the beans",
+        "hit the nail"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die richtige Redewendungen für ein Geheimnis verraten.",
+      "en": "Mark accidentally ___ about the holiday destination.",
+      "choices": [
+        "ate the cake",
+        "spilled the beans",
+        "beat the bush"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die richtige Redewendungen für etwas sehr Teures.",
+      "en": "That new sports car must ___!",
+      "choices": [
+        "be very cheap",
+        "cost an arm and a leg",
+        "fly with colors"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die richtige Redewendungen für nervös sein.",
+      "en": "I always get ___ before a job interview.",
+      "choices": [
+        "blue skies",
+        "flying colors",
+        "butterflies in my stomach"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle die richtige Redewendungen für recht haben.",
+      "en": "Your explanation of the problem really ___.",
+      "choices": [
+        "hit the nail on the head",
+        "spilled the beans",
+        "felt blue"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

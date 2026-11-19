@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-28",
+  "slug": "wish-and-if-only",
+  "cefr": "B2",
+  "cat": "grammar",
+  "emoji": "💭",
+  "title": "Über Bedauern sprechen: Wish und If Only",
+  "summary": "Lerne, wie du wish und if only verwendest, um über Dinge zu sprechen, die du gerne ändern würdest. Meistere den Ausdruck von Bedauern über die Gegenwart und die Vergangenheit.",
+  "sections": [
+    {
+      "h": "Wünsche für die Gegenwart",
+      "p": "Wir verwenden wish oder if only in Kombination mit dem Past Simple, um über Dinge zu sprechen, die wir jetzt gerne ändern würden, aber nicht können. Obwohl wir eine Vergangenheitsform verwenden, sprechen wir über den aktuellen Moment. Das ist äußerst praktisch, um den starken Wunsch nach einer anderen Realität im Hier und Jetzt auszudrücken.",
+      "ex": [
+        {
+          "en": "I wish I had more free time.",
+          "mean": "Ich habe im Moment nicht genug Freizeit, und das bedaure ich."
+        },
+        {
+          "en": "If only I lived closer to the beach.",
+          "mean": "Ich wohne jetzt weit weg vom Strand, aber ich würde unglaublich gerne in Meeresnähe wohnen."
+        },
+        {
+          "en": "She wishes she could speak French.",
+          "mean": "Sie kann im Augenblick kein Französisch sprechen, würde es aber gerne können."
+        }
+      ]
+    },
+    {
+      "h": "Bedauern über die Vergangenheit",
+      "p": "Wenn wir über Fehler sprechen möchten, die wir in der Vergangenheit gemacht haben, nutzen wir wish oder if only zusammen mit dem Past Perfect (had + Partizip Perfekt). Diese Struktur hilft uns dabei, auf den gestrigen Tag oder das letzte Jahr zurückzublicken und uns ein anderes Ergebnis auszumalen, auch wenn wir die Geschichte nicht mehr rückgängig machen können.",
+      "ex": [
+        {
+          "en": "I wish I had studied harder for the exam.",
+          "mean": "Ich habe früher nicht fleißig gelernt, und jetzt ärgere ich mich über meine schlechte Note."
+        },
+        {
+          "en": "If only we had left the house earlier.",
+          "mean": "Wir sind spät losgegangen und haben deshalb unseren Zug verpasst."
+        }
+      ]
+    },
+    {
+      "h": "Nervige Gewohnheiten mit Could und Would",
+      "p": "Wir verwenden wish oder if only außerdem in Verbindung mit would, um uns über die nervigen Angewohnheiten anderer Leute zu beschweren oder uns zu wünschen, dass sich eine Situation ändert. Um über unsere eigene Fähigkeit zu sprechen, in Zukunft etwas zu verändern, benutzen wir could.",
+      "ex": [
+        {
+          "en": "I wish you would stop making that loud noise.",
+          "mean": "Du machst im Moment einen Heidenlärm, und ich möchte, dass du damit aufhörst."
+        },
+        {
+          "en": "If only it would stop raining.",
+          "mean": "Es regnet gerade, und ich will, dass der Regen bald aufhört."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "wish",
+      "mean": "etwas anderes wollen"
+    },
+    {
+      "en": "if only",
+      "mean": "eine nachdrücklichere Art, wish zu sagen"
+    },
+    {
+      "en": "regret",
+      "mean": "Traurigkeit oder Reue über vergangene Taten"
+    },
+    {
+      "en": "past simple",
+      "mean": "die Zeitform für Wünsche in der Gegenwart"
+    },
+    {
+      "en": "past perfect",
+      "mean": "had plus Partizip Perfekt"
+    },
+    {
+      "en": "annoying habit",
+      "mean": "irritierendes, wiederkehrendes Verhalten"
+    },
+    {
+      "en": "reality",
+      "mean": "wie die Dinge wirklich sind"
+    }
+  ],
+  "tip": "Denke daran, dass du bei Wünschen für die Gegenwart in der Zeitform einen Schritt zurück in die Vergangenheit gehen musst. Stell dir einfach vor, du wünschst dir eine alternative Realität!",
+  "quiz": [
+    {
+      "ask": "Wähle die richtige Form für einen Wunsch in der Gegenwart",
+      "en": "I wish I ___ a bigger apartment.",
+      "choices": [
+        "have",
+        "had",
+        "will have",
+        "having"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die richtige Form für ein Bedauern in der Vergangenheit",
+      "en": "If only I ___ my phone at home yesterday.",
+      "choices": [
+        "didn't leave",
+        "hadn't left",
+        "haven't left",
+        "wouldn't leave"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die beste Option aus, um den Satz zu vervollständigen",
+      "en": "She wishes she ___ drive a car, but she is too young.",
+      "choices": [
+        "can",
+        "could",
+        "will",
+        "would"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle den passenden Ausdruck für eine Beschwerde über ein Verhalten",
+      "en": "I wish you ___ leave your muddy shoes by the door.",
+      "choices": [
+        "won't",
+        "don't",
+        "wouldn't",
+        "haven't"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle die richtige Option",
+      "en": "If only the weather ___ nicer tomorrow.",
+      "choices": [
+        "is",
+        "were",
+        "has been",
+        "will be"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Vervollständige den Satz über ein vergangenes Bedauern",
+      "en": "He wishes he ___ the truth to his parents.",
+      "choices": [
+        "told",
+        "had told",
+        "tells",
+        "would tell"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

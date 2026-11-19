@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-28",
+  "slug": "money-and-banking",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "💳",
+  "title": "Über Geld und Banken sprechen",
+  "summary": "Lerne nützliche Wörter, um dein Geld auf der Bank zu verwalten. Du übst, wie man über das Sparen, Ausgeben und die Nutzung von Konten spricht.",
+  "sections": [
+    {
+      "h": "Dein Geld sicher aufbewahren",
+      "p": "Wenn du Geld hast, brauchst du einen sicheren Ort dafür. Eine Bank ist ein Unternehmen, das auf dein Geld aufpasst. Du kannst ein Bankkonto eröffnen, das sozusagen dein persönlicher Bereich bei der Bank ist. Jeden Monat erhältst du vielleicht einen Kontoauszug. Das ist ein Zettel oder eine digitale Datei, die zeigt, wie viel Geld ein- und ausgegangen ist.",
+      "ex": [
+        {
+          "en": "I need to open a new bank account today.",
+          "mean": "Ich möchte eine neue Geschäftsbeziehung mit einer Bank eingehen, um mein Geld aufzubewahren."
+        },
+        {
+          "en": "Please check your bank statement to see where your money went.",
+          "mean": "Sieh dir die Liste deiner letzten Finanzaktivitäten an."
+        }
+      ]
+    },
+    {
+      "h": "Geld einzahlen und abheben",
+      "p": "Wenn du arbeitest, zahlt dir dein Arbeitgeber Geld aus. Du kannst dieses Geld auf dein Konto einzahlen, das bedeutet, du legst es dort an. Wenn du Bargeld brauchst, um Lebensmittel oder Kleidung zu kaufen, kannst du Geld abheben – also mit einer Girokarte am Geldautomaten oder am Schalter von deinem Konto nehmen.",
+      "ex": [
+        {
+          "en": "I will deposit my paycheck into my savings account.",
+          "mean": "Ich werde das von mir verdiente Geld auf die Bank bringen."
+        },
+        {
+          "en": "I need to withdraw some cash for the bus.",
+          "mean": "Ich muss physisches Geld aus dem Bankautomaten holen."
+        }
+      ]
+    },
+    {
+      "h": "Für die Zukunft sparen",
+      "p": "Es ist immer eine gute Idee, etwas Geld für später zurückzulegen. Das nennt man Sparen. Du kannst überschüssiges Geld auf ein Sparkonto einzahlen. Manchmal gibt dir die Bank als Belohnung dafür, dass du dein Geld dort parkst, ein bisschen extra Geld. Dieses zusätzliche Geld nennt man Zinsen.",
+      "ex": [
+        {
+          "en": "I am trying to save money for a nice holiday.",
+          "mean": "Ich behalte mein Geld, anstatt es jetzt sofort auszugeben."
+        },
+        {
+          "en": "This account gives me a good rate of interest.",
+          "mean": "Die Bank zahlt mir ein bisschen zusätzliches Geld dafür, dass ich ihr Konto nutze."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "bank account",
+      "mean": "Persönliches Schließfach bei einer Bank"
+    },
+    {
+      "en": "deposit",
+      "mean": "Geld einzahlen"
+    },
+    {
+      "en": "withdraw",
+      "mean": "Geld abheben"
+    },
+    {
+      "en": "savings account",
+      "mean": "Sparkonto"
+    },
+    {
+      "en": "bank statement",
+      "mean": "Kontoauszug"
+    },
+    {
+      "en": "interest",
+      "mean": "Zinsen von der Bank"
+    },
+    {
+      "en": "ATM",
+      "mean": "Geldautomat"
+    }
+  ],
+  "tip": "Versuche, die Dinge in deiner Umgebung mit englischen Bankbegriffen zu beschriften, indem du zum Beispiel „ATM“ auf das Bild eines Geldautomaten schreibst, um es dir leichter zu merken.",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "I need to ___ some money out of the machine to buy lunch.",
+      "choices": [
+        "deposit",
+        "withdraw",
+        "save"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "She wants to open a new ___ at the local bank.",
+      "choices": [
+        "bank account",
+        "ATM",
+        "statement"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "Every month, I look at my ___ to see my spending.",
+      "choices": [
+        "interest",
+        "cash",
+        "bank statement"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "I will ___ my paycheck into the bank this afternoon.",
+      "choices": [
+        "deposit",
+        "withdraw",
+        "borrow"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "The bank pays me a little ___ on the money I keep there.",
+      "choices": [
+        "statement",
+        "interest",
+        "account"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "I need to find an ___ to get some paper money.",
+      "choices": [
+        "account",
+        "interest",
+        "ATM"
+      ],
+      "answer_index": 2
+    }
+  ]
+}
