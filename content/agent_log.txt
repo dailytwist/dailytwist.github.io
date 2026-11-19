@@ -1,148 +1,57 @@
-::warning::Gemini models available: gemini-2.5-flash, gemini-2.5-pro, gemini-2.5-flash-preview-tts, gemini-2.5-pro-preview-tts, gemma-4-26b-a4b-it, gemma-4-31b-it, gemini-flash-latest, gemini-flash-lite-latest, gemini-pro-latest, gemini-2.5-flash-lite, gemini-2.5-flash-image, gemini-3-flash-preview, gemini-3.1-pro-preview, gemini-3.1-pro-preview-customtools, gemini-3.1-flash-lite-preview, gemini-3.1-flash-lite, gemini-3-pro-image-preview, gemini-3-pro-image, nano-banana-pro-preview, gemini-3.1-flash-image-preview, gemini-3.1-flash-image, gemini-3.1-flash-lite-image, gemini-nano-banana-2.1, gemini-3.5-flash, gemini-3.5-flash-lite, gemini-omni-flash-preview, gemini-omni-1.1-flash, gemini-omni-1.2-flash, gemini-3.5-transcribe, gemini-3.6-flash, gemini-3.7-flash, gemini-3.8-flash, gemini-4-argon, gemini-4-carbon, gemini-4-hydrogen, lyria-3-clip-preview, lyria-3-pro-preview, lyria-3.5, gemini-3.1-flash-tts-preview, gemini-3.8-flash-tts
+- horoscopes 2026-11-19
+::warning::Gemini models available: gemini-2.5-flash, gemini-2.5-pro, gemini-2.5-flash-preview-tts, gemini-2.5-pro-preview-tts, gemma-4-26b-a4b-it, gemma-4-31b-it, gemini-flash-latest, gemini-flash-lite-latest, gemini-pro-latest, gemini-2.5-flash-lite, gemini-2.5-flash-image, gemini-3-flash-preview, gemini-3.1-pro-preview, gemini-3.1-pro-preview-customtools, gemini-3.1-flash-lite-preview, gemini-3.1-flash-lite, gemini-3-pro-image-preview, gemini-3-pro-image, nano-banana-pro-preview, gemini-3.1-flash-image-preview, gemini-3.1-flash-image, gemini-3.1-flash-lite-image, gemini-nano-banana-2.1, gemini-3.5-flash, gemini-3.5-flash-lite, gemini-omni-flash-preview, gemini-omni-1.1-flash, gemini-omni-1.2-flash, gemini-3.5-transcribe, gemini-3.6-flash, gemini-3.7-flash, gemini-3.8-flash, gemini-4-argon, gemini-4-carbon, gemini-4-hydrogen, gemini-4-neon, lyria-3-clip-preview, lyria-3-pro-preview, lyria-3.5, gemini-3.1-flash-tts-preview
 ::warning::using Gemini model: gemini-3.5-flash-lite
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 3/4 in 30s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 4/4 in 40s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
+  saved content/horoscopes/2026-11-19.json
+- trivia 2026-11-19
+  saved content/trivia/2026-11-19.json
+  saved content/i18n/es/horoscopes/2026-11-19.json
+  saved content/i18n/es/trivia/2026-11-19.json
 ::warning::translate articles/who-is-anthony-joshua-the-heavyweight-champion-s-journey.json -> es failed: translated JSON has a different structure
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 3/4 in 30s
-  saved content/i18n/fr/names/thomas.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  saved content/i18n/fr/names/nathan.json
-  saved content/i18n/fr/names/matteo.json
-  saved content/i18n/fr/names/max.json
-  saved content/i18n/fr/names/david.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/fr/names/theo.json
-  saved content/i18n/de/names/sophia.json
-  saved content/i18n/de/names/amelia.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  saved content/i18n/de/names/manon.json
-  saved content/i18n/de/names/chloe.json
-  saved content/i18n/de/names/alice.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 3/4 in 30s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 4/4 in 40s
-  saved content/i18n/de/names/ava.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/de/names/basma.json
-  saved content/i18n/de/names/zoe.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/de/articles/what-is-the-dc-universe-a-guide-to-the-iconic-franchise.json
-  saved content/i18n/pt/guides/birthday-november-22.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/pt/guides/birthday-november-24.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  saved content/i18n/pt/guides/birthday-november-19.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 3/4 in 30s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 4/4 in 40s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 3/4 in 30s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 4/4 in 40s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 3/4 in 30s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 4/4 in 40s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 3/4 in 30s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 4/4 in 40s
-  saved content/i18n/it/guides/birthday-june-25.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/it/names/jasmine.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  saved content/i18n/it/names/natalia.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 3/4 in 30s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 4/4 in 40s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 3/4 in 30s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 4/4 in 40s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  saved content/i18n/it/names/valeria.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  saved content/i18n/it/names/alicia.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  saved content/i18n/it/names/ximena.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  saved content/i18n/it/names/bianca.json
-  saved content/i18n/it/names/louise.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  saved content/i18n/it/names/helena.json
-  saved content/i18n/ja/guides/birthday-november-22.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  saved content/i18n/ja/guides/birthday-november-24.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/ja/guides/birthday-november-19.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/ar/guides/birthday-november-15.json
-  saved content/i18n/ar/guides/birthday-november-16.json
-  saved content/i18n/ar/guides/birthday-november-23.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
+  saved content/i18n/fr/horoscopes/2026-11-19.json
+  saved content/i18n/fr/trivia/2026-11-19.json
+  saved content/i18n/fr/articles/the-magic-of-amusement-parks-history-and-thrills.json
+  saved content/i18n/fr/articles/how-to-use-oracle-cards-a-beginner-s-guide.json
+  saved content/i18n/fr/articles/the-oracle-of-delphi-history-legends-and-real-science.json
+  saved content/i18n/fr/guides/birthstone-june.json
+  saved content/i18n/de/horoscopes/2026-11-19.json
+  saved content/i18n/de/trivia/2026-11-19.json
+  saved content/i18n/de/guides/birthday-april-28.json
+  saved content/i18n/de/guides/birthday-april-18.json
+  saved content/i18n/de/guides/birthday-april-24.json
+  saved content/i18n/de/guides/birthday-april-19.json
+  saved content/i18n/de/guides/birthday-april-20.json
+  saved content/i18n/de/guides/birthday-april-14.json
+  saved content/i18n/de/guides/birthday-april-27.json
+  saved content/i18n/pt/horoscopes/2026-11-19.json
+  saved content/i18n/pt/trivia/2026-11-19.json
+  saved content/i18n/pt/guides/birthday-november-18.json
+  saved content/i18n/it/horoscopes/2026-11-19.json
+  saved content/i18n/it/trivia/2026-11-19.json
+  saved content/i18n/it/names/alessia.json
+  saved content/i18n/it/names/jade.json
+  saved content/i18n/it/names/larissa.json
+  saved content/i18n/it/names/mariana.json
+  saved content/i18n/it/names/leticia.json
+  saved content/i18n/it/names/matilde.json
+  saved content/i18n/it/names/rose.json
+  saved content/i18n/ja/horoscopes/2026-11-19.json
+  saved content/i18n/ja/trivia/2026-11-19.json
+  saved content/i18n/ja/guides/birthday-november-18.json
+  saved content/i18n/ar/horoscopes/2026-11-19.json
+  saved content/i18n/ar/trivia/2026-11-19.json
+  saved content/i18n/ar/articles/what-is-nintendo-switch-firmware-the-complete-guide.json
 ::warning::translate articles/who-is-anthony-joshua-the-heavyweight-champion-s-journey.json -> es failed: translated JSON has a different structure
-  saved content/i18n/fr/names/michael.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  saved content/i18n/fr/names/lorenzo.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/fr/names/felix.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/fr/names/marco.json
-  saved content/i18n/fr/names/luca.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 3/4 in 30s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 4/4 in 40s
-  saved content/i18n/fr/names/elias.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/de/articles/a-guide-to-ai-games-on-steam-how-artificial-intelligence-works.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  saved content/i18n/de/articles/sagittarius-personality-strengths-weaknesses-explained.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 3/4 in 30s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 4/4 in 40s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/de/dreams/lightning.json
-  saved content/i18n/de/dreams/toilet.json
-  saved content/i18n/de/dreams/river.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/de/dreams/earthquake.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 3/4 in 30s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 4/4 in 40s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/de/dreams/illness.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 3/4 in 30s
-  saved content/i18n/de/guides/birthday-april-13.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 2/4 in 20s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 3/4 in 30s
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 4/4 in 40s
-  saved content/i18n/de/guides/birthday-april-15.json
+  saved content/i18n/fr/guides/birthday-january-30.json
+  saved content/i18n/fr/guides/birthstone-august.json
+  saved content/i18n/fr/guides/birthday-january-19.json
+  saved content/i18n/fr/guides/tarot-the-tower.json
+  saved content/i18n/fr/guides/tarot-the-devil.json
+  saved content/i18n/fr/guides/angel-1010.json
+  saved content/i18n/de/guides/birthday-april-21.json
+  saved content/i18n/de/guides/birthday-april-25.json
+  saved content/i18n/de/guides/birthday-april-23.json
+  saved content/i18n/de/guides/birthday-april-17.json
+  saved content/i18n/de/guides/birthday-april-16.json
+  saved content/i18n/de/guides/birthday-april-12.json
+  saved content/i18n/de/guides/birthday-april-22.json
 Agent finished.

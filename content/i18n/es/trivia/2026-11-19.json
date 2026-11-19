@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-19",
+  "title": "Test de trivia diaria del 19 de noviembre de 2026",
+  "questions": [
+    {
+      "category": "Geografía",
+      "question": "¿Cuál de estos países no tiene salida al mar?",
+      "options": [
+        "Bolivia",
+        "Vietnam",
+        "Portugal",
+        "Tailandia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Bolivia es uno de los dos países sin salida al mar en Sudamérica, junto con Paraguay.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Ciencia",
+      "question": "¿Cuál es el número atómico del elemento carbono?",
+      "options": [
+        "8",
+        "6",
+        "12",
+        "14"
+      ],
+      "answer_index": 1,
+      "fun_fact": "El carbono tiene un número atómico de 6, lo que significa que cada átomo de carbono tiene 6 protones en su núcleo.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Animales",
+      "question": "¿Cuál es el animal terrestre más rápido del mundo?",
+      "options": [
+        "Cheetah",
+        "Quarter Horse",
+        "León",
+        "Pronghorn"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El guepardo puede acelerar de 0 a 60 mph en apenas unos segundos.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Historia",
+      "question": "¿En qué año se hundió el Titanic en el Océano Atlántico Norte durante su viaje inaugural?",
+      "options": [
+        "1912",
+        "1923",
+        "1918",
+        "1905"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El RMS Titanic chocó contra un iceberg la noche del 14 de abril de 1912 y se hundió horas después.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Películas y cultura pop",
+      "question": "¿Qué película animada de Disney incluye la canción 'A Whole New World'?",
+      "options": [
+        "Mulan",
+        "La Bella y la Bestia",
+        "Aladdin",
+        "El Rey León"
+      ],
+      "answer_index": 2,
+      "fun_fact": "'A Whole New World' ganó el Óscar a la mejor canción original en la 65.ª edición de los Premios Óscar.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Comida",
+      "question": "El paneer es un tipo de queso fresco comúnmente utilizado en la gastronomía de qué país?",
+      "options": [
+        "India",
+        "México",
+        "Grecia",
+        "Francia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El paneer es un queso fresco, coagulado con ácido y que no se derrite, el cual mantiene muy bien su forma al cocinarlo.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Deportes",
+      "question": "¿Cuántos jugadores conforman un equipo titular en el campo en un partido estándar de fútbol (soccer)?",
+      "options": [
+        "11",
+        "10",
+        "9",
+        "12"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Cada uno de los dos equipos en un partido de fútbol estándar alinea hasta 11 jugadores a la vez, incluyendo al portero.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Idioma",
+      "question": "¿Cuál es el término lingüístico para una palabra que se lee igual al derecho y al revés, como 'kayak'?",
+      "options": [
+        "Homónimo",
+        "Acrónimo",
+        "Palíndromo",
+        "Sinónimo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La palabra 'palíndromo' proviene de raíces griegas que significan 'correr hacia atrás otra vez'.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Espacio",
+      "question": "¿Cuál de las lunas galileanas de Júpiter es el cuerpo con mayor actividad volcánica en nuestro sistema solar?",
+      "options": [
+        "Europa",
+        "Ganímedes",
+        "Calisto",
+        "Ío"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La intensa actividad volcánica de Ío es impulsada por el calentamiento de marea generado por sus interacciones gravitacionales con Júpiter y otras lunas.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Ciencia",
+      "question": "¿Cuál es el mineral natural más duro conocido en la escala de dureza de Mohs?",
+      "options": [
+        "Diamante",
+        "Topacio",
+        "Corindón",
+        "Cuarzo"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El diamante ocupa la máxima puntuación de 10 en la escala de dureza de Mohs.",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-19",
+  "title": "Quiz de Conhecimentos Gerais do Dia 19 de Novembro de 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Qual destes países é totalmente sem saída para o mar?",
+      "options": [
+        "Bolívia",
+        "Vietnã",
+        "Portugal",
+        "Tailândia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "A Bolívia é um dos dois países sem litoral na América do Sul, junto com o Paraguai.",
+      "difficulty": "fácil"
+    },
+    {
+      "category": "Ciência",
+      "question": "Qual é o número atômico do elemento carbono?",
+      "options": [
+        "8",
+        "6",
+        "12",
+        "14"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O carbono tem número atômico 6, o que significa que cada átomo de carbono possui 6 prótons em seu núcleo.",
+      "difficulty": "fácil"
+    },
+    {
+      "category": "Animais",
+      "question": "Qual é o animal terrestre mais rápido do mundo?",
+      "options": [
+        "Guepardo",
+        "Quarto de Milha",
+        "Leão",
+        "Antilocapra"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O guepardo consegue acelerar de 0 a 96 km/h em apenas alguns segundos.",
+      "difficulty": "fácil"
+    },
+    {
+      "category": "História",
+      "question": "Em que ano o Titanic afundou no Oceano Atlântico Norte em sua viagem inaugural?",
+      "options": [
+        "1912",
+        "1923",
+        "1918",
+        "1905"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O RMS Titanic atingiu um iceberg na noite de 14 de abril de 1912 e afundou horas depois.",
+      "difficulty": "médio"
+    },
+    {
+      "category": "Filmes e Cultura Pop",
+      "question": "Qual animação da Disney apresenta a música 'Um Mundo Ideal'?",
+      "options": [
+        "Mulan",
+        "A Bela e a Fera",
+        "Aladdin",
+        "O Rei Leão"
+      ],
+      "answer_index": 2,
+      "fun_fact": "'Um Mundo Ideal' ganhou o Oscar de Melhor Canção Original na 65ª edição do Oscar.",
+      "difficulty": "médio"
+    },
+    {
+      "category": "Comida",
+      "question": "O paneer é um tipo de queijo fresco comumente usado na culinária de qual país?",
+      "options": [
+        "Índia",
+        "México",
+        "Grécia",
+        "França"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O paneer é um queijo fresco coagulado por ácido, que não derrete e mantém sua forma quando cozido.",
+      "difficulty": "médio"
+    },
+    {
+      "category": "Esportes",
+      "question": "Quantos jogadores compõem um time titular em campo em uma partida padrão de futebol?",
+      "options": [
+        "11",
+        "10",
+        "9",
+        "12"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Cada uma das duas equipes em uma partida de futebol padrão coloca até 11 jogadores em campo por vez, incluindo o goleiro.",
+      "difficulty": "médio"
+    },
+    {
+      "category": "Idioma",
+      "question": "Qual é o termo linguístico para uma palavra que se lê da mesma forma de trás para frente, como 'arara'?",
+      "options": [
+        "Homônimo",
+        "Acrônimo",
+        "Palíndromo",
+        "Sinônimo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A palavra 'palíndromo' deriva de raízes gregas que significam 'correr de volta'.",
+      "difficulty": "difícil"
+    },
+    {
+      "category": "Espaço",
+      "question": "Qual das luas galileanas de Júpiter é o corpo celeste mais vulcanicamente ativo do nosso sistema solar?",
+      "options": [
+        "Europa",
+        "Ganimedes",
+        "Calisto",
+        "Io"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A intensa atividade vulcânica de Io é impulsionada pelo aquecimento de maré causado por suas interações gravitacionais com Júpiter e outras luas.",
+      "difficulty": "difícil"
+    },
+    {
+      "category": "Ciência",
+      "question": "Qual é o mineral natural mais duro conhecido na escala de dureza de Mohs?",
+      "options": [
+        "Diamante",
+        "Topázio",
+        "Coríndon",
+        "Quartzo"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O diamante ocupa a classificação máxima de 10 na escala de dureza de Mohs.",
+      "difficulty": "difícil"
+    }
+  ]
+}

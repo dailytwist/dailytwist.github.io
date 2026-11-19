@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-19",
+  "title": "Tages-Quiz vom 19. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches dieser Länder ist ein reiner Binnenstaat?",
+      "options": [
+        "Bolivien",
+        "Vietnam",
+        "Portugal",
+        "Thailand"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Bolivien ist neben Paraguay einer von zwei Binnenstaaten in Südamerika.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist die Ordnungszahl des Elements Kohlenstoff?",
+      "options": [
+        "8",
+        "6",
+        "12",
+        "14"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Kohlenstoff hat die Ordnungszahl 6, was bedeutet, dass jedes Kohlenstoffatom 6 Protonen in seinem Kern hat.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Tiere",
+      "question": "Was ist das schnellste Landtier der Welt?",
+      "options": [
+        "Gepard",
+        "Quarter Horse",
+        "Löwe",
+        "Gabelbock"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Der Gepard kann in nur wenigen Sekunden von 0 auf 100 km/h beschleunigen.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Geschichte",
+      "question": "In welchem Jahr sank die Titanic auf ihrer Jungfernfahrt im Nordatlantik?",
+      "options": [
+        "1912",
+        "1923",
+        "1918",
+        "1905"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Die RMS Titanic kollidierte in der Nacht des 14. April 1912 mit einem Eisberg und sank wenige Stunden später.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "In welchem animierten Disney-Film kommt das Lied „A Whole New World“ vor?",
+      "options": [
+        "Mulan",
+        "Die Schöne und das Biest",
+        "Aladdin",
+        "Der König der Löwen"
+      ],
+      "answer_index": 2,
+      "fun_fact": "„A Whole New World“ gewann bei der 65. Oscar-Verleihung den Oscar für den besten Song.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Essen",
+      "question": "Paneer ist eine Frischkäsesorte, die häufig in der Küche welches Landes verwendet wird?",
+      "options": [
+        "Indien",
+        "Mexiko",
+        "Griechenland",
+        "Frankreich"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Paneer ist ein ungelagerter, durch Säure geronnener Frischkäse, der beim Kochen nicht schmilzt und seine Form gut behält.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Sport",
+      "question": "Aus wie vielen Spielern besteht eine Startelf auf dem Spielfeld bei einem regulären Fußballspiel?",
+      "options": [
+        "11",
+        "10",
+        "9",
+        "12"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Jedes der beiden Teams schickt bei einem regulären Fußballspiel bis zu 11 Spieler gleichzeitig auf den Platz, einschließlich des Torwarts.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie lautet der sprachwissenschaftliche Begriff für ein Wort, das vorwärts und rückwärts gleich gelesen wird, wie zum Beispiel „Rentner“?",
+      "options": [
+        "Homonym",
+        "Akronym",
+        "Palindrom",
+        "Synonym"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Das Wort „Palindrom“ leitet sich von griechischen Wurzeln ab, die „wieder zurücklaufen“ bedeuten.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher der galileischen Jupitermonde ist der vulkanisch aktivste Himmelskörper in unserem Sonnensystem?",
+      "options": [
+        "Europa",
+        "Ganymed",
+        "Kallisto",
+        "Io"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Ios intensive vulkanische Aktivität wird durch Gezeitenkräfte angetrieben, die durch die gravitative Wechselwirkung mit Jupiter und anderen Monden entstehen.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist das härteste bekannte natürliche Mineral auf der Mohs-Skala der Härte?",
+      "options": [
+        "Diamant",
+        "Topas",
+        "Korund",
+        "Quarz"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Diamant nimmt den Höchstwert 10 auf der Mohs-Härteskala ein.",
+      "difficulty": "hard"
+    }
+  ]
+}

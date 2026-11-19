@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-19",
+  "title": "Quiz du jour du 19 novembre 2026",
+  "questions": [
+    {
+      "category": "Géographie",
+      "question": "Lequel de ces pays est entièrement enclavé ?",
+      "options": [
+        "Bolivie",
+        "Vietnam",
+        "Portugal",
+        "Thaïlande"
+      ],
+      "answer_index": 0,
+      "fun_fact": "La Bolivie est l'un des deux pays enclavés d'Amérique du Sud, aux côtés du Paraguay.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Science",
+      "question": "Quel est le numéro atomique de l'élément carbone ?",
+      "options": [
+        "8",
+        "6",
+        "12",
+        "14"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Le carbone a un numéro atomique de 6, ce qui signifie que chaque atome de carbone possède 6 protons dans son noyau.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Animaux",
+      "question": "Quel est l'animal terrestre le plus rapide au monde ?",
+      "options": [
+        "Guépard",
+        "Quarter Horse",
+        "Lion",
+        "Pronghorn"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le guépard peut passer de 0 à 60 mph en seulement quelques secondes.",
+      "difficulty": "easy"
+    },
+    {
+      "category": "Histoire",
+      "question": "En quelle année le Titanic a-t-il coulé dans l'océan Atlantique Nord lors de son voyage inaugural ?",
+      "options": [
+        "1912",
+        "1923",
+        "1918",
+        "1905"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le RMS Titanic a heurté un iceberg dans la nuit du 14 avril 1912 et a coulé quelques heures plus tard.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Films et pop culture",
+      "question": "Quel film d'animation des studios Disney met en scène la chanson 'A Whole New World' ?",
+      "options": [
+        "Mulan",
+        "La Belle et la Bête",
+        "Aladdin",
+        "Le Roi Lion"
+      ],
+      "answer_index": 2,
+      "fun_fact": "'A Whole New World' a remporté l'Oscar de la meilleure chanson originale lors de la 65e cérémonie des Oscars.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Cuisine",
+      "question": "Le paneer est un type de fromage frais couramment utilisé dans la cuisine de quel pays ?",
+      "options": [
+        "Inde",
+        "Mexique",
+        "Grèce",
+        "France"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le paneer est un fromage fermier non affiné, caillé à l'acide et qui ne fond pas, ce qui lui permet de bien garder sa forme à la cuisson.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Sports",
+      "question": "Combien de joueurs composent une équipe titulaire sur le terrain lors d'un match de football standard ?",
+      "options": [
+        "11",
+        "10",
+        "9",
+        "12"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Chacune des deux équipes d'un match de football standard aligne jusqu'à 11 joueurs en même temps, gardien compris.",
+      "difficulty": "medium"
+    },
+    {
+      "category": "Langue",
+      "question": "Quel est le terme linguistique désignant un mot qui se lit de la même manière de gauche à droite et de droite à gauche, comme 'kayak' ?",
+      "options": [
+        "Homonyme",
+        "Acronyme",
+        "Palindrome",
+        "Synonyme"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le mot 'palindrome' vient de racines grecques signifiant 'courir en arrière'.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Espace",
+      "question": "Lequel des satellites galiléens de Jupiter est l'astre le plus activement volcanique de notre système solaire ?",
+      "options": [
+        "Europe",
+        "Ganymède",
+        "Callisto",
+        "Io"
+      ],
+      "answer_index": 3,
+      "fun_fact": "L'intense activité volcanique d'Io est alimentée par le chauffage par effet de marée provoqué par ses interactions gravitationnelles avec Jupiter et d'autres lunes.",
+      "difficulty": "hard"
+    },
+    {
+      "category": "Science",
+      "question": "Quel est le minéral naturel le plus dur connu sur l'échelle de dureté de Mohs ?",
+      "options": [
+        "Diamant",
+        "Topaze",
+        "Corindon",
+        "Quartz"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le diamant occupe la note maximale de 10 sur l'échelle de dureté de Mohs.",
+      "difficulty": "hard"
+    }
+  ]
+}

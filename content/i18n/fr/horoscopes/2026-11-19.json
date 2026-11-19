@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-19",
+  "signs": {
+    "aries": {
+      "overview": "Le jeudi vous va comme un gant, Bélier, à condition de vous rappeler de canaliser ce feu ardent dans autre chose que le micromanagement des commandes de café de vos collègues. Une vague soudaine d'énergie inspirée vous frappe pile autour de l'heure du déjeuner, ce qui en fait le moment idéal pour vous attaquer à ce projet créatif que vous lorgnez depuis des semaines. Adoptez une petite touche théâtrale dans tout ce que vous entreprenez aujourd'hui, car les projecteurs vous adorez en ce moment, et franchement, nous aussi. Assurez-vous simplement de terminer ce que vous commencez avant de vous lancer corps et âme dans votre prochaine grande aventure.",
+      "love": "Des étincelles spontanées jaillissent quand vous vous y attendez le moins, alors tenez vos répliques piquantes prêtes à l'emploi. Si vous êtes en couple, surprenez votre moitié avec un rendez-vous nocturne follement impulsif et amusant.",
+      "career": "Votre leadership audacieux inspire toute l'équipe, mais n'oubliez pas d'écouter aussi les idées loufoques des autres.",
+      "wellness": "Canalisez cette agitation féroce lors d'une séance de cardio intense en musique dans votre salon.",
+      "lucky_number": 7,
+      "lucky_color": "Cramoisi",
+      "mood": "Électrisé"
+    },
+    "taurus": {
+      "overview": "Ralentissez un peu, magnifique Taureau, car l'univers chuchote des secrets vraiment délicieux aujourd'hui, mais vous allez totalement les rater si vous passez en trombe devant la pâtisserie. Laissez vos sens s'éveiller pleinement en ce jeudi en enfilant votre pull le plus doux, en préparant ce thé en vrac haut de gamme et en empruntant un chemin délicieusement long pour rentrer chez vous. Votre légendaire obstination joue en votre faveur aujourd'hui alors que vous refusez de laisser quiconque compromettre votre paisible petit cocon. Laissez le monde extérieur s'affairer pendant que vous vous concoctez votre propre sanctuaire de calme.",
+      "love": "Une romance profonde et lente touche toutes les bonnes notes sous le ciel clément de ce planétage bienveillant. Partagez un dessert décadent et laissez la vulnérabilité remporter la nuit.",
+      "career": "La persévérance méthodique porte ses fruits de manière inattendue, alors faites confiance à votre rythme lent mais régulier.",
+      "wellness": "Offrez-vous un luxueux massage facial de cinq minutes avec votre huile botanique préférée.",
+      "lucky_number": 24,
+      "lucky_color": "Sauge",
+      "mood": "Serein"
+    },
+    "gemini": {
+      "overview": "Votre cerveau est un véritable flipper rempli de pensées brillantes et chaotiques aujourd'hui, Gémeaux, et honnêtement, c'est palpitant à observer. Vous passez d'un sujet fascinant à l'autre, enchantant tous ceux que vous croisez grâce à votre esprit acéré et votre curiosité communicative. Faites juste attention à ne pas vous engager accidentellement dans trois soirées différentes prévues exactement à la même heure ce soir. Attrapez votre carnet préféré, barbouillez des idées à un million de dollars à peine mûries, et savourez la magie étincelante de votre esprit fabuleux.",
+      "love": "Le flirt est votre langue maternelle aujourd'hui, et votre charme est pratiquement radioactif. Gardez la conversation spirituelle, légère et infiniment ludique.",
+      "career": "Le multitasking est votre super-pouvoir en ce moment, assurez-vous juste d'appuyer sur envoyer pour les bons e-mails.",
+      "wellness": "Reposez cet esprit brillant en faisant un puzzle tactile ou en griffonnant des gribouillis insensés.",
+      "lucky_number": 11,
+      "lucky_color": "Jaune",
+      "mood": "Spirituel"
+    },
+    "cancer": {
+      "overview": "Votre intuition fredonne presque une berceuse aujourd'hui, doux Cancer, vous connectant aux courants émotionnels sous-jacents de tout votre entourage. Au lieu d'absorber chaque vibe vagabonde telle une éponge énergétique, essayez de vous envelopper dans un cocon protecteur d'amour de soi renforcé en ce jeudi. Réorganisez votre bibliothèque par couleur, cuisinez un plat réconfortant et nostalgique à partir de zéro, ou passez un coup de fil à cet ami qui vous fait toujours rire jusqu'à ce que vos côtes vous fassent mal. Protéger votre précieuse paix n'est pas égoïste, c'est votre ultime super-pouvoir.",
+      "love": "Des discussions cœur à cœur procurent un sentiment profond de sécurité émotionnelle et de chaleur douillette. Faites tomber votre carapace et laissez l'amour vous envelopper comme une couverture bien chaude.",
+      "career": "Votre approche empathique fait de vous la colle secrète qui maintient votre équipe soudée aujourd'hui.",
+      "wellness": "Offrez-vous un bain long et rêveur dans une eau chaude avec des sels de bain parfumés à la lavande.",
+      "lucky_number": 2,
+      "lucky_color": "Argenté",
+      "mood": "Bienveillant"
+    },
+    "leo": {
+      "overview": "L'univers a déroulé le tapis rouge rien que pour vous aujourd'hui, Lion, alors veuillez agir en conséquence. Votre charisme naturel est poussé à un onze aveuglant, ce qui rend ce jeudi fantastique pour pitcher des idées, voler la vedette au karaoké ou simplement parader sur le trottoir comme s'il s'agissait d'un podium. N'oubliez pas de partager la lumière avec votre fidèle entourage, cependant : la générosité royale vous va à ravir. Imbibez-vous d'adoration, arborez vos accessoires les plus audacieux et rappelez-vous que vous êtes le personnage principal pour une bonne raison.",
+      "love": "Une romance dramatique digne de cinéma vous appelle et supplie qu'on lui réponde. Montez le charme d'un cran et savourez le fait d'être férocement adoré.",
+      "career": "Votre assurance créative gagne les critiques les plus coriaces de la pièce avec une aisance absolue.",
+      "wellness": "Prenez une pose de super-héros devant le miroir pendant trente secondes pour booster votre énergie rayonnante.",
+      "lucky_number": 19,
+      "lucky_color": "Doré",
+      "mood": "Rayonnant"
+    },
+    "virgo": {
+      "overview": "Ah, merveilleuse Vierge, votre organisateur intérieur brûle d'envie de ranger l'univers par ordre alphabétique aujourd'hui, et franchement, nous pourrions bien vous laisser faire. Ce jeudi apporte un bel alignement qui vous aide à démêler sans effort des situations épineuses qui rendaient tout le monde dingue. Bien que votre sens du détail soit inégalé, rappelez-vous de vous accorder la permission de laisser quelques assiettes dans l'évier ce soir. La perfection est surcotée, mais votre enthousiasme adorable et concentré n'a pas de prix. Célébrez vos petites victoires.",
+      "love": "Les petits services sont votre langage de l'amour par excellence aujourd'hui, qu'il s'agisse de préparer le café de quelqu'un à la perfection ou de partager une playlist utile. La romance s'épanouit dans les détails attentionnés.",
+      "career": "Votre flair pour repérer les schémas sauve la mise et fluidifie un flux de travail agaçant.",
+      "wellness": "Désencombrez totalement votre espace de travail physique pour apaiser instantanément vos pensées en ébullition.",
+      "lucky_number": 5,
+      "lucky_color": "Bleu marine",
+      "mood": "Concentré"
+    },
+    "libra": {
+      "overview": "Le bonheur esthétique est votre mission principale ce jeudi, Balance, et vous êtes en quête de faire ressembler tout ce qui vous entoure à un film d'art et essai indépendant. Votre don pour la diplomatie brille de mille feux tandis que vous arbitrez sans effort de petites querelles entre amis avec une grâce inégalée et un sourire charmant. Cessez de vous torturer pour des choix mineurs — qu'il s'agisse de commander des pâtes ou une salade — et fiez-vous simplement à votre instinct. Entourez-vous de belles choses, de bonne musique et de gens qui apprécient votre style sans artifice.",
+      "love": "Une énergie flirteuse flotte autour de vous comme un parfum de grand couturier, donnant à la romance des airs de danse charmante. Appréciez l'art de la douce séduction.",
+      "career": "Votre talent pour la collaboration transforme un projet de groupe frustrant en un succès étonnamment ludique.",
+      "wellness": "Concoctez une magnifique playlist entraînante à écouter pendant une marche rapide l'après-midi.",
+      "lucky_number": 33,
+      "lucky_color": "Rose",
+      "mood": "Charmant"
+    },
+    "scorpio": {
+      "overview": "Votre aura mystérieuse est réglée sur une intensité maximale aujourd'hui, Scorpion, ce qui vous rend délicieusement magnétique et totalement impénétrable. Ce jeudi est phénoménal pour plonger tête la première dans des recherches approfondies, résoudre une énigme complexe ou simplement savourer le pouvoir exquis de votre propre jardin secret. Laissez les autres deviner à quoi vous pensez ; le mystère vous va à ravir. Faites confiance à vos instincts affûtés car ils tombent pile juste en ce moment, coupant court aux banalités pour aller droit vers la vérité fascinante.",
+      "love": "Une chimie intense et magnétique fait passer les moments ordinaires pour des scènes de roman à suspense. Une honnêteté émotionnelle profonde propulse vos connexions au niveau supérieur.",
+      "career": "Une concentration de laser vous aide à résoudre un problème épineux que tout le monde avait abandonné il y a des jours.",
+      "wellness": "Déconnectez-vous de tous les écrans tôt ce soir pour permettre à votre esprit actif de décompresser correctement.",
+      "lucky_number": 8,
+      "lucky_color": "Noir",
+      "mood": "Magnétique"
+    },
+    "sagittarius": {
+      "overview": "Préparez virtuellement vos valises, Sagittaire, car votre esprit aventureux déborde de partout et réclame un changement de décor aujourd'hui. Même si vous êtes cloué à un bureau, votre esprit vagabonde à travers les continents, échappant à sa routine pour planifier votre prochaine grande évasion ou apprendre des notions follement obscures. Votre optimisme contagieux transforme un jeudi banal en un immense terrain de jeu propice à toutes les possibilités. Riez fort, rêvez grand de manière absurde et ne laissez personne rogner vos magnifiques ailes.",
+      "love": "Les aventures spontanées et les taquineries enjouées maintiennent votre vie amoureuse rafraîchissante, amusante et légère. Planifiez une escapade improvisée vers une destination totalement inédite.",
+      "career": "Votre vision globale inspire l'équipe à sortir des sentiers battus traditionnels.",
+      "wellness": "Sortez prendre l'air lors d'une marche rapide sous un ciel ouvert pour nourrir votre irrépressible envie d'ailleurs.",
+      "lucky_number": 12,
+      "lucky_color": "Turquoise",
+      "mood": "Explorateur"
+    },
+    "capricorn": {
+      "overview": "Regardez-vous, force de la nature Capricorne, bâtissant tranquillement votre empire pendant que tout le monde appuie encore sur le bouton snooze. Ce jeudi récompense votre dévouement sans faille par des progrès tangibles, ce qui en fait le moment idéal pour cocher ces étapes majeures de votre liste principale. Rappelez-vous simplement que vous avez le droit de fermer votre ordinateur portable avant minuit et d'apprécier enfin les fruits de votre labeur. Offrez-vous quelque chose de délicieux ce soir car vous avez amplement mérité de vous vanter.",
+      "love": "La fiabilité est votre plus bel atout séduction, et votre loyauté indéfectible procure à quelqu'un un sentiment de sécurité incroyable. Montrez votre facette plus douce et loufoque ce soir.",
+      "career": "La planification stratégique et l'exécution disciplinée apportent une immense satisfaction professionnelle aujourd'hui.",
+      "wellness": "Faites quelques étirements doux du bas du dos pour relâcher la tension d'avoir porté le monde sur vos épaules.",
+      "lucky_number": 4,
+      "lucky_color": "Charbon",
+      "mood": "Ambitieux"
+    },
+    "aquarius": {
+      "overview": "Vos idées brillantes et légèrement excentriques reçoivent enfin l'ovation qu'elles méritent aujourd'hui, Verseau. Ce jeudi vous encourage à pencher complètement pour vos impulsions les plus bizarres et innovantes, sans vous soucier de ce que pense la galerie. Une discussion impromptue avec un inconnu loufoque pourrait vous embarquer dans un terrier de lapin philosophique fascinant. Embrassez votre âme de visionnaire, portez exprès des chaussettes dépareillées et continuez à bousculer le statu quo grâce à votre délicieuse rébellion.",
+      "love": "La connexion mentale est votre aphrodisiaque suprême aujourd'hui ; partagez vos théories les plus folles avec quelqu'un de spécial. Adoptez une romance excentrique et anticonformiste.",
+      "career": "Une solution hors des sentiers battus sauve la situation et laisse vos collègues totalement ébahis.",
+      "wellness": "Essayez une méditation guidée axée sur l'élargissement de votre perspective et l'évacuation des parasites mentaux.",
+      "lucky_number": 17,
+      "lucky_color": "Électrique",
+      "mood": "Visionnaire"
+    },
+    "pisces": {
+      "overview": "Le voile entre réalité et rêverie pure est délicieusement fin pour vous aujourd'hui, doux Poissons. Vos talents artistiques et imaginatifs s'expriment en technicolor complet, faisant de ce jeudi un rêve éveillé pour créer de l'art, écrire de la poésie ou vous perdre dans une bande-son brillante. Protégez votre aura sensible des énergies brutales en vous réfugiant dans votre bulle créative dès que le monde devient trop bruyant. Faites confiance à votre imagination débordante, car elle est en train de cartographier de la pure magie.",
+      "love": "Un idéalisme romantique immaculé vous enveloppe comme un conte de fées, faisant de chaque instant quotidien un enchantement. Partagez vos vers ou une chanson spéciale.",
+      "career": "Votre intuition créative vous aide à naviguer dans une dynamique interpersonnelle délicate avec une grâce artistique.",
+      "wellness": "Laissez-vous glisser vers la détente bercé par une musique instrumentale ambiante et des lumières tamisées.",
+      "lucky_number": 9,
+      "lucky_color": "Lavande",
+      "mood": "Rêveur"
+    }
+  }
+}
