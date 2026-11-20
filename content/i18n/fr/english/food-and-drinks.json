@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-23",
+  "slug": "food-and-drinks",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "🍎",
+  "title": "Nourriture et boissons",
+  "summary": "Apprenez à nommer les aliments et les boissons les plus courants en anglais. Entraînez-vous à commander ce que vous aimez manger et boire.",
+  "sections": [
+    {
+      "h": "Parler de nourriture",
+      "p": "Nous mangeons tous les jours. Lorsque nous parlons de ce que nous aimons manger, nous utilisons des mots simples. Au petit-déjeuner, au déjeuner ou au dîner, nous pouvons manger des fruits, du pain ou du riz. Découvrons le nom de quelques aliments très populaires consommés dans le monde entier.",
+      "ex": [
+        {
+          "en": "I eat an apple every day.",
+          "mean": "Les pommes sont un fruit sain que je mange tous les jours."
+        },
+        {
+          "en": "Do you like bread?",
+          "mean": "Une question pour savoir si vous trouvez le pain bon."
+        }
+      ]
+    },
+    {
+      "h": "Parler de boissons",
+      "p": "Quand on a soif, il faut boire. L'eau est la meilleure boisson pour le corps. Beaucoup de gens boivent aussi du thé ou du café le matin, et du jus de fruit frais quand il fait chaud. Apprenons à parler de ces boissons.",
+      "ex": [
+        {
+          "en": "I want a glass of water, please.",
+          "mean": "Une façon polie de demander de l'eau."
+        },
+        {
+          "en": "She drinks tea with breakfast.",
+          "mean": "Le thé est sa boisson préférée le matin."
+        }
+      ]
+    },
+    {
+      "h": "Dire ce que l'on aime",
+      "p": "Il est facile de dire ce que l'on a envie de manger ou de boire. On peut utiliser 'I like' pour ce qu'on aime, ou 'I want' pour commander dans un magasin ou un restaurant. Des mots de politesse comme 'please' sont très importants.",
+      "ex": [
+        {
+          "en": "I like bananas.",
+          "mean": "Les bananes sont un fruit que j'aime manger."
+        },
+        {
+          "en": "Coffee, please.",
+          "mean": "Une manière courte et polie de commander du café."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "apple",
+      "mean": "un fruit rond rouge ou vert"
+    },
+    {
+      "en": "bread",
+      "mean": "aliment cuit fait à base de farine"
+    },
+    {
+      "en": "water",
+      "mean": "liquide clair que nous buvons"
+    },
+    {
+      "en": "tea",
+      "mean": "boisson chaude préparée avec des feuilles"
+    },
+    {
+      "en": "coffee",
+      "mean": "boisson chaude et foncée du matin"
+    },
+    {
+      "en": "rice",
+      "mean": "petits grains blancs ou bruns"
+    },
+    {
+      "en": "milk",
+      "mean": "liquide blanc provenant des vaches"
+    },
+    {
+      "en": "banana",
+      "mean": "fruit long, sucré et jaune"
+    }
+  ],
+  "tip": "Regardez la nourriture dans votre cuisine et dites leur nom en anglais à voix haute. Cela aide à les mémoriser rapidement !",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct pour compléter le texte",
+      "en": "I drink a glass of ___ when I am thirsty.",
+      "choices": [
+        "water",
+        "bread",
+        "apple",
+        "rice"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct pour compléter le texte",
+      "en": "An ___ is a red or green fruit.",
+      "choices": [
+        "milk",
+        "apple",
+        "coffee",
+        "tea"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct pour compléter le texte",
+      "en": "She drinks hot ___ in the morning.",
+      "choices": [
+        "water",
+        "banana",
+        "coffee",
+        "bread"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct pour compléter le texte",
+      "en": "A ___ is a long yellow fruit.",
+      "choices": [
+        "banana",
+        "apple",
+        "rice",
+        "water"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct pour compléter le texte",
+      "en": "We eat white ___ with our dinner.",
+      "choices": [
+        "tea",
+        "milk",
+        "water",
+        "rice"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Choisissez le mot correct pour compléter le texte",
+      "en": "Cats and babies like to drink ___.",
+      "choices": [
+        "bread",
+        "milk",
+        "apple",
+        "coffee"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

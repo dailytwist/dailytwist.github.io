@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-23",
+  "slug": "house-and-rooms",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "🏠",
+  "title": "Pièces et meubles",
+  "summary": "Apprenez le nom des différentes pièces d'une maison. Vous découvrirez également le vocabulaire courant du mobilier.",
+  "sections": [
+    {
+      "h": "Les pièces d'une maison",
+      "p": "Une maison se compose de différentes pièces. Nous y faisons des choses diverses. Par exemple, nous dormons dans la chambre et nous cuisinons dans la cuisine. Apprendre le nom de ces pièces vous aide à parler de votre chez-vous en anglais.",
+      "ex": [
+        {
+          "en": "This is my bedroom.",
+          "mean": "C'est ici que je dors."
+        },
+        {
+          "en": "The kitchen is big.",
+          "mean": "La pièce pour cuisiner est grande."
+        },
+        {
+          "en": "We watch TV in the living room.",
+          "mean": "Nous nous asseyons et regardons la télévision ici."
+        }
+      ]
+    },
+    {
+      "h": "Le mobilier de la chambre",
+      "p": "Chaque pièce a des meubles. Le mobilier désigne tout ce que l'on place dans une pièce pour qu'elle soit fonctionnelle. Dans la chambre, nous avons un lit pour dormir et une armoire pour ranger nos vêtements en toute sécurité et les garder bien ordonnés.",
+      "ex": [
+        {
+          "en": "My bed is soft.",
+          "mean": "Mon coin dodo est très agréable."
+        },
+        {
+          "en": "The clothes are in the wardrobe.",
+          "mean": "Mes chemises et mes pantalons sont dans le placard."
+        }
+      ]
+    },
+    {
+      "h": "Le mobilier du salon",
+      "p": "Le salon est un endroit propice à la détente en famille ou entre amis. On y trouve généralement un canapé confortable pour s'asseoir et une petite table pour poser notre café ou nos livres. C'est un espace très chaleureux.",
+      "ex": [
+        {
+          "en": "The sofa is red.",
+          "mean": "La longue assise est rouge."
+        },
+        {
+          "en": "There is a table in the room.",
+          "mean": "Un meuble à quatre pieds se trouve ici."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "bedroom",
+      "mean": "pièce pour dormir"
+    },
+    {
+      "en": "kitchen",
+      "mean": "pièce pour cuisiner"
+    },
+    {
+      "en": "living room",
+      "mean": "pièce pour se détendre"
+    },
+    {
+      "en": "bathroom",
+      "mean": "pièce pour se laver"
+    },
+    {
+      "en": "bed",
+      "mean": "meuble pour dormir"
+    },
+    {
+      "en": "sofa",
+      "mean": "siège confortable"
+    },
+    {
+      "en": "table",
+      "mean": "meuble plat avec des pieds"
+    },
+    {
+      "en": "wardrobe",
+      "mean": "placard à vêtements"
+    }
+  ],
+  "tip": "Promenez-vous chez vous et touchez chaque meuble. Prononcez son nom en anglais à haute voix trois fois.",
+  "quiz": [
+    {
+      "ask": "Choisissez la bonne pièce",
+      "en": "We cook food in the ___.",
+      "choices": [
+        "bedroom",
+        "kitchen",
+        "bathroom"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon meuble",
+      "en": "You sleep in a ___ at night.",
+      "choices": [
+        "bed",
+        "table",
+        "sofa"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la bonne pièce",
+      "en": "We watch television in the ___ room.",
+      "choices": [
+        "bed",
+        "living",
+        "bath"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon meuble",
+      "en": "Put your clothes in the ___.",
+      "choices": [
+        "table",
+        "lamp",
+        "wardrobe"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez la bonne pièce",
+      "en": "You take a shower in the ___.",
+      "choices": [
+        "kitchen",
+        "bedroom",
+        "bathroom"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon meuble",
+      "en": "Sit on the comfortable ___ and watch TV.",
+      "choices": [
+        "sofa",
+        "bed",
+        "wardrobe"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

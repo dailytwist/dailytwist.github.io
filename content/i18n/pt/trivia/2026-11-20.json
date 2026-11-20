@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-20",
+  "title": "Quiz Diário de Conhecimentos Gerais: 20 de novembro de 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Qual país da América do Sul faz fronteira tanto com o Oceano Pacífico quanto com o Mar do Caribe?",
+      "options": [
+        "Chile",
+        "Colômbia",
+        "Peru",
+        "Venezuela"
+      ],
+      "answer_index": 1,
+      "fun_fact": "A Colômbia é o único país da América do Sul com litoral tanto no Oceano Pacífico quanto no Mar do Caribe."
+    },
+    {
+      "category": "Ciência",
+      "question": "Qual é o nome comum para a mudança de fase em que uma substância passa diretamente do estado sólido para o gasoso sem passar pelo estado líquido?",
+      "options": [
+        "Sublimação",
+        "Evaporação",
+        "Deposição",
+        "Condensação"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O gelo seco, que é dióxido de carbono sólido, sofre sublimação à temperatura ambiente, transformando-se diretamente em gás carbônico."
+    },
+    {
+      "category": "História",
+      "question": "A construção da Grande Muralha da China começou principalmente durante qual dinastia antiga?",
+      "options": [
+        "Dinastia Qin",
+        "Dinastia Tang",
+        "Dinastia Han",
+        "Dinastia Ming"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Embora algumas seções tenham sido construídas antes, o Imperador Qin Shi Huang conectou e estendeu essas muralhas no século III AEC para formar a primeira Grande Muralha coesa."
+    },
+    {
+      "category": "Filmes e Cultura Pop",
+      "question": "Qual filme épico de romance e catástrofe de 1997, dirigido por James Cameron, se tornou o primeiro a arrecadar mais de US$ 1 bilhão mundialmente?",
+      "options": [
+        "Jurassic Park",
+        "Armageddon",
+        "Independence Day",
+        "Titanic"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Titanic deteve o recorde de filme de maior bilheteria da história por 12 anos, até ser ultrapassado por Avatar em 2010."
+    },
+    {
+      "category": "Comida",
+      "question": "O açafrão, a especiaria mais cara do mundo por peso, é colhido dos estigmas vibrantes de qual flor?",
+      "options": [
+        "Açafrão-verdadeiro",
+        "Tulipa",
+        "Girassol",
+        "Orquídea"
+      ],
+      "answer_index": 0,
+      "fun_fact": "São necessárias cerca de 75.000 flores de açafrão, colhidas inteiramente à mão, para produzir apenas meio quilo de especiaria de açafrão."
+    },
+    {
+      "category": "Animais",
+      "question": "Qual é a característica fisiológica única que permite aos camelos armazenar energia e sobreviver por longos períodos no deserto?",
+      "options": [
+        "Água armazenada diretamente em câmaras do estômago",
+        "Absorção de umidade através da pele grossa",
+        "Habilidades extremas de hibernação durante as estações quentes",
+        "Gordura armazenada nas corcovas"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Os camelos armazenam gordura, e não água, em suas corcovas, a qual podem metabolizar em energia e água metabólica quando o alimento é escasso."
+    },
+    {
+      "category": "Esportes",
+      "question": "No golfe, qual termo é usado para descrever uma pontuação de uma tacada abaixo do par em um buraco específico?",
+      "options": [
+        "Eagle",
+        "Bogey",
+        "Albatross",
+        "Birdie"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O termo 'birdie' originou-se nos Estados Unidos em 1899, quando um golfista deu uma tacada excelente e a chamou de 'a bird of a shot' (uma tacada dos céus)."
+    },
+    {
+      "category": "Idioma",
+      "question": "Qual é o termo linguístico para palavras que têm exatamente a mesma grafia e pronúncia, mas significados e origens completamente diferentes?",
+      "options": [
+        "Homófonos",
+        "Sinônimos",
+        "Homônimos",
+        "Homógrafos"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Um exemplo clássico de homônimo é a palavra 'manga', que pode se referir à fruta ou à parte de uma camisa."
+    },
+    {
+      "category": "Espaço",
+      "question": "Qual planeta do nosso sistema solar é conhecido como 'Gigante Gelado' junto com Urano?",
+      "options": [
+        "Júpiter",
+        "Saturno",
+        "Marte",
+        "Netuno"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Ao contrário de Júpiter e Saturno, que são feitos principalmente de hidrogênio e hélio, Urano e Netuno contêm elementos mais pesados como água, amônia e metano."
+    },
+    {
+      "category": "Geografia",
+      "question": "Qual nação africana cerca completamente o reino montanhoso e sem saída para o mar de Lesoto?",
+      "options": [
+        "Zimbábue",
+        "Namíbia",
+        "Botswana",
+        "África do Sul"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O Lesoto é uma das únicas três nações soberanas do mundo a ser totalmente cercada por um único outro país, junto com a Cidade do Vaticano e San Marino."
+    }
+  ]
+}

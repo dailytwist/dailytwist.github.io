@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-20",
+  "title": "Tägliches Allgemeinwissen-Quiz: 20. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches südamerikanische Land grenzt sowohl an den Pazifischen Ozean als auch an das Karibische Meer?",
+      "options": [
+        "Chile",
+        "Kolumbien",
+        "Peru",
+        "Venezuela"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Kolumbien ist das einzige Land in Südamerika mit Küstenlinien sowohl am Pazifik als auch am Karibischen Meer."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Wie nennt man den Phasenübergang, bei dem ein Stoff direkt vom festen in den gasförmigen Zustand übergeht, ohne den flüssigen Zustand zu durchlaufen?",
+      "options": [
+        "Sublimation",
+        "Verdunstung",
+        "Resublimation",
+        "Kondensation"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Trockeneis, das aus festem Kohlenstoffdioxid besteht, sublimiert bei Raumtemperatur und wird sofort zu gasförmigem Kohlendioxid."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Während welcher antiken Dynastie begann hauptsächlich der Bau der Chinesischen Mauer?",
+      "options": [
+        "Qin-Dynastie",
+        "Tang-Dynastie",
+        "Han-Dynastie",
+        "Ming-Dynastie"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Obwohl bereits früher Abschnitte errichtet wurden, verband und erweiterte Kaiser Qin Shi Huang diese Mauern im 3. Jahrhundert v. Chr., um die erste zusammenhängende Große Mauer zu bilden."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Welcher epische Liebes- und Katastrophenfilm aus dem Jahr 1997 unter der Regie von James Cameron spielte als erster Film weltweit über 1 Milliarde US-Dollar ein?",
+      "options": [
+        "Jurassic Park",
+        "Armageddon",
+        "Independence Day",
+        "Titanic"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Titanic hielt 12 Jahre lang den Rekord als der kommerziell erfolgreichste Film der Geschichte, bis er 2010 von Avatar abgelöst wurde."
+    },
+    {
+      "category": "Essen",
+      "question": "Safran, das nach Gewicht teuerste Gewürz der Welt, wird aus den leuchtend roten Narben welcher Blume gewonnen?",
+      "options": [
+        "Krokus",
+        "Tulpe",
+        "Sonnenblume",
+        "Orchidee"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Es erfordert etwa 75.000 Safranblüten, die komplett von Hand geerntet werden, um nur ein einziges Pfund Safran-Gewürz herzustellen."
+    },
+    {
+      "category": "Tiere",
+      "question": "Was ist das einzigartige physiologische Merkmal, das es Kamelen ermöglicht, Energie zu speichern und lange Zeit in der Wüste zu überleben?",
+      "options": [
+        "Wasser, das direkt in Magenkammern gespeichert wird",
+        "Feuchtigkeitsaufnahme durch ihre dicke Haut",
+        "Extreme Fressstarre bzw. Hibernation während heißer Jahreszeiten",
+        "Fett, das in Höckern gespeichert wird"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Kamele speichern Fett statt Wasser in ihren Höckern, das sie bei Nahrungsmangel in Energie und Stoffwechselwasser umwandeln können."
+    },
+    {
+      "category": "Sport",
+      "question": "Welcher Begriff wird im Golfsport verwendet, um ein Ergebnis von einem Schlag unter Par auf einem bestimmten Loch zu beschreiben?",
+      "options": [
+        "Eagle",
+        "Bogey",
+        "Albatros",
+        "Birdie"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Der Begriff 'Birdie' entstand 1899 in den USA, als ein Golfer einen tollen Schlag landete und ihn als 'a bird of a shot' (einen fantastischen Schlag) bezeichnete."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie lautet der sprachwissenschaftliche Begriff für Wörter, die genau dieselbe Schreibweise und Aussprache, aber völlig unterschiedliche Bedeutungen und Ursprünge haben?",
+      "options": [
+        "Homophone",
+        "Synonyme",
+        "Homonyme",
+        "Homographe"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Ein klassisches Beispiel für ein Homonym im Deutschen ist das Wort 'Kiefer', das sich auf einen Baum oder den Kieferknochen beziehen kann."
+    },
+    {
+      "category": "Weltall",
+      "question": "Welcher Planet in unserem Sonnensystem wird neben Uranus als 'Eisriese' bezeichnet?",
+      "options": [
+        "Jupiter",
+        "Saturn",
+        "Mars",
+        "Neptun"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Im Gegensatz zu Jupiter und Saturn, die hauptsächlich aus Wasserstoff und Helium bestehen, enthalten Uranus und Neptun schwerere Elemente wie Wasser, Ammoniak und Methan."
+    },
+    {
+      "category": "Geografie",
+      "question": "Welche afrikanische Nation umschließt das Binnen-Gebirgskönigreich Lesotho vollständig?",
+      "options": [
+        "Simbabwe",
+        "Namibia",
+        "Botswana",
+        "Südafrika"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Lesotho ist neben der Vatikanstadt und San Marino einer von weltweit nur drei souveränen Staaten, die vollständig von einem einzigen anderen Land umschlossen sind."
+    }
+  ]
+}

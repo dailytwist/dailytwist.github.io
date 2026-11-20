@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-23",
+  "slug": "clothes",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "👕",
+  "title": "Qu'est-ce que tu portes ?",
+  "summary": "Apprends à parler des vêtements du quotidien. Tu apprendras aussi à utiliser le verbe porter.",
+  "sections": [
+    {
+      "h": "Vêtements de base",
+      "p": "Nous portons des vêtements différents chaque jour. Quand il fait chaud, nous mettons un t-shirt et un short. Quand il fait froid, nous mettons une veste et un pantalon. Regarde tes vêtements en ce moment même. Qu'est-ce que tu as sur toi ? Apprendre ces mots t'aide à parler facilement de ta tenue de tous les jours avec tes amis.",
+      "ex": [
+        {
+          "en": "I wear a blue shirt to work.",
+          "mean": "Mes vêtements de travail comprennent une chemise bleue."
+        },
+        {
+          "en": "She wears a red dress today.",
+          "mean": "Sa tenue en ce moment est une robe rouge."
+        },
+        {
+          "en": "He wears black shoes.",
+          "mean": "Ses chaussures sont de couleur noire."
+        }
+      ]
+    },
+    {
+      "h": "Couleurs et vêtements",
+      "p": "Nous utilisons souvent des couleurs pour décrire les vêtements. Nous plaçons la couleur avant le nom du vêtement. Par exemple, nous disons un jean bleu ou un chapeau blanc. Cela rend ton anglais plus vivant et aide les gens à comprendre exactement ce que tu portes.",
+      "ex": [
+        {
+          "en": "I have a yellow jacket.",
+          "mean": "Ma veste est jaune."
+        },
+        {
+          "en": "He wears green trousers.",
+          "mean": "Son pantalon est vert."
+        },
+        {
+          "en": "She likes her pink hat.",
+          "mean": "Le chapeau est rose et elle l'aime bien."
+        }
+      ]
+    },
+    {
+      "h": "Parler d'aujourd'hui",
+      "p": "Pour parler de ce que tu portes en ce moment, utilise le verbe wear (porter). I wear, you wear, he wears, she wears. Pense bien à ajouter un 's' pour he et she ! C'est très utile quand tu fais du shopping ou que tu parles de la météo.",
+      "ex": [
+        {
+          "en": "What do you wear in summer?",
+          "mean": "Quels vêtements mets-tu quand il fait chaud ?"
+        },
+        {
+          "en": "Today I wear a warm sweater.",
+          "mean": "En ce moment, ma tenue est un pull bien chaud."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "shirt",
+      "mean": "vêtement du haut avec des boutons"
+    },
+    {
+      "en": "t-shirt",
+      "mean": "haut décontracté à manches courtes"
+    },
+    {
+      "en": "trousers",
+      "mean": "vêtement pour les jambes"
+    },
+    {
+      "en": "jeans",
+      "mean": "pantalon en toile denim bleue"
+    },
+    {
+      "en": "shoes",
+      "mean": "protection pour les pieds"
+    },
+    {
+      "en": "jacket",
+      "mean": "manteau chaud pour le haut du corps"
+    },
+    {
+      "en": "dress",
+      "mean": "vêtement une pièce pour femme"
+    },
+    {
+      "en": "wear",
+      "mean": "avoir des vêtements sur soi"
+    }
+  ],
+  "tip": "Regarde ta penderie chaque matin et dis les noms anglais de tes vêtements à haute voix !",
+  "quiz": [
+    {
+      "ask": "Choisis le bon mot",
+      "en": "I put on my ___ on my feet.",
+      "choices": [
+        "shoes",
+        "shirts",
+        "jackets"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisis le bon verbe",
+      "en": "She ___ a nice red dress today.",
+      "choices": [
+        "wear",
+        "wears",
+        "wearing"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisis le bon vêtement",
+      "en": "When it is very cold outside, I wear a warm ___.",
+      "choices": [
+        "t-shirt",
+        "shorts",
+        "jacket"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisis le bon mot",
+      "en": "My blue ___ are comfortable for walking.",
+      "choices": [
+        "dress",
+        "jeans",
+        "hat"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisis la bonne question",
+      "en": "___ do you wear in the summer?",
+      "choices": [
+        "What",
+        "Who",
+        "Where"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisis le bon mot",
+      "en": "He wears a white ___ with buttons to work.",
+      "choices": [
+        "shorts",
+        "shoes",
+        "shirt"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

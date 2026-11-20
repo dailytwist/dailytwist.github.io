@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-23",
+  "slug": "telling-the-time",
+  "cefr": "A1",
+  "cat": "phrases",
+  "emoji": "⏰",
+  "title": "Quelle heure est-il ?",
+  "summary": "Apprenez à demander l'heure en anglais. Vous découvrirez également comment l'annoncer facilement.",
+  "sections": [
+    {
+      "h": "Demander l'heure",
+      "p": "Quand vous voulez connaître l'heure, vous pouvez poser une question simple. On utilise généralement 'What time is it?'. C'est très poli et utile lorsque vous êtes dehors, au travail ou en train de discuter avec des amis. Tout le monde vous comprendra partout.",
+      "ex": [
+        {
+          "en": "Excuse me, what time is it?",
+          "mean": "Une façon polie de demander l'heure."
+        },
+        {
+          "en": "Do you have the time?",
+          "mean": "Une autre façon courante de demander l'heure."
+        }
+      ]
+    },
+    {
+      "h": "Dire l'heure : l'heure pile (O'Clock)",
+      "p": "Quand la grande aiguille est tout en haut du cadran, il s'agit d'une heure pile. On utilise le mot 'o'clock'. Par exemple, si la petite aiguille est sur le sept et la grande sur le douze, il est sept heures pile.",
+      "ex": [
+        {
+          "en": "It is three o'clock.",
+          "mean": "Il est exactement 3:00."
+        },
+        {
+          "en": "It is ten o'clock.",
+          "mean": "Il est exactement 10:00."
+        }
+      ]
+    },
+    {
+      "h": "Matin ou après-midi ?",
+      "p": "Une journée compte 24 heures, mais le cadran n'affiche que les chiffres jusqu'à douze. Pour plus de clarté, nous pouvons ajouter des mots supplémentaires. On utilise 'in the morning', 'in the afternoon' ou 'at night' pour faire la distinction.",
+      "ex": [
+        {
+          "en": "It is eight o'clock in the morning.",
+          "mean": "C'est l'heure de se réveiller et de prendre le petit-déjeuner."
+        },
+        {
+          "en": "It is nine o'clock at night.",
+          "mean": "C'est l'heure d'aller dormir."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "What time is it?",
+      "mean": "Demander l'heure"
+    },
+    {
+      "en": "O'clock",
+      "mean": "Heure pile"
+    },
+    {
+      "en": "Clock",
+      "mean": "Objet qui indique l'heure"
+    },
+    {
+      "en": "Morning",
+      "mean": "Première partie de la journée"
+    },
+    {
+      "en": "Afternoon",
+      "mean": "Milieu de la journée"
+    },
+    {
+      "en": "Night",
+      "mean": "Partie sombre de la journée"
+    },
+    {
+      "en": "Hour",
+      "mean": "Soixante minutes"
+    }
+  ],
+  "tip": "Regardez votre montre ou votre téléphone plusieurs fois aujourd'hui et dites l'heure à voix haute en anglais !",
+  "quiz": [
+    {
+      "ask": "Choisissez la bonne question pour demander l'heure.",
+      "en": "___, what time is it?",
+      "choices": [
+        "Excuse me",
+        "Hello you",
+        "Thank you"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Complétez la phrase pour 5:00.",
+      "en": "It is five ___.",
+      "choices": [
+        "time",
+        "o'clock",
+        "clock"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez l'expression temporelle correspondant au lever du soleil.",
+      "en": "It is seven o'clock in the ___.",
+      "choices": [
+        "night",
+        "afternoon",
+        "morning"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon verbe.",
+      "en": "What time ___ it?",
+      "choices": [
+        "are",
+        "is",
+        "am"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez l'expression temporelle correspondant au moment d'aller dormir.",
+      "en": "It is ten o'clock at ___.",
+      "choices": [
+        "night",
+        "morning",
+        "afternoon"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez une autre façon de demander l'heure.",
+      "en": "Do you ___ the time?",
+      "choices": [
+        "make",
+        "see",
+        "have"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

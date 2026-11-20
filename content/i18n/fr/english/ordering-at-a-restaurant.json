@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-23",
+  "slug": "ordering-at-a-restaurant",
+  "cefr": "A1",
+  "cat": "phrases",
+  "emoji": "☕",
+  "title": "Commander à manger et à boire",
+  "summary": "Apprenez à commander de quoi manger et boire dans un café en anglais. Entraînez-vous à utiliser des mots polis pour vous adresser au serveur.",
+  "sections": [
+    {
+      "h": "Dire bonjour et trouver une table",
+      "p": "Lorsque vous allez dans un café ou un restaurant, la première chose à faire est de saluer le personnel et d'indiquer combien de personnes vous accompagnent. Vous pouvez utiliser 'Hello' et 'I would like' pour être très poli. Faites des phrases courtes et souriez. Cela permettra au serveur de vous aider plus facilement à trouver une jolie place pour vous asseoir.",
+      "ex": [
+        {
+          "en": "Hello, a table for two, please.",
+          "mean": "Demander une table pour deux personnes"
+        },
+        {
+          "en": "Hi, I would like a coffee, please.",
+          "mean": "Demander poliment une boisson"
+        }
+      ]
+    },
+    {
+      "h": "Demander le menu et commander",
+      "p": "Ensuite, vous aurez envie de découvrir les choix de nourriture et de boissons. Vous pouvez demander 'Can I have the menu, please?'. Lorsque vous savez ce que vous voulez, commencez votre commande par 'Can I have' ou 'I would like'. N'oubliez jamais de dire 'please' et 'thank you' car les bonnes manières sont très importantes.",
+      "ex": [
+        {
+          "en": "Can I have the menu, please?",
+          "mean": "Demander à voir la liste des plats"
+        },
+        {
+          "en": "I would like a sandwich, please.",
+          "mean": "Indiquer au serveur votre choix de plat"
+        },
+        {
+          "en": "Can I have a glass of water?",
+          "mean": "Demander de l'eau à boire"
+        }
+      ]
+    },
+    {
+      "h": "Demander l'addition",
+      "p": "Quand vous avez fini de manger et de boire, il est temps de partir. Vous devez demander combien vous devez payer. Vous pouvez regarder le serveur et demander l'addition. Vous pouvez aussi lui demander s'il accepte la carte bancaire ou s'il vous faut payer en espèces.",
+      "ex": [
+        {
+          "en": "Can I have the bill, please?",
+          "mean": "Demander à payer votre repas"
+        },
+        {
+          "en": "How much is it?",
+          "mean": "Demander le prix total"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "menu",
+      "mean": "liste des plats"
+    },
+    {
+      "en": "table",
+      "mean": "place pour s'asseoir"
+    },
+    {
+      "en": "water",
+      "mean": "boisson fraîche"
+    },
+    {
+      "en": "coffee",
+      "mean": "boisson chaude et brune"
+    },
+    {
+      "en": "sandwich",
+      "mean": "pain garni"
+    },
+    {
+      "en": "bill",
+      "mean": "papier indiquant le prix total"
+    },
+    {
+      "en": "please",
+      "mean": "mot poli"
+    },
+    {
+      "en": "thank you",
+      "mean": "mots pour exprimer sa reconnaissance"
+    }
+  ],
+  "tip": "Commencez toujours votre commande par 'Can I have' et terminez par 'please'. C'est une façon de parler très simple et polie !",
+  "quiz": [
+    {
+      "ask": "Choisissez la bonne formule de politesse",
+      "en": "___ a table for one, please.",
+      "choices": [
+        "Hello",
+        "Goodbye",
+        "No"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon mot pour désigner la liste des plats",
+      "en": "Can I have the ___, please?",
+      "choices": [
+        "pen",
+        "menu",
+        "book"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne façon de commander une boisson",
+      "en": "I ___ like a tea, please.",
+      "choices": [
+        "am",
+        "do",
+        "would"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon mot quand vous avez fini de manger",
+      "en": "Can I have the ___, please?",
+      "choices": [
+        "bill",
+        "chair",
+        "door"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot poli correct",
+      "en": "A coffee, ___.",
+      "choices": [
+        "bad",
+        "please",
+        "wrong"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la question à poser pour connaître le prix",
+      "en": "___ much is it?",
+      "choices": [
+        "How",
+        "What",
+        "Where"
+      ],
+      "answer_index": 0
+    }
+  ]
+}
