@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-27",
+  "slug": "passive-voice",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🔄",
+  "title": "Fokus auf die Handlung: Passiv in Gegenwart und Vergangenheit",
+  "summary": "Lerne, wie man das Passiv in der Gegenwart und Vergangenheit verwendet. Entdecke, wie du über Handlungen sprechen kannst, wenn die Person, die sie ausführt, nicht wichtig ist.",
+  "sections": [
+    {
+      "h": "Wann man das Passiv verwendet",
+      "p": "Manchmal ist uns das Objekt oder die Handlung wichtiger als die Person, die sie ausführt. Wenn zum Beispiel dein Auto gestohlen wird, interessiert dich das Auto, nicht der Dieb. Wenn wir einen Passivsatz bilden, wird das Objekt zum neuen Subjekt des Satzes. Wir verwenden das Verb to be plus die dritte Form des Hauptverbs, das sogenannte Partizip Perfekt.",
+      "ex": [
+        {
+          "en": "Coffee is grown in Colombia.",
+          "mean": "People grow coffee in Colombia."
+        },
+        {
+          "en": "English is spoken all over the world.",
+          "mean": "People speak English everywhere."
+        }
+      ]
+    },
+    {
+      "h": "Das Passiv im Präsens",
+      "p": "Um das Passiv im Präsens zu bilden, verwendet man am, is oder are plus ein Partizip Perfekt. Verwende diese Zeitform, um über allgemeine Fakten, Gewohnheiten oder Dinge zu sprechen, die regelmäßig passieren. Denk an Produkte, die du kaufst, oder an Regeln an deinem Arbeitsplatz. Der Fokus liegt immer darauf, was die Handlung genau jetzt oder im Allgemeinen erfährt.",
+      "ex": [
+        {
+          "en": "My car is washed every weekend.",
+          "mean": "Someone washes my car every weekend."
+        },
+        {
+          "en": "New employees are trained on Mondays.",
+          "mean": "The company trains new employees on Mondays."
+        }
+      ]
+    },
+    {
+      "h": "Das Passiv in der Vergangenheit",
+      "p": "Um das Passiv in der Vergangenheit zu bilden, verwendet man was oder were plus ein Partizip Perfekt. Verwende diese Zeitform, um über abgeschlossene Handlungen in der Vergangenheit zu sprechen, wenn die Person, die die Handlung ausgeführt hat, unbekannt, offensichtlich oder unwichtig ist. Diese Form ist sehr häufig in Nachrichten und in der Geschichte.",
+      "ex": [
+        {
+          "en": "The window was broken yesterday.",
+          "mean": "Someone broke the window yesterday."
+        },
+        {
+          "en": "These photos were taken in Paris.",
+          "mean": "Someone took these photos in Paris."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "passive voice",
+      "mean": "grammar form focusing on the object"
+    },
+    {
+      "en": "past participle",
+      "mean": "third form of a verb"
+    },
+    {
+      "en": "is grown",
+      "mean": "present passive for singular items"
+    },
+    {
+      "en": "are made",
+      "mean": "present passive for plural items"
+    },
+    {
+      "en": "was built",
+      "mean": "past passive for singular items"
+    },
+    {
+      "en": "were invited",
+      "mean": "past passive for plural people"
+    }
+  ],
+  "tip": "Frag dich immer: „Wer führt die Handlung aus?“ Wenn die Antwort nicht wichtig ist, verwende das Passiv mit der richtigen Form des Verbs to be.",
+  "quiz": [
+    {
+      "ask": "Wähle die richtige Passivform im Präsens",
+      "en": "This book ___ in 2020.",
+      "choices": [
+        "is written",
+        "was written",
+        "wrote"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die richtige Passivform in der Vergangenheit",
+      "en": "Many houses ___ by the storm last night.",
+      "choices": [
+        "were damaged",
+        "are damaged",
+        "damaged"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort für die Lücke",
+      "en": "Spanish ___ in many countries.",
+      "choices": [
+        "is spoken",
+        "speaks",
+        "spoke"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die richtige Passivform in der Vergangenheit",
+      "en": "My phone ___ from my bag at the party.",
+      "choices": [
+        "is stolen",
+        "was stolen",
+        "stole"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die richtige Passivform im Präsens",
+      "en": "Letters ___ delivered every morning.",
+      "choices": [
+        "is",
+        "was",
+        "are"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle den richtigen Passivsatz",
+      "en": "The cake was ___ by the chef.",
+      "choices": [
+        "bake",
+        "baking",
+        "baked"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

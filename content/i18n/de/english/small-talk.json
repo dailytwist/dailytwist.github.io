@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-27",
+  "slug": "small-talk",
+  "cefr": "B1",
+  "cat": "phrases",
+  "emoji": "💬",
+  "title": "Small Talk meistern",
+  "summary": "Erfahre, wie du auf lockere Art ein Gespräch mit neuen Leuten beginnst. Entdecke einfache Fragen, mit denen der Smalltalk wie von selbst läuft.",
+  "sections": [
+    {
+      "h": "Ein Gespräch beginnen",
+      "p": "Wenn du jemanden auf einer Party oder an einer Bushaltestelle ansprechen möchtest, brauchst du einen guten Einstieg. Am einfachsten gelingt das, indem du über den Ort, das Wetter oder eine gemeinsame Veranstaltung sprichst. Achte auf eine freundliche Stimme und lächle! Stelle nach der Begrüßung eine offene Frage, damit es dein Gegenüber leicht hat, zu antworten.",
+      "ex": [
+        {
+          "en": "Nice weather today, isn't it?",
+          "mean": "Ein klassischer und sicherer Weg, um bei Sonnenschein ins Gespräch zu kommen."
+        },
+        {
+          "en": "Is this your first time at this event?",
+          "mean": "Eine tolle Frage für jemanden auf einer Party oder einer Konferenz."
+        }
+      ]
+    },
+    {
+      "h": "Das Gespräch am Laufen halten",
+      "p": "Nach dem ersten Satz möchtest du zeigen, dass du zuhörst. Stelle Anschlussfragen zu dem, was die Person gerade gesagt hat. Worte wie „echt jetzt?“ oder „das ist ja interessant!“ zeigen, dass es dich interessiert. Versucht, etwas zu finden, das ihr beide mögt – wie Essen, Filme oder Hobbys –, um noch ein paar Minuten weiterzureden.",
+      "ex": [
+        {
+          "en": "What do you like to do in your free time?",
+          "mean": "Eine einfache Möglichkeit, etwas über die Hobbys einer Person zu erfahren."
+        },
+        {
+          "en": "Have you seen any good movies lately?",
+          "mean": "Ein tolles Thema, bei mit dem fast jeder mitreden kann."
+        }
+      ]
+    },
+    {
+      "h": "Höflich das Gespräch beenden",
+      "p": "Smalltalk dauert meistens nicht lange. Wenn es Zeit zu gehen ist, solltest du das Gespräch höflich beenden. Nenne einen netten Grund für deinen Aufbruch, zum Beispiel dass du dir etwas zu trinken holst oder den Bus erreichen musst. Lächle immer, sage, dass es schön war, die Person kennengelernt zu haben, und wünsche ihr noch einen wunderbaren Tag.",
+      "ex": [
+        {
+          "en": "It was really nice talking to you!",
+          "mean": "Eine herzliche und höfliche Art zu zeigen, dass dir das Gespräch gefallen hat."
+        },
+        {
+          "en": "I need to grab a drink, but let's talk again soon.",
+          "mean": "Eine lockere Ausrede, um das Gespräch zu beenden."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Small talk",
+      "mean": "freundliches, zwangloses Gespräch"
+    },
+    {
+      "en": "Opening line",
+      "mean": "erster Satz, um ins Gespräch zu kommen"
+    },
+    {
+      "en": "Weather",
+      "mean": "Sonne, Regen, Wind, Temperatur"
+    },
+    {
+      "en": "Follow-up",
+      "mean": "nächste Frage oder Aktion"
+    },
+    {
+      "en": "Hobbies",
+      "mean": "lustige Dinge, die man unternimmt"
+    },
+    {
+      "en": "Polite",
+      "mean": "gute Manieren haben"
+    },
+    {
+      "en": "Grab a drink",
+      "mean": "etwas zu trinken holen"
+    }
+  ],
+  "tip": "Stell dir Smalltalk einfach vor wie Ballspielen. Du wirfst etwas zu und wartest dann darauf, dass die andere Person den Ball durch eine Antwort zurückwirft!",
+  "quiz": [
+    {
+      "ask": "Wähle den besten Weg, um ein Gespräch zu beginnen.",
+      "en": "___ weather today, isn't it?",
+      "choices": [
+        "Bad",
+        "Nice",
+        "Angry"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die beste Anschlussfrage zum Thema Hobbys.",
+      "en": "What do you like to do in your ___?",
+      "choices": [
+        "work",
+        "office",
+        "free time"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das fehlende Wort für eine höfliche Verabschiedung.",
+      "en": "It was really nice ___ to you!",
+      "choices": [
+        "talking",
+        "saying",
+        "speaking"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wie nennt man ein zwangloses Pläuschchen mit einem Fremden?",
+      "en": "We are just making ___.",
+      "choices": [
+        "big talk",
+        "small talk",
+        "loud talk"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die beste Reaktion auf gute Nachrichten im Chat.",
+      "en": "___ that's very interesting!",
+      "choices": [
+        "Oh,",
+        "No,",
+        "Why,"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle einen guten Grund, um einen Chat zu beenden.",
+      "en": "I need to ___ a drink.",
+      "choices": [
+        "take",
+        "grab",
+        "hold"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

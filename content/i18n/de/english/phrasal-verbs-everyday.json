@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-27",
+  "slug": "phrasal-verbs-everyday",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "🚀",
+  "title": "15 alltägliche Phrasal Verbs",
+  "summary": "Lerne 15 gängige Phrasal Verbs, die Muttersprachler jeden Tag verwenden. Verbessere dein Englisch mit einfachen Beispielen.",
+  "sections": [
+    {
+      "h": "Morgenroutine",
+      "p": "Phrasal Verbs kombinieren ein Verb mit einem kleinen Wort wie up oder out. Sie verändern die Bedeutung des Hauptverbs komplett. Wenn du in den Tag startest, musst du aufstehen, wach werden und dich anziehen. Diese alltäglichen Handlungen nutzen einfache Phrasal Verbs, die dir in lockeren Gesprächen ständig begegnen werden.",
+      "ex": [
+        {
+          "en": "I usually get up at seven o'clock in the morning.",
+          "mean": "Nach dem Schlafen das Bett verlassen"
+        },
+        {
+          "en": "Please wake up, it is time for breakfast.",
+          "mean": "Aufwachen und die Augen öffnen"
+        },
+        {
+          "en": "Hurry up and put on your jacket!",
+          "mean": "Sich schnell anziehen"
+        }
+      ]
+    },
+    {
+      "h": "Suchen und Finden",
+      "p": "Wenn du im Haus etwas verlierst, musst du danach suchen, bis du es findest. Manchmal sind Aufgaben zu schwer und man möchte aufgeben. Es ist jedoch wichtig, weiterzumachen und nicht hinzuwerfen! Das Lernen dieser nützlichen Ausdrücke hilft dir dabei, über alltägliche Probleme und Erfolge zu sprechen.",
+      "ex": [
+        {
+          "en": "I am looking for my keys in the living room.",
+          "mean": "Nach etwas Verlorenem suchen"
+        },
+        {
+          "en": "Never give up when learning a new language.",
+          "mean": "Aufhören, weil etwas zu schwer ist"
+        },
+        {
+          "en": "Please turn off the lights before you leave.",
+          "mean": "Ein Gerät oder Licht ausschalten"
+        }
+      ]
+    },
+    {
+      "h": "Zuhause und Freunde",
+      "p": "Wir verwenden Phrasal Verbs oft, wenn wir über unser Zuhause und unser Sozialleben sprechen. Vielleicht musst du dich um ein Haustier kümmern, eine Telefonnummer aufschreiben oder altes Papier in den Müll werfen. Diese natürlichen Ausdrücke lassen dein Englisch viel flüssiger und natürlicher klingen.",
+      "ex": [
+        {
+          "en": "Can you look after my cat this weekend?",
+          "mean": "Sich um jemanden oder etwas kümmern"
+        },
+        {
+          "en": "Write down your new address on this paper.",
+          "mean": "Informationen mit einem Stift festhalten"
+        },
+        {
+          "en": "Throw away that old box in the kitchen.",
+          "mean": "Müll in den Eimer werfen"
+        }
+      ]
+    },
+    {
+      "h": "Treffen und Überprüfen",
+      "p": "Schauen wir uns zum Schluss noch Verben für soziale Anlässe und Informationen an. Vielleicht läufst du im Supermarkt zufällig einem alten Freund über den Weg oder füllst ein Formular mit deinen persönlichen Daten aus. Wenn du diese letzten Phrasal Verbs kennst, ist dein täglicher Grundwortschatz komplett.",
+      "ex": [
+        {
+          "en": "I ran into my teacher at the shop yesterday.",
+          "mean": "Jemanden zufällig treffen"
+        },
+        {
+          "en": "Please fill out this form with your name.",
+          "mean": "Ein Dokument mit Informationen ausfüllen"
+        },
+        {
+          "en": "Turn on the TV to watch the news.",
+          "mean": "Ein Gerät oder Licht einschalten"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "get up",
+      "mean": "aufstehen"
+    },
+    {
+      "en": "wake up",
+      "mean": "aufwachen"
+    },
+    {
+      "en": "put on",
+      "mean": "sich anziehen"
+    },
+    {
+      "en": "look for",
+      "mean": "suchen nach"
+    },
+    {
+      "en": "give up",
+      "mean": "aufgeben"
+    },
+    {
+      "en": "turn off",
+      "mean": "ein Gerät ausschalten"
+    },
+    {
+      "en": "look after",
+      "mean": "sich kümmern um"
+    },
+    {
+      "en": "write down",
+      "mean": "aufschreiben"
+    },
+    {
+      "en": "throw away",
+      "mean": "wegwerfen"
+    },
+    {
+      "en": "run into",
+      "mean": "zufällig treffen"
+    }
+  ],
+  "tip": "Lerne sie nicht als isolierte Wörter. Lerne jedes Phrasal Verb anhand eines echten Satzes über deine eigene tägliche Routine.",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Phrasal Verb",
+      "en": "I need to ___ my keys because I cannot find them anywhere.",
+      "choices": [
+        "look for",
+        "give up",
+        "get up"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Phrasal Verb",
+      "en": "Please ___ your warm coat because it is very cold outside.",
+      "choices": [
+        "turn off",
+        "put on",
+        "throw away"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Phrasal Verb",
+      "en": "Do not ___! You can learn English if you practice every day.",
+      "choices": [
+        "look after",
+        "wake up",
+        "give up"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Phrasal Verb",
+      "en": "Can you ___ the lights when you leave the room?",
+      "choices": [
+        "turn off",
+        "run into",
+        "write down"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Phrasal Verb",
+      "en": "I want to ___ my dog while I am at work.",
+      "choices": [
+        "fill out",
+        "look after",
+        "get up"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Phrasal Verb",
+      "en": "Please ___ this information on a piece of paper.",
+      "choices": [
+        "throw away",
+        "put on",
+        "write down"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

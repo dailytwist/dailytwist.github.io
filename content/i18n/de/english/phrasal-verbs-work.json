@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-27",
+  "slug": "phrasal-verbs-work",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "💼",
+  "title": "Nützliche Phrasal Verbs für die Arbeit",
+  "summary": "Lerne drei gängige Phrasal Verbs, um über tägliche Büroaufgaben zu sprechen. Erweitere spielend leicht deinen englischen Wortschatz für den Beruf.",
+  "sections": [
+    {
+      "h": "Set up",
+      "p": "Wenn du etwas Neues startest – wie ein Meeting, einen Raum oder ein Computersystem –, dann setzest du es auf (set it up). Das bedeutet, alles vorzubereiten oder einzurichten, damit es einsatzbereit ist.",
+      "ex": [
+        {
+          "en": "Can you please set up the projector for the meeting?",
+          "mean": "Please prepare the projector."
+        },
+        {
+          "en": "I need to set up a new email account for our new colleague.",
+          "mean": "I need to create and prepare a new email."
+        }
+      ]
+    },
+    {
+      "h": "Carry out",
+      "p": "Etwas auszuführen oder durchzuführen (to carry out) bedeutet, eine Aufgabe, einen Plan oder eine Studie von Anfang bis Ende zu erledigen. Wir verwenden das oft für Recherchen, Tests oder Anweisungen.",
+      "ex": [
+        {
+          "en": "The team will carry out a survey to check customer happiness.",
+          "mean": "The team will do a survey."
+        },
+        {
+          "en": "She always carries out her manager's instructions quickly.",
+          "mean": "She always does what her manager asks."
+        }
+      ]
+    },
+    {
+      "h": "Follow up",
+      "p": "Nachfassen oder nachhaken (to follow up) bedeutet, sich noch einmal bei jemandem zu melden oder nach einem ersten Treffen oder einer Nachricht weitere Schritte zu unternehmen. Das zeigt, dass du engagiert und interessiert bist.",
+      "ex": []
+    }
+  ],
+  "words": [
+    {
+      "en": "set up",
+      "mean": "vorbereiten oder einrichten"
+    },
+    {
+      "en": "carry out",
+      "mean": "eine Aufgabe erledigen"
+    },
+    {
+      "en": "follow up",
+      "mean": "noch einmal kontaktieren"
+    },
+    {
+      "en": "projector",
+      "mean": "Präsentationsgerät"
+    },
+    {
+      "en": "survey",
+      "mean": "Fragen für die Forschung"
+    },
+    {
+      "en": "client",
+      "mean": "Geschäftskunde"
+    },
+    {
+      "en": "colleague",
+      "mean": "Arbeitspartner"
+    }
+  ],
+  "tip": "Versuche, jedes Phrasal Verb mit einer echten Aufgabe zu verknüpfen, die du jede Woche bei der Arbeit erledigst. Wenn du deine eigenen Sätze schreibst, kann dein Gehirn sie sich schneller merken.",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "We need to ___ a meeting room for our guests tomorrow morning.",
+      "choices": [
+        "carry out",
+        "set up",
+        "follow up"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "The technicians will ___ repairs on the office printer this afternoon.",
+      "choices": [
+        "carry out",
+        "set up",
+        "follow up"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "Please ___ with the supplier to see if the goods have been shipped.",
+      "choices": [
+        "set up",
+        "carry out",
+        "follow up"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "It takes twenty minutes to ___ the computer before the presentation starts.",
+      "choices": [
+        "follow up",
+        "set up",
+        "carry out"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "The researchers plan to ___ interviews with fifty different employees.",
+      "choices": [
+        "follow up",
+        "set up",
+        "carry out"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "After sending the proposal, I will ___ with a phone call next week.",
+      "choices": [
+        "follow up",
+        "carry out",
+        "set up"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

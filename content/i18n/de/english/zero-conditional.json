@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-27",
+  "slug": "zero-conditional",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "☀️",
+  "title": "Über Fakten sprechen: Der Zero Conditional",
+  "summary": "In dieser Lektion lernst du, wie man über reale Fakten und Dinge spricht, die immer wahr sind. Du übst, wie man mit einfacher Grammatik eine Ursache mit ihrem Ergebnis verknüpft.",
+  "sections": [
+    {
+      "h": "Was ist der Zero Conditional?",
+      "p": "Wir verwenden den Zero Conditional, um über allgemeine Wahrheiten, wissenschaftliche Fakten oder Dinge zu sprechen, die immer passieren, wenn man etwas tut. Wenn man zum Beispiel Eis erhitzt, schmilzt es. Beide Teile des Satzes stehen im Present Simple, da das Ergebnis immer wahr ist.",
+      "ex": [
+        {
+          "en": "If you mix blue and yellow, you get green.",
+          "mean": "Wenn man diese beiden Farben mischt, entsteht immer Grün."
+        },
+        {
+          "en": "Plants die if they do not get enough water.",
+          "mean": "Wassermangel führt immer dazu, dass Pflanzen sterben."
+        }
+      ]
+    },
+    {
+      "h": "Wie man den Satz bildet",
+      "p": "Ein Satz im Zero Conditional hat zwei Teile: den „If“-Satz und den Hauptsatz. Du kannst mit „if“ beginnen oder den Hauptsatz an den Anfang stellen. Die Bedeutung bleibt dieselbe. Beachte, dass wir kein Komma setzen, wenn „if“ in der Mitte steht.",
+      "ex": [
+        {
+          "en": "If you touch fire, you burn your finger.",
+          "mean": "Wenn man Feuer berührt, verbrennt man sich immer."
+        },
+        {
+          "en": "You burn your finger if you touch fire.",
+          "mean": "Das Ergebnis steht an erster Stelle, aber die Regel bleibt dieselbe."
+        }
+      ]
+    },
+    {
+      "h": "„When“ statt „if“ verwenden",
+      "p": "In Zero-Conditional-Sätzen kannst du oft das Wort „when“ anstelle von „if“ verwenden. Das tun wir, wenn wir uns zu 100 Prozent sicher sind, dass die Handlung eintreten wird. Das sorgt dafür, dass dein Englisch bei der Beschreibung von Alltagsroutinen oder Naturgesetzen sehr natürlich klingt.",
+      "ex": [
+        {
+          "en": "When it rains, the grass gets wet.",
+          "mean": "Jedes Mal, wenn es regnet, wird das Gras nass."
+        },
+        {
+          "en": "I feel tired when I sleep less than six hours.",
+          "mean": "Wenn ich nicht genug schlafe, fühle ich mich immer müde."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "zero conditional",
+      "mean": "Grammatik für reale Fakten"
+    },
+    {
+      "en": "general truth",
+      "mean": "etwas, das immer wahr ist"
+    },
+    {
+      "en": "present simple",
+      "mean": "einfache Zeitform des Verbs"
+    },
+    {
+      "en": "result",
+      "mean": "was als Nächstes passiert"
+    },
+    {
+      "en": "clause",
+      "mean": "Teil eines Satzes"
+    },
+    {
+      "en": "scientific fact",
+      "mean": "bewiesenes Naturgesetz"
+    },
+    {
+      "en": "comma",
+      "mean": "Satzzeichen ,"
+    }
+  ],
+  "tip": "Denke daran, dass beide Teile des Satzes im Present Simple stehen, weil du über Fakten sprichst und nicht über Zukunftsmöglichkeiten.",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort aus, um den Fakt zu vervollständigen.",
+      "en": "If you heat water to 100 degrees, it ___.",
+      "choices": [
+        "boil",
+        "boils",
+        "boiled",
+        "boiling"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Verb für diese wissenschaftliche Wahrheit.",
+      "en": "Ice melts if you ___ it in the sun.",
+      "choices": [
+        "put",
+        "puts",
+        "putting",
+        "will put"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort, um diesen Satz zu beginnen.",
+      "en": "___ you mix red and white, you get pink.",
+      "choices": [
+        "When",
+        "Will",
+        "Did",
+        "Would"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Finde das richtige Ergebnis für diese Bedingung.",
+      "en": "If my dog sees the mailman, he ___.",
+      "choices": [
+        "bark",
+        "barking",
+        "barks",
+        "barked"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle die richtige Satzstruktur.",
+      "en": "Dogs ___ if they are hungry.",
+      "choices": [
+        "whine",
+        "whines",
+        "whined",
+        "is whine"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Vollständige den natürlichen Fakt.",
+      "en": "Plants grow fast if they ___ a lot of sunlight.",
+      "choices": [
+        "gets",
+        "getting",
+        "got",
+        "get"
+      ],
+      "answer_index": 3
+    }
+  ]
+}

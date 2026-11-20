@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-27",
+  "slug": "writing-emails",
+  "cefr": "B1",
+  "cat": "phrases",
+  "emoji": "✉️",
+  "title": "Klare formelle und informelle E-Mails schreiben",
+  "summary": "Lerne, wie du tolle E-Mails an Freunde und im Job schreibst. Du übst, für jede Situation die richtigen Worte zu finden.",
+  "sections": [
+    {
+      "h": "Wann man formell und wann informell schreibt",
+      "p": "Im Englischen variiert unser Schreibstil je nach Empfängerkreis. Informelle E-Mails sind für Freunde und Familie gedacht. Hier kannst du kurze Sätze und freundliche Begrüßungen verwenden. Formelle E-Mails richten sich an Vorgesetzte, Lehrkräfte oder Unternehmen. Dabei musst du höflich sein und vollständige Sätze bilden. Die Wahl des richtigen Stils zeigt Respekt und sorgt dafür, dass die Leserschaft dich schnell versteht.",
+      "ex": [
+        {
+          "en": "Dear Mr. Davis, I am writing to ask about the job.",
+          "mean": "Ein höflicher, professioneller Einstieg für eine geschäftliche E-Mail."
+        },
+        {
+          "en": "Hi Sarah, hope you are having a great week!",
+          "mean": "Ein freundlicher, herzlicher Einstieg für eine persönliche E-Mail."
+        }
+      ]
+    },
+    {
+      "h": "Anreden und Eröffnungen",
+      "p": "Der Beginn deiner E-Mail gibt den Ton an. Verwende für eine formelle E-Mail 'Dear' gefolgt von Titel und Nachnamen der Person. Wenn du den Namen nicht kennst, nutze 'Dear Sir or Madam'. Für eine informelle E-Mail genügen 'Hi' oder 'Hello' zusammen mit dem Vornamen. Nenne den Grund für dein Schreiben immer direkt nach der Begrüßung.",
+      "ex": [
+        {
+          "en": "Dear Dr. Smith, thank you for your message.",
+          "mean": "Formelle Anrede für jemanden mit einem Titel."
+        },
+        {
+          "en": "Hey Tom, thanks for getting back to me!",
+          "mean": "Informelle Anrede für einen Freund oder eine nahestehende Kollegschaft."
+        }
+      ]
+    },
+    {
+      "h": "Abschiedsformeln und Schlüsse",
+      "p": "Wie du deine E-Mail beendest, ist ebenso wichtig wie der Anfang. Formelle E-Mails verlangen nach einem professionellen Schluss wie 'Sincerely' oder 'Best regards', gefolgt von deinem vollständigen Namen. Informelle E-Mails dürfen entspannt mit Phrasen wie 'Best', 'Cheers' oder 'Talk soon' und nur dem Vornamen enden.",
+      "ex": [
+        {
+          "en": "Best regards, Maria Garcia",
+          "mean": "Professioneller Abschluss für eine geschäftliche E-Mail."
+        },
+        {
+          "en": "See you soon, Leo",
+          "mean": "Freundlicher, zwangloser Abschluss für eine E-Mail an Freunde."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "formal",
+      "mean": "ernsthaft und professionell"
+    },
+    {
+      "en": "informal",
+      "mean": "entspannt und freundlich"
+    },
+    {
+      "en": "greeting",
+      "mean": "Hallo am Anfang"
+    },
+    {
+      "en": "sign-off",
+      "mean": "Abschlussformel"
+    },
+    {
+      "en": "sincerely",
+      "mean": "formelles Abschiedswort"
+    },
+    {
+      "en": "cheers",
+      "mean": "zwangloser Gruß zum Abschied"
+    },
+    {
+      "en": "subject line",
+      "mean": "Betreffzeile einer E-Mail"
+    }
+  ],
+  "tip": "Denk an deinen Gegenüber, bevor du zu schreiben beginnst. Wenn du bei einem Treffen mit dieser Person einen Anzug tragen würdest, wähle eine formelle E-Mail!",
+  "quiz": [
+    {
+      "ask": "Wähle die beste Anrede für eine Chefin oder einen Chef",
+      "en": "___ Mr. Johnson, I have a question about the schedule.",
+      "choices": [
+        "Dear",
+        "Hey",
+        "What's up"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle den korrekten informellen Abschiedsgruß",
+      "en": "___ , Anna",
+      "choices": [
+        "Sincerely",
+        "Best regards",
+        "Cheers"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Welcher E-Mail-Typ verwendet kurze und freundliche Sätze?",
+      "en": "Is this email formal or informal: 'Hi Mark, let's grab lunch tomorrow!'?",
+      "choices": [
+        "Informal",
+        "Formal",
+        "Academic"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle den passenden formellen Schluss",
+      "en": "___ , David Brown",
+      "choices": [
+        "Talk soon",
+        "Best regards",
+        "See ya"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort, wenn dir der Name nicht bekannt ist",
+      "en": "Dear ___ or Madam,",
+      "choices": [
+        "Man",
+        "Sir",
+        "Friend"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die beste Betreffzeile für eine Bewerbung",
+      "en": "Email topic: ___",
+      "choices": [
+        "Hey look at this",
+        "Job Application - Anna Smith",
+        "Lunch today"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

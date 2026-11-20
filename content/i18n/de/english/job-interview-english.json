@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-27",
+  "slug": "job-interview-english",
+  "cefr": "B1",
+  "cat": "phrases",
+  "emoji": "💼",
+  "title": "Häufige Vorstellungsgesprächsfragen beantworten",
+  "summary": "Lerne, wie du drei klassische Fragen im Vorstellungsgespräch beantwortest. Du übst, über deine Fähigkeiten und Ziele zu sprechen.",
+  "sections": [
+    {
+      "h": "Erzählen Sie mir etwas über sich",
+      "p": "Das ist im Gespräch meistens die erste Frage. Die Interviewer wollen eine kurze Zusammenfassung deines beruflichen Werdegangs. Erzähl von deinem aktuellen Job, deiner bisherigen Erfahrung und warum du heute hier bist. Halte deine Antwort unter zwei Minuten. Konzentriere dich auf die Arbeit, nicht auf dein Privatleben.",
+      "ex": [
+        {
+          "en": "I have worked as a customer service agent for three years.",
+          "mean": "Ich bringe drei Jahre Erfahrung im Kundenservice mit."
+        },
+        {
+          "en": "In my last job, I managed a team of five people.",
+          "mean": "Zuvor war ich Vorgesetzte(r) von fünf Mitarbeitern."
+        },
+        {
+          "en": "I am looking for a new challenge in marketing.",
+          "mean": "Ich suche einen neuen Job, in dem ich im Marketing arbeiten kann."
+        }
+      ]
+    },
+    {
+      "h": "Was sind Ihre Stärken?",
+      "p": "Wenn Personaler nach deinen Stärken fragen, möchten sie wissen, was du besonders gut machst. Wähle zwei bis drei positive Eigenschaften aus, die zum Job passen. Nimm immer ein kurzes Beispiel, um zu beweisen, dass deine Stärke echt ist.",
+      "ex": [
+        {
+          "en": "I am very organized and I never miss a deadline.",
+          "mean": "Ich plane meine Arbeit gut und werde immer pünktlich fertig."
+        },
+        {
+          "en": "My greatest strength is problem-solving.",
+          "mean": "Ich bin sehr gut darin, Lösungen für schwierige Probleme zu finden."
+        },
+        {
+          "en": "I communicate well with different types of people.",
+          "mean": "Es fällt mir leicht, mit allen zu kommunizieren und zusammenzuarbeiten."
+        }
+      ]
+    },
+    {
+      "h": "Warum möchten Sie diesen Job?",
+      "p": "Unternehmen wollen Leute einstellen, denen ihr Geschäft wirklich am Herzen liegt. Informiere dich vor dem Gespräch über die Firma. Erkläre, wie deine Ziele zu denen des Unternehmens passen und warum du dich freust, dort zu arbeiten.",
+      "ex": [
+        {
+          "en": "I love your company's focus on green technology.",
+          "mean": "Mir gefällt, dass sich Ihr Unternehmen für die Umwelt einsetzt."
+        },
+        {
+          "en": "This role is a great match for my skills.",
+          "mean": "Meine Fähigkeiten passen perfekt zu dieser Position."
+        },
+        {
+          "en": "I want to grow my career with your team.",
+          "mean": "Ich möchte hier arbeiten, mich weiterentwickeln und dazulernen."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "strength",
+      "mean": "eine gute Fähigkeit"
+    },
+    {
+      "en": "experience",
+      "mean": "frühere berufliche Vorerfahrung"
+    },
+    {
+      "en": "deadline",
+      "mean": "die endgültige Deadline"
+    },
+    {
+      "en": "role",
+      "mean": "die Arbeitsstelle"
+    },
+    {
+      "en": "goal",
+      "mean": "was du erreichen möchtest"
+    },
+    {
+      "en": "skill",
+      "mean": "die Fähigkeit, etwas zu tun"
+    },
+    {
+      "en": "interview",
+      "mean": "das Vorstellungsgespräch"
+    },
+    {
+      "en": "current",
+      "mean": "jetzt gerade passierend"
+    }
+  ],
+  "tip": "Übe deine Antworten laut vor einem Spiegel. Wenn du deine Stimme mit dem Handy aufnimmst, hilft dir das, langsamer und deutlicher zu sprechen.",
+  "quiz": [
+    {
+      "ask": "Wähle die beste Antwort auf „Erzählen Sie mir etwas über sich“",
+      "en": "I have worked as a ___ for three years.",
+      "choices": [
+        "chef",
+        "happily",
+        "yesterday"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort für eine gute Fähigkeit",
+      "en": "My greatest ___ is problem-solving.",
+      "choices": [
+        "weak",
+        "strength",
+        "tired"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort für die Abgabefrist",
+      "en": "I always finish my work before the ___.",
+      "choices": [
+        "deadline",
+        "start",
+        "lunch"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die richtige Formulierung dafür, warum du den Job möchtest",
+      "en": "I want to ___ my career with your team.",
+      "choices": [
+        "stop",
+        "lose",
+        "grow"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle den besten Weg, um über vergangene Arbeit zu sprechen",
+      "en": "In my last job, I ___ a team of five.",
+      "choices": [
+        "managed",
+        "fly",
+        "eating"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort für eine Arbeitsstelle",
+      "en": "This ___ is a great match for my skills.",
+      "choices": [
+        "table",
+        "role",
+        "shoe"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

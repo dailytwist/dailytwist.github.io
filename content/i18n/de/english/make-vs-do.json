@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-27",
+  "slug": "make-vs-do",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "🛠️",
+  "title": "Make und Do meistern",
+  "summary": "Lerne die einfachen Regeln für die korrekte Verwendung von 'make' und 'do'. Übe alltägliche Wortverbindungen, um natürlicher zu klingen.",
+  "sections": [
+    {
+      "h": "Wann man DO verwendet",
+      "p": "Wir verwenden 'do' normalerweise für allgemeine Aktivitäten, Jobs und Aufgaben. Denke an Handlungen, bei denen du etwas erledigst, aber normalerweise kein neues physisches Objekt erschaffst. Zum Beispiel machen wir den Haushalt (do housework), Hausaufgaben (do homework) und Geschäfte (do business).",
+      "ex": [
+        {
+          "en": "I need to do my homework before I watch TV.",
+          "mean": "meine Schulaufgaben erledigen"
+        },
+        {
+          "en": "Can you do me a favor and help me?",
+          "mean": "mir bei etwas helfen"
+        },
+        {
+          "en": "She likes to do yoga in the morning.",
+          "mean": "Yoga als Sport machen"
+        }
+      ]
+    },
+    {
+      "h": "Wann man MAKE verwendet",
+      "p": "Wir verwenden 'make' normalerweise, wenn wir etwas Neues erschaffen, bauen oder produzieren. Nachdem du fertig bist, hast du ein physisches Ergebnis, das du berühren, essen oder sehen kannst. Zum Beispiel machen wir Abendessen (make dinner), backen einen Kuchen (make a cake) und schmieden einen Plan (make a plan).",
+      "ex": [
+        {
+          "en": "I want to make a cake for your birthday.",
+          "mean": "einen neuen Kuchen backen"
+        },
+        {
+          "en": "Please make sure you lock the door.",
+          "mean": "sich bei etwas sicher sein"
+        },
+        {
+          "en": "He likes to make coffee in the morning.",
+          "mean": "heißen Kaffee zubereiten"
+        }
+      ]
+    },
+    {
+      "h": "Häufige Ausdrücke",
+      "p": "Einige Redewendungen mit 'make' und 'do' folgen keinen strengen Regeln. Du musst sie einfach als feste Paare lernen. Zum Beispiel sagen wir 'make a mistake' (einen Fehler machen), weil wir einen Fehler produzieren, aber 'do the laundry' (die Wäsche machen), weil es eine Hausarbeit ist.",
+      "ex": [
+        {
+          "en": "Try not to make any mistakes on the test.",
+          "mean": "vermeiden, Dinge falsch zu machen"
+        },
+        {
+          "en": "I always do the laundry on Sundays.",
+          "mean": "die ganze schmutzige Wäsche waschen"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "make a decision",
+      "mean": "etwas aussuchen"
+    },
+    {
+      "en": "do your best",
+      "mean": "sein Bestes geben"
+    },
+    {
+      "en": "make a phone call",
+      "mean": "jemanden anrufen"
+    },
+    {
+      "en": "do the shopping",
+      "mean": "Einkäufe und Lebensmittel besorgen"
+    },
+    {
+      "en": "make a mistake",
+      "mean": "etwas Falsches tun"
+    },
+    {
+      "en": "do housework",
+      "mean": "das Haus aufräumen"
+    },
+    {
+      "en": "make plans",
+      "mean": "die Zukunft planen"
+    }
+  ],
+  "tip": "Frag dich selbst: Wird etwas Neues erschaffen? Wenn ja, verwende 'make'. Ist es eine allgemeine Aufgabe oder Hausarbeit? Wenn ja, verwende 'do'.",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "I need to ___ a phone call to my boss.",
+      "choices": [
+        "do",
+        "make",
+        "take"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "She always tries to ___ her best at work.",
+      "choices": [
+        "make",
+        "have",
+        "do"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "Can you help me ___ dinner tonight?",
+      "choices": [
+        "make",
+        "do",
+        "cook up"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "I hate to ___ the washing up after a big meal.",
+      "choices": [
+        "make",
+        "do",
+        "clean"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "We need to ___ a decision about our holiday.",
+      "choices": [
+        "do",
+        "have",
+        "make"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "He forgot to ___ his homework yesterday.",
+      "choices": [
+        "do",
+        "make",
+        "write"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

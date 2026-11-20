@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-27",
+  "slug": "relative-clauses",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🔗",
+  "title": "Ideen mit Relativsätzen verbinden",
+  "summary": "In dieser Lektion lernst du, wie du zwei Gedanken zu einem runden Satz verknüpfst. Wir nutzen who, which, that und where, um mehr über Personen, Dinge und Orte zu erzählen.",
+  "sections": [
+    {
+      "h": "Über Menschen sprechen: Who und That",
+      "p": "Wenn du über eine Person sprechen möchtest, kannst du 'who' oder 'that' verwenden. Sie ersetzen Wörter wie er, sie oder sie (Mehrzahl). Das hilft dir, jemanden zu beschreiben, ohne einen neuen Satz anfangen zu müssen. Statt zum Beispiel zu sagen: 'Sie ist eine Lehrerin. Sie hilft mir sehr,' kannst du sagen: 'Sie ist eine Lehrerin, die mir sehr hilft.' Sowohl 'who' als auch 'that' sind für Personen richtig.",
+      "ex": [
+        {
+          "en": "I have a friend who speaks four languages.",
+          "mean": "Ich kenne eine Person, und diese Person spricht vier Sprachen."
+        },
+        {
+          "en": "She is the doctor that cured my cough.",
+          "mean": "Sie ist die medizinische Fachkraft, die mich gesund gemacht hat."
+        }
+      ]
+    },
+    {
+      "h": "Über Dinge sprechen: Which und That",
+      "p": "Wenn du über Gegenstände, Tiere oder Ideen sprechen möchtest, nutzt du 'which' oder 'that'. Sie verraten dem Zuhörer mehr über eine Sache. Statt zum Beispiel zu sagen: 'Ich habe ein Auto gekauft. Es ist elektrisch,' kannst du sagen: 'Ich habe ein Auto gekauft, das elektrisch ist.' Du kannst 'that' auch für Dinge verwenden, was Unterhaltungen sehr einfach und natürlich macht.",
+      "ex": [
+        {
+          "en": "This is the phone which I bought yesterday.",
+          "mean": "Hier ist das mobile Gerät, das ich kürzlich gekauft habe."
+        },
+        {
+          "en": "I love books that have happy endings.",
+          "mean": "Ich lese am liebsten Geschichten, in denen alles gut ausgeht."
+        }
+      ]
+    },
+    {
+      "h": "Über Orte sprechen: Where",
+      "p": "Wenn du über einen Ort sprechen möchtest, benutzt du das Wort 'where'. Es verbindet den Ort mit dem, was dort passiert. Statt zum Beispiel zu sagen: 'Das ist das Restaurant. Wir haben dort zu Abend gegessen,' kannst du sie zusammenfügen: 'Das ist das Restaurant, in dem wir zu Abend gegessen haben.' Das spart Zeit und lässt dein Englisch viel natürlicher und flüssiger klingen.",
+      "ex": [
+        {
+          "en": "That is the hotel where we stayed last summer.",
+          "mean": "Dieses Gebäude ist unsere Urlaubsunterkunft von damals."
+        },
+        {
+          "en": "Show me the park where you play football.",
+          "mean": "Zeige auf den Außenbereich für dein Sportspiel."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "relative clause",
+      "mean": "ein beschreibender Satzteil"
+    },
+    {
+      "en": "connect",
+      "mean": "zusammenfügen"
+    },
+    {
+      "en": "describe",
+      "mean": "erklären, wie jemand ist"
+    },
+    {
+      "en": "location",
+      "mean": "ein bestimmter Ort"
+    },
+    {
+      "en": "smooth",
+      "mean": "natürlich und fließend"
+    },
+    {
+      "en": "replace",
+      "mean": "an die Stelle treten von"
+    },
+    {
+      "en": "fluent",
+      "mean": "leicht und gut sprechen"
+    }
+  ],
+  "tip": "Stell dir Relativsätze wie eine Brücke vor. Sie verbinden zwei kurze Sätze zu einem einzigen, schönen Satz!",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "She is the artist ___ painted this amazing picture.",
+      "choices": [
+        "which",
+        "who",
+        "where"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "I lost the keys ___ opened the front door.",
+      "choices": [
+        "that",
+        "who",
+        "where"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "This is the cafe ___ we drink coffee every morning.",
+      "choices": [
+        "who",
+        "which",
+        "where"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "He has a dog ___ can do cool tricks.",
+      "choices": [
+        "who",
+        "which",
+        "where"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "Is this the town ___ you grew up as a child?",
+      "choices": [
+        "where",
+        "that",
+        "who"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "I met a man ___ works at the airport.",
+      "choices": [
+        "which",
+        "where",
+        "who"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

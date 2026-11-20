@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-27",
+  "slug": "giving-opinions",
+  "cefr": "B1",
+  "cat": "phrases",
+  "emoji": "🗣️",
+  "title": "Deine Meinung äußern: Wie man zustimmt und widerspricht",
+  "summary": "In dieser Lektion lernst du, wie du deine persönlichen Meinungen auf Englisch teilst. Du übst außerdem, wie du anderen auf höfliche Weise zustimmst oder widersprichst.",
+  "sections": [
+    {
+      "h": "Deine Meinung äußern",
+      "p": "Wenn du auf Englisch sagen möchtest, was du denkst, ist es hilfreich, am Satzanfang spezielle Redewendungen zu verwenden. So wissen andere, dass du deine persönliche Ansicht teilst und keinen unumstößlichen Fakt. Phrasen wie „I think“ oder „In my opinion“ lassen dein Englisch natürlich und höflich klingen.",
+      "ex": [
+        {
+          "en": "I think this movie is really exciting.",
+          "mean": "Meine persönliche Ansicht ist, dass dieser Film gut ist."
+        },
+        {
+          "en": "In my opinion, we should leave early.",
+          "mean": "Ich bin der Meinung, dass früh loszugehen die beste Wahl ist."
+        },
+        {
+          "en": "From my point of view, English is fun to learn.",
+          "mean": "Ich sehe das so: Englisch zu lernen macht Spaß."
+        }
+      ]
+    },
+    {
+      "h": "Höflich zustimmen",
+      "p": "Wenn jemand seine Meinung äußert und du genau genauso empfindest, kannst du deine Zustimmung mit entsprechenden Redewendungen zeigen. „I totally agree“ wird sehr häufig verwendet. Du kannst auch kürzere Phrasen wie „That is so true“ nutzen, um zu zeigen, dass du zuhörst und genau ihre Meinung teilst.",
+      "ex": [
+        {
+          "en": "I totally agree with you.",
+          "mean": "Ich habe genau denselben Gedanken wie du."
+        },
+        {
+          "en": "That is so true.",
+          "mean": "Was du gerade gesagt hast, ist richtig."
+        },
+        {
+          "en": "I feel the same way.",
+          "mean": "Meine Gefühle decken sich vollkommen mit deinen."
+        }
+      ]
+    },
+    {
+      "h": "Höflich widersprechen",
+      "p": "Es ist völlig in Ordnung, eine andere Meinung als deine Freunde zu haben! Im Englischen schwächen wir den Widerspruch jedoch meistens ab, damit wir nicht unhöflich klingen. Anstatt „You are wrong“ zu sagen, beginnen wir mit höflichen Floskeln wie „I see your point, but...“ oder „I am not sure about that.“",
+      "ex": [
+        {
+          "en": "I see your point, but I prefer the blue one.",
+          "mean": "Ich verstehe deinen Standpunkt, aber ich mag den anderen."
+        },
+        {
+          "en": "I am not sure I agree with that.",
+          "mean": "Ich denke da wahrscheinlich anders darüber."
+        },
+        {
+          "en": "Well, actually, I think it is quite cheap.",
+          "mean": "Eigentlich bin ich der Meinung, dass der Preis niedrig ist."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "In my opinion",
+      "mean": "was ich glaube"
+    },
+    {
+      "en": "I think",
+      "mean": "meine Idee ist"
+    },
+    {
+      "en": "I totally agree",
+      "mean": "ich denke dasselbe"
+    },
+    {
+      "en": "That is true",
+      "mean": "das ist richtig"
+    },
+    {
+      "en": "I see your point",
+      "mean": "ich verstehe dich"
+    },
+    {
+      "en": "Polite",
+      "mean": "nett und respektvoll"
+    },
+    {
+      "en": "Opinion",
+      "mean": "ein persönlicher Glaube"
+    }
+  ],
+  "tip": "Wenn du widersprichst, beginne immer damit, etwas Nettes wie „I see your point“ zu sagen. So bleibt das Gespräch freundlich und harmonisch!",
+  "quiz": [
+    {
+      "ask": "Wähle die beste Phrase aus, um deine Meinung zu äußern",
+      "en": "___ this restaurant is the best in town.",
+      "choices": [
+        "I think",
+        "I disagree",
+        "True"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die Phrase aus, die völlige Zustimmung zeigt",
+      "en": "A: It is a lovely day! B: ___",
+      "choices": [
+        "I see your point, but no",
+        "I totally agree with you",
+        "I am not sure"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die höfliche Art zu widersprechen",
+      "en": "___, but I like rainy days better.",
+      "choices": [
+        "You are totally wrong",
+        "I see your point",
+        "I hate you"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das korrekte fehlende Wort aus",
+      "en": "In my ___, cooking at home is better.",
+      "choices": [
+        "opinion",
+        "think",
+        "agree"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die beste Antwort aus, um zuzustimmen",
+      "en": "A: English grammar is useful. B: ___",
+      "choices": [
+        "That is so true",
+        "I have no idea",
+        "No, it is bad"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die richtige Phrase für eine abweichende Meinung aus",
+      "en": "___ I think we need more time.",
+      "choices": [
+        "I totally agree",
+        "Well, actually",
+        "That is true"
+      ],
+      "answer_index": 1
+    }
+  ]
+}
