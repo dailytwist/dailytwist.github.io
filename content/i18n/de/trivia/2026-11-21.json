@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-21",
+  "title": "Tägliche Trivia-Herausforderung: 21. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches europäische Binnenland ist vollständig von Italien umschlossen?",
+      "options": [
+        "Andorra",
+        "Liechtenstein",
+        "Luxemburg",
+        "San Marino"
+      ],
+      "answer_index": 3,
+      "fun_fact": "San Marino ist das fünftkleinste Land der Welt und gilt als die älteste noch existierende souveräne Republik."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Wie lautet das chemische Symbol für das Element Gold?",
+      "options": [
+        "Pb",
+        "Au",
+        "Fe",
+        "Ag"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Das Symbol „Au“ leitet sich vom lateinischen Wort „aurum“ ab, was „glänzende Morgenröte“ bedeutet."
+    },
+    {
+      "category": "Tiere",
+      "question": "Welches ist das einzige Säugetier, das zu einem echten, ausdauernden Flug fähig ist?",
+      "options": [
+        "Gleithörnchen",
+        "Fledermaus",
+        "Kurzkopfgleitbeutler",
+        "Gleitflieger"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Fledermäuse gehören zur Ordnung der Chiroptera, was aus dem Griechischen übersetzt „Handflügler“ bedeutet."
+    },
+    {
+      "category": "Geschichte",
+      "question": "In welchem heutigen Land fand die berühmte Schlacht bei Waterloo statt, die die endgültige Niederlage von Napoleon Bonaparte besiegelte?",
+      "options": [
+        "Belgien",
+        "Niederlande",
+        "Frankreich",
+        "Deutschland"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Die Schlacht am 18. Juni 1815 wurde von Koalitionsarmeen aus dem Vereinigten Königreich, den Niederlanden, Hannover und Preußen ausgetragen."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "In welchem Animationsfilm aus dem Jahr 1994 ist der Hit „Der Kreis des Lebens“ zu hören?",
+      "options": [
+        "Aladdin",
+        "Der König der Löwen",
+        "Hercules",
+        "Pocahontas"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Elton John und Tim Rice arbeiteten gemeinsam an der Musik und den Texten für den unvergesslichen Soundtrack des Films."
+    },
+    {
+      "category": "Essen & Trinken",
+      "question": "Welches traditionelle japanische Gewürz wird hauptsächlich aus fermentierten Sojabohnen, Salz und Koji hergestellt?",
+      "options": [
+        "Tofu",
+        "Tempeh",
+        "Miso",
+        "Natto"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Miso-Paste ist seit über tausend Jahren ein Grundnahrungsmittel der japanischen Küche und reich an essenziellen Vitaminen und Mineralstoffen."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Planet in unserem Sonnensystem besitzt das auffälligste und komplexeste Ringsystem, das von der Erde aus sichtbar ist?",
+      "options": [
+        "Jupiter",
+        "Neptun",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Saturns Ringe bestehen größtenteils aus Brocken aus Wassereis sowie kleineren Mengen an Gesteinstrümmern und Staub."
+    },
+    {
+      "category": "Sport",
+      "question": "Welcher Begriff wird im Tennissport verwendet, um einen Spielstand von null zu bezeichnen?",
+      "options": [
+        "Love",
+        "Nil",
+        "Duck",
+        "Zero"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Eine gängige Theorie besagt, dass der Begriff „love“ vom französischen Wort „l'oeuf“ (Ei) stammt, das wegen seiner ovalen Form als Symbol für die Null steht."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie nennt man ein Wort oder eine Phrase, die – wenn man Leerzeichen und Satzzeichen ignoriert – vorwärts und rückwärts gleich buchstabiert wird?",
+      "options": [
+        "Palindrom",
+        "Homonym",
+        "Synonym",
+        "Akronym"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Bekannte englische Palindrome sind „Madam, I'm Adam“ und „A man, a plan, a canal: Panama“."
+    },
+    {
+      "category": "Geografie",
+      "question": "Von welchem Land wird die Inselgruppe Svalbard, die für ihre Eisbärenpopulation und den globalen Saatguttresor bekannt ist, verwaltet?",
+      "options": [
+        "Norwegen",
+        "Dänemark",
+        "Island",
+        "Schweden"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Svalbard liegt im Arktischen Ozean etwa auf halbem Weg zwischen dem europäischen Festland von Norwegen und dem Nordpol."
+    }
+  ]
+}

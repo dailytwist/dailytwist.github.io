@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-21",
+  "title": "Desafio de Trivia Diário: 21 de Novembro de 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Qual país europeu sem saída para o mar é completamente cercado pela Itália?",
+      "options": [
+        "Andorra",
+        "Liechtenstein",
+        "Luxemburgo",
+        "San Marino"
+      ],
+      "answer_index": 3,
+      "fun_fact": "San Marino é o quinto menor país do mundo e se autoproclama a república soberana mais antiga ainda em existência."
+    },
+    {
+      "category": "Ciência",
+      "question": "Qual é o símbolo químico do elemento ouro?",
+      "options": [
+        "Pb",
+        "Au",
+        "Fe",
+        "Ag"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O símbolo 'Au' vem da palavra em latim 'aurum', que significa 'amanhecer brilhante'."
+    },
+    {
+      "category": "Animais",
+      "question": "Qual é o único mamífero capaz de voar de verdade e de forma sustentada?",
+      "options": [
+        "Esquilo-volante",
+        "Morcego",
+        "Planador-do-açúcar",
+        "Colugo"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Os morcegos pertencem à ordem Chiroptera, que vem do grego e significa 'asa-mão'."
+    },
+    {
+      "category": "História",
+      "question": "A famosa Batalha de Waterloo, que marcou a derrota definitiva de Napoleão Bonaparte, ocorreu em qual país atual?",
+      "options": [
+        "Bélgica",
+        "Holanda",
+        "França",
+        "Alemanha"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Travada em 18 de junho de 1815, a batalha envolveu exércitos de coalizão do Reino Unido, dos Países Baixos, de Hanôver e da Prússia."
+    },
+    {
+      "category": "Filmes e Cultura Pop",
+      "question": "Qual animação de 1994 apresenta a música de sucesso 'Circle of Life'?",
+      "options": [
+        "Aladdin",
+        "O Rei Leão",
+        "Hércules",
+        "Pocahontas"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Elton John e Tim Rice colaboraram na música e na letra da trilha sonora marcante do filme."
+    },
+    {
+      "category": "Comida",
+      "question": "Qual condimento tradicional japonês é feito principalmente de soja fermentada, sal e koji?",
+      "options": [
+        "Tofu",
+        "Tempeh",
+        "Miso",
+        "Natto"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A pasta de miso é um item básico da culinária japonesa há mais de mil anos e é rica em vitaminas e minerais essenciais."
+    },
+    {
+      "category": "Espaço",
+      "question": "Qual planeta do nosso sistema solar possui o sistema de anéis mais proeminente e complexo visível da Terra?",
+      "options": [
+        "Júpiter",
+        "Netuno",
+        "Saturno",
+        "Urano"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Os anéis de Saturno são compostos principalmente por pedaços de gelo de água com quantidades menores de detritos rochosos e poeira."
+    },
+    {
+      "category": "Esportes",
+      "question": "No tênis, qual termo é usado para indicar uma pontuação de zero?",
+      "options": [
+        "Love",
+        "Nil",
+        "Duck",
+        "Zero"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Uma teoria popular sugere que o termo 'love' vem da palavra francesa 'l'oeuf', que significa 'ovo', simbolizando o zero por causa de sua forma oval."
+    },
+    {
+      "category": "Idioma",
+      "question": "Qual é o termo para uma palavra ou frase que se escreve da mesma forma de trás para frente e de frente para trás, ignorando espaços e pontuação?",
+      "options": [
+        "Palíndromo",
+        "Homônimo",
+        "Sinônimo",
+        "Acrônimo"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Palíndromos famosos em inglês incluem 'Madam, I'm Adam' e 'A man, a plan, a canal: Panama'."
+    },
+    {
+      "category": "Geografia",
+      "question": "O arquipélago de Svalbard, conhecido por sua população de ursos polares e pelo cofre global de sementes, é administrado por qual país?",
+      "options": [
+        "Noruega",
+        "Dinamarca",
+        "Islândia",
+        "Suécia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Svalbard fica no Oceano Ártico, aproximadamente a meio caminho entre a Noruega continental e o Polo Norte."
+    }
+  ]
+}

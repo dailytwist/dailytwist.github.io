@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-21",
+  "title": "Daily Trivia Challenge: November 21, 2026",
+  "questions": [
+    {
+      "category": "Geography",
+      "question": "Which landlocked European country is completely surrounded by Italy?",
+      "options": [
+        "Andorra",
+        "Liechtenstein",
+        "Luxembourg",
+        "San Marino"
+      ],
+      "answer_index": 3,
+      "fun_fact": "San Marino is the fifth smallest country in the world and claims to be the oldest sovereign republic still in existence."
+    },
+    {
+      "category": "Science",
+      "question": "What is the chemical symbol for the element gold?",
+      "options": [
+        "Pb",
+        "Au",
+        "Fe",
+        "Ag"
+      ],
+      "answer_index": 1,
+      "fun_fact": "The symbol 'Au' is derived from the Latin word 'aurum', meaning 'shining dawn'."
+    },
+    {
+      "category": "Animals",
+      "question": "What is the only mammal capable of true, sustained flight?",
+      "options": [
+        "Flying squirrel",
+        "Bat",
+        "Sugar glider",
+        "Colugo"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Bats belong to the order Chiroptera, which translates from Greek to mean 'hand-wing'."
+    },
+    {
+      "category": "History",
+      "question": "The famous battle of Waterloo, which marked the final defeat of Napoleon Bonaparte, took place in which present-day country?",
+      "options": [
+        "Belgium",
+        "Netherlands",
+        "France",
+        "Germany"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Fought on June 18, 1815, the battle involved coalition armies from the United Kingdom, the Netherlands, Hanover, and Prussia."
+    },
+    {
+      "category": "Movies & Pop Culture",
+      "question": "Which 1994 animated film features the hit song 'Circle of Life'?",
+      "options": [
+        "Aladdin",
+        "The Lion King",
+        "Hercules",
+        "Pocahontas"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Elton John and Tim Rice collaborated on the music and lyrics for the film's memorable soundtrack."
+    },
+    {
+      "category": "Food",
+      "question": "Which traditional Japanese condiment is made primarily from fermented soybeans, salt, and koji?",
+      "options": [
+        "Tofu",
+        "Tempeh",
+        "Miso",
+        "Natto"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Miso paste has been a staple of Japanese cuisine for over a thousand years and is rich in essential vitamins and minerals."
+    },
+    {
+      "category": "Space",
+      "question": "Which planet in our solar system has the most prominent and complex ring system visible from Earth?",
+      "options": [
+        "Jupiter",
+        "Neptune",
+        "Saturn",
+        "Uranus"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Saturn's rings are composed mostly of chunks of water ice with smaller amounts of rocky debris and dust."
+    },
+    {
+      "category": "Sports",
+      "question": "In the sport of tennis, what term is used to denote a score of zero?",
+      "options": [
+        "Love",
+        "Nil",
+        "Duck",
+        "Zero"
+      ],
+      "answer_index": 0,
+      "fun_fact": "One popular theory suggests the term 'love' comes from the French word 'l'oeuf', meaning 'egg', symbolizing a zero because of its oval shape."
+    },
+    {
+      "category": "Language",
+      "question": "What is the term for a word or phrase that spells the same way forwards and backwards, ignoring spaces and punctuation?",
+      "options": [
+        "Palindrome",
+        "Homonym",
+        "Synonym",
+        "Acronym"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Famous English palindromes include 'Madam, I'm Adam' and 'A man, a plan, a canal: Panama'."
+    },
+    {
+      "category": "Geography",
+      "question": "The archipelago of Svalbard, known for its polar bear population and global seed vault, is administered by which country?",
+      "options": [
+        "Norway",
+        "Denmark",
+        "Iceland",
+        "Sweden"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Svalbard lies in the Arctic Ocean about midway between continental Norway and the North Pole."
+    }
+  ]
+}

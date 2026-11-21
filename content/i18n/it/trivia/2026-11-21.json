@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-21",
+  "title": "Sfida Trivia del Giorno: 21 Novembre 2026",
+  "questions": [
+    {
+      "category": "Geografia",
+      "question": "Quale stato europeo senza sbocco sul mare è completamente circondato dall'Italia?",
+      "options": [
+        "Andorra",
+        "Liechtenstein",
+        "Lussemburgo",
+        "San Marino"
+      ],
+      "answer_index": 3,
+      "fun_fact": "San Marino è il quinto stato più piccolo al mondo e vanta il titolo di repubblica sovrana più antica ancora esistente."
+    },
+    {
+      "category": "Scienza",
+      "question": "Qual è il simbolo chimico dell'elemento oro?",
+      "options": [
+        "Pb",
+        "Au",
+        "Fe",
+        "Ag"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Il simbolo 'Au' deriva dalla parola latina 'aurum', che significa 'alba splendente'."
+    },
+    {
+      "category": "Animali",
+      "question": "Qual è l'unico mammifero in grado di compiere un volo attivo e prolungato?",
+      "options": [
+        "Scoiattolo volante",
+        "Pipistrello",
+        "Petauro dello zucchero",
+        "Colugo"
+      ],
+      "answer_index": 1,
+      "fun_fact": "I pipistrelli appartengono all'ordine dei Chirotteri, che in greco antico significa letteralmente 'mano-ala'."
+    },
+    {
+      "category": "Storia",
+      "question": "La celebre battaglia di Waterloo, che segnò la sconfitta definitiva di Napoleone Bonaparte, ebbe luogo in quale odierno paese?",
+      "options": [
+        "Belgio",
+        "Paesi Bassi",
+        "Francia",
+        "Germania"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Combattuta il 18 giugno 1815, la battaglia vide scontrarsi gli eserciti della coalizione di Regno Unito, Paesi Bassi, Hannover e Prussia."
+    },
+    {
+      "category": "Cinema e Cultura Pop",
+      "question": "In quale film d'animazione del 1994 compare la celebre canzone 'Il cerchio della vita'?",
+      "options": [
+        "Aladdin",
+        "Il Re Leone",
+        "Hercules",
+        "Pocahontas"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Elton John e Tim Rice hanno collaborato alla stesura della musica e dei testi per la memorabile colonna sonora del film."
+    },
+    {
+      "category": "Cucina",
+      "question": "Quale condimento tradizionale giapponese è fatto principalmente con soia fermentata, sale e koji?",
+      "options": [
+        "Tofu",
+        "Tempeh",
+        "Miso",
+        "Natto"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La pasta miso è un pilastro della cucina giapponese da oltre mille anni ed è ricca di vitamine e minerali essenziali."
+    },
+    {
+      "category": "Spazio",
+      "question": "Quale pianeta del nostro sistema solare possiede il sistema di anelli più evidente e complesso visibile dalla Terra?",
+      "options": [
+        "Giove",
+        "Nettuno",
+        "Saturno",
+        "Urano"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Gli anelli di Saturno sono composti principalmente da blocchi di ghiaccio d'acqua, con minori quantità di detriti rocciosi e polvere."
+    },
+    {
+      "category": "Sport",
+      "question": "Nel tennis, quale termine viene usato per indicare il punteggio di zero?",
+      "options": [
+        "Love",
+        "Nil",
+        "Duck",
+        "Zero"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Una teoria molto diffusa suggerisce che il termine 'love' derivi dalla parola francese 'l'oeuf', che significa 'uovo', usato come simbolo dello zero per via della sua forma ovale."
+    },
+    {
+      "category": "Linguistica",
+      "question": "Come si chiama una parola o una frase che si legge allo stesso modo sia da sinistra a destra che da destra a sinistra, ignorando spazi e punteggiatura?",
+      "options": [
+        "Palindromo",
+        "Omonimo",
+        "Sinonimo",
+        "Acronimo"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Famosi palindromi in italiano includono 'I topi non avevano nipoti' e 'Ai lati d'Italia'."
+    },
+    {
+      "category": "Geografia",
+      "question": "L'arcipelago delle Svalbard, noto per la sua popolazione di orsi polari e per la banca globale dei semi, è amministrato da quale paese?",
+      "options": [
+        "Norvegia",
+        "Danimarca",
+        "Islanda",
+        "Svezia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le Svalbard si trovano nell'oceano Artico, a circa metà strada tra la Norvegia continentale e il Polo Nord."
+    }
+  ]
+}
