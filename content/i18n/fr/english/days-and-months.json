@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-22",
+  "slug": "days-and-months",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "📅",
+  "title": "Jours, mois et saisons",
+  "summary": "Apprenez à parler des jours, des mois et des saisons en anglais. Entraînez-vous à les utiliser pour vous repérer dans le temps et faire des projets.",
+  "sections": [
+    {
+      "h": "Jours de la semaine",
+      "p": "Une semaine compte sept jours. Tous les jours prennent une majuscule, comme Monday (lundi) et Tuesday (mardi). On utilise la préposition 'on' devant un jour, par exemple 'on Monday'. Le weekend regroupe le samedi et le dimanche.",
+      "ex": [
+        {
+          "en": "Today is Monday.",
+          "mean": "C'est le jour d'aujourd'hui."
+        },
+        {
+          "en": "I work on Tuesday.",
+          "mean": "Mon jour de travail est mardi."
+        },
+        {
+          "en": "We rest on Sunday.",
+          "mean": "Le dimanche est un jour de repos."
+        }
+      ]
+    },
+    {
+      "h": "Mois de l'année",
+      "p": "Une année compte douze mois. L'année commence en janvier et se termine en décembre. Les mois prennent aussi une majuscule. On utilise 'in' devant un mois, comme 'in January'.",
+      "ex": [
+        {
+          "en": "My birthday is in January.",
+          "mean": "Le mois de ma naissance est janvier."
+        },
+        {
+          "en": "School starts in September.",
+          "mean": "L'année scolaire commence en septembre."
+        }
+      ]
+    },
+    {
+      "h": "Les quatre saisons",
+      "p": "Une année comporte quatre saisons : le printemps, l'été, l'automne et l'hiver. Chaque saison apporte son lot de météo. On utilise 'in' devant les saisons, par exemple 'in summer'.",
+      "ex": [
+        {
+          "en": "It is hot in summer.",
+          "mean": "Le temps est chaud en été."
+        },
+        {
+          "en": "It snows in winter.",
+          "mean": "Il y a de la neige en hiver."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Monday",
+      "mean": "premier jour de travail"
+    },
+    {
+      "en": "Saturday",
+      "mean": "jour de weekend"
+    },
+    {
+      "en": "January",
+      "mean": "premier mois"
+    },
+    {
+      "en": "December",
+      "mean": "dernier mois"
+    },
+    {
+      "en": "Spring",
+      "mean": "saison des fleurs"
+    },
+    {
+      "en": "Summer",
+      "mean": "saison chaude"
+    },
+    {
+      "en": "Autumn",
+      "mean": "saison de l'automne"
+    },
+    {
+      "en": "Winter",
+      "mean": "saison froide"
+    }
+  ],
+  "tip": "Fabriquez un mini calendrier pour votre bureau et notez-y un événement en anglais chaque jour.",
+  "quiz": [
+    {
+      "ask": "Choisissez le bon jour",
+      "en": "After Monday comes ___.",
+      "choices": [
+        "Tuesday",
+        "Sunday",
+        "Friday"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la bonne préposition",
+      "en": "My birthday is ___ July.",
+      "choices": [
+        "on",
+        "in",
+        "at"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne saison",
+      "en": "The weather is very hot in ___.",
+      "choices": [
+        "winter",
+        "autumn",
+        "summer"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon mois",
+      "en": "The first month of the year is ___.",
+      "choices": [
+        "December",
+        "January",
+        "March"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon jour",
+      "en": "Saturday and Sunday are the ___.",
+      "choices": [
+        "weekdays",
+        "weekend",
+        "months"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne préposition",
+      "en": "We have no class ___ Friday.",
+      "choices": [
+        "in",
+        "at",
+        "on"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

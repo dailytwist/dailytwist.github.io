@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-22",
+  "slug": "plural-nouns",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "🍎",
+  "title": "Noms pluriels : un et plusieurs",
+  "summary": "Dans cette leçon, vous apprendrez à parler de plusieurs choses à la fois. Nous étudierons les noms pluriels réguliers et irréguliers.",
+  "sections": [
+    {
+      "h": "Pluriels réguliers : ajoutez -s",
+      "p": "La plupart des mots en anglais sont réguliers. Lorsque vous avez deux objets ou plus, il vous suffit d'ajouter un « s » à la fin du mot. Par exemple, un chat (one cat) devient deux chats (two cats). C'est la façon la plus simple de mettre un mot au pluriel, et vous l'utiliserez chaque jour lorsque vous parlez et écrivez en anglais.",
+      "ex": [
+        {
+          "en": "I have one cat and two dogs.",
+          "mean": "un chat, plus deux chiens"
+        },
+        {
+          "en": "Please buy three apples at the store.",
+          "mean": "plus d'une pomme"
+        },
+        {
+          "en": "My books are on the table.",
+          "mean": "plus d'un livre"
+        }
+      ]
+    },
+    {
+      "h": "Mots se terminant par -ch, -sh, -s, -x",
+      "p": "Certains mots se terminent par des sons particuliers comme ch, sh, s ou x. Vous ne pouvez pas simplement ajouter un « s » à ces mots. À la place, vous devez ajouter « -es » à la fin pour qu'ils soient faciles à prononcer. Par exemple, une boîte devient deux boîtes (two boxes), et un bus devient deux bus (two buses).",
+      "ex": [
+        {
+          "en": "I wash the dishes every evening.",
+          "mean": "plus d'un plat"
+        },
+        {
+          "en": "There are two buses on the street.",
+          "mean": "plus d'un bus"
+        },
+        {
+          "en": "She has three boxes of shoes.",
+          "mean": "plus d'une boîte"
+        }
+      ]
+    },
+    {
+      "h": "Pluriels irréguliers",
+      "p": "Certains mots anglais courants ne suivent pas les règles. Leur orthographe change complètement lorsqu'ils se mettent au pluriel ! Par exemple, un enfant (one child) devient deux enfants (two children), et un homme (one man) devient deux hommes (two men). Vous devez mémoriser ces mots particuliers car les gens les utilisent tout le temps.",
+      "ex": [
+        {
+          "en": "The children are playing in the park.",
+          "mean": "plus d'un enfant"
+        },
+        {
+          "en": "I see two men near the door.",
+          "mean": "plus d'un homme"
+        },
+        {
+          "en": "My feet are cold today.",
+          "mean": "mes deux pieds"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "cat",
+      "mean": "petit animal de compagnie à fourrure"
+    },
+    {
+      "en": "cats",
+      "mean": "plus d'un chat"
+    },
+    {
+      "en": "bus",
+      "mean": "grand véhicule pour passagers"
+    },
+    {
+      "en": "buses",
+      "mean": "plus d'un bus"
+    },
+    {
+      "en": "child",
+      "mean": "jeune personne"
+    },
+    {
+      "en": "children",
+      "mean": "plus d'un enfant"
+    },
+    {
+      "en": "man",
+      "mean": "mâle adulte"
+    },
+    {
+      "en": "men",
+      "mean": "plus d'un homme"
+    }
+  ],
+  "tip": "Fabriquez une carte mémoire pour les mots irréguliers comme child et children. Entraînez-vous à les prononcer à haute voix tous les jours !",
+  "quiz": [
+    {
+      "ask": "Choisissez la bonne forme plurielle",
+      "en": "I have two ___ in my bag.",
+      "choices": [
+        "book",
+        "books",
+        "bookes"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne forme plurielle",
+      "en": "The ___ are waiting for the bus.",
+      "choices": [
+        "man",
+        "mans",
+        "men"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez la bonne forme plurielle",
+      "en": "Please clean the ___ after dinner.",
+      "choices": [
+        "dishs",
+        "dishes",
+        "dish"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne forme plurielle",
+      "en": "I see three ___ playing outside.",
+      "choices": [
+        "childs",
+        "childes",
+        "children"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez la bonne forme plurielle",
+      "en": "She bought four ___ at the market.",
+      "choices": [
+        "apple",
+        "apples",
+        "applese"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne forme plurielle",
+      "en": "My ___ hurt after walking all day.",
+      "choices": [
+        "feets",
+        "foot",
+        "feet"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-22",
+  "slug": "numbers-1-100",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "🔢",
+  "title": "Chiffres, âge et numéros de téléphone",
+  "summary": "Dans cette leçon ludique, vous allez apprendre les nombres de 1 à 100. Vous apprendrez également à dire votre âge et votre numéro de téléphone.",
+  "sections": [
+    {
+      "h": "Les nombres de 1 à 20",
+      "p": "Tout d'abord, apprenons les nombres de base. Les nombres de un à dix sont faciles : one, two, three, four, five, six, seven, eight, nine, ten. Les nombres de onze à vingt sont des mots particuliers qu'il faut mémoriser, comme eleven, twelve, fifteen et twenty.",
+      "ex": [
+        {
+          "en": "I have three cats.",
+          "mean": "Le nombre est three."
+        },
+        {
+          "en": "She is twenty years old.",
+          "mean": "Le nombre est twenty."
+        }
+      ]
+    },
+    {
+      "h": "Les dizaines (de 30 à 100)",
+      "p": "Pour compter par dizaines, on ajoute 'ty' à la fin. Par exemple : thirty, forty, fifty, sixty, seventy, eighty, ninety et one hundred. Pour former des nombres comme 35 ou 42, dites d'abord la dizaine puis le petit nombre : thirty-five, forty-two.",
+      "ex": [
+        {
+          "en": "The book costs fifty dollars.",
+          "mean": "Le nombre est fifty."
+        },
+        {
+          "en": "My grandfather is seventy-five.",
+          "mean": "Le nombre est seventy-five."
+        }
+      ]
+    },
+    {
+      "h": "Dire son âge et son numéro de téléphone",
+      "p": "Pour dire quel âge vous avez, utilisez le verbe 'to be'. Dites 'I am' suivi de votre âge. Pour communiquer votre numéro de téléphone, énoncez chaque chiffre un par un. Par exemple, 555-1234 se lit five-five-five, one-two-three-four.",
+      "ex": [
+        {
+          "en": "I am twenty-five years old.",
+          "mean": "Voici comment dire votre âge."
+        },
+        {
+          "en": "My phone number is 555-4321.",
+          "mean": "Voici comment partager votre numéro de téléphone."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "one",
+      "mean": "number 1"
+    },
+    {
+      "en": "ten",
+      "mean": "number 10"
+    },
+    {
+      "en": "twenty",
+      "mean": "number 20"
+    },
+    {
+      "en": "fifty",
+      "mean": "number 50"
+    },
+    {
+      "en": "one hundred",
+      "mean": "number 100"
+    },
+    {
+      "en": "age",
+      "mean": "how old you are"
+    },
+    {
+      "en": "phone number",
+      "mean": "digits to call someone"
+    }
+  ],
+  "tip": "Exercez-vous avec les chiffres en lisant les prix des articles que vous voyez lors de vos achats ! De plus, répétez votre numéro de téléphone à haute voix chaque jour pour bien le mémoriser.",
+  "quiz": [
+    {
+      "ask": "Choisissez le nombre correct pour 30",
+      "en": "I have ___ pens.",
+      "choices": [
+        "thirteen",
+        "thirty",
+        "three",
+        "third"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne façon de dire son âge",
+      "en": "I ___ twenty years old.",
+      "choices": [
+        "have",
+        "am",
+        "do",
+        "make"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le nombre correct pour 100",
+      "en": "The maximum score is ___.",
+      "choices": [
+        "ten",
+        "fifty",
+        "one hundred",
+        "one thousand"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez l'orthographe correcte pour 15",
+      "en": "She is ___ years old.",
+      "choices": [
+        "fiveteen",
+        "fifteen",
+        "fifti",
+        "fivety"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct pour un contact téléphonique",
+      "en": "What is your phone ___?",
+      "choices": [
+        "number",
+        "age",
+        "name",
+        "house"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le nombre correct pour 80",
+      "en": "He is ___ years old.",
+      "choices": [
+        "eight",
+        "eighty",
+        "eighteen",
+        "Eighty-eight"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

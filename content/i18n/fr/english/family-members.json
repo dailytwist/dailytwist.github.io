@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-22",
+  "slug": "family-members",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "👨‍👩‍",
+  "title": "Parler de sa famille",
+  "summary": "Apprenez à nommer les membres de votre famille en anglais. Entraînez-vous à dire qui compose votre famille avec des mots simples.",
+  "sections": [
+    {
+      "h": "Parents et fraterie",
+      "p": "En anglais, nous utilisons des mots spécifiques pour les personnes de notre famille. Votre mère et votre père sont vos parents. Un frère est un garçon né de vos parents. Une sœur est une fille née de vos parents. Nous utilisons le verbe 'have' pour parler de notre famille. Par exemple, vous pouvez dire 'I have one brother' ou 'I have a sister'.",
+      "ex": [
+        {
+          "en": "This is my mother.",
+          "mean": "Présenter son parent de sexe féminin."
+        },
+        {
+          "en": "I have one brother.",
+          "mean": "Dire que l'on a un frère."
+        },
+        {
+          "en": "She is my sister.",
+          "mean": "Montrer sa sœur."
+        }
+      ]
+    },
+    {
+      "h": "Mari, femme et enfants",
+      "p": "Quand les gens se marient, l'homme est un mari et la femme est une épouse. Votre fils est votre enfant de sexe masculin. Votre fille est votre enfant de sexe féminin. Ensemble, ce sont vos enfants. Vous pouvez dire 'I have two children' pour parler de votre fils et de votre fille de manière simple et claire.",
+      "ex": [
+        {
+          "en": "He is my husband.",
+          "mean": "Présenter son mari."
+        },
+        {
+          "en": "We have a daughter.",
+          "mean": "Dire que l'on a une fille."
+        },
+        {
+          "en": "This is my son.",
+          "mean": "Présenter son fils."
+        }
+      ]
+    },
+    {
+      "h": "Grands-parents",
+      "p": "Les parents de votre mère et les parents de votre père sont vos grands-parents. L'homme est votre grand-père et la femme est votre grand-mère. En anglais de tous les jours, beaucoup de gens les appellent 'grandpa' et 'grandma' car cela sonne amical et chaleureux. Vous pouvez dire 'My grandparents are very nice'.",
+      "ex": [
+        {
+          "en": "This is my grandfather.",
+          "mean": "Présenter le père de son parent."
+        },
+        {
+          "en": "My grandmother is kind.",
+          "mean": "Décrire la mère de son parent."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "mother",
+      "mean": "parent de sexe féminin"
+    },
+    {
+      "en": "father",
+      "mean": "parent de sexe masculin"
+    },
+    {
+      "en": "brother",
+      "mean": "frère"
+    },
+    {
+      "en": "sister",
+      "mean": "sœur"
+    },
+    {
+      "en": "husband",
+      "mean": "homme marié"
+    },
+    {
+      "en": "wife",
+      "mean": "femme mariée"
+    },
+    {
+      "en": "son",
+      "mean": "enfant de sexe masculin"
+    },
+    {
+      "en": "daughter",
+      "mean": "enfant de sexe féminin"
+    },
+    {
+      "en": "grandfather",
+      "mean": "père d'un parent"
+    },
+    {
+      "en": "grandmother",
+      "mean": "mère d'un parent"
+    }
+  ],
+  "tip": "Regardez des photos de votre famille sur votre téléphone. Montrez chaque personne du doigt et dites son nom en anglais à haute voix.",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "My mother and father are my ___.",
+      "choices": [
+        "parents",
+        "brothers",
+        "children"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "A boy from your mother and father is your ___.",
+      "choices": [
+        "sister",
+        "brother",
+        "wife"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "This is my ___ . She is married to me.",
+      "choices": [
+        "husband",
+        "son",
+        "wife"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "My parent's mother is my ___.",
+      "choices": [
+        "grandmother",
+        "grandfather",
+        "daughter"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "A girl child is your ___.",
+      "choices": [
+        "son",
+        "daughter",
+        "brother"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "I ___ one sister.",
+      "choices": [
+        "has",
+        "is",
+        "have"
+      ],
+      "answer_index": 2
+    }
+  ]
+}
