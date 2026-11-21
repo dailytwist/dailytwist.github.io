@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-22",
+  "slug": "colors",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "🎨",
+  "title": "Les couleurs et la description",
+  "summary": "Apprenez les noms des couleurs de base en anglais. Entraînez-vous à utiliser les couleurs pour décrire des objets du quotidien.",
+  "sections": [
+    {
+      "h": "Les couleurs de base",
+      "p": "Les couleurs nous aident à décrire le monde qui nous entoure. En anglais, nous utilisons le verbe 'to be' (être) avec les couleurs. Par exemple, nous disons 'It is red' (C'est rouge) ou 'The pen is blue' (Le stylo est bleu). Les noms de couleurs se placent généralement avant les noms, comme dans 'a red car' (une voiture rouge), ou après le verbe 'is', comme dans 'The car is red' (La voiture est rouge).",
+      "ex": [
+        {
+          "en": "The apple is red.",
+          "mean": "Le fruit a une couleur rouge."
+        },
+        {
+          "en": "The sky is blue.",
+          "mean": "Le ciel a une couleur bleue."
+        },
+        {
+          "en": "I have a yellow bag.",
+          "mean": "Mon sac est jaune."
+        }
+      ]
+    },
+    {
+      "h": "Demander les couleurs",
+      "p": "Pour demander la couleur de quelque chose, nous utilisons la question 'What color is...?' (De quelle couleur est... ?). La réponse commence généralement par 'It is' ou 'They are' suivi du nom de la couleur. C'est très utile lorsque vous faites du shopping ou que vous cherchez vos affaires.",
+      "ex": [
+        {
+          "en": "What color is your car?",
+          "mean": "Demander la couleur d'une voiture."
+        },
+        {
+          "en": "It is black.",
+          "mean": "La voiture a une couleur noire."
+        },
+        {
+          "en": "What color are your shoes?",
+          "mean": "Demander la couleur de chaussures."
+        }
+      ]
+    },
+    {
+      "h": "Couleurs au pluriel",
+      "p": "Quand nous parlons de plusieurs choses, nous remplaçons 'is' par 'are'. Nous disons 'The cats are white' (Les chats sont blancs) ou 'The books are green' (Les livres sont verts). Le mot de la couleur reste inchangé même s'il y a plusieurs objets.",
+      "ex": [
+        {
+          "en": "The flowers are yellow.",
+          "mean": "Plus d'une fleur est jaune."
+        },
+        {
+          "en": "These pens are green.",
+          "mean": "Plus d'un stylo est vert."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "red",
+      "mean": "couleur du sang"
+    },
+    {
+      "en": "blue",
+      "mean": "couleur du ciel"
+    },
+    {
+      "en": "yellow",
+      "mean": "couleur du soleil"
+    },
+    {
+      "en": "green",
+      "mean": "couleur de l'herbe"
+    },
+    {
+      "en": "black",
+      "mean": "couleur foncée"
+    },
+    {
+      "en": "white",
+      "mean": "couleur de la neige"
+    },
+    {
+      "en": "What color",
+      "mean": "demander la couleur"
+    },
+    {
+      "en": "bag",
+      "mean": "objet pour transporter des affaires"
+    }
+  ],
+  "tip": "Regardez autour de vous dans votre pièce en ce moment. Dites la couleur de trois objets à haute voix en anglais, comme 'The door is brown.'",
+  "quiz": [
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "The sun is ___.",
+      "choices": [
+        "blue",
+        "yellow",
+        "red"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "What ___ is your pen?",
+      "choices": [
+        "color",
+        "name",
+        "dog"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la bonne réponse",
+      "en": "The grass is green. -> Grass is ___.",
+      "choices": [
+        "blue",
+        "black",
+        "green"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "Snow is ___.",
+      "choices": [
+        "white",
+        "red",
+        "green"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon verbe",
+      "en": "The flowers ___ yellow.",
+      "choices": [
+        "is",
+        "are",
+        "am"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne phrase",
+      "en": "Which sentence is correct?",
+      "choices": [
+        "The car is red.",
+        "Red is car the.",
+        "Car is the red."
+      ],
+      "answer_index": 0
+    }
+  ]
+}

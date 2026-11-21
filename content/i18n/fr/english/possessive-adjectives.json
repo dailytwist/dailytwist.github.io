@@ -1,0 +1,144 @@
+{
+  "date": "2026-10-22",
+  "slug": "possessive-adjectives",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "🎒",
+  "title": "Les adjectifs possessifs : mon, ton, son, notre, leur",
+  "summary": "Apprenez à indiquer à qui appartient quelque chose en utilisant des mots comme mon, ton et son. Ces mots rendent votre anglais naturel et clair.",
+  "sections": [
+    {
+      "h": "Que sont les adjectifs possessifs ?",
+      "p": "Les adjectifs possessifs indiquent à qui appartient un objet. Nous plaçons ces mots juste avant un nom. Par exemple, on dit 'my pen' (mon stylo) ou 'your bag' (ton sac). Ils changent selon la personne qui possède l'objet. On utilise 'my' pour I (je), 'your' pour you (tu/vous), 'his' pour un homme et 'her' pour une femme.",
+      "ex": [
+        {
+          "en": "This is my book.",
+          "mean": "Le livre m'appartient."
+        },
+        {
+          "en": "Where is your coat?",
+          "mean": "Le manteau t'appartient."
+        },
+        {
+          "en": "His car is red.",
+          "mean": "La voiture lui appartient."
+        },
+        {
+          "en": "Her name is Anna.",
+          "mean": "Le nom lui appartient."
+        }
+      ]
+    },
+    {
+      "h": "Parler des animaux, des groupes et de tout le monde",
+      "p": "Nous utilisons 'its' pour les animaux ou les choses, comme un chien ou un téléphone. Nous utilisons 'our' quand quelque chose nous appartient à vous et à moi. Nous utilisons 'their' quand quelque chose appartient à un groupe d'autres personnes. Accordez toujours le mot avec le propriétaire, et non avec l'objet.",
+      "ex": [
+        {
+          "en": "The dog wags its tail.",
+          "mean": "La queue appartient au chien."
+        },
+        {
+          "en": "This is our classroom.",
+          "mean": "La classe nous appartient."
+        },
+        {
+          "en": "Their house is big.",
+          "mean": "La maison leur appartient."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "my",
+      "mean": "m'appartient"
+    },
+    {
+      "en": "your",
+      "mean": "t'appartient"
+    },
+    {
+      "en": "his",
+      "mean": "appartient à un homme"
+    },
+    {
+      "en": "her",
+      "mean": "appartient à une femme"
+    },
+    {
+      "en": "its",
+      "mean": "appartient à un animal ou à une chose"
+    },
+    {
+      "en": "our",
+      "mean": "nous appartient"
+    },
+    {
+      "en": "their",
+      "mean": "leur appartient"
+    }
+  ],
+  "tip": "Regardez la personne qui possède l'objet pour choisir le bon mot. N'oubliez pas : He = his, She = her, They = their !",
+  "quiz": [
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "I have a cat. ___ name is Luna.",
+      "choices": [
+        "His",
+        "Its",
+        "Her"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "You are a student. Where is ___ backpack?",
+      "choices": [
+        "your",
+        "my",
+        "our"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "John is here. This is ___ jacket.",
+      "choices": [
+        "her",
+        "their",
+        "his"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "Maria loves ___ new shoes.",
+      "choices": [
+        "its",
+        "her",
+        "his"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "We live in this city. ___ street is quiet.",
+      "choices": [
+        "their",
+        "your",
+        "our"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "The children are playing with ___ toys.",
+      "choices": [
+        "their",
+        "our",
+        "its"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-22",
+  "slug": "articles-a-an-the",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "📚",
+  "title": "A, An et The",
+  "summary": "Apprenez à utiliser 'a', 'an' et 'the'. Ces petits mots vous aident à parler des gens, des lieux et des choses.",
+  "sections": [
+    {
+      "h": "Utiliser A et An",
+      "p": "On utilise 'a' ou 'an' pour désigner une seule chose la toute première fois qu'on en parle. Utilisez 'a' devant les mots qui commencent par un son consonantique, comme a book ou a car. Utilisez 'an' devant les mots qui commencent par un son vocalique, comme an apple ou an egg. Cela permet à votre expression d'être fluide.",
+      "ex": [
+        {
+          "en": "I have a dog.",
+          "mean": "Je possède un chien."
+        },
+        {
+          "en": "She eats an apple every day.",
+          "mean": "Elle mange une pomme par jour."
+        },
+        {
+          "en": "He wants a new phone.",
+          "mean": "Il a besoin d'un nouveau téléphone portable."
+        }
+      ]
+    },
+    {
+      "h": "Utiliser The",
+      "p": "On utilise 'the' lorsque celui qui écoute ou lit sait déjà de quelle chose il est question. Peut-être qu'il n'y en a qu'une seule, ou qu'on en a déjà parlé. Par exemple, comme il n'y a qu'un seul soleil dans le ciel, on dit 'the sun'. Si vous achetez une voiture, la première fois c'est 'a car', mais les fois suivantes c'est 'the car'.",
+      "ex": [
+        {
+          "en": "The sun is very hot today.",
+          "mean": "Notre soleil est chaud en ce moment."
+        },
+        {
+          "en": "Please close the door.",
+          "mean": "Fermez cette porte précise."
+        },
+        {
+          "en": "I see a cat. The cat is black.",
+          "mean": "D'abord on mentionne un chat, puis ce chat en particulier."
+        }
+      ]
+    },
+    {
+      "h": "Pas d'article",
+      "p": "Parfois, on n'utilise aucun article devant un mot. C'est le cas lorsqu'on parle de choses plurielles en général, ou de choses indénombrables comme l'eau et le lait en général. Par exemple, on dit 'I like cats' et non 'I like the cats' quand on veut parler de tous les chats du monde.",
+      "ex": [
+        {
+          "en": "I like music.",
+          "mean": "J'aime la musique en général."
+        },
+        {
+          "en": "Dogs are friendly animals.",
+          "mean": "Tous les chiens sont généralement amicaux."
+        },
+        {
+          "en": "She drinks water every morning.",
+          "mean": "De l'eau en général, et non une bouteille spécifique."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "a",
+      "mean": "utilisé devant les sons consonantiques"
+    },
+    {
+      "en": "an",
+      "mean": "utilisé devant les sons vocaliques"
+    },
+    {
+      "en": "the",
+      "mean": "utilisé pour des choses spécifiques"
+    },
+    {
+      "en": "consonant",
+      "mean": "lettres comme b, c, d"
+    },
+    {
+      "en": "vowel",
+      "mean": "lettres a, e, i, o, u"
+    },
+    {
+      "en": "specific",
+      "mean": "une chose exacte"
+    },
+    {
+      "en": "general",
+      "mean": "parler de toutes les choses"
+    }
+  ],
+  "tip": "Retenez bien : 'a' et 'an' s'utilisent pour une nouvelle chose unique. 'The' s'utilise pour quelque chose que l'on connaît déjà.",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "I want ___ apple, please.",
+      "choices": [
+        "a",
+        "an",
+        "the"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "She has ___ new car.",
+      "choices": [
+        "a",
+        "an",
+        "the"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "Look at ___ moon tonight!",
+      "choices": [
+        "a",
+        "an",
+        "the"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "He is reading ___ book.",
+      "choices": [
+        "an",
+        "the",
+        "a"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "Pass me ___ salt, please.",
+      "choices": [
+        "the",
+        "a",
+        "an"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct",
+      "en": "She eats ___ egg for breakfast.",
+      "choices": [
+        "a",
+        "the",
+        "an"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

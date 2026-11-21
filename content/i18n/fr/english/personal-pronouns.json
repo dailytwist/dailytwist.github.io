@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-22",
+  "slug": "personal-pronouns",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "👥",
+  "title": "Pronoms sujets : Je, Tu, Il, Elle, On, Nous, Ils",
+  "summary": "Apprenez à utiliser les pronoms sujets en anglais. Ces mots nous aident à parler facilement des personnes, des animaux et des choses.",
+  "sections": [
+    {
+      "h": "Parler de soi et des autres",
+      "p": "Quand vous parlez de vous-même, utilisez 'I'. Quand vous vous adressez à la personne en face de vous, utilisez 'you'. Ces mots constituent le début de nombreuses phrases en anglais et sont indispensables pour les conversations de tous les jours.",
+      "ex": [
+        {
+          "en": "I am a student.",
+          "mean": "Parler de soi"
+        },
+        {
+          "en": "You are my friend.",
+          "mean": "S'adresser à une personne"
+        }
+      ]
+    },
+    {
+      "h": "Il, Elle et Ça",
+      "p": "Nous utilisons 'he' pour un homme ou un garçon. Nous utilisons 'she' pour une femme ou une fille. Quand nous parlons d'un animal ou d'une chose, nous utilisons 'it'. Cela simplifie grandement l'expression orale et écrite.",
+      "ex": [
+        {
+          "en": "He is a teacher.",
+          "mean": "Parler d'un homme"
+        },
+        {
+          "en": "She is happy.",
+          "mean": "Parler d'une femme"
+        },
+        {
+          "en": "It is a big dog.",
+          "mean": "Parler d'un animal"
+        }
+      ]
+    },
+    {
+      "h": "Groupes de personnes et de choses",
+      "p": "Utilisez 'we' lorsque vous faites partie d'un groupe. Utilisez 'they' lorsque vous parlez d'autres personnes, animaux ou choses formant un groupe. Ces pronoms nous aident à évoquer plusieurs personnes ou choses en même temps.",
+      "ex": [
+        {
+          "en": "We are happy today.",
+          "mean": "Vous et d'autres personnes"
+        },
+        {
+          "en": "They are nice people.",
+          "mean": "Un groupe d'autres personnes"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "I",
+      "mean": "la personne qui parle"
+    },
+    {
+      "en": "You",
+      "mean": "la personne qui écoute"
+    },
+    {
+      "en": "He",
+      "mean": "une personne de sexe masculin"
+    },
+    {
+      "en": "She",
+      "mean": "une personne de sexe féminin"
+    },
+    {
+      "en": "It",
+      "mean": "une chose ou un animal"
+    },
+    {
+      "en": "We",
+      "mean": "moi et les autres"
+    },
+    {
+      "en": "They",
+      "mean": "plus d'une personne ou d'une chose"
+    }
+  ],
+  "tip": "Pointez du doigt votre poitrine pour 'I' et votre ami(e) pour 'you'. Associer les mots à des gestes aide votre cerveau à les mémoriser plus vite !",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct pour un homme.",
+      "en": "___ is a doctor.",
+      "choices": [
+        "She",
+        "He",
+        "It",
+        "They"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct pour vous-même.",
+      "en": "___ am learning English.",
+      "choices": [
+        "I",
+        "He",
+        "You",
+        "We"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct pour une femme.",
+      "en": "___ is my mother.",
+      "choices": [
+        "He",
+        "It",
+        "She",
+        "They"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct pour un chat.",
+      "en": "___ is sleeping.",
+      "choices": [
+        "You",
+        "He",
+        "They",
+        "It"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Choisissez le mot correct pour vous et votre ami(e).",
+      "en": "___ are going home.",
+      "choices": [
+        "We",
+        "He",
+        "She",
+        "It"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct pour un groupe de personnes.",
+      "en": "___ are playing football.",
+      "choices": [
+        "I",
+        "It",
+        "They",
+        "He"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

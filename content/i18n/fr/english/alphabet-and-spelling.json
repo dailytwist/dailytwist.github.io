@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-22",
+  "slug": "alphabet-and-spelling",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "🔤",
+  "title": "L'alphabet anglais et l'orthographe",
+  "summary": "Dans cette leçon, vous apprendrez le nom des lettres anglaises. Vous apprendrez également à épeler votre nom.",
+  "sections": [
+    {
+      "h": "L'alphabet anglais",
+      "p": "L'alphabet anglais compte vingt-six lettres. Il y a cinq voyelles (A, E, I, O, U) et vingt-et-une consonnes. Chaque lettre a un nom particulier. Lorsque l'on vous demande votre nom en anglais, vous devez souvent l'épeler à haute voix, lettre par lettre, pour qu'il soit noté correctement.",
+      "ex": [
+        {
+          "en": "A, B, C, D, E are the first five letters.",
+          "mean": "Le début de l'alphabet."
+        },
+        {
+          "en": "My name is Anna. A-N-N-A.",
+          "mean": "Comment prononcer et épeler un nom."
+        }
+      ]
+    },
+    {
+      "h": "Comment épeler votre nom",
+      "p": "Quand quelqu'un demande 'How do you spell your name?', vous énoncez chaque lettre une par une. Écoutez attentivement le nom des lettres. Par exemple, la lettre 'I' se prononce comme 'eye', et la lettre 'Y' se prononce comme 'why'. Entraînez-vous à prononcer votre nom lentement.",
+      "ex": [
+        {
+          "en": "How do you spell that?",
+          "mean": "Veuillez me donner les lettres."
+        },
+        {
+          "en": "It is J-O-H-N.",
+          "mean": "L'orthographe du prénom John."
+        }
+      ]
+    },
+    {
+      "h": "Questions utiles",
+      "p": "Au quotidien, on a souvent besoin d'aide pour l'orthographe. Vous pouvez demander à quelqu'un de répéter les lettres s'il parle trop vite. Des formules polies vous aident à communiquer clairement lorsque vous vous faites de nouveaux amis, vous enregistrez à l'hôtel ou parlez au téléphone.",
+      "ex": [
+        {
+          "en": "Can you spell that, please?",
+          "mean": "Veuillez me donner les lettres."
+        },
+        {
+          "en": "Could you repeat that slowly?",
+          "mean": "Répétez plus lentement."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "alphabet",
+      "mean": "toutes les lettres de A à Z"
+    },
+    {
+      "en": "letter",
+      "mean": "A, B, C, etc."
+    },
+    {
+      "en": "spell",
+      "mean": "dire les lettres dans l'ordre"
+    },
+    {
+      "en": "name",
+      "mean": "votre nom"
+    },
+    {
+      "en": "vowel",
+      "mean": "A, E, I, O, U"
+    },
+    {
+      "en": "consonant",
+      "mean": "les autres lettres"
+    },
+    {
+      "en": "ask",
+      "mean": "vouloir savoir"
+    },
+    {
+      "en": "repeat",
+      "mean": "dire à nouveau"
+    }
+  ],
+  "tip": "Entraînez-vous à épeler votre propre nom et celui de vos amis tous les jours. Dites les lettres à haute voix pour mémoriser leur son.",
+  "quiz": [
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "How do you ___ your name?",
+      "choices": [
+        "spell",
+        "read",
+        "write"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "There are twenty-six letters in the English ___.",
+      "choices": [
+        "book",
+        "alphabet",
+        "number"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez la bonne lettre",
+      "en": "Which of these is a vowel?",
+      "choices": [
+        "B",
+        "Z",
+        "A"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez la bonne question",
+      "en": "When you do not understand, you say: 'Can you ___ that, please?'",
+      "choices": [
+        "spell",
+        "sing",
+        "run"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez la bonne définition",
+      "en": "What does 'repeat' mean?",
+      "choices": [
+        "go home",
+        "say again",
+        "write down"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le bon mot",
+      "en": "My ___ is Maria.",
+      "choices": [
+        "pen",
+        "table",
+        "name"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

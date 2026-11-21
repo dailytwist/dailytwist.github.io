@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-22",
+  "slug": "this-that-these-those",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "👉",
+  "title": "This, That, These, Those",
+  "summary": "Apprenez à désigner des objets proches ou éloignés. Vous apprendrez également à parler d'un seul objet ou de plusieurs.",
+  "sections": [
+    {
+      "h": "This et These (Proche)",
+      "p": "Utilisez 'this' pour parler d'une seule chose qui est proche de vous. Par exemple, un stylo dans votre main. Utilisez 'these' pour parler de deux choses ou plus qui sont proches de vous. Ces deux mots s'utilisent pour des éléments près de votre corps ou juste devant vous.",
+      "ex": [
+        {
+          "en": "This is my coffee.",
+          "mean": "Le café est dans ma main ou juste ici."
+        },
+        {
+          "en": "These shoes are new.",
+          "mean": "Les chaussures sont à mes pieds en ce moment même."
+        }
+      ]
+    },
+    {
+      "h": "That et Those (Éloigné)",
+      "p": "Utilisez 'that' pour parler d'une seule chose qui est loin de vous. Par exemple, une voiture dans la rue. Utilisez 'those' pour parler de deux choses ou plus qui sont éloignées. Ces deux mots s'utilisent pour des choses que vous ne pouvez pas toucher facilement.",
+      "ex": [
+        {
+          "en": "That is a big house.",
+          "mean": "La maison est là-bas, très loin."
+        },
+        {
+          "en": "Look at those birds in the tree.",
+          "mean": "Les oiseaux sont perchés haut dans l'arbre."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "this",
+      "mean": "une chose proche"
+    },
+    {
+      "en": "that",
+      "mean": "une chose éloignée"
+    },
+    {
+      "en": "these",
+      "mean": "plusieurs choses proches"
+    },
+    {
+      "en": "those",
+      "mean": "plusieurs choses éloignées"
+    },
+    {
+      "en": "near",
+      "mean": "proche de vous"
+    },
+    {
+      "en": "far",
+      "mean": "pas proche"
+    },
+    {
+      "en": "thing",
+      "mean": "un objet"
+    }
+  ],
+  "tip": "Regardez vos mains ! Si vous pouvez le toucher, utilisez 'this' ou 'these'. Si vous devez pointer au loin, utilisez 'that' ou 'those'.",
+  "quiz": [
+    {
+      "ask": "Choisissez le mot correct pour un seul élément proche de vous",
+      "en": "___ is my phone in my hand.",
+      "choices": [
+        "That",
+        "This",
+        "Those",
+        "These"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct pour plusieurs éléments éloignés",
+      "en": "Look at ___ stars in the night sky.",
+      "choices": [
+        "this",
+        "that",
+        "those",
+        "these"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Choisissez le mot correct pour un seul élément éloigné",
+      "en": "Whose car is ___ parked down the street?",
+      "choices": [
+        "that",
+        "these",
+        "this",
+        "those"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Choisissez le mot correct pour plusieurs éléments proches de vous",
+      "en": "I like ___ apples I am holding.",
+      "choices": [
+        "that",
+        "this",
+        "those",
+        "these"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Choisissez le mot correct pour un objet proche",
+      "en": "Is ___ your jacket on the chair next to you?",
+      "choices": [
+        "these",
+        "this",
+        "those",
+        "that"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Choisissez le mot correct pour des objets pluriels éloignés",
+      "en": "I want to buy ___ shoes in the shop window across the street.",
+      "choices": [
+        "this",
+        "that",
+        "these",
+        "those"
+      ],
+      "answer_index": 3
+    }
+  ]
+}
