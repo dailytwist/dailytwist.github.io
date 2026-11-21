@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-26",
+  "slug": "first-conditional",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🔮",
+  "title": "Über die Zukunft sprechen: Der First Conditional",
+  "summary": "Du lernst, wie man über mögliche Zukunftssituationen und deren Folgen spricht. Das hilft dir dabei, im Alltag Pläne zu schmieden und Versprechen zu geben.",
+  "sections": [
+    {
+      "h": "Was ist der First Conditional?",
+      "p": "Wir verwenden den First Conditional, um über eine reale und mögliche Situation in der Zukunft und deren Konsequenzen zu sprechen. Zum Beispiel: Wenn das Wetter morgen gut ist, gehen wir in den Park. Der Satz hat zwei Teile: den 'Wenn'-Teil mit einem Verb im Präsens und den Ergebnisteil mit 'will' plus der Grundform des Verbs.",
+      "ex": [
+        {
+          "en": "If it rains, I will stay at home.",
+          "mean": "Wenn es regnet, bleibe ich planmäßig zu Hause."
+        },
+        {
+          "en": "If you study hard, you will pass the test.",
+          "mean": "Lernen führt zum Bestehen der Prüfung."
+        }
+      ]
+    },
+    {
+      "h": "Die Satzstellung",
+      "p": "Du kannst die Reihenfolge im Satz ändern, ohne dass sich die Bedeutung ändert. Wenn der 'Wenn'-Satz am Anfang steht, musst du in der Mitte ein Komma setzen. Wenn der Ergebnisteil zuerst kommt, brauchst du kein Komma. Beide Varianten sind im gesprochenen und geschriebenen Englisch sehr gebräuchlich und natürlich.",
+      "ex": [
+        {
+          "en": "If I wake up early, I will make coffee.",
+          "mean": "Der 'Wenn'-Teil steht am Anfang, daher verwenden wir ein Komma."
+        },
+        {
+          "en": "I will make coffee if I wake up early.",
+          "mean": "Der Ergebnisteil steht am Anfang, deshalb ist kein Komma nötig."
+        }
+      ]
+    },
+    {
+      "h": "Verneinungen bilden",
+      "p": "Du kannst im First Conditional auch verneinte Sätze bilden. Entweder machst du den 'Wenn'-Teil mit 'don't' oder 'doesn't' negativ oder den Ergebnisteil mit 'won't'. Das ist sehr praktisch, wenn du über Dinge sprechen möchtest, die vielleicht nicht eintreffen.",
+      "ex": [
+        {
+          "en": "If you don't hurry, we will miss the bus.",
+          "mean": "Wer sich nicht beeilt, verpasst den Bus."
+        },
+        {
+          "en": "If I am tired tonight, I won't go to the party.",
+          "mean": "Müde zu sein bedeutet, dass ich zu Hause bleibe."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "first conditional",
+      "mean": "Grammatik für zukünftige Ergebnisse"
+    },
+    {
+      "en": "if",
+      "mean": "unter der Annahme, dass"
+    },
+    {
+      "en": "will",
+      "mean": "wird für zukünftige Ergebnisse verwendet"
+    },
+    {
+      "en": "won't",
+      "mean": "wird nicht"
+    },
+    {
+      "en": "result",
+      "mean": "was als Nächstes passiert"
+    },
+    {
+      "en": "present tense",
+      "mean": "Verbform für die Gegenwart"
+    },
+    {
+      "en": "comma",
+      "mean": "Satzzeichen (,)"
+    }
+  ],
+  "tip": "Merke dir die Formel: 'If + Präsens, will + Verb'. Setze niemals 'will' direkt hinter das Wort 'if'.",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort, um den Satz zu vervollständigen",
+      "en": "If it ___ sunny tomorrow, we will go to the beach.",
+      "choices": [
+        "is",
+        "will be",
+        "be"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort, um den Satz zu vervollständigen",
+      "en": "I will call you if I ___ any news.",
+      "choices": [
+        "will get",
+        "got",
+        "get"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle die richtige Phrase, um den Satz zu vervollständigen",
+      "en": "If you don't eat breakfast, you ___ hungry later.",
+      "choices": [
+        "are",
+        "will be",
+        "were"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort, um den Satz zu vervollständigen",
+      "en": "She will buy a new phone if she ___ enough money.",
+      "choices": [
+        "saves",
+        "will save",
+        "save"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die richtige Phrase, um den Satz zu vervollständigen",
+      "en": "If they miss the train, they ___ take a taxi.",
+      "choices": [
+        "take",
+        "took",
+        "will"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle den richtigen Satz",
+      "en": "Which sentence is grammatically correct?",
+      "choices": [
+        "If I will see him, I will say hello.",
+        "If I see him, I will say hello.",
+        "If I see him, I say hello tomorrow."
+      ],
+      "answer_index": 1
+    }
+  ]
+}

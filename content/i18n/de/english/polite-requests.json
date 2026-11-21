@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-26",
+  "slug": "polite-requests",
+  "cefr": "A2",
+  "cat": "phrases",
+  "emoji": "🙋",
+  "title": "Höflich fragen: Could, Would und May",
+  "summary": "Lerne, wie man auf Englisch höflich um etwas bittet. Du wirst could, would und may im Alltag bestens gebrauchen können.",
+  "sections": [
+    {
+      "h": "Using Could for Polite Requests",
+      "p": "Wir verwenden „could“, um auf höfliche Art und Weise um etwas zu bitten. Das klingt weicher und netter als ein direktes „can“. Du kannst das nutzen, wenn du mit Leuten sprichst, die du nicht so gut kennst, oder in Geschäften und Restaurants. Das ist super gängig und im Alltag extrem hilfreich.",
+      "ex": [
+        {
+          "en": "Could you help me, please?",
+          "mean": "Please help me."
+        },
+        {
+          "en": "Could I have the menu?",
+          "mean": "Give me the menu, please."
+        }
+      ]
+    },
+    {
+      "h": "Using Would for Offers and Wishes",
+      "p": "Wir verwenden „would“, um höflich nachzufragen, was jemand möchte. Oft sagen wir „Would you like...?“, wenn wir einem Freund oder Kunden Essen, Getränke oder Hilfe anbieten. Das ist eine sehr höfliche und freundliche Ausdrucksweise.",
+      "ex": [
+        {
+          "en": "Would you like a cup of tea?",
+          "mean": "Do you want tea?"
+        },
+        {
+          "en": "Would you open the window?",
+          "mean": "Please open the window."
+        }
+      ]
+    },
+    {
+      "h": "Using May for Formal Permission",
+      "p": "Wir verwenden „may“, wenn wir auf sehr höfliche oder formelle Weise um Erlaubnis bitten wollen. Das passt perfekt ins Büro, ins Hotel oder wenn du mit Lehrkräften und Vorgesetzten sprichst. Klingt ein bisschen ernster als „could“, wird aber jeden Tag verwendet.",
+      "ex": [
+        {
+          "en": "May I use your phone?",
+          "mean": "Can I use your phone?"
+        },
+        {
+          "en": "May I come in?",
+          "mean": "Can I enter the room?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Could",
+      "mean": "höfliche Vergangenheit von can"
+    },
+    {
+      "en": "Would",
+      "mean": "wird für höfliche Angebote genutzt"
+    },
+    {
+      "en": "May",
+      "mean": "sehr höfliche Erlaubnis"
+    },
+    {
+      "en": "Please",
+      "mean": "Wort für Höflichkeit"
+    },
+    {
+      "en": "Permission",
+      "mean": "ja zu etwas sagen"
+    },
+    {
+      "en": "Offer",
+      "mean": "Hilfe oder Essen anbieten"
+    },
+    {
+      "en": "Formal",
+      "mean": "ernst und korrekt"
+    }
+  ],
+  "tip": "Stell dir vor, „May“ trägt einen schicken Anzug für ein wichtiges Meeting, während „Could“ und „Would“ deine gemütliche Lieblingskleidung für den Alltag sind!",
+  "quiz": [
+    {
+      "ask": "Wähle das passende höfliche Wort aus",
+      "en": "___ you help me carry this heavy bag, please?",
+      "choices": [
+        "Could",
+        "Do",
+        "Are"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das beste höfliche Angebot aus",
+      "en": "___ you like some water?",
+      "choices": [
+        "Do",
+        "Would",
+        "Can"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das formelle Wort, um nach Erlaubnis zu fragen",
+      "en": "___ I leave the room now?",
+      "choices": [
+        "Must",
+        "Will",
+        "May"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Vervollständige die höfliche Frage",
+      "en": "Could I ___ the bill, please?",
+      "choices": [
+        "have",
+        "has",
+        "having"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle den korrekten Start für ein höfliches Angebot",
+      "en": "Would you like ___ coffee?",
+      "choices": [
+        "an",
+        "a",
+        "some"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle die passende höfliche Bitte aus",
+      "en": "___ you please tell me the time?",
+      "choices": [
+        "Would",
+        "Could",
+        "Both are correct"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

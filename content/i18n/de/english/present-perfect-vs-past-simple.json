@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-26",
+  "slug": "present-perfect-vs-past-simple",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "⏱️",
+  "title": "Present Perfect vs. Past Simple",
+  "summary": "Lerne, wie du zwischen dem Simple Past und dem Present Perfect wählst. Danach fällt es dir leicht, über deine Lebenserfahrungen und abgeschlossene Handlungen in der Vergangenheit zu sprechen.",
+  "sections": [
+    {
+      "h": "Past Simple: Abgeschlossene Zeit",
+      "p": "Verwende das Simple Past, wenn du über eine Handlung sprichst, die zu einem bestimmten Zeitpunkt in der Vergangenheit stattgefunden hat. Die Zeit wird normalerweise erwähnt, wie gestern, letzte Woche oder im Jahr 2010. Die Handlung ist vollständig abgeschlossen, und uns interessiert mehr, wann sie passiert ist, als das Ergebnis heute.",
+      "ex": [
+        {
+          "en": "I visited Paris last year.",
+          "mean": "Die Reise fand zu einer bestimmten Zeit in der Vergangenheit statt und ist beendet."
+        },
+        {
+          "en": "She bought a new car yesterday.",
+          "mean": "Die Handlung fand zu einer bekannten Zeit in der Vergangenheit statt."
+        }
+      ]
+    },
+    {
+      "h": "Present Perfect: Lebenserfahrung",
+      "p": "Verwende das Present Perfect, um über Erfahrungen in deinem Leben zu sprechen, ohne genau zu sagen, wann sie passiert sind. Wir verwenden have oder has plus ein Partizip Perfekt (past participle). Die genaue Zeit ist nicht wichtig, aber die Erfahrung ist für dich genau jetzt wichtig.",
+      "ex": [
+        {
+          "en": "I have visited Paris three times.",
+          "mean": "Dies ist eine Lebenserfahrung bis zum heutigen Tag, die genauen Daten spielen keine Rolle."
+        },
+        {
+          "en": "She has lost her keys.",
+          "mean": "Eine vergangene Handlung, die eine Verbindung zum gegenwärtigen Moment hat."
+        }
+      ]
+    },
+    {
+      "h": "Zeitwörter, die dir helfen",
+      "p": "Bestimmte Wörter können dir helfen, die richtige Zeitform zu wählen. Wörter wie gestern (yesterday), vor (ago) und letzige/r/s (last) weisen auf das Simple Past hin. Wörter wie jemals (ever), niemals (never), bereits (already), noch (yet), gerade eben (just), seit (since) und für (for) weisen meist auf das Present Perfect hin, weil sie die Vergangenheit mit der Gegenwart verbinden.",
+      "ex": [
+        {
+          "en": "Have you ever eaten sushi?",
+          "mean": "Frage nach einem beliebigen Zeitpunkt in deinem Leben bis zum gegenwärtigen Moment."
+        },
+        {
+          "en": "I haven't finished my homework yet.",
+          "mean": "Eine Handlung, die bis zu diesem genauen Zeitpunkt noch nicht abgeschlossen ist."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "past simple",
+      "mean": "abgeschlossene Vergangenheit"
+    },
+    {
+      "en": "present perfect",
+      "mean": "Vergangenheit verbunden mit der Gegenwart"
+    },
+    {
+      "en": "experience",
+      "mean": "etwas, das du getan hast"
+    },
+    {
+      "en": "yesterday",
+      "mean": "der Tag vor heute"
+    },
+    {
+      "en": "ever",
+      "mean": "zu irgendeinem Zeitpunkt im Leben"
+    },
+    {
+      "en": "never",
+      "mean": "zu keinem Zeitpunkt"
+    },
+    {
+      "en": "yet",
+      "mean": "bis jetzt"
+    },
+    {
+      "en": "already",
+      "mean": "früher als erwartet"
+    }
+  ],
+  "tip": "Frag dich selbst: „Ist mir wichtig, wann es passiert ist?“ Wenn ja, verwende das Simple Past. Wenn es dir nur wichtig ist, dass es in deinem Leben passiert ist, verwende das Present Perfect.",
+  "quiz": [
+    {
+      "ask": "Wähle die richtige Verbform",
+      "en": "I ___ to Spain in 2018.",
+      "choices": [
+        "have gone",
+        "went",
+        "go"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die richtige Verbform",
+      "en": "She ___ never seen snow in her life.",
+      "choices": [
+        "has",
+        "did",
+        "was"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Zeitwort",
+      "en": "Have you ___ eaten Mexican food?",
+      "choices": [
+        "yesterday",
+        "ago",
+        "ever"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle die richtige Verbform",
+      "en": "They ___ a great movie last night.",
+      "choices": [
+        "saw",
+        "have seen",
+        "see"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle den richtigen Satz",
+      "en": "Which sentence is correct for an unfinished action up to now?",
+      "choices": [
+        "I didn't eat breakfast yet.",
+        "I haven't eaten breakfast yet.",
+        "I don't eat breakfast yet."
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die richtige Verbform",
+      "en": "He ___ lived in this city for five years.",
+      "choices": [
+        "did",
+        "has",
+        "had"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

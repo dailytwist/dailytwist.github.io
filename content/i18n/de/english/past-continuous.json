@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-26",
+  "slug": "past-continuous",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "⏳",
+  "title": "Über die Vergangenheit sprechen: Das Past Continuous",
+  "summary": "Lerne, wie du über Handlungen sprichst, die zu einem bestimmten Zeitpunkt in der Vergangenheit stattfanden. Das hilft dir, bessere Geschichten über deinen Tag zu erzählen.",
+  "sections": [
+    {
+      "h": "Was ist das Past Continuous?",
+      "p": "Wir verwenden das Past Continuous, um über eine Handlung zu sprechen, die zu einem bestimmten Zeitpunkt in der Vergangenheit im Gange war. Um diese Zeitform zu bilden, nutzen wir die Vergangenheitsform des Verbs 'to be' (was oder were) plus das Hauptverb mit '-ing' am Ende. Verwende 'was' bei I, he, she und it. Verwende 'were' bei you, we und they.",
+      "ex": [
+        {
+          "en": "I was sleeping at 10 PM last night.",
+          "mean": "Gestern Abend um 22 Uhr war ich gerade am Schlafen."
+        },
+        {
+          "en": "They were watching a movie at that time.",
+          "mean": "In jenem Moment der Vergangenheit waren sie mitten beim Schauen eines Films."
+        }
+      ]
+    },
+    {
+      "h": "Fragen stellen",
+      "p": "Um eine Frage im Past Continuous zu stellen, verändern wir die Wortreihenfolge. Wir stellen 'Was' oder 'Were' an den Anfang, gefolgt vom Subjekt (wie you oder he) und dann dem Verb mit '-ing'. Das ist sehr nützlich, wenn du wissen möchtest, was jemand gestern gemacht hat.",
+      "ex": [
+        {
+          "en": "What were you doing at 8 o'clock?",
+          "mean": "Ich möchte wissen, was du zu dieser vergangenen Zeit gemacht hast."
+        },
+        {
+          "en": "Was she working late yesterday?",
+          "mean": "Hat sie gestern etwa bis spät in die Nacht gearbeitet?"
+        }
+      ]
+    },
+    {
+      "h": "Verneinungen bilden",
+      "p": "Um zu sagen, was du in der Vergangenheit NICHT getan hast, fügst du einfach 'not' nach 'was' oder 'were' hinzu. Du kannst auch die Kurzformen 'wasn't' oder 'weren't' verwenden. Das hilft dir, Missverständnisse aufzuklären oder deine vergangenen Handlungen klar zu erklären.",
+      "ex": [
+        {
+          "en": "I was not listening to music.",
+          "mean": "Zu diesem Zeitpunkt habe ich keine Musik gehört."
+        },
+        {
+          "en": "They weren't paying attention.",
+          "mean": "In diesem Moment haben sie weder hingesehen noch zugehört."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "was",
+      "mean": "Vergangenheitsform von 'is' (I/he/she/it)"
+    },
+    {
+      "en": "were",
+      "mean": "Vergangenheitsform von 'are' (you/we/they)"
+    },
+    {
+      "en": "-ing form",
+      "mean": "Verbendung für Verlaufsformen"
+    },
+    {
+      "en": "in progress",
+      "mean": "jetzt oder damals passierend"
+    },
+    {
+      "en": "at that time",
+      "mean": "zu einem bestimmten Moment"
+    },
+    {
+      "en": "wasn't",
+      "mean": "war nicht"
+    },
+    {
+      "en": "weren't",
+      "mean": "waren nicht"
+    }
+  ],
+  "tip": "Denk immer an die zwei Teile: was/were + Verb-ing. Stell dir 'was/were' als den Helfer und '-ing' als den Motor der Handlung vor!",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "I ___ reading a book when you called.",
+      "choices": [
+        "were",
+        "was",
+        "is"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "They ___ playing football at 4 PM.",
+      "choices": [
+        "was",
+        "is",
+        "were"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "What ___ you doing last night?",
+      "choices": [
+        "were",
+        "was",
+        "did"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "She wasn't ___ TV; she was studying.",
+      "choices": [
+        "watch",
+        "watched",
+        "watching"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "___ it raining when you went outside?",
+      "choices": [
+        "Was",
+        "Were",
+        "Did"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "We ___ sleeping when the phone rang.",
+      "choices": [
+        "wasn't",
+        "weren't",
+        "aren't"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

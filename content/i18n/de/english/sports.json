@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-26",
+  "slug": "sports",
+  "cefr": "A2",
+  "cat": "vocab",
+  "emoji": "⚽",
+  "title": "Play, Go, Do: Sport und Freizeit",
+  "summary": "Lerne, wann man im Englischen play, go und do bei verschiedenen Sportarten verwendet. Du übst dabei, korrekte Sätze über Hobbys zu bilden.",
+  "sections": [
+    {
+      "h": "Wann man PLAY benutzt",
+      "p": "Wir verwenden das Verb play für Mannschaftssportarten und Spiele mit einem Ball. Bei diesen Sportarten gibt es normalerweise einen Gewinner, einen Ball und ein Team. Zum Beispiel spielst du am Wochenende Fußball mit Freunden. Man spielt auch Tennis, Basketball und Computerspiele.",
+      "ex": [
+        {
+          "en": "I play football on Saturdays.",
+          "mean": "Ich nehme jeden Samstag an einem Fußballspiel teil."
+        },
+        {
+          "en": "Do you play tennis?",
+          "mean": "Bist du Tennisspieler?"
+        }
+      ]
+    },
+    {
+      "h": "Wann man GO benutzt",
+      "p": "Wir verwenden das Verb go für Aktivitäten, die auf -ing enden. Das sind meistens Sportarten, die man draußen macht oder bei denen man sich viel bewegt, oft allein oder in einer kleinen Gruppe. Zum Beispiel geht man schwimmen, laufen und Rad fahren.",
+      "ex": [
+        {
+          "en": "She likes to go swimming in summer.",
+          "mean": "Sie schwimmt gerne, wenn das Wetter warm ist."
+        },
+        {
+          "en": "Let's go running this morning.",
+          "mean": "Ich möchte, dass wir heute zusammen laufen gehen."
+        }
+      ]
+    },
+    {
+      "h": "Wann man DO benutzt",
+      "p": "Wir verwenden das Verb do für Einzelübungen und Kampfkünste. Das sind Fitnessaktivitäten oder Sportarten, bei denen kein Ball im Spiel ist und die normalerweise nicht auf -ing enden. Zum Beispiel macht man Yoga, Karate und Gymnastik, um stark und gesund zu bleiben.",
+      "ex": [
+        {
+          "en": "I do yoga every morning.",
+          "mean": "Ich mache täglich Yoga, um mich entspannt zu fühlen."
+        },
+        {
+          "en": "He does judo at the school club.",
+          "mean": "Er macht mit seiner Schule Judo."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "play",
+      "mean": "wird für Ballsportarten verwendet"
+    },
+    {
+      "en": "go",
+      "mean": "wird für -ing-Aktivitäten verwendet"
+    },
+    {
+      "en": "do",
+      "mean": "wird für Fitness und Kampfsport verwendet"
+    },
+    {
+      "en": "football",
+      "mean": "Mannschaftssportart mit einem runden Ball"
+    },
+    {
+      "en": "swimming",
+      "mean": "sich durch Wasser bewegen"
+    },
+    {
+      "en": "yoga",
+      "mean": "Dehn- und Entspannungsübung"
+    },
+    {
+      "en": "basketball",
+      "mean": "Sportart mit einem Korb und einem Ball"
+    }
+  ],
+  "tip": "Merke dir: Ballsportarten = play, -ing-Wörter = go und Fitness/Kampfkunst = do. Sag dir die Regeln dreimal laut vor!",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "I want to ___ basketball with my friends.",
+      "choices": [
+        "go",
+        "play",
+        "do"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "My brother likes to ___ swimming every weekend.",
+      "choices": [
+        "go",
+        "play",
+        "do"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "Do you ___ yoga to relax?",
+      "choices": [
+        "play",
+        "go",
+        "do"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "They ___ tennis on Tuesday evenings.",
+      "choices": [
+        "play",
+        "go",
+        "make"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "Let's ___ running in the park.",
+      "choices": [
+        "do",
+        "play",
+        "go"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "She wants to ___ karate after school.",
+      "choices": [
+        "play",
+        "do",
+        "go"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

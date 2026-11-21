@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-26",
+  "slug": "should-shouldnt",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "💡",
+  "title": "Gute Ratschläge geben: Should und Shouldn't",
+  "summary": "Lerne, wie du mit should und shouldn't deinen Freunden Ratschläge geben kannst. Du übst, in alltäglichen Situationen hilfreiche Vorschläge zu machen.",
+  "sections": [
+    {
+      "h": "Wann man „should“ benutzt",
+      "p": "Wir benutzen „should“, wenn wir jemandem sagen wollen, dass etwas eine gute Idee ist. Das ist höflich und freundlich. Nach „should“ verwenden wir immer die Grundform des Verbs ohne „to“. Du kannst zum Beispiel sagen „You should sleep“ oder „She should eat fruit“. Das hilft Leuten dabei, gute Entscheidungen zu treffen.",
+      "ex": [
+        {
+          "en": "You should drink some water.",
+          "mean": "Es ist eine gute Idee, Wasser zu trinken."
+        },
+        {
+          "en": "He should study for the test.",
+          "mean": "Es ist eine gute Idee für ihn, zu lernen."
+        },
+        {
+          "en": "We should leave now.",
+          "mean": "Es ist ein guter Zeitpunkt für uns zu gehen."
+        }
+      ]
+    },
+    {
+      "h": "Wann man „shouldn't“ benutzt",
+      "p": "Wir benutzen „shouldn't“ (was should not bedeutet), wenn etwas eine schlechte Idee ist. Wir wollen jemanden davon abhalten, einen Fehler zu machen oder sich zu verletzen. Genau wie bei „should“ verwenden wir direkt danach das Verb in der Grundform. Zum Beispiel: „You shouldn't stay up late“ oder „They shouldn't eat that“.",
+      "ex": [
+        {
+          "en": "You shouldn't eat so much sugar.",
+          "mean": "Zu viel Zucker zu essen ist keine gute Idee."
+        },
+        {
+          "en": "She shouldn't drive too fast.",
+          "mean": "Schnell zu fahren ist gefährlich für sie."
+        },
+        {
+          "en": "They shouldn't watch TV all day.",
+          "mean": "Den ganzen Tag fernzusehen ist nicht gut."
+        }
+      ]
+    },
+    {
+      "h": "Nach Rat fragen mit „should“",
+      "p": "Du kannst „should“ auch verwenden, um andere Leute um Rat zu fragen, wenn du dir nicht sicher bist, was du tun sollst. Du stellst „should“ an den alleranfang des Satzes, gefolgt von „I“, „we“ oder „you“. Danach fügst du die Hauptaktion hinzu.",
+      "ex": [
+        {
+          "en": "Should I wear a jacket today?",
+          "mean": "Ist es eine gute Idee für mich, eine Jacke anzuziehen?"
+        },
+        {
+          "en": "What should we buy for dinner?",
+          "mean": "Kannst du mir einen guten Tipp für das Abendessen geben?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "should",
+      "mean": "es ist eine gute Idee"
+    },
+    {
+      "en": "shouldn't",
+      "mean": "es ist keine gute Idee"
+    },
+    {
+      "en": "advice",
+      "mean": "hilfreiche Vorschläge"
+    },
+    {
+      "en": "drink water",
+      "mean": "Wasser zu trinken haben"
+    },
+    {
+      "en": "stay up late",
+      "mean": "spät ins Bett gehen"
+    },
+    {
+      "en": "wear a jacket",
+      "mean": "warme Kleidung anziehen"
+    },
+    {
+      "en": "good idea",
+      "mean": "etwas Kluges, das man tun kann"
+    }
+  ],
+  "tip": "Denk daran, dass sich das Verb nach should oder shouldn't niemals verändert! Verwende immer das einfache Verb wie go, eat oder sleep.",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort für einen guten Ratschlag",
+      "en": "You ___ eat more vegetables because they are healthy.",
+      "choices": [
+        "should",
+        "shouldn't",
+        "are"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort für einen schlechten Ratschlag",
+      "en": "He ___ touch that hot stove!",
+      "choices": [
+        "should",
+        "shouldn't",
+        "do"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Vervollständige die Frage",
+      "en": "___ I call a doctor?",
+      "choices": [
+        "Do",
+        "Are",
+        "Should"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle den richtigen Ratschlag für einen Test",
+      "en": "They ___ study tonight for the big exam tomorrow.",
+      "choices": [
+        "shouldn't",
+        "should",
+        "does"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle den richtigen Ratschlag zum Schlafen",
+      "en": "You ___ go to bed so late on a school night.",
+      "choices": [
+        "should",
+        "shouldn't",
+        "can"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle den richtigen Ratschlag für Regen",
+      "en": "It is raining. We ___ take an umbrella.",
+      "choices": [
+        "should",
+        "shouldn't",
+        "am"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

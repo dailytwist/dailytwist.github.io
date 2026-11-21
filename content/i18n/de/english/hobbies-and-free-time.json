@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-26",
+  "slug": "hobbies-and-free-time",
+  "cefr": "A2",
+  "cat": "vocab",
+  "emoji": "⚽",
+  "title": "Über Hobbys sprechen",
+  "summary": "Lerne, wie du darüber sprichst, was du in deiner Freizeit gerne machst. Du wirst einfache Wörter nutzen, um deine Lieblingsaktivitäten zu teilen.",
+  "sections": [
+    {
+      "h": "'Like' + -ing verwenden",
+      "p": "Wenn wir über unsere Hobbys sprechen, verwenden wir oft das Verb 'like' (mögen), gefolgt von einer Tätigkeit, die auf 'ing' endet. Das ist eine tolle Möglichkeit, um zu sagen, was du am Wochenende oder nach der Arbeit gerne machst. Wenn du zum Beispiel gerne Fußball spielst, sagst du 'I like playing football.' Denk daran, an das Hauptverb jedes Mal die Endung 'ing' anzuhängen.",
+      "ex": [
+        {
+          "en": "I like reading books in the evening.",
+          "mean": "Ich schaue mir nachts gerne Bücher an und lese sie."
+        },
+        {
+          "en": "She likes listening to music.",
+          "mean": "Sie hört gerne Lieder und Musik."
+        }
+      ]
+    },
+    {
+      "h": "'Play' und 'Do' verwenden",
+      "p": "Wir verwenden verschiedene Aktionswörter für unterschiedliche Hobbys. Wir nutzen 'play' für Mannschaftssportarten und Ballspiele wie Fußball oder Tennis. Wir nutzen 'do' für individuelle Übungen oder Aktivitäten ohne Ball, wie Yoga oder Karate. Zu wissen, wann man 'play' oder 'do' benutzt, lässt dein Englisch sehr natürlich klingen.",
+      "ex": [
+        {
+          "en": "I play tennis with my friend on Saturdays.",
+          "mean": "Ich spiele jeden Samstag mit einem Freund Tennis."
+        },
+        {
+          "en": "He does yoga to relax after work.",
+          "mean": "Er macht Yoga, um sich nach der Arbeit ruhig zu fühlen."
+        }
+      ]
+    },
+    {
+      "h": "Nach Hobbys fragen",
+      "p": "Um andere Leute nach ihrer Freizeit zu fragen, verwende die Frage 'What do you like doing?' oder 'Do you like...?'. Das ist eine freundliche Art, ein Gespräch mit jemandem Neues zu beginnen. Du kannst mit 'Yes, I do' oder 'No, I don't' antworten und dann ein kurzes Detail zu deinem Hobby nennen.",
+      "ex": [
+        {
+          "en": "What do you like doing on the weekend?",
+          "mean": "Erzähl mir von deinen Lieblingsaktivitäten für Samstag und Sonntag."
+        },
+        {
+          "en": "Do you like cooking?",
+          "mean": "Ist das Zubereiten von Essen etwas, das dir Spaß macht?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "hobby",
+      "mean": "Freizeitaktivität"
+    },
+    {
+      "en": "like",
+      "mean": "genießen"
+    },
+    {
+      "en": "play",
+      "mean": "einen Sport oder ein Spiel spielen"
+    },
+    {
+      "en": "do",
+      "mean": "eine Aktivität ausführen"
+    },
+    {
+      "en": "reading",
+      "mean": "Bücher anschauen"
+    },
+    {
+      "en": "cooking",
+      "mean": "Essen zubereiten"
+    },
+    {
+      "en": "weekend",
+      "mean": "Samstag und Sonntag"
+    },
+    {
+      "en": "music",
+      "mean": "schöne Klänge"
+    }
+  ],
+  "tip": "Mach eine Liste mit drei Dinge, die du jede Woche tust. Versuche, sie laut auszusprechen und dabei 'I like...' zu verwenden, bevor du schlafen gehst.",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "I like ___ tennis with my brother.",
+      "choices": [
+        "play",
+        "playing",
+        "plays"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "Do you like ___ books?",
+      "choices": [
+        "read",
+        "reads",
+        "reading"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "She ___ yoga every morning.",
+      "choices": [
+        "does",
+        "plays",
+        "likes"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die richtige Frage",
+      "en": "___ do you like doing in your free time?",
+      "choices": [
+        "Where",
+        "What",
+        "Who"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "We ___ football on Sunday.",
+      "choices": [
+        "do",
+        "play",
+        "go"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die richtige Antwort",
+      "en": "Yes, I ___.",
+      "choices": [
+        "do",
+        "like",
+        "playing"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

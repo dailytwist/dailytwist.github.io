@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-26",
+  "slug": "present-perfect",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "✈️",
+  "title": "Lebenserfahrungen und aktuelle Nachrichten: Ever, Already, Yet, Just",
+  "summary": "In dieser Lektion lernst du, wie man mithilfe des Perfekts über Lebenserfahrungen und kürzlich zurückliegende Handlungen spricht. Wir schauen uns vier besondere Wörter an: ever, already, yet und just.",
+  "sections": [
+    {
+      "h": "Über Lebenserfahrungen sprechen mit „ever“",
+      "p": "Wir verwenden „ever“ in Fragen, um nach Lebenserfahrungen bis zum heutigen Tag zu fragen. Es bedeutet „jemals in deinem Leben“. Wir setzen „ever“ vor das Hauptverb, direkt nach dem Subjekt. Die Antwort steht meist im Perfekt mit „have“ oder „has“, und um „Nein“ zu sagen, nutzen wir oft „never“.",
+      "ex": [
+        {
+          "en": "Have you ever eaten sushi?",
+          "mean": "Hast du in deinem ganzen Leben schon mal Sushi gegessen?"
+        },
+        {
+          "en": "She has never traveled to another country.",
+          "mean": "Sie war noch nie in ihrem Leben im Ausland."
+        }
+      ]
+    },
+    {
+      "h": "Schnelligkeit zeigen mit „already“ und „just“",
+      "p": "Wir verwenden „already“, um auszudrücken, dass etwas früher passiert ist als erwartet. Wir nutzen „just“, um über eine Handlung zu sprechen, die erst vor ganz kurzem abgeschlossen wurde. Beide Wörter stehen normalerweise zwischen „have“ und dem Hauptverb.",
+      "ex": [
+        {
+          "en": "I have already finished my homework.",
+          "mean": "Ich bin damit früher fertig geworden als erwartet."
+        },
+        {
+          "en": "He has just left the office.",
+          "mean": "Er ist vor ein oder zwei Minuten gegangen."
+        }
+      ]
+    },
+    {
+      "h": "Auf Dinge warten mit „yet“",
+      "p": "Wir verwenden „yet“ in Fragen und verneinten Sätzen, um über etwas zu sprechen, das wir bald erwarten, das aber bis jetzt noch nicht passiert ist. „Yet“ steht immer ganz am Ende des Satzes.",
+      "ex": [
+        {
+          "en": "Have you cooked dinner yet?",
+          "mean": "Ich warte auf das Abendessen, ist es jetzt fertig?"
+        },
+        {
+          "en": "They haven't arrived yet.",
+          "mean": "Sie sind jetzt noch nicht da, aber wir erwarten sie bald."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "ever",
+      "mean": "jemals"
+    },
+    {
+      "en": "never",
+      "mean": "niemals"
+    },
+    {
+      "en": "already",
+      "mean": "früher als erwartet"
+    },
+    {
+      "en": "just",
+      "mean": "vor einem Moment"
+    },
+    {
+      "en": "yet",
+      "mean": "bisher"
+    },
+    {
+      "en": "present perfect",
+      "mean": "have plus Partizip Perfekt"
+    },
+    {
+      "en": "experience",
+      "mean": "etwas, das du tust"
+    }
+  ],
+  "tip": "Denk daran, dass „yet“ am liebsten am Ende von verneinten Sätzen und Fragen sitzt, während es sich „just“ und „already“ gemütlich in der Mitte bequem machen, direkt neben „have“!",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort für die Lücke",
+      "en": "Have you ___ seen a kangaroo?",
+      "choices": [
+        "ever",
+        "yet",
+        "just",
+        "already"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort für die Lücke",
+      "en": "I don't need a coffee, thanks. I have ___ had one.",
+      "choices": [
+        "yet",
+        "ever",
+        "already",
+        "never"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort für die Lücke",
+      "en": "Where is Mark? He has ___ stepped out of the room.",
+      "choices": [
+        "yet",
+        "ever",
+        "just",
+        "never"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort für die Lücke",
+      "en": "Has the bus arrived ___?",
+      "choices": [
+        "already",
+        "just",
+        "ever",
+        "yet"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Wähle das richtige Wort für die Lücke",
+      "en": "We haven't decided where to go on holiday ___.",
+      "choices": [
+        "yet",
+        "already",
+        "just",
+        "ever"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort für die Lücke",
+      "en": "She has ___ been to Paris, and she wants to go again.",
+      "choices": [
+        "yet",
+        "already",
+        "ever",
+        "just"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

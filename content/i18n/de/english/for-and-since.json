@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-26",
+  "slug": "for-and-since",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "⏱️",
+  "title": "Mit For und Since",
+  "summary": "Lerne, wie man mit dem Perfekt über die Zeit spricht. Du übst die korrekte Verwendung von „for“ und „since“ in alltäglichen Gesprächen.",
+  "sections": [
+    {
+      "h": "Was ist das Present Perfect?",
+      "p": "Wir verwenden das Present Perfect, um über Handlungen zu sprechen, die in der Vergangenheit begonnen haben und bis in die Gegenwart andauern. Um diese Zeitform zu bilden, nutzen wir have oder has plus die dritte Form des Verbs, das sogenannte Partizip Perfekt. Dies hilft uns dabei, vergangene Ereignisse mit dem Hier und Jetzt zu verknüpfen.",
+      "ex": [
+        {
+          "en": "I have lived in this city for three years.",
+          "mean": "Ich bin vor drei Jahren hierhergezogen und wohne immer noch hier."
+        },
+        {
+          "en": "She has worked here since 2020.",
+          "mean": "Sie hat hier 2020 angefangen zu arbeiten und arbeitet immer noch hier."
+        }
+      ]
+    },
+    {
+      "h": "Wann man FOR verwendet",
+      "p": "Wir verwenden das Wort 'for', wenn wir über eine Zeitspanne sprechen möchten. Damit ist ein Zeitraum gemeint, wie zum Beispiel Sekunden, Minuten, Stunden, Tage, Wochen, Monate oder Jahre. Nach 'for' stehen immer eine Zahl und eine Zeitangabe.",
+      "ex": [
+        {
+          "en": "They have been married for ten years.",
+          "mean": "Zehn Jahre ist die Gesamtdauer ihrer Ehe."
+        },
+        {
+          "en": "We have waited for the bus for twenty minutes.",
+          "mean": "Zwanzig Minuten ist die Zeit, die wir mit Warten verbracht haben."
+        }
+      ]
+    },
+    {
+      "h": "Wann man SINCE verwendet",
+      "p": "Wir verwenden das Wort 'since', wenn wir über einen bestimmten Startzeitpunkt sprechen möchten. Das ist der genaue Moment, in dem die Handlung begonnen hat, wie zum Beispiel eine Uhrzeit, ein Wochentag, ein Jahr oder ein Ereignis in der Vergangenheit.",
+      "ex": [
+        {
+          "en": "I have known him since Monday.",
+          "mean": "Montag ist der konkrete Tag, an dem unsere Freundschaft begonnen hat."
+        },
+        {
+          "en": "He has played guitar since he was a child.",
+          "mean": "Seine Kindheit ist der genaue Startpunkt, an dem er angefangen hat, Gitarre zu spielen."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "present perfect",
+      "mean": "Grammatische Zeitform für die Vergangenheit bis zur Gegenwart"
+    },
+    {
+      "en": "for",
+      "mean": "wird mit einem Zeitraum verwendet"
+    },
+    {
+      "en": "since",
+      "mean": "wird mit einem Startpunkt verwendet"
+    },
+    {
+      "en": "duration",
+      "mean": "wie lange etwas dauert"
+    },
+    {
+      "en": "past participle",
+      "mean": "dritte Form eines Verbs"
+    },
+    {
+      "en": "period of time",
+      "mean": "Zeitdauer"
+    },
+    {
+      "en": "starting point",
+      "mean": "wann etwas beginnt"
+    }
+  ],
+  "tip": "Denk daran: „For“ steht für eine Zeitdauer (drei Jahre), aber „Since“ bezeichnet einen Startpunkt (2020). Merk dir einfach: „F“ wie „For“ und „Figure“ (ermittle) die Länge!",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "I have studied English ___ two years.",
+      "choices": [
+        "since",
+        "for",
+        "at",
+        "in"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "She has lived in London ___ 2015.",
+      "choices": [
+        "since",
+        "for",
+        "during",
+        "from"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "They have been friends ___ a long time.",
+      "choices": [
+        "since",
+        "from",
+        "for",
+        "until"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "He has worked at the cafe ___ last Tuesday.",
+      "choices": [
+        "for",
+        "in",
+        "on",
+        "since"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "We have waited here ___ forty minutes.",
+      "choices": [
+        "since",
+        "for",
+        "by",
+        "until"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "My brother has played the piano ___ he was six years old.",
+      "choices": [
+        "for",
+        "since",
+        "at",
+        "during"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

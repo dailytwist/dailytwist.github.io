@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-26",
+  "slug": "technology-words",
+  "cefr": "A2",
+  "cat": "vocab",
+  "emoji": "📱",
+  "title": "Alltägliche Wörter rund um Technik",
+  "summary": "Lerne vier gängige Technik-Wörter, die wir jeden Tag benutzen. Übe, wie man über das Handy, Apps, das Ladekabel und das Passwort spricht.",
+  "sections": [
+    {
+      "h": "Handy und App",
+      "p": "Ein Handy ist ein Gerät, mit dem wir Freunde anrufen und Nachrichten senden. Eine App ist ein kleines Programm auf deinem Handy. Du kannst Apps nutzen, um Spiele zu spielen, Musik zu hören oder Fotos zu machen. Wir benutzen Handys und Apps jeden Tag, um in Verbindung zu bleiben.",
+      "ex": [
+        {
+          "en": "I need to buy a new phone.",
+          "mean": "Ich möchte ein anderes Telefon haben."
+        },
+        {
+          "en": "Can you download this app?",
+          "mean": "Bitte installiere dieses Programm auf deinem Handy."
+        }
+      ]
+    },
+    {
+      "h": "Ladekabel",
+      "p": "Ein Ladekabel ist ein Kabel oder Gerät, das deinem Handy Strom gibt. Wenn der Handyakku fast leer ist, brauchst du ein Ladekabel, damit es wieder funktioniert. Du steckst es in die Steckdose und in dein Handy.",
+      "ex": [
+        {
+          "en": "My phone battery is dead. Where is my charger?",
+          "mean": "Mein Handy hat keinen Strom mehr. Ich brauche das Kabel, um es aufzuladen."
+        },
+        {
+          "en": "Do you have an iPhone charger?",
+          "mean": "Kann ich ein Kabel für mein Apple-Handy ausleihen?"
+        }
+      ]
+    },
+    {
+      "h": "Passwort",
+      "p": "Ein Passwort ist ein geheimes Wort oder eine Kombination aus Zahlen. Du benutzt ein Passwort, um dein Handy zu entsperren oder dich in einer App anzumelden. Es schützt deine persönlichen Daten vor anderen Leuten, damit sie deine Nachrichten nicht sehen können.",
+      "ex": [
+        {
+          "en": "Type your password to unlock the screen.",
+          "mean": "Gib dein geheimes Wort ein, um dein Handy zu sehen."
+        },
+        {
+          "en": "I forgot my password.",
+          "mean": "Ich kann mich nicht an meine geheimen Zahlen erinnern."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "phone",
+      "mean": "mobiles Gerät"
+    },
+    {
+      "en": "app",
+      "mean": "Handy-Programm"
+    },
+    {
+      "en": "charger",
+      "mean": "Akkuladekabel"
+    },
+    {
+      "en": "password",
+      "mean": "geheimes Wort"
+    },
+    {
+      "en": "battery",
+      "mean": "Handy-Akku"
+    },
+    {
+      "en": "download",
+      "mean": "eine App herunterladen"
+    },
+    {
+      "en": "unlock",
+      "mean": "den Bildschirm entsperren"
+    }
+  ],
+  "tip": "Schreibe deine Technik-Wörter auf Haftnotizen und klebe sie auf dein echtes Handy oder Computer-Ladekabel, um sie dir schneller zu merken!",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "I use my ___ to call my mother every Sunday.",
+      "choices": [
+        "charger",
+        "phone",
+        "password",
+        "app"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "My battery is at 2%. Where is my ___?",
+      "choices": [
+        "charger",
+        "password",
+        "app",
+        "phone"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "You need to type your ___ to open this secure app.",
+      "choices": [
+        "phone",
+        "charger",
+        "password",
+        "battery"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "I want to download a new fitness ___ to count my steps.",
+      "choices": [
+        "password",
+        "charger",
+        "phone",
+        "app"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "Keep your ___ a secret so no one can open your device.",
+      "choices": [
+        "password",
+        "app",
+        "phone",
+        "charger"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "This small ___ helps me edit my photos easily.",
+      "choices": [
+        "charger",
+        "app",
+        "password",
+        "battery"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

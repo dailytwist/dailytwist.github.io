@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-26",
+  "slug": "question-words",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "❓",
+  "title": "Fragen stellen: Was, Wo, Wann, Wer, Warum, Wie",
+  "summary": "Lerne, wie du Fragewörter verwendest, um auf Englisch nach wichtigen Informationen zu fragen. Übe einfache Fragen für alltägliche Gespräche.",
+  "sections": [
+    {
+      "h": "Was, Wo und Wann",
+      "p": "Wir verwenden „what“, um nach Dingen zu fragen. Wir verwenden „where“, um nach Orten zu fragen. Wir verwenden „when“, um nach Uhrzeiten oder Tagen zu fragen. Stelle diese Fragewörter an den ganz an den Anfang deines Satzes vor das Verb, um die gewünschten Informationen zu erhalten.",
+      "ex": [
+        {
+          "en": "What is your name?",
+          "mean": "Nach einer Sache oder einem Fakt fragen."
+        },
+        {
+          "en": "Where do you live?",
+          "mean": "Nach einem Ort fragen."
+        },
+        {
+          "en": "When is your birthday?",
+          "mean": "Nach der Uhrzeit fragen."
+        }
+      ]
+    },
+    {
+      "h": "Wer, Warum und Wie",
+      "p": "Wir verwenden „who“, um nach einer Person zu fragen. Wir verwenden „why“, um nach einem Grund zu fragen, und antworten darauf meistens mit „because“. Wir verwenden „how“, um danach zu fragen, wie etwas gemacht wird, oder nach Gefühlen und Gesundheit.",
+      "ex": [
+        {
+          "en": "Who is that man?",
+          "mean": "Nach einer Person fragen."
+        },
+        {
+          "en": "Why are you happy?",
+          "mean": "Nach einem Grund fragen."
+        },
+        {
+          "en": "How are you today?",
+          "mean": "Nach Gesundheit oder Gefühlen fragen."
+        }
+      ]
+    },
+    {
+      "h": "Die Frage bilden",
+      "p": "Denke an die richtige Reihenfolge für deine Frage. Beginne mit dem Fragewort, füge dann das Hilfsverb wie „do“, „does“ oder „is“ hinzu, gefolgt vom Subjekt und der Hauptaktion. Das hilft den Leuten, dich klar zu verstehen.",
+      "ex": [
+        {
+          "en": "Where do you work?",
+          "mean": "Fragewort plus do und Subjekt."
+        },
+        {
+          "en": "How do you make this?",
+          "mean": "Danach fragen, wie man etwas macht."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "What",
+      "mean": "fragt nach Dingen"
+    },
+    {
+      "en": "Where",
+      "mean": "fragt nach Orten"
+    },
+    {
+      "en": "When",
+      "mean": "fragt nach der Zeit"
+    },
+    {
+      "en": "Who",
+      "mean": "fragt nach Personen"
+    },
+    {
+      "en": "Why",
+      "mean": "fragt nach Gründen"
+    },
+    {
+      "en": "How",
+      "mean": "fragt nach der Art und Weise"
+    },
+    {
+      "en": "Question word",
+      "mean": "Anfang einer Frage"
+    }
+  ],
+  "tip": "Denke an die 5 Ws und das 1 H (Who, What, Where, When, Why, How). Schreibe sie auf eine kleine Karte und schaue sie dir jeden Morgen an, um sie nicht zu vergessen.",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "___ is your favorite color?",
+      "choices": [
+        "What",
+        "Where",
+        "Who"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "___ do you live?",
+      "choices": [
+        "When",
+        "Where",
+        "Why"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "___ is your English teacher?",
+      "choices": [
+        "Where",
+        "What",
+        "Who"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "___ do you go to sleep?",
+      "choices": [
+        "When",
+        "Who",
+        "How"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "___ are you sad?",
+      "choices": [
+        "How",
+        "Why",
+        "What"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "___ do you spell this word?",
+      "choices": [
+        "Who",
+        "What",
+        "How"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

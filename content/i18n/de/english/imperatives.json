@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-26",
+  "slug": "imperatives",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🛑",
+  "title": "Anweisungen geben: Mach das!",
+  "summary": "Lerne, wie du Befehlsformen (Imperativ) verwendest, um Leuten zu sagen, was sie tun sollen. Du übst einfache Wegbeschreibungen und Befehle.",
+  "sections": [
+    {
+      "h": "Was ist der Imperativ?",
+      "p": "Wir verwenden den Imperativ, um jemanden aufzufordern, etwas zu tun. Er ist sehr direkt. Du nimmst einfach die Grundform des Verbs. Wörter wie ‚du‘ brauchst du nicht. Anstatt zum Beispiel zu sagen ‚Du öffnest die Tür‘, sagst du einfach ‚Öffne die Tür‘. Wir nutzen den Imperativ für Rezepte, Wegbeschreibungen und Regeln im Klassenzimmer.",
+      "ex": [
+        {
+          "en": "Open the window, please.",
+          "mean": "jemanden bitten, das Fenster zu öffnen"
+        },
+        {
+          "en": "Sit down on the chair.",
+          "mean": "jemandem sagen, dass er sich setzen soll"
+        },
+        {
+          "en": "Listen to the teacher.",
+          "mean": "der sprechenden Person aufmerksam zuhören"
+        }
+      ]
+    },
+    {
+      "h": "Verneinter Imperativ",
+      "p": "Um jemandem zu sagen, er soll etwas NICHT tun, stellen wir ‚Don't‘ vor das Verb. ‚Don't‘ ist die Kurzform von ‚Do not‘. Das ist super praktisch für Sicherheitsregeln und Warnungen. Du kannst es zu Hause, bei der Arbeit oder auf der Straße verwenden.",
+      "ex": [
+        {
+          "en": "Don't touch that hot pan!",
+          "mean": "nicht mit den Händen an die heiße Pfanne fassen"
+        },
+        {
+          "en": "Don't park your car here.",
+          "mean": "das Auto hier abzustellen ist nicht erlaubt"
+        },
+        {
+          "en": "Don't be late for class.",
+          "mean": "pünktlich ankommen"
+        }
+      ]
+    },
+    {
+      "h": "Anweisungen höflich formulieren",
+      "p": "Der Imperativ kann manchmal ein bisschen streng klingen. Um höflich zu sein, hängen wir meistens das Wort ‚please‘ an den Anfang oder ans Ende des Satzes. Mit ‚please‘ helfen die Leute dir gleich viel lieber.",
+      "ex": [
+        {
+          "en": "Please help me with this bag.",
+          "mean": "nett um Hilfe bitten"
+        },
+        {
+          "en": "Turn off the lights, please.",
+          "mean": "eine höfliche Bitte, den Raum abzudunkeln"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "imperative",
+      "mean": "Befehl oder Anweisung"
+    },
+    {
+      "en": "verb",
+      "mean": "Tätigkeitswort"
+    },
+    {
+      "en": "don't",
+      "mean": "nicht tun"
+    },
+    {
+      "en": "please",
+      "mean": "höfliches Wort"
+    },
+    {
+      "en": "turn left",
+      "mean": "nach links gehen"
+    },
+    {
+      "en": "stop",
+      "mean": "nicht bewegen"
+    },
+    {
+      "en": "open",
+      "mean": "etwas öffnen"
+    },
+    {
+      "en": "listen",
+      "mean": "aufmerksam zuhören"
+    }
+  ],
+  "tip": "Denk an Kochbücher oder Videospiele. Da werden immer kurze Aktionswörter benutzt, um dir zu sagen, was du als Nächstes tun musst!",
+  "quiz": [
+    {
+      "ask": "Wähle die richtige Anweisung aus",
+      "en": "___ the door, it is cold outside.",
+      "choices": [
+        "Close",
+        "Closing",
+        "Closes"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die richtige verneinte Anweisung aus",
+      "en": "___ run in the hospital corridor.",
+      "choices": [
+        "Not",
+        "Don't",
+        "No"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Vervollständige die höfliche Bitte",
+      "en": "Please ___ quiet during the test.",
+      "choices": [
+        "are",
+        "is",
+        "be"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das passende Verb für ein Rezept aus",
+      "en": "___ the eggs in a bowl.",
+      "choices": [
+        "Mix",
+        "Mixes",
+        "Mixed"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die richtige Warnung aus",
+      "en": "___ feed the animals at the zoo.",
+      "choices": [
+        "No",
+        "Not",
+        "Don't"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle die richtige Fahranweisung aus",
+      "en": "___ at the red traffic light.",
+      "choices": [
+        "Go",
+        "Stop",
+        "Walk"
+      ],
+      "answer_index": 1
+    }
+  ]
+}
