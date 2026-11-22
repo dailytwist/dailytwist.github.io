@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-22",
+  "title": "Test de Cultura General Diario: 22 de noviembre de 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "¿Qué país cuenta con el mayor número de husos horarios en su territorio y dependencias?",
+      "options": [
+        "Rusia",
+        "Estados Unidos",
+        "Reino Unido",
+        "Francia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Francia utiliza 12 husos horarios diferentes en sus diversos departamentos y territorios de ultramar en todo el mundo."
+    },
+    {
+      "category": "science",
+      "question": "¿Cuál es el gas principal que compone la atmósfera de Venus?",
+      "options": [
+        "Dióxido de Carbono",
+        "Hidrógeno",
+        "Oxígeno",
+        "Nitrógeno"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El dióxido de carbono representa aproximadamente el 96,5 por ciento de la atmósfera de Venus, lo que genera un efecto invernadero desbocado."
+    },
+    {
+      "category": "history",
+      "question": "¿De qué civilización antigua es originario el Código de Hammurabi, uno de los escritos descifrados más antiguos y de mayor extensión del mundo?",
+      "options": [
+        "Babilonia",
+        "Antiguo Egipto",
+        "Antigua Grecia",
+        "El Imperio Romano"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Inscrito en una gran estela de basalto, el Código de Hammurabi estableció el famoso principio legal de \"ojo por ojo\"."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "¿Qué película de acción y ciencia ficción de 1999 popularizó el efecto visual conocido como \"tiempo bala\"?",
+      "options": [
+        "Terminator 2: El juicio final",
+        "El quinto elemento",
+        "Blade Runner",
+        "Matrix"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Los directores Lana y Lilly Wachowski ayudaron a revolucionar el cine de acción al utilizar múltiples cámaras fotográficas para congelar y girar alrededor de los personajes en pleno vuelo."
+    },
+    {
+      "category": "food",
+      "question": "¿Cuál es el ingrediente principal de la tradicional sopa fría española conocida como gazpacho?",
+      "options": [
+        "Tomate",
+        "Patata",
+        "Berenjena",
+        "Pepino"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Originario de la región de Andalucía, el gazpacho tradicional es una mezcla refrescante de verduras crudas con los tomates maduros como base principal."
+    },
+    {
+      "category": "animals",
+      "question": "¿Qué grupo de animales marinos se clasifica científicamente bajo la clase Cephalopoda?",
+      "options": [
+        "Cangrejos y langostas",
+        "Estrellas de mar y erizos de mar",
+        "Medusas y corales",
+        "Pulpos y calamares"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Los cefalópodos, que significa \"cabeza-pie\" en griego, poseen sistemas nerviosos muy desarrollados y notables habilidades de camuflaje."
+    },
+    {
+      "category": "sports",
+      "question": "En el rugby union internacional, ¿cuántos puntos vale un ensayo (\"try\") estándar sin el saque de conversión?",
+      "options": [
+        "6",
+        "3",
+        "5",
+        "4"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Un ensayo originalmente valía cero puntos cuando se codificó el deporte en el siglo XIX, y solo le otorgaba al equipo la oportunidad de intentar un gol de campo."
+    },
+    {
+      "category": "language",
+      "question": "¿Cuál es el término lingüístico para una palabra formada a partir de las letras iniciales de otras palabras, que se puede pronunciar como una sola palabra como \"NASA\"?",
+      "options": [
+        "Acrónimo",
+        "Homónimo",
+        "Palabra maleta",
+        "Oxímoron"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Aunque todos los acrónimos son siglas, el término \"acrónimo\" se aplica específicamente cuando la abreviatura forma una palabra nueva pronunciable."
+    },
+    {
+      "category": "space",
+      "question": "Situada entre las órbitas de Marte y Júpiter, ¿cómo se llama la región que contiene la gran mayoría de los asteroides de nuestro sistema solar?",
+      "options": [
+        "Cinturón de Kuiper",
+        "Cinturón de radiación de Van Allen",
+        "Nube de Oort",
+        "Cinturón de asteroides"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A pesar de las representaciones populares en las películas de ciencia ficción, el cinturón de asteroides es principalmente espacio vacío, con objetos dispersos a lo largo de millones de kilómetros."
+    },
+    {
+      "category": "geography",
+      "question": "¿Cuál de estas capitales está situada más al norte?",
+      "options": [
+        "Oslo",
+        "Reikiavik",
+        "Ottawa",
+        "Helsinki"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Reikiavik, la capital de Islandia, se encuentra aproximadamente a 64 grados de latitud norte, lo que la convierte en la capital de estado soberano más septentrional del mundo."
+    }
+  ]
+}

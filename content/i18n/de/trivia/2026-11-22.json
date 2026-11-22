@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-22",
+  "title": "Tägliches Allgemeinwissen-Quiz: 22. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches Land weist inklusive seiner Hoheitsgebiete und abhängigen Gebiete die meisten Zeitzonen auf?",
+      "options": [
+        "Russland",
+        "Vereinigte Staaten",
+        "Vereinigtes Königreich",
+        "Frankreich"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Frankreich nutzt verteilt auf seine verschiedenen Überseedepartements und -gebiete weltweit 12 verschiedene Zeitzonen."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist das Hauptgas, aus dem die Atmosphäre der Venus besteht?",
+      "options": [
+        "Kohlenstoffdioxid",
+        "Wasserstoff",
+        "Sauerstoff",
+        "Stickstoff"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Kohlenstoffdioxid macht etwa 96,5 Prozent der Atmosphäre der Venus aus und sorgt für einen unkontrollierten Treibhauseffekt."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Aus welcher antiken Zivilisation stammt der Kodex Hammurapi, einer der ältesten entzifferten längeren Sachtexte der Welt?",
+      "options": [
+        "Babylonien",
+        "Altes Ägypten",
+        "Antikes Griechenland",
+        "Das Römische Reich"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Der auf einer großen Basaltstele eingemeißelte Kodex Hammurapi begründete den berühmten Rechtsgrundsatz „Auge um Auge“."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Welcher Science-Fiction-Actionfilm aus dem Jahr 1999 machte den visuellen Effekt des „Bullet Time“-Effekts populär?",
+      "options": [
+        "Terminator 2: Tag der Abrechnung",
+        "Das fünfte Element",
+        "Blade Runner",
+        "Matrix"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Die Regisseurinnen Lana und Lilly Wachowski revolutionierten das Actionkino, indem sie viele Standbildkameras einsetzten, um Charaktere mitten in der Luft einzufrieren und um sie herumzudrehen."
+    },
+    {
+      "category": "Essen & Trinken",
+      "question": "Was ist die Hauptzutat der traditionellen spanischen Kaltschale namens Gazpacho?",
+      "options": [
+        "Tomate",
+        "Kartoffel",
+        "Auberginen",
+        "Gurke"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Die aus Andalusien stammende traditionelle Gazpacho ist eine erfrischende Mischung aus rohem Gemüse, bei der reife Tomaten die Hauptrolle spielen."
+    },
+    {
+      "category": "Tiere",
+      "question": "Welche Gruppe von Meerestieren wird wissenschaftlich der Klasse der Kopffüßer (Cephalopoda) zugeordnet?",
+      "options": [
+        "Krabben und Hummer",
+        "Seesterne und Seeigel",
+        "Quallen und Korallen",
+        "Kraken und Tintenfische"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Kopffüßer, was auf Griechisch „Kopffüßer“ bedeutet, verfügen über hoch entwickelte Nervensysteme und bemerkenswerte Tarnfähigkeiten."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Punkte ist ein regulärer Versuch (Try) im internationalen Rugby Union ohne anschließende Erhöhung wert?",
+      "options": [
+        "6",
+        "3",
+        "5",
+        "4"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Ein Versuch war, als die Sportart im 19. Jahrhundert kodifiziert wurde, ursprünglich null Punkte wert und gab der Mannschaft lediglich die Möglichkeit, einen Torschuss zu versuchen."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie lautet der sprachwissenschaftliche Begriff für ein Wort, das aus den Anfangsbuchstaben anderer Wörter gebildet wird und wie ein eigenständiges Wort ausgesprochen werden kann (wie zum Beispiel „NASA“)?",
+      "options": [
+        "Akronym",
+        "Homonym",
+        "Portmanteau-Wort",
+        "Oxymoron"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Während alle Akronyme Kurzwörter aus Initialen sind, gilt der Begriff „Akronym“ speziell dann, wenn die Abkürzung ein aussprechbares neues Wort bildet."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Wie heißt die Region zwischen den Umlaufbahnen von Mars und Jupiter, die den weitaus größten Teil der Asteroiden in unserem Sonnensystem enthält?",
+      "options": [
+        "Kuipergürtel",
+        "Van-Allen-Strahlungsgürtel",
+        "Oortsche Wolke",
+        "Asteroidengürtel"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Entgegen der Darstellung in Science-Fiction-Filmen ist der Asteroidengürtel größtenteils leerer Raum, in dem sich die Objekte über Millionen von Kilometern verteilen."
+    },
+    {
+      "category": "Geografie",
+      "question": "Welche dieser Hauptstädte liegt am weitesten nördlich?",
+      "options": [
+        "Oslo",
+        "Reykjavík",
+        "Ottawa",
+        "Helsinki"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Reykjavík, die Hauptstadt Islands, liegt auf etwa 64 Grad nördlicher Breite und ist damit die nördlichste Hauptstadt eines souveränen Staates weltweit."
+    }
+  ]
+}

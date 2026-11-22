@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-22",
+  "title": "Daily General Knowledge Quiz: November 22, 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Which country features the highest number of time zones within its territory and dependencies?",
+      "options": [
+        "Russia",
+        "United States",
+        "United Kingdom",
+        "France"
+      ],
+      "answer_index": 3,
+      "fun_fact": "France utilizes 12 different time zones across its various overseas departments and territories worldwide."
+    },
+    {
+      "category": "science",
+      "question": "What is the primary gas that makes up the atmosphere of Venus?",
+      "options": [
+        "Carbon Dioxide",
+        "Hydrogen",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Carbon dioxide makes up about 96.5 percent of Venus's atmosphere, creating a runaway greenhouse effect."
+    },
+    {
+      "category": "history",
+      "question": "The Code of Hammurabi, one of the oldest deciphered writings of significant length in the world, originated from which ancient civilization?",
+      "options": [
+        "Babylonia",
+        "Ancient Egypt",
+        "Ancient Greece",
+        "The Roman Empire"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Inscribed on a large basalt stele, the Code of Hammurabi established the famous legal principle of 'an eye for an eye'."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Which 1999 science fiction action film popularized the visual effect known as 'bullet time'?",
+      "options": [
+        "Terminator 2: Judgment Day",
+        "The Fifth Element",
+        "Blade Runner",
+        "The Matrix"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Directors Lana and Lilly Wachowski helped revolutionize action cinema by using multiple still cameras to freeze and rotate around characters in mid-air."
+    },
+    {
+      "category": "food",
+      "question": "What is the main ingredient in the traditional Spanish cold soup known as gazpacho?",
+      "options": [
+        "Tomato",
+        "Potato",
+        "Eggplant",
+        "Cucumber"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Originating in the Andalusia region, traditional gazpacho is a refreshing blend of raw vegetables with ripe tomatoes as the star base."
+    },
+    {
+      "category": "animals",
+      "question": "Which group of marine animals is scientifically classified under the class Cephalopoda?",
+      "options": [
+        "Crabs and lobsters",
+        "Starfish and sea urchins",
+        "Jellyfish and corals",
+        "Octopuses and squids"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Cephalopods, meaning 'head-foot' in Greek, possess highly developed nervous systems and remarkable camouflage abilities."
+    },
+    {
+      "category": "sports",
+      "question": "In international rugby union, how many points is a standard try worth without a conversion kick?",
+      "options": [
+        "6",
+        "3",
+        "5",
+        "4"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A try was originally worth zero points when the sport was codified in the 19th century, only granting the team the opportunity to attempt a goal kick."
+    },
+    {
+      "category": "language",
+      "question": "What is the linguistic term for a word formed from the initial letters of other words, which can be pronounced as a single word like 'NASA'?",
+      "options": [
+        "Acronym",
+        "Homonym",
+        "Portmanteau",
+        "Oxymoron"
+      ],
+      "answer_index": 0,
+      "fun_fact": "While all acronyms are initialisms, the term 'acronym' specifically applies when the abbreviation forms a pronounceable new word."
+    },
+    {
+      "category": "space",
+      "question": "Located between the orbits of Mars and Jupiter, what is the name of the region containing the vast majority of asteroids in our solar system?",
+      "options": [
+        "Kuiper Belt",
+        "Van Allen Radiation Belt",
+        "Oort Cloud",
+        "Asteroid Belt"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Despite popular depictions in science fiction movies, the Asteroid Belt is mostly empty space, with objects spread out across millions of kilometers."
+    },
+    {
+      "category": "geography",
+      "question": "Which of these capital cities is situated the farthest north?",
+      "options": [
+        "Oslo",
+        "Reykjavik",
+        "Ottawa",
+        "Helsinki"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Reykjavik, the capital of Iceland, sits at approximately 64 degrees north latitude, making it the northernmost sovereign state capital in the world."
+    }
+  ]
+}
