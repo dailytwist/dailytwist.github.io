@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-23",
+  "signs": {
+    "aries": {
+      "overview": "Der Montag beginnt mit purer Energie, Widder, und drängt dich dazu, aus dem Bett zu springen und jeder verrückten Idee nachzugehen, die letzte Nacht durch deine Träume tanzte. Dein natürliches Feuer brennt lichterloh, sodass du praktisch nicht aufzuhalten bist, wenn es darum geht, neue Projekte zu starten oder deine Mitmenschen zu inspirieren. Denk nur daran, diese grenzenlose Dynamik mit ein wenig Strategie statt mit purem, sturem Impuls zu kanalisieren. Ein Rätsel am Nachmittag stellt vielleicht deine sprichwörtliche Geduld auf die Probe, aber betrachte es lieber als spaßiges Spiel denn als Hindernis. Heute Abend dreht sich alles darum, dich mit deiner Lieblingsplaylist zurückzulehnen und dein hochtouriges Gehirn endlich zur Ruhe kommen zu lassen.",
+      "love": "Sag Ja zu spontanen Abenteuern mit deinem Partner oder halte dein Herz weit offen für einen aufregenden neuen Funken. Mut steht dir heute einfach fantastisch.",
+      "career": "Deine Führungsqualitäten strahlen hell und inspirieren Teamkollegen dazu, selbst die hartnäckigsten Montags-Hürden mit einem Lächeln zu meistern.",
+      "wellness": "Tausche deinen gewohnten schweren Morgenkaffee gegen eine anregende Tasse Pfefferminztee, um die Nervosität im Zaum zu halten.",
+      "lucky_number": 7,
+      "lucky_color": "Karmesinrot",
+      "mood": "unstoppbar"
+    },
+    "taurus": {
+      "overview": "Lass dich diesen Montag in einen gemütlichen Rhythmus fallen, Stier, denn der Kosmos lädt dich ein, jedes einzelne sinnliche Detail deines Tages zu genießen. Während der Rest der Welt wie wild gewordene Hühner herumhetzt, besitzt du die Superkraft absoluter Gelassenheit. Hülle dich in einen weichen Pullover, brühe etwas wunderbar Aromatisches auf und gehe deine To-Do-Liste mit langsamer, bewusster Anmut an. Du baust etwas Bleibendes auf, es gibt also absolut keinen Grund, den Prozess zu überstürzen. Der Abend verlangt nach einem großartigen, selbstgekochten Essen, geteilt mit jemandem, der die feineren, einfacheren Dinge im Leben genauso schätzt wie du.",
+      "love": "Komfort und tiefe emotionale Geborgenheit sind heute deine ultimativen Liebessprachen, also gib dich kuscheligen Momenten und süßen Gesten hin.",
+      "career": "In der Ruhe liegt die Kraft, und deine verlässliche Art macht dich im Moment zum absoluten Anker im Büro.",
+      "wellness": "Nimm dir fünf Minuten Zeit, um deinen Nacken und deine Schultern sanft zu dehnen, während du dein deines Lieblings-Instrumentalalbum hörst.",
+      "lucky_number": 14,
+      "lucky_color": "Salbeigrün",
+      "mood": "geerdet"
+    },
+    "gemini": {
+      "overview": "Dein Verstand ist heute ein brillanter Flipperautomat, Zwillinge, der rasant zwischen urkomischen Popkultur-Referenzen, genialen kreativen Einsichten und neugierigen Gedankensprüngen hin und her springt. Der Montag hat gegen deinen schnellen Witz und deine ansteckende, schmetterlingsgleiche soziale Energie keine Chance. Melde dich bei dem Freund, mit dem du schon seit Ewigkeiten nicht mehr geplaudert hast, denn dein Posteingang verwandelt sich gleich in eine Zentrale voller herrlicher Überraschungen. Achte nur darauf, ein paar der fünfzig offenen Browser-Tabs in deinem Gehirn vor dem Mittagessen zu schließen, damit du auch wirklich beendest, was du anfängst. Tauche heute Abend in eine faszinierende Dokumentation oder einen packenden Roman ein, der deinen Intellekt kitzelt.",
+      "love": "Verspieltes Necken ist deine Geheimwaffe, also slide in die DMs von jemandem oder flüstere deinem Schatz einen frechen Witz ins Ohr.",
+      "career": "Multitasking ist deine Superkraft, aber vergiss bei all der Aufregung nicht, deine E-Mails noch einmal zu überprüfen, bevor du auf Senden klickst.",
+      "wellness": "Gönn deinen Augen eine Bildschirmpause, indem du aus dem Fenster schaust und deinen Geist zehn Minuten lang Tagträume spinnen lässt.",
+      "lucky_number": 23,
+      "lucky_color": "Gelb",
+      "mood": "neugierig"
+    },
+    "cancer": {
+      "overview": "Deine Intuition summt heute praktisch wie eine Stimmgabel, süßer Krebs, und nimmt jede subtile emotionale Veränderung in deiner Umgebung wahr. Der Montag mag sich anfangs etwas laut anfühlen, aber dein gemütlicher Schutzpanzer ist eine Oase tiefer Ruhe und Kreativität. Vertraue auf dieses sanfte Bauchgefühl im Umgang mit kniffligen sozialen Dynamiken, denn es wird dich zu der freundlichsten und harmonischsten Lösung führen. Verwöhne dein inneres Kind mit einer nostalgischen Leckerei oder einer wohltuenden Nachmittagsplaylist. Der Abend ist perfekt, um dich mit einer warmen Decke auf dem Sofa einzukuscheln und deine Fantasie an magische Orte wandern zu lassen.",
+      "love": "Verletzlichkeit ist deine Superkraft, also teile ein zartes Geheimnis oder ein heartfelt Kompliment mit jemandem Besonderen.",
+      "career": "Deine einfühlsamen Zuhör-Fähigkeiten helfen dabei, die Spannung im Büro zu lösen und alle als echtes Team zusammenzubringen.",
+      "wellness": "Nimm ein langes, warmes Bad mit Meersalz, um den energetischen Staub des Wochenendes abzuwaschen.",
+      "lucky_number": 2,
+      "lucky_color": "Silber",
+      "mood": "intuitiv"
+    },
+    "leo": {
+      "overview": "Tritt direkt ins Rampenlicht, Löwe, denn das Universum hat diesen Montag offiziell den roten Teppich nur für dich ausgerollt. Deine natürliche Ausstrahlung ist voll auf Maximum gedreht, sodass sich jeder Raum, den du betrittst, sofort heller und spaßiger anfühlt. Scheue dich nicht, dieses mutige kreative Konzept vorzustellen oder das fabelhafte Outfit zu tragen, das du für einen besonderen Anlass aufbewahrt hast. Die Menschen fühlen sich auf natürliche Weise von deiner Wärme und deinem großzügigen Geist angezogen. Gönne dir heute Abend etwas Glamouröses und Fabelhaftes, denn du verdienst es, einfach zu feiern, dass du dein großartiges Selbst bist.",
+      "love": "Romantik ist heute theatralisch, spaßig und tief leidenschaftlich, also plane ein Date, das sich wie pure Magie anfühlt.",
+      "career": "Deine kreative Vision fesselt den Raum und verwandelt ein routinemäßiges Meeting in deine persönliche Bühne des Triumphs.",
+      "wellness": "Nimm für dreißig Sekunden eine selbstbewusste Superhelden-Pose vor dem Spiegel ein, um deine Stimmung sofort zu heben.",
+      "lucky_number": 5,
+      "lucky_color": "Gold",
+      "mood": "strahlend"
+    },
+    "virgo": {
+      "overview": "Hol die farbcodierten Textmarker heraus, Jungfrau, denn das Organisieren deiner Welt an einem Montagmorgen bereitet dir immense Befriedigung. Dein Blick für Details ist im Moment razor-sharp, sodass du brillante Muster und Lösungen entdeckst, die alle anderen völlig übersehen haben. Räum deinen Schreibtisch auf, stelle deine Playlist zusammen und gehe deine Ziele mit Präzision und Anmut an. So sehr du Perfektion liebst, vergiss nicht, ein wenig Raum für spontane Freude und chaotische menschliche Fehler zu lassen. Belohne deine harte Arbeit heute Abend, indem du deine gemütliche Lieblingsecke zum Lesen aufräumst oder deine genialen Ideen aufschreibst.",
+      "love": "Taten sprechen Bände, also überrasche deinen Schatz, indem du dich um eine Hausarbeit kümmerst, vor der er sich insgeheim graust.",
+      "career": "Deine akribische Planung hält Projekte reibungslos am Laufen und bringt dir leisen Applaus von den Vorgesetzten ein.",
+      "wellness": "Entrümple deinen physischen Arbeitsplatz, um den mentalen Nebel sofort zu vertreiben und frische Inspiration einzuladen.",
+      "lucky_number": 11,
+      "lucky_color": "Marineblau",
+      "mood": "fokussiert"
+    },
+    "libra": {
+      "overview": "Ästhetische Harmonie ist heute deine Hauptmission, Waage, und du vollbringst wahre Wunder dabei, Ecken und Kanten abzurunden. Der Montag funkelt vor sozialer Anmut, was ihn zu einer idealen Zeit für Networking, Zusammenarbeit oder einfach ein schönes Kaffeetrinken mit einem inspirierenden Begleiter macht. Dein Sinn für Balance sorgt dafür, dass jedes Gruppenprojekt, das du anfasst, zu einem Meisterwerk der Kooperation wird. Stell nur sicher, dass du nicht zu Dingen Ja sagst, nur um des Friedens willen; deine eigenen Wünsche zählen genauso viel! Zünde heute Abend ein paar Kerzen an und stelle die ultimative Entspannungs-Playlist zusammen.",
+      "love": "Flirtende Energie umgibt dich wie eine sanfte Brise, was dies zu einem fantastischen Tag für süße Textnachrichten und romantische Gesten macht.",
+      "career": "Diplomatie ist dein größtes Kapital, mit dem du mit mühelosem Charme die Lücken zwischen gegnerischen Teams schließen kannst.",
+      "wellness": "Bringe deine Haltung ins Gleichgewicht, indem du ein paar sanfte Yoga-Posen oder eine einfache Stand-Core-Übung machst.",
+      "lucky_number": 18,
+      "lucky_color": "Pfirsich",
+      "mood": "harmonisch"
+    },
+    "scorpio": {
+      "overview": "Dein geheimnisvoller Magnetismus sprengt heute alle Skalen, Skorpion, und zieht faszinierende Menschen und spannende Rätsel direkt vor deine Haustür. Der Montag langweilt dich nicht mit Smalltalk; stattdessen sehnst du dich nach tiefen Gesprächen und authentischen Verbindungen, die etwas bedeuten. Vertraue deinen messerscharfen Instinkten beim Navigieren durch neue Möglichkeiten, da du spielend leicht zwischen den Zeilen lesen kannst. Kanalisiere deinen intensiven Fokus in ein kreatives Herzensprojekt, das dich die tiefere Seite des Lebens erkunden lässt. Tauche heute Abend in einen packenden Krimi ein oder genieße ein wenig ruhiges Sternebeobachten.",
+      "love": "Intensität ist deine Liebessprache, also überspringe den Smalltalk und teile einen seelenvollen, tiefgründigen Moment mit deinem Partner.",
+      "career": "Deine strategische Denkweise hilft dir, ein komplexes Problem zu lösen, das alle anderen im Raum vor ein Rätsel gestellt hat.",
+      "wellness": "Trinke ein großes Glas klares, eiskaltes Wasser, um dein System zu erfrischen und deine mentale Klarheit zu schärfen.",
+      "lucky_number": 9,
+      "lucky_color": "Bordeauxrot",
+      "mood": "magnetisch"
+    },
+    "sagittarius": {
+      "overview": "Pack deine metaphorischen Koffer, Schütze, denn deine abenteuerlustige Seele sehnt sich diesen Montag nach einer großen Flucht. Selbst wenn du am Schreibtisch feststeckst, wandert dein Geist über fernen Horizonten, träumt epische Reisepläne zusammen oder beschäftigt sich mit faszinierenden neuen Philosophien. Deine ansteckende Begeisterung verwandelt einen ganz normalen Montag in einen absoluten Spielplatz voller Entdeckungen. Teile dein großes, schallendes Lachen mit jedem, den du triffst, und lass dir deine expansive Stimmung nicht von winzigen Details verderben. Probiere heute Abend ein neues internationales Rezept aus oder plane ein Outdoor-Wochenendabenteuer.",
+      "love": "Spontanität hält die Romantik am Knistern, also überrasche deinen Lieblingsmenschen mit einer wilden, unerwarteten Idee.",
+      "career": "Das Denken im großen Stil ist heute deine Spezialität und inspiriert deine Kollegen dazu, viel höher als gewöhnlich zu zielen.",
+      "wellness": "Geh für einen zügigen zehnminütigen Spaziergang nach draußen, um die frische Luft zu genießen und deine Beine zu vertreten.",
+      "lucky_number": 3,
+      "lucky_color": "Türkis",
+      "mood": "abenteuerlustig"
+    },
+    "capricorn": {
+      "overview": "Erklimme diesen Berg Schritt für bewussten Schritt, Steinbock, denn dein ehrgeiziger Geist ist diesen Montag voll auf Erfolg programmiert. Du hast einen klaren Plan für deine Ziele, und deine sprichwörtliche Disziplin sorgt dafür, dass sich das Abarbeiten deiner To-Do-Liste wie ein absoluter Kinderspiel anfühlt. Zögere nicht, in einer Gruppensituation das Ruder zu übernehmen, denn deine praktische Weisheit wird jetzt dringend gebraucht. Während du damit beschäftigt bist, dein Imperium aufzubauen, erinnere dich daran, innezuhalten und die Aussicht zu genießen. Entspanne dich heute Abend bei einem Filmklassiker und einem wohlverdienten, luxuriösen Snack.",
+      "love": "Loyalität und stetiges Engagement sind deine romantischen Markenzeichen, also zeige deine Liebe durch verlässliche Taten.",
+      "career": "Deine Produktivität sprengt alle Decken, was dies zu einem unglaublichen Tag macht, um wichtige berufliche Ziele abzuhaken.",
+      "wellness": "Gönne deinen Augen eine Pause von Bildschirmen, indem du während deines Arbeitstages die 20-20-20-Regel anwendest.",
+      "lucky_number": 8,
+      "lucky_color": "Anthrazit",
+      "mood": "ehrgeizig"
+    },
+    "aquarius": {
+      "overview": "Dein Gehirn schwebt heute irgendwo in der Zukunft, Wassermann, und brütet wunderbar exzentrische Ideen aus, die sich sonst niemand ausdenken könnte. Der Montag ist deine Leinwand, um mit unkonventionellen Ansätzen zu experimentieren, egal ob du dein Zimmer neu gestaltest oder ein schrulliges Projekt planst. Umarme deinen inneren Sonderling und teile deine visionären Gedanken mit der Welt, selbst wenn sie ihrer Zeit etwas voraus zu sein scheinen. Gemeinschaftsverbindungen stehen im Fokus, also suche den Kontakt zu Gleichgesinnten, die auf deiner Wellenlänge funken. Tüftele heute Abend an einem futuristischen Gadget oder höre experimentelle Indie-Musik.",
+      "love": "Mentale Verbindung ist dein ultimativer Turn-on, also schicke deinem Schatz ein schrulliges Meme oder einen tiefgründigen Artikel.",
+      "career": "Out-of-the-box-Brainstorming-Sessions sind genau dein Ding, bei denen du Lösungen präsentierst, die sonst niemand in Betracht gezogen hat.",
+      "wellness": "Bring Abwechslung in deine Routine, indem du einen völlig anderen Fußweg nimmst oder eine neuartige Dehnübung ausprobierst.",
+      "lucky_number": 17,
+      "lucky_color": "Elektrisches Blau",
+      "mood": "innovativ"
+    },
+    "pisces": {
+      "overview": "Lass deiner künstlerischen Fantasie heute völlig freien Lauf, Fische, während die Traumwelt in deine Montagsrealität übergeht. Du schwebst auf einer Wolke sanfter Inspiration, was dies zu einer magischen Zeit zum Schreiben, Malen, Musikhören oder Tagträumen macht. Dein mitfühlendes Herz steht ganz weit offen, was dich zu einem wunderbaren Vertrauten für Freunde macht, die einen sicheren Ort zum Ausquatschen suchen. Denk nur daran, deine wertvolle Energie vor schweren Schwingungen zu schützen, indem du liebevolle Grenzen setzt. Trift heute Abend mit einer beruhigenden Ambient-Playlist und einer Tasse Kräutertee in die Ferne ab.",
+      "love": "Romantische Fantasie trifft heute auf süße Realität, was es zu einer verträumten Zeit für Poesie, süße Nachrichten und zarte Kuscheleinheiten macht.",
+      "career": "Deine kreative Intuition hilft dir dabei, standardmäßige Aufgaben mit einer einzigartigen künstlerischen Note zu versehen, die heraussticht.",
+      "wellness": "Höre über deine Kopfhörer beruhigenden Meereswellen oder Regengeräuschen zu, um jeglichen anhaltenden Stress wegzuschmelzen.",
+      "lucky_number": 12,
+      "lucky_color": "Lavendel",
+      "mood": "verträumt"
+    }
+  }
+}

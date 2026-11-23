@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-23",
+  "title": "Test de Cultura General Diario: 23 de noviembre de 2026",
+  "questions": [
+    {
+      "category": "geografía",
+      "question": "¿Qué masa de agua conecta el mar Mediterráneo con el océano Atlántico?",
+      "options": [
+        "Estrecho de Malaca",
+        "Estrecho de Bósforo",
+        "Canal de la Mancha",
+        "Estrecho de Gibraltar"
+      ],
+      "answer_index": 3,
+      "fun_fact": "En su punto más estrecho, el estrecho de Gibraltar tiene solo unos 13 kilómetros (8 millas) de ancho, separando Europa de África."
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Cuál es el principal compuesto químico que forma las perlas naturales?",
+      "options": [
+        "Sulfato de magnesio",
+        "Cloruro de sodio",
+        "Dióxido de silicio",
+        "Carbonato de calcio"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Las perlas están compuestas por cristales microscópicos de carbonato de calcio depositados en capas concéntricas."
+    },
+    {
+      "category": "historia",
+      "question": "La antigua ciudad de Cartago, una gran rival de la República romana, ¿en qué país actual se encontraba?",
+      "options": [
+        "Turquía",
+        "Egipto",
+        "Grecia",
+        "Túnez"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Las ruinas de la antigua Cartago se encuentran a las afueras de la actual Túnez, la capital de Túnez."
+    },
+    {
+      "category": "cine y cultura pop",
+      "question": "¿Qué aclamada película policíaca de 1994 incluye una escena famosa en la que los personajes Vincent Vega y Mia Wallace bailan en un restaurante temático de los años 50?",
+      "options": [
+        "Reservoir Dogs",
+        "Pulp Fiction",
+        "Fargo",
+        "Goodfellas"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Dirigida por Quentin Tarantino, Pulp Fiction ganó la prestigiosa Palma de Oro en el Festival de Cine de Cannes de 1994."
+    },
+    {
+      "category": "gastronomía",
+      "question": "¿Cuál es la base alcohólica principal que se utiliza en un cóctel Moscow Mule tradicional?",
+      "options": [
+        "Vodka",
+        "Tequila",
+        "Ginebra",
+        "Ron"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El Moscow Mule se sirve tradicionalmente en una taza de cobre distintiva, lo que ayuda a mantener la bebida fría."
+    },
+    {
+      "category": "animales",
+      "question": "¿Cómo se le llama colectivamente a un grupo de cuervos?",
+      "options": [
+        "Un asesinato",
+        "Un enjambre",
+        "Una bandada",
+        "Una jauría"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Los cuervos son aves excepcionalmente inteligentes capaces de reconocer rostros humanos y utilizar herramientas."
+    },
+    {
+      "category": "deportes",
+      "question": "En el hockey sobre hielo, ¿cuántos patinadores hay normalmente en la pista por un solo equipo durante el juego estándar en igualdad de condiciones?",
+      "options": [
+        "Cinco",
+        "Cuatro",
+        "Tres",
+        "Seis"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Si se incluye al guardameta, cada equipo tiene seis jugadores en la pista a la vez durante el juego estándar."
+    },
+    {
+      "category": "idioma",
+      "question": "¿Cuál es el término lingüístico para las palabras que suenan igual o similar pero tienen diferentes significados y ortografías, como 'there', 'their' y 'they're' en inglés?",
+      "options": [
+        "Homófonas",
+        "Homógrafas",
+        "Antónimos",
+        "Sinónimos"
+      ],
+      "answer_index": 0,
+      "fun_fact": "La palabra 'homófono' proviene de raíces griegas que significan 'mismo sonido'."
+    },
+    {
+      "category": "espacio",
+      "question": "¿Qué planeta de nuestro sistema solar tiene la temperatura superficial más alta, a pesar de no ser el más cercano al Sol?",
+      "options": [
+        "Mercurio",
+        "Marte",
+        "Venus",
+        "Júpiter"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Venus experimenta un efecto invernadero desbocado debido a su densa atmósfera de dióxido de carbono, lo que mantiene las temperaturas superficiales alrededor de los 465 °C."
+    },
+    {
+      "category": "historia",
+      "question": "¿Qué tratado histórico puso fin oficialmente a la Primera Guerra Mundial y se firmó en un famoso palacio francés en 1919?",
+      "options": [
+        "Tratado de Versalles",
+        "Tratado de Utrecht",
+        "Tratado de Gante",
+        "Tratado de Westfalia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El Tratado de Versalles se firmó en el Salón de los Espejos del Palacio de Versalles exactamente cinco años después del asesinato del archiduque Francisco Fernando."
+    }
+  ]
+}

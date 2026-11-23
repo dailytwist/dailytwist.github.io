@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-23",
+  "title": "Quiz Diário de Conhecimentos Gerais: 23 de novembro de 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Qual corpo d'água conecta o Mar Mediterrâneo ao Oceano Atlântico?",
+      "options": [
+        "Estreito de Malaca",
+        "Estreito de Bósforo",
+        "Canal da Mancha",
+        "Estreito de Gibraltar"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Em seu ponto mais estreito, o Estreito de Gibraltar tem apenas cerca de 13 quilômetros (8 milhas) de largura, separando a Europa da África."
+    },
+    {
+      "category": "ciência",
+      "question": "Qual é o principal composto químico que compõe as pérolas naturais?",
+      "options": [
+        "Sulfato de magnésio",
+        "Cloreto de sódio",
+        "Dióxido de silício",
+        "Carbonato de cálcio"
+      ],
+      "answer_index": 3,
+      "fun_fact": "As pérolas são compostas por cristais microscópicos de carbonato de cálcio depositados em camadas concêntricas."
+    },
+    {
+      "category": "história",
+      "question": "A antiga cidade de Cartago, uma grande rival da República Romana, ficava localizada em qual país atual?",
+      "options": [
+        "Turquia",
+        "Egito",
+        "Grécia",
+        "Tunísia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "As ruínas da antiga Cartago ficam bem perto da atual Tunes, a capital da Tunísia."
+    },
+    {
+      "category": "filmes e cultura pop",
+      "question": "Qual aclamado filme policial de 1994 apresenta uma cena famosa em que os personagens Vincent Vega e Mia Wallace dançam em um restaurante temático dos anos 1950?",
+      "options": [
+        "Reservoir Dogs",
+        "Pulp Fiction",
+        "Fargo",
+        "Goodfellas"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Dirigido por Quentin Tarantino, Pulp Fiction ganhou a prestigiada Palma de Ouro no Festival de Cinema de Cannes de 1994."
+    },
+    {
+      "category": "culinária",
+      "question": "Qual é a principal base alcoólica usada em um coquetel tradicional Moscow Mule?",
+      "options": [
+        "Vodka",
+        "Tequila",
+        "Gin",
+        "Rum"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O Moscow Mule é famoso por ser servido em uma caneca de cobre distinta, o que ajuda a manter a bebida gelada."
+    },
+    {
+      "category": "animais",
+      "question": "Como é chamado um grupo de corvos coletivamente?",
+      "options": [
+        "Uma conspiração (murder)",
+        "Um enxame",
+        "Um bando",
+        "Uma matilha"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Os corvos são aves excepcionalmente inteligentes, capazes de reconhecer rostos humanos e usar ferramentas."
+    },
+    {
+      "category": "esportes",
+      "question": "No hóquei no gelo, quantos patinadores geralmente estão no gelo por uma única equipe durante um jogo normal com o mesmo número de jogadores?",
+      "options": [
+        "Cinco",
+        "Quatro",
+        "Três",
+        "Seis"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Incluindo o goleiro, cada equipe tem seis jogadores no gelo ao mesmo tempo durante uma partida padrão."
+    },
+    {
+      "category": "idioma",
+      "question": "Qual é o termo linguístico para palavras que soam iguais ou semelhantes, mas têm significados e grafias diferentes?",
+      "options": [
+        "Homófonas",
+        "Homógrafas",
+        "Antônimos",
+        "Sinônimos"
+      ],
+      "answer_index": 0,
+      "fun_fact": "A palavra 'homófona' vem de raízes gregas que significam 'mesmo som'."
+    },
+    {
+      "category": "espaço",
+      "question": "Qual planeta do nosso sistema solar tem a temperatura de superfície mais alta, mesmo não sendo o mais próximo do Sol?",
+      "options": [
+        "Mercúrio",
+        "Marte",
+        "Vênus",
+        "Júpiter"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Vênus sofre de um efeito estufa descontrolado devido à sua espessa atmosfera de dióxido de carbono, mantendo as temperaturas da superfície em torno de 465°C."
+    },
+    {
+      "category": "história",
+      "question": "Qual tratado histórico encerrou oficialmente a Primeira Guerra Mundial e foi assinado em um famoso palácio francês em 1919?",
+      "options": [
+        "Tratado de Versalhes",
+        "Tratado de Utrecht",
+        "Tratado de Gante",
+        "Tratado de Vestfália"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O Tratado de Versalhes foi assinado no Salão dos Espelhos do Palácio de Versalhes exatamente cinco anos após o assassinato do arquiduque Francisco Ferdinando."
+    }
+  ]
+}

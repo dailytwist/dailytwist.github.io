@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-23",
+  "title": "Tägliches Allgemeinwissen-Quiz: 23. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches Gewässer verbindet das Mittelmeer mit dem Atlantischen Ozean?",
+      "options": [
+        "Straße von Malakka",
+        "Bosporus",
+        "Ärmelkanal",
+        "Straße von Gibraltar"
+      ],
+      "answer_index": 3,
+      "fun_fact": "An ihrer schmalsten Stelle ist die Straße von Gibraltar gerade einmal rund 13 Kilometer (8 Meilen) breit und trennt Europa von Afrika."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Welche chemische Hauptverbindung macht den Großteil natürlicher Perlen aus?",
+      "options": [
+        "Magnesiumsulfat",
+        "Natriumchlorid",
+        "Siliziumdioxid",
+        "Calciumcarbonat"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Perlen bestehen aus mikroskopischen Kristallen aus Calciumcarbonat, die in konzentrischen Schichten angelagert sind."
+    },
+    {
+      "category": "Geschichte",
+      "question": "In welchem Land liegt die antike Stadt Karthago, ein Hauptrivale der Römischen Republik, heute?",
+      "options": [
+        "Türkei",
+        "Ägypten",
+        "Griechenland",
+        "Tunesien"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Die Ruinen des antiken Karthago befinden sich direkt vor den Toren des heutigen Tunis, der Hauptstadt von Tunesien."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "In welchem gefeierten Kriminalfilm aus dem Jahr 1994 tanzen die Figuren Vincent Vega und Mia Wallace in einem Restaurant im Stil der 1950er-Jahre?",
+      "options": [
+        "Reservoir Dogs",
+        "Pulp Fiction",
+        "Fargo",
+        "Goodfellas"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Pulp Fiction unter der Regie von Quentin Tarantino gewann bei den Filmfestspielen von Cannes 1994 die prestigeträchtige Goldene Palme."
+    },
+    {
+      "category": "Essen & Trinken",
+      "question": "Welche alkoholische Hauptzutat wird für einen traditionellen Moscow Mule verwendet?",
+      "options": [
+        "Wodka",
+        "Tequila",
+        "Gin",
+        "Rum"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Der Moscow Mule wird bekanntermaßen in einem charakteristischen Kupferbecher serviert, der das Getränk schön kühl hält."
+    },
+    {
+      "category": "Tiere",
+      "question": "Wie nennt man eine Gruppe von Krähen im deutschen Sprachgebrauch häufig?",
+      "options": [
+        "Ein Mord",
+        "Ein Schwarm",
+        "Ein Flug",
+        "Ein Rudel"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Krähen sind außergewöhnlich intelligente Vögel, die menschliche Gesichter wiedererkennen und Werkzeuge benutzen können."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Feldspieler stehen beim Eishockey pro Team während eines regulären Spiels bei gleicher Spieleranzahl normalerweise auf dem Eis?",
+      "options": [
+        "Fünf",
+        "Vier",
+        "Drei",
+        "Sechs"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Inklusive Torwart befinden sich während des regulären Spielbetriebs pro Mannschaft jeweils sechs Spieler gleichzeitig auf dem Eis."
+    },
+    {
+      "category": "Sprache",
+      "question": "Wie lautet der sprachwissenschaftliche Begriff für Wörter, die gleich oder ähnlich klingen, aber unterschiedliche Bedeutungen und Schreibweisen haben (wie im Englischen 'their', 'there' und 'they're')?",
+      "options": [
+        "Homophone",
+        "Homografen",
+        "Antonyme",
+        "Synonyme"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Das Wort 'Homophon' stammt von griechischen Wurzeln ab, die 'gleicher Klang' bedeuten."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Planet in unserem Sonnensystem hat die höchste Oberflächentemperatur, obwohl er nicht der sonnennächste ist?",
+      "options": [
+        "Merkur",
+        "Mars",
+        "Venus",
+        "Jupiter"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Auf der Venus herrscht aufgrund ihrer dichten Kohlendioxidatmosphäre ein extremer Treibhauseffekt, der die Oberflächentemperaturen bei rund 465 °C hält."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Welcher historische Vertrag beendete offiziell den Ersten Weltkrieg und wurde 1919 in einem berühmten französischen Schloss unterzeichnet?",
+      "options": [
+        "Versailler Vertrag",
+        "Utrechter Frieden",
+        "Frieden von Gent",
+        "Westfälischer Friede"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Der Versailler Vertrag wurde genau fünf Jahre nach der Ermordung von Erzherzog Franz Ferdinand im Spiegelsaal des Schlosses von Versailles unterzeichnet."
+    }
+  ]
+}

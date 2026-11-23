@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-23",
+  "title": "Quiz del giorno di cultura generale: 23 novembre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Quale specchio d'acqua collega il Mar Mediterraneo all'Oceano Atlantico?",
+      "options": [
+        "Stretto di Malacca",
+        "Stretto del Bosforo",
+        "Manica",
+        "Stretto di Gibilterra"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Nel suo punto più stretto, lo Stretto di Gibilterra è largo solo circa 13 chilometri (8 miglia) e separa l'Europa dall'Africa."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è il principale composto chimico che costituisce le perle naturali?",
+      "options": [
+        "Solfato di magnesio",
+        "Cloruro di sodio",
+        "Biossido di silicio",
+        "Carbonato di calcio"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Le perle sono composte da cristalli microscopici di carbonato di calcio depositati in strati concentrici."
+    },
+    {
+      "category": "storia",
+      "question": "In quale paese odierno si trovava l'antica città di Cartagine, grande rivale della Repubblica Romana?",
+      "options": [
+        "Turchia",
+        "Egitto",
+        "Grecia",
+        "Tunisia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Le rovine dell'antica Cartagine si trovano appena fuori dalla moderna Tunisi, la capitale della Tunisia."
+    },
+    {
+      "category": "cinema e pop culture",
+      "question": "Quale acclamato film poliziesco del 1994 include una famosa scena in cui i personaggi Vincent Vega e Mia Wallace ballano in un ristorante a tema anni '50?",
+      "options": [
+        "Reservoir Dogs",
+        "Pulp Fiction",
+        "Fargo",
+        "Quei bravi ragazzi"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Diretto da Quentin Tarantino, Pulp Fiction ha vinto la prestigiosa Palma d'Oro al Festival di Cannes del 1994."
+    },
+    {
+      "category": "cucina",
+      "question": "Qual è la principale base alcolica utilizzata in un cocktail tradizionale Moscow Mule?",
+      "options": [
+        "Vodka",
+        "Tequila",
+        "Gin",
+        "Rum"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il Moscow Mule viene notoriamente servito in una caratteristica tazza di rame, che aiuta a mantenere la bevanda fredda."
+    },
+    {
+      "category": "animali",
+      "question": "Come viene comunemente definito un gruppo di corvi?",
+      "options": [
+        "Una sfilata",
+        "Uno sciame",
+        "Uno stormo",
+        "Un branco"
+      ],
+      "answer_index": 0,
+      "fun_fact": "I corvi sono uccelli eccezionalmente intelligenti, capaci di riconoscere i volti umani e di usare strumenti."
+    },
+    {
+      "category": "sport",
+      "question": "Nell'hockey su ghiaccio, quanti pattinatori ci sono tipicamente sul ghiaccio per una singola squadra durante il normale gioco in parità numerica?",
+      "options": [
+        "Cinque",
+        "Quattro",
+        "Tre",
+        "Sei"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Compreso il portiere, ogni squadra ha sei giocatori sul ghiaccio contemporaneamente durante il gioco regolare."
+    },
+    {
+      "category": "linguistica",
+      "question": "Qual è il termine linguistico per parole che suonano allo stesso modo o in modo simile ma hanno significati e ortografie differenti?",
+      "options": [
+        "Omofoni",
+        "Omografi",
+        "Antonimi",
+        "Sinonimi"
+      ],
+      "answer_index": 0,
+      "fun_fact": "La parola 'omofono' deriva da radici greche che significano 'stesso suono'."
+    },
+    {
+      "category": "spazio",
+      "question": "Quale pianeta del nostro sistema solare ha la temperatura superficiale più elevata, pur non essendo il più vicino al Sole?",
+      "options": [
+        "Mercurio",
+        "Marte",
+        "Venere",
+        "Giove"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Venere sperimenta un effetto serra galoppante a causa della sua spessa atmosfera di anidride carbonica, che mantiene le temperature superficiali intorno ai 465°C."
+    },
+    {
+      "category": "storia",
+      "question": "Quale trattato storico pose ufficialmente fine alla prima guerra mondiale e fu firmato in un famoso palazzo francese nel 1919?",
+      "options": [
+        "Trattato di Versailles",
+        "Trattato di Utrecht",
+        "Trattato di Gand",
+        "Trattato di Vestfalia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il Trattato di Versailles fu firmato nella Galleria degli Specchi della Reggia di Versailles esattamente cinque anni dopo l'assassinio dell'arciduca Francesco Ferdinando."
+    }
+  ]
+}
