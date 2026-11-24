@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-24",
+  "title": "Daily Trivia Challenge: November 24, 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Which country possesses the longest coastline in the world?",
+      "options": [
+        "Canada",
+        "Russia",
+        "Australia",
+        "Indonesia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Canada is bordered by three different oceans—the Atlantic, Pacific, and Arctic—giving it an immense and intricate coastline."
+    },
+    {
+      "category": "science",
+      "question": "What is the hardest naturally occurring mineral on the Mohs scale?",
+      "options": [
+        "Corundum",
+        "Topaz",
+        "Diamond",
+        "Quartz"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Diamond sits at the absolute maximum of 10 on the Mohs scale of mineral hardness."
+    },
+    {
+      "category": "history",
+      "question": "The ancient trade network known as the Silk Road primarily connected China with which region?",
+      "options": [
+        "The Mediterranean",
+        "Sub-Saharan Africa",
+        "North America",
+        "Scandinavia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "The Silk Road was a vast network of Eurasian trade routes active from the Han dynasty until the Ottoman Empire boycotted trade with the West."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Which 1982 science fiction film directed by Ridley Scott features the famous 'Tears in Rain' monologue delivered by Rutger Hauer?",
+      "options": [
+        "E.T. the Extra-Terrestrial",
+        "Blade Runner",
+        "The Thing",
+        "Tron"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Rutger Hauer improvised a significant portion of his iconic poetic monologue near the end of Blade Runner."
+    },
+    {
+      "category": "food",
+      "question": "What is the primary spirit used in a traditional Cuban Mojito cocktail?",
+      "options": [
+        "Gin",
+        "Rum",
+        "Tequila",
+        "Vodka"
+      ],
+      "answer_index": 1,
+      "fun_fact": "A classic Mojito combines white rum, sugar, lime juice, soda water, and fresh mint."
+    },
+    {
+      "category": "animals",
+      "question": "What is the primary diet of a giant panda?",
+      "options": [
+        "Eucalyptus leaves",
+        "Bamboo",
+        "Insects",
+        "Fish"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Giant pandas spend up to 12 hours a day chewing and eating bamboo to meet their daily nutritional needs."
+    },
+    {
+      "category": "sports",
+      "question": "In the modern Olympic Games, how many points are awarded for a gold medal victory in standard scoring, traditionally represented by podium standing?",
+      "options": [
+        "None",
+        "Three",
+        "Five",
+        "One"
+      ],
+      "answer_index": 0,
+      "fun_fact": "The Olympic Games award medals (gold, silver, bronze) rather than point values in the overall medal table standings."
+    },
+    {
+      "category": "language",
+      "question": "What linguistic term describes words that are spelled the same way but have different meanings and sometimes different pronunciations, like 'lead' (to guide) and 'lead' (the metal)?",
+      "options": [
+        "Antonyms",
+        "Homophones",
+        "Synonyms",
+        "Homographs"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Homographs share identical spelling, which can often create playful ambiguities in written English."
+    },
+    {
+      "category": "space",
+      "question": "Which moon of Saturn is the second-largest in the solar system and features a dense nitrogen-rich atmosphere?",
+      "options": [
+        "Io",
+        "Titan",
+        "Ganymede",
+        "Europa"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Titan is the only known object in space other than Earth with stable bodies of surface liquid, though made of methane and ethane."
+    },
+    {
+      "category": "geography",
+      "question": "Which deep ocean trench, located in the western Pacific Ocean, contains the deepest known point on Earth?",
+      "options": [
+        "Peru-Chile Trench",
+        "Mariana Trench",
+        "Java Trench",
+        "Puerto Rico Trench"
+      ],
+      "answer_index": 1,
+      "fun_fact": "The Challenger Deep within the Mariana Trench plunges to a depth of roughly 11,000 meters below the ocean surface."
+    }
+  ]
+}
