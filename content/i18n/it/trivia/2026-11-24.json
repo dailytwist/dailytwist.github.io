@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-24",
+  "title": "Sfida Trivia Quotidiana: 24 Novembre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Quale paese possiede la costa più lunga del mondo?",
+      "options": [
+        "Canada",
+        "Russia",
+        "Australia",
+        "Indonesia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il Canada è bagnato da tre oceani diversi: Atlantico, Pacifico e Artico, il che gli dona una costa immensa e intricata."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è il minerale naturale più duro sulla scala di Mohs?",
+      "options": [
+        "Corindone",
+        "Topazio",
+        "Diamante",
+        "Quarzo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Il diamante si trova al massimo assoluto di 10 sulla scala di Mohs della durezza minerale."
+    },
+    {
+      "category": "storia",
+      "question": "L'antica rete commerciale nota come Via della Seta collegava principalmente la Cina con quale regione?",
+      "options": [
+        "Il Mediterraneo",
+        "L'Africa Subsahariana",
+        "Il Nord America",
+        "La Scandinavia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "La Via della Seta è stata una vasta rete di rotte commerciali euroasiatiche attiva dalla dinastia Han fino a quando l'Impero Ottomano ha boicottato il commercio con l'Occidente."
+    },
+    {
+      "category": "cinema e cultura pop",
+      "question": "Quale film di fantascienza del 1982 diretto da Ridley Scott contiene il famoso monologo 'Lacrime nella pioggia' recitato da Rutger Hauer?",
+      "options": [
+        "E.T. l'extra-terrestre",
+        "Blade Runner",
+        "La cosa",
+        "Tron"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Rutger Hauer ha improvvisato gran parte del suo iconico monologo poetico verso la fine di Blade Runner."
+    },
+    {
+      "category": "cucina",
+      "question": "Qual è il distillato principale utilizzato in un tradizionale cocktail Mojito cubano?",
+      "options": [
+        "Gin",
+        "Rum",
+        "Tequila",
+        "Vodka"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Un Mojito classico unisce rum bianco, zucchero, succo di lime, acqua Seltz e menta fresca."
+    },
+    {
+      "category": "animali",
+      "question": "Qual è la dieta principale di un panda gigante?",
+      "options": [
+        "Foglie di eucalipto",
+        "Bambù",
+        "Insetti",
+        "Pesce"
+      ],
+      "answer_index": 1,
+      "fun_fact": "I panda giganti passano fino a 12 ore al giorno a masticare e mangiare bambù per soddisfare il loro fabbisogno nutrizionale giornaliero."
+    },
+    {
+      "category": "sport",
+      "question": "Nei moderni Giochi Olimpici, quanti punti vengono assegnati per la vittoria di una medaglia d'oro nel punteggio standard, tradizionalmente rappresentata dal podio?",
+      "options": [
+        "Nessuno",
+        "Tre",
+        "Cinque",
+        "Uno"
+      ],
+      "answer_index": 0,
+      "fun_fact": "I Giochi Olimpici assegnano medaglie (oro, argento, bronzo) anziché valori in punti nella classifica generale del medagliere."
+    },
+    {
+      "category": "lingua",
+      "question": "Quale termine linguistico descrive le parole che si scrivono allo stesso modo ma hanno significati diversi e talvolta pronunce diverse, come 'pesca' (il frutto) e 'pesca' (l'attività)?",
+      "options": [
+        "Antonimi",
+        "Omofoni",
+        "Sinonimi",
+        "Omografi"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Gli omografi condividono una grafia identica, il che può spesso creare ambiguità giocose nella lingua scritta."
+    },
+    {
+      "category": "spazio",
+      "question": "Quale luna di Saturno è la seconda più grande del sistema solare e presenta una densa atmosfera ricca di azoto?",
+      "options": [
+        "Io",
+        "Titano",
+        "Ganimede",
+        "Europa"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Titano è l'unico corpo celeste conosciuto nello spazio oltre alla Terra a possedere laghi e mari stabili di liquido in superficie, sebbene costituiti da metano ed etano."
+    },
+    {
+      "category": "geografia",
+      "question": "Quale fossa oceanica profonda, situata nell'Oceano Pacifico occidentale, contiene il punto più profondo conosciuto sulla Terra?",
+      "options": [
+        "Fossa di Perù-Cile",
+        "Fossa delle Marianne",
+        "Fossa di Giava",
+        "Fossa di Porto Rico"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Abisso Challenger, all'interno della Fossa delle Marianne, sprofonda a una profondità di circa 11.000 metri sotto la superficie dell'oceano."
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-25",
+  "slug": "phone-calls",
+  "cefr": "A2",
+  "cat": "phrases",
+  "emoji": "📞",
+  "title": "Anrufe tätigen und annehmen",
+  "summary": "Lerne, wie man auf Englisch Hallo sagt, nach jemandem fragt und ein Telefongespräch beendet. Diese einfachen Redewendungen helfen dir dabei, ganz selbstbewusst zu telefonieren.",
+  "sections": [
+    {
+      "h": "Das Telefon annehmen",
+      "p": "Wenn das Telefon klingelt, solltest du Hallo sagen und der anderen Person verraten, wer am Apparat ist. Halte es kurz und freundlich. Bei der Arbeit kannst du auch deinen Firmennamen nennen. Im Gespräch mit Freunden kannst du lockere Worte wählen.",
+      "ex": [
+        {
+          "en": "Hello, this is Anna.",
+          "mean": "Hallo sagen und den eigenen Namen nennen"
+        },
+        {
+          "en": "Hi, it is John.",
+          "mean": "Eine freundliche Art, zu sagen, wer anruft"
+        },
+        {
+          "en": "Good morning, Hotel Plaza.",
+          "mean": "Professionell ans Telefon gehen bei der Arbeit"
+        }
+      ]
+    },
+    {
+      "h": "Nach jemandem fragen",
+      "p": "Wenn du mit einer bestimmten Person sprechen möchtest, musst du höflich nach ihr fragen. Wir verwenden Modalverben wie „can“ oder „could“, um höflich zu klingen. Du kannst auch darum bitten, eine Nachricht zu hinterlassen, falls die Person nicht da ist.",
+      "ex": [
+        {
+          "en": "Can I speak to Mr. Davis, please?",
+          "mean": "Höflich darum bitten, mit jemandem zu sprechen"
+        },
+        {
+          "en": "Is Sarah there, please?",
+          "mean": "Eine einfachere Art, nach einem Freund zu fragen"
+        },
+        {
+          "en": "Could I leave a message?",
+          "mean": "Jemanden bitten, der Person später etwas auszurichten"
+        }
+      ]
+    },
+    {
+      "h": "Ein Telefongespräch beenden",
+      "p": "Wenn das Gespräch vorbei ist, solltest du dich höflich verabschieden. Es ist nett, sich vor dem Auflegen bei der anderen Person für ihre Zeit oder Hilfe zu bedanken. Danach kannst du Tschüss sagen.",
+      "ex": [
+        {
+          "en": "Thank you for your help. Goodbye!",
+          "mean": "Danke sagen und das Gespräch beenden"
+        },
+        {
+          "en": "Talk to you soon. Bye!",
+          "mean": "Eine freundliche Art, ein Gespräch mit einem Freund zu beenden"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "this is",
+      "mean": "den eigenen Namen nennen"
+    },
+    {
+      "en": "speak to",
+      "mean": "mit jemandem sprechen"
+    },
+    {
+      "en": "leave a message",
+      "mean": "Informationen für später schicken"
+    },
+    {
+      "en": "call back",
+      "mean": "später noch einmal anrufen"
+    },
+    {
+      "en": "wrong number",
+      "mean": "die falsche Nummer anrufen"
+    },
+    {
+      "en": "hold on",
+      "mean": "einen Moment warten"
+    },
+    {
+      "en": "hang up",
+      "mean": "das Telefongespräch beenden"
+    }
+  ],
+  "tip": "Übe laut zu sprechen, während du in dein Telefon vor einem Spiegel schaust. Stell dir vor, du sprichst mit einer echten Person, um dich entspannter zu fühlen.",
+  "quiz": [
+    {
+      "ask": "Wähle die beste Möglichkeit, um einen Anruf zu Hause anzunehmen.",
+      "en": "Hello, ___ is Maria.",
+      "choices": [
+        "this",
+        "that",
+        "here"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das fehlende Wort, um höflich nach jemandem zu fragen.",
+      "en": "___ I speak to David, please?",
+      "choices": [
+        "Do",
+        "Can",
+        "Are"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die richtige Redewendungen, wenn dich jemand bittet zu warten.",
+      "en": "Please hold ___ a minute.",
+      "choices": [
+        "up",
+        "in",
+        "on"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle die richtige Bedeutung von „wrong number“.",
+      "en": "You called the ___ person by mistake.",
+      "choices": [
+        "wrong",
+        "right",
+        "good"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die höfliche Art, darum zu bitten, Informationen weiterzugeben.",
+      "en": "Could I leave a ___?",
+      "choices": [
+        "letter",
+        "message",
+        "paper"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle den besten Satz, um ein freundliches Gespräch zu beenden.",
+      "en": "Talk to you ___! Bye!",
+      "choices": [
+        "later",
+        "soon",
+        "well"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

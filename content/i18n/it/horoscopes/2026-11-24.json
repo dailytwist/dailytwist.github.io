@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-24",
+  "signs": {
+    "aries": {
+      "overview": "Il cosmo sta alzando il termostato del tuo entusiasmo oggi, Ariete, facendoti sentire come se potessi saltare edifici alti in un solo balzo. Martedì è tutto incentrato sul canalizzare quell'energia sfrenata e scoppiettante in progetti che fanno davvero cantare il tuo cuore. Se spunta un ostacolo burocratico, non cercare di sfondarlo con la forza bruta; usate piuttosto il tuo inconfondibile fascino e il tuo ingegno tagliente per aggirarlo. Hai una luce unica in questo momento che attira l'attenzione senza alcuno sforzo. Stasera, premia la tua intraprendenza concedendoti qualcosa di totalmente spontaneo e delizioso.",
+      "love": "Le scintille volano quando abbassi la guardia e lasci che il tuo lato giocoso prenda il comando. Sorprendere il partner con una festa da ballo improvvisata in cucina creerà un'atmosfera magica.",
+      "career": "La tua leadership audace ispira l'intero team, quindi esponi quell'idea folle che hai coltivato in segreto. La fiducia in te stesso è il tuo superpotere oggi.",
+      "wellness": "Canalizza la tensione in eccesso in un'energica sessione di cardio dance nel tuo salotto.",
+      "lucky_number": 17,
+      "lucky_color": "Cremisi",
+      "mood": "Elettrico"
+    },
+    "taurus": {
+      "overview": "Vai con calma, amante del lusso Toro, perché oggi ti invita a immergerti profondamente nei piaceri sensoriali della vita di tutti i giorni. Mentre tutti gli altri corrono di qua e di là come trottole impazzite, tu sei l'ancora calma e radicata nella tempesta. Prenditi un momento per apprezzare i piccoli miracoli: la temperatura perfetta della tua tazza di caffè mattutina, la morbidezza del tuo maglione preferito o una playlist che tocca tutte le note giuste. Questa è una giornata magnifica per rintanarsi nel proprio guscio e curare il proprio spazio. La comodità per te non è un lusso, è una necessità assoluta.",
+      "love": "Un'energia sensuale e costante attira ammiratori vicini, quindi concediti una serata accogliente a casa con una persona speciale. Il romanticismo a fuoco lento è la tua specialità.",
+      "career": "I progressi metodici vincono la gara oggi, permettendoti di organizzare il tuo spazio di lavoro trasformandolo in un capolavoro di efficienza.",
+      "wellness": "Sorseggia una tisana alla camomilla leggendo un libro di carta anziché guardare uno schermo.",
+      "lucky_number": 8,
+      "lucky_color": "Verde bosco",
+      "mood": "Accogliente"
+    },
+    "gemini": {
+      "overview": "La tua mente è un favoloso flipper oggi, Gemelli, che rimbalza rapidamente tra idee affascinanti, battute spiritose e geniali epifanie. Martedì porta un turbine di energia sociale, quindi abbandonati al tuo talento naturale per la chiacchiera e connettiti con qualcuno con cui non parli da secoli. Ricordati solo di mantenere i piedi per terra ogni tanto, per evitare di fluttuare nella stratosfera dei pensieri eccessivi. Metti nero su bianco quei concetti brillanti prima che volino via come coriandoli nel vento. La curiosità è il tuo accessorio migliore.",
+      "love": "Le battute civettuole mantengono la chimica della conversazione frizzante e tengono lontana la noia. Un messaggio spiritoso cambia completamente l'atmosfera della tua giornata.",
+      "career": "Il multitasking ti viene naturale oggi, permettendoti di sbrigare la casella di posta e i brainstorming creativi con grande stile.",
+      "wellness": "Prova un rapido esercizio di respirazione per calmare i pensieri accelerati prima di andare a dormire.",
+      "lucky_number": 23,
+      "lucky_color": "Giallo",
+      "mood": "Curioso"
+    },
+    "cancer": {
+      "overview": "La tua intuizione sta praticamente vibrando come un diapason oggi, dolce Cancro, cogliendo correnti emotive sotterranee che gli altri si perdono completamente. Martedì ti incoraggia a proteggere la tua preziosa pace e a circondarti di persone che ti fanno sentire come in un abbraccio caldo. È il momento perfetto per coccolare il tuo spazio vitale, magari accendendo una candela rilassante o preparando una ricetta di famiglia che ti fa sentire a casa. Non aver paura di dire un gentile no alle richieste che scaricano la tua batteria. La tua profondità emotiva è il tuo superpotere.",
+      "love": "La vulnerabilità approfondisce un legame, quindi condividi i tuoi sogni segreti durante una cena intima a lume di candela. La sicurezza emotiva è il massimo afrodisiaco.",
+      "career": "Fidati del tuo istinto quando ti trovi a gestire una dinamica di gruppo spinosa; la tua empatia ti condurrà alla soluzione giusta.",
+      "wellness": "Fatti un bagno lungo e caldo arricchito con sali di lavanda per lavare via le energie pesanti della giornata.",
+      "lucky_number": 4,
+      "lucky_color": "Argento",
+      "mood": "Premuroso"
+    },
+    "leo": {
+      "overview": "I riflettori stanno praticamente implorando la tua presenza oggi, glorioso Leone, e l'universo ti sta porgendo un pass VIP per il backstage. Martedì infonde nel tuo spirito un tocco teatrale, facendo sembrare anche la commissione più banale come una camminata sul red carpet. Condividi la tua gioia contagiosa con il mondo e non rimpicciolirti per mettere gli altri a proprio agio. Il tuo calore naturale attira le persone a te come falene verso una fiamma glamour. Stasera, trattati come un re o una regina perché te lo sei decisamente guadagnato.",
+      "love": "Grandi gesti romantici o sinceri complimenti faranno fare al tuo cuore un felice piccolo sobbalzo. Porta il tuo inconfondibile dramma nel romanticismo.",
+      "career": "La tua visione creativa cattura l'attenzione di tutti durante le presentazioni, preparandoti il terreno per applausi più che meritati.",
+      "wellness": "Assumi una posa di power yoga davanti allo specchio per esaltare la tua postura radiosa.",
+      "lucky_number": 11,
+      "lucky_color": "Oro",
+      "mood": "Radioso"
+    },
+    "virgo": {
+      "overview": "Il tuo leggendario occhio per i dettagli è in uno stato di forma eccezionale oggi, Vergine, aiutandoti a individuare schemi e soluzioni che sono sfuggiti a tutti gli altri. Martedì ti invita a organizzare non solo il tuo spazio fisico, ma anche la tua agenda. C'è una gioia profonda e meditativa nel depennare le voci da una lista ben fatta. Ricordati solo di trattarti con dolcezza se le cose non risultano perfettamente immacolate. La perfezione è un'illusione, ma la tua dedizione è del tutto reale e profondamente apprezzata.",
+      "love": "I gesti di servizio parlano chiaro in questo momento, quindi sorprendi la tua dolce metà sbrigando una faccenda domestica che detesta. L'affetto pratico vince la giornata.",
+      "career": "Ottimizzare un flusso di lavoro porta un'immensa soddisfazione e salva la situazione da un caos inutile.",
+      "wellness": "Riordina il tuo comodino per creare un confine visivo pacifico e pulito in vista del sonno.",
+      "lucky_number": 15,
+      "lucky_color": "Blu navy",
+      "mood": "Concentrato"
+    },
+    "libra": {
+      "overview": "L'armonia estetica è la tua stella polare assoluta oggi, Bilancia, e sei in missione per fare in modo che tutto ciò che ti circonda appaia e si senta bellissimo. Martedì porta una deliziosa brezza sociale, rendendolo il momento ideale per fare due chiacchiere davanti a un caffè o collaborare a un progetto creativo. La tua diplomazia fa miracoli quando si tratta di appianare piccoli malintesi. Ricordati che i tuoi desideri sono importanti tanto quanto mantenere la pace, quindi non esitare a esprimere le tue preferenze estetiche.",
+      "love": "Incontri affascinanti e dolci flirt fanno battere il cuore al ritmo delle possibilità romantiche. Condividi la tua playlist con una cotta.",
+      "career": "La collaborazione è l'ambito in cui brilli di più, unendo opinioni divergenti in un capolavoro sbalorditivo.",
+      "wellness": "Ascolta una rilassante playlist strumentale mentre sorseggi dell'acqua dal tuo bicchiere più bello.",
+      "lucky_number": 6,
+      "lucky_color": "Rosa",
+      "mood": "Armonioso"
+    },
+    "scorpio": {
+      "overview": "L'intensità è la tua lingua madre, Scorpione, e oggi la parli con assoluta scioltezza e fascino magnetico. Martedì sblocca una concentrazione laser che ti permette di immergerti a fondo in un progetto che ti appassiona o di svelare un mistero complesso. Possiedi una capacità straordinaria di leggere tra le righe, quindi fidati del tuo radar percettivo. Lasciati andare a un pizzico di segretezza o mistero solo per il gusto di farlo. La tua aura è magnetica e attira energie intriganti proprio sulla porta di casa tua.",
+      "love": "Conversazioni profonde e viscerali saltano a piè pari le chiacchiere da bar per forgiare un legame emotivo indistruttibile. L'intensità è il tuo linguaggio dell'amore.",
+      "career": "La pianificazione strategica dietro le quinte ti offre un vantaggio enorme sulla concorrenza.",
+      "wellness": "Staccati dai social media per la serata per ricaricare la tua batteria interiore in quieta solitudine.",
+      "lucky_number": 9,
+      "lucky_color": "Marrone scuro",
+      "mood": "Misterioso"
+    },
+    "sagittarius": {
+      "overview": "L'avventura sta chiamando il tuo nome, avventuroso Sagittario, anche se si tratta solo di esplorare una nuova caffetteria del quartiere. Martedì infonde nel tuo spirito un ottimismo sconfinato e un senso dell'umorismo esilarante che illumina qualsiasi stanza. Se la routine cerca di legarti le mani, liberati con una devozione spontanea o una prospettiva inedita. Sei un filosofo nato e le esperienze di oggi offrono una brillante lezione di gioia. Fai le valigie con la mente e preparati a volare alto.",
+      "love": "Risate spontanee e battute giocose mantengono la tua vita sentimentale fresca, eccitante e follemente divertente. Pianificate una mini-avventura insieme.",
+      "career": "Il pensiero a lungo termine ispira i tuoi colleghi a sognare in grande e a superare vecchi limiti.",
+      "wellness": "Fai una camminata a passo sostenuto all'aperto per assicurarci un po' di fresca aria autunnale e sgranchirti le gambe.",
+      "lucky_number": 3,
+      "lucky_color": "Viola",
+      "mood": "Avventuroso"
+    },
+    "capricorn": {
+      "overview": "L'ambizione incontra un'esecuzione costante oggi, Capricorno, rendendo questo martedì una centrale elettrica di produttività silenziosa e innegabile. Stai costruendo qualcosa di significativo a lungo termine e ogni mattone che posi adesso è fondamentale. Non sottovalutare il potere di concederti una meritata pausa caffè per ammirare i progressi fatti finora. La tua saggezza pragmatica è un faro per gli altri che potrebbero sentirsi smarriti tra i problemi. Tieni duro, perché la tua incrollabile dedizione sta per dare i suoi frutti alla grande.",
+      "love": "L'affidabilità è il tuo tratto più attraente oggi, offrendo un porto sicuro a qualcuno a cui tieni.",
+      "career": "Traguardi chiari e una pianificazione strutturata fanno sì che affrontare un progetto importante sembri una passeggiata.",
+      "wellness": "Fai qualche delicato esercizio di stretching per collo e spalle per rilasciare lo stress accumulato stando seduti a una scrivania.",
+      "lucky_number": 10,
+      "lucky_color": "Grigio antracite",
+      "mood": "Ambizioso"
+    },
+    "aquarius": {
+      "overview": "Il tuo cervello brillantemente eccentrico sta cucinando le innovazioni di domani proprio oggi, Acquario, e il futuro sembra affascinante. Martedì ti incoraggia ad abbracciare la tua bizzarria interiore e a condividere le tue idee anticonvenzionali con un pubblico ricettivo. Le dinamiche di gruppo sono favorevoli, quindi buttati su progetti comunitari o sessioni di brainstorming con visionari che la pensano come te. Non preoccuparti di omologarti quando sei chiaramente nato per distinguerti. La tua originalità è una ventata d'aria fresca.",
+      "love": "La connessione intellettuale scatena un'attrazione intensa; parla delle tue teorie futuristiche più sfrenate durante un appuntamento.",
+      "career": "Il problem solving fuori dagli schemi ti rende l'MVP di qualsiasi sessione di brainstorming oggi.",
+      "wellness": "Esci all'aperto di notte e ammira le stelle per acquisire una splendida prospettiva cosmica.",
+      "lucky_number": 22,
+      "lucky_color": "Verde acqua",
+      "mood": "Innovativo"
+    },
+    "pisces": {
+      "overview": "Il velo tra la realtà e la tua vivida immaginazione è piacevolmente sottile oggi, sognante Pesci. Martedì ti invita a tuffarti a capofitto nell'espressione artistica, che si tratti di disegnare, scrivere poesie o perderti in una melodia magnifica. La tua empatia è un balsamo curativo per chiunque abbia la fortuna di incrociare la tua strada. Assicurati solo di costruire un confine gentile in modo da non assorbire la tempesta emotiva di chiunque altro. Fluttua attraverso la tua giornata con grazia e abbandono artistico.",
+      "love": "Fantasie romantiche e dolci gesti poetici fanno sentire il tuo cuore come se stesse fluttuando su una nuvola.",
+      "career": "La tua intuizione creativa ti aiuta a ideare una soluzione sbalorditiva che unisce arte e funzionalità.",
+      "wellness": "Tieni un diario dei sogni vicino al letto per catturare quei fugaci e magici pensieri del mattino.",
+      "lucky_number": 7,
+      "lucky_color": "Acquamarina",
+      "mood": "Sognante"
+    }
+  }
+}

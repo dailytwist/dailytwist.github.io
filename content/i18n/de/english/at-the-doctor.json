@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-25",
+  "slug": "at-the-doctor",
+  "cefr": "A2",
+  "cat": "phrases",
+  "emoji": "🏥",
+  "title": "Beim Arzt: Beschreiben, wie man sich fühlt",
+  "summary": "Lerne, wie du auf Englisch über deinen Körper und deine Gesundheit sprichst. Übe, beim Arzt zu erklären, was dir fehlt.",
+  "sections": [
+    {
+      "h": "„Ich habe ...“ sagen",
+      "p": "Wenn du krank bist, kannst du das Verb „haben“ verwenden, um über deine Schmerzen oder deine Krankheit zu sprechen. Wir nutzen das oft mit Wörtern wie „Erkältung“, „Kopfschmerzen“ oder „Bauchschmerzen“. Das ist super einfach und total nützlich. Hör dir an, wie die Leute das sagen: „I have a headache“ bedeutet, dass mein Kopf wehtut. Du kannst auch sagen „I have a fever“, wenn dein Körper zu heiß ist.",
+      "ex": [
+        {
+          "en": "I have a headache today.",
+          "mean": "Mein Kopf tut heute weh."
+        },
+        {
+          "en": "She has a bad cold.",
+          "mean": "Sie ist erkältet."
+        }
+      ]
+    },
+    {
+      "h": "Mein [Körperteil] tut weh",
+      "p": "Eine andere tolle Möglichkeit, Schmerzen zu beschreiben, ist das Wort „hurt“. Sag einfach zuerst deinen Körperteil und hänge dann „hurts“ an. Zum Beispiel dein Bein, dein Arm oder dein Rücken. Wenn der Schmerz an zwei Stellen ist, sagen wir „hurt“ ohne das „s“. Zum Beispiel: „My legs hurt.“ Das hilft dem Arzt oder der Ärztin genau zu wissen, wo es dir schlecht geht.",
+      "ex": [
+        {
+          "en": "My arm hurts a lot.",
+          "mean": "Ich habe Schmerzen in meinem Arm."
+        },
+        {
+          "en": "My eyes hurt today.",
+          "mean": "Ich habe Schmerzen in beiden Augen."
+        }
+      ]
+    },
+    {
+      "h": "Mit dem Arzt sprechen",
+      "p": "Wenn du zum Arzt gehst, wird er oder sie dir Fragen stellen, um dir zu helfen. Vielleicht wirst du gefragt: „What is the problem?“ oder „How do you feel today?“ Du kannst ganz einfach mit den Wendungen antworten, die du gelernt hast. Zum Beispiel: „I feel tired“ oder „I feel sick.“ Der Arzt wird dir zuhören und dir dann Medikamente geben, damit es dir bald wieder besser geht.",
+      "ex": [
+        {
+          "en": "How do you feel today?",
+          "mean": "Wie geht es dir gesundheitlich im Moment?"
+        },
+        {
+          "en": "I feel very tired.",
+          "mean": "Mein Körper möchte schlafen."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "headache",
+      "mean": "Kopfschmerzen"
+    },
+    {
+      "en": "stomachache",
+      "mean": "Bauchschmerzen"
+    },
+    {
+      "en": "cold",
+      "mean": "eine normale Erkältung mit Husten"
+    },
+    {
+      "en": "fever",
+      "mean": "der Körper ist zu heiß"
+    },
+    {
+      "en": "hurt",
+      "mean": "Schmerzen haben"
+    },
+    {
+      "en": "doctor",
+      "mean": "Person, die dir hilft, wenn du krank bist"
+    },
+    {
+      "en": "medicine",
+      "mean": "Tablette oder Flüssigkeit, um wieder gesund zu werden"
+    },
+    {
+      "en": "sick",
+      "mean": "sich nicht gesund fühlen"
+    }
+  ],
+  "tip": "Berühre den jeweiligen Körperteil, während du das englische Wort sagst. Das verbindet das Wort mit deinem körperlichen Empfinden und hilft dir, es dir viel schneller zu merken!",
+  "quiz": [
+    {
+      "ask": "Wähle den richtigen Ausdruck für Kopfschmerzen.",
+      "en": "I have a ___.",
+      "choices": [
+        "headache",
+        "stomach",
+        "leg"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort für Körperschmerzen.",
+      "en": "My back ___ today.",
+      "choices": [
+        "hurts",
+        "hurt",
+        "pain"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Vervollständige die Frage, die der Arzt stellt.",
+      "en": "How ___ you feel today?",
+      "choices": [
+        "are",
+        "do",
+        "have"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das Wort, wenn dein Körper zu heiß ist.",
+      "en": "I have a ___.",
+      "choices": [
+        "fever",
+        "cold",
+        "doctor"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort für das Gefühl, unwohl zu sein.",
+      "en": "I feel very ___ today.",
+      "choices": [
+        "happy",
+        "sick",
+        "tall"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle aus, was dir der Arzt gibt, damit es dir besser geht.",
+      "en": "Take this ___ twice a day.",
+      "choices": [
+        "food",
+        "water",
+        "medicine"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

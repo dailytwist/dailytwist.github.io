@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-25",
+  "slug": "at-the-airport",
+  "cefr": "A2",
+  "cat": "phrases",
+  "emoji": "✈️",
+  "title": "Am Flughafen und im Flugzeug",
+  "summary": "Lerne einfaches und nützliches Englisch für Flugreisen. Du erfährst, wie du deinen Gate findest und mit Flugbegleitern sprichst.",
+  "sections": [
+    {
+      "h": "Den Weg finden",
+      "p": "Wenn du am Flughafen ankommst, musst du dein Abfluggate finden. Das Gate ist der Bereich, in dem du wartest, bevor du in das Flugzeug steigst. Schau auf die großen Anzeigetafeln, um deine Flugnummer und den Buchstaben des Gates zu sehen. Wenn du es nicht findest, frage das Flughafenpersonal um Hilfe.",
+      "ex": [
+        {
+          "en": "Where is gate number five?",
+          "mean": "Nach dem Standort deines Boarding-Gates fragen"
+        },
+        {
+          "en": "My flight to Paris is at two o'clock.",
+          "mean": "Jemandem deine Flugzeit und dein Reiseziel nennen"
+        }
+      ]
+    },
+    {
+      "h": "Am Check-in-Schalter",
+      "p": "Bevor du zum Flugzeug gehst, musst du zum Check-in-Schalter. Dort gibst du deinen Reisepass und dein Ticket dem Mitarbeiter. Sie überprüfen deine Gepäckstücke. Du bekommst eine Bordkarte, das ist ein spezielles Ticket, das du vor dem Betreten des Flugzeugs vorzeigen musst.",
+      "ex": [
+        {
+          "en": "Here is my passport and ticket.",
+          "mean": "Dem Mitarbeiter deine Reisedokumente geben"
+        },
+        {
+          "en": "I have one suitcase to check.",
+          "mean": "Dem Mitarbeiter sagen, wie viele große Taschen du hast"
+        }
+      ]
+    },
+    {
+      "h": "Im Flugzeug",
+      "p": "Wenn du im Flugzeug bist, suche deine Sitzplatznummer. Verstue deine kleine Tasche unter dem Vordersitz oder oben im Gepäckfach. Flugbegleiter sind die Angestellten an Bord. Sie sind da, um dir zu helfen und für deine Sicherheit zu sorgen.",
+      "ex": [
+        {
+          "en": "Can I have some water, please?",
+          "mean": "Einen Flugbegleiter nach einem Getränk fragen"
+        },
+        {
+          "en": "Excuse me, where is seat twelve B?",
+          "mean": "Fragen, wo genau sich dein Sitzplatz befindet"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "passport",
+      "mean": "offizieller Reiseausweis"
+    },
+    {
+      "en": "boarding pass",
+      "mean": "Bordkarte für das Flugzeug"
+    },
+    {
+      "en": "gate",
+      "mean": "Einstiegstür zum Flugzeug"
+    },
+    {
+      "en": "suitcase",
+      "mean": "große Reisetasche"
+    },
+    {
+      "en": "seat",
+      "mean": "Sitzplatz"
+    },
+    {
+      "en": "flight attendant",
+      "mean": "Flugbegleiter"
+    },
+    {
+      "en": "ticket",
+      "mean": "Reisedokument"
+    }
+  ],
+  "tip": "Übe diese Redewendungen vor deiner Reise laut aus. Stell dir vor, du sprichst mit einem echten Mitarbeiter am Flughafen!",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort für die Flugzeugtür",
+      "en": "Please go to ___ number four.",
+      "choices": [
+        "gate",
+        "seat",
+        "bag",
+        "desk"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle den richtigen Dokumentennamen",
+      "en": "Here is my ___ and my ticket.",
+      "choices": [
+        "water",
+        "passport",
+        "plane",
+        "flight"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die richtige höfliche Frage",
+      "en": "___ I have some water, please?",
+      "choices": [
+        "Do",
+        "Are",
+        "Can",
+        "Is"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort für den Mitarbeiter im Flugzeug",
+      "en": "The flight ___ helped me find my seat.",
+      "choices": [
+        "driver",
+        "teacher",
+        "attendant",
+        "doctor"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Dokument, das du vorzeigen musst",
+      "en": "Show your ___ before you get on the plane.",
+      "choices": [
+        "boarding pass",
+        "suitcase",
+        "passport photo",
+        "money"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle den richtigen Sitzplatz",
+      "en": "My ___ number is ten A.",
+      "choices": [
+        "gate",
+        "seat",
+        "desk",
+        "bag"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

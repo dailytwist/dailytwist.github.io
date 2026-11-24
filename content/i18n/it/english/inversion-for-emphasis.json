@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-29",
+  "slug": "inversion-for-emphasis",
+  "cefr": "B2",
+  "cat": "grammar",
+  "emoji": "🔥",
+  "title": "Rendi il tuo inglese più forte con l'inversione",
+  "summary": "Scopri come iniziare le frasi con parole negative per suonare più drammatico ed emozionante. Imparerai modi naturali per enfatizzare il tuo concetto usando strutture come 'Never have I' e 'Not only'.",
+  "sections": [
+    {
+      "h": "Perché usare l'inversione?",
+      "p": "Normalmente, le frasi in inglese seguono un ordine standard: prima il soggetto, poi il verbo. Ma quando vogliamo dare al nostro messaggio un tono più forte, formale o molto sorprendente, possiamo mettere una parola negativa proprio all'inizio. Facendo così, cambiamo l'ordine del soggetto e del verbo ausiliare, proprio come quando facciamo una domanda. È un ottimo strumento per discorsi, scritti e conversazioni espressive.",
+      "ex": [
+        {
+          "en": "Never have I seen such a beautiful sunset.",
+          "mean": "Non ho davvero mai visto un tramonto così fantastico prima d'ora."
+        },
+        {
+          "en": "Rarely do we get a day off work.",
+          "mean": "Non abbiamo quasi mai un giorno libero."
+        }
+      ]
+    },
+    {
+      "h": "Usare Never Have I",
+      "p": "La frase 'Never have I' è un modo potente per parlare delle tue esperienze di vita. Invece di dire 'I have never felt so happy', metti 'Never' all'inizio, seguito da 'have I' e poi dal verbo principale al participio passato. Questo crea un impatto emotivo immediato e cattura subito l'attenzione di chi ascolta.",
+      "ex": [
+        {
+          "en": "Never have I tasted food so delicious.",
+          "mean": "Questo è il cibo più buono che abbia mai mangiato."
+        },
+        {
+          "en": "Never have I heard such terrible news.",
+          "mean": "Sono profondamente scioccato da questa pessima notizia."
+        }
+      ]
+    },
+    {
+      "h": "Aggiungere idee con Not Only",
+      "p": "Quando vuoi esprimere due concetti forti, puoi iniziare con 'Not only'. Questa struttura ti aiuta a collegare le idee fluidamente aggiungendo ulteriore entusiasmo. Ricordati di invertire il soggetto e il verbo ausiliare nella prima parte della frase, e usa 'but also' nella seconda parte per introdurre l'informazione finale.",
+      "ex": [
+        {
+          "en": "Not only is she smart, but she is also very kind.",
+          "mean": "Lei ha sia una grande intelligenza che un cuore gentile."
+        },
+        {
+          "en": "Not only did we miss the train, but we also lost our umbrellas.",
+          "mean": "Ci sono successe due cose brutte contemporaneamente."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Inversion",
+      "mean": "cambiare il normale ordine delle parole"
+    },
+    {
+      "en": "Emphasis",
+      "mean": "far risaltare qualcosa"
+    },
+    {
+      "en": "Auxiliary verb",
+      "mean": "verbo d'aiuto come have o do"
+    },
+    {
+      "en": "Never have I",
+      "mean": "un modo forte per dire non ho"
+    },
+    {
+      "en": "Not only",
+      "mean": "introdurre un doppio punto"
+    },
+    {
+      "en": "Rarely",
+      "mean": "quasi mai"
+    },
+    {
+      "en": "Formal",
+      "mean": "stile serio e educato"
+    }
+  ],
+  "tip": "Pensa all'inversione come a quando ti alzi in mezzo alla folla per fare un annuncio importante. Inizia con la parola negativa, scambia di posto il verbo e il soggetto, e parla con sicurezza!",
+  "quiz": [
+    {
+      "ask": "Scegli la frase invertita corretta",
+      "en": "___ seen such a busy city before.",
+      "choices": [
+        "Never have I",
+        "I have never",
+        "Never I have"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Seleziona la forma verbale giusta",
+      "en": "Not only ___ he late, but he also forgot his keys.",
+      "choices": [
+        "he was",
+        "did he",
+        "was"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Completa la frase per dare enfasi",
+      "en": "___ do we visit our grandparents.",
+      "choices": [
+        "Often",
+        "Rarely",
+        "Always"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli il corretto ordine delle parole in stile domanda per dare enfasi",
+      "en": "Never ___ such an amazing movie.",
+      "choices": [
+        "I have watched",
+        "watched I",
+        "have I watched"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Seleziona il connettore corretto per 'not only'",
+      "en": "Not only is the food cheap, ___ it is delicious.",
+      "choices": [
+        "but also",
+        "and also",
+        "plus"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Identifica la corretta inversione",
+      "en": "Seldom ___ such rude behavior.",
+      "choices": [
+        "I have seen",
+        "have I seen",
+        "did I saw"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

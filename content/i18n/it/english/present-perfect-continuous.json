@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-29",
+  "slug": "present-perfect-continuous",
+  "cefr": "B2",
+  "cat": "grammar",
+  "emoji": "⏳",
+  "title": "Parlare di azioni in corso con il presente continuo",
+  "summary": "Imparerai a usare il presente continuo. Ti aiuta a parlare di azioni iniziate nel passato e che stanno ancora accadendo adesso.",
+  "sections": [
+    {
+      "h": "Come si forma",
+      "p": "Per formare il presente continuo, usa 'have' o 'has' seguito da 'been' e dal verbo principale con la desinenza '-ing'. Usa 'have been' con I, you, we e they. Usa 'has been' con he, she e it. Questa struttura collega un'azione passata direttamente al momento presente.",
+      "ex": [
+        {
+          "en": "I have been waiting for the bus for twenty minutes.",
+          "mean": "Ho iniziato ad aspettare nel passato e sto ancora aspettando adesso."
+        },
+        {
+          "en": "She has been studying English all morning.",
+          "mean": "Il suo studio è iniziato prima oggi e continua adesso."
+        },
+        {
+          "en": "We have been living in this city for five years.",
+          "mean": "Il nostro vivere qui è iniziato cinque anni fa e sta ancora accadendo."
+        }
+      ]
+    },
+    {
+      "h": "Uso di For e Since",
+      "p": "Usiamo spesso 'for' e 'since' con questo tempo verbale. Usa 'for' per parlare di una durata di tempo, come 'for two hours' o 'for a long time'. Usa 'since' per mostrare il punto di partenza esatto dell'azione, come 'since Monday' o 'since 2010'.",
+      "ex": [
+        {
+          "en": "He has been working here for six months.",
+          "mean": "Sei mesi è la durata totale del tempo."
+        },
+        {
+          "en": "They have been playing tennis since three o'clock.",
+          "mean": "Le tre in punto è l'ora esatta in cui la partita è iniziata."
+        }
+      ]
+    },
+    {
+      "h": "Focus sull'attività",
+      "p": "Usiamo il presente continuo quando vogliamo mostrare che un'attività è importante, in corso o forse anche un po' faticosa. A volte puoi vedere il risultato fisico dell'azione nel presente, come l'essere stanchi o avere i vestiti bagnati dalla pioggia.",
+      "ex": [
+        {
+          "en": "You look tired. Have you been working hard?",
+          "mean": "Vedo che sei stanco e penso che tu abbia lavorato a lungo."
+        },
+        {
+          "en": "It has been raining all day.",
+          "mean": "La pioggia è iniziata prima e sta ancora cadendo adesso."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "have been",
+      "mean": "verbo ausiliare per soggetti plurali"
+    },
+    {
+      "en": "has been",
+      "mean": "verbo ausiliare per soggetti singolari"
+    },
+    {
+      "en": "-ing form",
+      "mean": "terminazione verbale per azione continua"
+    },
+    {
+      "en": "for",
+      "mean": "usato con un periodo di tempo"
+    },
+    {
+      "en": "since",
+      "mean": "usato con un punto di partenza"
+    },
+    {
+      "en": "ongoing",
+      "mean": "sta ancora accadendo ora"
+    },
+    {
+      "en": "duration",
+      "mean": "quanto dura qualcosa"
+    }
+  ],
+  "tip": "Ricorda la formula: subject + have/has + been + verb-ing. Immaginalo come un ponte che collega il tempo passato al momento presente.",
+  "quiz": [
+    {
+      "ask": "Scegli la forma verbale corretta",
+      "en": "I ___ waiting for you for an hour!",
+      "choices": [
+        "have been",
+        "has been",
+        "am being",
+        "was"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Seleziona la parola corretta per il periodo di tempo",
+      "en": "She has been reading this book ___ three days.",
+      "choices": [
+        "since",
+        "during",
+        "for",
+        "from"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Scegli il verbo ausiliare corretto",
+      "en": "He ___ working at the company since 2019.",
+      "choices": [
+        "have been",
+        "has been",
+        "is",
+        "was been"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Seleziona la parola corretta per il punto di partenza",
+      "en": "They have been living here ___ last January.",
+      "choices": [
+        "for",
+        "in",
+        "since",
+        "from"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Scegli la frase corretta",
+      "en": "What ___ you doing all afternoon?",
+      "choices": [
+        "have",
+        "have been",
+        "has been",
+        "are"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Seleziona la forma corretta per completare la domanda",
+      "en": "How long ___ it been raining?",
+      "choices": [
+        "do",
+        "has",
+        "have",
+        "is"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

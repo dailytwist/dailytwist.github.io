@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-24",
+  "title": "Desafio de Trivia Diário: 24 de novembro de 2026",
+  "questions": [
+    {
+      "category": "geografo",
+      "question": "Qual país possui a costa mais longa do mundo?",
+      "options": [
+        "Canadá",
+        "Rússia",
+        "Austrália",
+        "Indonésia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O Canadá é banhado por três oceanos diferentes — o Atlântico, o Pacífico e o Ártico —, o que lhe confere um litoral imenso e intrincado."
+    },
+    {
+      "category": "ciência",
+      "question": "Qual é o mineral natural mais duro na escala de Mohs?",
+      "options": [
+        "Coríndon",
+        "Topázio",
+        "Diamante",
+        "Quartzo"
+      ],
+      "answer_index": 2,
+      "fun_fact": "O diamante está no topo absoluto, marcando 10 na escala de Mohs de dureza mineral."
+    },
+    {
+      "category": "história",
+      "question": "A antiga rede de comércio conhecida como Rota da Seda conectava principalmente a China com qual região?",
+      "options": [
+        "O Mediterrâneo",
+        "África Subssaariana",
+        "América do Norte",
+        "Escandinávia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "A Rota da Seda foi uma vasta rede de rotas comerciais eurasianas ativa desde a dinastia Han até que o Império Otomano boicotou o comércio com o Ocidente."
+    },
+    {
+      "category": "filmes e cultura pop",
+      "question": "Qual filme de ficção científica de 1982 dirigido por Ridley Scott apresenta o famoso monólogo 'Lágrimas na Chuva' interpretado por Rutger Hauer?",
+      "options": [
+        "E.T. O Extraterrestre",
+        "Blade Runner",
+        "O Enigma do Outro Mundo",
+        "Tron"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Rutger Hauer improvisou uma parte significativa de seu icônico monólogo poético perto do final de Blade Runner."
+    },
+    {
+      "category": "culinária",
+      "question": "Qual é a bebida alcoólica principal usada em um Mojito cubano tradicional?",
+      "options": [
+        "Gin",
+        "Rum",
+        "Tequila",
+        "Vodka"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Um Mojito clássico combina rum branco, açúcar, suco de limão, água com gás e hortelã fresca."
+    },
+    {
+      "category": "animais",
+      "question": "Qual é a principal fonte de alimentação de um panda-gigante?",
+      "options": [
+        "Folhas de eucalipto",
+        "Bambu",
+        "Insetos",
+        "Peixe"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Os pandas-gigantes passam até 12 horas por dia mastigando e comendo bambu para suprir suas necessidades nutricionais diárias."
+    },
+    {
+      "category": "esportes",
+      "question": "Nos Jogos Olímpicos modernos, quantos pontos são atribuídos por uma vitória de medalha de ouro na pontuação padrão, tradicionalmente representada por ficar no pódio?",
+      "options": [
+        "Nenhum",
+        "Três",
+        "Cinco",
+        "Um"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Os Jogos Olímpicos concedem medalhas (ouro, prata, bronze) em vez de valores de pontos na tabela geral de classificação de medalhas."
+    },
+    {
+      "category": "idioma",
+      "question": "Qual termo linguístico descreve palavras que são grafadas da mesma forma, mas têm significados diferentes e às vezes pronúncias diferentes?",
+      "options": [
+        "Antônimos",
+        "Homófonos",
+        "Sinônimos",
+        "Homógrafos"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Os homógrafos compartilham a mesma grafia, o que muitas vezes pode criar ambiguidades divertidas na linguagem escrita."
+    },
+    {
+      "category": "espaço",
+      "question": "Qual lua de Saturno é a segunda maior do sistema solar e possui uma atmosfera densa e rica em nitrogênio?",
+      "options": [
+        "Io",
+        "Titã",
+        "Ganimedes",
+        "Europa"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Titã é o único corpo celeste conhecido no espaço além da Terra que possui massas de líquido estáveis em sua superfície, embora sejam compostas de metano e etano."
+    },
+    {
+      "category": "geografia",
+      "question": "Qual fossa oceânica profunda, localizada no oeste do Oceano Pacífico, contém o ponto mais profundo conhecido da Terra?",
+      "options": [
+        "Fossa do Peru-Chile",
+        "Fossa das Marianas",
+        "Fossa de Java",
+        "Fossa de Porto Rico"
+      ],
+      "answer_index": 1,
+      "fun_fact": "O Abismo Challenger, dentro da Fossa das Marianas, mergulha a uma profundidade de aproximadamente 11.000 metros abaixo da superfície do oceano."
+    }
+  ]
+}

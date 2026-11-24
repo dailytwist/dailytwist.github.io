@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-25",
+  "slug": "adverbs-of-frequency",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "⏰",
+  "title": "Wie oft machst du das?",
+  "summary": "Lerne, wie man Wörter wie immer, normalerweise und nie benutzt, um über deine täglichen Gewohnheiten zu sprechen. Du erfährst, wo diese Wörter in einem Satz stehen.",
+  "sections": [
+    {
+      "h": "Was sind Häufigkeitsadverbien?",
+      "p": "Wir verwenden Häufigkeitsadverbien, um die Frage „Wie oft machst du etwas?“ zu beantworten. Diese Wörter zeigen, wie oft du eine Handlung ausführst. Von 100 Prozent bis null Prozent verändern sich die Wörter. Wir stellen diese Wörter vor die meisten normalen Verben wie spielen, essen oder gehen. Sie helfen anderen im Gespräch, deine tägliche Routine und deine Gewohnheiten ganz leicht zu verstehen.",
+      "ex": [
+        {
+          "en": "I always drink coffee in the morning.",
+          "mean": "Das mache ich jeden einzelnen Morgen ohne Ausnahme."
+        },
+        {
+          "en": "She never eats meat.",
+          "mean": "Sie isst zu keiner Zeit Fleisch."
+        }
+      ]
+    },
+    {
+      "h": "Von immer bis nie",
+      "p": "Schauen wir uns die Liste vom häufigsten zum seltensten an. Immer bedeutet hundert Prozent der Zeit. Normalerweise bedeutet etwa achtzig Prozent. Oft bedeutet rund sechzig Prozent. Manchmal bedeutet fünfzig Prozent oder die Hälfte der Zeit. Nie bedeutet null Prozent. Wenn du diese Reihenfolge kennst, kannst du dich richtig über deinen Zeitplan und deine Hobbys unterhalten.",
+      "ex": [
+        {
+          "en": "We usually watch TV after dinner.",
+          "mean": "Das machen wir an den meisten Tagen, aber nicht jeden Tag."
+        },
+        {
+          "en": "They sometimes play tennis on Saturdays.",
+          "mean": "Sie tun das an einigen Samstagen, aber nicht an allen."
+        }
+      ]
+    },
+    {
+      "h": "Wo steht das Wort?",
+      "p": "In einem einfachen Satz steht das Häufigkeitswort direkt vor dem Hauptverb. Sag zum Beispiel: „I often walk to work“. Aber denk an das Verb „to be“ (sein), wie am, is oder are. Wenn du „to be“ verwendest, kommt das Häufigkeitswort nach dem Verb. Sag zum Beispiel: „I am always happy“ oder „He is never late“.",
+      "ex": [
+        {
+          "en": "You are often late for class.",
+          "mean": "Du kommst an vielen Tagen zu spät."
+        },
+        {
+          "en": "He rarely eats fast food.",
+          "mean": "Er isst fast nie Fast Food."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "always",
+      "mean": "100 Prozent der Zeit"
+    },
+    {
+      "en": "usually",
+      "mean": "die meiste Zeit"
+    },
+    {
+      "en": "often",
+      "mean": "viele Male"
+    },
+    {
+      "en": "sometimes",
+      "mean": "die Hälfte der Zeit"
+    },
+    {
+      "en": "never",
+      "mean": "0 Prozent der Zeit"
+    },
+    {
+      "en": "habit",
+      "mean": "etwas, das du oft tust"
+    },
+    {
+      "en": "routine",
+      "mean": "dein täglicher Zeitplan"
+    }
+  ],
+  "tip": "Mal eine kleine Leiter in dein Heft! Schreib ganz nach oben „always“ und ganz nach unten „never“, um dir die Reihenfolge super leicht zu merken!",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort für 100 Prozent",
+      "en": "I ___ brush my teeth before bed.",
+      "choices": [
+        "never",
+        "sometimes",
+        "always"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort für 0 Prozent",
+      "en": "Fish can ___ fly in the sky.",
+      "choices": [
+        "never",
+        "often",
+        "usually"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die richtige Position beim Verb „is“",
+      "en": "Maria ___ late for work.",
+      "choices": [
+        "always is",
+        "is always",
+        "sometimes is"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort für etwa 50 Prozent",
+      "en": "I ___ eat fruit for breakfast.",
+      "choices": [
+        "always",
+        "sometimes",
+        "never"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die richtige Position bei einem normalen Verb",
+      "en": "We ___ go to the park on Sundays.",
+      "choices": [
+        "often go",
+        "go often",
+        "are often"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort für etwa 80 Prozent",
+      "en": "He ___ drinks tea, but sometimes he drinks coffee.",
+      "choices": [
+        "never",
+        "always",
+        "usually"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-29",
+  "slug": "presentations",
+  "cefr": "B2",
+  "cat": "phrases",
+  "emoji": "📊",
+  "title": "Padroneggiare le presentazioni in inglese",
+  "summary": "Impara a iniziare, strutturare e concludere una presentazione in inglese come un professionista. Scoprirai frasi pratiche per guidare il tuo pubblico senza intoppi dall'inizio alla fine.",
+  "sections": [
+    {
+      "h": "Dare il benvenuto al pubblico",
+      "p": "Quando inizi una presentazione, è importante salutare chiaramente chi ti ascolta e dire di cosa parlerai. Un'apertura forte ti aiuta a sentirti sicuro e cattura subito l'attenzione di tutti. Inizia sempre con un caloroso benvenuto, introduci chiaramente il tuo argomento e spiega brevemente gli obiettivi principali del tuo intervento in modo che le persone sappiano cosa aspettarsi.",
+      "ex": [
+        {
+          "en": "Good morning, everyone, and welcome to my presentation.",
+          "mean": "Un modo gentile per salutare tutti all'inizio."
+        },
+        {
+          "en": "Today, I am going to talk about our new marketing strategy.",
+          "mean": "Spiegare l'argomento principale del tuo intervento."
+        },
+        {
+          "en": "By the end of this session, you will understand our new plan.",
+          "mean": "Dire al pubblico cosa imparerà."
+        }
+      ]
+    },
+    {
+      "h": "Passare a un nuovo punto",
+      "p": "Mentre parli, devi guidare chi ti ascolta da un'idea all'altra. Le frasi di transizione fungono da segnali stradali, aiutando le persone a seguire i tuoi pensieri senza perdersi. Usa queste frasi ogni volta che finisci una sezione e vuoi introdurre il punto principale successivo, mantenendo il tuo discorso organizzato e facile da capire.",
+      "ex": [
+        {
+          "en": "Now let us move on to the next slide.",
+          "mean": "Una frase per cambiare argomento senza intoppi."
+        },
+        {
+          "en": "This brings me to my next point about our budget.",
+          "mean": "Collegare l'idea attuale a quella imminente."
+        },
+        {
+          "en": "Let us look at the numbers in more detail.",
+          "mean": "Invitare il pubblico a esaminare un dettaglio specifico."
+        }
+      ]
+    },
+    {
+      "h": "Concludere e rispondere alle domande",
+      "p": "Una grande conclusione lascia un'impressione duratura sul tuo pubblico. Dovresti riassumere chiaramente il tuo messaggio principale e poi aprire le danze affinché le persone possano fare domande. Ringrazia sempre il pubblico per il tempo e l'attenzione prima di finire ufficialmente la tua presentazione.",
+      "ex": [
+        {
+          "en": "To sum up, our main goal this year is to increase sales.",
+          "mean": "Ripetere velocemente l'idea principale."
+        },
+        {
+          "en": "Thank you all for listening. Are there any questions?",
+          "mean": "Concludere il discorso e chiedere se ci sono domande."
+        },
+        {
+          "en": "I would be happy to answer any questions you might have.",
+          "mean": "Un'offerta gentile per aiutare con le domande del pubblico."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "welcome",
+      "mean": "salutare educatamente"
+    },
+    {
+      "en": "presentation",
+      "mean": "discorso formale"
+    },
+    {
+      "en": "topic",
+      "mean": "argomento del discorso"
+    },
+    {
+      "en": "move on",
+      "mean": "cambiare argomento"
+    },
+    {
+      "en": "point",
+      "mean": "idea principale"
+    },
+    {
+      "en": "sum up",
+      "mean": "concludere brevemente"
+    },
+    {
+      "en": "session",
+      "mean": "riunione o lezione"
+    },
+    {
+      "en": "audience",
+      "mean": "persone in ascolto"
+    }
+  ],
+  "tip": "Fai pratica con la tua presentazione ad alta voce registrando la tua voce sul telefono. Ascoltala per verificare se le tue frasi di transizione suonano naturali e chiare.",
+  "quiz": [
+    {
+      "ask": "Scegli la frase migliore per iniziare il tuo discorso",
+      "en": "Good morning, everyone, and ___ to my presentation.",
+      "choices": [
+        "welcome",
+        "hello",
+        "goodbye"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Scegli il verbo corretto per cambiare argomento",
+      "en": "Now let us ___ on to the next slide.",
+      "choices": [
+        "go",
+        "move",
+        "walk"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli la parola giusta per riassumere",
+      "en": "To ___, our main goal is to increase sales.",
+      "choices": [
+        "finish",
+        "sum up",
+        "talk"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli la frase corretta per chiedere domande",
+      "en": "Thank you for listening. Are there any ___?",
+      "choices": [
+        "answers",
+        "problems",
+        "questions"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Scegli la parola corretta per l'argomento principale",
+      "en": "Today, I am going to talk about our main ___.",
+      "choices": [
+        "topic",
+        "story",
+        "joke"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Scegli la frase di transizione migliore",
+      "en": "This ___ me to my next point.",
+      "choices": [
+        "takes",
+        "brings",
+        "carries"
+      ],
+      "answer_index": 1
+    }
+  ]
+}
