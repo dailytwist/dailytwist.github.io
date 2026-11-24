@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-25",
+  "slug": "object-pronouns",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🎁",
+  "title": "Objektpronomen: mich, dich, ihn, sie, es, uns, sie",
+  "summary": "Lerne, wie man Objektpronomen im Englischen verwendet. Diese Wörter ersetzen Personen und Dinge nach Aktionsverben.",
+  "sections": [
+    {
+      "h": "Was sind Objektpronomen?",
+      "p": "Wir verwenden Subjektpronomen wie I, he und she vor dem Verb. Aber wenn jemand oder etwas die Handlung empfängt, verwenden wir Objektpronomen wie me, him und her nach dem Verb. Sie machen unsere Sätze kürzer und klingen viel natürlicher.",
+      "ex": [
+        {
+          "en": "I love my dog. I feed it every day.",
+          "mean": "wir verwenden 'it', um 'my dog' nach dem Verb zu ersetzen"
+        },
+        {
+          "en": "Sarah is my friend. I like her a lot.",
+          "mean": "wir verwenden 'her', um 'Sarah' nach dem Verb zu ersetzen"
+        }
+      ]
+    },
+    {
+      "h": "Singularpronomen: mich/mir, dich/dir, ihn, sie, es",
+      "p": "Verwende 'me' für dich selbst, 'you' für die Person, die zuhört, 'him' für eine männliche Person, 'her' für eine weibliche Person und 'it' für ein Tier oder eine Sache. Sie stehen immer nach einem Aktionsverb oder nach Präpositionen wie with, to oder for.",
+      "ex": [
+        {
+          "en": "Can you help me please?",
+          "mean": "jemanden bitten, dem Sprecher zu helfen"
+        },
+        {
+          "en": "John is nice. I work with him.",
+          "mean": "Verwendung von 'him' nach der Präposition 'with'"
+        },
+        {
+          "en": "Where is my phone? I need it.",
+          "mean": "Verwendung von 'it', um über das Telefon zu sprechen"
+        }
+      ]
+    },
+    {
+      "h": "Pluralpronomen: uns und sie",
+      "p": "Verwende 'us', wenn du und andere Personen die Handlung empfangen. Verwende 'them', wenn zwei oder mehr Personen, Tiere oder Dinge die Handlung empfangen. Genau wie die Singularpronomen stehen diese immer nach dem Verb oder der Präposition.",
+      "ex": [
+        {
+          "en": "Our teacher gives us a lot of homework.",
+          "mean": "der Lehrer gibt dem Sprecher und anderen Hausaufgaben"
+        },
+        {
+          "en": "Those shoes are cool. I want them.",
+          "mean": "Verwendung von 'them' im Bezug auf Schuhe im Plural"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "me",
+      "mean": "Objektpronomen für I"
+    },
+    {
+      "en": "you",
+      "mean": "Objektpronomen für you"
+    },
+    {
+      "en": "him",
+      "mean": "Objektpronomen für he"
+    },
+    {
+      "en": "her",
+      "mean": "Objektpronomen für she"
+    },
+    {
+      "en": "it",
+      "mean": "Objektpronomen für Dinge"
+    },
+    {
+      "en": "us",
+      "mean": "Objektpronomen für we"
+    },
+    {
+      "en": "them",
+      "mean": "Objektpronomen für they"
+    }
+  ],
+  "tip": "Betrachte Objektpronomen als die Empfänger der Handlung. Das Subjekt führt die Handlung aus und das Objekt empfängt sie!",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "Mary is talking to ___.",
+      "choices": [
+        "he",
+        "him",
+        "they"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "I have a new cat. I love ___ very much.",
+      "choices": [
+        "it",
+        "her",
+        "us"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "Can you help ___? I cannot carry this bag.",
+      "choices": [
+        "she",
+        "they",
+        "me"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "My parents are cooking dinner for ___.",
+      "choices": [
+        "we",
+        "us",
+        "he"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "Look at those birds! Can you see ___?",
+      "choices": [
+        "them",
+        "it",
+        "him"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "Tom is my best friend. I play tennis with ___ every weekend.",
+      "choices": [
+        "she",
+        "they",
+        "him"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

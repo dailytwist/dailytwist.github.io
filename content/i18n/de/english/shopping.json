@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-25",
+  "slug": "shopping",
+  "cefr": "A2",
+  "cat": "phrases",
+  "emoji": "🛍️",
+  "title": "Shopping: Preise und Größen",
+  "summary": "Lerne, wie man nach Preisen fragt und die richtige Kleidergröße auswählt. Übe nützliche Wörter für den Einkaufsbummel.",
+  "sections": [
+    {
+      "h": "Nach Preisen fragen",
+      "p": "Wenn du wissen möchtest, wie viel etwas kostet, kannst du bei einem Gegenstand „How much is this?“ fragen oder „How much are these?“ für mehrere Gegenstände. Beim Bezahlen nennt dir die Kassiererin oder der Kassierer vielleicht den Gesamtpreis. Wir verwenden Zahlen und Geldbegriffe wie Pfund, Dollar oder Euro, um über Preise zu sprechen.",
+      "ex": [
+        {
+          "en": "How much is this jacket?",
+          "mean": "Was kostet diese eine Jacke?"
+        },
+        {
+          "en": "How much are these shoes?",
+          "mean": "Wie hoch ist der Gesamtpreis für diese Schuhe?"
+        },
+        {
+          "en": "It is twenty pounds.",
+          "mean": "Der Preis beträgt 20 Pfund."
+        }
+      ]
+    },
+    {
+      "h": "Kleidergrößen",
+      "p": "Kleidung gibt es in verschiedenen Größen. Am häufigsten werden Buchstaben verwendet wie S für klein (small), M für mittel (medium) und L für groß (large). Wenn du eine größere Größe brauchst, kannst du nach XL fragen, was extra groß bedeutet. Schau immer auf das Etikett oder frag eine Mitarbeiterin bzw. einen Mitarbeiter, wenn du dir unsicher bist.",
+      "ex": [
+        {
+          "en": "Do you have this in a medium?",
+          "mean": "Kann ich dieses Hemd in Größe M bekommen?"
+        },
+        {
+          "en": "This shirt is too small for me.",
+          "mean": "Ich brauche eine größere Größe."
+        },
+        {
+          "en": "Where is the fitting room?",
+          "mean": "Wo kann ich diese Kleidung anprobieren?"
+        }
+      ]
+    },
+    {
+      "h": "Bezahlen der Artikel",
+      "p": "Nachdem du deine Artikel ausgesucht hast, gehst du zur Kasse, um zu bezahlen. Normalerweise kannst du mit Bargeld, also mit Scheinen und Münzen, oder mit einer Plastikkarte bezahlen. Die Person an der Kasse wird dich fragen, ob du einen Kassenbon haben möchtest – das ist der Zettel, auf dem steht, was du gekauft hast.",
+      "ex": [
+        {
+          "en": "Can I pay by card?",
+          "mean": "Kann ich mit meiner Bankkarte bezahlen?"
+        },
+        {
+          "en": "Here is your change.",
+          "mean": "Hier ist dein Rückgeld vom Bargeld."
+        },
+        {
+          "en": "Would you like a receipt?",
+          "mean": "Möchtest du den Beleg aus der Kasse haben?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "How much",
+      "mean": "nach dem Preis fragen"
+    },
+    {
+      "en": "Small",
+      "mean": "Größe S"
+    },
+    {
+      "en": "Medium",
+      "mean": "Größe M"
+    },
+    {
+      "en": "Large",
+      "mean": "Größe L"
+    },
+    {
+      "en": "Cash",
+      "mean": "Bargeld und Münzen"
+    },
+    {
+      "en": "Card",
+      "mean": "Bank- oder Kreditkarte"
+    },
+    {
+      "en": "Receipt",
+      "mean": "Kassenbon"
+    },
+    {
+      "en": "Fitting room",
+      "mean": "Umkleidekabine"
+    }
+  ],
+  "tip": "Wenn du nach Preisen fragst, zeige einfach auf den Artikel und lächle. Die Verkäufer helfen dir immer gerne dabei, die richtige Größe zu finden!",
+  "quiz": [
+    {
+      "ask": "Wähle die passende Frage für einen Artikel",
+      "en": "___ is this red shirt?",
+      "choices": [
+        "How much",
+        "How many",
+        "What time",
+        "Where"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle den richtigen Buchstaben für die Größe Medium",
+      "en": "I need a medium. Do you have size ___?",
+      "choices": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle den richtigen Ort zum Anprobieren von Kleidung",
+      "en": "Where is the ___ room?",
+      "choices": [
+        "bedroom",
+        "living",
+        "fitting",
+        "waiting"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle die richtige Art, mit Karte zu bezahlen",
+      "en": "Can I pay by ___?",
+      "choices": [
+        "paper",
+        "coin",
+        "cash",
+        "card"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Wähle die passende Frage für zwei oder mehr Artikel",
+      "en": "___ much are these shoes?",
+      "choices": [
+        "How",
+        "What",
+        "Where",
+        "Which"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort für den Beleg nach dem Bezahlen",
+      "en": "Would you like a ___?",
+      "choices": [
+        "ticket",
+        "receipt",
+        "book",
+        "letter"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

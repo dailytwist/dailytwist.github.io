@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-25",
+  "slug": "making-plans-with-friends",
+  "cefr": "A2",
+  "cat": "phrases",
+  "emoji": "🎉",
+  "title": "Leute einladen: Ja und Nein",
+  "summary": "In dieser Lektion lernst du, wie du Freunde zu Unternehmungen einlädst. Du übst außerdem, wie man höflich ja oder nein sagt.",
+  "sections": [
+    {
+      "h": "Wie man eine Einladung ausspricht",
+      "p": "Wenn du jemanden bitten möchtest, etwas mit dir zu unternehmen, verwende „Would you like to...“ oder „Do you want to...“. Das sind sehr gängige und höfliche Wege, einen Freund ins Kino, zum Essen oder zu einer Party einzuladen. Lächle immer und sei freundlich, wenn du fragst!",
+      "ex": [
+        {
+          "en": "Would you like to come to my party?",
+          "mean": "Jemanden höflich bitten, zu deiner Party zu kommen"
+        },
+        {
+          "en": "Do you want to grab a coffee tomorrow?",
+          "mean": "Einen Freund fragen, ob ihr zusammen Kaffee trinken wollt"
+        }
+      ]
+    },
+    {
+      "h": "Wie man höflich zusagt",
+      "p": "Wenn dich jemand einlädt und du Zeit hast, solltest du dich freudig annehmen. Sag zuerst Danke! Du kannst Ausdrücke wie „I'd love to“ oder „That sounds great“ verwenden, um zu zeigen, dass du dich über die Einladung freust.",
+      "ex": [
+        {
+          "en": "I'd love to! Thank you.",
+          "mean": "Mit Begeisterung ja sagen"
+        },
+        {
+          "en": "That sounds great! What time?",
+          "mean": "Ja sagen und nach der Uhrzeit fragen"
+        }
+      ]
+    },
+    {
+      "h": "Wie man höflich absagt",
+      "p": "Manchmal kannst du nicht hingehen. Wenn du nein sagen musst, sei sehr höflich, damit du die Gefühle deines Freundes nicht verletzt. Fang immer damit an, dich zu bedanken. Nenne dann einen einfachen Grund, zum Beispiel, dass du beschäftigt bist, und entschuldige dich.",
+      "ex": [
+        {
+          "en": "I'm sorry, I'm busy that day.",
+          "mean": "Nein sagen, weil du schon andere Pläne hast"
+        },
+        {
+          "en": "Thank you, but I can't make it.",
+          "mean": "Höfliche Art, eine Einladung abzulehnen"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Would you like to",
+      "mean": "höfliche Einladung"
+    },
+    {
+      "en": "Do you want to",
+      "mean": "lockere Einladung"
+    },
+    {
+      "en": "I'd love to",
+      "mean": "gerne annehmen"
+    },
+    {
+      "en": "That sounds great",
+      "mean": "Begeisterung zeigen"
+    },
+    {
+      "en": "I'm sorry",
+      "mean": "höfliche Entschuldigung"
+    },
+    {
+      "en": "I'm busy",
+      "mean": "schon was vorhaben"
+    },
+    {
+      "en": "Thank you",
+      "mean": "Dankbarkeit zeigen"
+    }
+  ],
+  "tip": "Sag am besten immer erst „Danke“, bevor du eine Einladung annimmst oder ablehnst. Das zeigt, dass du es zu schätzen weißt, dass dein Freund oder deine Freundin an dich gedacht hat!",
+  "quiz": [
+    {
+      "ask": "Wähle den besten Weg, um einen Freund einzuladen.",
+      "en": "___ you like to go to the cinema tonight?",
+      "choices": [
+        "Would",
+        "Do",
+        "Are",
+        "Can"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort, um den Satz zu vervollständigen.",
+      "en": "I'd love ___! Thank you.",
+      "choices": [
+        "go",
+        "to",
+        "too",
+        "do"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die höfliche Art, Nein zu sagen.",
+      "en": "I'm sorry, I'm ___ that day.",
+      "choices": [
+        "free",
+        "good",
+        "busy",
+        "nice"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle die passende Redewendung, um Begeisterung zu zeigen.",
+      "en": "___ sounds great!",
+      "choices": [
+        "This",
+        "It",
+        "What",
+        "That"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Vervollständige die zwanglose Einladung.",
+      "en": "___ you want to grab lunch?",
+      "choices": [
+        "Do",
+        "Would",
+        "Are",
+        "Did"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die richtige Reaktion auf eine Absage.",
+      "en": "That's okay, maybe ___ time!",
+      "choices": [
+        "next",
+        "other",
+        "future",
+        "later"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

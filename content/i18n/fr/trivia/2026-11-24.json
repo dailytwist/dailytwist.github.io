@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-24",
+  "title": "Défi Trivia Quotidien : 24 novembre 2026",
+  "questions": [
+    {
+      "category": "géographie",
+      "question": "Quel pays possède le plus long littoral au monde ?",
+      "options": [
+        "Canada",
+        "Russie",
+        "Australie",
+        "Indonésie"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le Canada est bordé par trois océans différents — l'Atlantique, le Pacifique et l'Arctique —, ce qui lui confère un littoral immense et d'une complexité folle."
+    },
+    {
+      "category": "science",
+      "question": "Quel est le minéral naturel le plus dur sur l'échelle de Mohs ?",
+      "options": [
+        "Corindon",
+        "Topaze",
+        "Diamant",
+        "Quartz"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Le diamant trône au sommet absolu, à 10 sur l'échelle de dureté de Mohs."
+    },
+    {
+      "category": "histoire",
+      "question": "L'antique réseau commercial connu sous le nom de Route de la soie reliait principalement la Chine à quelle région ?",
+      "options": [
+        "La Méditerranée",
+        "L'Afrique subsaharienne",
+        "L'Amérique du Nord",
+        "La Scandinavie"
+      ],
+      "answer_index": 0,
+      "fun_fact": "La Route de la soie était un vaste réseau de routes commerciales eurasiatiques actif depuis la dynastie Han jusqu'à ce que l'Empire ottoman boycotte le commerce avec l'Occident."
+    },
+    {
+      "category": "cinéma & pop culture",
+      "question": "Quel film de science-fiction de 1982 réalisé par Ridley Scott présente le célèbre monologue « Des larmes dans la pluie » prononcé par Rutger Hauer ?",
+      "options": [
+        "E.T. l'extra-terrestre",
+        "Blade Runner",
+        "The Thing",
+        "Tron"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Rutger Hauer a improvisé une grande partie de son monologue poétique emblématique vers la fin de Blade Runner."
+    },
+    {
+      "category": "gastronomie",
+      "question": "Quel est l'alcool principal utilisé dans un cocktail Mojito traditionnel cubain ?",
+      "options": [
+        "Gin",
+        "Rhum",
+        "Tequila",
+        "Vodka"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Un Mojito classique associe du rhum blanc, du sucre, du jus de citron vert, de l'eau gazeuse et de la menthe fraîche."
+    },
+    {
+      "category": "animaux",
+      "question": "Quel est l'élément principal du régime alimentaire du grand panda ?",
+      "options": [
+        "Feuilles d'eucalyptus",
+        "Bambou",
+        "Insectes",
+        "Poissons"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Les grands pandas passent jusqu'à 12 heures par jour à mâcher et à manger du bambou pour combler leurs besoins nutritionnels quotidiens."
+    },
+    {
+      "category": "sports",
+      "question": "Aux Jeux olympiques modernes, combien de points attribue-t-on pour une victoire en médaille d'or selon le système de notation standard, traditionnellement représenté par la place sur le podium ?",
+      "options": [
+        "Aucun",
+        "Trois",
+        "Cinq",
+        "Un"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Les Jeux olympiques attribuent des médailles (or, argent, bronze) plutôt que des points dans le classement général du tableau des médailles."
+    },
+    {
+      "category": "langue",
+      "question": "Quel terme linguistique désigne des mots qui s'écrivent de la même façon mais ont des sens différents et parfois des prononciations différentes ?",
+      "options": [
+        "Antonymes",
+        "Homophones",
+        "Synonymes",
+        "Homographes"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Les homographes partagent une orthographe identique, ce qui crée souvent des ambiguïtés amusantes dans la langue écrite."
+    },
+    {
+      "category": "espace",
+      "question": "Quelle lune de Saturne est la deuxième plus grande du système solaire et possède une dense atmosphère riche en azote ?",
+      "options": [
+        "Io",
+        "Titan",
+        "Ganymède",
+        "Europe"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Titan est le seul corps céleste connu en dehors de la Terre à posséder des lacs et mers stables à sa surface, bien qu'ils soient composés de méthane et d'éthane."
+    },
+    {
+      "category": "géographie",
+      "question": "Quelle fosse océanique profonde, située dans l'ouest de l'océan Pacifique, abrite le point le plus profond connu sur Terre ?",
+      "options": [
+        "Fosse du Pérou-Chili",
+        "Fosse des Mariannes",
+        "Fosse de Java",
+        "Fosse de Porto Rico"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La fosse des Mariannes, au niveau de Challenger Deep, plonge à une profondeur d'environ 11 000 mètres sous la surface de l'océan."
+    }
+  ]
+}
