@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-24",
+  "signs": {
+    "aries": {
+      "overview": "O cosmos está girando o seu termostato interno hoje, Áries, fazendo você sentir que pode pular prédios altos de um só salto. Terça-feira é dia de canalizar esse entusiasmo transbordante e eletrizante para projetos que realmente fazem seu coração cantar. Se um obstáculo burocrático aparecer, não tente destruí-lo com força bruta; em vez disso, encante-o usando aquele seu famoso bom humor afiado. Você está com um brilho único agora que atrai olhares sem nem fazer esforço. Hoje à noite, celebre sua energia se dando de presente algo totalmente espontâneo e delicioso.",
+      "love": "Faíscas voam quando você baixa a guarda e deixa seu lado brincalhão assumir o controle. Surpreender o mozão com uma festa improvisada na cozinha dá um clima mágico.",
+      "career": "Sua liderança ousada inspira toda a equipe, então apresente aquela ideia maluca que você estava guardando em segredo. A confiança é seu superpoder hoje.",
+      "wellness": "Canalize o excesso de tensão em uma sessão animada de dança aeróbica na sua sala.",
+      "lucky_number": 17,
+      "lucky_color": "Carmesim",
+      "mood": "Eletrizante"
+    },
+    "taurus": {
+      "overview": "Vá com calma, Touro fã de um bom luxo, porque o dia de hoje convida você a mergulhar fundo nos prazeres sensoriais do cotidiano. Enquanto todo mundo corre pra lá e pra cá como galinhas sem cabeça, você é a âncora calma e firme na tempestade. Tire um momento para apreciar os pequenos milagres: a temperatura exata do seu café da manhã, a maciez do seu suéter favorito ou aquela playlist que acerta em cheio em todas as músicas. Este é um dia magnífico para ficar em casa curtindo o seu cantinho e organizando seu ambiente. Conforto não é luxo para você; é uma necessidade absoluta.",
+      "love": "Uma energia sensual e constante atrai admiradores, então aproveite uma noite aconchegante em casa com alguém especial. Romance de fogo baixo é a sua especialidade.",
+      "career": "Progresso metódico ganha a corrida hoje, permitindo que você organize seu espaço de trabalho transformando-o em uma obra-prima de eficiência.",
+      "wellness": "Tome um chá de camomila lendo um livro de verdade em vez de ficar rolando o feed da tela.",
+      "lucky_number": 8,
+      "lucky_color": "Verde-floresta",
+      "mood": "Aconchegante"
+    },
+    "gemini": {
+      "overview": "Sua mente é uma máquina de pinball brilhante hoje, Gêmeos, rebatendo rapidamente entre ideias fascinantes, piadas espirituosas e epifanias geniais. A terça-feira traz um turbilhão de energia social, então aproveite seu dom natural para a conversa e fale com alguém com quem você não fala há séculos. Só lembre de colocar os pés no chão de vez em quando para não voar para a estratosfera do excesso de pensamento. Anote esses conceitos geniais antes que eles voem como confetes ao vento. A curiosidade é o seu melhor acessório.",
+      "love": "Conversas cheias de flerte mantêm a química no ar fervendo e espantam o tédio para longe. Uma mensagem espirituosa muda completamente a vibe do seu dia.",
+      "career": "Fazer várias coisas ao mesmo tempo flui naturalmente hoje, permitindo que você passe pela caixa de entrada e pelos brainstorms criativos com muito estilo.",
+      "wellness": "Tente um exercício rápido de respiração para acalmar seus pensamentos acelerados antes de dormir.",
+      "lucky_number": 23,
+      "lucky_color": "Amarelo",
+      "mood": "Curioso"
+    },
+    "cancer": {
+      "overview": "Sua intuição está praticamente zumbindo como um diapasão hoje, doce Câncer, captando correntes emocionais que os outros simplesmente ignoram. A terça-feira incentiva você a proteger sua preciosa paz e se cercar de pessoas que parecem um abraço quentinho. É um momento maravilhoso para mimar seu cantinho, talvez acendendo uma vela aconchegante ou preparando aquela receita de família cheia de nostalgia. Não tenha medo de dizer um gentil 'não' para exigências que esgotam sua bateria. Sua profundidade emocional é seu superpoder.",
+      "love": "A vulnerabilidade aprofunda uma conexão, então compartilhe seus sonhos secretos durante um jantar tranquilo à luz de velas. A segurança emocional é o afrodisíaco definitivo.",
+      "career": "Confie no seu instinto ao navegar por uma dinâmica de equipe complicada; sua empatia leva você à solução certa.",
+      "wellness": "Tome um banho demorado e quentinho com sais de lavanda para lavar a energia pesada do dia.",
+      "lucky_number": 4,
+      "lucky_color": "Prata",
+      "mood": "Protetor"
+    },
+    "leo": {
+      "overview": "Os holofotes estão praticamente implorando pela sua presença hoje, glorioso Leo, e o universo está te dando um passe VIP para os bastidores. A terça-feira injeta um toque teatral no seu espírito, fazendo até a tarefa mais sem graça parecer uma caminhada no tapete vermelho. Compartilhe sua alegria contagiante com o mundo e não se diminua só para deixar os outros confortáveis. Seu calor natural atrai as pessoas para você como mariposas em uma chama glamourosa. Hoje à noite, trate-se como realeza, porque você com certeza conquistou isso.",
+      "love": "Grandes gestos românticos ou elogios sinceros fazem seu coração dar um pulinho de alegria. Traga seu drama característico para o romance.",
+      "career": "Sua visão criativa cativa a sala durante as apresentações, preparando o terreno para aplausos mais do que merecidos.",
+      "wellness": "Faça uma pose de ioga poderosa em frente ao espelho para realçar sua postura radiante.",
+      "lucky_number": 11,
+      "lucky_color": "Dourado",
+      "mood": "Radiante"
+    },
+    "virgo": {
+      "overview": "Seu lendário olho clínico para detalhes está em uma forma rara hoje, Virgem, ajudando você a notar padrões e soluções que passaram despercebidos por todo mundo. A terça-feira convida você a organizar não só o seu espaço físico, mas também a sua agenda. Há uma alegria profunda e meditativa em riscar itens de uma lista bem-feita. Só lembre de pegar leve consigo mesmo se as coisas não saírem absolutamente perfeitas. A perfeição é uma ilusão, mas a sua dedicação é totalmente real e profundamente valorizada.",
+      "love": "Atos de serviço dizem muito agora, então surpreenda a pessoa amada resolvendo uma tarefa que ela detesta. O afeto prático vence o dia.",
+      "career": "Otimizar um fluxo de trabalho traz imensa satisfação e salva o dia de qualquer caos desnecessário.",
+      "wellness": "Dê uma organizada na sua mesa de cabeceira para criar um limite visual pacífico e claro para o sono.",
+      "lucky_number": 15,
+      "lucky_color": "Azul-marinho",
+      "mood": "Focado"
+    },
+    "libra": {
+      "overview": "A harmonia estética é a sua estrela-guia absoluta hoje, Libra, e você está em uma missão para fazer com que tudo ao seu redor pareça e seja belo. A terça-feira traz uma brisa social deliciosa, tornando o momento ideal para colocar o papo em dia no café ou colaborar em um projeto criativo. Sua diplomacia faz milagres ao suavizar pequenos mal-entendidos. Lembre-se de que seus próprios desejos são tão importantes quanto manter a paz, então não hesite em expressar suas preferências estéticas.",
+      "love": "Encontros charmosos e flertes doces fazem seu coração bater mais forte com possibilidades românticas. Compartilhe sua playlist com o crush.",
+      "career": "A colaboração é onde você realmente brilha, unindo opiniões díspares em uma obra-prima impressionante.",
+      "wellness": "Ouça uma playlist instrumental relaxante enquanto toma água no seu copo mais bonito.",
+      "lucky_number": 6,
+      "lucky_color": "Rosa",
+      "mood": "Harmonioso"
+    },
+    "scorpio": {
+      "overview": "A intensidade é sua língua nativa, Escorpião, e hoje você está falando com fluência total e um charme magnético. A terça-feira desbloqueia um foco laser que permite mergulhar fundo em um projeto de paixão ou desvendar um mistério complexo. Você tem uma capacidade misteriosa de ler nas entrelinhas, então confie no seu radar perceptivo. Permita-se curtir um pouco de segredo ou mistério só pela diversão. Sua aura é magnética, atraindo uma energia fascinante direto para a sua porta.",
+      "love": "Conversas profundas, de alma para alma, pulam a conversa fiada e criam um laço emocional inquebrável. A intensidade é a sua linguagem do amor.",
+      "career": "O planejamento estratégico nos bastidores dá a você uma vantagem enorme sobre a concorrência.",
+      "wellness": "Desconecte-se das redes sociais à noite para recarregar sua bateria interna em silêncio e solidão.",
+      "lucky_number": 9,
+      "lucky_color": "Marsala",
+      "mood": "Misterioso"
+    },
+    "sagittarius": {
+      "overview": "A aventura está chamando o seu nome, aventureiro Sagitário, mesmo que seja só para explorar uma cafeteria nova no bairro. A terça-feira injeta no seu espírito um otimismo sem limites e um senso de humor hilário que ilumina qualquer ambiente. Se a rotina tentar te prender, liberte-se com um desvio espontâneo ou uma perspectiva fresca. Você é um filósofo nato, e as experiências de hoje trazem uma lição brilhante sobre alegria. Faça as malas mentalmente e prepare-se para voar.",
+      "love": "Risadas espontâneas e piadas brincalhonas mantêm sua vida romântica fresca, emocionante e incrivelmente divertida. Planejem uma mini-aventura juntos.",
+      "career": "Pensar grande inspira seus colegas a sonharem mais alto e a ultrapassarem velhos limites.",
+      "wellness": "Faça uma caminhada rápida ao ar livre para absorver o ar fresco de outono e esticar as pernas.",
+      "lucky_number": 3,
+      "lucky_color": "Roxo",
+      "mood": "Aventureiro"
+    },
+    "capricorn": {
+      "overview": "A ambição encontra a execução firme hoje, Capricórnio, fazendo da terça-feira uma potência de produtividade silenciosa e inegável. Você está construindo algo significativo para o longo prazo, e cada tijolo que você coloca agora importa. Não subestime o poder de tirar uma pausa merecida para o café e admirar seu progresso até aqui. Sua sabedoria pragmática é um farol para outros que possam estar perdidos nos detalhes. Continue firme, porque sua dedicação inabalável está prestes a render frutos extraordinários.",
+      "love": "A confiabilidade é o seu traço mais atraente hoje, oferecendo um porto seguro para alguém de quem você cuida.",
+      "career": "Metas claras e planejamento estruturado fazem com que enfrentar um grande projeto pareça um passeio no parque.",
+      "wellness": "Faça alguns alongamentos leves no pescoço e nos ombros para aliviar o estresse de ficar sentado à escrivaninha.",
+      "lucky_number": 10,
+      "lucky_color": "Chumbo",
+      "mood": "Ambicioso"
+    },
+    "aquarius": {
+      "overview": "Seu cérebro brilhantemente excêntrico está cozinhando as inovações de amanhã hoje, Aquário, e o futuro parece fascinante. A terça-feira incentiva você a abraçar sua estranheza interior e compartilhar suas ideias pouco convencionais com um público receptivo. As dinâmicas de grupo estão favoráveis, então aposte em projetos comunitários ou sessões de brainstorm com visionários que pensam como você. Não se preocupe em se encaixar quando você claramente nasceu para se destacar. Sua originalidade é um jato refrescante de água fria.",
+      "love": "A conexão intelectual desperta uma atração intensa; fale sobre suas teorias futuristas mais malucas em um encontro.",
+      "career": "A resolução de problemas fora da caixa faz de você o destaque de qualquer sessão de brainstorming hoje.",
+      "wellness": "Saia à noite e contemple as estrelas para ganhar uma perspectiva cósmica maravilhosa.",
+      "lucky_number": 22,
+      "lucky_color": "Verde-água",
+      "mood": "Inovador"
+    },
+    "pisces": {
+      "overview": "O véu entre a realidade e sua imaginação vívida está deliciosamente tênue hoje, sonhador Peixes. A terça-feira convida você a mergulhar de cabeça na expressão artística, seja desenhando, escrevendo poesia ou se perdendo em uma melodia linda. Sua empatia é um bálsamo de cura para quem tem a sorte de cruzar o seu caminho. Só não se esqueça de criar um limite suave para não absorver a instabilidade emocional de todo mundo. Flutue pelo seu dia com leveza e liberdade artística.",
+      "love": "Devaneios românticos e gestos poéticos fofos fazem seu coração parecer estar flutuando em uma nuvem.",
+      "career": "Sua intuição criativa ajuda você a desenhar uma solução impressionante que une arte e funcionalidade.",
+      "wellness": "Mantenha um diário dos sonhos perto da cama para capturar aqueles pensamentos matinais fugazes e mágicos.",
+      "lucky_number": 7,
+      "lucky_color": "Água-marinha",
+      "mood": "Sonhador"
+    }
+  }
+}

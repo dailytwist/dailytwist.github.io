@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-29",
+  "slug": "collocations",
+  "cefr": "B2",
+  "cat": "vocab",
+  "emoji": "🌧️",
+  "title": "Padroneggiare le collocazioni forti",
+  "summary": "Scopri come certe parole inglesi si abbinano naturalmente per suonare più fluenti. Studierai combinazioni utili con rain, decisions e risks.",
+  "sections": [
+    {
+      "h": "Cosa sono le Collocazioni?",
+      "p": "In inglese, alcune parole amano stare insieme. Le chiamiamo collocazioni forti. Se usi la parola sbagliata, i madrelingua ti capiranno, ma suonerà un po' strano. Per esempio, non diciamo 'big rain' o 'do a decision'. Imparare queste coppie fisse aiuta il tuo parlato e la tua scrittura a suonare molto più naturali e sicuri a un livello B2.",
+      "ex": [
+        {
+          "en": "We use certain words together because it sounds natural.",
+          "mean": "Alcune parole sono partner in inglese."
+        },
+        {
+          "en": "Using correct collocations helps you sound like a native speaker.",
+          "mean": "Le giuste combinazioni di parole ti fanno sembrare fluente."
+        }
+      ]
+    },
+    {
+      "h": "Meteo e Scelte",
+      "p": "Diamo un'occhiata a meteo e scelte. Quando piove molto, non diciamo mai 'strong rain'. La collocazione naturale è 'heavy rain'. Inoltre, quando devi scegliere qualcosa di importante, il verbo corretto non è 'do', ma 'make'. Si dice 'make a decision'. Cerca di memorizzare queste frasi come blocchi interi anziché imparare le parole separatamente.",
+      "ex": [
+        {
+          "en": "We had to stay inside because of the heavy rain.",
+          "mean": "Siamo rimasti in casa a causa della pioggia molto forte."
+        },
+        {
+          "en": "Take your time to make a decision about the job offer.",
+          "mean": "Pensa attentamente prima di scegliere."
+        }
+      ]
+    },
+    {
+      "h": "Azione e Rischio",
+      "p": "Infine, parliamo di fare cose coraggiose. In inglese, non diciamo 'make a risk' o 'do a risk'. Diciamo sempre 'take a risk'. Imprenditori e atleti spesso devono correre rischi per avere successo. Imparare questi verbi con i loro sostantivi associati ti impedirà di tradurre letteralmente dalla tua lingua madre.",
+      "ex": [
+        {
+          "en": "Sometimes you need to take a risk to achieve your goals.",
+          "mean": "Devi fare qualcosa di rischioso per avere successo."
+        },
+        {
+          "en": "She was afraid to take a risk, so she stayed in her safe job.",
+          "mean": "Ha evitato il pericolo e ha tenuto il suo lavoro sicuro."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "heavy rain",
+      "mean": "molta acqua che cade"
+    },
+    {
+      "en": "make a decision",
+      "mean": "scegliere qualcosa"
+    },
+    {
+      "en": "take a risk",
+      "mean": "fare qualcosa di pericoloso"
+    },
+    {
+      "en": "collocation",
+      "mean": "parole che stanno bene insieme"
+    },
+    {
+      "en": "fluent",
+      "mean": "fluido e naturale"
+    },
+    {
+      "en": "native speaker",
+      "mean": "madrelingua inglese"
+    },
+    {
+      "en": "memorize",
+      "mean": "imparare a memoria"
+    }
+  ],
+  "tip": "Non imparare le parole da sole. Scrivi sempre l'intera frase, come 'correre un rischio', così il tuo cervello le ricorderà in blocco.",
+  "quiz": [
+    {
+      "ask": "Scegli la combinazione corretta per il brutto tempo.",
+      "en": "We got completely wet in the ___ rain.",
+      "choices": [
+        "strong",
+        "heavy",
+        "big"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli il verbo corretto per una scelta.",
+      "en": "It is hard to ___ a decision when you have too many options.",
+      "choices": [
+        "make",
+        "do",
+        "take"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Scegli la frase corretta per fare qualcosa di coraggioso.",
+      "en": "Starting a new business means you have to ___.",
+      "choices": [
+        "make a risk",
+        "do a risk",
+        "take a risk"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Seleziona la frase inglese naturale.",
+      "en": "Please don't forget to ___ before Friday.",
+      "choices": [
+        "make a decision",
+        "do a decision",
+        "have a decision"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Quale aggettivo si abina a 'rain' in inglese?",
+      "en": "The match was cancelled because of ___ rain.",
+      "choices": [
+        "hard",
+        "heavy",
+        "strong"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli il verbo corretto per questa frase.",
+      "en": "Are you willing to ___ a risk to win the competition?",
+      "choices": [
+        "make",
+        "give",
+        "take"
+      ],
+      "answer_index": 2
+    }
+  ]
+}
