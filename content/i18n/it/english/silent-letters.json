@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-29",
+  "slug": "silent-letters",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "🤫",
+  "title": "Lettere mute: parole che scriviamo ma non diciamo",
+  "summary": "Scopri perché alcune parole inglesi contengono lettere nascoste che non vengono mai pronunciate. Impara a riconoscere e pronunciare correttamente questi vocaboli insidiosi.",
+  "sections": [
+    {
+      "h": "La 'K' e la 'W' mute",
+      "p": "In inglese, alcune lettere si nascondono dentro le parole senza emettere alcun suono. Una regola molto comune si applica quando la 'k' o la 'w' precedono immediatamente la lettera 'n' all'inizio di una parola. Le scrivi sulla carta, ma la tua bocca resta silenziosa quando le leggi. Ricordati solo di saltare queste lettere e passare direttamente al suono successivo.",
+      "ex": [
+        {
+          "en": "I need to know the answer by tomorrow.",
+          "mean": "Devo capire la risposta al più presto."
+        },
+        {
+          "en": "Please write your name on this paper.",
+          "mean": "Metti il tuo nome per iscritto qui."
+        },
+        {
+          "en": "Close the door because it is cold outside.",
+          "mean": "Chiudi la porta a causa della bassa temperatura."
+        }
+      ]
+    },
+    {
+      "h": "La 'B' e la 'L' mute",
+      "p": "Altre lettere subdole come la 'b' e la 'l' amano nascondersi. Quando la 'b' si trova alla fine di una parola subito dopo una 'm', di solito non la pronunciamo. Allo stesso modo, spesso ci dimentichiamo di pronunciare la lettera 'l' quando si trova tra determinate vocali e consonanti in parole di uso comune. Ascolta attentamente i madrelingua per coglierle al volo.",
+      "ex": [
+        {
+          "en": "Can I please have a glass of water?",
+          "mean": "Posso bere dell'acqua?"
+        },
+        {
+          "en": "My little brother loves to climb trees.",
+          "mean": "A mio fratello minore piace arrampicarsi sugli alberi."
+        },
+        {
+          "en": "Walk slowly because the floor is wet.",
+          "mean": "Cammina a piedi con prudenza."
+        }
+      ]
+    },
+    {
+      "h": "La 'H' muta",
+      "p": "La lettera 'h' è molto timida in inglese. Quando appare dopo la 'w' nelle parole interrogative, spesso non si sente. Si nasconde in modo silenzioso anche dopo la 'r' all'inizio di alcune parole. Non lasciare che queste lettere silenziose ti confondano quando parli con amici o colleghi.",
+      "ex": [
+        {
+          "en": "What time should we meet for lunch?",
+          "mean": "A che ora mangeremo insieme?"
+        },
+        {
+          "en": "My favorite season is autumn.",
+          "mean": "La stagione che preferisco è l'autunno."
+        },
+        {
+          "en": "Where did you put my keys?",
+          "mean": "Dove sono le mie chiavi?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "know",
+      "mean": "avere informazioni"
+    },
+    {
+      "en": "write",
+      "mean": "mettere parole su carta"
+    },
+    {
+      "en": "comb",
+      "mean": "strumento per i capelli"
+    },
+    {
+      "en": "talk",
+      "mean": "parlare"
+    },
+    {
+      "en": "half",
+      "mean": "cinquanta percento"
+    },
+    {
+      "en": "what",
+      "mean": "parola interrogativa per cose"
+    },
+    {
+      "en": "climb",
+      "mean": "andare in su"
+    },
+    {
+      "en": "answer",
+      "mean": "risposta a una domanda"
+    }
+  ],
+  "tip": "Quando impari una nuova parola inglese, controlla sul dizionario se contiene una lettera muta. Traccia una piccola croce sopra la lettera silenziosa nel tuo quaderno per ricordarti di non pronunciarla.",
+  "quiz": [
+    {
+      "ask": "Scegli la grafia corretta dell'azione che fai con una penna.",
+      "en": "I need to ___ a letter to my friend.",
+      "choices": [
+        "rite",
+        "write",
+        "writte"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli la parola mancante corretta per questa domanda.",
+      "en": "Do you ___ where the station is?",
+      "choices": [
+        "know",
+        "now",
+        "gno"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Seleziona la parola che contiene una 'b' muta.",
+      "en": "He likes to ___ tall mountains.",
+      "choices": [
+        "walk",
+        "climb",
+        "run"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Quale lettera è muta nella parola 'talk'?",
+      "en": "What is the silent letter in 'talk'?",
+      "choices": [
+        "t",
+        "a",
+        "l"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Scegli la parola interrogativa corretta.",
+      "en": "___ is your name?",
+      "choices": [
+        "Wat",
+        "Hwat",
+        "What"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Seleziona la grafia corretta per lo strumento usato sui capelli.",
+      "en": "She uses a ___ for her hair.",
+      "choices": [
+        "comb",
+        "com",
+        "cove"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

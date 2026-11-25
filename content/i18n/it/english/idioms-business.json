@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-29",
+  "slug": "idioms-business",
+  "cefr": "B2",
+  "cat": "vocab",
+  "emoji": "💼",
+  "title": "Modi di dire aziendali intelligenti",
+  "summary": "Impara due comuni espressioni lavorative per parlare di accordi e stime. Queste frasi ti aiuteranno a sembrare naturale durante le riunioni.",
+  "sections": [
+    {
+      "h": "Sulla stessa lunghezza d'onda",
+      "p": "Quando le persone sono sulla stessa lunghezza d'onda, condividono la stessa comprensione o gli stessi obiettivi riguardo a un progetto. Significa che tutti sono d'accordo e sanno cosa fare dopo. Usiamo spesso questa frase nelle riunioni per verificare se il team ha le stesse idee prima di iniziare a lavorare.",
+      "ex": [
+        {
+          "en": "Let's review the schedule so we are all on the same page.",
+          "mean": "Controlliamo il piano così siamo tutti d'accordo."
+        },
+        {
+          "en": "Before we start the project, I want to make sure we are on the same page.",
+          "mean": "Voglio essere sicuro che condividiamo lo stesso piano."
+        }
+      ]
+    },
+    {
+      "h": "Cifra approssimativa",
+      "p": "Una cifra approssimativa è una stima grossolana e generale o un numero a guess. Si usa quando non si hanno ancora i dettagli esatti, ma si vuole dare un'idea generale di un costo o di un tempo. Una cifra approssimativa aiuta le persone a comprendere rapidamente la portata di qualcosa.",
+      "ex": [
+        {
+          "en": "Can you give me a ballpark figure for the new website design?",
+          "mean": "Mi puoi dare una stima approssimativa dei costi?"
+        },
+        {
+          "en": "I do not have the final numbers, but a ballpark figure is five thousand dollars.",
+          "mean": "Ho una stima grossolana di cinquemila dollari."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "on the same page",
+      "mean": "condividere la stessa comprensione"
+    },
+    {
+      "en": "ballpark figure",
+      "mean": "una stima approssimativa dei costi"
+    },
+    {
+      "en": "review",
+      "mean": "rivedere"
+    },
+    {
+      "en": "schedule",
+      "mean": "calendario delle attività"
+    },
+    {
+      "en": "estimate",
+      "mean": "importo stimato"
+    },
+    {
+      "en": "project",
+      "mean": "pezzo di lavoro pianificato"
+    },
+    {
+      "en": "cost",
+      "mean": "prezzo da pagare"
+    }
+  ],
+  "tip": "Immagina di trovarti in uno stadio di baseball (un ballpark) cercando di indovinare il punteggio, o di leggere tutti esattamente la stessa pagina di un libro per ricordarvi di questi modi di dire!",
+  "quiz": [
+    {
+      "ask": "Scegli la frase corretta",
+      "en": "We need to talk before the meeting to ensure we are on the ___.",
+      "choices": [
+        "same page",
+        "right book",
+        "good table"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Scegli la frase corretta",
+      "en": "Could you give me a ___ for how much this repair will cost?",
+      "choices": [
+        "soccer stadium number",
+        "ballpark figure",
+        "tiny calculation"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Cosa significa 'on the same page'?",
+      "en": "To be on the same page means to...",
+      "choices": [
+        "read the same book",
+        "share the same understanding",
+        "write on identical paper"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Cos'è una 'ballpark figure'?",
+      "en": "A ballpark figure is...",
+      "choices": [
+        "an exact mathematical proof",
+        "a rough estimate",
+        "a ticket price"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli la frase corretta",
+      "en": "Which sentence uses the idioms correctly?",
+      "choices": [
+        "I gave my boss a ballpark figure because I did not know the exact price.",
+        "We are on the same page of the restaurant menu.",
+        "She wrote a ballpark figure on the whiteboard to read a story."
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Inserisci la parola mancante",
+      "en": "Let's have a quick call to make sure everyone is on the same ___.",
+      "choices": [
+        "line",
+        "chapter",
+        "page"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

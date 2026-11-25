@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-25",
+  "title": "Sfida Trivia Quotidiana: 25 Novembre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Qual è l'unico paese del Sud America a bagnarsi sia sull'oceano Pacifico che sul mar dei Caraibi?",
+      "options": [
+        "Venezuela",
+        "Ecuador",
+        "Perù",
+        "Colombia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La posizione geografica strategica della Colombia la rende un vero e proprio hotspot biologico, fungendo da porta d'accesso al Sud America."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è il numero atomico dell'elemento chimico carbonio?",
+      "options": [
+        "8",
+        "12",
+        "14",
+        "6"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Il numero atomico 6 del carbonio significa che ogni atomo di carbonio ha 6 protoni nel proprio nucleo."
+    },
+    {
+      "category": "storia",
+      "question": "La storica Magna Carta fu siglata nel 1215 da Re Giovanni in quale prato inglese?",
+      "options": [
+        "York",
+        "Hastings",
+        "Runnymede",
+        "Bosworth"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Runnymede si trova vicino al fiume Tamigi nella contea del Surrey, in Inghilterra."
+    },
+    {
+      "category": "film e pop culture",
+      "question": "Quale film d'animazione ha vinto il primissimo premio Oscar per il miglior film d'animazione?",
+      "options": [
+        "Monsters & Co.",
+        "Shrek",
+        "La Bella e la Bestia",
+        "Toy Story"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Shrek ha vinto il primo Oscar in assoluto per il miglior film d'animazione alla 74ª edizione degli Academy Awards nel 2002."
+    },
+    {
+      "category": "cibo",
+      "question": "Il formaggio Parmigiano-Reggiano è originario di quale regione italiana?",
+      "options": [
+        "Lombardia",
+        "Campania",
+        "Toscana",
+        "Emilia-Romagna"
+      ],
+      "answer_index": 3,
+      "fun_fact": "L'autentico Parmigiano-Reggiano può essere prodotto esclusivamente in specifiche province all'interno dell'Emilia-Romagna e di Mantova."
+    },
+    {
+      "category": "animali",
+      "question": "Qual è il periodo di gestazione di un elefante africano, il più lungo tra tutti i mammiferi terrestri?",
+      "options": [
+        "Circa 16 mesi",
+        "Circa 22 mesi",
+        "Circa 12 mesi",
+        "Circa 28 mesi"
+      ],
+      "answer_index": 1,
+      "fun_fact": "A causa di questo periodo di gestazione straordinariamente lungo, pari a circa 22 mesi, le popolazioni di elefanti impiegano molto tempo a riprendersi."
+    },
+    {
+      "category": "sport",
+      "question": "Nel football americano, quanti giocatori di una singola squadra sono in campo durante un'azione di gioco standard?",
+      "options": [
+        "12",
+        "11",
+        "10",
+        "9"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Ogni squadra schiera 11 giocatori, il che significa che ci sono in totale 22 giocatori sul campo in ogni dato momento."
+    },
+    {
+      "category": "linguistica",
+      "question": "Come si definiscono le parole che si scrivono e si pronunciano in modo identico ma hanno significati completamente diversi in base al contesto?",
+      "options": [
+        "Omografi",
+        "Omofoni",
+        "Eteronimi",
+        "Omonimi"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Mentre gli omonimi condividono sia l'ortografia che la pronuncia, gli omografi condividono solo l'ortografia e gli omofoni solo il suono."
+    },
+    {
+      "category": "spazio",
+      "question": "Quale sonda detiene il record di oggetto realizzato dall'uomo più distante in assoluto dalla Terra?",
+      "options": [
+        "Voyager 1",
+        "New Horizons",
+        "Pioneer 10",
+        "Voyager 2"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Lanciata nel 1977, la Voyager 1 ha superato l'eliopausa ed è entrata nello spazio interstellare."
+    },
+    {
+      "category": "geografia",
+      "question": "L'isola di Hispaniola nei Caraibi è condivisa da quali due nazioni sovrane?",
+      "options": [
+        "Cuba e Giamaica",
+        "Bahamas e Porto Rico",
+        "Trinidad e Tobago",
+        "Haiti e Repubblica Dominicana"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Hispaniola è la seconda isola più grande delle Antille e una delle isole politicamente più divise al mondo."
+    }
+  ]
+}

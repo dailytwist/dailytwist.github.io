@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-29",
+  "slug": "causative-have-get",
+  "cefr": "B2",
+  "cat": "grammar",
+  "emoji": "🛠️",
+  "title": "Farsi fare qualcosa da altri",
+  "summary": "Scopri come usare 'have' e 'get something done' quando paghiamo qualcun altro per fare un lavoro al posto nostro. Riuscirai a parlare facilmente di tagli di capelli, riparazioni e servizi professionali.",
+  "sections": [
+    {
+      "h": "Quando usare questa grammatica",
+      "p": "Usiamo 'have something done' o 'get something done' quando non facciamo qualcosa di persona. Invece, paghiamo o chiediamo a un'altra persona, come un professionista, di farlo per noi. La struttura è: soggetto + have/get + oggetto + participio passato (V3). Ad esempio, non ti tagli i capelli da solo; lasci che sia un parrucchiere a farlo.",
+      "ex": [
+        {
+          "en": "I had my hair cut yesterday.",
+          "mean": "Un parrucchiere mi ha tagliato i capelli."
+        },
+        {
+          "en": "She is getting her car repaired tomorrow.",
+          "mean": "Un meccanico le riparerà la macchina."
+        }
+      ]
+    },
+    {
+      "h": "Have vs. Get",
+      "p": "Sia 'have something done' che 'get something done' significano esattamente la stessa cosa. Tuttavia, 'get something done' è di solito un po' più informale ed è comunissimo nell'inglese parlato di tutti i giorni. 'Have something done' può sembrare leggermente più formale o tradizionale, ma i madrelingua li usano entrambi continuamente.",
+      "ex": [
+        {
+          "en": "We need to have our roof fixed before winter.",
+          "mean": "Abbiamo bisogno di operai che riparino il nostro tetto."
+        },
+        {
+          "en": "I need to get my passport renewed soon.",
+          "mean": "Ho bisogno che le autorità mi rilascino un nuovo passaporto."
+        }
+      ]
+    },
+    {
+      "h": "Usare i diversi tempi verbali",
+      "p": "Puoi coniugare il verbo 'have' o 'get' in qualsiasi tempo verbale di cui hai bisogno. Puoi usarlo al passato, al futuro, con i verbi modali o al presente continuo. Ricorda che l'azione principale alla fine rimane sempre nella forma del participio passato (V3).",
+      "ex": [
+        {
+          "en": "He has his groceries delivered every week.",
+          "mean": "Un fattorino gli porta il cibo tutte le settimane."
+        },
+        {
+          "en": "They will have their house painted next month.",
+          "mean": "Dei imbianchini dipingeranno la loro casa."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "have something done",
+      "mean": "organizzare un servizio"
+    },
+    {
+      "en": "get something done",
+      "mean": "pagare qualcuno per lavorare"
+    },
+    {
+      "en": "past participle",
+      "mean": "terza forma del verbo"
+    },
+    {
+      "en": "professional",
+      "mean": "lavoratore qualificato"
+    },
+    {
+      "en": "mechanic",
+      "mean": "riparatore d'auto"
+    },
+    {
+      "en": "hairdresser",
+      "mean": "tagliatore di capelli"
+    },
+    {
+      "en": "deliver",
+      "mean": "portare merci"
+    }
+  ],
+  "tip": "Pensa a un servizio per cui paghi ogni mese, come un taglio di capelli o una visita di controllo dal dentista. Crea una frase reale a riguardo usando 'I have my...' per ricordarti la struttura.",
+  "quiz": [
+    {
+      "ask": "Scegli la forma corretta per completare la frase",
+      "en": "I usually ___ my hair cut at the new salon downtown.",
+      "choices": [
+        "have",
+        "make",
+        "do",
+        "take"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Scegli il participio passato corretto",
+      "en": "She is getting her laptop ___ right now because it broke.",
+      "choices": [
+        "repair",
+        "repairing",
+        "repaired",
+        "repairs"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Seleziona la frase corretta per questa situazione: Un imbianchino ha dipinto la nostra casa ieri.",
+      "en": "We had our house ___ yesterday.",
+      "choices": [
+        "paint",
+        "painting",
+        "to paint",
+        "painted"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Scegli la frase modale corretta",
+      "en": "You should ___ your eyes tested this week.",
+      "choices": [
+        "have",
+        "has",
+        "had",
+        "having"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Identifica il significato corretto",
+      "en": "What does 'I am having my car washed' mean?",
+      "choices": [
+        "I am washing my car by myself.",
+        "I am paying someone to wash my car.",
+        "I want to buy a new car.",
+        "My car is very clean."
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Completa il piano per il futuro",
+      "en": "They will ___ their photos printed tomorrow.",
+      "choices": [
+        "get",
+        "getting",
+        "got",
+        "gets"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

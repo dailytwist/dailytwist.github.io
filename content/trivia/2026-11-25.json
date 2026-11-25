@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-25",
+  "title": "Daily Trivia Challenge: November 25, 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Which country is the only one in South America that has coastlines on both the Pacific Ocean and the Caribbean Sea?",
+      "options": [
+        "Venezuela",
+        "Ecuador",
+        "Peru",
+        "Colombia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Colombia's strategic geographical position makes it a biological hotspot as the gateway to South America."
+    },
+    {
+      "category": "science",
+      "question": "What is the atomic number of the chemical element carbon?",
+      "options": [
+        "8",
+        "12",
+        "14",
+        "6"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Carbon's atomic number of 6 means every carbon atom has 6 protons in its nucleus."
+    },
+    {
+      "category": "history",
+      "question": "The historic Magna Carta was sealed in 1215 by King John at which English meadow?",
+      "options": [
+        "York",
+        "Hastings",
+        "Runnymede",
+        "Bosworth"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Runnymede is located near the River Thames in the county of Surrey, England."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Which animated feature film won the very first Academy Award for Best Animated Feature?",
+      "options": [
+        "Monsters, Inc.",
+        "Shrek",
+        "Beauty and the Beast",
+        "Toy Story"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Shrek won the inaugural Best Animated Feature Oscar at the 74th Academy Awards in 2002."
+    },
+    {
+      "category": "food",
+      "question": "Parmigiano-Reggiano cheese originates from which region of Italy?",
+      "options": [
+        "Lombardy",
+        "Campania",
+        "Tuscany",
+        "Emilia-Romagna"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Authentic Parmigiano-Reggiano can only be produced in specific provinces within Emilia-Romagna and Mantua."
+    },
+    {
+      "category": "animals",
+      "question": "What is the gestation period of an African elephant, the longest of any land mammal?",
+      "options": [
+        "About 16 months",
+        "About 22 months",
+        "About 12 months",
+        "About 28 months"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Because of this extraordinarily long gestation period of roughly 22 months, elephant populations take a long time to recover."
+    },
+    {
+      "category": "sports",
+      "question": "In American football, how many players are on the field for a single team during standard play?",
+      "options": [
+        "12",
+        "11",
+        "10",
+        "9"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Each team fields 11 players, meaning there are 22 total players on the gridiron at any given time."
+    },
+    {
+      "category": "language",
+      "question": "What term describes words that are spelled and pronounced identically but have completely different meanings based on context?",
+      "options": [
+        "Homographs",
+        "Homophones",
+        "Heteronyms",
+        "Homonyms"
+      ],
+      "answer_index": 3,
+      "fun_fact": "While homonyms share both spelling and pronunciation, homographs share spelling only, and homophones share sound only."
+    },
+    {
+      "category": "space",
+      "question": "Which spacecraft holds the record for being the farthest human-made object from Earth?",
+      "options": [
+        "Voyager 1",
+        "New Horizons",
+        "Pioneer 10",
+        "Voyager 2"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Launched in 1977, Voyager 1 has traveled beyond the heliopause and entered interstellar space."
+    },
+    {
+      "category": "geography",
+      "question": "The island of Hispaniola in the Caribbean is shared by which two sovereign nations?",
+      "options": [
+        "Cuba and Jamaica",
+        "The Bahamas and Puerto Rico",
+        "Trinidad and Tobago",
+        "Haiti and the Dominican Republic"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Hispaniola is the second-largest island in the Antilles and one of the most politically divided islands in the world."
+    }
+  ]
+}

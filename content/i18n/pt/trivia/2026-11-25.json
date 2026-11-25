@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-25",
+  "title": "Desafio de Trivia Diário: 25 de novembro de 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Qual é o único país da América do Sul que possui litoral tanto no Oceano Pacífico quanto no Mar do Caribe?",
+      "options": [
+        "Venezuela",
+        "Equador",
+        "Peru",
+        "Colômbia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A posição geográfica estratégica da Colômbia faz dela um ponto crítico de biodiversidade, funcionando como a porta de entrada para a América do Sul."
+    },
+    {
+      "category": "ciência",
+      "question": "Qual é o número atômico do elemento químico carbono?",
+      "options": [
+        "8",
+        "12",
+        "14",
+        "6"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O número atômico 6 do carbono significa que cada átomo de carbono possui 6 prótons em seu núcleo."
+    },
+    {
+      "category": "história",
+      "question": "A histórica Magna Carta foi selada em 1215 pelo Rei João em qual prado inglês?",
+      "options": [
+        "York",
+        "Hastings",
+        "Runnymede",
+        "Bosworth"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Runnymede fica localizado perto do Rio Tâmisa, no condado de Surrey, na Inglaterra."
+    },
+    {
+      "category": "filmes e cultura pop",
+      "question": "Qual longa-metragem de animação ganhou o primeiro Oscar de Melhor Filme de Animação da história?",
+      "options": [
+        "Monsters, Inc.",
+        "Shrek",
+        "A Bela e a Fera",
+        "Toy Story"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Shrek ganhou o prêmio inaugural de Melhor Filme de Animação no Oscar na 74ª edição da premiação, em 2002."
+    },
+    {
+      "category": "comida",
+      "question": "O queijo Parmigiano-Reggiano é originário de qual região da Itália?",
+      "options": [
+        "Lombardia",
+        "Campânia",
+        "Toscana",
+        "Emília-Romanha"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O autêntico Parmigiano-Reggiano só pode ser produzido em províncias específicas dentro da Emília-Romanha e de Mântua."
+    },
+    {
+      "category": "animais",
+      "question": "Qual é o período de gestação de um elefante africano, o mais longo entre todos os mamíferos terrestres?",
+      "options": [
+        "Cerca de 16 meses",
+        "Cerca de 22 meses",
+        "Cerca de 12 meses",
+        "Cerca de 28 meses"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Devido a esse período de gestação extraordinariamente longo de aproximadamente 22 meses, as populações de elefantes levam muito tempo para se recuperar."
+    },
+    {
+      "category": "esportes",
+      "question": "No futebol americano, quantos jogadores ficam em campo por um único time durante uma jogada padrão?",
+      "options": [
+        "12",
+        "11",
+        "10",
+        "9"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Cada time coloca 11 jogadores em campo, o que significa que há um total de 22 jogadores no gramado a qualquer momento."
+    },
+    {
+      "category": "idioma",
+      "question": "Qual termo descreve palavras que são grafadas e pronunciadas de forma idêntica, mas têm significados completamente diferentes com base no contexto?",
+      "options": [
+        "Homógrafos",
+        "Homófonos",
+        "Heterônimos",
+        "Homônimos"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Enquanto os homônimos compartilham tanto a grafia quanto a pronúncia, os homógrafos compartilham apenas a grafia, e os homófonos compartilham apenas o som."
+    },
+    {
+      "category": "espaço",
+      "question": "Qual espaçonave detém o recorde de ser o objeto feito pelo homem mais distante da Terra?",
+      "options": [
+        "Voyager 1",
+        "New Horizons",
+        "Pioneer 10",
+        "Voyager 2"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Lançada em 1977, a Voyager 1 foi além da heliopausa e entrou no espaço interestelar."
+    },
+    {
+      "category": "geografia",
+      "question": "A ilha de Hispaniola, no Caribe, é compartilhada por quais duas nações soberanas?",
+      "options": [
+        "Cuba e Jamaica",
+        "Bahamas e Porto Rico",
+        "Trinidad e Tobago",
+        "Haiti e República Dominicana"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Hispaniola é a segunda maior ilha das Antilhas e uma das ilhas politicamente mais divididas do mundo."
+    }
+  ]
+}

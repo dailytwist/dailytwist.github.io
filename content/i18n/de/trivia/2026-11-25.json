@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-25",
+  "title": "Tägliches Quiz-Duell: 25. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches ist das einzige Land in Südamerika, das sowohl Küsten am Pazifischen Ozean als auch am Karibischen Meer besitzt?",
+      "options": [
+        "Venezuela",
+        "Ecuador",
+        "Peru",
+        "Kolumbien"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Kolumbiens strategische geografische Lage macht es als Tor zu Südamerika zu einem wahren Biodiversitäts-Hotspot."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist die Ordnungszahl des chemischen Elements Kohlenstoff?",
+      "options": [
+        "8",
+        "12",
+        "14",
+        "6"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Die Ordnungszahl 6 bedeutet, dass jedes Kohlenstoffatom genau 6 Protonen in seinem Kern hat."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Auf welcher englischen Wiese besiegelte König John (Ohneland) im Jahr 1215 die historische Magna Carta?",
+      "options": [
+        "York",
+        "Hastings",
+        "Runnymede",
+        "Bosworth"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Runnymede liegt in der Nähe der Themse in der englischen Grafschaft Surrey."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Welcher Animationsfilm gewann den allerersten Oscar für den besten animierten Spielfilm?",
+      "options": [
+        "Die Monster AG",
+        "Shrek",
+        "Die Schöne und das Biest",
+        "Toy Story"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Shrek gewann den allerersten Oscar für den besten animierten Spielfilm bei der 74. Oscar-Verleihung im Jahr 2002."
+    },
+    {
+      "category": "Essen",
+      "question": "Aus welcher Region Italiens stammt der Parmigiano-Reggiano-Käse?",
+      "options": [
+        "Lombardei",
+        "Kampanien",
+        "Toskana",
+        "Emilia-Romagna"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Echter Parmigiano-Reggiano darf nur in bestimmten Provinzen der Emilia-Romagna und Mantua hergestellt werden."
+    },
+    {
+      "category": "Tiere",
+      "question": "Wie lang ist die Tragzeit eines Afrikanischen Elefanten, die längste aller Landsäugetiere?",
+      "options": [
+        "Etwa 16 Monate",
+        "Etwa 22 Monate",
+        "Etwa 12 Monate",
+        "Etwa 28 Monate"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Wegen dieser unglaublich langen Trächtigkeitsdauer von rund 22 Monaten brauchen Elefantenpopulationen sehr lange, um sich zu erholen."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Spieler einer einzelnen Mannschaft stehen beim American Football während des regulären Spielzugs auf dem Feld?",
+      "options": [
+        "12",
+        "11",
+        "10",
+        "9"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Jedes Team schickt 11 Spieler aufs Feld, was bedeutet, dass sich zu jedem Zeitpunkt insgesamt 22 Spieler auf dem Rasen befinden."
+    },
+    {
+      "category": "Sprache",
+      "question": "Welcher Begriff bezeichnet Wörter, die gleich geschrieben und ausgesprochen werden, aber je nach Kontext eine völlig unterschiedliche Bedeutung haben?",
+      "options": [
+        "Homografen",
+        "Homophone",
+        "Heteronyme",
+        "Homonyme"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Während Homonyme sowohl in der Schreibweise als auch in der Aussprache übereinstimmen, weisen Homografen nur die gleiche Schreibweise und Homophone nur den gleichen Klang auf."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welche Raumsonde hält den Rekord als das am weitesten von der Erde entfernte von Menschen geschaffene Objekt?",
+      "options": [
+        "Voyager 1",
+        "New Horizons",
+        "Pioneer 10",
+        "Voyager 2"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Die 1977 gestartete Voyager 1 hat die Heliosphäre hinter sich gelassen und ist in den interstellaren Raum vorgedrungen."
+    },
+    {
+      "category": "Geografie",
+      "question": "Welche zwei souveränen Staaten teilen sich die Karibikinsel Hispaniola?",
+      "options": [
+        "Kuba und Jamaika",
+        "Die Bahamas und Puerto Rico",
+        "Trinidad und Tobago",
+        "Haiti und die Dominikanische Republik"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Hispaniola ist die zweitgrößte Insel der Antillen und eine der politisch am stärksten geteilten Inseln der Welt."
+    }
+  ]
+}

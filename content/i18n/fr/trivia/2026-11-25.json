@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-25",
+  "title": "Défi Trivia Quotidien : 25 novembre 2026",
+  "questions": [
+    {
+      "category": "géographie",
+      "question": "Quel est le seul pays d'Amérique du Sud à posséder des côtes à la fois sur l'océan Pacifique et sur la mer des Caraïbes ?",
+      "options": [
+        "Venezuela",
+        "Équateur",
+        "Pérou",
+        "Colombie"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La position géographique stratégique de la Colombie en fait un haut lieu de la biodiversité, servant de porte d'entrée vers l'Amérique du Sud."
+    },
+    {
+      "category": "science",
+      "question": "Quel est le numéro atomique de l'élément chimique carbone ?",
+      "options": [
+        "8",
+        "12",
+        "14",
+        "6"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Le numéro atomique 6 du carbone signifie que chaque atome de carbone possède 6 protons dans son noyau."
+    },
+    {
+      "category": "histoire",
+      "question": "Dans quelle prairie anglaise la célèbre Magna Carta a-t-elle été scellée en 1215 par le roi Jean ?",
+      "options": [
+        "York",
+        "Hastings",
+        "Runnymede",
+        "Bosworth"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Runnymede est situé près de la Tamise dans le comté de Surrey, en Angleterre."
+    },
+    {
+      "category": "films et pop culture",
+      "question": "Quel film d'animation a remporté le tout premier Oscar du meilleur film d'animation ?",
+      "options": [
+        "Monstres et Cie",
+        "Shrek",
+        "La Belle et la Bête",
+        "Toy Story"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Shrek a remporté le tout premier Oscar du meilleur film d'animation lors de la 74e cérémonie des Academy Awards en 2002."
+    },
+    {
+      "category": "gastronomie",
+      "question": "De quelle région d'Italie le parmesan (Parmigiano-Reggiano) est-il originaire ?",
+      "options": [
+        "Lombardie",
+        "Campanie",
+        "Toscane",
+        "Émilie-Romagne"
+      ],
+      "answer_index": 3,
+      "fun_fact": "L'authentique Parmigiano-Reggiano ne peut être produit que dans certaines provinces spécifiques d'Émilie-Romagne et de Mantoue."
+    },
+    {
+      "category": "animaux",
+      "question": "Quelle est la durée de gestation de l'éléphant d'Afrique, la plus longue de tous les mammifères terrestres ?",
+      "options": [
+        "Environ 16 mois",
+        "Environ 22 mois",
+        "Environ 12 mois",
+        "Environ 28 mois"
+      ],
+      "answer_index": 1,
+      "fun_fact": "En raison de cette période de gestation exceptionnellement longue d'environ 22 mois, les populations d'éléphants mettent beaucoup de temps à se reconstituer."
+    },
+    {
+      "category": "sport",
+      "question": "Au football américain, combien de joueurs d'une même équipe sont sur le terrain pendant une phase de jeu standard ?",
+      "options": [
+        "12",
+        "11",
+        "10",
+        "9"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Chaque équipe aligne 11 joueurs, ce qui fait un total de 22 joueurs sur le terrain à tout moment."
+    },
+    {
+      "category": "langue",
+      "question": "Quel terme désigne des mots qui s'écrivent et se prononcent de la même façon mais ont des sens complètement différents selon le contexte ?",
+      "options": [
+        "Homographes",
+        "Homophones",
+        "Hétéronymes",
+        "Homonymes"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Alors que les homonymes partagent à la fois l'orthographe et la prononciation, les homographes ne partagent que l'orthographe, et les homophones que le son."
+    },
+    {
+      "category": "espace",
+      "question": "Quelle sonde spatiale détient le record de l'objet fabriqué par l'homme le plus éloigné de la Terre ?",
+      "options": [
+        "Voyager 1",
+        "New Horizons",
+        "Pioneer 10",
+        "Voyager 2"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Lancée en 1977, Voyager 1 a franchi l'héliopause et est entrée dans l'espace interstellaire."
+    },
+    {
+      "category": "géographie",
+      "question": "L'île d'Hispaniola, dans les Caraïbes, est partagée entre quels deux pays souverains ?",
+      "options": [
+        "Cuba et la Jamaïque",
+        "Les Bahamas et Porto Rico",
+        "Trinité-et-Tobago",
+        "Haïti et la République dominicaine"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Hispaniola est la deuxième plus grande île des Antilles et l'une des îles les plus divisées sur le plan politique dans le monde."
+    }
+  ]
+}

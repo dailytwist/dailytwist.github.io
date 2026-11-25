@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-24",
+  "title": "Tägliche Quiz-Herausforderung: 24. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches Land hat die längste Küstenlinie der Welt?",
+      "options": [
+        "Kanada",
+        "Russland",
+        "Australien",
+        "Indonesien"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Kanada grenzt an drei verschiedene Ozeane – den Atlantik, den Pazifik und das Arktische Meer –, was ihm eine gewaltige und verzweigte Küstenlinie verleiht."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist das härteste von Natur aus vorkommende Mineral auf der Mohs-Skala?",
+      "options": [
+        "Korund",
+        "Topas",
+        "Diamant",
+        "Quarz"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Diamant befindet sich mit dem absoluten Maximum von 10 auf der Mohs-Skala der Mineralhärte."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Welche Region verband das antike Handelsnetzwerk, das als Seidenstraße bekannt ist, hauptsächlich mit China?",
+      "options": [
+        "Der Mittelmeerraum",
+        "Subsahara-Afrika",
+        "Nordamerika",
+        "Skandinavien"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Die Seidenstraße war ein riesiges eurasisches Handelsnetz, das von der Han-Dynastie bis zu dem Zeitpunkt aktiv war, als das Osmanische Reich den Handel mit dem Westen boykottierte."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Welcher unter der Regie von Ridley Scott entstandene Science-Fiction-Film aus dem Jahr 1982 enthält den berühmten Monolog „Tränen im Regen“, vorgetragen von Rutger Hauer?",
+      "options": [
+        "E.T. – Der Außerirdische",
+        "Blade Runner",
+        "Das Ding aus einer anderen Welt",
+        "Tron"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Rutger Hauer improvisierte einen beträchtlichen Teil seines ikonischen, poetischen Monologs gegen Ende von Blade Runner."
+    },
+    {
+      "category": "Essen & Trinken",
+      "question": "Welche Spirituose ist die Hauptzutat eines traditionellen kubanischen Mojito-Cocktails?",
+      "options": [
+        "Gin",
+        "Rum",
+        "Tequila",
+        "Wodka"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Ein klassischer Mojito kombiniert weißen Rum, Zucker, Limettensaft, Sodawasser und frische Minze."
+    },
+    {
+      "category": "Tiere",
+      "question": "Woraus besteht die Hauptnahrung eines Großen Pandas?",
+      "options": [
+        "Eukalyptusblätter",
+        "Bambus",
+        "Insekten",
+        "Fisch"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Große Pandas verbringen bis zu 12 Stunden am Tag damit, Bambus zu kauen und zu fressen, um ihren täglichen Nährstoffbedarf zu decken."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Punkte werden bei den modernen Olympischen Spielen für einen Sieg mit einer Goldmedaille bei Standardwertung vergeben, die traditionell durch das Stehen auf dem Podium repräsentiert wird?",
+      "options": [
+        "Keine",
+        "Drei",
+        "Fünf",
+        "Eins"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Bei den Olympischen Spielen werden in der Gesamtmedaillenbilanz Medaillen (Gold, Silber, Bronze) anstelle von Punktwerten vergeben."
+    },
+    {
+      "category": "Sprache",
+      "question": "Welcher sprachliche Begriff beschreibt Wörter, die gleich geschrieben werden, aber unterschiedliche Bedeutungen und manchmal eine unterschiedliche Aussprache haben?",
+      "options": [
+        "Antonyme",
+        "Homophone",
+        "Synonyme",
+        "Homografen"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Homografen haben eine identische Schreibweise, was im geschriebenen Wort oft zu amüsanten Mehrdeutigkeiten führen kann."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Mond des Saturn ist der zweitgrößte im Sonnensystem und besitzt eine dichte, stickstoffreiche Atmosphäre?",
+      "options": [
+        "Io",
+        "Titan",
+        "Ganymed",
+        "Europa"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Titan ist das einzige bekannte Objekt im Weltraum außer der Erde, das stabile Ansammlungen von Flüssigkeit an der Oberfläche aufweist, wenngleich diese aus Methan und Ethan bestehen."
+    },
+    {
+      "category": "Geografie",
+      "question": "Welcher tief im westlichen Pazifischen Ozean gelegene Tiefseegraben enthält den tiefsten bekannten Punkt der Erde?",
+      "options": [
+        "Peru-Chile-Graben",
+        "Marianengraben",
+        "Java-Graben",
+        "Puerto-Rico-Graben"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Das Witjasez-Tief 1 bzw. das Challenger-Tief im Marianengraben fällt auf eine Tiefe von rund 11.000 Metern unter der Meeresoberfläche ab."
+    }
+  ]
+}
