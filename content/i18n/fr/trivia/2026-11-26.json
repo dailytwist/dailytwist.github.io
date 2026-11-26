@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-26",
+  "title": "Quiz de culture générale : 26 novembre 2026",
+  "questions": [
+    {
+      "category": "géographie",
+      "question": "Quel micro-état européen est entièrement entouré par l'Italie ?",
+      "options": [
+        "Andorre",
+        "Saint-Marin",
+        "Liechtenstein",
+        "Monaco"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Saint-Marin est généralement considéré comme la plus ancienne république souveraine au monde, fondée en l'an 301 de notre ère."
+    },
+    {
+      "category": "science",
+      "question": "Quel est le symbole chimique de l'élément or ?",
+      "options": [
+        "Ag",
+        "Go",
+        "Gd",
+        "Au"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Le symbole 'Au' vient d'« aurum », le mot latin pour l'or, qui se traduit par « aube brillante »."
+    },
+    {
+      "category": "histoire",
+      "question": "Qui a été la première femme Premier ministre du Royaume-Uni ?",
+      "options": [
+        "La reine Victoria",
+        "Margaret Thatcher",
+        "Indira Gandhi",
+        "Theresa May"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Margaret Thatcher a exercé ses fonctions de Premier ministre de 1979 à 1990, ce qui lui a valu le surnom de « Dame de fer »."
+    },
+    {
+      "category": "films et pop culture",
+      "question": "Quel film d'animation des studios Disney sorti en 1994 inclut la chanson « L'Histoire de la vie » ?",
+      "options": [
+        "Le Roi Lion",
+        "Hercule",
+        "Aladdin",
+        "Mulan"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Elton John et Tim Rice ont composé la musique et les paroles mémorables du « Roi Lion »."
+    },
+    {
+      "category": "gastronomie",
+      "question": "De quel pays est traditionnellement originaire la pâtisserie salée connue sous le nom d'empanada ?",
+      "options": [
+        "Espagne",
+        "Thaïlande",
+        "Grèce",
+        "Japon"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le nom « empanada » vient du verbe espagnol empanar, qui signifie envelopper ou enrober de pain."
+    },
+    {
+      "category": "animaux",
+      "question": "Quel est le mammifère terrestre le plus rapide au monde sur de courtes distances ?",
+      "options": [
+        "Guépard",
+        "Lévrier",
+        "Lion",
+        "Pronghorn"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Un guépard peut passer de 0 à 100 km/h en seulement trois secondes, soit plus rapidement que de nombreuses voitures de sport modernes."
+    },
+    {
+      "category": "sport",
+      "question": "Dans une partie de golf standard, combien de trous composent un parcours complet ?",
+      "options": [
+        "18",
+        "21",
+        "12",
+        "9"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le parcours standard de 18 trous trouve ses origines sur le site historique de St Andrews Links en Écosse au XVIIIe siècle."
+    },
+    {
+      "category": "langue",
+      "question": "Quel terme linguistique désigne des mots ayant des sens opposés, comme « chaud » et « froid » ?",
+      "options": [
+        "Antonymes",
+        "Acronymes",
+        "Homophones",
+        "Synonymes"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Le mot « antonyme » vient des mots grecs « anti » qui signifie opposé et « onym » qui signifie nom."
+    },
+    {
+      "category": "espace",
+      "question": "Quelle planète de notre système solaire est connue pour posséder le système d'anneaux le plus vaste et le plus complexe ?",
+      "options": [
+        "Jupiter",
+        "Uranus",
+        "Saturne",
+        "Neptune"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Les anneaux de Saturne sont principalement composés de blocs de glace d'eau, avec des proportions moindres de débris rocheux et de poussière."
+    },
+    {
+      "category": "géographie",
+      "question": "Le désert du Namib, célèbre pour ses dunes de sable rouge saisissantes, se situe principalement dans quel pays ?",
+      "options": [
+        "Chili",
+        "Mongolie",
+        "Australie",
+        "Namibie"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Le Namib est largement considéré comme le plus vieux désert du monde, ayant connu des conditions arides ou semi-arides pendant au moins 55 millions d'années."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-26",
+  "title": "Trivia de Conhecimentos Gerais: 26 de novembro de 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Qual microestado europeu é inteiramente cercado pela Itália?",
+      "options": [
+        "Andorra",
+        "San Marino",
+        "Liechtenstein",
+        "Mônaco"
+      ],
+      "answer_index": 1,
+      "fun_fact": "San Marino é amplamente considerado a república soberana mais antiga do mundo ainda em existência, fundada no ano de 301 d.C."
+    },
+    {
+      "category": "science",
+      "question": "Qual é o símbolo químico do elemento ouro?",
+      "options": [
+        "Ag",
+        "Go",
+        "Gd",
+        "Au"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O símbolo 'Au' vem de 'aurum', a palavra em latim para ouro, que significa 'amanhecer brilhante'."
+    },
+    {
+      "category": "history",
+      "question": "Quem foi a primeira mulher a ocupar o cargo de Primeira-Ministra do Reino Unido?",
+      "options": [
+        "Rainha Victoria",
+        "Margaret Thatcher",
+        "Indira Gandhi",
+        "Theresa May"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Margaret Thatcher atuou como Primeira-Ministra de 1979 a 1990, ganhando o apelido de 'A Dama de Ferro'."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Qual animação da Disney de 1994 apresenta a música 'Circle of Life'?",
+      "options": [
+        "O Rei Leão",
+        "Hércules",
+        "Aladdin",
+        "Mulan"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Elton John e Tim Rice compuseram a música e a letra memoráveis para 'O Rei Leão'."
+    },
+    {
+      "category": "food",
+      "question": "De qual país se originou tradicionalmente o salgado conhecido como empanada?",
+      "options": [
+        "Espanha",
+        "Tailândia",
+        "Grécia",
+        "Japão"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O nome 'empanada' vem do verbo espanhol empanar, que significa envolver ou cobrir com pão."
+    },
+    {
+      "category": "animals",
+      "question": "Qual é o mamífero terrestre mais rápido do mundo em curtas distâncias?",
+      "options": [
+        "Guepardo",
+        "Galgo",
+        "Leão",
+        "Antilocapra"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Um guepardo pode acelerar de 0 a 100 km/h em apenas três segundos, mais rápido do que muitos carros esportivos modernos."
+    },
+    {
+      "category": "sports",
+      "question": "Em uma partida padrão de golfe, quantos buracos são jogados em uma rodada completa?",
+      "options": [
+        "18",
+        "21",
+        "12",
+        "9"
+      ],
+      "answer_index": 0,
+      "fun_fact": "A rodada padrão de 18 buracos teve origem no histórico St Andrews Links, na Escócia, durante o século XVIII."
+    },
+    {
+      "category": "language",
+      "question": "Qual termo linguístico é usado para palavras que têm significados opostos, como 'quente' e 'frio'?",
+      "options": [
+        "Antônimos",
+        "Acrônimos",
+        "Homófonos",
+        "Sinônimos"
+      ],
+      "answer_index": 0,
+      "fun_fact": "A palavra 'antônimo' deriva das palavras gregas 'anti', que significa oposto, e 'onym', que significa nome."
+    },
+    {
+      "category": "space",
+      "question": "Qual planeta do nosso sistema solar é conhecido por ter o sistema de anéis mais proeminente e complexo?",
+      "options": [
+        "Júpiter",
+        "Urano",
+        "Saturno",
+        "Netuno"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Os anéis de Saturno são compostos principalmente de pedaços de gelo de água, com menores quantidades de detritos rochosos e poeira."
+    },
+    {
+      "category": "geography",
+      "question": "O Deserto do Namibe, conhecido por suas impressionantes dunas de areia vermelha, fica localizado principalmente em qual país?",
+      "options": [
+        "Chile",
+        "Mongólia",
+        "Austrália",
+        "Namíbia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "O Namibe é amplamente considerado o deserto mais antigo do mundo, tendo resistido a condições áridas ou semiáridas por pelo menos 55 milhões de anos."
+    }
+  ]
+}

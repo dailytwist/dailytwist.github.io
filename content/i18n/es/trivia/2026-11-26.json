@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-26",
+  "title": "Trivia de Cultura General: 26 de noviembre de 2026",
+  "questions": [
+    {
+      "category": "geografía",
+      "question": "¿Qué microestado europeo está completamente rodeado por Italia?",
+      "options": [
+        "Andorra",
+        "San Marino",
+        "Liechtenstein",
+        "Mónaco"
+      ],
+      "answer_index": 1,
+      "fun_fact": "San Marino es considerado ampliamente como la república soberana más antigua del mundo, fundada en el año 301 d. C."
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Cuál es el símbolo químico del elemento oro?",
+      "options": [
+        "Ag",
+        "Go",
+        "Gd",
+        "Au"
+      ],
+      "answer_index": 3,
+      "fun_fact": "El símbolo 'Au' proviene de 'aurum', la palabra en latín para el oro, que se traduce como 'amanecer brillante'."
+    },
+    {
+      "category": "historia",
+      "question": "¿Quién fue la primera mujer en ocupar el cargo de Primera Ministra del Reino Unido?",
+      "options": [
+        "Reina Victoria",
+        "Margaret Thatcher",
+        "Indira Gandhi",
+        "Theresa May"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Margaret Thatcher ejerció como Primera Ministra de 1979 a 1990, ganándose el apodo de 'La Dama de Hierro'."
+    },
+    {
+      "category": "cine y cultura pop",
+      "question": "¿Qué película animada de Disney de 1994 incluye la canción 'El ciclo de la vida'?",
+      "options": [
+        "El Rey León",
+        "Hércules",
+        "Aladdín",
+        "Mulán"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Elton John y Tim Rice compusieron la inolvidable música y letra de 'El Rey León'."
+    },
+    {
+      "category": "gastronomía",
+      "question": "¿De qué país es originaria tradicionalmente la masa salada conocida como empanada?",
+      "options": [
+        "España",
+        "Tailandia",
+        "Grecia",
+        "Japón"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El nombre 'empanada' proviene del verbo español empanar, que significa envolver o cubrir con pan."
+    },
+    {
+      "category": "animales",
+      "question": "¿Cuál es el mamífero terrestre más rápido del mundo en distancias cortas?",
+      "options": [
+        "Guepardo",
+        "Galgo",
+        "León",
+        "Berrendo"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Un guepardo puede acelerar de 0 a 60 millas por hora en apenas tres segundos, más rápido que muchos coches deportivos modernos."
+    },
+    {
+      "category": "deportes",
+      "question": "En un partido de golf estándar, ¿cuántos hoyos se juegan en una ronda completa?",
+      "options": [
+        "18",
+        "21",
+        "12",
+        "9"
+      ],
+      "answer_index": 0,
+      "fun_fact": "La ronda estándar de 18 hoyos se originó en el histórico campo St Andrews Links en Escocia durante el siglo XVIII."
+    },
+    {
+      "category": "lenguaje",
+      "question": "¿Qué término lingüístico se utiliza para las palabras que tienen significados opuestos, como 'caliente' y 'frío'?",
+      "options": [
+        "Antónimos",
+        "Acrónimos",
+        "Homófonos",
+        "Sinónimos"
+      ],
+      "answer_index": 0,
+      "fun_fact": "La palabra 'antónimo' deriva de las palabras griegas 'anti', que significa opuesto, y 'onym', que significa nombre."
+    },
+    {
+      "category": "espacio",
+      "question": "¿Qué planeta de nuestro sistema solar es conocido por tener el sistema de anillos más prominente y complejo?",
+      "options": [
+        "Júpiter",
+        "Urano",
+        "Saturno",
+        "Neptuno"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Los anillos de Saturno están compuestos principalmente de fragmentos de hielo de agua con menores cantidades de polvo y restos rocosos."
+    },
+    {
+      "category": "geografía",
+      "question": "¿En qué país se encuentra principalmente el desierto de Namib, conocido por sus llamativas dunas de arena roja?",
+      "options": [
+        "Chile",
+        "Mongolia",
+        "Australia",
+        "Namibia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "El Namib es considerado por muchos el desierto más antiguo del mundo, ya que ha soportado condiciones áridas o semiáridas durante al menos 55 millones de años."
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-26",
+  "signs": {
+    "aries": {
+      "overview": "Frohes Thanksgiving, feuriger Widder! Dieser Donnerstag bringt einen fröhlichen Energieschub direkt an deinen Festtagstisch und macht dich zum Mittelpunkt des Festes sowie zum unbestrittenen Champion der schlagfertigen Witze. Während andere nach dem Hauptgang vielleicht in ein Fresskoma fallen, brennt dein abenteuerlustiger Geist auf einen spontanen Spaziergang nach dem Essen oder einen improvisierten Spieleabend. Genieße die Wärme von Familie und Wahlverwandten, aber vergiss nicht, ab und zu auch andere ins Rampenlicht zu lassen. Deine natürliche Führungsstärke strahlt am hellsten, wenn du den Spaß orchestrierst, anstatt dich durch die Feierlichkeiten zu hetzen. Genieße die reichen Aromen, teile deine größten Lacher und lass dein großzügiges Herz eine wunderbar festliche Note für alle setzen, die sich heute um dich versammeln.",
+      "love": "Deine leidenschaftliche Begeisterung macht deine romantischen Gesten heute unvergesslich. Gemeinsames Lachen über eine leicht angebrannte Beilage schweißt dich und deinen Partner noch näher zusammen.",
+      "career": "Tritt von geschäftlichen E-Mails zurück und konzentriere dich voll und ganz auf persönliche Verbindungen. Eine wohlverdiente Pause entfacht deinen kreativen Funken für die nächste Woche.",
+      "wellness": "Tausche die dritte Tasse Kaffee gegen einen gewürzten Kräutertee ein, um deine lebendige Energie wunderbar im Gleichgewicht zu halten.",
+      "lucky_number": 7,
+      "lucky_color": "karmesinrot",
+      "mood": "festlich"
+    },
+    "taurus": {
+      "overview": "Genuss ist heute deine Superkraft, sanfter Stier, und du bist bestens darauf vorbereitet, jeden einzelnen dekadenten Bissen dieses Feiertags zu genießen. Als wahrer Kenner der Gemütlichkeit hast du wahrscheinlich den ultimativen Kuschelort geschaffen, komplett mit Plüschdecken und den himmlischsten Braten, die man sich vorstellen kann. Erlaube dir, komplett abzuschalten, ohne auch nur einen Hauch von Schuldgefühlen wegen deiner täglichen Routinen. Deine ruhige Präsenz bietet einen beruhigenden Anker für redselige Verwandte, die sich vielleicht etwas zerstreut fühlen. Mach langsamer, schmecke jede Nuance deiner Lieblings-Comfort-Foods und lass die schiere Freude an guter Gesellschaft dein Herz mit tiefster Dankbarkeit und Zufriedenheit erfüllen.",
+      "love": "Sinnliche und erdende Momente schaffen tiefe Intimität, während du deine kulinarischen Lieblingsleckerbissen mit jemand Besonderem teilst. Wahre Romantik fühlt sich heute wie eine warme Umarmung an.",
+      "career": "Klinke dich komplett aus beruflichen Verpflichtungen aus und genieße die Kunst, absolut nichts Wichtiges zu tun.",
+      "wellness": "Halte ein langes, luxuriöses Nachmittagsschläfchen, eingekuschelt in deine weichste Decke, um deine Batterien wieder aufzuladen.",
+      "lucky_number": 24,
+      "lucky_color": "salbeigrün",
+      "mood": "gemütlich"
+    },
+    "gemini": {
+      "overview": "Deine Schmetterlingsflügel schlagen an diesem Donnerstag auf Hochtouren, brillanter Zwilling! Du flitzt mit mühelosem Charme und sprühendem Witz vom Küchentratsch zu den Wohnzimmerdebatten. Thanksgiving ist dein absoluter Spielplatz, weil es so viele verschiedene Gesprächsfäden zusammenbringt, die du zu unterhaltsamen Geschichten verweben kannst. Achte nur darauf, dir zwischen deinen lebhaften Diskussionen tatsächlich einen Moment Zeit zu nehmen, um dich hinzusetzen und zu essen. Dein neugieriger Geist liebt es, schräge Anekdoten über deine erweiterte Verwandtschaft zu erfahren, also gib dich der Neugier hin. Halte die Stimmung leicht, verspielt und wunderbar gesprächig, während du jeden einzelnen Menschen im Raum verzauberst.",
+      "love": "Flirtendes Geplänkel über den Esstisch hinweg lässt die Funken hell und hoch sprühen. Eine spontane Textnachricht kann deinem Schatz den Tag komplett verschönern.",
+      "career": "Das Brainstorming von lustigen Ideen für zukünftige Projekte wird sich heute eher wie ein unterhaltsames Puzzle als wie echte Arbeit anfühlen.",
+      "wellness": "Schone deine beanspruchten Stimmbänder heute Abend, indem du dich vor dem Schlafengehen einer friedlichen, ruhigen Lektüre hingibst.",
+      "lucky_number": 15,
+      "lucky_color": "gelb",
+      "mood": "gesprächig"
+    },
+    "cancer": {
+      "overview": "Dein fürsorgliches Häuschen läuft heute über vor Gastfreundschaft, süßer Krebs, während du dafür sorgst, dass sich jeder rundum geliebt und gut genährt fühlt. Die Küche ist an diesem Donnerstag dein magisches Königreich, in dem deine kulinarischen Kreationen das tröstliche Gewicht geschätzter Traditionen und purer Liebe tragen. Wundere dich nicht, wenn sentimentale Erinnerungen über dich hinwegspülen, während du die Bratensoße rührst oder den Kuchenteig anrichtest. Erlaube dir, diese nostalgischen Freudentränen zu vergießen, in dem Wissen, dass deine emotionale Tiefe dich zu einem so unglaublichen Gastgeber und Freund macht. Bade in den herzlichen Komplimenten und lass deine Lieben dich heute Abend zur Abwechslung mal verwöhnen.",
+      "love": "Tiefgehende Gespräche bei Kerzenschein vertiefen eure emotionale Bindung im Handumdrehen. Verletzlichkeit ist heute Abend dein attraktivstes Accessoire.",
+      "career": "Lass bevorstehende Arbeitsfristen los und konzentriere dich ganz darauf, glückliche Erinnerungen zu Hause zu schaffen.",
+      "wellness": "Übe sanfte Atemübungen, während du warmen Kakao schlürfst, um dein sensibles Herz zu beruhigen.",
+      "lucky_number": 2,
+      "lucky_color": "pfirsichfarben",
+      "mood": "sentimental"
+    },
+    "leo": {
+      "overview": "Du bist heute der unbestrittene Monarch des Thanksgiving-Essens, majestätischer Löwe, und bringst theatralisches Flair und grenzenlose Großzügigkeit in die Runde. Egal, ob du einen herzlichen Toast hältst, der alle zu Tränen rührt, oder dein unverkennbares Dessert präsentierst, du weißt, wie man Eindruck macht. Deine Wärme zieht die Menschen an wie Motten das Licht, und dein Lachen ist der beste Soundtrack für den Feiertag. Denke daran, das royale Rampenlicht mit deinen Lieblingsmenschen zu teilen und demjenigen echtes Lob auszusprechen, der das Essen gekocht hat. Genieße den Applaus, sauge die Bewunderung auf und lass dein helles Licht auf dein festliches Königreich scheinen.",
+      "love": "Große romantische Gesten und verspielte Komplimente lassen deinen Partner sich heute wie einen Filmstar fühlen. Romantik sollte auf die bestmögliche Art und Weise Spaß machen und dramatisch sein!",
+      "career": "Visualisiere deine bevorstehenden beruflichen Triumphe, während du dich heute in völliger Bequemlichkeit entspannst.",
+      "wellness": "Nimm eine selbstbewusste Yoga-Pose in deinem Wohnzimmer ein, um dein regales Rückgrat zu dehnen.",
+      "lucky_number": 19,
+      "lucky_color": "gold",
+      "mood": "strahlend"
+    },
+    "virgo": {
+      "overview": "Die Tischdeko ist makellos, der Truthahn auf die Minute genau fertig und dein Organisationstalent hat den Feiertag gerettet, brillanter Jungfrau! Auch wenn du insgeheim vielleicht die Symmetrie des Kuchenteigs prüfst oder die Abstände des Bestecks korrigierst, denke daran, innehalten und die Früchte deiner akribischen Arbeit zu genießen. Deine stillen Taten der Hilfsbereitschaft sprechen heute Bände, selbst wenn niemand den alphabetischen Sitzplan bemerkt, den du sorgfältig geplant hast. Lass die mikroskopisch kleinen Details los, jetzt da die Feier offiziell begonnen hat. Gieß dir ein schönes Getränk ein, nimm die aufrichtige Dankbarkeit deiner Gäste an und erlaube dir, dich zur Abwechslung mal wirklich zu entspannen.",
+      "love": "Hilfsbereitschaft ist heute deine ultimative Liebessprache – von dem Einschenken des Lieblingsgetränks deines Schatzes bis hin zum Aufheben des besten Stücks Füllung für ihn oder sie.",
+      "career": "Gib deinem analytischen Gehirn einen wohlverdienten Urlaub, indem du dich weigerst, deinen Arbeitskalender zu überprüfen.",
+      "wellness": "Verwöhne deine fleißigen Hände nach all den anstrengenden Küchenvorbereitungen mit einer schönen, wohltuenden Massage.",
+      "lucky_number": 42,
+      "lucky_color": "marineblau",
+      "mood": "gelassen"
+    },
+    "libra": {
+      "overview": "Ästhetische Harmonie hat an diesem Donnerstag oberste Priorität für dich, charmanter Waage, und du hast eine Thanksgiving-Atmosphäre kreiert, die in ein Hochglanzmagazin gehört. Deine diplomatische Anmut wird dringend gebraucht, falls über der Preiselbeersoße politische Debatten entfachen, und du meisterst jeden gegensätzlichen Standpunkt mit mühelosem Stil. Du weißt, wie du durch deine ausgewogene Aufmerksamkeit und süßes Lächeln jeden einzelnen Gast das Gefühl geben kannst, der wichtigste Mensch im Raum zu sein. Konzentriere dich auf Schönheit, gute Musik und reizende Gesellschaft, während du den Tag feierst. Lass deinen natürlichen Charme jeden unangenehmen Familienmoment in ein graziöses Meisterwerk verwandeln.",
+      "love": "Flirtende Blicke und Partner-Outfits machen dich und deinen Partner zum stylischen Duo der Party. Harmonie in der Romantik ist heute deine ultimative Belohnung.",
+      "career": "Das Tagträumen über schönes Innendesign oder künstlerische Projekte bringt ein wunderbares Gefühl des Friedens.",
+      "wellness": "Höre eine zusammengestellte Playlist mit sanften Akustikklängen, während du dein köstliches Festtagsessen verdaust.",
+      "lucky_number": 6,
+      "lucky_color": "rosé",
+      "mood": "zuvorkommend"
+    },
+    "scorpio": {
+      "overview": "Deine magische Intensität verleiht den Feiertagsfeierlichkeiten heute einen spannenden Unterton, geheimnisvoller Skorpion. Während andere lockeren Smalltalk betreiben, tauchst du mit diesem einen interessanten Cousin am Kamin tief in faszinierende nächtliche Gespräche ein. Du schätzt Authentizität über alles, weshalb du absolut keine Geduld für oberflächliche Feiertagsstimmung hast, die sich nicht echt anfühlt. Suche nach echten Verbindungen und genieße die reichen, komplexen Aromen des Tages, genau wie du die tieferen Geheimnisse des Lebens genießt. Vertraue deiner scharfen Intuition, wer ein zusätzliches Stück Kuchen und ein ruhiges, tröstendes Lächeln braucht.",
+      "love": "Tiefe, seelenvolle Blicke quer durch einen vollen Raum schaffen eine elektrische Atmosphäre gemeinsamer Heimlichkeit und Leidenschaft. Deine Anziehungskraft ist heute absolut unwiderstehlich.",
+      "career": " Schmiede im Hintergrund still und leise Pläne für deinen nächsten großen Schritt, während du die Auszeit an den Feiertagen genießt.",
+      "wellness": "Entspanne in einem gedimmten Raum mit beruhigender Ambient-Musik, um deinen intensiven emotionalen Fokus zurückzusetzen.",
+      "lucky_number": 13,
+      "lucky_color": "pflaume",
+      "mood": "geheimnisvoll"
+    },
+    "sagittarius": {
+      "overview": "Frohe Geburtstags-Saison, abenteuerlustiger Schütze! Thanksgiving ist gleichzeitig deine kosmische Geburtstagsparty und erfüllt diesen Donnerstag mit einer Explosion von Optimismus, Fernweh und viel Gelächter. Du bist bereit, urkomische Reisegeschichten zu erzählen, mit den Ältesten über Philosophie zu diskutieren und den Nachtisch vor dem Hauptgang zu essen, einfach weil du es kannst. Deine ansteckende Begeisterung bringt jeden dazu, seine Koffer zu packen und dich auf dein nächstes großes Abenteuer zu begleiten. Umarm die Fülle des Universums und lache, bis dir der Bauch wehtut. Halte deinen Reisepass griffbereit und dein Herz weit offen für jeden spontanen Spaß, der heute Abend deinen Weg kreuzt.",
+      "love": "Dein verspielter Sinn für Humor und dein abenteuerlustiger Geist machen dich heute zu einer absoluten Freude, mit der man gerne zusammen ist. Spontaneität hält deine Romantik wunderbar lebendig.",
+      "career": "Lass deine Gedanken zu aufregenden zukünftigen Reisen und Bildungsabenteuern wandern, anstatt an tägliche Aufgaben zu denken.",
+      "wellness": "Mach einen zügigen Spaziergang an der frischen Herbstluft und strecke deine unruhigen Beine aus.",
+      "lucky_number": 88,
+      "lucky_color": "türkis",
+      "mood": "jubelnd"
+    },
+    "capricorn": {
+      "overview": "Du hast den Grundstein für einen wunderbaren Feiertag gelegt, praktischer Steinbock, und jetzt ist es endlich an der Zeit, die Früchte deiner harten Arbeit zu genießen. Auch wenn du naturgemäß dazu neigst, Aufräumarbeiten und Logistik zu übernehmen, erlaube dir, von der Management-Rolle zurückzutreten und einfach ein Ehrengast zu sein. Deine unaufdringliche Weisheit ist eine tröstliche Präsenz für jüngere Familienmitglieder, die nach weisen Ratschlägen suchen. Genieße die Traditionen, die den Test der Zeit bestehen, und schätze die Stabilität deines Kreises. Lehne dich zurück, lege die Füße hoch und genieße ein wohlverdientes Stück Kürbiskuchen.",
+      "love": "Stetige, verlässliche Hingabe ist dein romantisches Markenzeichen für heute und beweist, dass Taten lauter sprechen als Worte. Ein ruhiger Moment zu zweit bedeutet alles.",
+      "career": "Schalte deinen beruflichen Autopiloten komplett aus und widme diesen Tag streng der persönlichen Erholung.",
+      "wellness": "Lege deine Füße im Sitzen hoch, um die Durchblutung nach dem langen Stehen bei den Vorbereitungen in der Küche zu verbessern.",
+      "lucky_number": 10,
+      "lucky_color": "anthrazit",
+      "mood": "bodenständig"
+    },
+    "aquarius": {
+      "overview": "Bring dein wunderbar schrulliges Ich heute zur Feiertagsrunde mit, innovativer Wassermann! Du bist bereit, unkonventionelle Traditionen einzuführen – wie Tacos statt Truthahn zu servieren oder ein Brettspielturnier mit bizarreren Hausregeln zu veranstalten. Deine einzigartige Perspektive macht dich zur faszinierendsten Person am Esstisch, die immer eine exzentrische Beobachtung über das moderne Leben parat hat. Verbinde dich mit Freunden, die deine Verrücktheit schätzen, und hab keine Angst, im Takt deiner eigenen festlichen Trommel zu marschieren. Heute dreht sich alles darum, deine Freiheit zu feiern, wunderbar und ohne Entschuldigungen authentisch zu sein.",
+      "love": "Mentale Anregung und schräge Insider-Witze sind heute die geheimen Schlüssel zu deinem Herzen. Ein seltsames Gespräch führt zu einem unerwartet süßen romantischen Funken.",
+      "career": "Erfindungen und Brainstorming abseits der gewohnten Pfade gelingen mühelos, wenn du dich weit weg von deinem Schreibtisch vollkommen entspannst.",
+      "wellness": "Klinke dich für ein paar Stunden von allen digitalen Bildschirmen aus, um deinem brillanten Geist einen Neustart zu verpassen.",
+      "lucky_number": 55,
+      "lucky_color": "elektrisch-blau",
+      "mood": "schrullig"
+    },
+    "pisces": {
+      "overview": "Träumerische Schwingungen umgeben dich an diesem Donnerstag wie ein magischer Nebel, sanfter Fische. Du fühlst dich heute außergewöhnlich empathisch und nimmst die Wärme, Freude und Dankbarkeit, die am Festtagstisch schweben, mühelos auf. Deine Fantasie läuft auf Hochtouren mit kreativen Wegen, um deine Liebe zu den Menschen auszudrücken, die deine Welt so bunt machen. Egal, ob du während eines Toasts glückliche Tränen vergiesst oder dich beim Abwaschen in Tagträumen verlierst, du erlebst den Feiertag auf einer tief spiritualen Ebene. Lass dich von deiner Intuition leiten, wer heute eine sanfte Umarmung oder ein verständnisvolles Ohr braucht.",
+      "love": "Pure, bedingungslose Romantik fühlt sich an wie ein Märchen, das sich direkt vor deinen Augen entfaltet. Teile deine tiefsten poetischen Träume mit deinem geschätzten Partner.",
+      "career": "Lass deiner kreativen Fantasie freien Lauf, ohne dir Gedanken über die praktische Umsetzung oder Fristen zu machen.",
+      "wellness": "Nimm ein langes, entspannendes Bad in einer warmen Wanne mit Lavendelblasen, um deine empfindliche Aura zu beruhigen.",
+      "lucky_number": 3,
+      "lucky_color": "lavendel",
+      "mood": "träumerisch"
+    }
+  }
+}

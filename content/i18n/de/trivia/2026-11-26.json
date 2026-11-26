@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-26",
+  "title": "Allgemeinwissen-Quiz: 26. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welcher europäische Zwergstaat ist vollständig von Italien umgeben?",
+      "options": [
+        "Andorra",
+        "San Marino",
+        "Liechtenstein",
+        "Monaco"
+      ],
+      "answer_index": 1,
+      "fun_fact": "San Marino gilt weithin als die älteste noch existierende souveräne Republik der Welt, gegründet im Jahr 301 n. Chr."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Wie lautet das chemische Symbol für das Element Gold?",
+      "options": [
+        "Ag",
+        "Go",
+        "Gd",
+        "Au"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Das Symbol 'Au' leitet sich von 'aurum' ab, dem lateinischen Wort für Gold, was so viel wie 'leuchtende Morgenröte' bedeutet."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Wer war die erste weibliche Premierministerin des Vereinigten Königreichs?",
+      "options": [
+        "Queen Victoria",
+        "Margaret Thatcher",
+        "Indira Gandhi",
+        "Theresa May"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Margaret Thatcher amtierte von 1979 bis 1990 als Premierministerin und verdiente sich den Spitznamen 'Die Eiserne Lady'."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "In welchem animierten Disney-Film aus dem Jahr 1994 ist das Lied 'Circle of Life' zu hören?",
+      "options": [
+        "The Lion King",
+        "Hercules",
+        "Aladdin",
+        "Mulan"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Elton John und Tim Rice komponierten die unvergessliche Musik und den Liedtext für 'The Lion King'."
+    },
+    {
+      "category": "Essen",
+      "question": "Aus welchem Land stammt traditionell das herzhafte Gebäck, das als Empanada bekannt ist?",
+      "options": [
+        "Spain",
+        "Thailand",
+        "Greece",
+        "Japan"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Der Name 'empanada' leitet sich vom spanischen Verb empanar ab, was einwickeln oder mit Brot umhüllen bedeutet."
+    },
+    {
+      "category": "Tiere",
+      "question": "Welches ist das schnellste Landessäugetier der Welt über kurze Strecken?",
+      "options": [
+        "Cheetah",
+        "Greyhound",
+        "Lion",
+        "Pronghorn"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Ein Gepard kann in nur drei Sekunden von 0 auf 100 km/h beschleunigen, schneller als viele moderne Sportwagen."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Löcher werden bei einer regulären Golfrunde gespielt?",
+      "options": [
+        "18",
+        "21",
+        "12",
+        "9"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Die klassische 18-Loch-Runde hat ihren Ursprung im historischen St Andrews Links in Schottland im 18. Jahrhundert."
+    },
+    {
+      "category": "Sprache",
+      "question": "Welcher linguistische Begriff wird für Wörter mit entgegengesetzten Bedeutungen wie 'heiß' und 'kalt' verwendet?",
+      "options": [
+        "Antonyms",
+        "Acronyms",
+        "Homophones",
+        "Synonyms"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Das Wort 'Antonym' leitet sich von den griechischen Wörtern 'anti' für gegensätzlich und 'onym' für Name ab."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Planet in unserem Sonnensystem ist für sein besonders auffälliges und komplexes Ringsystem bekannt?",
+      "options": [
+        "Jupiter",
+        "Uranus",
+        "Saturn",
+        "Neptune"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Saturns Ringe bestehen größtenteils aus Brocken von Wassereis sowie geringeren Mengen an Gesteinsschutt und Staub."
+    },
+    {
+      "category": "Geografie",
+      "question": "In welchem Land liegt hauptsächlich die Namib-Wüste, die für ihre auffälligen roten Sanddünen bekannt ist?",
+      "options": [
+        "Chile",
+        "Mongolia",
+        "Australia",
+        "Namibia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Die Namib gilt weithin als die älteste Wüste der Welt, da dort seit mindestens 55 Millionen Jahren aride oder semiaride Bedingungen herrschen."
+    }
+  ]
+}

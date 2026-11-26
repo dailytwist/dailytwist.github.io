@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-26",
+  "title": "General Knowledge Trivia: November 26, 2026",
+  "questions": [
+    {
+      "category": "geography",
+      "question": "Which European microstate is entirely surrounded by Italy?",
+      "options": [
+        "Andorra",
+        "San Marino",
+        "Liechtenstein",
+        "Monaco"
+      ],
+      "answer_index": 1,
+      "fun_fact": "San Marino is widely considered the oldest surviving sovereign republic in the world, founded in the year 301 AD."
+    },
+    {
+      "category": "science",
+      "question": "What is the chemical symbol for the element gold?",
+      "options": [
+        "Ag",
+        "Go",
+        "Gd",
+        "Au"
+      ],
+      "answer_index": 3,
+      "fun_fact": "The symbol 'Au' comes from 'aurum', the Latin word for gold, which translates to 'shining dawn'."
+    },
+    {
+      "category": "history",
+      "question": "Who was the first female Prime Minister of the United Kingdom?",
+      "options": [
+        "Queen Victoria",
+        "Margaret Thatcher",
+        "Indira Gandhi",
+        "Theresa May"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Margaret Thatcher served as Prime Minister from 1979 to 1990, earning the nickname 'The Iron Lady'."
+    },
+    {
+      "category": "movies & pop culture",
+      "question": "Which 1994 animated Disney film features the song 'Circle of Life'?",
+      "options": [
+        "The Lion King",
+        "Hercules",
+        "Aladdin",
+        "Mulan"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Elton John and Tim Rice composed the memorable music and lyrics for 'The Lion King'."
+    },
+    {
+      "category": "food",
+      "question": "From which country does the savory pastry known as the empanada traditionally originate?",
+      "options": [
+        "Spain",
+        "Thailand",
+        "Greece",
+        "Japan"
+      ],
+      "answer_index": 0,
+      "fun_fact": "The name 'empanada' comes from the Spanish verb empanar, meaning to wrap or coat in bread."
+    },
+    {
+      "category": "animals",
+      "question": "What is the fastest land mammal in the world over short distances?",
+      "options": [
+        "Cheetah",
+        "Greyhound",
+        "Lion",
+        "Pronghorn"
+      ],
+      "answer_index": 0,
+      "fun_fact": "A cheetah can accelerate from 0 to 60 miles per hour in just three seconds, faster than many modern sports cars."
+    },
+    {
+      "category": "sports",
+      "question": "In a standard game of golf, how many holes are played in a full round?",
+      "options": [
+        "18",
+        "21",
+        "12",
+        "9"
+      ],
+      "answer_index": 0,
+      "fun_fact": "The standard 18-hole round originated at the historic St Andrews Links in Scotland during the 18th century."
+    },
+    {
+      "category": "language",
+      "question": "What linguistic term is used for words that have opposite meanings, such as 'hot' and 'cold'?",
+      "options": [
+        "Antonyms",
+        "Acronyms",
+        "Homophones",
+        "Synonyms"
+      ],
+      "answer_index": 0,
+      "fun_fact": "The word 'antonym' derives from the Greek words 'anti' meaning opposite and 'onym' meaning name."
+    },
+    {
+      "category": "space",
+      "question": "Which planet in our solar system is known for having the most prominent and complex ring system?",
+      "options": [
+        "Jupiter",
+        "Uranus",
+        "Saturn",
+        "Neptune"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Saturn's rings are composed mostly of chunks of water ice with lesser amounts of rocky debris and dust."
+    },
+    {
+      "category": "geography",
+      "question": "The Namib Desert, known for its striking red sand dunes, is primarily located in which country?",
+      "options": [
+        "Chile",
+        "Mongolia",
+        "Australia",
+        "Namibia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "The Namib is widely considered to be the oldest desert in the world, having endured arid or semi-arid conditions for at least 55 million years."
+    }
+  ]
+}

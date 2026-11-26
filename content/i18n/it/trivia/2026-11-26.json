@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-26",
+  "title": "Curiosità di cultura generale: 26 novembre 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Quale microstato europeo è interamente circondato dall'Italia?",
+      "options": [
+        "Andorra",
+        "San Marino",
+        "Liechtenstein",
+        "Monaco"
+      ],
+      "answer_index": 1,
+      "fun_fact": "San Marino è considerato a tutti gli effetti la repubblica sovrana più antica del mondo, essendo stata fondata nel 301 d.C."
+    },
+    {
+      "category": "scienza",
+      "question": "Qual è il simbolo chimico dell'elemento oro?",
+      "options": [
+        "Ag",
+        "Go",
+        "Gd",
+        "Au"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Il simbolo 'Au' deriva da 'aurum', la parola latina per oro, che significa 'alba splendente'."
+    },
+    {
+      "category": "storia",
+      "question": "Chi è stata la prima donna Primo Ministro del Regno Unito?",
+      "options": [
+        "Regina Vittoria",
+        "Margaret Thatcher",
+        "Indira Gandhi",
+        "Theresa May"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Margaret Thatcher è stata Primo Ministro dal 1979 al 1990, guadagnandosi il soprannome di 'The Iron Lady'."
+    },
+    {
+      "category": "cinema e pop culture",
+      "question": "In quale film d'animazione Disney del 1994 è presente la canzone 'Circle of Life'?",
+      "options": [
+        "The Lion King",
+        "Hercules",
+        "Aladdin",
+        "Mulan"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Elton John e Tim Rice hanno composto la memorabile colonna sonora e i testi di 'The Lion King'."
+    },
+    {
+      "category": "cucina",
+      "question": "Da quale paese proviene tradizionalmente la pasta salata nota come empanada?",
+      "options": [
+        "Spagna",
+        "Thailandia",
+        "Grecia",
+        "Giappone"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il nome 'empanada' deriva dal verbo spagnolo empanar, che significa avvolgere o ricoprire di pane."
+    },
+    {
+      "category": "animali",
+      "question": "Qual è il mammifero terrestre più veloce al mondo sulle brevi distanze?",
+      "options": [
+        "Cheetah",
+        "Levriero",
+        "Leone",
+        "Antilocapra"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Un cheetah può accelerare da 0 a 60 miglia all'ora in soli tre secondi, più rapidamente di molte auto sportive moderne."
+    },
+    {
+      "category": "sport",
+      "question": "In una partita di golf standard, quante buche si giocano in un giro completo?",
+      "options": [
+        "18",
+        "21",
+        "12",
+        "9"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Il classico percorso di 18 buche ha avuto origine nello storico St Andrews Links in Scozia durante il XVIII secolo."
+    },
+    {
+      "category": "linguistica",
+      "question": "Quale termine linguistico si usa per indicare parole che hanno significati opposti, come 'caldo' e 'freddo'?",
+      "options": [
+        "Antonomi",
+        "Acronimi",
+        "Omofoni",
+        "Sinonimi"
+      ],
+      "answer_index": 0,
+      "fun_fact": "La parola 'antonym' deriva dalle parole greche 'anti' che significa opposto e 'onym' che significa nome."
+    },
+    {
+      "category": "spazio",
+      "question": "Quale pianeta del nostro sistema solare è famoso per avere il sistema di anelli più evidente e complesso?",
+      "options": [
+        "Giove",
+        "Urano",
+        "Saturno",
+        "Nettuno"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Gli anelli di Saturno sono composti principalmente da blocchi di ghiaccio d'acqua, con minori quantità di detriti rocciosi e polvere."
+    },
+    {
+      "category": "geografia",
+      "question": "Il Deserto del Namib, noto per le sue suggestive dune di sabbia rossa, si trova principalmente in quale paese?",
+      "options": [
+        "Cile",
+        "Mongolia",
+        "Australia",
+        "Namibia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Il Namib è considerato all'unanimità il deserto più antico del mondo, avendo vissuto in condizioni aride o semi-aride per almeno 55 milioni di anni."
+    }
+  ]
+}
