@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-24",
+  "slug": "past-simple-regular",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "⏳",
+  "title": "Über die Vergangenheit sprechen: Regelmäßige Verben",
+  "summary": "Lerne, wie du über Dinge sprichst, die gestern oder letztes Jahr passiert sind. Dabei nutzt du einfache Rechtschreibregeln für regelmäßige Verben.",
+  "sections": [
+    {
+      "h": "Was ist das Simple Past?",
+      "p": "Wir verwenden das Simple Past, um über abgeschlossene Handlungen in der Vergangenheit zu sprechen. Bei regelmäßigen Verben bilden wir die Vergangenheitsform ganz einfach: Wir hängen einfach ein „-ed“ an das Ende des Tunworts an. Das gilt genauso für „I“, „you“, „he“, „she“, „we“ und „they“.",
+      "ex": [
+        {
+          "en": "I walked to the store yesterday.",
+          "mean": "Ich bin in der Vergangenheit zu Fuß in den Laden gegangen."
+        },
+        {
+          "en": "They played football last weekend.",
+          "mean": "Sie haben in der Vergangenheit ein Fußballspiel gespielt."
+        }
+      ]
+    },
+    {
+      "h": "Rechtschreibregeln: Verben, die auf „e“ enden",
+      "p": "Manche Tunwörter enden bereits auf den Buchstaben „e“. Bei diesen Verben musst du kein „-ed“ anhängen. Du brauchst nur ein „d“ an das Ende zu setzen. Das macht das Schreiben und Buchstabieren für dich viel schneller und einfacher.",
+      "ex": [
+        {
+          "en": "She liked the new movie.",
+          "mean": "Sie hat den Film in der Vergangenheit genossen."
+        },
+        {
+          "en": "We lived in London in 2020.",
+          "mean": "Unser Zuhause war im Jahr 2020 in London."
+        }
+      ]
+    },
+    {
+      "h": "Rechtschreibregeln: Verben auf Konsonant + „y“",
+      "p": "Wenn ein Verb auf einen Konsonanten und den Buchstaben „y“ endet, ersetzen wir das „y“ durch ein „i“. Danach hängen wir „-ed“ an. Aus „study“ wird zum Beispiel „studied“. Steht vor dem „y“ jedoch ein Vokal wie bei „play“, hängst du einfach nur „-ed“ an.",
+      "ex": [
+        {
+          "en": "He studied English last night.",
+          "mean": "Er hat gestern Abend Englisch gelernt."
+        },
+        {
+          "en": "She cried when she was sad.",
+          "mean": "Ihm oder ihr sind in der Vergangenheit Tränen aus den Augen geflossen."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "past simple",
+      "mean": "Grammatik für abgeschlossene Handlungen"
+    },
+    {
+      "en": "regular verb",
+      "mean": "Verb, das -ed verwendet"
+    },
+    {
+      "en": "yesterday",
+      "mean": "der Tag vor heute"
+    },
+    {
+      "en": "last night",
+      "mean": "der Abend vor heute"
+    },
+    {
+      "en": "played",
+      "mean": "Vergangenheitsform von play"
+    },
+    {
+      "en": "walked",
+      "mean": "Vergangenheitsform von walk"
+    },
+    {
+      "en": "studied",
+      "mean": "Vergangenheitsform von study"
+    },
+    {
+      "en": "lived",
+      "mean": "Vergangenheitsform von live"
+    }
+  ],
+  "tip": "Halte Ausschau nach Wörtern wie „yesterday“ oder „last week“. Wenn du sie siehst, denk daran, dein Verb in die Form des Simple Past zu setzen!",
+  "quiz": [
+    {
+      "ask": "Wähle die richtige Form des Simple Past",
+      "en": "I ___ to music yesterday.",
+      "choices": [
+        "listen",
+        "listened",
+        "listens"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die richtige Form des Simple Past",
+      "en": "She ___ her friend last weekend.",
+      "choices": [
+        "visit",
+        "visits",
+        "visited"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle die richtige Schreibweise",
+      "en": "They ___ in that house ten years ago.",
+      "choices": [
+        "lived",
+        "liveed",
+        "livd"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die richtige Form des Simple Past",
+      "en": "He ___ hard for the test last night.",
+      "choices": [
+        "studyed",
+        "studied",
+        "study"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle den richtigen Satz",
+      "en": "Select the correct past sentence:",
+      "choices": [
+        "We cook dinner yesterday.",
+        "We cooked dinner yesterday.",
+        "We cooking dinner yesterday."
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort für die Lücke",
+      "en": "The baby ___ because he was tired.",
+      "choices": [
+        "cryed",
+        "cried",
+        "cries"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

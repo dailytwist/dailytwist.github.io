@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-24",
+  "slug": "going-to-future",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🗓️",
+  "title": "Über die Zukunft sprechen",
+  "summary": "Lerne, wie du „be going to“ verwendest, um über deine Zukunftspläne zu sprechen. Du wirst auch lernen, wie du einfache Vorhersagen über das Wetter oder Dinge triffst, die du sehen kannst.",
+  "sections": [
+    {
+      "h": "Zukunftspläne",
+      "p": "Wir verwenden „be going to“ plus ein Vollverb, um über Pläne zu sprechen, die wir bereits für die Zukunft gemacht haben. Passe zunächst das Verb „be“ je nach Subjekt an („am“, „is“ oder „are“). Füge dann „going to“ und das Hauptverb hinzu. Wenn du zum Beispiel planst, nächste Woche zu reisen, sagst du: „I am going to travel.“ Das wird sehr häufig für Wochenenden, Feiertage und Meetings verwendet.",
+      "ex": [
+        {
+          "en": "I am going to visit my grandmother this weekend.",
+          "mean": "Ich habe vor, meine Großmutter bald zu besuchen."
+        },
+        {
+          "en": "We are going to buy a new car tomorrow.",
+          "mean": "Wir haben beschlossen und geplant, ein Auto zu kaufen."
+        },
+        {
+          "en": "She is going to study English tonight.",
+          "mean": "Sie hat für heute Abend einen Lernplan."
+        }
+      ]
+    },
+    {
+      "h": "Zukunftsvorhersagen",
+      "p": "Wir verwenden „be going to“ auch dann, wenn wir jetzt gerade etwas sehen oder spüren, das uns etwas über die unmittelbare Zukunft verrät. Schau in den Himmel! Wenn du dunkle, schwere Wolken siehst, weißt du, was als Nächstes passiert. Wir verwenden „is going to“ oder „are going to“, um diese offensichtlichen Anzeichen um uns herum zu beschreiben.",
+      "ex": [
+        {
+          "en": "Look at those dark clouds! It is going to rain.",
+          "mean": "Ich sehe dunkle Wolken, also fängt es gleich an zu regnen."
+        },
+        {
+          "en": "Be careful! You are going to drop that glass.",
+          "mean": "Ich sehe, dass du das nicht richtig festhältst."
+        }
+      ]
+    },
+    {
+      "h": "Verneinte Pläne",
+      "p": "Um über Dinge zu sprechen, die du nicht zu tun planst, fügst du einfach das Wort „not“ direkt nach „am“, „is“ oder „are“ hinzu. Dadurch entsteht ein verneinter Satz. „I am not going to work on Sunday“ bedeutet zum Beispiel, dass du am Sonntag zu Hause bleiben und dich ausruhen möchtest, statt zu arbeiten.",
+      "ex": [
+        {
+          "en": "I am not going to cook dinner tonight.",
+          "mean": "Ich habe nicht vor zu kochen; vielleicht bestellen wir Essen."
+        },
+        {
+          "en": "They are not going to come to the party.",
+          "mean": "Sie haben beschlossen, zu Hause zu bleiben."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "be going to",
+      "mean": "Ausdruck für Zukunftspläne"
+    },
+    {
+      "en": "plan",
+      "mean": "Idee für die Zukunft"
+    },
+    {
+      "en": "prediction",
+      "mean": "die Zukunft voraussagen"
+    },
+    {
+      "en": "tomorrow",
+      "mean": "der Tag nach heute"
+    },
+    {
+      "en": "tonight",
+      "mean": "heute Abend"
+    },
+    {
+      "en": "weekend",
+      "mean": "Samstag und Sonntag"
+    },
+    {
+      "en": "rain",
+      "mean": "Wasser aus Wolken"
+    }
+  ],
+  "tip": "Denke immer an die Reihenfolge: Subjekt + am/is/are + going to + Vollverb. Vergiss das „to“ nicht!",
+  "quiz": [
+    {
+      "ask": "Wähle die richtige Form von „be“ aus",
+      "en": "I ___ going to visit my friend tomorrow.",
+      "choices": [
+        "is",
+        "am",
+        "are",
+        "be"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort aus",
+      "en": "She is going ___ buy a new dress.",
+      "choices": [
+        "to",
+        "for",
+        "at",
+        "going"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle den richtigen Vorhersagesatz aus",
+      "en": "Look at the grey sky! It ___ going to rain.",
+      "choices": [
+        "am",
+        "be",
+        "is",
+        "are"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle die richtige Verneinungsform aus",
+      "en": "We ___ going to watch TV tonight.",
+      "choices": [
+        "are not",
+        "is not",
+        "am not",
+        "not are"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Fragewort aus",
+      "en": "___ you going to cook dinner?",
+      "choices": [
+        "Am",
+        "Is",
+        "Are",
+        "Do"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle die richtige Verbform aus",
+      "en": "They are going to ___ football on Saturday.",
+      "choices": [
+        "plays",
+        "playing",
+        "played",
+        "play"
+      ],
+      "answer_index": 3
+    }
+  ]
+}

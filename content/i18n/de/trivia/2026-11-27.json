@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-27",
+  "title": "Tägliches Allgemeinwissens-Quiz: 27. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches Binnenland in Südamerika hat zwei offizielle Hauptstädte: Sucre und La Paz?",
+      "options": [
+        "Uruguay",
+        "Ecuador",
+        "Paraguay",
+        "Bolivien"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Bolivien teilt seine Regierungsgeschäfte zwischen den beiden Städten auf, wobei Sucre als konstitutionelle Hauptstadt und La Paz als Regierungssitz dient."
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Was ist das Hauptgas in der Atmosphäre des Mars?",
+      "options": [
+        "Sauerstoff",
+        "Kohlenstoffdioxid",
+        "Wasserstoff",
+        "Stickstoff"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Kohlenstoffdioxid macht etwa 95 % der Marsatmosphäre aus, wobei ein Großteil des Rests aus Stickstoff und Argon besteht."
+    },
+    {
+      "category": "Geschichte",
+      "question": "Zwischen welchen beiden griechischen Stadtstaaten wurde der antike Peloponnesische Krieg hauptsächlich ausgetragen?",
+      "options": [
+        "Sparta und Troja",
+        "Korinth und Theben",
+        "Athen und Korinth",
+        "Athen und Sparta"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Dieser verheerende Konflikt dauerte im 5. Jahrhundert v. Chr. fast drei Jahrzehnte und endete mit der Niederlage Athens."
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Welcher unter der Regie von Orson Welles entstandene Filmklassiker von 1941 ist für seine innovative Kameraführung und das Rätsel um das Wort „Rosebud“ bekannt?",
+      "options": [
+        "Casablanca",
+        "Citizen Kane",
+        "Sunset Boulevard",
+        "Die Spur des Falken"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Orson Welles war erst 25 Jahre alt, als er bei Citizen Kane am Drehbuch mitwirkte, Regie führte, produzierte und die Hauptrolle spielte."
+    },
+    {
+      "category": "Essen & Trinken",
+      "question": "Was ist die Hauptgeschmackskomponente des traditionellen italienischen Likörs namens Amaretto?",
+      "options": [
+        "Anissamen",
+        "Kaffeebohnen",
+        "Pfefferminzblätter",
+        "Aprikosenkerne"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Amaretto erhält seinen unverwechselbaren mandelartigen Geschmack durch Aprikosenkerne, obwohl einige moderne Rezepte auch Pfirsichkerne oder Mandeln verwenden."
+    },
+    {
+      "category": "Tiere",
+      "question": "Wie wird eine Gruppe von Flamingos im zoologischen Kontext bezeichnet?",
+      "options": [
+        "Ein Schwarm",
+        "Ein Trupp",
+        "Eine flamboyante Gruppe",
+        "Ein Parlament"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Die leuchtend rosa Farbe einer Flamingo-Gruppe stammt von den Carotinoid-Pigmenten in den Krebstieren und Algen, die sie fressen."
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Runden auf einer standardmäßigen Leichtathletik-Außenbahn entsprechen einem 1500-Meter-Lauf?",
+      "options": [
+        "4 und 1/2 Runden",
+        "4 Runden",
+        "3 und 3/4 Runden",
+        "3 Runden"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Eine Standard-Außenbahn ist 400 Meter lang, was bedeutet, dass Läufer für einen 1500-Meter-Lauf drei volle Runden plus weitere 300 Meter absolvieren müssen."
+    },
+    {
+      "category": "Sprache",
+      "question": "Welcher sprachwissenschaftliche Begriff wird für ein Wort verwendet, das aus den Anfangsbuchstaben anderer Wörter gebildet und als eigenständiges Wort ausgesprochen wird, wie zum Beispiel „NASA“ oder „Laser“?",
+      "options": [
+        "Schachtelwort",
+        "Akronym",
+        "Homonym",
+        "Palindrom"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Im Gegensatz zu Abkürzungen wie FBI – bei denen jeder Buchstabe einzeln ausgesprochen wird – werden Akronyme als ganze Wörter ausgesprochen."
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher der galileischen Jupitermonde ist der vulkanisch aktivste Himmelskörper im Sonnensystem?",
+      "options": [
+        "Ganymed",
+        "Europa",
+        "Io",
+        "Kallisto"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Ios intensive vulkanische Aktivität wird durch Gezeitenkräfte angetrieben, die durch die Gravitationsanziehung des Jupiters und seiner anderen großen Monde verursacht werden."
+    },
+    {
+      "category": "Geografie",
+      "question": "Zu welchem Land gehört die Insel Tasmanien als Bundesstaat?",
+      "options": [
+        "Neuseeland",
+        "Australien",
+        "Fidschi",
+        "Indonesien"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Tasmanien ist durch die Bass-Straße vom australischen Festland getrennt und für seine vasten Wildnisgebiete und einzigartige endemische Tierwelt bekannt."
+    }
+  ]
+}

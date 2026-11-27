@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-28",
+  "slug": "third-conditional",
+  "cefr": "B2",
+  "cat": "grammar",
+  "emoji": "🕰️",
+  "title": "Parlare dei rimpianti",
+  "summary": "Scopri come usare il terzo condizionale per parlare di errori del passato e occasioni mancate. Impara a immaginare un passato diverso in inglese.",
+  "sections": [
+    {
+      "h": "Cos'è il terzo condizionale?",
+      "p": "Usiamo il terzo condizionale per parlare di cose passate che non sono successe. Immaginiamo un passato alternativo e pensiamo al risultato. Visto che il passato non si può cambiare, usiamo spesso questa grammatica per esprimere rimpianto. Questa struttura si forma usando 'if' seguito dal passato prossimo (past perfect), seguito da 'would have' e dal participio passato del verbo.",
+      "ex": [
+        {
+          "en": "If I had studied harder, I would have passed the test.",
+          "mean": "Sono stato pigro, quindi sono stato bocciato all'esame e ora ci sono rimasto male."
+        },
+        {
+          "en": "If we had left earlier, we would have caught the train.",
+          "mean": "Siamo arrivati in ritardo, quindi abbiamo perso il treno."
+        }
+      ]
+    },
+    {
+      "h": "Come formare le frasi",
+      "p": "La frase ha due parti. La parte con 'if' usa 'had' più la terza forma del verbo. La parte del risultato usa 'would have' più la terza forma del verbo. Puoi invertire l'ordine delle due parti senza cambiare il significato. Ricorda solo che non si usa la virgola quando la parte con 'if' si trova a metà frase.",
+      "ex": [
+        {
+          "en": "She would have bought the car if she had saved enough money.",
+          "mean": "Non ha messo via abbastanza soldi, quindi non ha comprato la macchina."
+        },
+        {
+          "en": "If you had called me, I would have helped you.",
+          "mean": "Non mi hai chiamato, quindi non ti ho aiutato."
+        }
+      ]
+    },
+    {
+      "h": "Esprimere rimpianti",
+      "p": "Quando ripensiamo alla nostra vita, spesso vorremmo aver fatto scelte diverse. Il terzo condizionale è lo strumento perfetto per farlo. Ci aiuta a spiegare cosa è andato storto e come il risultato avrebbe potuto essere completamente diverso. È utilissimo per fare profonde conversazioni con amici o familiari sulle scelte di vita.",
+      "ex": [
+        {
+          "en": "If I had known about the job, I would have applied.",
+          "mean": "Mi dispiace aver perso l'occasione perché non sapevo la notizia."
+        },
+        {
+          "en": "I would not have said those words if I had thought carefully.",
+          "mean": "Mi pento di aver parlato senza prima pensare."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "third conditional",
+      "mean": "grammatica per i rimpianti passati"
+    },
+    {
+      "en": "regret",
+      "mean": "tristezza per le scelte passate"
+    },
+    {
+      "en": "past perfect",
+      "mean": "had più verbo al passato"
+    },
+    {
+      "en": "past participle",
+      "mean": "la terza forma verbale"
+    },
+    {
+      "en": "outcome",
+      "mean": "il risultato finale"
+    },
+    {
+      "en": "missed chance",
+      "mean": "occasione persa"
+    }
+  ],
+  "tip": "Pensa a un vero errore che hai fatto la settimana scorsa. Crea una frase con il terzo condizionale per collegare la grammatica alla tua vita.",
+  "quiz": [
+    {
+      "ask": "Scegli la forma corretta per la parte passata",
+      "en": "If I ___ the map, we would not have gotten lost.",
+      "choices": [
+        "had brought",
+        "brought",
+        "have brought"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Scegli la frase di risultato corretta",
+      "en": "If she had seen the sign, she ___ stopped.",
+      "choices": [
+        "will have",
+        "would have",
+        "had"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli la forma verbale corretta",
+      "en": "If they had practiced, they would have ___ the game.",
+      "choices": [
+        "win",
+        "won",
+        "winning"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli la parola corretta per lo spazio vuoto",
+      "en": "I would have gone to the party if you ___ invited me.",
+      "choices": [
+        "have",
+        "did",
+        "had"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Scegli il significato corretto",
+      "en": "What does 'If I had studied, I would have passed' mean?",
+      "choices": [
+        "I studied and passed",
+        "I did not study and failed",
+        "I am studying right now"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli la frase corretta",
+      "en": "Which sentence is grammatically correct?",
+      "choices": [
+        "If it had rained, we would stayed home.",
+        "If it had rained, we would have stayed home.",
+        "If it rained, we would have stayed home."
+      ],
+      "answer_index": 1
+    }
+  ]
+}

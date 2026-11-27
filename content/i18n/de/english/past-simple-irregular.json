@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-24",
+  "slug": "past-simple-irregular",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🕒",
+  "title": "Häufige unregelmäßige Verben im Past Simple",
+  "summary": "Lerne, wie man über die Vergangenheit spricht, indem du gebräuchliche unregelmäßige Verben nutzt. Du wirst üben, Sätze über gestern und letzte Woche zu bilden.",
+  "sections": [
+    {
+      "h": "Was ist ein unregelmäßiges Verb?",
+      "p": "Normalerweise hängen wir -ed an, um das Past Simple zu bilden, wie bei play und played. Aber manche Verben verändern sich komplett! Das sind unregelmäßige Verben. Du musst ihre speziellen Vergangenheitsformen lernen, weil wir sie jeden Tag auf Englisch benutzen. Sie folgen nicht den normalen Regeln.",
+      "ex": [
+        {
+          "en": "I went to the store yesterday.",
+          "mean": "I travelled to the shop in the past."
+        },
+        {
+          "en": "She saw a good movie last night.",
+          "mean": "She watched a film recently."
+        }
+      ]
+    },
+    {
+      "h": "Go, Have und Do",
+      "p": "Drei der wichtigsten unregelmäßigen Verben sind go, have und do. Die Vergangenheitsform von go ist went. Die Vergangenheitsform von have ist had. Die Vergangenheitsform von do ist did. Wir verwenden diese Verben in fast jedem Gespräch über unser tägliches Leben.",
+      "ex": [
+        {
+          "en": "We had breakfast at eight o'clock.",
+          "mean": "We ate our morning meal earlier."
+        },
+        {
+          "en": "He did his homework after school.",
+          "mean": "He finished his schoolwork in the past."
+        }
+      ]
+    },
+    {
+      "h": "Say, Get und Make",
+      "p": "Andere sehr gebräuchliche Verben sind say, get und make. Ihre Vergangenheitsformen sind said, got und made. Du wirst Muttersprachler ständig diese Verben hören lassen, wenn sie Geschichten erzählen oder darüber sprechen, was früher am Tag passiert ist.",
+      "ex": [
+        {
+          "en": "She said hello to me.",
+          "mean": "She spoke a greeting to me earlier."
+        },
+        {
+          "en": "They made a cake for the party.",
+          "mean": "They created a sweet food in the past."
+        }
+      ]
+    },
+    {
+      "h": "See, Come und Take",
+      "p": "Schauen wir uns zum Schluss see, come und take an. Die Vergangenheitsformen sind saw, came und took. Denk daran, dass diese Wörter nicht auf -ed enden. Du musst jede neue Form auswendig lernen, da sie sich stark von der Gegenwart unterscheiden.",
+      "ex": [
+        {
+          "en": "I saw my friend at the park.",
+          "mean": "My eyes looked at my friend earlier."
+        },
+        {
+          "en": "He took an umbrella because it rained.",
+          "mean": "He carried an umbrella with him."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "went",
+      "mean": "Vergangenheit von go"
+    },
+    {
+      "en": "had",
+      "mean": "Vergangenheit von have"
+    },
+    {
+      "en": "did",
+      "mean": "Vergangenheit von do"
+    },
+    {
+      "en": "said",
+      "mean": "Vergangenheit von say"
+    },
+    {
+      "en": "got",
+      "mean": "Vergangenheit von get"
+    },
+    {
+      "en": "made",
+      "mean": "Vergangenheit von make"
+    },
+    {
+      "en": "saw",
+      "mean": "Vergangenheit von see"
+    },
+    {
+      "en": "came",
+      "mean": "Vergangenheit von come"
+    },
+    {
+      "en": "took",
+      "mean": "Vergangenheit von take"
+    }
+  ],
+  "tip": "Bastle Karteikarten mit dem Verb in der Gegenwart auf der einen Seite und der unregelmäßigen Vergangenheitsform auf der anderen. Übe sie jeden Tag fünf Minuten lang!",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Verb für die Vergangenheit",
+      "en": "I ___ to the supermarket this morning.",
+      "choices": [
+        "go",
+        "went",
+        "goed"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Verb für die Vergangenheit",
+      "en": "She ___ a great time at the party yesterday.",
+      "choices": [
+        "had",
+        "have",
+        "has"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Verb für die Vergangenheit",
+      "en": "We ___ a delicious pizza for dinner.",
+      "choices": [
+        "maked",
+        "make",
+        "made"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Verb für die Vergangenheit",
+      "en": "He ___ his keys on the table.",
+      "choices": [
+        "taked",
+        "take",
+        "took"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Verb für die Vergangenheit",
+      "en": "They ___ a nice bird in the tree.",
+      "choices": [
+        "saw",
+        "seed",
+        "see"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Verb für die Vergangenheit",
+      "en": "My friend ___ to my house last night.",
+      "choices": [
+        "comed",
+        "came",
+        "come"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

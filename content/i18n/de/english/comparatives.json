@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-24",
+  "slug": "comparatives",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "⚖️",
+  "title": "Komparativ: Größer, schöner, besser",
+  "summary": "Lerne, wie du zwei Dinge mit kurzen und langen Wörtern vergleichst. Danach kannst du sagen, was größer, besser oder aufregender ist.",
+  "sections": [
+    {
+      "h": "Kurze Wörter",
+      "p": "Bei kurzen Wörtern wie 'big' oder 'tall' hängen wir ein '-er' an das Ende, um zwei Dinge zu vergleichen. Zum Beispiel ist ein Haus groß (big), aber ein Hotel ist größer (bigger). Nach dem Komparativ verwenden wir meistens das Wort 'als', um die beiden verglichenen Dinge zu verbinden.",
+      "ex": [
+        {
+          "en": "My car is faster than your car.",
+          "mean": "Mein Auto ist schneller als deins."
+        },
+        {
+          "en": "Today is colder than yesterday.",
+          "mean": "Die Temperatur ist heute niedriger."
+        }
+      ]
+    },
+    {
+      "h": "Lange Wörter",
+      "p": "Bei langen Wörtern wie 'beautiful' oder 'expensive' hängen wir kein '-er' an. Das klingt seltsam! Stattdessen stellen wir das Wort 'more' vor das Adjektiv. Wir sagen zum Beispiel 'more expensive' oder 'more interesting'. So lassen sich lange Wörter ganz einfach vergleichen.",
+      "ex": [
+        {
+          "en": "This book is more interesting than that one.",
+          "mean": "Dieses Buch liest sich besser."
+        },
+        {
+          "en": "Your city is more modern than my town.",
+          "mean": "Deine Stadt hat neuere Gebäude."
+        }
+      ]
+    },
+    {
+      "h": "Unregelmäßige Wörter",
+      "p": "Einige gängige Wörter halten sich nicht an die Regeln. Sie verändern sich komplett! Aus 'good' wird 'better' und aus 'bad' wird 'worse'. Du musst diese besonderen Wörter einfach auswendig lernen, weil du sie ständig brauchen wirst.",
+      "ex": [
+        {
+          "en": "Pizza is better than salad.",
+          "mean": "Ich mag Pizza lieber als Salat."
+        },
+        {
+          "en": "My English is better now.",
+          "mean": "Ich spreche besser Englisch als früher."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "comparative",
+      "mean": "zwei Dinge vergleichen"
+    },
+    {
+      "en": "than",
+      "mean": "wird für Vergleiche verwendet"
+    },
+    {
+      "en": "bigger",
+      "mean": "größer"
+    },
+    {
+      "en": "more beautiful",
+      "mean": "schöner"
+    },
+    {
+      "en": "better",
+      "mean": "besser"
+    },
+    {
+      "en": "worse",
+      "mean": "schlechter"
+    },
+    {
+      "en": "short word",
+      "mean": "eine oder zwei Silben"
+    },
+    {
+      "en": "long word",
+      "mean": "drei oder mehr Silben"
+    }
+  ],
+  "tip": "Denk daran: Kurze Wörter bekommen ein '-er' ans Ende, lange Wörter ein 'more' an den Anfang. Und pass bei 'guter' auf, das zu 'besser' wird!",
+  "quiz": [
+    {
+      "ask": "Wähle die richtige Komparativform für ein kurzes Wort.",
+      "en": "My brother is ___ than me.",
+      "choices": [
+        "taller",
+        "more tall",
+        "taller than",
+        "tall"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort für ein langes Adjektiv.",
+      "en": "This phone is ___ than my old one.",
+      "choices": [
+        "expensiver",
+        "more expensive",
+        "expensive",
+        "most expensive"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle den richtigen unregelmäßigen Komparativ.",
+      "en": "Today's weather is ___ than yesterday.",
+      "choices": [
+        "gooder",
+        "more good",
+        "better",
+        "best"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Welches Wort steht normalerweise nach einem Komparativ?",
+      "en": "Her bag is bigger ___ mine.",
+      "choices": [
+        "then",
+        "that",
+        "as",
+        "than"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Wähle die richtige Form des kurzen Adjektivs.",
+      "en": "A bicycle is ___ than a car.",
+      "choices": [
+        "slower",
+        "slow",
+        "more slow",
+        "slowest"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle die richtige Form des langen Adjektivs.",
+      "en": "Action movies are ___ than comedies.",
+      "choices": [
+        "excitinger",
+        "more exciting",
+        "exciting",
+        "most exciting"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

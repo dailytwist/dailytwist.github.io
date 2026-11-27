@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-28",
+  "slug": "common-mistakes",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "💡",
+  "title": "Smetti di fare questi 3 errori comuni!",
+  "summary": "In questa breve lezione imparerai a evitare tre errori molto comuni in inglese. Alla fine, parlerai e scriverai con più chiarezza.",
+  "sections": [
+    {
+      "h": "Dire 'I am agree' invece di 'I agree'",
+      "p": "Molti studenti pensano che 'agree' sia un aggettivo come 'happy', quindi dicono 'I am agree'. Ma 'agree' è un verbo. In inglese non usiamo il verbo 'to be' prima di 'agree'. Di' semplicemente 'I agree' quando condividi la stessa opinione di qualcun altro.",
+      "ex": [
+        {
+          "en": "I agree with your idea.",
+          "mean": "Ho la tua stessa opinione."
+        },
+        {
+          "en": "Do you agree?",
+          "mean": "La pensi allo stesso modo?"
+        }
+      ]
+    },
+    {
+      "h": "Usare 'borrow' e 'lend' nel modo sbagliato",
+      "p": "Queste due parole sono facilissime da confondere. Quando prendi qualcosa da qualcuno per usarla e restituirla in seguito, tu 'borrow' (prendi in prestito). Quando dai qualcosa a qualcuno per un breve periodo, tu 'lend' (presti). Ricorda: borrow prende, lend dà.",
+      "ex": [
+        {
+          "en": "Can I borrow your pen?",
+          "mean": "Posso prendere la tua penna e restituirla più tardi?"
+        },
+        {
+          "en": "Can you lend me ten dollars?",
+          "mean": "Mi puoi dare dieci dollari per un breve periodo?"
+        }
+      ]
+    },
+    {
+      "h": "Confondere 'fun' e 'funny'",
+      "p": "Spesso si usano queste parole per la stessa cosa, ma sono diverse. 'Funny' significa che qualcosa ti fa ridere, come una bella barzelletta. 'Fun' significa che un'attività è piacevole e ti diverte farla.",
+      "ex": [
+        {
+          "en": "That comedy movie was very funny.",
+          "mean": "Il film mi ha fatto ridere molto."
+        },
+        {
+          "en": "Learning English is fun.",
+          "mean": "Imparare l'inglese è un'attività piacevole."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "agree",
+      "mean": "avere la stessa opinione"
+    },
+    {
+      "en": "borrow",
+      "mean": "prendere da usare e restituire"
+    },
+    {
+      "en": "lend",
+      "mean": "dare per un breve periodo"
+    },
+    {
+      "en": "fun",
+      "mean": "piacevole"
+    },
+    {
+      "en": "funny",
+      "mean": "che fa ridere"
+    },
+    {
+      "en": "opinion",
+      "mean": "ciò che pensi"
+    },
+    {
+      "en": "mistake",
+      "mean": "qualcosa fatto in modo errato"
+    }
+  ],
+  "tip": "Crea delle flashcard con le coppie corrette su un lato e la tua madrelingua sull'altro. Rivedile per cinque minuti ogni giorno.",
+  "quiz": [
+    {
+      "ask": "Scegli la parola corretta",
+      "en": "I ___ with you completely.",
+      "choices": [
+        "am agree",
+        "agree",
+        "am agreeing"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli la parola corretta",
+      "en": "Can I ___ your umbrella today?",
+      "choices": [
+        "borrow",
+        "lend",
+        "give"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Scegli la parola corretta",
+      "en": "Please ___ me your jacket for the evening.",
+      "choices": [
+        "borrow",
+        "lend",
+        "take"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli la parola corretta",
+      "en": "The clown at the party was very ___.",
+      "choices": [
+        "fun",
+        "funny",
+        "boring"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli la parola corretta",
+      "en": "We had a lot of ___ at the beach yesterday.",
+      "choices": [
+        "funny",
+        "fun",
+        "laughed"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Trova l'errore in questa frase: 'She am agree with the plan.'",
+      "en": "She am agree with the plan.",
+      "choices": [
+        "Change 'am' to 'is'",
+        "Remove 'am'",
+        "Change 'agree' to 'agrees'"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

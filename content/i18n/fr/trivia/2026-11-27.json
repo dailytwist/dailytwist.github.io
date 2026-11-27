@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-27",
+  "title": "Quiz quotidien de culture générale : 27 novembre 2026",
+  "questions": [
+    {
+      "category": "géographie",
+      "question": "Quel pays enclavé d'Amérique du Sud possède deux capitales officielles : Sucre et La Paz ?",
+      "options": [
+        "Uruguay",
+        "Équateur",
+        "Paraguay",
+        "Bolivie"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La Bolivie partage ses fonctions gouvernementales entre ces deux villes : Sucre est la capitale constitutionnelle et La Paz le siège du gouvernement."
+    },
+    {
+      "category": "science",
+      "question": "Quel est le gaz principal présent dans l'atmosphère de Mars ?",
+      "options": [
+        "Oxygène",
+        "Dioxyde de carbone",
+        "Hydrogène",
+        "Azote"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Le dioxyde de carbone représente environ 95 % de l'atmosphère martienne, le reste étant principalement composé d'azote et d'argon."
+    },
+    {
+      "category": "histoire",
+      "question": "L'antique guerre du Péloponnèse a opposé principalement quelles deux cités-États grecques ?",
+      "options": [
+        "Sparte et Troie",
+        "Corinthe et Thèbes",
+        "Athènes et Corinthe",
+        "Athènes et Sparte"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Ce conflit dévastateur a duré près de trois décennies au Ve siècle avant notre ère et s'est soldé par la défaite d'Athènes."
+    },
+    {
+      "category": "cinéma & pop culture",
+      "question": "Quel film classique de 1941 réalisé par Orson Welles est célebre pour sa cinématographie novatrice et le mystère autour du mot 'Rosebud' ?",
+      "options": [
+        "Casablanca",
+        "Citizen Kane",
+        "Boulevard du coucher",
+        "Le Faucon maltais"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Orson Welles n'avait que 25 ans lorsqu'il a coécrit, réalisé, produit et interprété le rôle principal de Citizen Kane."
+    },
+    {
+      "category": "gastronomie",
+      "question": "Quel est le principal ingrédient aromatique de la liqueur italienne traditionnelle appelée Amaretto ?",
+      "options": [
+        "Graines d'anis",
+        "Grains de café",
+        "Feuilles de menthe poivrée",
+        "Amandes d'abricot"
+      ],
+      "answer_index": 3,
+      "fun_fact": "L'Amaretto tire sa saveur caractéristique d'amande des noyaux d'abricot, bien que certaines recettes modernes utilisent également des noyaux de pêche ou des amandes."
+    },
+    {
+      "category": "animaux",
+      "question": "Quel terme collectif utilise-t-on pour désigner un groupe de flamants roses ?",
+      "options": [
+        "Un charme",
+        "Une ruse",
+        "Une flamboyance",
+        "Un parlement"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La couleur rose vif d'une flamboyance de flamants roses provient des pigments caroténoïdes contenus dans les crustacés et les algues qu'ils consomment."
+    },
+    {
+      "category": "sports",
+      "question": "En athlétisme sur piste, combien de tours d'une piste extérieure standard faut-il parcourir pour courir un 1500 mètres ?",
+      "options": [
+        "4 tours et demi",
+        "4 tours",
+        "3 tours et trois quarts",
+        "3 tours"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Une piste extérieure standard mesure 400 mètres de long, ce qui signifie que les coureurs doivent accomplir trois tours complets plus 300 mètres supplémentaires pour l'épreuve du 1500m."
+    },
+    {
+      "category": "langue",
+      "question": "Quel terme linguistique désigne un mot formé à partir des initiales d'autres mots et prononcé comme un mot unique, tel que 'NASA' ou 'laser' ?",
+      "options": [
+        "Mot-valise",
+        "Acronyme",
+        "Homonyme",
+        "Palindrome"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Contrairement aux sigles comme FBI — où chaque lettre est prononcée individuellement —, les acronymes se prononcent comme des mots à part entière."
+    },
+    {
+      "category": "espace",
+      "question": "Laquelle des lunes galiléennes de Jupiter est l'astre le plus volcaniquement actif du système solaire ?",
+      "options": [
+        "Ganymède",
+        "Europe",
+        "Io",
+        "Callisto"
+      ],
+      "answer_index": 2,
+      "fun_fact": "L'intense activité volcanique d'Io est provoquée par les forces de marée exercées par l'attraction gravitationnelle de Jupiter et de ses autres grandes lunes."
+    },
+    {
+      "category": "géographie",
+      "question": "L'île de Tasmanie est un État appartenant à quel pays ?",
+      "options": [
+        "Nouvelle-Zélande",
+        "Australie",
+        "Fidji",
+        "Indonésie"
+      ],
+      "answer_index": 1,
+      "fun_fact": "La Tasmanie est séparée du continent australien par le détroit de Bass et est célèbre pour ses vastes espaces sauvages et sa faune endémique unique."
+    }
+  ]
+}

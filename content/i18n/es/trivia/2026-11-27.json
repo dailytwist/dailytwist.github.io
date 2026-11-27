@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-27",
+  "title": "Test de Cultura General Diario: 27 de noviembre de 2026",
+  "questions": [
+    {
+      "category": "geografía",
+      "question": "¿Qué país sin salida al mar en Sudamérica tiene dos capitales oficiales: Sucre y La Paz?",
+      "options": [
+        "Uruguay",
+        "Ecuador",
+        "Paraguay",
+        "Bolivia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Bolivia divide sus funciones gubernamentales entre ambas ciudades; Sucre es la capital constitucional y La Paz es la sede del gobierno."
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Cuál es el gas principal que se encuentra en la atmósfera de Marte?",
+      "options": [
+        "Oxígeno",
+        "Dióxido de carbono",
+        "Hidrógeno",
+        "Nitrógeno"
+      ],
+      "answer_index": 1,
+      "fun_fact": "El dióxido de carbono representa alrededor del 95% de la atmósfera marciana, y gran parte del resto está compuesto por nitrógeno y argón."
+    },
+    {
+      "category": "historia",
+      "question": "¿Entre qué dos ciudades-estado griegas se libró principalmente la antigua guerra del Peloponeso?",
+      "options": [
+        "Esparta y Troya",
+        "Corinto y Tebas",
+        "Atenas y Corinto",
+        "Atenas y Esparta"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Este devastador conflicto duró casi tres décadas en el siglo V a. C. y resultó en la derrota de Atenas."
+    },
+    {
+      "category": "cine y cultura pop",
+      "question": "¿Qué película clásica de 1941 dirigida por Orson Welles es famosa por su cinematografía innovadora y el misterio que rodea a la palabra 'Rosebud'?",
+      "options": [
+        "Casablanca",
+        "Citizen Kane",
+        "El crepúsculo de los dioses",
+        "El halcón maltés"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Orson Welles tenía solo 25 años cuando coescribió, dirigió, produjo y protagonizó Citizen Kane."
+    },
+    {
+      "category": "gastronomía",
+      "question": "¿Cuál es el ingrediente principal de sabor en el licor tradicional italiano conocido como amaretto?",
+      "options": [
+        "Semillas de anís",
+        "Granos de café",
+        "Hojas de menta",
+        "Huesos de albaricoque"
+      ],
+      "answer_index": 3,
+      "fun_fact": "El amaretto obtiene su característico sabor a almendra a partir de los huesos de albaricoque, aunque algunas recetas modernas también utilizan huesos de melocotón o almendras."
+    },
+    {
+      "category": "animales",
+      "question": "¿Cómo se le llama a un grupo de flamencos en conjunto?",
+      "options": [
+        "Un encanto",
+        "Una ronda",
+        "Una flamboyance",
+        "Un parlamento"
+      ],
+      "answer_index": 2,
+      "fun_fact": "El vibrante color rosa de una flamboyance de flamencos proviene de los pigmentos carotenoides de los crustáceos y algas que comen."
+    },
+    {
+      "category": "deportes",
+      "question": "En el atletismo de pista y campo estándar, ¿cuántas vueltas a una pista de carrera exterior estándar conforman una carrera de 1500 metros?",
+      "options": [
+        "4 vueltas y media",
+        "4 vueltas",
+        "3 vueltas y tres cuartos",
+        "3 vueltas"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Una pista exterior estándar mide 400 metros de largo, lo que significa que los corredores deben completar tres vueltas completas más unos 300 metros adicionales para la prueba de 1500 m."
+    },
+    {
+      "category": "lenguaje",
+      "question": "¿Qué término lingüístico se utiliza para una palabra formada a partir de las letras iniciales de otras palabras y que se pronuncia como una sola palabra, como 'NASA' o 'láser'?",
+      "options": [
+        "Palabra maleta",
+        "Acrónimo",
+        "Homónimo",
+        "Palíndromo"
+      ],
+      "answer_index": 1,
+      "fun_fact": "A diferencia de las siglas como FBI —donde cada letra se pronuncia individualmente—, los acrónimos se pronuncian como palabras completas."
+    },
+    {
+      "category": "espacio",
+      "question": "¿Cuál de las lunas galileanas de Júpiter es el cuerpo con mayor actividad volcánica del sistema solar?",
+      "options": [
+        "Ganímedes",
+        "Europa",
+        "Ío",
+        "Calisto"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La intensa actividad volcánica de Ío es impulsada por el calentamiento de marea causado por la atracción gravitatoria de Júpiter y sus otras lunas grandes."
+    },
+    {
+      "category": "geografía",
+      "question": "La isla de Tasmania es un estado que pertenece a qué país?",
+      "options": [
+        "Nueva Zelanda",
+        "Australia",
+        "Fiyi",
+        "Indonesia"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Tasmania está separada del territorio continental australiano por el estrecho de Bass y es conocida por sus vastas zonas naturales y su fauna endémica única."
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-24",
+  "slug": "was-were",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "⏳",
+  "title": "Über die Vergangenheit sprechen: Was und Were",
+  "summary": "Lerne, wie du „was“ und „were“ nutzt, um über die Vergangenheit zu sprechen. Danach kannst du beschreiben, wo du gestern warst und wie du dich gefühlt hast.",
+  "sections": [
+    {
+      "h": "Was ist „was“?",
+      "p": "„Was“ ist die Vergangenheitsform von „am“ und „is“. Wir verwenden „was“ bei Singular-Wörtern wie I, he, she und it. Nutze „was“, wenn du über eine Person, einen Ort oder eine Sache in der Vergangenheit sprichst. Zum Beispiel kannst du darüber sprechen, wo du gestern warst oder wie du dich letzte Woche gefühlt hast.",
+      "ex": [
+        {
+          "en": "I was at home yesterday.",
+          "mean": "Gestern bei mir zu Hause"
+        },
+        {
+          "en": "She was happy with her gift.",
+          "mean": "Sie freut sich über ihre Gegenwart"
+        },
+        {
+          "en": "The weather was cold this morning.",
+          "mean": "Heute früh niedrige Temperatur"
+        }
+      ]
+    },
+    {
+      "h": "Was ist „were“?",
+      "p": "„Were“ ist die Vergangenheitsform von „are“. Wir verwenden „were“ bei Plural-Wörtern wie we, you und they. Nutze „were“, wenn du über zwei oder mehr Personen, Orte oder Dinge in der Vergangenheit sprichst. Denke daran, bei dem Wort „you“ immer „were“ zu verwenden, selbst wenn du nur mit einer einzigen Person sprichst.",
+      "ex": [
+        {
+          "en": "We were at the park last night.",
+          "mean": "Gestern Abend im Park"
+        },
+        {
+          "en": "You were late for the meeting.",
+          "mean": "Nach der Zeit angekommen"
+        },
+        {
+          "en": "They were very tired after work.",
+          "mean": "Nach der Arbeit brauchen sie Ruhe"
+        }
+      ]
+    },
+    {
+      "h": "Verneinungen bilden",
+      "p": "Um einen verneinten Satz zu bilden, hängst du einfach „not“ an „was“ oder „were“ an. Wir verwenden oft Kurzformen, um im Alltag schneller und natürlicher zu sprechen. Sag „wasn't“ statt „was not“ und „weren't“ statt „were not“.",
+      "ex": [
+        {
+          "en": "I wasn't hungry at lunch.",
+          "mean": "Wollte nichts essen"
+        },
+        {
+          "en": "They weren't ready for the test.",
+          "mean": "Hat sich nicht auf die Prüfung vorbereitet"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "was",
+      "mean": "Vergangenheitsform von am und is"
+    },
+    {
+      "en": "were",
+      "mean": "Vergangenheitsform von are"
+    },
+    {
+      "en": "wasn't",
+      "mean": "war nicht"
+    },
+    {
+      "en": "weren't",
+      "mean": "waren nicht"
+    },
+    {
+      "en": "yesterday",
+      "mean": "der Tag vor heute"
+    },
+    {
+      "en": "last night",
+      "mean": "gestern Abend"
+    },
+    {
+      "en": "past",
+      "mean": "Zeit vor jetzt"
+    }
+  ],
+  "tip": "Stell dir „I“, „he“, „she“ und „it“ als einzelne Freunde vor, die „was“ mögen. Stell dir „we“, „you“ und „they“ als Gruppen vor, die „were“ mögen.",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "I ___ very tired yesterday.",
+      "choices": [
+        "were",
+        "was",
+        "is"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "They ___ at the supermarket last night.",
+      "choices": [
+        "were",
+        "was",
+        "are"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "She ___ not happy with the service.",
+      "choices": [
+        "were",
+        "are",
+        "was"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "We ___ late because of the traffic.",
+      "choices": [
+        "was",
+        "were",
+        "is"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "You ___ great at the presentation yesterday.",
+      "choices": [
+        "was",
+        "is",
+        "were"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "The weather ___ nice this morning.",
+      "choices": [
+        "was",
+        "were",
+        "are"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

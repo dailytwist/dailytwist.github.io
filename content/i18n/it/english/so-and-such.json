@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-28",
+  "slug": "so-and-such",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🌟",
+  "title": "Usare So e Such",
+  "summary": "Scopri come usare 'so' e 'such' per rendere il tuo inglese più espressivo. Ti eserciterai a descrivere persone, luoghi e cose aggiungendo un tocco di enfasi in più.",
+  "sections": [
+    {
+      "h": "Usare 'So' con gli aggettivi",
+      "p": "Usiamo 'so' prima di un aggettivo per intensificarne il significato. Un aggettivo è una parola che descrive un nome, come 'freddo', 'felice' o 'costoso'. Puoi usare 'so' nelle conversazioni di tutti i giorni per mostrare ciò che provi davvero per qualcosa. Ad esempio, se il tempo è bellissimo, puoi dire che oggi fa proprio caldo fuori.",
+      "ex": [
+        {
+          "en": "The coffee is so hot!",
+          "mean": "Il caffè è molto caldo."
+        },
+        {
+          "en": "She is so nice.",
+          "mean": "È una persona molto gentile."
+        },
+        {
+          "en": "This film is so boring.",
+          "mean": "Questo film non è per niente interessante."
+        }
+      ]
+    },
+    {
+      "h": "Usare 'Such' con i nomi",
+      "p": "Usiamo 'such' prima di un sintagma nominale che contiene sia un aggettivo che un nome. Se il nome è singolare e numerabile, usiamo 'such a' o 'such an'. Per i nomi plurali o non numerabili, usiamo semplicemente 'such' senza 'a' o 'an'. Ti aiuta a descrivere le cose in modo vivido e chiaro.",
+      "ex": [
+        {
+          "en": "It is such a nice day.",
+          "mean": "È una giornata davvero bella."
+        },
+        {
+          "en": "They are such good friends.",
+          "mean": "Sono davvero ottimi amici."
+        },
+        {
+          "en": "It was such bad weather.",
+          "mean": "Il tempo era pessimo."
+        }
+      ]
+    },
+    {
+      "h": "Confronto tra So e Such",
+      "p": "La differenza principale sta in ciò che viene subito dopo la parola. Usa 'so' quando c'è solo un aggettivo. Usa 'such' quando c'è un nome (con o senza aggettivo). Non mettere mai 'a' o 'an' dopo 'so', ma usa sempre 'a' o 'an' con i nomi singolari numerabili dopo 'such'.",
+      "ex": [
+        {
+          "en": "The test was so difficult.",
+          "mean": "Solo un aggettivo segue 'so'."
+        },
+        {
+          "en": "It was such a difficult test.",
+          "mean": "Un sintagma nominale segue 'such'."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "so",
+      "mean": "usato prima di un aggettivo"
+    },
+    {
+      "en": "such",
+      "mean": "usato prima di un nome"
+    },
+    {
+      "en": "adjective",
+      "mean": "una parola che descrive"
+    },
+    {
+      "en": "noun",
+      "mean": "una persona, un luogo o una cosa"
+    },
+    {
+      "en": "expressive",
+      "mean": "che mostra un forte sentimento"
+    },
+    {
+      "en": "countable",
+      "mean": "cose che puoi contare"
+    },
+    {
+      "en": "uncountable",
+      "mean": "cose che non puoi contare"
+    }
+  ],
+  "tip": "Ricorda questa semplice regola: 'So' va d'accordo solo con un aggettivo, mentre 'Such' ha bisogno di un nome da tenere per mano!",
+  "quiz": [
+    {
+      "ask": "Scegli la parola corretta",
+      "en": "The cake is ___ delicious!",
+      "choices": [
+        "such",
+        "so",
+        "such a"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli la parola corretta",
+      "en": "It is ___ beautiful day.",
+      "choices": [
+        "such a",
+        "so",
+        "such"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Scegli la parola corretta",
+      "en": "They are ___ friendly people.",
+      "choices": [
+        "so",
+        "such a",
+        "such"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Scegli la parola corretta",
+      "en": "His car is ___ fast.",
+      "choices": [
+        "such",
+        "such a",
+        "so"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Scegli la parola corretta",
+      "en": "We had ___ great time at the party.",
+      "choices": [
+        "so",
+        "such a",
+        "such"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli la parola corretta",
+      "en": "The music is ___ loud!",
+      "choices": [
+        "such",
+        "such an",
+        "so"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

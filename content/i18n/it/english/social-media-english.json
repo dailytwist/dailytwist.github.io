@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-28",
+  "slug": "social-media-english",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "📱",
+  "title": "Parlare di social media",
+  "summary": "Impara quattro parole comuni per parlare della tua vita online. Fai pratica su come pubblicare, condividere, seguire e trovare argomenti di tendenza.",
+  "sections": [
+    {
+      "h": "Pubblicare e condividere",
+      "p": "Quando metti una nuova foto o un messaggio su internet perché le persone lo vedano, lo pubblichi. Se ti piace qualcosa che un amico ha messo online e vuoi che lo vedano anche i tuoi amici, lo condividi. Queste due azioni sono i modi più comuni per comunicare con le persone sui social media ogni giorno.",
+      "ex": [
+        {
+          "en": "I want to post a picture of my cat.",
+          "mean": "Voglio mettere online una nuova foto di gatti."
+        },
+        {
+          "en": "Please share my message with your friends.",
+          "mean": "Per favore, fai vedere il mio messaggio anche ai tuoi amici."
+        }
+      ]
+    },
+    {
+      "h": "Seguire",
+      "p": "Quando segui qualcuno sui social media, scegli di vedere i suoi nuovi post ogni giorno. Puoi seguire i tuoi amici, i tuoi musicisti preferiti o account divertenti. I loro aggiornamenti compariranno sempre sulla tua schermata principale.",
+      "ex": [
+        {
+          "en": "I follow a lot of great travel bloggers.",
+          "mean": "Ricevo aggiornamenti regolari da molti account di viaggi."
+        },
+        {
+          "en": "Do you follow me on Instagram?",
+          "mean": "Guardi il mio profilo e i miei aggiornamenti?"
+        }
+      ]
+    },
+    {
+      "h": "Di tendenza",
+      "p": "Quando un argomento o un video è di tendenza, significa che molte persone ne stanno parlando o lo stanno guardando in questo momento. È molto popolare su internet oggi. Puoi controllare la lista delle tendenze per vedere cosa c'è di nuovo ed eccitante.",
+      "ex": [
+        {
+          "en": "That funny video is trending today.",
+          "mean": "Tutti stanno guardando quel video divertente in questo momento."
+        },
+        {
+          "en": "What topics are trending in your country?",
+          "mean": "Di cosa sta parlando di più la gente online?"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "post",
+      "mean": "mettere contenuti online"
+    },
+    {
+      "en": "share",
+      "mean": "inviare ad altri"
+    },
+    {
+      "en": "follow",
+      "mean": "iscriversi agli aggiornamenti"
+    },
+    {
+      "en": "trending",
+      "mean": "molto popolare adesso"
+    },
+    {
+      "en": "social media",
+      "mean": "reti online"
+    },
+    {
+      "en": "profile",
+      "mean": "pagina personale"
+    }
+  ],
+  "tip": "Pensa a un'app vera che usi tutti i giorni. Prova a nominare tre cose che vuoi pubblicare o condividere lì oggi.",
+  "quiz": [
+    {
+      "ask": "Scegli la parola corretta",
+      "en": "I want to ___ a nice photo of my dinner on my profile.",
+      "choices": [
+        "follow",
+        "post",
+        "trending"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli la parola corretta",
+      "en": "If you like my article, please ___ it on your page.",
+      "choices": [
+        "share",
+        "follow",
+        "post"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Scegli la parola corretta",
+      "en": "I ___ my favorite singer to see all her new photos.",
+      "choices": [
+        "trending",
+        "share",
+        "follow"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Scegli la parola corretta",
+      "en": "Look at the news! This topic is ___ all over the world.",
+      "choices": [
+        "trending",
+        "post",
+        "follow"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Scegli il significato corretto",
+      "en": "What does it mean when a video is trending?",
+      "choices": [
+        "It is very old.",
+        "Many people are watching it now.",
+        "It is hard to find."
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli il significato corretto",
+      "en": "What do you do when you follow someone?",
+      "choices": [
+        "You block their account.",
+        "You see their new posts.",
+        "You delete their messages."
+      ],
+      "answer_index": 1
+    }
+  ]
+}

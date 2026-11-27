@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-24",
+  "slug": "countable-uncountable",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🍎",
+  "title": "Wörter rund ums Essen: Zählbare und unzählbare Nomen, some und any",
+  "summary": "Lerne, wie du mithilfe von zählbaren und unzählbaren Nomen über Essen sprichst. Finde heraus, wann man 'some' und 'any' richtig einsetzt.",
+  "sections": [
+    {
+      "h": "Zählbare Nomen",
+      "p": "Zählbare Nomen sind Dinge, die wir mit Zahlen zählen können. Im Singular können wir 'a' oder 'an' vor sie setzen. Außerdem haben sie eine Pluralform mit einem 's' am Ende, wie Äpfel oder Bananen. Bei diesen Wörtern fragst du mit 'How many?' (Wie viele?).",
+      "ex": [
+        {
+          "en": "I have an apple in my bag.",
+          "mean": "Ein Apfel, den man zählen kann."
+        },
+        {
+          "en": "Do you want two bananas?",
+          "mean": "Fragen nach einer bestimmten Anzahl von Bananen."
+        },
+        {
+          "en": "We need to buy some carrots.",
+          "mean": "Mehr als eine Karotte, in der Pluralform."
+        }
+      ]
+    },
+    {
+      "h": "Unzählbare Nomen",
+      "p": "Unzählbare Nomen sind Dinge, die wir nicht mit Zahlen zählen können. Sie haben keine Pluralform, wir hängen also niemals ein 's' an das Ende. Wir können weder 'a' noch 'an' vor sie setzen. Bei diesen Wörtern fragst du mit 'How much?' (Wie viel?), wie zum Beispiel bei Wasser, Milch oder Reis.",
+      "ex": [
+        {
+          "en": "I drink water every day.",
+          "mean": "Wasser ist unzählbar, es gibt keinen Plural."
+        },
+        {
+          "en": "Can I have some milk, please?",
+          "mean": "Nach einer unzählbaren Menge an Flüssigkeit fragen."
+        },
+        {
+          "en": "There is no rice left in the kitchen.",
+          "mean": "Reis ist eine Substanz, die man nicht einzeln zählt."
+        }
+      ]
+    },
+    {
+      "h": "Die Verwendung von some und any",
+      "p": "Wir verwenden 'some' in positiven Sätzen sowohl für zählbare als auch für unzählbare Nomen, wenn eine gewisse Menge vorhanden ist. 'Any' verwenden wir in negativen Sätzen mit 'not' sowie in Fragen. 'Any' bedeutet, dass null vorhanden ist, oder wir fragen damit, ob überhaupt etwas da ist.",
+      "ex": [
+        {
+          "en": "I have some bread for breakfast.",
+          "mean": "Positiver Satz mit einem unzählbaren Nomen."
+        },
+        {
+          "en": "We do not have any apples.",
+          "mean": "Negativer Satz mit 'any'."
+        },
+        {
+          "en": "Do you have any questions?",
+          "mean": "Frage mit 'any'."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "countable",
+      "mean": "Dinge, die man zählen kann"
+    },
+    {
+      "en": "uncountable",
+      "mean": "Dinge, die man nicht zählen kann"
+    },
+    {
+      "en": "some",
+      "mean": "eine Menge in positiven Sätzen"
+    },
+    {
+      "en": "any",
+      "mean": "wird in Fragen und Verneinungen verwendet"
+    },
+    {
+      "en": "apple",
+      "mean": "eine zählbare Frucht"
+    },
+    {
+      "en": "water",
+      "mean": "ein unzählbares Getränk"
+    },
+    {
+      "en": "bread",
+      "mean": "ein unzählbares Lebensmittel"
+    },
+    {
+      "en": "banana",
+      "mean": "eine zählbare Frucht"
+    }
+  ],
+  "tip": "Merke dir: Wenn du eine Zahl wie 'eins' oder 'zwei' direkt vor das Nomen setzen kannst, ist es zählbar. Klingt das seltsam, ist es höchstwahrscheinlich unzählbar!",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "I want to buy ___ apple.",
+      "choices": [
+        "a",
+        "an",
+        "some",
+        "any"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "Do we have ___ milk in the fridge?",
+      "choices": [
+        "some",
+        "a",
+        "any",
+        "an"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "She ate ___ rice for lunch.",
+      "choices": [
+        "a",
+        "an",
+        "any",
+        "some"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "There are not ___ oranges left.",
+      "choices": [
+        "any",
+        "some",
+        "an",
+        "a"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "He bought ___ new shoes yesterday.",
+      "choices": [
+        "any",
+        "some",
+        "water",
+        "milk"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "Is there ___ coffee in the cup?",
+      "choices": [
+        "a",
+        "an",
+        "some",
+        "any"
+      ],
+      "answer_index": 3
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-24",
+  "slug": "much-many-a-lot-of",
+  "cefr": "A2",
+  "cat": "grammar",
+  "emoji": "🛒",
+  "title": "Much, Many und A Lot Of",
+  "summary": "Lerne, wie man im Englischen über Mengen spricht. Finde heraus, wann man much, many und a lot of verwendet.",
+  "sections": [
+    {
+      "h": "Was bedeutet 'A Lot Of'?",
+      "p": "Wir verwenden 'a lot of', wenn wir eine große Menge von etwas haben. Das Tolle an 'a lot of' ist, dass du es sowohl mit zählbaren Nomen (wie Äpfeln oder Freunden) als auch mit unzählbaren Nomen (wie Wasser oder Geld) nutzen kannst. Es ist im alltäglichen Englisch sehr geläufig, besonders in positiven Sätzen.",
+      "ex": [
+        {
+          "en": "I have a lot of friends.",
+          "mean": "I have many friends."
+        },
+        {
+          "en": "She drinks a lot of water every day.",
+          "mean": "She drinks a big amount of water."
+        },
+        {
+          "en": "We need a lot of time for this project.",
+          "mean": "We need much time."
+        }
+      ]
+    },
+    {
+      "h": "Wann man 'Many' verwendet",
+      "p": "Wir verwenden 'many' bei zählbaren Nomen. Zählbare Nomen sind Dinge, die du als einzelne Einheiten zählen kannst, wie Bücher, Autos, Stühle oder Äpfel. Meistens nutzen wir 'many' in Fragen und verneinten Sätzen, eher selten in positiven Sätzen.",
+      "ex": [
+        {
+          "en": "How many brothers do you have?",
+          "mean": "Asking about the number of brothers."
+        },
+        {
+          "en": "I don't have many books at home.",
+          "mean": "I have a small number of books."
+        },
+        {
+          "en": "Are there many restaurants in this town?",
+          "mean": "Asking if there are a big number of restaurants."
+        }
+      ]
+    },
+    {
+      "h": "Wann man 'Much' verwendet",
+      "p": "Wir verwenden 'much' bei unzählbaren Nomen. Unzählbare Nomen sind Dinge, die wir nicht einzeln zählen können, wie Wasser, Geld, Zeit, Milch oder Zucker. Genau wie 'many' verwenden wir 'much' eher in verneinten Sätzen und Fragen als in positiven Sätzen.",
+      "ex": [
+        {
+          "en": "How much money do you need?",
+          "mean": "Asking about the amount of money."
+        },
+        {
+          "en": "I don't have much time today.",
+          "mean": "I have a small amount of time."
+        },
+        {
+          "en": "Is there much sugar in this coffee?",
+          "mean": "Asking about the amount of sugar."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "A lot of",
+      "mean": "eine große Menge"
+    },
+    {
+      "en": "Many",
+      "mean": "wird für zählbare Dinge verwendet"
+    },
+    {
+      "en": "Much",
+      "mean": "wird für unzählbare Dinge verwendet"
+    },
+    {
+      "en": "Countable",
+      "mean": "Dinge, die man zählen kann"
+    },
+    {
+      "en": "Uncountable",
+      "mean": "Dinge, die man nicht zählen kann"
+    },
+    {
+      "en": "Quantity",
+      "mean": "wie viel oder wie viele"
+    },
+    {
+      "en": "Negative sentence",
+      "mean": "ein Satz mit 'not'"
+    }
+  ],
+  "tip": "Denk daran: 'Many' ist für Dinge, die du einzeln zählen kannst (many cats). 'Much' ist für Dinge, die du misst (much milk). 'A lot of' funktioniert in positiven Sätzen für beides!",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "I have ___ of homework to do tonight.",
+      "choices": [
+        "much",
+        "many",
+        "a lot",
+        "a lot of"
+      ],
+      "answer_index": 3
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "How ___ apples do we need for the pie?",
+      "choices": [
+        "many",
+        "much",
+        "a lot",
+        "any"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "She doesn't drink ___ coffee in the evening.",
+      "choices": [
+        "many",
+        "much",
+        "a lot of",
+        "some"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "There are ___ nice people in my English class.",
+      "choices": [
+        "much",
+        "much of",
+        "a lot of",
+        "any"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "How ___ time do we have before the train leaves?",
+      "choices": [
+        "many",
+        "long",
+        "much",
+        "often"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "I don't have ___ friends in this new city yet.",
+      "choices": [
+        "much",
+        "many",
+        "a lot",
+        "little"
+      ],
+      "answer_index": 1
+    }
+  ]
+}
