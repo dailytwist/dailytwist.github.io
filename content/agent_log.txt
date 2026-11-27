@@ -1,64 +1,56 @@
-- horoscopes 2026-11-27
 ::warning::Gemini models available: gemini-2.5-flash, gemini-2.5-pro, gemini-2.5-flash-preview-tts, gemini-2.5-pro-preview-tts, gemma-4-26b-a4b-it, gemma-4-31b-it, gemini-flash-latest, gemini-flash-lite-latest, gemini-pro-latest, gemini-2.5-flash-lite, gemini-2.5-flash-image, gemini-3-flash-preview, gemini-3.1-pro-preview, gemini-3.1-pro-preview-customtools, gemini-3.1-flash-lite-preview, gemini-3.1-flash-lite, gemini-3-pro-image-preview, gemini-3-pro-image, nano-banana-pro-preview, gemini-3.1-flash-image-preview, gemini-3.1-flash-image, gemini-3.1-flash-lite-image, gemini-nano-banana-2.1, gemini-3.5-flash, gemini-3.5-flash-lite, gemini-omni-flash-preview, gemini-omni-1.1-flash, gemini-omni-1.2-flash, gemini-3.5-transcribe, gemini-3.6-flash, gemini-3.7-flash, gemini-3.8-flash, gemini-4-argon, gemini-4-carbon, gemini-4-hydrogen, gemini-4-neon, lyria-3-clip-preview, lyria-3-pro-preview, lyria-3.5, gemini-3.1-flash-tts-preview
 ::warning::using Gemini model: gemini-3.5-flash-lite
-  saved content/horoscopes/2026-11-27.json
-- trivia 2026-11-27
-  saved content/trivia/2026-11-27.json
-  saved content/i18n/es/horoscopes/2026-11-27.json
-  saved content/i18n/es/trivia/2026-11-27.json
+  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
 ::warning::translate articles/who-is-anthony-joshua-the-heavyweight-champion-s-journey.json -> es failed: translated JSON has a different structure
-  saved content/i18n/fr/horoscopes/2026-11-27.json
-  saved content/i18n/fr/trivia/2026-11-27.json
-  saved content/i18n/de/horoscopes/2026-11-27.json
-  saved content/i18n/de/trivia/2026-11-27.json
+  saved content/i18n/de/english/present-continuous.json
+  saved content/i18n/de/names/rachid.json
+  saved content/i18n/de/names/nabil.json
+  saved content/i18n/de/names/matteo.json
+  saved content/i18n/de/names/luca.json
+  saved content/i18n/de/names/nathan.json
+  saved content/i18n/de/names/felix.json
+  saved content/i18n/de/names/tariq.json
+  saved content/i18n/de/names/elias.json
+  saved content/i18n/pt/articles/christian-bale-the-master-of-extreme-transformations.json
+  saved content/i18n/pt/articles/mercury-retrograde-explained-what-it-is-what-to-expect.json
+  saved content/i18n/pt/articles/what-is-your-rising-sign-and-why-it-actually-matters.json
+  saved content/i18n/it/english/health-and-fitness.json
+  saved content/i18n/it/english/say-tell-speak-talk.json
+  saved content/i18n/it/english/wish-and-if-only.json
+  saved content/i18n/it/english/future-continuous-and-perfect.json
+  saved content/i18n/it/english/linking-words.json
+  saved content/i18n/it/english/environment.json
+  saved content/i18n/it/english/too-and-enough.json
+  saved content/i18n/it/english/idioms-everyday.json
+  saved content/i18n/it/names/chaimae.json
+  saved content/i18n/ja/names/reda.json
   AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/de/guides/birthday-february-2.json
+  saved content/i18n/ja/articles/signs-you-met-your-soulmate-fun-meaningful-clues.json
+  saved content/i18n/ja/articles/what-is-nintendo-switch-firmware-the-complete-guide.json
+  saved content/i18n/ar/guides/birthday-october-7.json
+  saved content/i18n/ar/guides/birthday-october-3.json
+  saved content/i18n/ar/guides/birthday-october-1.json
   AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/de/guides/angel-717.json
-  saved content/i18n/de/guides/birthday-february-4.json
-  saved content/i18n/de/guides/birthday-february-5.json
-  saved content/i18n/de/guides/birthday-february-7.json
-  saved content/i18n/de/guides/birthday-january-31.json
-  saved content/i18n/de/guides/angel-303.json
-  JSON was broken, asking once more
-  saved content/i18n/pt/horoscopes/2026-11-27.json
-  saved content/i18n/pt/trivia/2026-11-27.json
-  saved content/i18n/pt/guides/birthday-september-13.json
-  saved content/i18n/it/horoscopes/2026-11-27.json
-  saved content/i18n/it/trivia/2026-11-27.json
-  saved content/i18n/it/guides/birthday-april-27.json
-  JSON was broken, asking once more
-  saved content/i18n/it/guides/birthday-april-15.json
-  saved content/i18n/it/guides/birthday-april-24.json
-  saved content/i18n/it/guides/birthday-april-29.json
-  saved content/i18n/it/guides/birthday-april-16.json
-  saved content/i18n/it/english/so-and-such.json
-  saved content/i18n/it/english/money-and-banking.json
-  saved content/i18n/ja/horoscopes/2026-11-27.json
-  saved content/i18n/ja/trivia/2026-11-27.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/ja/names/abdelilah.json
-  saved content/i18n/ar/horoscopes/2026-11-27.json
-  saved content/i18n/ar/trivia/2026-11-27.json
-  saved content/i18n/ar/guides/birthday-september-28.json
 ::warning::translate articles/who-is-anthony-joshua-the-heavyweight-champion-s-journey.json -> es failed: translated JSON has a different structure
-  saved content/i18n/de/english/superlatives.json
-  saved content/i18n/de/english/countable-uncountable.json
-  saved content/i18n/de/english/past-simple-regular.json
-  saved content/i18n/de/english/going-to-future.json
-  saved content/i18n/de/english/past-simple-irregular.json
-  saved content/i18n/de/english/comparatives.json
-  AI call failed (HTTP Error 503: Service Unavailable { "error": { "code": 503, "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.", "status": "UNAVAILABLE" } }), retry 1/4 in 10s
-  saved content/i18n/de/english/much-many-a-lot-of.json
-  saved content/i18n/de/english/like-love-hate-ing.json
-  saved content/i18n/de/english/was-were.json
-  saved content/i18n/pt/guides/birthday-september-18.json
-  saved content/i18n/pt/guides/birthday-september-14.json
-  saved content/i18n/pt/guides/birthday-september-15.json
-  saved content/i18n/it/english/past-perfect.json
-  saved content/i18n/it/english/common-mistakes.json
-  JSON was broken, asking once more
-  saved content/i18n/it/english/british-vs-american.json
-  saved content/i18n/it/english/social-media-english.json
-  saved content/i18n/it/english/third-conditional.json
+  saved content/i18n/de/names/hicham.json
+  saved content/i18n/de/names/max.json
+  saved content/i18n/de/names/yassine.json
+  saved content/i18n/de/names/michael.json
+  saved content/i18n/de/names/lorenzo.json
+  saved content/i18n/de/names/samir.json
+  saved content/i18n/de/names/idriss.json
+  saved content/i18n/de/names/david.json
+  saved content/i18n/de/names/marco.json
+  saved content/i18n/pt/guides/birthday-july-15.json
+  saved content/i18n/pt/names/ida.json
+  saved content/i18n/pt/names/hana.json
+  saved content/i18n/it/names/houda.json
+  saved content/i18n/it/names/wiam.json
+  saved content/i18n/it/names/ikram.json
+  saved content/i18n/it/names/asmae.json
+  saved content/i18n/it/names/emma.json
+  saved content/i18n/it/names/kenji.json
+  saved content/i18n/it/names/jonas.json
+  saved content/i18n/it/names/samira.json
+  saved content/i18n/it/names/ghita.json
 Agent finished.

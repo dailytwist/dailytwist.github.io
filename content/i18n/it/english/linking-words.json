@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-28",
+  "slug": "linking-words",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🌉",
+  "title": "Collegare le tue idee: parole di transizione",
+  "summary": "In questa lezione imparerai a collegare le tue frasi in modo chiaro. Esamineremo parole che esprimono motivi e idee contrarie.",
+  "sections": [
+    {
+      "h": "Esprimere motivi: Because e So",
+      "p": "Usiamo 'because' per dare un motivo a qualcosa. Risponde alla domanda 'perché?'. Usiamo 'so' per parlare del risultato di un'azione. 'Because' viene prima del motivo, mentre 'so' viene prima del risultato. Queste parole rendono il tuo parlato e la tua scrittura molto più naturali.",
+      "ex": [
+        {
+          "en": "I stayed at home because it was raining.",
+          "mean": "La pioggia è il motivo per cui sono rimasto a casa."
+        },
+        {
+          "en": "It was raining, so I took an umbrella.",
+          "mean": "Prendere l'ombrello è la conseguenza della pioggia."
+        }
+      ]
+    },
+    {
+      "h": "Mettere in contrasto le idee: Although",
+      "p": "Usiamo 'although' per mostrare un contrasto inaspettato tra due idee. Ci dice che qualcosa è accaduto nonostante ci fosse una situazione difficile. Di solito si colloca all'inizio o nel mezzo della frase.",
+      "ex": [
+        {
+          "en": "Although he was tired, he finished his homework.",
+          "mean": "Era stanco, ma ha lavorato lo stesso."
+        },
+        {
+          "en": "She bought the shoes although they were expensive.",
+          "mean": "Il prezzo era alto, ma li ha comprati comunque."
+        }
+      ]
+    },
+    {
+      "h": "Contrasti formali: However e Therefore",
+      "p": "Parole come 'however' e 'therefore' vengono spesso usate nello scritto o in contesti più formali. 'However' è simile a 'although' e mostra un contrasto. 'Therefore' è simile a 'so' e mostra un risultato diretto. Di solito mettiamo una virgola dopo di esse.",
+      "ex": [
+        {
+          "en": "The train was late. However, we arrived on time.",
+          "mean": "Il treno in ritardo è stato un problema, ma siamo comunque arrivati abbastanza presto."
+        },
+        {
+          "en": "He studied very hard; therefore, he passed the exam.",
+          "mean": "Il suo impegno è servito a superare il test."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "because",
+      "mean": "fornisce un motivo"
+    },
+    {
+      "en": "so",
+      "mean": "mostra un risultato"
+    },
+    {
+      "en": "although",
+      "mean": "mostra un contrasto"
+    },
+    {
+      "en": "however",
+      "mean": "tuttavia o eppure"
+    },
+    {
+      "en": "therefore",
+      "mean": "per questo motivo"
+    },
+    {
+      "en": "result",
+      "mean": "ciò che accade dopo"
+    },
+    {
+      "en": "reason",
+      "mean": "perché accade qualcosa"
+    }
+  ],
+  "tip": "Prova a scrivere due frasi vere sulla tua giornata, poi collegane usando 'because' o 'so'. La pratica rende perfetti!",
+  "quiz": [
+    {
+      "ask": "Scegli la parola di collegamento corretta",
+      "en": "I wore a coat ___ it was very cold outside.",
+      "choices": [
+        "because",
+        "so",
+        "however"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Scegli la parola di collegamento corretta",
+      "en": "She missed the bus, ___ she was late for work.",
+      "choices": [
+        "although",
+        "so",
+        "because"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli la parola di collegamento corretta",
+      "en": "___ the test was difficult, he got a good grade.",
+      "choices": [
+        "Therefore",
+        "Because",
+        "Although"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Scegli la parola di collegamento corretta",
+      "en": "The hotel was old. ___, it was very clean and comfortable.",
+      "choices": [
+        "However",
+        "So",
+        "Because"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Scegli la parola di collegamento corretta",
+      "en": "They practiced every day; ___, they won the match.",
+      "choices": [
+        "although",
+        "therefore",
+        "however"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli l'opzione corretta",
+      "en": "I love cooking, ___ I don't have much free time.",
+      "choices": [
+        "because",
+        "therefore",
+        "although"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

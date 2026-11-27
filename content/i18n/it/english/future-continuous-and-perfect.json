@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-28",
+  "slug": "future-continuous-and-perfect",
+  "cefr": "B2",
+  "cat": "grammar",
+  "emoji": "🚀",
+  "title": "Uno sguardo al futuro: Future Continuous e Future Perfect",
+  "summary": "In questa lezione imparerai a usare due utili tempi verbali futuri. Riuscirai a parlare di azioni in corso e di azioni concluse nel futuro.",
+  "sections": [
+    {
+      "h": "Future Continuous",
+      "p": "Usa il future continuous per parlare di un'azione che sarà in corso a un'ora specifica nel futuro. Si forma con 'will be' più il verbo con la desinenza '-ing'. Immagina una foto scattata domani alle 20:00: cosa stai facendo in quello scatto? È in quel momento che usi questo tempo verbale.",
+      "ex": [
+        {
+          "en": "At 8 PM tonight, I will be watching my favorite TV show.",
+          "mean": "L'azione inizia prima delle 20:00 e continua dopo le 20:00."
+        },
+        {
+          "en": "Don't call me at noon because I will be having a team meeting.",
+          "mean": "Mi trovo nel bel mezzo di una riunione esattamente a quell'ora."
+        }
+      ]
+    },
+    {
+      "h": "Future Perfect",
+      "p": "Usa il future perfect per parlare di un'azione che sarà completata prima di un momento specifico nel futuro. Si forma con 'will have' più il participio passato del verbo. Immagina di guardare indietro da un punto nel futuro per dire che qualcosa è già stato fatto.",
+      "ex": [
+        {
+          "en": "By next Friday, I will have finished my big project.",
+          "mean": "Il progetto è completato prima che arrivi venerdì prossimo."
+        },
+        {
+          "en": "She will have moved to a new apartment by the end of June.",
+          "mean": "Il processo di trasloco è terminato prima di luglio."
+        }
+      ]
+    },
+    {
+      "h": "Confronto tra i due tempi",
+      "p": "A volte si fa confusione tra questi due tempi verbali, ma hanno significati diversi. Il future continuous si concentra sul percorso o sul processo che si svolge in un momento futuro. Il future perfect si concentra sul risultato finale raggiunto entro una scadenza futura. Scegli quello giusto a seconda che ti interessi il processo o il traguardo.",
+      "ex": [
+        {
+          "en": "At 10 AM, I will be working on the report.",
+          "mean": "Sono proprio nel bel mezzo della stesura in quel preciso momento."
+        },
+        {
+          "en": "By 10 AM, I will have sent the report.",
+          "mean": "Il compito è completamente terminato prima delle 10:00."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Future continuous",
+      "mean": "azione futura in corso"
+    },
+    {
+      "en": "Future perfect",
+      "mean": "azione futura completata"
+    },
+    {
+      "en": "In progress",
+      "mean": "in corso proprio ora"
+    },
+    {
+      "en": "Deadline",
+      "mean": "limite di tempo finale"
+    },
+    {
+      "en": "Past participle",
+      "mean": "terza forma del verbo"
+    },
+    {
+      "en": "By the time",
+      "mean": "in quel momento o prima"
+    },
+    {
+      "en": "Action",
+      "mean": "qualcosa che fai"
+    },
+    {
+      "en": "Result",
+      "mean": "il risultato finale"
+    }
+  ],
+  "tip": "Ricorda 'will be' per le azioni che si svolgono nel tempo e 'will have' per le scadenze in cui le cose sono già concluse.",
+  "quiz": [
+    {
+      "ask": "Scegli la forma futura corretta",
+      "en": "This time tomorrow, we ___ on a sunny beach.",
+      "choices": [
+        "will be relaxing",
+        "will have relaxed",
+        "relaxing"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Scegli la forma futura corretta",
+      "en": "By next year, they ___ a new house.",
+      "choices": [
+        "will be building",
+        "will have built",
+        "build"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli la forma futura corretta",
+      "en": "Don't visit at 3 PM because I ___ for my exam.",
+      "choices": [
+        "will have studied",
+        "studied",
+        "will be studying"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Scegli la forma futura corretta",
+      "en": "She ___ cooking dinner by the time you arrive.",
+      "choices": [
+        "will have finished",
+        "will be finishing",
+        "finishes"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Scegli la forma futura corretta",
+      "en": "At midnight, most people ___ sleeping.",
+      "choices": [
+        "will have slept",
+        "will be",
+        "will be sleeping"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Scegli la forma futura corretta",
+      "en": "By the end of the month, I ___ all my books.",
+      "choices": [
+        "will have read",
+        "will be reading",
+        "read"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

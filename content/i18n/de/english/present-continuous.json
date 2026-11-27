@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-24",
+  "slug": "present-continuous",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "🌟",
+  "title": "Was machst du gerade?",
+  "summary": "Lerne, über Handlungen zu sprechen, die genau in diesem Moment passieren. Verwende das Present Continuous, um das Leben in genau diesem Augenblick zu beschreiben.",
+  "sections": [
+    {
+      "h": "Was ist das Present Continuous?",
+      "p": "Wir verwenden das Present Continuous, um über Dinge zu sprechen, die jetzt gerade passieren. Wir nutzen das Verb „to be“ (am, is, are) plus ein Tunwort mit der Endung „-ing“. Anstatt zum Beispiel einfach zu sagen „I read“, sagen wir „I am reading“, wenn das Buch in diesem exakten Moment vor uns aufgeschlagen ist.",
+      "ex": [
+        {
+          "en": "I am eating lunch now.",
+          "mean": "Essen ist genau in diesem Sekundebruchstück in meinem Mund"
+        },
+        {
+          "en": "She is listening to music.",
+          "mean": "Musik spielt jetzt gerade in ihren Ohren"
+        }
+      ]
+    },
+    {
+      "h": "Die Bildung für „I“, „He“, „She“, „It“",
+      "p": "Wenn du über dich selbst sprichst, verwende „am“ plus das Verb mit „-ing“. Für eine andere Person oder Sache wie he, she oder it verwendest du „is“ plus das Verb mit „-ing“. Das eignet sich hervorragend, um zu beschreiben, was Leute um dich herum in genau dieser Sekunde tun.",
+      "ex": [
+        {
+          "en": "I am working at my desk.",
+          "mean": "Ich erledige genau jetzt meine Arbeit"
+        },
+        {
+          "en": "He is running in the park.",
+          "mean": "Seine Füße bewegen sich jetzt schnell draußen"
+        }
+      ]
+    },
+    {
+      "h": "Die Bildung für „We“, „You“, „They“",
+      "p": "Wenn du über Gruppen oder die Person sprichst, mit der du redest, verwende „are“ plus das Verb mit „-ing“. Das hilft dir dabei, Gruppenaktivitäten und Dinge zu beschreiben, die in Echtzeit überall um dich herum passieren.",
+      "ex": [
+        {
+          "en": "We are learning English together.",
+          "mean": "Wir lernen jetzt diese Lektion"
+        },
+        {
+          "en": "They are playing soccer outside.",
+          "mean": "Jene Leute treten jetzt gegen einen Ball"
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "am",
+      "mean": "wird mit I verwendet"
+    },
+    {
+      "en": "is",
+      "mean": "wird mit he, she, it verwendet"
+    },
+    {
+      "en": "are",
+      "mean": "wird mit you, we, they verwendet"
+    },
+    {
+      "en": "now",
+      "mean": "in diesem Moment"
+    },
+    {
+      "en": "eating",
+      "mean": "essen"
+    },
+    {
+      "en": "reading",
+      "mean": "Wörter anschauen"
+    },
+    {
+      "en": "sleeping",
+      "mean": "mit geschlossenen Augen ausruhen"
+    },
+    {
+      "en": "working",
+      "mean": "eine Arbeit verrichten"
+    }
+  ],
+  "tip": "Schau dich jetzt in deinem Zimmer um und forme drei Sätze. Sag laut auf, was du tust, was ein Freund tut und was ihr beide tragt!",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "I ___ reading a very good book.",
+      "choices": [
+        "is",
+        "am",
+        "are"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "She ___ cooking dinner in the kitchen.",
+      "choices": [
+        "is",
+        "am",
+        "are"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "We ___ learning English today.",
+      "choices": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle die richtige Endung",
+      "en": "They are play___ soccer outside.",
+      "choices": [
+        "ed",
+        "s",
+        "ing"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle den richtigen Satz",
+      "en": "Which sentence means it is happening now?",
+      "choices": [
+        "He is sleeping.",
+        "He sleeps every day.",
+        "He slept yesterday."
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "What ___ you doing right now?",
+      "choices": [
+        "is",
+        "are",
+        "am"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

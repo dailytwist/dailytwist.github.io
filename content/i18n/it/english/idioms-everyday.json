@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-28",
+  "slug": "idioms-everyday",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "🎨",
+  "title": "10 modi di dire inglesi di tutti i giorni",
+  "summary": "Impara 10 comuni modi di dire inglesi che i madrelingua usano ogni giorno. Scopri cosa significano davvero per suonare più naturale.",
+  "sections": [
+    {
+      "h": "Colori e umore",
+      "p": "Chi parla inglese usa spesso i colori per esprimere come si sente. Quando sei triste, potresti sentirti \"blu\". Quando ricevi un regalo a sorpresa o una buona notizia all'improvviso, accade completamente inaspettatamente. Queste espressioni colorate rendono le conversazioni quotidiane molto più interessanti e piacevoli da ascoltare.",
+      "ex": [
+        {
+          "en": "I was feeling a bit blue yesterday, so I watched my favorite comedy movie.",
+          "mean": "Ieri mi sentivo un po' giù, così ho guardato la mia commedia preferita."
+        },
+        {
+          "en": "The job offer came out of the blue, and I was so happy.",
+          "mean": "La proposta di lavoro è arrivata all'improvviso ed ero felicissimo."
+        },
+        {
+          "en": "She passed her driving test with flying colors.",
+          "mean": "Ha superato l'esame di guida con un punteggio altissimo e un grande successo."
+        }
+      ]
+    },
+    {
+      "h": "Cibo e animali",
+      "p": "Il cibo e gli animali sono molto popolari nei modi di dire inglesi. Se sei molto nervoso prima di una grande presentazione, potresti sentire dei piccoli animaletti muoversi nello stomaco. Oppure, se riveli accidentalmente un segreto che doveva rimanere nascosto, crei un grosso problema per tutti.",
+      "ex": [
+        {
+          "en": "I had butterflies in my stomach before going on stage.",
+          "mean": "Ero molto nervoso prima di salire sul palco."
+        },
+        {
+          "en": "Who spilled the beans about the surprise party?",
+          "mean": "Chi ha fatto la spia sulla festa a sorpresa?"
+        },
+        {
+          "en": "Let's call it a day and go home.",
+          "mean": "Smettiamo di lavorare per oggi e torniamo a casa."
+        }
+      ]
+    },
+    {
+      "h": "Azione e successo",
+      "p": "Per parlare dell'inizio di un compito o dell'affrontare una situazione difficile, i madrelingua usano espressioni basate sull'azione. Invece di parlare a lungo, qualcuno potrebbe chiederti di arrivare dritti al punto. Quando fai qualcosa alla perfezione, fai centro.",
+      "ex": [
+        {
+          "en": "Stop beating around the bush and tell me what you think.",
+          "mean": "Smetti di girarci intorno e dimmi cosa ne pensi."
+        },
+        {
+          "en": "You hit the nail on the head with that guess.",
+          "mean": "Hai descritto la situazione o la risposta in modo assolutamente corretto."
+        },
+        {
+          "en": "Under the weather, I decided to stay in bed.",
+          "mean": "Sentendomi un po' poco bene, ho deciso di stare a letto."
+        },
+        {
+          "en": "Cost an arm and a leg, but the laptop is great.",
+          "mean": "È costato un occhio della testa, ma il computer portatile è fantastico."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "feel blue",
+      "mean": "sentirsi triste"
+    },
+    {
+      "en": "out of the blue",
+      "mean": "inaspettatamente"
+    },
+    {
+      "en": "flying colors",
+      "mean": "grande successo"
+    },
+    {
+      "en": "butterflies in my stomach",
+      "mean": "sentirsi nervoso"
+    },
+    {
+      "en": "spill the beans",
+      "mean": "rivelare un segreto"
+    },
+    {
+      "en": "call it a day",
+      "mean": "smettere di lavorare"
+    },
+    {
+      "en": "beat around the bush",
+      "mean": "girare intorno al problema"
+    },
+    {
+      "en": "hit the nail on the head",
+      "mean": "avere perfettamente ragione"
+    },
+    {
+      "en": "under the weather",
+      "mean": "sentirsi un po' indisposto"
+    },
+    {
+      "en": "cost an arm and a leg",
+      "mean": "molto costoso"
+    }
+  ],
+  "tip": "Non tradurre i modi di dire letteralmente nella tua lingua madre, perché non avrebbero senso. Cerca invece di imparare l'intera frase come un unico concetto.",
+  "quiz": [
+    {
+      "ask": "Scegli il modo di dire corretto per sentirsi tristi.",
+      "en": "Lately, John has been feeling ___ because his best friend moved away.",
+      "choices": [
+        "red",
+        "blue",
+        "green"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli il modo di dire corretto per smettere di lavorare.",
+      "en": "We have worked for eight hours. Let's ___ and go home.",
+      "choices": [
+        "call it a day",
+        "spill the beans",
+        "hit the nail"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Scegli il modo di dire corretto per rivelare un segreto.",
+      "en": "Mark accidentally ___ about the holiday destination.",
+      "choices": [
+        "ate the cake",
+        "spilled the beans",
+        "beat the bush"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli il modo di dire corretto per qualcosa di molto costoso.",
+      "en": "That new sports car must ___!",
+      "choices": [
+        "be very cheap",
+        "cost an arm and a leg",
+        "fly with colors"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli il modo di dire corretto per l'essere nervosi.",
+      "en": "I always get ___ before a job interview.",
+      "choices": [
+        "blue skies",
+        "flying colors",
+        "butterflies in my stomach"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Scegli il modo di dire corretto per avere ragione.",
+      "en": "Your explanation of the problem really ___.",
+      "choices": [
+        "hit the nail on the head",
+        "spilled the beans",
+        "felt blue"
+      ],
+      "answer_index": 0
+    }
+  ]
+}
