@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-23",
+  "slug": "jobs",
+  "cefr": "A1",
+  "cat": "vocab",
+  "emoji": "💼",
+  "title": "Jobs und Arbeit",
+  "summary": "Lerne, wie du auf Englisch über deinen Beruf sprichst. Du wirst nützliche Wörter für verschiedene Berufe kennenlernen.",
+  "sections": [
+    {
+      "h": "Über den eigenen Job sprechen",
+      "p": "Wenn wir auf Englisch über Berufe sprechen, verwenden wir das Verb 'to be' (sein) und die Wörter 'a' oder 'an' (ein/eine). Verwende 'a' vor Wörtern, die mit einem Konsonanten beginnen, und 'an' vor Vokalen (a, e, i, o, u). Das ist eine einfache und höfliche Art, Leuten zu erzählen, was du jeden Tag beruflich machst.",
+      "ex": [
+        {
+          "en": "I am a teacher.",
+          "mean": "Meine Aufgabe ist es, Menschen zu unterrichten."
+        },
+        {
+          "en": "She is an engineer.",
+          "mean": "Ihre Aufgabe ist es, Dinge zu bauen."
+        },
+        {
+          "en": "He is a chef.",
+          "mean": "Seine Aufgabe ist es, Essen zu kochen."
+        }
+      ]
+    },
+    {
+      "h": "Nach Berufen fragen",
+      "p": "Um jemanden nach seinem Beruf zu fragen, nutzen wir eine sehr geläufige Frage. Du kannst 'What do you do?' oder 'What is your job?' fragen. Beide Fragen sind sehr höflich und lassen sich leicht verwenden, wenn du neue Leute bei der Arbeit oder in geselliger Runde triffst.",
+      "ex": [
+        {
+          "en": "What do you do?",
+          "mean": "Erzähl mir von deinem Beruf."
+        },
+        {
+          "en": "What is your job?",
+          "mean": "Welche Arbeit machst du?"
+        },
+        {
+          "en": "I am a student.",
+          "mean": "Ich lerne an einer Schule oder Universität."
+        }
+      ]
+    },
+    {
+      "h": "Wo arbeitest du?",
+      "p": "Du kannst Leuten auch verraten, an welchem Ort du arbeitest. Wir verwenden das Wort 'at' oder 'in' vor dem Namen des Ortes. Das liefert mehr Details zu deinem Beruf und hilft anderen, deinen Alltag besser zu verstehen.",
+      "ex": [
+        {
+          "en": "I work in an office.",
+          "mean": "Mein Arbeitsplatz ist ein Büro."
+        },
+        {
+          "en": "She works in a hospital.",
+          "mean": "Ihr Arbeitsplatz ist ein Krankenhaus."
+        },
+        {
+          "en": "He works from home.",
+          "mean": "Sein Haus ist sein Arbeitsplatz."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Teacher",
+      "mean": "Person, die unterrichtet"
+    },
+    {
+      "en": "Doctor",
+      "mean": "Person, die kranken Menschen hilft"
+    },
+    {
+      "en": "Chef",
+      "mean": "Person, die Essen kocht"
+    },
+    {
+      "en": "Engineer",
+      "mean": "Person, die Dinge baut"
+    },
+    {
+      "en": "Student",
+      "mean": "Person, die lernt"
+    },
+    {
+      "en": "Office",
+      "mean": "Ort mit Schreibtischen und Computern"
+    },
+    {
+      "en": "Hospital",
+      "mean": "Ort für kranke Menschen"
+    },
+    {
+      "en": "Work",
+      "mean": "seine Arbeit verrichten"
+    }
+  ],
+  "tip": "Setze immer 'a' oder 'an' vor eine einzelne Berufsbezeichnung. Sag zum Beispiel 'I am a doctor' und nicht 'I am doctor'.",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "I ___ a teacher.",
+      "choices": [
+        "is",
+        "am",
+        "are"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "She is ___ engineer.",
+      "choices": [
+        "a",
+        "an",
+        "the"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle die richtige Frage",
+      "en": "___ do you do?",
+      "choices": [
+        "What",
+        "Where",
+        "Who"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "He works ___ a hospital.",
+      "choices": [
+        "on",
+        "at",
+        "to"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle den richtigen Satz",
+      "en": "Select the right job sentence.",
+      "choices": [
+        "I am doctor.",
+        "I am a doctor.",
+        "I a doctor am."
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "A chef works with ___.",
+      "choices": [
+        "food",
+        "computers",
+        "cars"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

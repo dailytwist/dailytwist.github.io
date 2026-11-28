@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-23",
+  "slug": "there-is-there-are",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "🏠",
+  "title": "There is und There Are",
+  "summary": "Lerne, wie man über Dinge in einem Raum oder an einem Ort spricht. Verwende diese Wörter, um zu zeigen, dass etwas da ist.",
+  "sections": [
+    {
+      "h": "Was ist „There is“?",
+      "p": "Wir verwenden „there is“ für eine Sache. Das ist die Einzahl. Danach benutzen wir oft „a“ oder „an“. Zum Beispiel kannst du über einen Apfel auf dem Tisch oder eine Katze im Garten sprechen. Das ist ganz einfach und im Alltag super nützlich.",
+      "ex": [
+        {
+          "en": "There is a book on the table.",
+          "mean": "Ein Buch liegt auf dem Tisch."
+        },
+        {
+          "en": "There is an apple in the bag.",
+          "mean": "Ein Apfel ist in der Tasche."
+        }
+      ]
+    },
+    {
+      "h": "Was ist „There are“?",
+      "p": "Wir verwenden „there are“ für zwei oder mehr Dinge. Das ist die Mehrzahl. Wir hängen ein „s“ an das Ende des Nomens. Zum Beispiel sprechen wir über zwei Katzen, drei Bücher oder viele Freunde. Verwende dies, wenn du mehr als einen Gegenstand siehst.",
+      "ex": [
+        {
+          "en": "There are three books on the table.",
+          "mean": "Mehr als ein Buch liegt auf dem Tisch."
+        },
+        {
+          "en": "There are two cats in the garden.",
+          "mean": "Mehr als eine Katze ist draußen."
+        }
+      ]
+    },
+    {
+      "h": "Fragen bilden",
+      "p": "Um zu fragen, ob etwas da ist, ändern wir die Wortreihenfolge. Wir stellen „Is there“ oder „Are there“ an den Anfang des Satzes. Danach können wir mit „Yes, there is“ oder „No, there are not“ antworten. Das hilft dir dabei, nach Informationen zu fragen.",
+      "ex": [
+        {
+          "en": "Is there a pen?",
+          "mean": "Nach einem Stift fragen."
+        },
+        {
+          "en": "Are there any chairs?",
+          "mean": "Nach mehr als einem Stuhl fragen."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "there is",
+      "mean": "für eine Sache"
+    },
+    {
+      "en": "there are",
+      "mean": "für zwei oder mehr Dinge"
+    },
+    {
+      "en": "singular",
+      "mean": "nur eins"
+    },
+    {
+      "en": "plural",
+      "mean": "zwei oder mehr"
+    },
+    {
+      "en": "table",
+      "mean": "Möbelstück zum Essen oder Arbeiten"
+    },
+    {
+      "en": "apple",
+      "mean": "eine runde rote oder grüne Frucht"
+    },
+    {
+      "en": "chair",
+      "mean": "eine Sitzgelegenheit für eine Person"
+    }
+  ],
+  "tip": "Merk dir: „is“ ist für eine Sache (wie eine Schlange, lang wie der Buchstabe i) und „are“ ist für viele Dinge!",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "___ a cat on the sofa.",
+      "choices": [
+        "There are",
+        "There is",
+        "Is there"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "___ three dogs in the park.",
+      "choices": [
+        "There are",
+        "There is",
+        "Is there"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "___ an apple in my bag?",
+      "choices": [
+        "There is",
+        "There are",
+        "Is there"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "___ five chairs in the kitchen.",
+      "choices": [
+        "There is",
+        "There are",
+        "Are there"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "___ a water bottle on the desk.",
+      "choices": [
+        "There is",
+        "There are",
+        "Are there"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "___ any students in the classroom?",
+      "choices": [
+        "There are",
+        "Is there",
+        "Are there"
+      ],
+      "answer_index": 2
+    }
+  ]
+}

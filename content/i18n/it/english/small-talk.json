@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-27",
+  "slug": "small-talk",
+  "cefr": "B1",
+  "cat": "phrases",
+  "emoji": "💬",
+  "title": "L'arte del Chiaro",
+  "summary": "Impara ad avviare una conversazione amichevole con persone nuove. Scopri domande semplici per far scorrere la chiacchierata in modo naturale.",
+  "sections": [
+    {
+      "h": "Iniziare una Conversazione",
+      "p": "Quando vuoi parlare con qualcuno a una festa o alla fermata dell'autobus, ti serve una buona frase d'attacco. Il modo più semplice per iniziare è parlare del luogo, del tempo o di un evento a cui state partecipando entrambi. Tieni un tono amichevole e sorridi! Dopo il saluto, fai una domanda aperta in modo che l'altra persona possa parlare facilmente.",
+      "ex": [
+        {
+          "en": "Nice weather today, isn't it?",
+          "mean": "Un modo classico e sicuro per iniziare a parlare quando c'è il sole."
+        },
+        {
+          "en": "Is this your first time at this event?",
+          "mean": "Un'ottima domanda da fare a qualcuno a una festa o a una conferenza."
+        }
+      ]
+    },
+    {
+      "h": "Mantenere Viva la Chiacchierata",
+      "p": "Dopo la prima frase, devi dimostrare che stai ascoltando. Fai domande di approfondimento su ciò che la persona ha appena detto. Espressioni come 'davvero?' o 'interessante!' fanno capire che ti interessa. Cerca di trovare qualcosa che vi accomuna, come il cibo, i film o gli hobby, di cui parlare per qualche altro minuto.",
+      "ex": [
+        {
+          "en": "What do you like to do in your free time?",
+          "mean": "Un modo semplice per scoprire gli hobby di qualcuno."
+        },
+        {
+          "en": "Have you seen any good movies lately?",
+          "mean": "Un argomento divertente di cui quasi tutti possono parlare."
+        }
+      ]
+    },
+    {
+      "h": "Concludere con Educazione",
+      "p": "Il cosiddetto small talk di solito è breve. Quando è il momento di andare, dovresti chiudere la conversazione con garbo. Dai una valida ragione per andar via, come prendere da bere o un autobus. Sorridi sempre, di' che è stato un piacere conoscerti e augura una buona continuazione di giornata.",
+      "ex": [
+        {
+          "en": "It was really nice talking to you!",
+          "mean": "Un modo caloroso e gentile per far capire che la chiacchierata ti è piaciuta."
+        },
+        {
+          "en": "I need to grab a drink, but let's talk again soon.",
+          "mean": "Una scusa informale per chiudere la conversazione."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "Small talk",
+      "mean": "conversazione amichevole e informale"
+    },
+    {
+      "en": "Opening line",
+      "mean": "prima frase per iniziare a parlare"
+    },
+    {
+      "en": "Weather",
+      "mean": "sole, pioggia, vento, temperatura"
+    },
+    {
+      "en": "Follow-up",
+      "mean": "domanda o azione successiva"
+    },
+    {
+      "en": "Hobbies",
+      "mean": "attività divertenti che fai"
+    },
+    {
+      "en": "Polite",
+      "mean": "avere buone maniere"
+    },
+    {
+      "en": "Grab a drink",
+      "mean": "prendere qualcosa da bere"
+    }
+  ],
+  "tip": "Pensa a due chiacchiere come a una partita a palla. Tu dici qualcosa e poi aspetti che l'altra persona te la rilanci rispondendo!",
+  "quiz": [
+    {
+      "ask": "Scegli il modo migliore per iniziare una conversazione.",
+      "en": "___ weather today, isn't it?",
+      "choices": [
+        "Bad",
+        "Nice",
+        "Angry"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli la migliore domanda di approfondimento sugli hobby.",
+      "en": "What do you like to do in your ___?",
+      "choices": [
+        "work",
+        "office",
+        "free time"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Scegli la parola mancante per un saluto educato.",
+      "en": "It was really nice ___ to you!",
+      "choices": [
+        "talking",
+        "saying",
+        "speaking"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Come si chiama una chiacchierata informale con un estraneo?",
+      "en": "We are just making ___.",
+      "choices": [
+        "big talk",
+        "small talk",
+        "loud talk"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli la reazione migliore a una buona notizia durante una chat.",
+      "en": "___ that's very interesting!",
+      "choices": [
+        "Oh,",
+        "No,",
+        "Why,"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Scegli una buona scusa per concludere una chiacchierata.",
+      "en": "I need to ___ a drink.",
+      "choices": [
+        "take",
+        "grab",
+        "hold"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

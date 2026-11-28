@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-27",
+  "slug": "phrasal-verbs-work",
+  "cefr": "B1",
+  "cat": "vocab",
+  "emoji": "💼",
+  "title": "Phrasal verb utili per il lavoro",
+  "summary": "Impara tre comuni phrasal verb per parlare delle attività d'ufficio quotidiane. Arricchisci facilmente il tuo vocabolario di inglese professionale.",
+  "sections": [
+    {
+      "h": "Set up",
+      "p": "Quando avvii qualcosa di nuovo, come una riunione, una stanza o un sistema informatico, lo 'set up' (lo configuri/preposti). Significa preparare o organizzare tutto affinché sia pronto all'uso.",
+      "ex": [
+        {
+          "en": "Can you please set up the projector for the meeting?",
+          "mean": "Please prepare the projector."
+        },
+        {
+          "en": "I need to set up a new email account for our new colleague.",
+          "mean": "I need to create and prepare a new email."
+        }
+      ]
+    },
+    {
+      "h": "Carry out",
+      "p": "Carry out significa portare a termine un compito, un piano o uno studio dall'inizio alla fine. Lo usiamo spesso per ricerche, test o istruzioni.",
+      "ex": [
+        {
+          "en": "The team will carry out a survey to check customer happiness.",
+          "mean": "The team will do a survey."
+        },
+        {
+          "en": "She always carries out her manager's instructions quickly.",
+          "mean": "She always does what her manager asks."
+        }
+      ]
+    },
+    {
+      "h": "Follow up",
+      "p": "Follow up significa ricontattare qualcuno o compiere ulteriori azioni dopo un primo incontro o messaggio. Dimostra che sei attivo e interessato.",
+      "ex": []
+    }
+  ],
+  "words": [
+    {
+      "en": "set up",
+      "mean": "preparare o organizzare"
+    },
+    {
+      "en": "carry out",
+      "mean": "completare un compito"
+    },
+    {
+      "en": "follow up",
+      "mean": "ricontattare"
+    },
+    {
+      "en": "projector",
+      "mean": "macchina per presentazioni"
+    },
+    {
+      "en": "survey",
+      "mean": "domande per la ricerca"
+    },
+    {
+      "en": "client",
+      "mean": "cliente aziendale"
+    },
+    {
+      "en": "colleague",
+      "mean": "partner di lavoro"
+    }
+  ],
+  "tip": "Prova a collegare ogni phrasal verb a un compito reale che svolgi al lavoro ogni settimana. Scrivere frasi tue aiuta il cervello a memorizzarli più velocemente.",
+  "quiz": [
+    {
+      "ask": "Scegli la parola corretta",
+      "en": "We need to ___ a meeting room for our guests tomorrow morning.",
+      "choices": [
+        "carry out",
+        "set up",
+        "follow up"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli la parola corretta",
+      "en": "The technicians will ___ repairs on the office printer this afternoon.",
+      "choices": [
+        "carry out",
+        "set up",
+        "follow up"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Scegli la parola corretta",
+      "en": "Please ___ with the supplier to see if the goods have been shipped.",
+      "choices": [
+        "set up",
+        "carry out",
+        "follow up"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Scegli la parola corretta",
+      "en": "It takes twenty minutes to ___ the computer before the presentation starts.",
+      "choices": [
+        "follow up",
+        "set up",
+        "carry out"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli la parola corretta",
+      "en": "The researchers plan to ___ interviews with fifty different employees.",
+      "choices": [
+        "follow up",
+        "set up",
+        "carry out"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Scegli la parola corretta",
+      "en": "After sending the proposal, I will ___ with a phone call next week.",
+      "choices": [
+        "follow up",
+        "carry out",
+        "set up"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

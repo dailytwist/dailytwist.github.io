@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-27",
+  "slug": "job-interview-english",
+  "cefr": "B1",
+  "cat": "phrases",
+  "emoji": "💼",
+  "title": "Come rispondere alle domande più comuni nei colloqui di lavoro",
+  "summary": "Impara a rispondere a tre domande tipiche dei colloqui di lavoro. Ti eserciterai a parlare delle tue competenze e dei tuoi obiettivi.",
+  "sections": [
+    {
+      "h": "Mi parli di lei",
+      "p": "Di solito questa è la prima domanda di un colloquio. I selezionatori vogliono un breve riassunto del tuo percorso professionale. Parla del tuo lavoro attuale, delle tue esperienze passate e del motivo per cui sei qui oggi. Mantieni la risposta sotto i due minuti. Concentrati sul lavoro, non sulla tua vita privata.",
+      "ex": [
+        {
+          "en": "I have worked as a customer service agent for three years.",
+          "mean": "Ho tre anni di esperienza nell'assistenza clienti."
+        },
+        {
+          "en": "In my last job, I managed a team of five people.",
+          "mean": "In precedenza, coordinavo un team di cinque persone."
+        },
+        {
+          "en": "I am looking for a new challenge in marketing.",
+          "mean": "Cerco un nuovo lavoro in cui potermi occupare di marketing."
+        }
+      ]
+    },
+    {
+      "h": "Quali sono i suoi punti di forza?",
+      "p": "Quando i selezionatori chiedono quali siano i tuoi punti di forza, vogliono sapere in cosa eccelli. Scegli due o tre doti positive che si addicono al lavoro. Fai sempre un esempio rapido per dimostrare che il tuo punto di forza è reale.",
+      "ex": [
+        {
+          "en": "I am very organized and I never miss a deadline.",
+          "mean": "Organizzo bene il mio lavoro e rispetto sempre le scadenze."
+        },
+        {
+          "en": "My greatest strength is problem-solving.",
+          "mean": "Sono molto bravo a trovare soluzioni a problemi complessi."
+        },
+        {
+          "en": "I communicate well with different types of people.",
+          "mean": "Mi viene facile comunicare e collaborare con chiunque."
+        }
+      ]
+    },
+    {
+      "h": "Perché vuole questo lavoro?",
+      "p": "Le aziende vogliono assumere persone a cui importa davvero del loro business. Informati sull'azienda prima del colloquio. Spiega come i tuoi obiettivi si allineano a quelli dell'azienda e perché sei entusiasta di lavorare lì.",
+      "ex": [
+        {
+          "en": "I love your company's focus on green technology.",
+          "mean": "Apprezzo molto il fatto che la vostra azienda sia attenta all'ambiente."
+        },
+        {
+          "en": "This role is a great match for my skills.",
+          "mean": "Le mie competenze sono perfette per questa posizione."
+        },
+        {
+          "en": "I want to grow my career with your team.",
+          "mean": "Voglio imparare e migliorare lavorando qui."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "strength",
+      "mean": "un punto di forza"
+    },
+    {
+      "en": "experience",
+      "mean": "esperienza lavorativa passata"
+    },
+    {
+      "en": "deadline",
+      "mean": "scadenza"
+    },
+    {
+      "en": "role",
+      "mean": "posizione lavorativa"
+    },
+    {
+      "en": "goal",
+      "mean": "ciò che desideri raggiungere"
+    },
+    {
+      "en": "skill",
+      "mean": "capacità di fare qualcosa"
+    },
+    {
+      "en": "interview",
+      "mean": "colloquio di lavoro"
+    },
+    {
+      "en": "current",
+      "mean": "in corso"
+    }
+  ],
+  "tip": "Esercitati a rispondere ad alta voce davanti allo specchio. Registrare la tua voce con il telefono ti aiuta a parlare più lentamente e con maggiore chiarezza.",
+  "quiz": [
+    {
+      "ask": "Scegli la risposta migliore per 'Mi parli di lei'",
+      "en": "I have worked as a ___ for three years.",
+      "choices": [
+        "chef",
+        "happily",
+        "yesterday"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Scegli il termine corretto per un punto di forza",
+      "en": "My greatest ___ is problem-solving.",
+      "choices": [
+        "weak",
+        "strength",
+        "tired"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli il termine corretto per la scadenza",
+      "en": "I always finish my work before the ___.",
+      "choices": [
+        "deadline",
+        "start",
+        "lunch"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Scegli la frase corretta per il motivo per cui vuoi il lavoro",
+      "en": "I want to ___ my career with your team.",
+      "choices": [
+        "stop",
+        "lose",
+        "grow"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Scegli il modo migliore per parlare del lavoro passato",
+      "en": "In my last job, I ___ a team of five.",
+      "choices": [
+        "managed",
+        "fly",
+        "eating"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Scegli il termine corretto per una posizione lavorativa",
+      "en": "This ___ is a great match for my skills.",
+      "choices": [
+        "table",
+        "role",
+        "shoe"
+      ],
+      "answer_index": 1
+    }
+  ]
+}

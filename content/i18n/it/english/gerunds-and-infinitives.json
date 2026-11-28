@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-27",
+  "slug": "gerunds-and-infinitives",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "🎯",
+  "title": "Verbi con -ing o To",
+  "summary": "Impara a usare due verbi insieme in inglese. Scoprirai quando usare la forma in -ing e quando usare to.",
+  "sections": [
+    {
+      "h": "Verbi seguiti da -ing",
+      "p": "A volte, quando usi due verbi insieme, il secondo verbo ha bisogno della desinenza -ing. Di solito lo facciamo dopo verbi che parlano di gusti, antipatie o della conclusione di un'azione. Ad esempio, ti piace fare qualcosa o finisci di fare il tuo lavoro. Ricorda che il primo verbo cambia al passato o al presente, ma il secondo conserva sempre la forma in -ing.",
+      "ex": [
+        {
+          "en": "I enjoy cooking dinner for my family.",
+          "mean": "Mi piace l'azione di cucinare."
+        },
+        {
+          "en": "She finished cleaning her room.",
+          "mean": "Lei ha finito di pulire."
+        },
+        {
+          "en": "Do you mind waiting a few minutes?",
+          "mean": "Ti va di aspettare?"
+        }
+      ]
+    },
+    {
+      "h": "Verbi seguiti da to + infinito",
+      "p": "Altre volte, il secondo verbo deve venire dopo la parola 'to'. Usiamo spesso questo schema dopo verbi che parlano di piani, desideri o speranze per il futuro. Ad esempio, vuoi comprare qualcosa o speri di viaggiare presto. La parola 'to' unisce i due verbi in modo naturale.",
+      "ex": [
+        {
+          "en": "I want to learn Spanish this year.",
+          "mean": "Il mio obiettivo è studiare spagnolo."
+        },
+        {
+          "en": "We hope to visit Japan next summer.",
+          "mean": "Abbiamo intenzione di andare lì."
+        },
+        {
+          "en": "He needs to buy a new phone.",
+          "mean": "È necessario che lui ne prenda uno."
+        }
+      ]
+    },
+    {
+      "h": "Verbi che possono reggere entrambi",
+      "p": "Ottime notizie! Alcuni verbi possono essere seguiti sia da -ing che da to senza quasi nessun cambiamento di significato. Verbi come start, begin e love sono molto versatili. Puoi dire 'I love swimming' o 'I love to swim'. Entrambe le frasi sono perfettamente corrette ed esattamente identiche nel significato.",
+      "ex": [
+        {
+          "en": "It started raining outside.",
+          "mean": "La pioggia è iniziata."
+        },
+        {
+          "en": "It started to rain outside.",
+          "mean": "La pioggia è iniziata, stesso significato."
+        },
+        {
+          "en": "She likes reading books.",
+          "mean": "Le piacciono i libri."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "enjoy",
+      "mean": "fare qualcosa con piacere"
+    },
+    {
+      "en": "finish",
+      "mean": "completare un'azione"
+    },
+    {
+      "en": "want",
+      "mean": "avere il desiderio di"
+    },
+    {
+      "en": "hope",
+      "mean": "desiderare per il futuro"
+    },
+    {
+      "en": "decide",
+      "mean": "fare una scelta"
+    },
+    {
+      "en": "mind",
+      "mean": "essere infastidito da"
+    },
+    {
+      "en": "plan",
+      "mean": "prepararsi a fare"
+    }
+  ],
+  "tip": "Quando impari un nuovo verbo, impara sempre cosa viene dopo. Fai una lista dei verbi che vogliono l'ing e di quelli che vogliono il to.",
+  "quiz": [
+    {
+      "ask": "Scegli la forma corretta",
+      "en": "I enjoy ___ football with my friends on Saturdays.",
+      "choices": [
+        "to play",
+        "playing",
+        "play"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli la forma corretta",
+      "en": "She wants ___ a new car next month.",
+      "choices": [
+        "buying",
+        "buy",
+        "to buy"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Scegli la forma corretta",
+      "en": "They hope ___ their grandparents during the holidays.",
+      "choices": [
+        "to visit",
+        "visiting",
+        "visit"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Scegli la forma corretta",
+      "en": "Please stop ___ so much noise while I am working.",
+      "choices": [
+        "to make",
+        "making",
+        "make"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli la forma corretta",
+      "en": "We decided ___ at home because it was raining.",
+      "choices": [
+        "staying",
+        "stay",
+        "to stay"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Scegli la forma corretta",
+      "en": "Do you mind ___ the window, please?",
+      "choices": [
+        "closing",
+        "to close",
+        "close"
+      ],
+      "answer_index": 0
+    }
+  ]
+}

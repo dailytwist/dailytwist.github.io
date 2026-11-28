@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-23",
+  "slug": "adjectives-basics",
+  "cefr": "A1",
+  "cat": "grammar",
+  "emoji": "🎨",
+  "title": "Dinge beschreiben: Häufige Adjektive",
+  "summary": "Lerne, wie du gängige Adjektive verwendest, um Menschen und Dinge zu beschreiben. Finde heraus, an welche Stelle im Satz sie gehören.",
+  "sections": [
+    {
+      "h": "Was ist ein Adjektiv?",
+      "p": "Ein Adjektiv ist ein Wort, das ein Nomen beschreibt. Ein Nomen ist eine Person, ein Ort oder eine Sache. Adjektive geben uns nähere Informationen. Sie verraten uns zum Beispiel etwas über Größe, Farbe oder wie sich etwas anfühlt. Wörter wie groß, rot und glücklich sind alles Adjektive.",
+      "ex": [
+        {
+          "en": "The car is red.",
+          "mean": "Die Farbe des Autos ist rot."
+        },
+        {
+          "en": "She is happy.",
+          "mean": "Ihre Gefühlslage ist glücklich."
+        }
+      ]
+    },
+    {
+      "h": "Wohin kommen Adjektive?",
+      "p": "Im Englischen stehen Adjektive meistens vor dem Nomen. Man nennt zuerst die Farbe oder Größe und dann die Sache. Zum Beispiel sagen wir ‚a big dog‘ und nicht ‚a dog big‘. Das ist eine sehr wichtige Regel, an die du beim Englischsprechen denken solltest.",
+      "ex": [
+        {
+          "en": "I have a small cat.",
+          "mean": "Meine Katze ist von kleiner Statur."
+        },
+        {
+          "en": "He wears a blue shirt.",
+          "mean": "Die Farbe seines Hemdes ist blau."
+        }
+      ]
+    },
+    {
+      "h": "Adjektive mit „To Be“",
+      "p": "Du kannst Adjektive auch nach dem Verb „to be“ (am, is, are) verwenden. In diesem Fall beschreibt das Adjektiv das Subjekt am Satzanfang. Das eignet sich hervorragend, um darüber zu sprechen, wie Dinge aussehen, sich anfühlen oder im Moment beschaffen sind.",
+      "ex": [
+        {
+          "en": "The food is hot.",
+          "mean": "Die Temperatur des Essens ist hoch."
+        },
+        {
+          "en": "They are tired.",
+          "mean": "Ihr körperlicher Zustand ist müde."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "big",
+      "mean": "von großer Größe"
+    },
+    {
+      "en": "small",
+      "mean": "von kleiner Größe"
+    },
+    {
+      "en": "happy",
+      "mean": "gut gelaunt"
+    },
+    {
+      "en": "sad",
+      "mean": "unglücklich gestimmt"
+    },
+    {
+      "en": "hot",
+      "mean": "hohe Temperatur"
+    },
+    {
+      "en": "cold",
+      "mean": "niedrige Temperatur"
+    },
+    {
+      "en": "new",
+      "mean": "vor Kurzem hergestellt"
+    }
+  ],
+  "tip": "Mache Zeichnungen von Gegenständen und schreibe ihre Farbe und Größe daneben. Wörter mit echten Bildern zu verknüpfen hilft deinem Gehirn, sie sich schneller zu merken!",
+  "quiz": [
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "The sun is ___ today.",
+      "choices": [
+        "hot",
+        "tall",
+        "old"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "I have a ___ car. It is blue.",
+      "choices": [
+        "fast",
+        "big",
+        "sad"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle den richtigen Satz",
+      "en": "Where do adjectives usually go?",
+      "choices": [
+        "After the noun",
+        "Before the noun",
+        "At the end of the sentence"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "She is a ___ student. She smiles a lot.",
+      "choices": [
+        "cold",
+        "happy",
+        "heavy"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle das richtige Wort",
+      "en": "My coffee is very ___.",
+      "choices": [
+        "small",
+        "hot",
+        "sad"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Wähle den richtigen Satz",
+      "en": "Select the correct English sentence.",
+      "choices": [
+        "The house is big.",
+        "The big is house.",
+        "Is big the house."
+      ],
+      "answer_index": 0
+    }
+  ]
+}

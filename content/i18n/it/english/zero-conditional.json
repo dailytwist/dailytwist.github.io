@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-27",
+  "slug": "zero-conditional",
+  "cefr": "B1",
+  "cat": "grammar",
+  "emoji": "☀️",
+  "title": "Parlare di fatti: Il Periodo Ipotetico dello Zero (Zero Conditional)",
+  "summary": "In questa lezione imparerai a parlare di fatti reali e di cose che sono sempre vere. Ti eserciterai a usare una grammatica semplice per collegare una causa al suo risultato.",
+  "sections": [
+    {
+      "h": "Che cos'è lo Zero Conditional?",
+      "p": "Usiamo lo zero conditional per parlare di verità generali, fatti scientifici o cose che accadono sempre quando fai qualcosa. Ad esempio, se scaldi il ghiaccio, si scioglie. Entrambe le parti della frase usano il presente semplice perché il risultato è sempre vero.",
+      "ex": [
+        {
+          "en": "If you mix blue and yellow, you get green.",
+          "mean": "Unire questi due colori crea sempre il verde."
+        },
+        {
+          "en": "Plants die if they do not get enough water.",
+          "mean": "La mancanza d'acqua fa sempre morire le piante."
+        }
+      ]
+    },
+    {
+      "h": "Come costruire la frase",
+      "p": "Una frase con lo zero conditional ha due parti: la proposizione introdotta da 'if' (se) e la frase principale. Puoi iniziare con 'if' oppure mettere prima la frase principale. Il significato non cambia. Nota che quando 'if' si trova in mezzo, non usiamo la virgola.",
+      "ex": [
+        {
+          "en": "If you touch fire, you burn your finger.",
+          "mean": "Toccare il fuoco provoca sempre un'ustione."
+        },
+        {
+          "en": "You burn your finger if you touch fire.",
+          "mean": "Il risultato viene prima, ma la regola è la stessa."
+        }
+      ]
+    },
+    {
+      "h": "Usare 'When' al posto di 'If'",
+      "p": "Nelle frasi con lo zero conditional, puoi spesso usare la parola 'when' (quando) al posto di 'if'. Lo facciamo quando siamo sicuri al 100 percento che l'azione accadrà. Aiuta il tuo inglese a sembrare molto naturale quando descrivi la routine quotidiana o le leggi della natura.",
+      "ex": [
+        {
+          "en": "When it rains, the grass gets wet.",
+          "mean": "Ogni volta che piove, l'erba si bagna."
+        },
+        {
+          "en": "I feel tired when I sleep less than six hours.",
+          "mean": "Non dormire abbastanza mi fa sempre sentire stanco."
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "en": "zero conditional",
+      "mean": "grammatica per fatti reali"
+    },
+    {
+      "en": "general truth",
+      "mean": "qualcosa di sempre vero"
+    },
+    {
+      "en": "present simple",
+      "mean": "tempo verbale base"
+    },
+    {
+      "en": "result",
+      "mean": "cosa succede dopo"
+    },
+    {
+      "en": "clause",
+      "mean": "parte di una frase"
+    },
+    {
+      "en": "scientific fact",
+      "mean": "regola di natura provata"
+    },
+    {
+      "en": "comma",
+      "mean": "segno di punteggiatura ,"
+    }
+  ],
+  "tip": "Ricorda che entrambe le parti della frase usano il presente semplice perché stai parlando di fatti, non di possibilità future.",
+  "quiz": [
+    {
+      "ask": "Scegli la parola corretta per completare il fatto.",
+      "en": "If you heat water to 100 degrees, it ___.",
+      "choices": [
+        "boil",
+        "boils",
+        "boiled",
+        "boiling"
+      ],
+      "answer_index": 1
+    },
+    {
+      "ask": "Scegli il verbo corretto per questa verità scientifica.",
+      "en": "Ice melts if you ___ it in the sun.",
+      "choices": [
+        "put",
+        "puts",
+        "putting",
+        "will put"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Seleziona la parola corretta per iniziare questa frase.",
+      "en": "___ you mix red and white, you get pink.",
+      "choices": [
+        "When",
+        "Will",
+        "Did",
+        "Would"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Trova il risultato corretto per questa condizione.",
+      "en": "If my dog sees the mailman, he ___.",
+      "choices": [
+        "bark",
+        "barking",
+        "barks",
+        "barked"
+      ],
+      "answer_index": 2
+    },
+    {
+      "ask": "Scegli la struttura della frase corretta.",
+      "en": "Dogs ___ if they are hungry.",
+      "choices": [
+        "whine",
+        "whines",
+        "whined",
+        "is whine"
+      ],
+      "answer_index": 0
+    },
+    {
+      "ask": "Completa il fatto naturale.",
+      "en": "Plants grow fast if they ___ a lot of sunlight.",
+      "choices": [
+        "gets",
+        "getting",
+        "got",
+        "get"
+      ],
+      "answer_index": 3
+    }
+  ]
+}
