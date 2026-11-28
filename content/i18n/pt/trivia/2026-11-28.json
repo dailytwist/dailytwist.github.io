@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-28",
+  "title": "Trivia Diária de Conhecimentos Gerais - 28 de novembro de 2026",
+  "questions": [
+    {
+      "category": "geografia",
+      "question": "Qual país apresenta o maior número de fusos horários em seu território nacional e dependências?",
+      "options": [
+        "Reino Unido",
+        "Estados Unidos",
+        "Rússia",
+        "França"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A França abrange 12 fusos horários diferentes em todo o mundo devido aos seus vários departamentos e territórios ultramarinos.",
+      "difficulty": "médio"
+    },
+    {
+      "category": "ciência",
+      "question": "Qual é a organela energética dentro das células eucarióticas responsável por gerar a maior parte da energia química necessária?",
+      "options": [
+        "Retículo endoplasmático",
+        "Mitocôndria",
+        "Ribossomo",
+        "Aparelho de Golgi"
+      ],
+      "answer_index": 1,
+      "fun_fact": "As mitocôndrias contêm seu próprio DNA independente, que é distinto do DNA nuclear da célula.",
+      "difficulty": "fácil"
+    },
+    {
+      "category": "história",
+      "question": "A Guerra dos Sete Anos, travada em meados do século XVIII, envolveu principalmente um conflito global entre quais duas principais potências coloniais rivais?",
+      "options": [
+        "Grã-Bretanha e França",
+        "Holanda e Suécia",
+        "Espanha e Portugal",
+        "Império Otomano e Rússia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Winston Churchill ficou famoso por se referir à Guerra dos Sete Anos como a primeira verdadeira 'guerra mundial'.",
+      "difficulty": "médio"
+    },
+    {
+      "category": "filmes e cultura pop",
+      "question": "Qual filme de ação e ficção científica de 1999 popularizou o efeito visual conhecido como 'bullet time'?",
+      "options": [
+        "Blade Runner",
+        "Exterminador do Futuro 2: O Julgamento Final",
+        "The Matrix",
+        "Dark City"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A icônica sequência de bullet time em The Matrix utilizou uma matriz de câmeras fotográficas ao redor dos atores para criar um efeito de tempo congelado.",
+      "difficulty": "fácil"
+    },
+    {
+      "category": "culinária",
+      "question": "Qual é o principal ingrediente de amido usado para fazer o mochi tradicional japonês?",
+      "options": [
+        "Amido de milho",
+        "Fécula de batata",
+        "Arroz glutinoso",
+        "Farinha de tapioca"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Apesar de ser chamado de arroz glutinoso, o arroz para mochi na verdade não contém glúten.",
+      "difficulty": "médio"
+    },
+    {
+      "category": "animais",
+      "question": "Qual característica física única distingue um ornitorrinco macho de quase todos os outros mamíferos modernos?",
+      "options": [
+        "Ele tem uma cauda pré-pênsil usada para segurar em galhos.",
+        "Ele pode regenerar membros perdidos.",
+        "Ele pode mudar a cor de seu pelo para camuflagem.",
+        "Ele possui esporões venenosos nas patas traseiras."
+      ],
+      "answer_index": 3,
+      "fun_fact": "O veneno dos esporões nos tornozelos do ornitorrinco macho é forte o suficiente para causar dor severa em humanos, embora normalmente não seja fatal.",
+      "difficulty": "difícil"
+    },
+    {
+      "category": "esportes",
+      "question": "No hóquei sobre a grama internacional, quantos jogadores estão em campo por uma única equipe durante o tempo regulamentar, incluindo o goleiro?",
+      "options": [
+        "11",
+        "12",
+        "9",
+        "10"
+      ],
+      "answer_index": 0,
+      "fun_fact": "O hóquei sobre a grama é um dos esportes coletivos mais antigos do mundo, com registros históricos de jogos semelhantes de bastão e bola que datam da Grécia e do Egito antigos.",
+      "difficulty": "médio"
+    },
+    {
+      "category": "idioma",
+      "question": "Qual termo linguístico é usado para descrever palavras que soam idênticas quando pronunciadas, mas têm significados diferentes e, às vezes, grafias diferentes?",
+      "options": [
+        "Antônimos",
+        "Homófonos",
+        "Sinônimos",
+        "Acrônimos"
+      ],
+      "answer_index": 1,
+      "fun_fact": "A língua inglesa é particularmente rica em homófonos devido à sua história complexa de empréstimo de palavras de vários idiomas diferentes.",
+      "difficulty": "fácil"
+    },
+    {
+      "category": "espaço",
+      "question": "Qual planeta anão, localizado no Cinturão de Kuiper, é famoso por possuir uma geleira gigante em forma de coração oficialmente batizada de Tombaugh Regio?",
+      "options": [
+        "Éris",
+        "Makemake",
+        "Haumea",
+        "Plutão"
+      ],
+      "answer_index": 3,
+      "fun_fact": "A Tombaugh Regio em Plutão foi batizada em homenagem a Clyde Tombaugh, o astrônomo americano que descobriu Plutão em 1930.",
+      "difficulty": "difícil"
+    },
+    {
+      "category": "história",
+      "question": "O Código de Hamurabi, um dos escritos decifrados mais antigos de extensão significativa no mundo, originou-se de qual civilização antiga?",
+      "options": [
+        "Grécia Antiga",
+        "Egito Antigo",
+        "A República Romana",
+        "Babilônia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Inscrito em uma imensa estela de basalto, o Código de Hamurabi é famoso por suas punições legais rígidas regidas pela regra de 'olho por olho'.",
+      "difficulty": "difícil"
+    }
+  ]
+}

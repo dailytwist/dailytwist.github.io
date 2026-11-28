@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-28",
+  "signs": {
+    "aries": {
+      "overview": "El sábado comienza con una explosión de energía fogosa, Aries, instándote a abordar por fin ese proyecto de arte que has estado postergando. En lugar de lanzarte de cabeza a tu itinerario de fin de semana habitual lleno de actividades, permítete el lujo de una mañana pausada con tu café artesanal favorito y una lista de reproducción relajante. Por la tarde, tu encanto espontáneo alcanza su punto máximo, convirtiéndote en la estrella indiscutible de cualquier reunión social improvisada. Recuerda compartir el centro de atención y deja que otros organicen los planes para variar. ¡Un mensaje de texto sorpresa de un amigo de la infancia podría desviar tu tranquila tarde de la mejor manera posible!",
+      "love": "¿Soltero o soltera? Una charla ingeniosa en un café local podría convertirse rápidamente en una cita de fin de semana. ¿En una relación? Planifiquen juntos una aventura al aire libre inesperada.",
+      "career": "Tómate un descanso más que merecido de la estrategia y deja que tus instintos creativos tomen el control absoluto hoy.",
+      "wellness": "Cambia tu entrenamiento de alta intensidad por una sesión de baile enérgica y alegre en tu sala.",
+      "lucky_number": 17,
+      "lucky_color": "carmesí",
+      "mood": "vibrante"
+    },
+    "taurus": {
+      "overview": "Tu zona de confort te está llamando hoy, Tauro, y siendo sinceros, ¿quién puede culparte? El 28 de noviembre te invita a sumergirte de lleno en la máxima comodidad, ya sea envolviéndote en la manta de cachemira más suave o horneando un lote de rollos de canela desde cero. Tus sentidos estéticos están al máximo, así que pasa unas horas reorganizando tu espacio o dándote el gusto de comprar flores frescas. Mientras el resto del mundo corre de un lado a otro, tú eres el maestro del ritmo pausado. Desacelera, respira hondo y saborea los placeres táctiles de tu entorno inmediato.",
+      "love": "A las parejas les encantará una noche tranquila en casa con comida reconfortante casera y un maratón de películas clásicas. Los solteros podrían encontrar el romance muy cerca de casa.",
+      "career": "Desconéctate por completo de los correos del trabajo y dale a tu esforzado cerebro el fin de semana libre que se merece.",
+      "wellness": "Date el capricho de un baño de burbujas lujoso y lleno de sensaciones con aceites calmantes de lavanda.",
+      "lucky_number": 6,
+      "lucky_color": "salvia",
+      "mood": "acogedor"
+    },
+    "gemini": {
+      "overview": "Tu mente es un brillante partido de ping-pong de ideas ingeniosas y mariposas sociales hoy, Géminis. La alineación planetaria del sábado te otorga poderes de conversación supremos, convirtiéndote en el alma de la fiesta o en el compañero más cautivador de la librería. Es posible que te encuentres saltando entre tres grupos de amigos diferentes o adoptando de repente un nuevo y fascinante pasatiempo al caer la tarde. Abraza tu curiosidad natural, pero asegúrate de reservar una hora sólida de desintoxicación digital solo para calmar tu acelerado sistema nervioso antes de dormir.",
+      "love": "El coqueteo es tu superpoder en este momento, así que úsalo sabiamente con alguien que esté a la altura de tu rapidez mental.",
+      "career": "Hacer una lluvia de ideas sobre futuros conceptos creativos se sentirá más como un juego que como trabajo.",
+      "wellness": "Ten una libreta junto a tu cama para capturar los destellos de inspiración nocturnos antes de que se desvanezcan.",
+      "lucky_number": 23,
+      "lucky_color": "amarillo",
+      "mood": "eléctrico"
+    },
+    "cancer": {
+      "overview": "El hogar es tu santuario absoluto hoy, dulce Cáncer, y estás listo para hacerlo aún más mágico. Ya sea que estés organizando un brunch íntimo para tu círculo más cercano o simplemente acurrucándote con una pila de revistas nostálgicas, tu alma nutricia anhela comodidad. Tu intuición está excepcionalmente aguda en este momento, ayudándote a percibir las necesidades no expresadas de quienes más amas. Prepara un lote de tu comida reconfortante insignia y deja que tu corazón guíe tu fin de semana. Un recuerdo sentimental podría resurgir, trayendo una ola de dulce nostalgia.",
+      "love": "Conversaciones profundas y significativas bajo un fuerte hecho de mantas los acercarán a ti y a tu pareja más que nunca.",
+      "career": "Libérate del estrés persistente de la semana y céntrate por completo en la renovación personal.",
+      "wellness": "Tómate una taza tibia de té de manzanilla mientras escribes en tu diario tus intenciones para el fin de semana.",
+      "lucky_number": 2,
+      "lucky_color": "plateado",
+      "mood": "nutricio"
+    },
+    "leo": {
+      "overview": "Los focos te siguen allá donde vayas hoy, Leo, incluso si solo estás caminando por el pasillo del supermercado con tu ropa de estar por casa favorita. El sábado irradia una energía divertida y teatral que combina con tu glorioso espíritu regido por el sol. Planifica algo divertido y ligeramente dramático: una noche de karaoke, vestirte elegante sin motivo o tomarte selfies glamurosas bajo el sol otoñal. Tu generoso corazón está listo para colmar a tus personas favoritas de cumplidos y afecto. ¡Disfruta de los aplausos, cariño, porque tu carisma natural simplemente no tiene rival en este momento!",
+      "love": "El romance se siente como el guion de una comedia romántica hoy, así que déjate llevar por los grandes gestos y las bromas juguetonas.",
+      "career": "Canaliza tu talento artístico diseñando un tablero de inspiración (mood board) para tus próximos proyectos apasionantes.",
+      "wellness": "Adopta una postura segura y poderosa frente al espejo para potenciar al instante tu ya radiante aura.",
+      "lucky_number": 88,
+      "lucky_color": "dorado",
+      "mood": "radiante"
+    },
+    "virgo": {
+      "overview": "Tu organizador interior está bailando de alegría hoy, Virgo, ya que el sábado ofrece la ventana ideal para curar tu espacio y tu horario con estilo. Ordenar tu estantería o clasificar por colores tu cajón de suéteres te aportará un zen extrañamente satisfactorio. Sin embargo, no dejes que el perfeccionismo te robe la alegría; deja un margen de maniobra encantador para la espontaneidad esta tarde. Un amigo podría acercarse en busca de tu consejo práctico, y tu sabiduría reconfortante será profundamente apreciada. Recompensa tu arduo trabajo con un café elegante y una caminata larga y sin rumbo fijo.",
+      "love": "Los actos de servicio dicen mucho hoy, así que sorprende a esa persona especial quitándole una tarea tediosa de encima.",
+      "career": "Escribe un plan de juego semanal optimizado y minimalista para conquistar los días venideros.",
+      "wellness": "Practica un suave estiramiento de yoga restaurativo para liberar la tensión de tu espalda baja.",
+      "lucky_number": 14,
+      "lucky_color": "azul marino",
+      "mood": "centrado"
+    },
+    "libra": {
+      "overview": "La armonía estética y las conexiones sociales encantadoras son tus temas principales este sábado, Libra. Regido por Venus, te sientes atraído naturalmente por la belleza, el arte y la compañía agradable. Planifica una cita en un museo, explora una tienda de discos independiente u organiza un té elegante por la tarde con tus amigos más estilosos. Tu encanto diplomático te convierte en el pacificador definitivo si surge algún pequeño contratiempo de horario. Recuerda tratar tus propios deseos con el mismo entusiasmo que muestras al complacer a todos los demás a tu alrededor.",
+      "love": "Las asociaciones están resaltadas, lo que lo convierte en un día ideal para compartir juntos una experiencia estética romántica.",
+      "career": "Deja que tu ojo artístico te guíe para renovar la paleta de colores de tu espacio de trabajo.",
+      "wellness": "Difunde una hermosa mezcla de aceites esenciales de rosa y sándalo en tu espacio vital.",
+      "lucky_number": 33,
+      "lucky_color": "durazno",
+      "mood": "armonioso"
+    },
+    "scorpio": {
+      "overview": "Tu magnetismo misterioso está al máximo hoy, Escorpio. El clima cósmico del sábado te anima a sumergirte profundamente en tus obsesiones favoritas, ya sea leer un thriller psicológico atrapante, aprender sobre astrología o explorar un rincón oculto fascinante de tu ciudad. Estás de humor para la profundidad por encima de la charla superficial, así que busca almas gemelas que puedan igualar tu intensidad. Confía en tus instintos viscerales: actúan como un superpoder en este momento, ayudándote a ver a través de cualquier tontería.",
+      "love": "La química magnética es prácticamente palpable, convirtiendo incluso una mirada casual en un momento intenso.",
+      "career": "Investiga una nueva habilidad o tema fascinante tras bambalinas sin decirle nada a nadie todavía.",
+      "wellness": "Desconéctate de las redes sociales por el día para proteger tu preciada paz interior.",
+      "lucky_number": 9,
+      "lucky_color": "granate",
+      "mood": "enigmático"
+    },
+    "sagittarius": {
+      "overview": "La aventura te llama desde los tejados, Sagitario, y la energía de tu temporada de cumpleaños te mantiene gloriosamente inquieto. Incluso si no vas a abordar un vuelo transcontinental hoy, puedes explorar un vecindario nuevo, probar una cocina exótica en un camión de comida extravagante o sumergirte en un libro de filosofía. Tu optimismo contagioso eleva el ánimo de todos a tu alrededor. Di que sí a las invitaciones improvisadas y deja que tu espíritu viajero y filosófico guíe tus pasos hacia donde sea que los lleven.",
+      "love": "Un viaje por carretera espontáneo o un debate animado sobre tacos reavivarán las chispas al instante.",
+      "career": "Sueña en grande y deja que tus ideas visionarias se adentren en territorios inexplorados y emocionantes.",
+      "wellness": "Sal a dar una caminata larga y enérgica por la naturaleza para alimentar tu espíritu aventurero.",
+      "lucky_number": 42,
+      "lucky_color": "morado",
+      "mood": "exuberante"
+    },
+    "capricorn": {
+      "overview": "Hasta las cabras de mar más exitosas necesitan un descanso adecuado, Capricornio. El sábado te invita a alejarte de tus ambiciosos planes maestros y darte un merecido respiro. Equilibra tu productividad implacable con una buena dosis de mimo: tal vez una larga siesta por la tarde o un paseo tranquilo por un jardín botánico. Tu presencia terrenal aporta un ancla relajante a tu círculo social. Permítete que te cuiden por variar en lugar de ser siempre el que sostiene todo unido.",
+      "love": "El tiempo de calidad compartido en un silencio pacífico resulta más significativo que los grandes discursos.",
+      "career": "Aléjate por completo de tu bandeja de entrada profesional y deja que tu mente subconsciente descanse.",
+      "wellness": "Prioriza tener una noche de sueño temprana y profundamente reparadora.",
+      "lucky_number": 8,
+      "lucky_color": "carbón",
+      "mood": "sereno"
+    },
+    "aquarius": {
+      "overview": "Tu mente brillante y excéntrica zumba con conceptos visionarios hoy, Acuario. El sábado te anima a conectar con tu comunidad, asistir a una reunión local peculiar o experimentar con algunas opciones de moda futurista. Anhelas estimulación intelectual y conversaciones progresistas, así que busca a tus compañeros agentes de cambio. No temas expresar tus ideas más originales; la gente está lista para inspirarse con tu perspectiva única del mundo. Tu encanto extravagante es tu mayor activo en este momento.",
+      "love": "Los ideales compartidos y la profunda compatibilidad intelectual forman la base de tu mundo romántico hoy.",
+      "career": "Colabora con colegas en un proyecto comunitario o digital con visión de futuro.",
+      "wellness": "Prueba una hora futurista sin tecnología para darle a tus ojos un descanso de las pantallas.",
+      "lucky_number": 11,
+      "lucky_color": "turquesa",
+      "mood": "innovador"
+    },
+    "pisces": {
+      "overview": "Tu imaginación de ensueño flota en tecnicolor hoy, Piscis. El sábado te invita a perderte en el arte, la música o la reflexión espiritual. Toma tu cuaderno de bocetos, escucha un paisaje sonoro ambiental o simplemente sueña despierto junto a una ventana soleada. Tu empatía es un océano sin límites en este momento, lo que te convierte en un oyente maravilloso para un amigo que lo necesita, pero recuerda proteger tus límites energéticos. Deja que tu intuición te guíe a través de una experiencia de fin de semana maravillosamente suave y poética.",
+      "love": "La fantasía romántica se fusiona a la perfección con la realidad, creando una atmósfera profundamente tierna para dos.",
+      "career": "Permite que tus musas artísticas inspiren un enfoque completamente poco convencional para tus proyectos personales.",
+      "wellness": "Pasa un tiempo cerca de agua natural —un lago, río o el océano— para lavar la estática energética.",
+      "lucky_number": 7,
+      "lucky_color": "aguamarina",
+      "mood": "soñador"
+    }
+  }
+}

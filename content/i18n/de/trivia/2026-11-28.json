@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-28",
+  "title": "Tägliches Allgemeinwissen-Quiz – 28. November 2026",
+  "questions": [
+    {
+      "category": "Geografie",
+      "question": "Welches Land weist auf seinem Staatsgebiet und in seinen abhängigen Gebieten die meisten Zeitzonen auf?",
+      "options": [
+        "Vereinigtes Königreich",
+        "Vereinigte Staaten",
+        "Russland",
+        "Frankreich"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Frankreich erstreckt sich dank seiner verschiedenen Überseedepartements und -gebiete weltweit über 12 verschiedene Zeitzonen.",
+      "difficulty": "Mittel"
+    },
+    {
+      "category": "Wissenschaft",
+      "question": "Welches kraftspendende Organell innerhalb eukaryotischer Zellen ist für die Bereitstellung des Großteils der chemischen Energie verantwortlich?",
+      "options": [
+        "Endoplasmatisches reticulum",
+        "Mitochondrion",
+        "Ribosom",
+        "Golgi-Apparat"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Mitochondrien besitzen ihre eigene, unabhängige DNA, die sich von der Kern-DNA der Zelle unterscheidet.",
+      "difficulty": "Leicht"
+    },
+    {
+      "category": "Geschichte",
+      "question": "In den Siebenjährigen Krieg, der Mitte des 18. Jahrhunderts ausgetragen wurde, war hauptsächlich welcher globale Konflikt zwischen zwei rivalisierenden Kolonialmächten verwickelt?",
+      "options": [
+        "Großbritannien und Frankreich",
+        "Die Niederlande und Schweden",
+        "Spanien und Portugal",
+        "Osmanisches Reich und Russland"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Winston Churchill bezeichnete den Siebenjährigen Krieg bekanntermaßen als den ersten echten „Weltkrieg“.",
+      "difficulty": "Mittel"
+    },
+    {
+      "category": "Filme & Popkultur",
+      "question": "Welcher Science-Fiction-Actionfilm aus dem Jahr 1999 machte den visuellen Effekt des sogenannten „Bullet Time“ populär?",
+      "options": [
+        "Blade Runner",
+        "Terminator 2 – Tag der Abrechnung",
+        "Matrix",
+        "Dark City"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Die ikonische Bullet-Time-Sequenz in Matrix nutzte eine Anordnung aus vielen Standbildkameras um die Schauspieler herum, um einen Effekt der eingefrorenen Zeit zu erzeugen.",
+      "difficulty": "Leicht"
+    },
+    {
+      "category": "Essen",
+      "question": "Was ist die wichtigste Stärkezutat für die Zubereitung von traditionellem japanischen Mochi?",
+      "options": [
+        "Maisstärke",
+        "Kartoffelstärke",
+        "Klebreis",
+        "Tapiokamehl"
+      ],
+      "answer_index": 2,
+      "fun_fact": "Obwohl er als Klebreis bezeichnet wird, enthält Mochi-Reis tatsächlich kein Gluten.",
+      "difficulty": "Mittel"
+    },
+    {
+      "category": "Tiere",
+      "question": "Welches einzigartige körperliche Merkmal unterscheidet ein männliches Schnabeltier von fast allen anderen modernen Säugetieren?",
+      "options": [
+        "Es besitzt einen Greifschwanz zum Festhalten an Ästen.",
+        "Es kann verlorene Gliedmaßen regenerieren.",
+        "Es kann seine Fellfarbe zur Tarnung ändern.",
+        "Es besitzt giftige Sporne an den Hinterbeinen."
+      ],
+      "answer_index": 3,
+      "fun_fact": "Das Gift aus den Fußspornen des männlichen Schnabeltiers ist stark genug, um beim Menschen schwere Schmerzen zu verursachen, ist jedoch normalerweise nicht tödlich.",
+      "difficulty": "Schwer"
+    },
+    {
+      "category": "Sport",
+      "question": "Wie viele Spieler stehen bei einem regulären Hockeyspiel (Feldhockey) pro Mannschaft inklusive Torwart auf dem Platz?",
+      "options": [
+        "11",
+        "12",
+        "9",
+        "10"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Feldhockey ist eine der ältesten Mannschaftssportarten der Welt, wobei historische Aufzeichnungen über ähnliche Stock-und-Ball-Spiele bis ins antike Griechenland und nach Ägypten zurückreichen.",
+      "difficulty": "Mittel"
+    },
+    {
+      "category": "Sprache",
+      "question": "Welcher sprachliche Begriff wird verwendet, um Wörter zu beschreiben, die bei der Aussprache identisch klingen, aber unterschiedliche Bedeutungen und manchmal unterschiedliche Schreibweisen haben?",
+      "options": [
+        "Antonyme",
+        "Homophone",
+        "Synonyme",
+        "Akronyme"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Die englische Sprache ist aufgrund ihrer komplexen Geschichte, Wörter aus vielen verschiedenen Sprachen zu entlehnen, besonders reich an Homophonen.",
+      "difficulty": "Leicht"
+    },
+    {
+      "category": "Weltraum",
+      "question": "Welcher Zwergplanet im Kuipergürtel ist dafür bekannt, einen riesigen, herzförmigen Gletscher zu besitzen, der offiziell Tombaugh Regio genannt wird?",
+      "options": [
+        "Eris",
+        "Makemake",
+        "Haumea",
+        "Pluto"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Tombaugh Regio auf Pluto ist zu Ehren von Clyde Tombaugh benannt, dem amerikanischen Astronom, der Pluto 1930 entdeckte.",
+      "difficulty": "Schwer"
+    },
+    {
+      "category": "Geschichte",
+      "question": "Aus welcher antiken Zivilisation stammt der Kodex Hammurapi, einer der ältesten entzifferten längeren Texte der Welt?",
+      "options": [
+        "Antikes Griechenland",
+        "Altes Ägypten",
+        "Römische Republik",
+        "Babylonien"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Der auf einer massiven Basaltstele eingemeißelte Kodex Hammurapi ist berühmt für seine strengen gesetzlichen Strafen nach dem Grundsatz „Auge um Auge“.",
+      "difficulty": "Schwer"
+    }
+  ]
+}

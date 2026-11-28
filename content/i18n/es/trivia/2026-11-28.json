@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-28",
+  "title": "Trivia diaria de cultura general - 28 de noviembre de 2026",
+  "questions": [
+    {
+      "category": "geografía",
+      "question": "¿Qué país cuenta con el mayor número de husos horarios en su territorio nacional y dependencias?",
+      "options": [
+        "Reino Unido",
+        "Estados Unidos",
+        "Rusia",
+        "Francia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Francia abarca 12 husos horarios diferentes en todo el mundo debido a sus diversos departamentos y territorios de ultramar.",
+      "difficulty": "media"
+    },
+    {
+      "category": "ciencia",
+      "question": "¿Cuál es el orgánulo central dentro de las células eucariotas responsable de generar la mayor parte de la energía química necesaria?",
+      "options": [
+        "Retículo endoplasmático",
+        "Mitocondria",
+        "Ribosoma",
+        "Aparato de Golgi"
+      ],
+      "answer_index": 1,
+      "fun_fact": "Las mitocondrias contienen su propio ADN independiente, que es distinto del ADN nuclear de la célula.",
+      "difficulty": "fácil"
+    },
+    {
+      "category": "historia",
+      "question": "La guerra de los Siete Años, librada a mediados del siglo XVIII, involucró principalmente un conflicto global entre ¿cuáles dos potencias coloniales rivales principales?",
+      "options": [
+        "Gran Bretaña y Francia",
+        "Países Bajos y Suecia",
+        "España y Portugal",
+        "Imperio otomano y Rusia"
+      ],
+      "answer_index": 0,
+      "fun_fact": "Winston Churchill se refirió célebremente a la guerra de los Siete Años como la primera 'guerra mundial' verdadera.",
+      "difficulty": "media"
+    },
+    {
+      "category": "cine y cultura pop",
+      "question": "¿Qué película de acción y ciencia ficción de 1999 popularizó el efecto visual conocido como 'tiempo bala' (bullet time)?",
+      "options": [
+        "Blade Runner",
+        "Terminator 2: El juicio final",
+        "The Matrix",
+        "Dark City"
+      ],
+      "answer_index": 2,
+      "fun_fact": "La icónica secuencia de tiempo bala en The Matrix utilizó una matriz de cámaras fotográficas estáticas alrededor de los actores para crear un efecto de tiempo congelado.",
+      "difficulty": "fácil"
+    },
+    {
+      "category": "gastronomía",
+      "question": "¿Cuál es el ingrediente principal de almidón utilizado para hacer el mochi tradicional japonés?",
+      "options": [
+        "Fécula de maíz",
+        "Fécula de patata",
+        "Arroz glutinoso",
+        "Harina de tapioca"
+      ],
+      "answer_index": 2,
+      "fun_fact": "A pesar de llamarse arroz glutinoso, el arroz para mochi en realidad no contiene gluten.",
+      "difficulty": "media"
+    },
+    {
+      "category": "animales",
+      "question": "¿Qué característica física única distingue a un ornitorrinco macho de casi todos los demás mamíferos modernos?",
+      "options": [
+        "Tiene una cola prensil que usa para agarrar ramas.",
+        "Puede regenerar extremidades perdidas.",
+        "Puede cambiar el color de su pelaje para camuflarse.",
+        "Posee espuelas venenosas en sus patas traseras."
+      ],
+      "answer_index": 3,
+      "fun_fact": "El veneno de las espuelas en los tobillos de un ornitorrinco macho es lo suficientemente potente como para causar un dolor severo en los humanos, aunque normalmente no es mortal.",
+      "difficulty": "difícil"
+    },
+    {
+      "category": "deportes",
+      "question": "En el hockey sobre césped internacional, ¿cuántos jugadores hay en el campo por un solo equipo durante el tiempo reglamentario, incluido el arquero?",
+      "options": [
+        "11",
+        "12",
+        "9",
+        "10"
+      ],
+      "answer_index": 0,
+      "fun_fact": "El hockey sobre césped es uno de los deportes de equipo más antiguos del mundo, con registros históricos de juegos similares de bastón y pelota que se remontan a la antigua Grecia y Egipto.",
+      "difficulty": "media"
+    },
+    {
+      "category": "lenguaje",
+      "question": "¿Qué término lingüístico se utiliza para describir palabras que suenan idénticas al pronunciarse, pero tienen significados diferentes y a veces ortografías distintas?",
+      "options": [
+        "Antónimos",
+        "Homófonos",
+        "Sinónimos",
+        "Acrónimos"
+      ],
+      "answer_index": 1,
+      "fun_fact": "El idioma inglés es particularmente rico en homófonos debido a su compleja historia de incorporación de palabras de muchos idiomas diferentes.",
+      "difficulty": "fácil"
+    },
+    {
+      "category": "espacio",
+      "question": "¿Qué planeta enano, ubicado en el cinturón de Kuiper, es famoso por poseer un glaciar gigante en forma de corazón llamado oficialmente Región Tombaugh?",
+      "options": [
+        "Eris",
+        "Makemake",
+        "Haumea",
+        "Plutón"
+      ],
+      "answer_index": 3,
+      "fun_fact": "La Región Tombaugh en Plutón se llama así en honor a Clyde Tombaugh, el astrónomo estadounidense que descubrió Plutón en 1930.",
+      "difficulty": "difícil"
+    },
+    {
+      "category": "historia",
+      "question": "El Código de Hammurabi, uno de los escritos descifrados de considerable longitud más antiguos del mundo, se originó en ¿qué civilización antigua?",
+      "options": [
+        "Antigua Grecia",
+        "Antiguo Egipto",
+        "La República romana",
+        "Babilonia"
+      ],
+      "answer_index": 3,
+      "fun_fact": "Inscrito en una enorme estela de basalto, el Código de Hammurabi es famoso por sus estrictas penas legales regidas por la regla de 'ojo por ojo'.",
+      "difficulty": "difícil"
+    }
+  ]
+}
